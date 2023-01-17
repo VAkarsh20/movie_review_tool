@@ -1,0 +1,71 @@
+title: "8 Mile (film)"
+rating: 10.0
+review {
+  direction {
+    director {
+      name: "Curtis Hanson"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Eminem"
+      comments: " from Eminem ()"
+    }
+    actor {
+      name: "Mekhi Phifer"
+      comments: " from Mekhi Phifer ()"
+    }
+    actor {
+      name: "Brittany Murphy"
+      comments: " from Brittany Murphy ()"
+    }
+    actor {
+      name: "Kim Basinger"
+      comments: " from Kim Basinger ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting ()"
+  }
+  story {
+    writer {
+      name: "Scott Silver"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Scott Silver"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Eminem"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Rodrigo Prieto"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Jay RabinowitzCraig Kitson"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}

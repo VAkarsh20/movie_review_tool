@@ -1,0 +1,72 @@
+syntax = "proto3";
+
+message Movie {
+    string title = 1;
+    double rating = 2;
+    optional Review review = 3;
+
+    message Review {
+        
+        message Person {
+            string name = 1;
+            optional string imdb_id = 2;
+            optional string comments = 3;
+        }
+
+        message Direction {
+            repeated Person director = 1;
+            optional string comments = 2;
+        }
+        
+        message Acting {
+            repeated Person actor = 1;
+            optional string cast = 2;
+            optional string comments = 3;
+        }
+        
+        message Story {
+            repeated Person writer = 1;
+            optional string comments = 2;
+        }
+
+        message Screenplay {
+            repeated Person writer = 1;
+            optional string comments = 2;
+        }
+
+        message Score {
+            repeated Person composer = 1;
+            optional string comments = 2;
+        }
+
+        message Cinematography {
+            repeated Person cinematographer = 1;
+            optional string comments = 2;
+        }
+
+        message Editing {
+            repeated Person editor = 1;
+            optional string comments = 2;
+        }
+
+        Direction direction = 1;
+        Acting acting = 2;
+        Story story = 3;
+        Screenplay screenplay = 4;
+        Score score = 5;
+        optional Cinematography cinematography = 6;
+        optional string sound = 7;
+        Editing editing = 8;
+        optional string visual_effects = 9;
+        optional string production_design = 10;
+        optional string makeup = 11;
+        optional string costumes = 12;
+        optional string plot_structure = 13;
+        optional string pacing = 14;
+        optional string climax = 15;
+        optional string tone = 16;
+        optional string final_notes = 17;
+        optional string overall = 18;
+    }
+}
+
