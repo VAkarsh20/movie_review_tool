@@ -65,7 +65,7 @@ def parse_acting():
     acting.cast = "from the rest of the cast ()"
 
     # Overall Comments on Acting
-    acting.comments = " Acting ()"
+    acting.comments = " Acting "
 
     return acting
 
