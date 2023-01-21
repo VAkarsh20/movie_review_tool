@@ -209,7 +209,7 @@ def create_proto():
     )
 
     # creating the review object from the fields already initialized
-    movie = movie_pb2.Movie(title=title, rating=10.0, review=review)
+    movie = movie_pb2.Movie(title=title, rating=0.0, review=review)
 
     return movie
 
