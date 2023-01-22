@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import requests
 import sys
 from google.protobuf import text_format
+from sheets import post_to_sheets, reviews_sorted
 
 
 # Taken from https://www.geeksforgeeks.org/web-scraping-from-wikipedia-using-python-a-complete-guide/
@@ -225,75 +226,75 @@ def read_proto(filename):
 
 def proto_to_string(proto):
 
-    res = ""
+    review = ""
     
     # Direction
-    res += proto.review.direction.comments + ", "
+    review += proto.review.direction.comments + ", "
     
     # Acting
     acting = proto.review.acting.comments + " ("
     for actor in proto.review.acting.actor:
         acting += actor.comments + ", "
     acting += proto.review.acting.cast + ")"
-    res += acting + ", "
+    review += acting + ", "
 
     # Story
-    res += proto.review.story.comments + ", "
+    review += proto.review.story.comments + ", "
 
     # Screenplay
-    res += proto.review.screenplay.comments + ", "
+    review += proto.review.screenplay.comments + ", "
 
     # Score
-    res += proto.review.score.comments + ", "
+    review += proto.review.score.comments + ", "
     
     # Cinematography
-    res += proto.review.cinematography.comments + ", "
+    review += proto.review.cinematography.comments + ", "
 
     # Sound
     if proto.review.sound != "":
-        res += proto.review.sound + ", "
+        review += proto.review.sound + ", "
 
     # Editing
-    res += proto.review.editing.comments + ", "
+    review += proto.review.editing.comments + ", "
     
     # Visual Effects
     if proto.review.visual_effects != "":
-        res += proto.review.visual_effects + ", "
+        review += proto.review.visual_effects + ", "
     
     # Production Design
     if proto.review.production_design != "":
-        res += proto.review.production_design + ", "
+        review += proto.review.production_design + ", "
 
     # Makeup
     if proto.review.makeup != "":
-        res += proto.review.makeup + ", "
+        review += proto.review.makeup + ", "
 
     # Costumes
     if proto.review.costumes != "":
-        res += proto.review.costumes + ", "
+        review += proto.review.costumes + ", "
 
     # Plot Structure
-    res += proto.review.plot_structure + ", "
+    review += proto.review.plot_structure + ", "
     
     # Pacing
-    res += proto.review.plot_structure + ", "
+    review += proto.review.plot_structure + ", "
 
     # Climax
-    res += proto.review.climax + ", "
+    review += proto.review.climax + ", "
 
     # Tone
-    res += proto.review.tone + ", "
+    review += proto.review.tone + ", "
     
     # Final Notes
     if proto.review.final_notes != "":
-        res += proto.review.final_notes
+        review += proto.review.final_notes
 
-    res = res.rstrip(", ")
-    res += ". "
+    review = review.rstrip(", ")
+    review += ". "
 
-    res += proto.review.overall + "."
+    review += proto.review.overall + "."
 
-    return res
+    post_to_sheets(proto.title, proto.rating, review)
 
 if __name__=="__main__":
     
@@ -302,11 +303,14 @@ if __name__=="__main__":
     if argc == 1 or sys.argv[1] == "create_proto":
         movie = create_proto()
         write_proto(movie)
-        
+
+    elif sys.argv[1] == "reviews_sorted":
+        print(reviews_sorted())   
+    
     elif sys.argv[1] == "proto_to_string":
 
         filename = input("What is the name of the movie?\n")
         proto = read_proto(filename)
-        print(proto_to_string(proto))
+        proto_to_string(proto)
     else:
         print("Invalid input. Please try again.")

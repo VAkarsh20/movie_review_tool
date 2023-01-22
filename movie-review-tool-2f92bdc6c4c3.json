@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "movie-review-tool",
+  "private_key_id": "2f92bdc6c4c31d4ae524f7871767d73a5a7197b8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmLWISKtXeoqJ2\nChngjFuaavLxVTqFlX0VIO5T1LSDoARHnIl38WtjTBJuU1wbh7YbdVit1QlZeZ7c\nhU18GBu2zgBfpdOWFOMM4R/JAHDJBO0pahsh5WLfmJrrru3KYtnYtYLFOnn+35Kr\n2KsdvVFMsKKjlJYU2wISMSj7PoFzehjMf+gh6X0G/PnibVzhM14ZEt4NXQKU8t3w\nubTy8HZc23q+IJk6NupSa1GaMZ57takYqTt3BEs8cx08djr69xoPQ46+f8sWBwRW\nYcooBnP4q5fsNaiutrH1dfXugHv+P/9+g1iN7zrLb4LpxMpE1Vpjd/xKS+bH3AaY\niicVymP9AgMBAAECggEAI3LccBQvrc/DOMt0VDSUyObGHumns33dYi+1b3AZNtfg\neddAcvPuzM6aQuso452KYSah7Wkb1ritRQzxp8ZryQ3+QekZrvMTMTjn4ySjKpqQ\nrew6z/sDIcAH0j1tb+Yw4vvrYr/T7OUMAHkWnaA4UtP+ScdlUZsbgL54Z8ogar25\nvC/lbqUbwJKFJf77pe4uAINtS+NmzYHNwvhiFARAvvIWLxIl9LP4X9I8bZDpga9w\nbk8okxgWKWaQVk+fXHyYqTfk6vip4/yO4iG6YWNIGBA27sJaPEy4TjRhnsx8Pth8\njTOvcnN8xQvlpgk4u7eFwm4erO4NPqEGndBL3xIoqQKBgQDTo1o9h0l6wikgmOz6\nkmeQPWhU3/vAAZL2pRgxsFS2smbSfgevK/NOLDrdrYZCtmyaRlvpJ+KyoFyGpRhi\nuWPiY2CA83DNH/KCMPn3vk70vcRtGyBO7KMs0w6s6KiAO5uxRppF3Z4Ck+VhX5s1\nEa2kn1n0L8Nwfcv8ngjkAvjViQKBgQDJApJK/CR2diKy5rerI5RVylE4XgHW9LB7\nrZOkDtltJCcYpyYMOSRWRYSvmv5fXyUCbd7nr3z8AB2R2v8Wp8NwLyupR2ytKv8x\nCUW8GSSceyXiZk21hg1Dxc/ximrXWwDc9m24GC1Ofgk1ps3Xc76R9EK1LvgauBd/\nFqDkTfWx1QKBgAoj1XsFNFwRWW8aZKBMy3F5v7nxUVqNuMDggBxBWo22Vn7XUv7t\nmCayr89XNQuVOfbaUCUHqDDuxgAdgOGaCFMcd8812r25PiFGv3NDRv0q6nJfzlh5\ntge7xQQ70XbzZC5GN7YJPDzbYS4dKo6MXkl46RJuB2soW9GqsLpb+hghAoGAIc2B\n5oRCaX1yVl2AM5J3JnowcGc2rfxWFWZaNrOcksMKpBWvy0xstOlZ5+ILtuQcKC1r\n19BmF0a5skZ+sUOjFSGJmRz+xJw/b/KcPIaJ5pq7AzirBsS1RFlmn7rkPrT6Dy6N\nwvCl5dZCHDih0wKO4KKP+UIdzPh6Uw/uHJaTo8UCgYBHa9qlP35E94OA251Oi5GF\nhHMWQ1fmP0gnusAoCIFuHJfvU1qPTZFB5NWJj5F9fpJFCjQk4naLGznOwFU2zJ/b\nnolm7rT6gS4sttUTmTYT4D6huYZTLBFMfbN3XeyWXXWLKEveqB1F648OIICjGqHp\nSxvGEEvi+kx3PJgNrzQR3g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "akarsh@movie-review-tool.iam.gserviceaccount.com",
+  "client_id": "106733679519018685023",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/akarsh%40movie-review-tool.iam.gserviceaccount.com"
+}
