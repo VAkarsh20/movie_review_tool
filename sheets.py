@@ -5,7 +5,7 @@ import pandas as pd
 def access_api():
     
     scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/auth/spreadsheets',"https://www.googleapis.com/auth/drive.file","https://www.googleapis.com/auth/drive"]
-    creds = ServiceAccountCredentials.from_json_keyfile_name("movie-review-tool-2f92bdc6c4c3.json", scope)
+    creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json", scope)
     return gspread.authorize(creds)
 
 
