@@ -1,0 +1,54 @@
+title: "Glass Onion: A Knives Out Mystery"
+rating: 8.6
+review {
+  direction {
+    director {
+      name: "Rian Johnson"
+    }
+    comments: "Good Direction (Keeps a very similiar style to the previous film as he moves the narrative in a similar way and is able to get the most out of his actors again)"
+  }
+  acting {
+    cast: "The cast as a whole works well off of each other as Daniel Craig acts as the voice of reason to get the most out of these flawed humans"
+    comments: "Very Good Acting"
+  }
+  story {
+    writer {
+      name: "Rian Johnson"
+    }
+    comments: "Good Story (The actual story is good and very on par to the first as the first, but the construction is a bit awkward with the story being told twice (just from different perspectives))"
+  }
+  screenplay {
+    writer {
+      name: "Rian Johnson"
+    }
+    comments: "Very Good Screenplay (The dialogue is very whitty and the comedic elements do hit; the symbolism and foreshadowing is one of the better parts of the movie as it helps make it a true Who-done-it; the elements of the screenplay that were very topical were very annoying to see as it talked about COVID (which got really annoying))"
+  }
+  score {
+    composer {
+      name: "Nathan Johnson"
+    }
+    comments: "Pretty Good Score (helped with setting the mood)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Steve Yedlin"
+    }
+    comments: "Very Good Cinematography (Helps with creating the mystery and suspense)"
+  }
+  sound: "Good Sound (Helps with creating the mystery and suspense)"
+  editing {
+    editor {
+      name: "Bob Ducsay"
+    }
+    comments: "Very Good Editing (Helped with creating mystery and the suspense)"
+  }
+  visual_effects: "Pretty Good Visual Effects (Not one of the focal points of the movie but is good at keeping the movie intersting)"
+  production_design: "Very Good Production Design (A stark contrast to the first film as that dealt more with wintery scenes while this movie tried to create a Summer vibe through its sets)"
+  costumes: "Good Costumes (Helps with creating that summer feel)"
+  plot_structure: "Plot Structure was kinda an issue with this movie as the movie tries to tell the story twice to show two different points of view (when the second point of view could have been half of the time as it mostly just drags the story)"
+  pacing: "Pacing was good for the most part (but 20 minutes of the movie could have been cut (especially when retelling the story)"
+  climax: "climax was very good as it helps build to show how flawed these characters are and how the truth is not super certain to be told"
+  tone: "tone is very similiar in style to the previous film as it is still a who-done-it (but there are flavors to make the movie have more of a happier and jollier feel with it being set in the summer)"
+  overall: "Overall, a sequel that is pretty on par with the first as it takes many aspects (like the overall who-done-it style for a cast of flawed characters) while still trying to be different (like giving it more of a Summer feel), but does not live up entirely as the story construction (especially the retelling of the story) and topical nature of the movie (bringing up COVID) holds it back a bit"
+}
+release_year: 2022
