@@ -4,6 +4,9 @@ message Movie {
     string title = 1;
     double rating = 2;
     optional Review review = 3;
+    int32 release_year = 4;
+    optional string review_date = 5;
+    optional bool redux = 6;
 
     message Review {
         

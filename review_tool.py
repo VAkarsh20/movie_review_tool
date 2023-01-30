@@ -6,6 +6,8 @@ import requests
 import sys
 from google.protobuf import text_format
 from sheets import post_to_sheets, reviews_sorted
+from datetime import date
+from letterboxd import LetterboxdBot
 
 
 # Taken from https://www.geeksforgeeks.org/web-scraping-from-wikipedia-using-python-a-complete-guide/
@@ -154,7 +156,6 @@ def parse_editing():
 def create_proto():
 
     title = ""
-
     # Parse Wikipedia
     global infobox 
     parsed_wikipedia = False
@@ -164,6 +165,11 @@ def create_proto():
             title = input("What is the film title?\n")
             wiki_title = title.replace(" ", "_")
             infobox = parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
+            
+            # Change the film title if it has a (film) tag end the end of the wikipedia search
+            if title.endswith("film)"):
+                title = title[:title.rfind(' (')]
+            
             parsed_wikipedia = True
         except:
             print("Film not found. Please try again.")
@@ -209,15 +215,22 @@ def create_proto():
         overall=overall
     )
 
-    # creating the review object from the fields already initialized
-    movie = movie_pb2.Movie(title=title, rating=0.0, review=review)
+    # Find the release year for the movie
+    release_year = int(infobox["Release dates"][0].split('\xa0')[2])
 
+    # Set the review date
+    today = date.today()
+    review_date = "{}/{}/{}".format(today.month, today.day, today.year) 
+
+    # creating the review object from the fields already initialized
+    movie = movie_pb2.Movie(title=title, rating=0.0, review=review, release_year=release_year, review_date=review_date)
     return movie
 
 def write_proto(proto):
-    with open("movies_textproto/" + proto.title + ".textproto", "w") as fd:
+    with open("movies_textproto/" + proto.title + " ({})".format(proto.release_year) + ".textproto", "w") as fd:
         text_proto = text_format.MessageToString(proto)
         fd.write(text_proto)
+
 def read_proto(filename):
     with open("movies_textproto/" + filename + ".textproto", "r") as fd:
         text_proto = fd.read()
@@ -312,5 +325,16 @@ if __name__=="__main__":
         filename = input("What is the name of the movie?\n")
         proto = read_proto(filename)
         proto_to_string(proto)
+    elif sys.argv[1] == "post_to_letterboxd":
+        
+        filename = input("What is the name of the movie?\n")
+        username = input("What is your username?\n")
+        password = input("What is your password?\n")
+        
+        proto = read_proto(filename)
+        letterboxd_bot = LetterboxdBot()
+        letterboxd_bot.login(username, password)
+        letterboxd_bot.log_film(proto)
+
     else:
         print("Invalid input. Please try again.")
