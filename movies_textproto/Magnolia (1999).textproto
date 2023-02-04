@@ -1,0 +1,110 @@
+title: "Magnolia"
+rating: 7.9
+review {
+  direction {
+    director {
+      name: "Paul Thomas Anderson"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Jeremy Blackman"
+      comments: " from Jeremy Blackman ()"
+    }
+    actor {
+      name: "Tom Cruise"
+      comments: " from Tom Cruise ()"
+    }
+    actor {
+      name: "Melinda Dillon"
+      comments: " from Melinda Dillon ()"
+    }
+    actor {
+      name: "Philip Baker Hall"
+      comments: " from Philip Baker Hall ()"
+    }
+    actor {
+      name: "Philip Seymour Hoffman"
+      comments: " from Philip Seymour Hoffman ()"
+    }
+    actor {
+      name: "Ricky Jay"
+      comments: " from Ricky Jay ()"
+    }
+    actor {
+      name: "William H. Macy"
+      comments: " from William H. Macy ()"
+    }
+    actor {
+      name: "Alfred Molina"
+      comments: " from Alfred Molina ()"
+    }
+    actor {
+      name: "Julianne Moore"
+      comments: " from Julianne Moore ()"
+    }
+    actor {
+      name: "Michael Murphy"
+      comments: " from Michael Murphy ()"
+    }
+    actor {
+      name: "John C. Reilly"
+      comments: " from John C. Reilly ()"
+    }
+    actor {
+      name: "Jason Robards"
+      comments: " from Jason Robards ()"
+    }
+    actor {
+      name: "Melora Walters"
+      comments: " from Melora Walters ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Paul Thomas Anderson"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Paul Thomas Anderson"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Jon Brion"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Robert Elswit"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Dylan Tichenor"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1999
+review_date: "08/09/2021"
+redux: false

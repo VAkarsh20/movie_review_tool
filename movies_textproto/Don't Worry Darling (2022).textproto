@@ -1,0 +1,92 @@
+title: "Don\'t Worry Darling"
+rating: 4.1
+review {
+  direction {
+    director {
+      name: "Olivia Wilde"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Florence Pugh"
+      comments: " from Florence Pugh ()"
+    }
+    actor {
+      name: "Harry Styles"
+      comments: " from Harry Styles ()"
+    }
+    actor {
+      name: "Olivia Wilde"
+      comments: " from Olivia Wilde ()"
+    }
+    actor {
+      name: "Gemma Chan"
+      comments: " from Gemma Chan ()"
+    }
+    actor {
+      name: "KiKi Layne"
+      comments: " from KiKi Layne ()"
+    }
+    actor {
+      name: "Nick Kroll"
+      comments: " from Nick Kroll ()"
+    }
+    actor {
+      name: "Chris Pine"
+      comments: " from Chris Pine ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Carey Van Dyke"
+    }
+    writer {
+      name: "Shane Van Dyke"
+    }
+    writer {
+      name: "Katie Silberman"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Katie Silberman"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Powell"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Matthew Libatique"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Affonso Gon\303\247alves"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "10/30/2022"
+redux: false

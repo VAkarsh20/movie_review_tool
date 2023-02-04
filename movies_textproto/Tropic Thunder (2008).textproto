@@ -1,0 +1,46 @@
+title: "Tropic Thunder"
+rating: 9.1
+review {
+  direction {
+    director {
+      name: "Ben Stiller"
+    }
+    comments: "Great Direction"
+  }
+  acting {
+    actor {
+      name: "Robert Downey Jr."
+      comments: "Incredible from Robert Downey Jr."
+    }
+    cast: "Very Good from the rest of the cast"
+    comments: "Very Good to Great Acting"
+  }
+  story {
+    writer {
+      name: "Ben Stiller"
+    }
+    writer {
+      name: "Justin Theroux"
+    }
+    comments: "Great Story (Extremely funny story that is effective satire to a core)"
+  }
+  screenplay {
+    writer {
+      name: "Justin Theroux"
+    }
+    writer {
+      name: "Ben Stiller"
+    }
+    writer {
+      name: "Etan Cohen"
+    }
+    comments: "Very Good Screenplay (Filled with jokes that are reeks of 00s esque comedy but still very funny and quotable)"
+  }
+  plot_structure: "Plot Structure was simple with very cheesy plot cliches yet still effective at mocking hollywood and oscars"
+  pacing: "Pacing was good"
+  climax: "Build to climax was very good"
+  overall: "Overall, a movie that is iconic for its edgy humor and star studded cast that was able to mock and make fun of the oscars so much that they could build an oscar campaign for RDJ, and actually get him a nomination (something legendary in itself)"
+}
+release_year: 2008
+review_date: "05/26/2021"
+redux: false

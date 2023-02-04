@@ -1,0 +1,81 @@
+title: "Blonde"
+rating: 1.5
+review {
+  direction {
+    director {
+      name: "Andrew Dominik"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Ana de Armas"
+      comments: " from Ana de Armas ()"
+    }
+    actor {
+      name: "Adrien Brody"
+      comments: " from Adrien Brody ()"
+    }
+    actor {
+      name: "Bobby Cannavale"
+      comments: " from Bobby Cannavale ()"
+    }
+    actor {
+      name: "Xavier Samuel"
+      comments: " from Xavier Samuel ()"
+    }
+    actor {
+      name: "Julianne Nicholson"
+      comments: " from Julianne Nicholson ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Andrew Dominik"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Andrew Dominik"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Nick Cave"
+    }
+    composer {
+      name: "Warren Ellis[2]"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Chayse Irvin"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Adam Robinson[1]"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "11/02/2022"
+redux: false

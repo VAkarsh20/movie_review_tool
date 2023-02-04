@@ -1,0 +1,100 @@
+title: "Nightmare Alley"
+rating: 8.7
+review {
+  direction {
+    director {
+      name: "Guillermo del Toro"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Bradley Cooper"
+      comments: " from Bradley Cooper ()"
+    }
+    actor {
+      name: "Cate Blanchett"
+      comments: " from Cate Blanchett ()"
+    }
+    actor {
+      name: "Toni Collette"
+      comments: " from Toni Collette ()"
+    }
+    actor {
+      name: "Willem Dafoe"
+      comments: " from Willem Dafoe ()"
+    }
+    actor {
+      name: "Richard Jenkins"
+      comments: " from Richard Jenkins ()"
+    }
+    actor {
+      name: "Rooney Mara"
+      comments: " from Rooney Mara ()"
+    }
+    actor {
+      name: "Ron Perlman"
+      comments: " from Ron Perlman ()"
+    }
+    actor {
+      name: "Mary Steenburgen"
+      comments: " from Mary Steenburgen ()"
+    }
+    actor {
+      name: "David Strathairn"
+      comments: " from David Strathairn ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Guillermo del Toro"
+    }
+    writer {
+      name: "Kim Morgan"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Guillermo del Toro"
+    }
+    writer {
+      name: "Kim Morgan"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Nathan Johnson"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Dan Laustsen"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Cam McLauchlin"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "03/15/2022"
+redux: false

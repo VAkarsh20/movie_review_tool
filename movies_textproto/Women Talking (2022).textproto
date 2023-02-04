@@ -1,0 +1,85 @@
+title: "Women Talking"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Sarah Polley"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Rooney Mara"
+      comments: " from Rooney Mara ()"
+    }
+    actor {
+      name: "Claire Foy"
+      comments: " from Claire Foy ()"
+    }
+    actor {
+      name: "Jessie Buckley"
+      comments: " from Jessie Buckley ()"
+    }
+    actor {
+      name: "Judith Ivey"
+      comments: " from Judith Ivey ()"
+    }
+    actor {
+      name: "Ben Whishaw"
+      comments: " from Ben Whishaw ()"
+    }
+    actor {
+      name: "Frances McDormand"
+      comments: " from Frances McDormand ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Sarah Polley"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Sarah Polley"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Hildur Gu\303\260nad\303\263ttir"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Luc Montpellier"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Christopher Donaldson"
+    }
+    editor {
+      name: "Roslyn Kalloo"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "02/02/2023"
+redux: false

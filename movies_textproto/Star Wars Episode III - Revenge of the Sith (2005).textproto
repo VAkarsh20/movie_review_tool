@@ -1,0 +1,97 @@
+title: "Star Wars: Episode III - Revenge of the Sith"
+rating: 9.5
+review {
+  direction {
+    director {
+      name: "George Lucas"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Ewan McGregor"
+      comments: " from Ewan McGregor ()"
+    }
+    actor {
+      name: "Natalie Portman"
+      comments: " from Natalie Portman ()"
+    }
+    actor {
+      name: "Hayden Christensen"
+      comments: " from Hayden Christensen ()"
+    }
+    actor {
+      name: "Ian McDiarmid"
+      comments: " from Ian McDiarmid ()"
+    }
+    actor {
+      name: "Samuel L. Jackson"
+      comments: " from Samuel L. Jackson ()"
+    }
+    actor {
+      name: "Christopher Lee"
+      comments: " from Christopher Lee ()"
+    }
+    actor {
+      name: "Anthony Daniels"
+      comments: " from Anthony Daniels ()"
+    }
+    actor {
+      name: "Kenny Baker"
+      comments: " from Kenny Baker ()"
+    }
+    actor {
+      name: "Frank Oz"
+      comments: " from Frank Oz ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "George Lucas"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "George Lucas"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Williams"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "David Tattersall"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Roger Barton"
+    }
+    editor {
+      name: "Ben Burtt"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2005
+review_date: "05/11/2022"
+redux: false

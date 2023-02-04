@@ -1,0 +1,80 @@
+title: "Sideways"
+rating: 9.1
+review {
+  direction {
+    director {
+      name: "Alexander Payne"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Paul Giamatti"
+      comments: " from Paul Giamatti ()"
+    }
+    actor {
+      name: "Thomas Haden Church"
+      comments: " from Thomas Haden Church ()"
+    }
+    actor {
+      name: "Virginia Madsen"
+      comments: " from Virginia Madsen ()"
+    }
+    actor {
+      name: "Sandra Oh"
+      comments: " from Sandra Oh ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Alexander Payne"
+    }
+    writer {
+      name: "Jim Taylor"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Alexander Payne"
+    }
+    writer {
+      name: "Jim Taylor"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Rolfe Kent"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Phedon Papamichael"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Kevin Tent"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2004
+review_date: "08/27/2021"
+redux: false

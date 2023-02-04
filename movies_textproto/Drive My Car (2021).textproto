@@ -1,0 +1,104 @@
+title: "Drive My Car"
+rating: 8.8
+review {
+  direction {
+    director {
+      name: "Ryusuke Hamaguchi"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Hidetoshi Nishijima"
+      comments: " from Hidetoshi Nishijima ()"
+    }
+    actor {
+      name: "T\305\215ko Miura"
+      comments: " from T\305\215ko Miura ()"
+    }
+    actor {
+      name: "Reika Kirishima"
+      comments: " from Reika Kirishima ()"
+    }
+    actor {
+      name: "Park Yu-rim"
+      comments: " from Park Yu-rim ()"
+    }
+    actor {
+      name: "Jin Dae-yeon"
+      comments: " from Jin Dae-yeon ()"
+    }
+    actor {
+      name: "Sonia Yuan\302\240[zh]"
+      comments: " from Sonia Yuan\302\240[zh] ()"
+    }
+    actor {
+      name: "Ahn Hwitae"
+      comments: " from Ahn Hwitae ()"
+    }
+    actor {
+      name: "Perry Dizon"
+      comments: " from Perry Dizon ()"
+    }
+    actor {
+      name: "Satoko Abe"
+      comments: " from Satoko Abe ()"
+    }
+    actor {
+      name: "Masaki Okada"
+      comments: " from Masaki Okada ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Ryusuke Hamaguchi"
+    }
+    writer {
+      name: "Takamasa Oe"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Ryusuke Hamaguchi"
+    }
+    writer {
+      name: "Takamasa Oe"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Eiko Ishibashi"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Hidetoshi Shinomiya"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Azusa Yamazaki"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "03/27/2022"
+redux: false

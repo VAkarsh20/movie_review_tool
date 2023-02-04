@@ -1,0 +1,82 @@
+title: "CODA"
+rating: 8.5
+review {
+  direction {
+    director {
+      name: "Sian Heder"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Emilia Jones"
+      comments: " from Emilia Jones ()"
+    }
+    actor {
+      name: "Eugenio Derbez"
+      comments: " from Eugenio Derbez ()"
+    }
+    actor {
+      name: "Troy Kotsur"
+      comments: " from Troy Kotsur ()"
+    }
+    actor {
+      name: "Ferdia Walsh-Peelo"
+      comments: " from Ferdia Walsh-Peelo ()"
+    }
+    actor {
+      name: "Daniel Durant"
+      comments: " from Daniel Durant ()"
+    }
+    actor {
+      name: "Marlee Matlin"
+      comments: " from Marlee Matlin ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Sian Heder"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Sian Heder"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Marius de Vries"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Paula Huidobro"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Geraud Brisson"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "01/01/2021"
+redux: false

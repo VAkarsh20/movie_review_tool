@@ -1,0 +1,62 @@
+title: "Ex Machina"
+rating: 8.7
+review {
+  direction {
+    director {
+      name: "Alex Garland"
+    }
+    comments: "Great Direction (Like the stylistic choices he made by interweaving the scenic shots/sets with the character's dialogue)"
+  }
+  acting {
+    actor {
+      name: "Domhnall Gleeson"
+      comments: "Pretty Good from Domhnall Gleeson"
+    }
+    actor {
+      name: "Oscar Isaac"
+      comments: "Very Good from Oscar Isaac"
+    }
+    actor {
+      name: "Alicia Vikander"
+      comments: "Very Good from Alicia Vikander"
+    }
+    cast: "Good from the rest of the cast"
+    comments: "Good Acting"
+  }
+  story {
+    writer {
+      name: "Alex Garland"
+    }
+    comments: "Great Story (Shows the effects of AI and actually putting trust into cognizant automata)"
+  }
+  screenplay {
+    writer {
+      name: "Alex Garland"
+    }
+    comments: "Very Good to Great Screenplay (While the movie was pretty spot on with some of the technical jargon/ideas, it also definitely forced in a lot of buzz words that no programmer/software engineer would ever say)"
+  }
+  score {
+    composer {
+      name: "Ben Salisbury"
+    }
+    composer {
+      name: "Geoff Barrow"
+    }
+    comments: "Great to Incredible use of the score in how it blended with the mood/feelings the audience has towards what is presented (especially when there is a heartbeat increasing to show the story becoming more tense)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Rob Hardy"
+    }
+    comments: "Great to Incredible Cinematography (espiecially how it it used the different intensities/colors of lighting to show the mood)"
+  }
+  visual_effects: "Incredible Visual Effects (especailly for a movie with a lower budget)"
+  production_design: "Incredible Production Design"
+  plot_structure: "Plot Structure was great"
+  pacing: "Pacing was good (Runtime was good)"
+  climax: "Build to the climax was great but the overall climax/resolution felt very off (even though the events of the movie were exactly how I expected/wanted to happen)"
+  overall: "Overall, a film that is very visually pleasing (an artsy movie that actually pulls it off very nicely) and well made that makes society question AI and how cognizant we should make Automata (definitely one of the better portrayals of this phenomenon), even if the film blows it more out of proportion/exaggerates the extent/ideas behind it"
+}
+release_year: 2014
+review_date: "05/30/2021"
+redux: false

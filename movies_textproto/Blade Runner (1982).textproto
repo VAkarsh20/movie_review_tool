@@ -1,0 +1,74 @@
+title: "Blade Runner"
+rating: 6.3
+review {
+  direction {
+    director {
+      name: "Ridley Scott"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Harrison Ford"
+      comments: " from Harrison Ford ()"
+    }
+    actor {
+      name: "Rutger Hauer"
+      comments: " from Rutger Hauer ()"
+    }
+    actor {
+      name: "Sean Young"
+      comments: " from Sean Young ()"
+    }
+    actor {
+      name: "Edward James Olmos"
+      comments: " from Edward James Olmos ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Hampton FancherDavid Peoples"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Hampton FancherDavid Peoples"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Vangelis"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Jordan Cronenweth"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Terry RawlingsMarsha Nakashima"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1982
+review_date: "07/15/2022"
+redux: false

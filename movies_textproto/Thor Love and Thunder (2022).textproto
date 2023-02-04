@@ -1,0 +1,104 @@
+title: "Thor: Love and Thunder"
+rating: 5.4
+review {
+  direction {
+    director {
+      name: "Taika Waititi"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Chris Hemsworth"
+      comments: " from Chris Hemsworth ()"
+    }
+    actor {
+      name: "Christian Bale"
+      comments: " from Christian Bale ()"
+    }
+    actor {
+      name: "Tessa Thompson"
+      comments: " from Tessa Thompson ()"
+    }
+    actor {
+      name: "Jaimie Alexander"
+      comments: " from Jaimie Alexander ()"
+    }
+    actor {
+      name: "Taika Waititi"
+      comments: " from Taika Waititi ()"
+    }
+    actor {
+      name: "Russell Crowe"
+      comments: " from Russell Crowe ()"
+    }
+    actor {
+      name: "Natalie Portman"
+      comments: " from Natalie Portman ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Taika Waititi"
+    }
+    writer {
+      name: "Jennifer Kaytin Robinson"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Taika Waititi"
+    }
+    writer {
+      name: "Jennifer Kaytin Robinson"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Michael Giacchino (score and themes)"
+    }
+    composer {
+      name: "Nami Melumad (score)"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Barry Idoine"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Matthew Schmidt"
+    }
+    editor {
+      name: "Peter S. Elliot"
+    }
+    editor {
+      name: "Tim Roche"
+    }
+    editor {
+      name: "Jennifer Vecchiarello"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "07/15/2022"
+redux: false

@@ -1,0 +1,60 @@
+title: "The Shawshank Redemption"
+rating: 9.7
+review {
+  direction {
+    director {
+      name: "Frank Darabont"
+    }
+    comments: "Incredible Direction"
+  }
+  acting {
+    actor {
+      name: "Tim Robbins"
+      comments: "Great from Tim Robbins"
+    }
+    actor {
+      name: "Morgan Freeman"
+      comments: "Great from Morgan Freeman"
+    }
+    cast: "Very Good to Great from the rest of the cast"
+    comments: "Great Acting"
+  }
+  story {
+    writer {
+      name: "Frank Darabont"
+    }
+    comments: "Brilliant Story (Beautiful Story that looks at the effects Prison has on a man)"
+  }
+  screenplay {
+    writer {
+      name: "Frank Darabont"
+    }
+    comments: "Brilliant Screenplay (Mixed with symbolism that drives the narrative forward)"
+  }
+  score {
+    composer {
+      name: "Thomas Newman"
+    }
+    comments: "Very Good to Great Score"
+  }
+  cinematography {
+    cinematographer {
+      name: "Roger Deakins"
+    }
+    comments: "Great Cinematography (Especially for how it was used as a tool to display symbolism)"
+  }
+  editing {
+    editor {
+      name: "Richard Francis-Bruce"
+    }
+    comments: "Good Editing"
+  }
+  plot_structure: "Plot Structure was good cause even though the passage of time was not that evident it helped add to the symbolism of losing life and sense of time in prison"
+  pacing: "Pacing was a bit on the slower side but consistent throughout; Runtime was used effectively even though it was a bit long because every scene is used effectively (very few scenes could be cut)"
+  climax: "The climax/twist was executed very effectively and shows the extent in which characters had to go to proclaim their freedom"
+  tone: "Emotions and mood were executed effectively because you really care for the subjects/scenes of the movie"
+  overall: "Overall, an incredibly beautiful story on the effects prison has on men (especially innocent men) as they have to come to terms with their lives as they are stripped away from their freedom and have to continue to find hope even though the system keeps on trying to strip it away from them (something that makes you care for the subjects and makes you cheer and cry for them); moreover, the film is 1/3 of the trio of 1994 that is the embodiment of cinema before that year (given by the story telling and feel of the movie being from the 50s-60s)"
+}
+release_year: 1994
+review_date: "06/05/2021"
+redux: false

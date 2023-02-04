@@ -6,9 +6,27 @@ import requests
 import sys
 from google.protobuf import text_format
 from sheets import post_to_sheets, reviews_sorted
-from datetime import date
+from datetime import datetime
 from letterboxd import LetterboxdBot
+import os
 
+def find_title_and_infobox():
+
+    # Parse Wikipedia
+    while True:
+        try: 
+            title = input("What is the film title?\n")
+            wiki_title = title.replace(" ", "_")
+            infobox = parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
+            
+            # Change the film title if it has a (film) tag end the end of the wikipedia search
+            if title.endswith("film)"):
+                title = title[:title.rfind(' (')]
+            
+            return title, infobox
+        except:
+            print("Film not found. Please try again.")
+    return None, None
 
 # Taken from https://www.geeksforgeeks.org/web-scraping-from-wikipedia-using-python-a-complete-guide/
 def parse_wiki(url):
@@ -35,7 +53,7 @@ def parse_wiki(url):
 
     return infobox
 
-def parse_direction():
+def parse_direction(infobox):
     
     # Create direction object
     direction = movie_pb2.Movie.Review.Direction()
@@ -52,7 +70,7 @@ def parse_direction():
     return direction
 
 
-def parse_acting():
+def parse_acting(infobox):
     
     # Create acting object
     acting = movie_pb2.Movie.Review.Acting()
@@ -68,12 +86,12 @@ def parse_acting():
     acting.cast = "from the rest of the cast ()"
 
     # Overall Comments on Acting
-    acting.comments = " Acting "
+    acting.comments = " Acting"
 
     return acting
 
 
-def parse_writing():
+def parse_writing(infobox):
     
     # Create writing object
     story = movie_pb2.Movie.Review.Story()
@@ -86,7 +104,7 @@ def parse_writing():
             writer.name = name
             story.writer.append(writer)
             screenplay.writer.append(writer)
-    else:
+    elif "Story by" in infobox and "Screenplay by" in infobox:
         for name in infobox["Story by"]:
             writer = movie_pb2.Movie.Review.Person()
             writer.name = name
@@ -96,16 +114,30 @@ def parse_writing():
             writer = movie_pb2.Movie.Review.Person()
             writer.name = name
             screenplay.writer.append(writer)
+    elif "Screenplay by" in infobox:
+        for name in infobox["Screenplay by"]:
+            writer = movie_pb2.Movie.Review.Person()
+            writer.name = name
+            story.writer.append(writer)
+            screenplay.writer.append(writer)
+    else:
+        story = None
+        screenplay = None
 
     # Add comments for the writing
-    story.comments = "Story ()"
-    screenplay.comments = "Screenplay ()"
+    if story != None and screenplay != None:
+        story.comments = "Story ()"
+        screenplay.comments = "Screenplay ()"
 
     return story, screenplay
 
 
-def parse_score():
+def parse_score(infobox):
     
+    # See if movie has a score
+    if "Music by" not in infobox:
+        return None
+
     # Create score object
     score = movie_pb2.Movie.Review.Score()
 
@@ -120,7 +152,11 @@ def parse_score():
 
     return score
 
-def parse_cinematography():
+def parse_cinematography(infobox):
+
+    # See if movie has cinematography
+    if "Cinematography" not in infobox:
+        return None
     
     # Create cinematography object
     cinematography = movie_pb2.Movie.Review.Cinematography()
@@ -137,7 +173,7 @@ def parse_cinematography():
     return cinematography
 
 
-def parse_editing():
+def parse_editing(infobox):
     
     # Create score object
     editing = movie_pb2.Movie.Review.Editing()
@@ -153,43 +189,40 @@ def parse_editing():
 
     return editing
 
-def create_proto():
-
-    title = ""
-    # Parse Wikipedia
-    global infobox 
-    parsed_wikipedia = False
+def find_release_year(infobox):
     
-    while not parsed_wikipedia:
-        try: 
-            title = input("What is the film title?\n")
-            wiki_title = title.replace(" ", "_")
-            infobox = parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
-            
-            # Change the film title if it has a (film) tag end the end of the wikipedia search
-            if title.endswith("film)"):
-                title = title[:title.rfind(' (')]
-            
-            parsed_wikipedia = True
-        except:
-            print("Film not found. Please try again.")
+    # Find the release year for the movie
+    release_key = "Release dates" if "Release dates" in infobox else "Release date"
+    release_year = infobox[release_key][0]
+    return int(release_year.split('\xa0')[2]) if '\xa0' in release_year else int(release_year.partition(", ")[-1].partition(" ")[0])
+
+def find_review_date():
+    
+    # Set the review date
+    today = datetime.now()
+    return "{}/{}/{}".format(today.strftime('%m'), today.strftime('%d'), today.strftime('%Y')) 
+
+def create_proto():
+    
+    # Find title
+    title, infobox = find_title_and_infobox()
 
     # Initializing all the fields
-    direction = parse_direction()
-    acting = parse_acting()
-    story, screenplay = parse_writing()
-    score = parse_score()
-    cinematography = parse_cinematography()
+    direction = parse_direction(infobox)
+    acting = parse_acting(infobox)
+    story, screenplay = parse_writing(infobox)
+    score = parse_score(infobox)
+    cinematography = parse_cinematography(infobox)
     sound = "Sound ()"
-    editing = parse_editing()
+    editing = parse_editing(infobox)
     visual_effects = "Visual Effects ()"
     production_design = "Production Design ()"
     makeup = "Makeup ()"
     costumes = "Costumes ()"
     plot_structure = "Plot Structure "
     pacing = "Pacing "
-    climax = "climax "
-    tone = "tone"
+    climax = "Climax "
+    tone = "Tone"
     final_notes = ""
     overall = "Overall, "
 
@@ -215,21 +248,32 @@ def create_proto():
         overall=overall
     )
 
-    # Find the release year for the movie
-    release_year = int(infobox["Release dates"][0].split('\xa0')[2])
+    # Get release year
+    release_year = find_release_year(infobox)
 
-    # Set the review date
-    today = date.today()
-    review_date = "{}/{}/{}".format(today.month, today.day, today.year) 
+    # Get review date
+    review_date = find_review_date()
 
     # creating the review object from the fields already initialized
-    movie = movie_pb2.Movie(title=title, rating=0.0, review=review, release_year=release_year, review_date=review_date)
-    return movie
+    return movie_pb2.Movie(title=title, rating=1.0, review=review, release_year=release_year, review_date=review_date, redux=False)
+    
+
+def create_proto_free():
+    title, infobox = find_title_and_infobox()
+    release_year = find_release_year(infobox)
+    review_date = find_review_date()
+    return movie_pb2.MovieFree(title=title, rating=1.0, review="", release_year=release_year, review_date=review_date, redux=False)
+
 
 def write_proto(proto):
-    with open("movies_textproto/" + proto.title + " ({})".format(proto.release_year) + ".textproto", "w") as fd:
-        text_proto = text_format.MessageToString(proto)
-        fd.write(text_proto)
+
+    filename = ("movies_textproto/" + proto.title + " ({})".format(proto.release_year) + ".textproto").replace(":","")
+    if not os.path.exists(filename):
+        with open(filename, "w") as fd:
+            text_proto = text_format.MessageToString(proto)
+            fd.write(text_proto)
+    else:
+        print("File already exists! Either choose different file or move current to redux.")
 
 def read_proto(filename):
     with open("movies_textproto/" + filename + ".textproto", "r") as fd:
@@ -239,75 +283,86 @@ def read_proto(filename):
 
 def proto_to_string(proto):
 
-    review = ""
+    review = []
     
     # Direction
-    review += proto.review.direction.comments + ", "
+    if proto.review.direction != "":
+        review.append(proto.review.direction.comments)
     
     # Acting
-    acting = proto.review.acting.comments + " ("
-    for actor in proto.review.acting.actor:
-        acting += actor.comments + ", "
-    acting += proto.review.acting.cast + ")"
-    review += acting + ", "
+    if proto.review.acting != "":
+        acting = proto.review.acting.comments + " ("
+        for actor in proto.review.acting.actor:
+            acting += actor.comments + ", "
+        acting += proto.review.acting.cast + ")"
+        review.append(acting)
 
     # Story
-    review += proto.review.story.comments + ", "
+    if proto.review.story.comments != "":
+        review.append(proto.review.story.comments)
 
     # Screenplay
-    review += proto.review.screenplay.comments + ", "
+    if proto.review.screenplay.comments != "":
+        review.append(proto.review.screenplay.comments)
 
     # Score
-    review += proto.review.score.comments + ", "
+    if proto.review.score.comments != "":
+        review.append(proto.review.score.comments)
     
     # Cinematography
-    review += proto.review.cinematography.comments + ", "
+    if proto.review.cinematography.comments != "":
+        review.append(proto.review.cinematography.comments)
 
     # Sound
     if proto.review.sound != "":
-        review += proto.review.sound + ", "
+        review.append(proto.review.sound)
 
     # Editing
-    review += proto.review.editing.comments + ", "
+    if proto.review.editing.comments != "":
+        review.append(proto.review.editing.comments)
     
     # Visual Effects
     if proto.review.visual_effects != "":
-        review += proto.review.visual_effects + ", "
+        review.append(proto.review.visual_effects)
     
     # Production Design
     if proto.review.production_design != "":
-        review += proto.review.production_design + ", "
+        review.append(proto.review.production_design)
 
     # Makeup
     if proto.review.makeup != "":
-        review += proto.review.makeup + ", "
+        review.append(proto.review.makeup)
 
     # Costumes
     if proto.review.costumes != "":
-        review += proto.review.costumes + ", "
+        review.append(proto.review.costumes)
 
     # Plot Structure
-    review += proto.review.plot_structure + ", "
+    if proto.review.plot_structure != "":
+        review.append(proto.review.plot_structure)
     
     # Pacing
-    review += proto.review.plot_structure + ", "
+    if proto.review.pacing != "":
+        review.append(proto.review.pacing)
 
     # Climax
-    review += proto.review.climax + ", "
+    if proto.review.climax != "":
+        review.append(proto.review.climax)
 
     # Tone
-    review += proto.review.tone + ", "
+    if proto.review.tone != "":
+        review.append(proto.review.tone)
     
     # Final Notes
     if proto.review.final_notes != "":
-        review += proto.review.final_notes
+        review.append(proto.review.final_notes)
 
-    review = review.rstrip(", ")
+    review = ", ".join(review)
     review += ". "
 
     review += proto.review.overall + "."
-
-    post_to_sheets(proto.title, proto.rating, review)
+    print(review)
+    # post_to_sheets(proto.title, proto.rating, review, proto.review_date)
 
 if __name__=="__main__":
     
@@ -315,6 +370,10 @@ if __name__=="__main__":
 
     if argc == 1 or sys.argv[1] == "create_proto":
         movie = create_proto()
+        write_proto(movie)
+
+    elif sys.argv[1] == "create_proto_free":
+        movie = create_proto_free()
         write_proto(movie)
 
     elif sys.argv[1] == "reviews_sorted":

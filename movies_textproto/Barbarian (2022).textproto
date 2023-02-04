@@ -1,0 +1,70 @@
+title: "Barbarian"
+rating: 7.2
+review {
+  direction {
+    director {
+      name: "Zach Cregger"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Georgina Campbell"
+      comments: " from Georgina Campbell ()"
+    }
+    actor {
+      name: "Bill Skarsg\303\245rd"
+      comments: " from Bill Skarsg\303\245rd ()"
+    }
+    actor {
+      name: "Justin Long"
+      comments: " from Justin Long ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Zach Cregger"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Zach Cregger"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Anna Drubich"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Zach Kuperstein"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Joe Murphy"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "11/09/2022"
+redux: false

@@ -1,0 +1,82 @@
+title: "Babylon"
+rating: 5.3
+review {
+  direction {
+    director {
+      name: "Damien Chazelle"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Brad Pitt"
+      comments: " from Brad Pitt ()"
+    }
+    actor {
+      name: "Margot Robbie"
+      comments: " from Margot Robbie ()"
+    }
+    actor {
+      name: "Diego Calva"
+      comments: " from Diego Calva ()"
+    }
+    actor {
+      name: "Jean Smart"
+      comments: " from Jean Smart ()"
+    }
+    actor {
+      name: "Jovan Adepo"
+      comments: " from Jovan Adepo ()"
+    }
+    actor {
+      name: "Li Jun Li"
+      comments: " from Li Jun Li ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Damien Chazelle"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Damien Chazelle"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Justin Hurwitz"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Linus Sandgren"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Tom Cross"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "01/11/2023"
+redux: false

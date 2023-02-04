@@ -1,0 +1,62 @@
+title: "Dead Poets Society"
+rating: 8.5
+review {
+  direction {
+    director {
+      name: "Peter Weir"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Robin Williams"
+      comments: " from Robin Williams ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Tom Schulman"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Tom Schulman"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Maurice Jarre"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "John Seale"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "William Anderson"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1989
+review_date: "11/10/2021"
+redux: false

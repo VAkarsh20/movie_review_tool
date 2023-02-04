@@ -1,0 +1,100 @@
+title: "Pulp Fiction"
+rating: 9.3
+review {
+  direction {
+    director {
+      name: "Quentin Tarantino"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "John Travolta"
+      comments: " from John Travolta ()"
+    }
+    actor {
+      name: "Samuel L. Jackson"
+      comments: " from Samuel L. Jackson ()"
+    }
+    actor {
+      name: "Uma Thurman"
+      comments: " from Uma Thurman ()"
+    }
+    actor {
+      name: "Harvey Keitel"
+      comments: " from Harvey Keitel ()"
+    }
+    actor {
+      name: "Tim Roth"
+      comments: " from Tim Roth ()"
+    }
+    actor {
+      name: "Amanda Plummer"
+      comments: " from Amanda Plummer ()"
+    }
+    actor {
+      name: "Maria de Medeiros"
+      comments: " from Maria de Medeiros ()"
+    }
+    actor {
+      name: "Ving Rhames"
+      comments: " from Ving Rhames ()"
+    }
+    actor {
+      name: "Eric Stoltz"
+      comments: " from Eric Stoltz ()"
+    }
+    actor {
+      name: "Rosanna Arquette"
+      comments: " from Rosanna Arquette ()"
+    }
+    actor {
+      name: "Christopher Walken"
+      comments: " from Christopher Walken ()"
+    }
+    actor {
+      name: "Bruce Willis"
+      comments: " from Bruce Willis ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Quentin Tarantino"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Quentin Tarantino"
+    }
+    comments: "Screenplay ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Andrzej Seku\305\202a"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Sally Menke"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1994
+review_date: "07/11/2021"
+redux: false

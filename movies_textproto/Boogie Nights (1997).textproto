@@ -1,0 +1,94 @@
+title: "Boogie Nights"
+rating: 8.1
+review {
+  direction {
+    director {
+      name: "Paul Thomas Anderson"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Mark Wahlberg"
+      comments: " from Mark Wahlberg ()"
+    }
+    actor {
+      name: "Julianne Moore"
+      comments: " from Julianne Moore ()"
+    }
+    actor {
+      name: "Burt Reynolds"
+      comments: " from Burt Reynolds ()"
+    }
+    actor {
+      name: "Don Cheadle"
+      comments: " from Don Cheadle ()"
+    }
+    actor {
+      name: "John C. Reilly"
+      comments: " from John C. Reilly ()"
+    }
+    actor {
+      name: "William H. Macy"
+      comments: " from William H. Macy ()"
+    }
+    actor {
+      name: "Heather Graham"
+      comments: " from Heather Graham ()"
+    }
+    actor {
+      name: "Nicole Parker"
+      comments: " from Nicole Parker ()"
+    }
+    actor {
+      name: "Philip Seymour Hoffman"
+      comments: " from Philip Seymour Hoffman ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Paul Thomas Anderson"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Paul Thomas Anderson"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Michael Penn"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Robert Elswit"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Dylan Tichenor"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1997
+review_date: "09/26/2022"
+redux: false

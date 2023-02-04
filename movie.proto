@@ -1,3 +1,5 @@
+// python3 -m grpc_tools.protoc -I . --python_out=. --grpc_python_out=. movie.proto
+
 syntax = "proto3";
 
 message Movie {
@@ -52,14 +54,14 @@ message Movie {
             optional string comments = 2;
         }
 
-        Direction direction = 1;
-        Acting acting = 2;
-        Story story = 3;
-        Screenplay screenplay = 4;
-        Score score = 5;
+        optional Direction direction = 1;
+        optional Acting acting = 2;
+        optional Story story = 3;
+        optional Screenplay screenplay = 4;
+        optional Score score = 5;
         optional Cinematography cinematography = 6;
         optional string sound = 7;
-        Editing editing = 8;
+        optional Editing editing = 8;
         optional string visual_effects = 9;
         optional string production_design = 10;
         optional string makeup = 11;
@@ -71,5 +73,15 @@ message Movie {
         optional string final_notes = 17;
         optional string overall = 18;
     }
+}
+
+// Free Format
+message MovieFree {
+    string title = 1;
+    double rating = 2;
+    optional string review = 3;
+    int32 release_year = 4;
+    optional string review_date = 5;
+    optional bool redux = 6;
 }
 

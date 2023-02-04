@@ -1,0 +1,82 @@
+title: "King Richard"
+rating: 8.6
+review {
+  direction {
+    director {
+      name: "Reinaldo Marcus Green"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Will Smith"
+      comments: " from Will Smith ()"
+    }
+    actor {
+      name: "Aunjanue Ellis"
+      comments: " from Aunjanue Ellis ()"
+    }
+    actor {
+      name: "Saniyya Sidney"
+      comments: " from Saniyya Sidney ()"
+    }
+    actor {
+      name: "Demi Singleton"
+      comments: " from Demi Singleton ()"
+    }
+    actor {
+      name: "Tony Goldwyn"
+      comments: " from Tony Goldwyn ()"
+    }
+    actor {
+      name: "Jon Bernthal"
+      comments: " from Jon Bernthal ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Zach Baylin"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Zach Baylin"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Kris Bowers"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Robert Elswit"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Pamela Martin"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "03/21/2022"
+redux: false

@@ -1,0 +1,35 @@
+title: "Demon Slayer: Mugen Train"
+rating: 8.4
+review {
+  direction {
+    director {
+      name: "Haruo Sotozaki"
+    }
+    comments: "Good Direction"
+  }
+  story {
+    writer {
+      name: "Ufotable"
+    }
+    comments: "Good to Very Good Story"
+  }
+  screenplay {
+    writer {
+      name: "Ufotable"
+    }
+    comments: "Very anime-esque Screenplay (But did have very emotional points that were carried out very well)"
+  }
+  score {
+    composer {
+      name: "Yuki KajiuraGo Shiina"
+    }
+    comments: "Good Score"
+  }
+  visual_effects: "Incredible Animation/Action Sequences"
+  pacing: " Pacing was very off considering first half was story and the second half was just an entire fight sequence"
+  climax: "The build-up to the end was great but the ending was very anticlimactic/poorly done"
+  overall: "Overall, even though I do not watch the show/anime, I thought it was a good movie and is a nice visual/change of pace movie to watch to get people back into theaters"
+}
+release_year: 2020
+review_date: "04/26/2021"
+redux: false

@@ -1,0 +1,85 @@
+title: "House of Gucci"
+rating: 4.6
+review {
+  direction {
+    director {
+      name: "Ridley Scott"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Lady Gaga"
+      comments: " from Lady Gaga ()"
+    }
+    actor {
+      name: "Adam Driver"
+      comments: " from Adam Driver ()"
+    }
+    actor {
+      name: "Jared Leto"
+      comments: " from Jared Leto ()"
+    }
+    actor {
+      name: "Jeremy Irons"
+      comments: " from Jeremy Irons ()"
+    }
+    actor {
+      name: "Salma Hayek"
+      comments: " from Salma Hayek ()"
+    }
+    actor {
+      name: "Al Pacino"
+      comments: " from Al Pacino ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Becky Johnston"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Becky Johnston"
+    }
+    writer {
+      name: "Roberto Bentivegna"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Harry Gregson-Williams"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Dariusz Wolski"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Claire Simpson"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "11/30/2021"
+redux: false

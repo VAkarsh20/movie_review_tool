@@ -1,0 +1,84 @@
+title: "Jaws"
+rating: 8.1
+review {
+  direction {
+    director {
+      name: "Steven Spielberg"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Roy Scheider"
+      comments: " from Roy Scheider ()"
+    }
+    actor {
+      name: "Robert Shaw"
+      comments: " from Robert Shaw ()"
+    }
+    actor {
+      name: "Richard Dreyfuss"
+      comments: " from Richard Dreyfuss ()"
+    }
+    actor {
+      name: "Lorraine Gary"
+      comments: " from Lorraine Gary ()"
+    }
+    actor {
+      name: "Murray Hamilton"
+      comments: " from Murray Hamilton ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Peter Benchley"
+    }
+    writer {
+      name: "Carl Gottlieb"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Peter Benchley"
+    }
+    writer {
+      name: "Carl Gottlieb"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Williams"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Bill Butler"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Verna Fields"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1975
+review_date: "06/28/2022"
+redux: false

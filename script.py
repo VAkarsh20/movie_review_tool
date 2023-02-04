@@ -1,7 +1,12 @@
+# Not Good Code! Including for people who want some ideas.
+
 import wikipedia
 import pandas as pd
 import numpy as np
-
+import review_tool
+import os
+import movie_pb2
+from google.protobuf import text_format
 
 def get_imdb_id(film):
 
@@ -59,5 +64,83 @@ def create_df():
     
     return df
 
+# def create_protos_from_csv(df):
+#     titles = df['Title'].to_list()
+
+#     for title in titles:
+#         proto = review_tool.create_proto(title)
+#         filename = ("movies_textproto/" + proto.title + " ({})".format(proto.release_year) + ".textproto").replace(":","")
+
+#         if not os.path.exists(filename): 
+#             review_tool.write_proto(proto)
+
+# Fix issue with protos not having rating and reviews
+def add_rating_and_review_date(df):
+
+    start = 167
+    end = len(df)
+
+    for i in range(start, end):
+
+        record = df.iloc[i]
+        title = record['Title']
+        
+        wiki_title = title.replace(" ", "_")
+        infobox = review_tool.parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
+
+        if title.endswith("film)"):
+            title = title[:title.rfind(' (')]
+
+        release_year = review_tool.find_release_year(infobox)    
+        filename = ("movies_textproto/" + title + " ({})".format(release_year) + ".textproto").replace(":","")
+
+        with open(filename, "r") as fd:
+            text_proto = fd.read()
+
+        proto = text_format.Parse(text_proto, movie_pb2.Movie())
+
+        proto.rating = record['Rating']
+        proto.review_date = record['Date']
+
+        review_tool.write_proto(proto)
+            
+
+def create_protos_free_from_csv(df):
+    
+    free_df = df[:166]
+    for i in range(len(free_df)):
+        
+        try: 
+            
+            record = free_df.iloc[i]
+            title = record['Title']
+            wiki_title = title.replace(" ", "_")
+            infobox = review_tool.parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
+
+            if title.endswith("film)"):
+                title = title[:title.rfind(' (')]
+            
+            proto = movie_pb2.MovieFree(
+                title = title, 
+                rating = record['Rating'], 
+                review = record['Review'], 
+                release_year = review_tool.find_release_year(infobox),
+                review_date = record['Date'], 
+                redux = False
+            )
+            
+        
+            filename = ("movies_textproto/" + proto.title + " ({})".format(proto.release_year) + ".textproto").replace(":","")
+            
+            if not os.path.exists(filename): 
+                review_tool.write_proto(proto)
+        except:
+            print("Issue with {}".format(i))
+            continue
+
 if __name__=="__main__":
-    print(create_df())
+    df = create_df()
+    # df.to_csv("movies.csv", index=False)
+    create_protos_from_csv(df)
+    # create_protos_free_from_csv(df)
+

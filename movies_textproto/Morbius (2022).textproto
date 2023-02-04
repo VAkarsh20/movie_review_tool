@@ -1,0 +1,88 @@
+title: "Morbius"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Daniel Espinosa"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Jared Leto"
+      comments: " from Jared Leto ()"
+    }
+    actor {
+      name: "Matt Smith"
+      comments: " from Matt Smith ()"
+    }
+    actor {
+      name: "Adria Arjona"
+      comments: " from Adria Arjona ()"
+    }
+    actor {
+      name: "Jared Harris"
+      comments: " from Jared Harris ()"
+    }
+    actor {
+      name: "Al Madrigal"
+      comments: " from Al Madrigal ()"
+    }
+    actor {
+      name: "Tyrese Gibson"
+      comments: " from Tyrese Gibson ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Matt Sazama"
+    }
+    writer {
+      name: "Burk Sharpless"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Matt Sazama"
+    }
+    writer {
+      name: "Burk Sharpless"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Jon Ekstrand"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Oliver Wood"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Pietro Scalia[1]"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "06/07/2022"
+redux: false

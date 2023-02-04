@@ -1,0 +1,46 @@
+title: "Lost in Translation"
+rating: 6.3
+review {
+  direction {
+    director {
+      name: "Sofia Coppola"
+    }
+    comments: "Decent Direction (with its best moments being the conversations between Scarjo and Murray)"
+  }
+  acting {
+    actor {
+      name: "Bill Murray"
+      comments: "Very Good from Bill Murray"
+    }
+    actor {
+      name: "Scarlett Johansson"
+      comments: "Good to Very Good from Scarlett Johansson"
+    }
+    cast: "There really wasn't a supporting cast for the movie"
+    comments: "Good to Very Good Acting"
+  }
+  story {
+    writer {
+      name: "Sofia Coppola"
+    }
+    comments: "Pretty Bad to Decent Story (The story was a decent concept but really nothing happens in this movie)"
+  }
+  screenplay {
+    writer {
+      name: "Sofia Coppola"
+    }
+    comments: "Pretty Bad to Decent Screenplay (The screenplay was meant to be awkward and being 'lost in translation' and it did capture that well, but I also felt that it made the movie very boring and dull because of it)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Lance Acord"
+    }
+    comments: "Good Cinematography (For the equipment and budget they had (But could be a bit off at times))"
+  }
+  pacing: "Pacing was constant and slow so nothing to complain"
+  final_notes: "The entire movie was basically just panning shots mixed with close ups of the actors faces plus improv dialogue in conversations; The symbolism and capturing the loneliness of being in a foreign country and finding love when you already have it was not as well captured as people say it is for this movie because I definitely feel that it was not displayed well enough (even if it was subtle)"
+  overall: "Overall, a movie that is pretty overrated as the movie is basically just shots of Japan that is mixed with good dialogue and scenes between Bill Murray and Scarjo, but in the end falters from its lack of story and very dull presentation (as it fails to capture to true aspects of loneliness)"
+}
+release_year: 2003
+review_date: "05/24/2021"
+redux: false

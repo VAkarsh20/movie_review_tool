@@ -1,0 +1,77 @@
+title: "Free Guy"
+rating: 7.3
+review {
+  direction {
+    director {
+      name: "Shawn Levy"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Ryan Reynolds"
+      comments: " from Ryan Reynolds ()"
+    }
+    actor {
+      name: "Jodie Comer"
+      comments: " from Jodie Comer ()"
+    }
+    actor {
+      name: "Lil Rel Howery"
+      comments: " from Lil Rel Howery ()"
+    }
+    actor {
+      name: "Taika Waititi"
+      comments: " from Taika Waititi ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Matt Lieberman"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Matt Lieberman"
+    }
+    writer {
+      name: "Zak Penn"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Christophe Beck"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "George Richmond"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Dean Zimmerman"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "07/05/2022"
+redux: false

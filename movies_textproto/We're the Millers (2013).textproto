@@ -1,0 +1,101 @@
+title: "We\'re the Millers"
+rating: 7.7
+review {
+  direction {
+    director {
+      name: "Rawson Marshall Thurber"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Jennifer Aniston"
+      comments: " from Jennifer Aniston ()"
+    }
+    actor {
+      name: "Jason Sudeikis"
+      comments: " from Jason Sudeikis ()"
+    }
+    actor {
+      name: "Emma Roberts"
+      comments: " from Emma Roberts ()"
+    }
+    actor {
+      name: "Will Poulter"
+      comments: " from Will Poulter ()"
+    }
+    actor {
+      name: "Nick Offerman"
+      comments: " from Nick Offerman ()"
+    }
+    actor {
+      name: "Kathryn Hahn"
+      comments: " from Kathryn Hahn ()"
+    }
+    actor {
+      name: "Ed Helms"
+      comments: " from Ed Helms ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Bob Fisher"
+    }
+    writer {
+      name: "Steve Faber"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Bob Fisher"
+    }
+    writer {
+      name: "Steve Faber"
+    }
+    writer {
+      name: "Sean Anders"
+    }
+    writer {
+      name: "John Morris"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Theodore Shapiro"
+    }
+    composer {
+      name: "Ludwig G\303\266ransson"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Barry Peterson"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Mike Sale"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2013
+review_date: "07/03/2022"
+redux: false

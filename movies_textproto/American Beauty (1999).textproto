@@ -1,0 +1,93 @@
+title: "American Beauty"
+rating: 9.5
+review {
+  direction {
+    director {
+      name: "Sam Mendes"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Kevin Spacey"
+      comments: " from Kevin Spacey ()"
+    }
+    actor {
+      name: "Annette Bening"
+      comments: " from Annette Bening ()"
+    }
+    actor {
+      name: "Thora Birch"
+      comments: " from Thora Birch ()"
+    }
+    actor {
+      name: "Mena Suvari"
+      comments: " from Mena Suvari ()"
+    }
+    actor {
+      name: "Wes Bentley"
+      comments: " from Wes Bentley ()"
+    }
+    actor {
+      name: "Allison Janney"
+      comments: " from Allison Janney ()"
+    }
+    actor {
+      name: "Peter Gallagher"
+      comments: " from Peter Gallagher ()"
+    }
+    actor {
+      name: "Chris Cooper"
+      comments: " from Chris Cooper ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Alan Ball"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Alan Ball"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Thomas Newman"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Conrad L. Hall"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Tariq Anwar"
+    }
+    editor {
+      name: "Christopher Greenbury"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1999
+review_date: "11/17/2021"
+redux: false

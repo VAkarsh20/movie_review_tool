@@ -1,0 +1,86 @@
+title: "Snatch"
+rating: 7.6
+review {
+  direction {
+    director {
+      name: "Guy Ritchie"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Jason Statham"
+      comments: " from Jason Statham ()"
+    }
+    actor {
+      name: "Stephen Graham"
+      comments: " from Stephen Graham ()"
+    }
+    actor {
+      name: "Brad Pitt"
+      comments: " from Brad Pitt ()"
+    }
+    actor {
+      name: "Benicio del Toro"
+      comments: " from Benicio del Toro ()"
+    }
+    actor {
+      name: "Dennis Farina"
+      comments: " from Dennis Farina ()"
+    }
+    actor {
+      name: "Vinnie Jones"
+      comments: " from Vinnie Jones ()"
+    }
+    actor {
+      name: "Rade \305\240erbed\305\276ija"
+      comments: " from Rade \305\240erbed\305\276ija ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Guy Ritchie"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Guy Ritchie"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Murphy"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Tim Maurice-Jones"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Jon Harris"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2000
+review_date: "07/18/2022"
+redux: false

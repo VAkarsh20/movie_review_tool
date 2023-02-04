@@ -1,0 +1,78 @@
+title: "28 Days Later"
+rating: 8.0
+review {
+  direction {
+    director {
+      name: "Danny Boyle"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Cillian Murphy"
+      comments: " from Cillian Murphy ()"
+    }
+    actor {
+      name: "Naomie Harris"
+      comments: " from Naomie Harris ()"
+    }
+    actor {
+      name: "Christopher Eccleston"
+      comments: " from Christopher Eccleston ()"
+    }
+    actor {
+      name: "Megan Burns"
+      comments: " from Megan Burns ()"
+    }
+    actor {
+      name: "Brendan Gleeson"
+      comments: " from Brendan Gleeson ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Alex Garland"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Alex Garland"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Murphy"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Anthony Dod Mantle"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Chris Gill"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2002
+review_date: "10/27/2021"
+redux: false

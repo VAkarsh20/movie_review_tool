@@ -1,0 +1,74 @@
+title: "Argo"
+rating: 9.0
+review {
+  direction {
+    director {
+      name: "Ben Affleck"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Ben Affleck"
+      comments: " from Ben Affleck ()"
+    }
+    actor {
+      name: "Bryan Cranston"
+      comments: " from Bryan Cranston ()"
+    }
+    actor {
+      name: "Alan Arkin"
+      comments: " from Alan Arkin ()"
+    }
+    actor {
+      name: "John Goodman"
+      comments: " from John Goodman ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Chris Terrio"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Chris Terrio"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Alexandre Desplat"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Rodrigo Prieto"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "William Goldenberg"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2012
+review_date: "07/11/2021"
+redux: false

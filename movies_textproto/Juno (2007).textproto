@@ -1,0 +1,82 @@
+title: "Juno"
+rating: 7.5
+review {
+  direction {
+    director {
+      name: "Jason Reitman"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Elliot Page[a]"
+      comments: " from Elliot Page[a] ()"
+    }
+    actor {
+      name: "Michael Cera"
+      comments: " from Michael Cera ()"
+    }
+    actor {
+      name: "Jennifer Garner"
+      comments: " from Jennifer Garner ()"
+    }
+    actor {
+      name: "Jason Bateman"
+      comments: " from Jason Bateman ()"
+    }
+    actor {
+      name: "Allison Janney"
+      comments: " from Allison Janney ()"
+    }
+    actor {
+      name: "J. K. Simmons"
+      comments: " from J. K. Simmons ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Diablo Cody"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Diablo Cody"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Mateo Messina"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Eric Steelberg"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Dana E. Glauberman"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2007
+review_date: "12/01/2021"
+redux: false

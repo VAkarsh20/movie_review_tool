@@ -1,0 +1,74 @@
+title: "No Country for Old Men"
+rating: 9.4
+review {
+  direction {
+    director {
+      name: "Joel CoenEthan Coen"
+    }
+    comments: "Incredible Direction"
+  }
+  acting {
+    actor {
+      name: "Tommy Lee Jones"
+      comments: "Great from Tommy Lee Jones"
+    }
+    actor {
+      name: "Javier Bardem"
+      comments: "Brilliant from Javier Bardem"
+    }
+    actor {
+      name: "Josh Brolin"
+      comments: "Very Good from Josh Brolin"
+    }
+    actor {
+      name: "Kelly MacDonald"
+      comments: "Very Good from Kelly MacDonald"
+    }
+    cast: "Very Good from the rest of the cast (Even though they can be dull at times)"
+    comments: "Great to Incredible Acting"
+  }
+  story {
+    writer {
+      name: "Joel Coen"
+    }
+    writer {
+      name: "Ethan Coen"
+    }
+    comments: "Incredible Story (Incredibly true to the source material (Like almost to a tee))"
+  }
+  screenplay {
+    writer {
+      name: "Joel Coen"
+    }
+    writer {
+      name: "Ethan Coen"
+    }
+    comments: "Incredible Screenplay (Extremely metaphorical in both dialogue and actions)"
+  }
+  score {
+    composer {
+      name: "Carter Burwell"
+    }
+    comments: "Score is very minimal (Stylistic choice)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Roger Deakins"
+    }
+    comments: "Great Cinematography"
+  }
+  sound: "Incredible Sound Editing/Mixing (Given the fact the movie relies entirely on sound)"
+  editing {
+    editor {
+      name: "Roderick Jaynes"
+    }
+    comments: "Great Editing"
+  }
+  pacing: "Pacing is a very slow steady pace (A slow burn time movie); Uses Runtime very well as every minute of the 2 hours is used effectively"
+  tone: "Tone is very monotonous and dull (Kinda a drawback for me)"
+  final_notes: "The gorey/violent scenes are extremely detailed and well made"
+  overall: "Overall, a movie that is extremely metaphorical in nature about the world moving towards an evil that the old cannot adapt to that is filled with Iconic Dialogue, Great Action moments, and Incredible performances that make the movie a must watch that is incredibly true to the source material, even the though the pace is very slow and the tone is very dull"
+}
+release_year: 2007
+review_date: "01/19/2021"
+redux: false

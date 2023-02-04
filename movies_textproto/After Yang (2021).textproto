@@ -1,0 +1,81 @@
+title: "After Yang"
+rating: 6.3
+review {
+  direction {
+    director {
+      name: "Kogonada"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Colin Farrell"
+      comments: " from Colin Farrell ()"
+    }
+    actor {
+      name: "Jodie Turner-Smith"
+      comments: " from Jodie Turner-Smith ()"
+    }
+    actor {
+      name: "Justin H. Min"
+      comments: " from Justin H. Min ()"
+    }
+    actor {
+      name: "Malea Emma Tjandrawidjaja"
+      comments: " from Malea Emma Tjandrawidjaja ()"
+    }
+    actor {
+      name: "Haley Lu Richardson"
+      comments: " from Haley Lu Richardson ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Kogonada"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Kogonada"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Aska Matsumiya"
+    }
+    composer {
+      name: "Ryuichi Sakamoto"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Benjamin Loeb"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Kogonada"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "01/12/2023"
+redux: false

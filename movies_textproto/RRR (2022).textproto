@@ -1,0 +1,94 @@
+title: "RRR"
+rating: 8.6
+review {
+  direction {
+    director {
+      name: "S. S. Rajamouli"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "N. T. Rama Rao Jr."
+      comments: " from N. T. Rama Rao Jr. ()"
+    }
+    actor {
+      name: "Ram Charan"
+      comments: " from Ram Charan ()"
+    }
+    actor {
+      name: "Ajay Devgn"
+      comments: " from Ajay Devgn ()"
+    }
+    actor {
+      name: "Alia Bhatt"
+      comments: " from Alia Bhatt ()"
+    }
+    actor {
+      name: "Shriya Saran"
+      comments: " from Shriya Saran ()"
+    }
+    actor {
+      name: "Samuthirakani"
+      comments: " from Samuthirakani ()"
+    }
+    actor {
+      name: "Ray Stevenson"
+      comments: " from Ray Stevenson ()"
+    }
+    actor {
+      name: "Alison Doody"
+      comments: " from Alison Doody ()"
+    }
+    actor {
+      name: "Olivia Morris"
+      comments: " from Olivia Morris ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "V. Vijayendra Prasad"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "S. S. Rajamouli"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "M. M. Keeravani"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "K. K. Senthil Kumar"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "A. Sreekar Prasad"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "01/10/2023"
+redux: false

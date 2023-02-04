@@ -1,0 +1,78 @@
+title: "Goodfellas"
+rating: 9.3
+review {
+  direction {
+    director {
+      name: "Martin Scorsese"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Robert De Niro"
+      comments: " from Robert De Niro ()"
+    }
+    actor {
+      name: "Ray Liotta"
+      comments: " from Ray Liotta ()"
+    }
+    actor {
+      name: "Joe Pesci"
+      comments: " from Joe Pesci ()"
+    }
+    actor {
+      name: "Lorraine Bracco"
+      comments: " from Lorraine Bracco ()"
+    }
+    actor {
+      name: "Paul Sorvino"
+      comments: " from Paul Sorvino ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Nicholas Pileggi"
+    }
+    writer {
+      name: "Martin Scorsese"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Nicholas Pileggi"
+    }
+    writer {
+      name: "Martin Scorsese"
+    }
+    comments: "Screenplay ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Michael Ballhaus"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Thelma Schoonmaker"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1990
+review_date: "11/23/2021"
+redux: false

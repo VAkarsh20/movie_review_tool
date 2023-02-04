@@ -1,0 +1,103 @@
+title: "Star Wars: Episode VI \342\200\223 Return of the Jedi"
+rating: 8.6
+review {
+  direction {
+    director {
+      name: "Richard Marquand"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Mark Hamill"
+      comments: " from Mark Hamill ()"
+    }
+    actor {
+      name: "Harrison Ford"
+      comments: " from Harrison Ford ()"
+    }
+    actor {
+      name: "Carrie Fisher"
+      comments: " from Carrie Fisher ()"
+    }
+    actor {
+      name: "Billy Dee Williams"
+      comments: " from Billy Dee Williams ()"
+    }
+    actor {
+      name: "Anthony Daniels"
+      comments: " from Anthony Daniels ()"
+    }
+    actor {
+      name: "David Prowse"
+      comments: " from David Prowse ()"
+    }
+    actor {
+      name: "Kenny Baker"
+      comments: " from Kenny Baker ()"
+    }
+    actor {
+      name: "Peter Mayhew"
+      comments: " from Peter Mayhew ()"
+    }
+    actor {
+      name: "Frank Oz"
+      comments: " from Frank Oz ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "George Lucas"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Lawrence Kasdan"
+    }
+    writer {
+      name: "George Lucas"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Williams"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Alan Hume"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Sean Barton"
+    }
+    editor {
+      name: "Marcia Lucas"
+    }
+    editor {
+      name: "Duwayne Dunham"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1983
+review_date: "08/28/2022"
+redux: false

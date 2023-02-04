@@ -1,0 +1,70 @@
+title: "Leaving Las Vegas"
+rating: 4.9
+review {
+  direction {
+    director {
+      name: "Mike Figgis"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Nicolas Cage"
+      comments: " from Nicolas Cage ()"
+    }
+    actor {
+      name: "Elisabeth Shue"
+      comments: " from Elisabeth Shue ()"
+    }
+    actor {
+      name: "Julian Sands"
+      comments: " from Julian Sands ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Mike Figgis"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Mike Figgis"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Anthony MarinelliMike Figgis[1]"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Declan Quinn"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "John Smith"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1995
+review_date: "07/25/2021"
+redux: false

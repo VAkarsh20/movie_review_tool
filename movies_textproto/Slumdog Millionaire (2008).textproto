@@ -1,0 +1,81 @@
+title: "Slumdog Millionaire"
+rating: 9.4
+review {
+  direction {
+    director {
+      name: "Danny Boyle"
+    }
+    director {
+      name: "Loveleen Tandan"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Dev Patel"
+      comments: " from Dev Patel ()"
+    }
+    actor {
+      name: "Freida Pinto"
+      comments: " from Freida Pinto ()"
+    }
+    actor {
+      name: "Madhur Mittal"
+      comments: " from Madhur Mittal ()"
+    }
+    actor {
+      name: "Anil Kapoor"
+      comments: " from Anil Kapoor ()"
+    }
+    actor {
+      name: "Irrfan Khan"
+      comments: " from Irrfan Khan ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Simon Beaufoy"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Simon Beaufoy"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "A. R. Rahman"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Anthony Dod Mantle"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Chris Dickens"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2008
+review_date: "08/01/2021"
+redux: false

@@ -1,0 +1,82 @@
+title: "Nope"
+rating: 8.4
+review {
+  direction {
+    director {
+      name: "Jordan Peele"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Daniel Kaluuya"
+      comments: " from Daniel Kaluuya ()"
+    }
+    actor {
+      name: "Keke Palmer"
+      comments: " from Keke Palmer ()"
+    }
+    actor {
+      name: "Steven Yeun"
+      comments: " from Steven Yeun ()"
+    }
+    actor {
+      name: "Michael Wincott"
+      comments: " from Michael Wincott ()"
+    }
+    actor {
+      name: "Brandon Perea"
+      comments: " from Brandon Perea ()"
+    }
+    actor {
+      name: "Keith David"
+      comments: " from Keith David ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Jordan Peele"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Jordan Peele"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Michael Abels"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Hoyte van Hoytema"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Nicholas Monsour"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "08/02/2022"
+redux: false

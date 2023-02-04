@@ -1,0 +1,82 @@
+title: "Home Alone"
+rating: 8.9
+review {
+  direction {
+    director {
+      name: "Chris Columbus"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Macaulay Culkin"
+      comments: " from Macaulay Culkin ()"
+    }
+    actor {
+      name: "Joe Pesci"
+      comments: " from Joe Pesci ()"
+    }
+    actor {
+      name: "Daniel Stern"
+      comments: " from Daniel Stern ()"
+    }
+    actor {
+      name: "John Heard"
+      comments: " from John Heard ()"
+    }
+    actor {
+      name: "Roberts Blossom"
+      comments: " from Roberts Blossom ()"
+    }
+    actor {
+      name: "Catherine O\'Hara"
+      comments: " from Catherine O\'Hara ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "John Hughes"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "John Hughes"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Williams"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Julio Macat"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Raja Gosnell"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1990
+review_date: "12/25/2021"
+redux: false

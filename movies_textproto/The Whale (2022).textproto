@@ -1,0 +1,78 @@
+title: "The Whale"
+rating: 7.2
+review {
+  direction {
+    director {
+      name: "Darren Aronofsky"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Brendan Fraser"
+      comments: " from Brendan Fraser ()"
+    }
+    actor {
+      name: "Sadie Sink"
+      comments: " from Sadie Sink ()"
+    }
+    actor {
+      name: "Hong Chau"
+      comments: " from Hong Chau ()"
+    }
+    actor {
+      name: "Ty Simpkins"
+      comments: " from Ty Simpkins ()"
+    }
+    actor {
+      name: "Samantha Morton"
+      comments: " from Samantha Morton ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Samuel D. Hunter"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Samuel D. Hunter"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Rob Simonsen"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Matthew Libatique"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Andrew Weisblum"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "01/04/2023"
+redux: false

@@ -1,0 +1,97 @@
+title: "John Wick"
+rating: 6.7
+review {
+  direction {
+    director {
+      name: "Chad Stahelski[a]"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Keanu Reeves"
+      comments: " from Keanu Reeves ()"
+    }
+    actor {
+      name: "Michael Nyqvist"
+      comments: " from Michael Nyqvist ()"
+    }
+    actor {
+      name: "Alfie Allen"
+      comments: " from Alfie Allen ()"
+    }
+    actor {
+      name: "Adrianne Palicki"
+      comments: " from Adrianne Palicki ()"
+    }
+    actor {
+      name: "Bridget Moynahan"
+      comments: " from Bridget Moynahan ()"
+    }
+    actor {
+      name: "Dean Winters"
+      comments: " from Dean Winters ()"
+    }
+    actor {
+      name: "Ian McShane"
+      comments: " from Ian McShane ()"
+    }
+    actor {
+      name: "John Leguizamo"
+      comments: " from John Leguizamo ()"
+    }
+    actor {
+      name: "Willem Dafoe"
+      comments: " from Willem Dafoe ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Derek Kolstad"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Derek Kolstad"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Tyler Bates"
+    }
+    composer {
+      name: "Joel J. Richard"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Jonathan Sela"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "El\303\255sabet Ronalds"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2014
+review_date: "08/21/2022"
+redux: false
