@@ -1,0 +1,93 @@
+title: "The Suicide Squad"
+rating: 8.7
+review {
+  direction {
+    director {
+      name: "James Gunn"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Margot Robbie"
+      comments: " from Margot Robbie ()"
+    }
+    actor {
+      name: "Idris Elba"
+      comments: " from Idris Elba ()"
+    }
+    actor {
+      name: "John Cena"
+      comments: " from John Cena ()"
+    }
+    actor {
+      name: "Joel Kinnaman"
+      comments: " from Joel Kinnaman ()"
+    }
+    actor {
+      name: "Sylvester Stallone"
+      comments: " from Sylvester Stallone ()"
+    }
+    actor {
+      name: "Viola Davis"
+      comments: " from Viola Davis ()"
+    }
+    actor {
+      name: "Jai Courtney"
+      comments: " from Jai Courtney ()"
+    }
+    actor {
+      name: "Peter Capaldi"
+      comments: " from Peter Capaldi ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "James Gunn"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "James Gunn"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Murphy"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Henry Braham"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Fred Raskin"
+    }
+    editor {
+      name: "Christian Wagner"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "08/24/2021"
+redux: false

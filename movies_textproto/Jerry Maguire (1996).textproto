@@ -1,0 +1,86 @@
+title: "Jerry Maguire"
+rating: 7.5
+review {
+  direction {
+    director {
+      name: "Cameron Crowe"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Tom Cruise"
+      comments: " from Tom Cruise ()"
+    }
+    actor {
+      name: "Cuba Gooding Jr."
+      comments: " from Cuba Gooding Jr. ()"
+    }
+    actor {
+      name: "Ren\303\251e Zellweger"
+      comments: " from Ren\303\251e Zellweger ()"
+    }
+    actor {
+      name: "Kelly Preston"
+      comments: " from Kelly Preston ()"
+    }
+    actor {
+      name: "Jerry O\'Connell"
+      comments: " from Jerry O\'Connell ()"
+    }
+    actor {
+      name: "Jay Mohr"
+      comments: " from Jay Mohr ()"
+    }
+    actor {
+      name: "Bonnie Hunt"
+      comments: " from Bonnie Hunt ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Cameron Crowe"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Cameron Crowe"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Nancy Wilson"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Janusz Kami\305\204ski"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Joe Hutshing"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1996
+review_date: "09/28/2022"
+redux: false

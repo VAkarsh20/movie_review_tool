@@ -1,0 +1,41 @@
+title: "Reservoir Dogs"
+rating: 8.6
+review {
+  direction {
+    director {
+      name: "Quentin Tarantino"
+    }
+    comments: "Good Direction"
+  }
+  acting {
+    cast: "By the whole cast (With Steve Buscemi and Harvey Keitel standing out the most)"
+    comments: "Good Acting"
+  }
+  story {
+    writer {
+      name: "Quentin Tarantino"
+    }
+    comments: "Good Story"
+  }
+  screenplay {
+    writer {
+      name: "Quentin Tarantino"
+    }
+    comments: "Great Screenplay (very Tarantino-esque)"
+  }
+  editing {
+    editor {
+      name: "Sally Menke"
+    }
+    comments: "Pretty Good Editing (Tarantino-esque)"
+  }
+  plot_structure: "Plot Structure is very minimal as the audience is thrown right at the end and they have to put pieces together throughout"
+  pacing: "Pacing was all over the place given the way the narrative was told (No fault really); very short runtime (which is fine because there is very little plot)"
+  climax: "There really isn't any climax to build too (No fault given that you start at the very end)"
+  tone: "The feel and style of the movie has a very similar feel to Usual Suspects (But I liked this one more)"
+  final_notes: "A lot of mistakes and misses which shows in Tarantino's first film (Definitely can see his growth throughout his career)"
+  overall: "Overall, a "Usual Suspects" type film that is a good watch with good moments as the audience gets to see a sloppy, amateur filmmaker that is looking to make a name for himself (in what became a great launching point for one of the best filmmakers ever)"
+}
+release_year: 1992
+review_date: "01/19/2021"
+redux: false

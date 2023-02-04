@@ -1,0 +1,84 @@
+title: "Avatar"
+rating: 7.8
+review {
+  direction {
+    director {
+      name: "James Cameron"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Sam Worthington"
+      comments: " from Sam Worthington ()"
+    }
+    actor {
+      name: "Zoe Saldana"
+      comments: " from Zoe Saldana ()"
+    }
+    actor {
+      name: "Stephen Lang"
+      comments: " from Stephen Lang ()"
+    }
+    actor {
+      name: "Michelle Rodriguez"
+      comments: " from Michelle Rodriguez ()"
+    }
+    actor {
+      name: "Sigourney Weaver"
+      comments: " from Sigourney Weaver ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "James Cameron"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "James Cameron"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "James Horner"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Mauro Fiore"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Stephen Rivkin"
+    }
+    editor {
+      name: "John Refoua"
+    }
+    editor {
+      name: "James Cameron"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2009
+review_date: "12/28/2022"
+redux: false

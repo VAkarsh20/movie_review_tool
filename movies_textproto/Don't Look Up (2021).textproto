@@ -1,0 +1,109 @@
+title: "Don\'t Look Up"
+rating: 7.8
+review {
+  direction {
+    director {
+      name: "Adam McKay"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Leonardo DiCaprio"
+      comments: " from Leonardo DiCaprio ()"
+    }
+    actor {
+      name: "Jennifer Lawrence"
+      comments: " from Jennifer Lawrence ()"
+    }
+    actor {
+      name: "Rob Morgan"
+      comments: " from Rob Morgan ()"
+    }
+    actor {
+      name: "Jonah Hill"
+      comments: " from Jonah Hill ()"
+    }
+    actor {
+      name: "Mark Rylance"
+      comments: " from Mark Rylance ()"
+    }
+    actor {
+      name: "Tyler Perry"
+      comments: " from Tyler Perry ()"
+    }
+    actor {
+      name: "Timoth\303\251e Chalamet"
+      comments: " from Timoth\303\251e Chalamet ()"
+    }
+    actor {
+      name: "Ron Perlman"
+      comments: " from Ron Perlman ()"
+    }
+    actor {
+      name: "Ariana Grande"
+      comments: " from Ariana Grande ()"
+    }
+    actor {
+      name: "Kid Cudi"
+      comments: " from Kid Cudi ()"
+    }
+    actor {
+      name: "Cate Blanchett"
+      comments: " from Cate Blanchett ()"
+    }
+    actor {
+      name: "Meryl Streep"
+      comments: " from Meryl Streep ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Adam McKay"
+    }
+    writer {
+      name: "David Sirota[1]"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Adam McKay"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Nicholas Britell"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Linus Sandgren"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Hank Corwin"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "01/06/2022"
+redux: false

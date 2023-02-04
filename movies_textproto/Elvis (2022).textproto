@@ -1,0 +1,109 @@
+title: "Elvis"
+rating: 7.3
+review {
+  direction {
+    director {
+      name: "Baz Luhrmann"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Austin Butler"
+      comments: " from Austin Butler ()"
+    }
+    actor {
+      name: "Tom Hanks"
+      comments: " from Tom Hanks ()"
+    }
+    actor {
+      name: "Olivia DeJonge"
+      comments: " from Olivia DeJonge ()"
+    }
+    actor {
+      name: "Helen Thomson"
+      comments: " from Helen Thomson ()"
+    }
+    actor {
+      name: "Richard Roxburgh"
+      comments: " from Richard Roxburgh ()"
+    }
+    actor {
+      name: "Kelvin Harrison Jr."
+      comments: " from Kelvin Harrison Jr. ()"
+    }
+    actor {
+      name: "David Wenham"
+      comments: " from David Wenham ()"
+    }
+    actor {
+      name: "Kodi Smit-McPhee"
+      comments: " from Kodi Smit-McPhee ()"
+    }
+    actor {
+      name: "Luke Bracey"
+      comments: " from Luke Bracey ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Baz Luhrmann"
+    }
+    writer {
+      name: "Jeremy Doner"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Baz Luhrmann[a]"
+    }
+    writer {
+      name: "Sam Bromell"
+    }
+    writer {
+      name: "Craig Pearce"
+    }
+    writer {
+      name: "Jeremy Doner"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Elliott Wheeler[1]"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Mandy Walker"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Matt Villa"
+    }
+    editor {
+      name: "Jonathan Redmond"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "07/07/2022"
+redux: false

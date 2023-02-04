@@ -1,0 +1,87 @@
+title: "The Fabelmans"
+rating: 8.5
+review {
+  direction {
+    director {
+      name: "Steven Spielberg"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Michelle Williams"
+      comments: " from Michelle Williams ()"
+    }
+    actor {
+      name: "Paul Dano"
+      comments: " from Paul Dano ()"
+    }
+    actor {
+      name: "Seth Rogen"
+      comments: " from Seth Rogen ()"
+    }
+    actor {
+      name: "Gabriel LaBelle"
+      comments: " from Gabriel LaBelle ()"
+    }
+    actor {
+      name: "Judd Hirsch"
+      comments: " from Judd Hirsch ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Steven Spielberg"
+    }
+    writer {
+      name: "Tony Kushner"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Steven Spielberg"
+    }
+    writer {
+      name: "Tony Kushner"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Williams"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Janusz Kami\305\204ski[1]"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Michael Kahn"
+    }
+    editor {
+      name: "Sarah Broshar"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "12/20/2022"
+redux: false

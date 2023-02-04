@@ -1,0 +1,126 @@
+title: "Dune"
+rating: 8.0
+review {
+  direction {
+    director {
+      name: "Denis Villeneuve"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Timoth\303\251e Chalamet"
+      comments: " from Timoth\303\251e Chalamet ()"
+    }
+    actor {
+      name: "Rebecca Ferguson"
+      comments: " from Rebecca Ferguson ()"
+    }
+    actor {
+      name: "Oscar Isaac"
+      comments: " from Oscar Isaac ()"
+    }
+    actor {
+      name: "Josh Brolin"
+      comments: " from Josh Brolin ()"
+    }
+    actor {
+      name: "Stellan Skarsg\303\245rd"
+      comments: " from Stellan Skarsg\303\245rd ()"
+    }
+    actor {
+      name: "Dave Bautista"
+      comments: " from Dave Bautista ()"
+    }
+    actor {
+      name: "Stephen McKinley Henderson"
+      comments: " from Stephen McKinley Henderson ()"
+    }
+    actor {
+      name: "Zendaya"
+      comments: " from Zendaya ()"
+    }
+    actor {
+      name: "David Dastmalchian"
+      comments: " from David Dastmalchian ()"
+    }
+    actor {
+      name: "Chang Chen"
+      comments: " from Chang Chen ()"
+    }
+    actor {
+      name: "Sharon Duncan-Brewster"
+      comments: " from Sharon Duncan-Brewster ()"
+    }
+    actor {
+      name: "Charlotte Rampling"
+      comments: " from Charlotte Rampling ()"
+    }
+    actor {
+      name: "Jason Momoa"
+      comments: " from Jason Momoa ()"
+    }
+    actor {
+      name: "Javier Bardem"
+      comments: " from Javier Bardem ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Jon Spaihts"
+    }
+    writer {
+      name: "Denis Villeneuve"
+    }
+    writer {
+      name: "Eric Roth"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Jon Spaihts"
+    }
+    writer {
+      name: "Denis Villeneuve"
+    }
+    writer {
+      name: "Eric Roth"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Hans Zimmer"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Greig Fraser"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Joe Walker"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "10/31/2021"
+redux: false

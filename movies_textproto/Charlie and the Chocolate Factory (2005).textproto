@@ -1,0 +1,94 @@
+title: "Charlie and the Chocolate Factory"
+rating: 8.4
+review {
+  direction {
+    director {
+      name: "Tim Burton"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Johnny Depp"
+      comments: " from Johnny Depp ()"
+    }
+    actor {
+      name: "Freddie Highmore"
+      comments: " from Freddie Highmore ()"
+    }
+    actor {
+      name: "David Kelly"
+      comments: " from David Kelly ()"
+    }
+    actor {
+      name: "Helena Bonham Carter"
+      comments: " from Helena Bonham Carter ()"
+    }
+    actor {
+      name: "Noah Taylor"
+      comments: " from Noah Taylor ()"
+    }
+    actor {
+      name: "Missi Pyle"
+      comments: " from Missi Pyle ()"
+    }
+    actor {
+      name: "James Fox"
+      comments: " from James Fox ()"
+    }
+    actor {
+      name: "Deep Roy"
+      comments: " from Deep Roy ()"
+    }
+    actor {
+      name: "Christopher Lee"
+      comments: " from Christopher Lee ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "John August"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "John August"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Danny Elfman"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Philippe Rousselot"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Chris Lebenzon"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2005
+review_date: "07/04/2022"
+redux: false

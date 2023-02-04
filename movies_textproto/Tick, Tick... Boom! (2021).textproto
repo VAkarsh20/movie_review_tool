@@ -1,0 +1,85 @@
+title: "Tick, Tick... Boom!"
+rating: 8.6
+review {
+  direction {
+    director {
+      name: "Lin-Manuel Miranda"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Andrew Garfield"
+      comments: " from Andrew Garfield ()"
+    }
+    actor {
+      name: "Alexandra Shipp"
+      comments: " from Alexandra Shipp ()"
+    }
+    actor {
+      name: "Robin de Jes\303\272s"
+      comments: " from Robin de Jes\303\272s ()"
+    }
+    actor {
+      name: "Joshua Henry"
+      comments: " from Joshua Henry ()"
+    }
+    actor {
+      name: "Judith Light"
+      comments: " from Judith Light ()"
+    }
+    actor {
+      name: "Vanessa Hudgens"
+      comments: " from Vanessa Hudgens ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Steven Levenson"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Steven Levenson"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Jonathan Larson"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Alice Brooks"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Myron Kerstein"
+    }
+    editor {
+      name: "Andrew Weisblum"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "01/06/2022"
+redux: false

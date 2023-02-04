@@ -1,0 +1,84 @@
+title: "Black Swan"
+rating: 9.1
+review {
+  direction {
+    director {
+      name: "Darren Aronofsky"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Natalie Portman"
+      comments: " from Natalie Portman ()"
+    }
+    actor {
+      name: "Vincent Cassel"
+      comments: " from Vincent Cassel ()"
+    }
+    actor {
+      name: "Mila Kunis"
+      comments: " from Mila Kunis ()"
+    }
+    actor {
+      name: "Barbara Hershey"
+      comments: " from Barbara Hershey ()"
+    }
+    actor {
+      name: "Winona Ryder"
+      comments: " from Winona Ryder ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Andres Heinz"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Mark Heyman"
+    }
+    writer {
+      name: "Andres Heinz"
+    }
+    writer {
+      name: "John McLaughlin"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Clint Mansell"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Matthew Libatique"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Andrew Weisblum"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2010
+review_date: "06/21/2021"
+redux: false

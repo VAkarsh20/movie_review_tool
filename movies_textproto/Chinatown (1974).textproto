@@ -1,0 +1,82 @@
+title: "Chinatown"
+rating: 9.2
+review {
+  direction {
+    director {
+      name: "Roman Polanski"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Jack Nicholson"
+      comments: " from Jack Nicholson ()"
+    }
+    actor {
+      name: "Faye Dunaway"
+      comments: " from Faye Dunaway ()"
+    }
+    actor {
+      name: "John Hillerman"
+      comments: " from John Hillerman ()"
+    }
+    actor {
+      name: "Perry Lopez"
+      comments: " from Perry Lopez ()"
+    }
+    actor {
+      name: "Burt Young"
+      comments: " from Burt Young ()"
+    }
+    actor {
+      name: "John Huston"
+      comments: " from John Huston ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Robert Towne"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Robert Towne"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Jerry Goldsmith"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "John A. Alonzo"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Sam O\'Steen"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1974
+review_date: "04/11/2022"
+redux: false

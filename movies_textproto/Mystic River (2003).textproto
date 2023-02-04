@@ -1,0 +1,65 @@
+title: "Mystic River"
+rating: 9.4
+review {
+  direction {
+    director {
+      name: "Clint Eastwood"
+    }
+    comments: "Great to Incredible Direction"
+  }
+  acting {
+    actor {
+      name: "Sean Penn"
+      comments: "Incredible from Sean Penn"
+    }
+    actor {
+      name: "Tim Robbins"
+      comments: "Great to Incredible from Tim Robbins"
+    }
+    cast: "Very Good to Great from the rest of the cast"
+    comments: "Great Acting"
+  }
+  story {
+    writer {
+      name: "Brian Helgeland"
+    }
+    comments: "Incredible Story (especially how it analyzes the effects of trauma on an individual)"
+  }
+  screenplay {
+    writer {
+      name: "Brian Helgeland"
+    }
+    comments: "Great Screenplay (With incredible moments and questionable moments)"
+  }
+  score {
+    composer {
+      name: "Clint Eastwood"
+    }
+    comments: "Decent Score"
+  }
+  cinematography {
+    cinematographer {
+      name: "Tom Stern"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Joel Cox"
+    }
+    comments: "Good Editing"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure was very good as there are two parallel stories to try and look for the killer (Though the development of Kevin Bacon's character was a bit confusing on how it was presented)"
+  pacing: "Pacing was on the slower side but pretty good overall; runtime was decent (but there were definitely scenes that could be cut as they were unnecessary, bout like 10-15 minutes worth)"
+  climax: "The build to the climax was great with the climax being incredible as well as the falling action and finding out the true story of the killing; the resolution was kinda poor and not carried out well"
+  final_notes: "One of the best portrayals of trauma and grief I have ever seen carried out"
+  overall: "Overall, a Great to Incredible movie that is one of the best presentations on the effects loss and trauma can have on people as the leads try to come to terms with what they have experienced, all symbolized in an very well carried out murder mystery"
+}
+release_year: 2003
+review_date: "05/28/2021"
+redux: false

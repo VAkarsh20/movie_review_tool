@@ -1,0 +1,116 @@
+title: "No Time to Die"
+rating: 8.4
+review {
+  direction {
+    director {
+      name: "Cary Joji Fukunaga"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Daniel Craig"
+      comments: " from Daniel Craig ()"
+    }
+    actor {
+      name: "Rami Malek"
+      comments: " from Rami Malek ()"
+    }
+    actor {
+      name: "L\303\251a Seydoux"
+      comments: " from L\303\251a Seydoux ()"
+    }
+    actor {
+      name: "Ana de Armas"
+      comments: " from Ana de Armas ()"
+    }
+    actor {
+      name: "Lashana Lynch"
+      comments: " from Lashana Lynch ()"
+    }
+    actor {
+      name: "Ben Whishaw"
+      comments: " from Ben Whishaw ()"
+    }
+    actor {
+      name: "Naomie Harris"
+      comments: " from Naomie Harris ()"
+    }
+    actor {
+      name: "Jeffrey Wright"
+      comments: " from Jeffrey Wright ()"
+    }
+    actor {
+      name: "Christoph Waltz"
+      comments: " from Christoph Waltz ()"
+    }
+    actor {
+      name: "Ralph Fiennes"
+      comments: " from Ralph Fiennes ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Neal Purvis"
+    }
+    writer {
+      name: "Robert Wade"
+    }
+    writer {
+      name: "Cary Joji Fukunaga"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Neal Purvis"
+    }
+    writer {
+      name: "Robert Wade"
+    }
+    writer {
+      name: "Cary Joji Fukunaga"
+    }
+    writer {
+      name: "Phoebe Waller-Bridge"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Hans Zimmer"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Linus Sandgren"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Elliot Graham"
+    }
+    editor {
+      name: "Tom Cross"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "03/25/2022"
+redux: false

@@ -1,0 +1,84 @@
+title: "Star Wars: Episode IV \342\200\223 A New Hope"
+rating: 9.5
+review {
+  direction {
+    director {
+      name: "George Lucas"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Mark Hamill"
+      comments: " from Mark Hamill ()"
+    }
+    actor {
+      name: "Harrison Ford"
+      comments: " from Harrison Ford ()"
+    }
+    actor {
+      name: "Carrie Fisher"
+      comments: " from Carrie Fisher ()"
+    }
+    actor {
+      name: "Peter Cushing"
+      comments: " from Peter Cushing ()"
+    }
+    actor {
+      name: "Alec Guinness"
+      comments: " from Alec Guinness ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "George Lucas"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "George Lucas"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Williams"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Gilbert Taylor"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Paul Hirsch"
+    }
+    editor {
+      name: "Marcia Lucas"
+    }
+    editor {
+      name: "Richard Chew"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1977
+review_date: "06/12/2022"
+redux: false

@@ -1,0 +1,69 @@
+title: "Saturday Night Fever"
+rating: 7.1
+review {
+  direction {
+    director {
+      name: "John Badham"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "John Travolta"
+      comments: " from John Travolta ()"
+    }
+    actor {
+      name: "Karen Gorney"
+      comments: " from Karen Gorney ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Norman Wexler"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Norman Wexler"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Bee Gees"
+    }
+    composer {
+      name: "David Shire"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Ralf D. Bode"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "David Rawlins"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1977
+review_date: "05/30/2022"
+redux: false

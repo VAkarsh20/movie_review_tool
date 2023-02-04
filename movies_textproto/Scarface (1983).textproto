@@ -1,0 +1,65 @@
+title: "Scarface"
+rating: 7.6
+review {
+  direction {
+    director {
+      name: "Brian De Palma"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Al Pacino"
+      comments: " from Al Pacino ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Oliver Stone"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Oliver Stone"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Giorgio Moroder"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "John A. Alonzo"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Jerry Greenberg"
+    }
+    editor {
+      name: "David Ray"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1983
+review_date: "07/01/2021"
+redux: false

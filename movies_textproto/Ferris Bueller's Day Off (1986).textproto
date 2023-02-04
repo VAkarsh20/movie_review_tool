@@ -1,0 +1,70 @@
+title: "Ferris Bueller\'s Day Off"
+rating: 8.0
+review {
+  direction {
+    director {
+      name: "John Hughes"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Matthew Broderick"
+      comments: " from Matthew Broderick ()"
+    }
+    actor {
+      name: "Mia Sara"
+      comments: " from Mia Sara ()"
+    }
+    actor {
+      name: "Alan Ruck"
+      comments: " from Alan Ruck ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "John Hughes"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "John Hughes"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Ira Newborn"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Tak Fujimoto"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Paul Hirsch"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1986
+review_date: "08/16/2021"
+redux: false

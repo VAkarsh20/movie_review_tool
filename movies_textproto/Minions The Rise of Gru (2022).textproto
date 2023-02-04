@@ -1,0 +1,91 @@
+title: "Minions: The Rise of Gru"
+rating: 6.1
+review {
+  direction {
+    director {
+      name: "Kyle Balda"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Steve Carell"
+      comments: " from Steve Carell ()"
+    }
+    actor {
+      name: "Pierre Coffin"
+      comments: " from Pierre Coffin ()"
+    }
+    actor {
+      name: "Taraji P. Henson"
+      comments: " from Taraji P. Henson ()"
+    }
+    actor {
+      name: "Lucy Lawless"
+      comments: " from Lucy Lawless ()"
+    }
+    actor {
+      name: "Dolph Lundgren"
+      comments: " from Dolph Lundgren ()"
+    }
+    actor {
+      name: "Danny Trejo"
+      comments: " from Danny Trejo ()"
+    }
+    actor {
+      name: "Jean-Claude Van Damme"
+      comments: " from Jean-Claude Van Damme ()"
+    }
+    actor {
+      name: "Julie Andrews"
+      comments: " from Julie Andrews ()"
+    }
+    actor {
+      name: "Alan Arkin"
+      comments: " from Alan Arkin ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Brian Lynch"
+    }
+    writer {
+      name: "Matthew Fogel"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Matthew Fogel"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Heitor PereiraHenry Mancini & Johnny Mercer (Darling Lili)"
+    }
+    comments: "Score ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Claire Dodgson"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "07/07/2022"
+redux: false

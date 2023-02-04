@@ -1,0 +1,83 @@
+title: "Halloween"
+rating: 8.1
+review {
+  direction {
+    director {
+      name: "John Carpenter"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Donald Pleasence"
+      comments: " from Donald Pleasence ()"
+    }
+    actor {
+      name: "Jamie Lee Curtis"
+      comments: " from Jamie Lee Curtis ()"
+    }
+    actor {
+      name: "P. J. Soles"
+      comments: " from P. J. Soles ()"
+    }
+    actor {
+      name: "Nancy Loomis"
+      comments: " from Nancy Loomis ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "John Carpenter"
+    }
+    writer {
+      name: "Debra Hill"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "John Carpenter"
+    }
+    writer {
+      name: "Debra Hill"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Carpenter"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Dean Cundey"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Tommy Wallace"
+    }
+    editor {
+      name: "Charles Bornstein"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1978
+review_date: "10/21/2021"
+redux: false

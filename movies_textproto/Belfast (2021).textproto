@@ -1,0 +1,86 @@
+title: "Belfast"
+rating: 7.8
+review {
+  direction {
+    director {
+      name: "Kenneth Branagh"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Caitr\303\255ona Balfe"
+      comments: " from Caitr\303\255ona Balfe ()"
+    }
+    actor {
+      name: "Judi Dench"
+      comments: " from Judi Dench ()"
+    }
+    actor {
+      name: "Jamie Dornan"
+      comments: " from Jamie Dornan ()"
+    }
+    actor {
+      name: "Ciar\303\241n Hinds"
+      comments: " from Ciar\303\241n Hinds ()"
+    }
+    actor {
+      name: "Colin Morgan"
+      comments: " from Colin Morgan ()"
+    }
+    actor {
+      name: "Josie Walker"
+      comments: " from Josie Walker ()"
+    }
+    actor {
+      name: "Jude Hill"
+      comments: " from Jude Hill ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Kenneth Branagh"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Kenneth Branagh"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Van Morrison"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Haris Zambarloukos"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "\303\232na N\303\255 Dhongha\303\255le"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "03/01/2022"
+redux: false

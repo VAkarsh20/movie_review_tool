@@ -1,0 +1,78 @@
+title: "Fight Club"
+rating: 8.1
+review {
+  direction {
+    director {
+      name: "David Fincher"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Brad Pitt"
+      comments: " from Brad Pitt ()"
+    }
+    actor {
+      name: "Edward Norton"
+      comments: " from Edward Norton ()"
+    }
+    actor {
+      name: "Helena Bonham Carter"
+      comments: " from Helena Bonham Carter ()"
+    }
+    actor {
+      name: "Meat Loaf"
+      comments: " from Meat Loaf ()"
+    }
+    actor {
+      name: "Jared Leto"
+      comments: " from Jared Leto ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Jim Uhls"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Jim Uhls"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "The Dust Brothers"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Jeff Cronenweth"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "James Haygood"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1999
+review_date: "07/19/2021"
+redux: false

@@ -1,0 +1,94 @@
+title: "Almost Famous"
+rating: 8.6
+review {
+  direction {
+    director {
+      name: "Cameron Crowe"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Patrick Fugit"
+      comments: " from Patrick Fugit ()"
+    }
+    actor {
+      name: "Billy Crudup"
+      comments: " from Billy Crudup ()"
+    }
+    actor {
+      name: "Frances McDormand"
+      comments: " from Frances McDormand ()"
+    }
+    actor {
+      name: "Kate Hudson"
+      comments: " from Kate Hudson ()"
+    }
+    actor {
+      name: "Jason Lee"
+      comments: " from Jason Lee ()"
+    }
+    actor {
+      name: "Anna Paquin"
+      comments: " from Anna Paquin ()"
+    }
+    actor {
+      name: "Fairuza Balk"
+      comments: " from Fairuza Balk ()"
+    }
+    actor {
+      name: "Noah Taylor"
+      comments: " from Noah Taylor ()"
+    }
+    actor {
+      name: "Philip Seymour Hoffman"
+      comments: " from Philip Seymour Hoffman ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Cameron Crowe"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Cameron Crowe"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Nancy Wilson"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "John Toll"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Joe Hutshing Saar Klein"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2000
+review_date: "04/29/2022"
+redux: false

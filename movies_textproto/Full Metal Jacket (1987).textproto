@@ -1,0 +1,63 @@
+title: "Full Metal Jacket"
+rating: 8.6
+review {
+  direction {
+    director {
+      name: "Stanley Kubrick"
+    }
+    comments: "Great Direction"
+  }
+  acting {
+    actor {
+      name: "Matthew Modine"
+      comments: "Good from Matthew Modine"
+    }
+    actor {
+      name: "Vincent D\'Onofrio"
+      comments: "Good from Vincent D\'Onofrio"
+    }
+    actor {
+      name: "Lee Ermey"
+      comments: "Very Good from Lee Ermey"
+    }
+    cast: "Pretty Good from the rest of the cast (Most were pretty good but some were mediocre)"
+    comments: "Good Acting"
+  }
+  story {
+    writer {
+      name: "Stanley Kubrick"
+    }
+    writer {
+      name: "Michael Herr"
+    }
+    writer {
+      name: "Gustav Hasford"
+    }
+    comments: "Good to Very Good Story (Very good in the boot camp (first 40%) and Good during the Vietnam War parts)"
+  }
+  screenplay {
+    writer {
+      name: "Stanley Kubrick"
+    }
+    writer {
+      name: "Michael Herr"
+    }
+    writer {
+      name: "Gustav Hasford"
+    }
+    comments: "Great Screenplay (Deviates from the source material but is still very whitty and bends the line between comical and serious very well)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Douglas Milsome"
+    }
+    comments: "Cinematography (Very Kubrick in style but still is a bit different as it still has similar tones to traditional war movies)"
+  }
+  pacing: "Pacing was generally very slow but consistent to Kubrick style pacing"
+  climax: "The build to the climax is not that well done as there are many jumps in the narrative and the resolution does not really exist"
+  final_notes: "Very well choreography war scenes"
+  overall: "Overall, a good movie that shows the horrors of war and the effects it has on soldiers, but is very shallow in its meaning and message when compared to Kubrick's other films"
+}
+release_year: 1987
+review_date: "12/23/2020"
+redux: false

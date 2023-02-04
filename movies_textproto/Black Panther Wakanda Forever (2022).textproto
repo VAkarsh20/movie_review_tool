@@ -1,0 +1,111 @@
+title: "Black Panther: Wakanda Forever"
+rating: 7.0
+review {
+  direction {
+    director {
+      name: "Ryan Coogler"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Letitia Wright"
+      comments: " from Letitia Wright ()"
+    }
+    actor {
+      name: "Lupita Nyong\'o"
+      comments: " from Lupita Nyong\'o ()"
+    }
+    actor {
+      name: "Danai Gurira"
+      comments: " from Danai Gurira ()"
+    }
+    actor {
+      name: "Winston Duke"
+      comments: " from Winston Duke ()"
+    }
+    actor {
+      name: "Florence Kasumba"
+      comments: " from Florence Kasumba ()"
+    }
+    actor {
+      name: "Dominique Thorne"
+      comments: " from Dominique Thorne ()"
+    }
+    actor {
+      name: "Michaela Coel"
+      comments: " from Michaela Coel ()"
+    }
+    actor {
+      name: "Tenoch Huerta Mej\303\255a"
+      comments: " from Tenoch Huerta Mej\303\255a ()"
+    }
+    actor {
+      name: "Martin Freeman"
+      comments: " from Martin Freeman ()"
+    }
+    actor {
+      name: "Julia Louis-Dreyfus"
+      comments: " from Julia Louis-Dreyfus ()"
+    }
+    actor {
+      name: "Angela Bassett"
+      comments: " from Angela Bassett ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Ryan Coogler"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Ryan Coogler"
+    }
+    writer {
+      name: "Joe Robert Cole"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Ludwig G\303\266ransson"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Autumn Durald Arkapaw"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Michael P. Shawver"
+    }
+    editor {
+      name: "Kelley Dixon"
+    }
+    editor {
+      name: "Jennifer Lame"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "12/03/2022"
+redux: false

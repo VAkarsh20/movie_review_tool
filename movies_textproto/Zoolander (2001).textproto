@@ -1,0 +1,95 @@
+title: "Zoolander"
+rating: 7.3
+review {
+  direction {
+    director {
+      name: "Ben Stiller"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Ben Stiller"
+      comments: " from Ben Stiller ()"
+    }
+    actor {
+      name: "Owen Wilson"
+      comments: " from Owen Wilson ()"
+    }
+    actor {
+      name: "Will Ferrell"
+      comments: " from Will Ferrell ()"
+    }
+    actor {
+      name: "Christine Taylor"
+      comments: " from Christine Taylor ()"
+    }
+    actor {
+      name: "Milla Jovovich"
+      comments: " from Milla Jovovich ()"
+    }
+    actor {
+      name: "Jerry Stiller"
+      comments: " from Jerry Stiller ()"
+    }
+    actor {
+      name: "Jon Voight"
+      comments: " from Jon Voight ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Drake Sather"
+    }
+    writer {
+      name: "Ben Stiller"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Drake Sather"
+    }
+    writer {
+      name: "Ben Stiller"
+    }
+    writer {
+      name: "John Hamburg"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "David Arnold"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Barry Peterson"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Greg Hayden"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2001
+review_date: "07/03/2021 (WITH REDUX)"
+redux: false

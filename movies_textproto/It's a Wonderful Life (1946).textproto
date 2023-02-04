@@ -1,0 +1,109 @@
+title: "It\'s a Wonderful Life"
+rating: 8.5
+review {
+  direction {
+    director {
+      name: "Frank Capra"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "James Stewart"
+      comments: " from James Stewart ()"
+    }
+    actor {
+      name: "Donna Reed"
+      comments: " from Donna Reed ()"
+    }
+    actor {
+      name: "Lionel Barrymore"
+      comments: " from Lionel Barrymore ()"
+    }
+    actor {
+      name: "Thomas Mitchell"
+      comments: " from Thomas Mitchell ()"
+    }
+    actor {
+      name: "Henry Travers"
+      comments: " from Henry Travers ()"
+    }
+    actor {
+      name: "Beulah Bondi"
+      comments: " from Beulah Bondi ()"
+    }
+    actor {
+      name: "Ward Bond"
+      comments: " from Ward Bond ()"
+    }
+    actor {
+      name: "Frank Faylen"
+      comments: " from Frank Faylen ()"
+    }
+    actor {
+      name: "Gloria Grahame"
+      comments: " from Gloria Grahame ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Frances Goodrich"
+    }
+    writer {
+      name: "Albert Hackett"
+    }
+    writer {
+      name: "Frank Capra"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Frances Goodrich"
+    }
+    writer {
+      name: "Albert Hackett"
+    }
+    writer {
+      name: "Frank Capra"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Dimitri Tiomkin"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Joseph Walker"
+    }
+    cinematographer {
+      name: "Joseph Biroc"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "William Hornbeck"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1946
+review_date: "12/30/2021"
+redux: false

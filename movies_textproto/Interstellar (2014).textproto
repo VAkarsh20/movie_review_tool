@@ -1,0 +1,92 @@
+title: "Interstellar"
+rating: 9.1
+review {
+  direction {
+    director {
+      name: "Christopher Nolan"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Matthew McConaughey"
+      comments: " from Matthew McConaughey ()"
+    }
+    actor {
+      name: "Anne Hathaway"
+      comments: " from Anne Hathaway ()"
+    }
+    actor {
+      name: "Jessica Chastain"
+      comments: " from Jessica Chastain ()"
+    }
+    actor {
+      name: "Bill Irwin"
+      comments: " from Bill Irwin ()"
+    }
+    actor {
+      name: "Ellen Burstyn"
+      comments: " from Ellen Burstyn ()"
+    }
+    actor {
+      name: "Michael Caine"
+      comments: " from Michael Caine ()"
+    }
+    actor {
+      name: "Matt Damon"
+      comments: " from Matt Damon ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Jonathan Nolan"
+    }
+    writer {
+      name: "Christopher Nolan"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Jonathan Nolan"
+    }
+    writer {
+      name: "Christopher Nolan"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Hans Zimmer"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Hoyte van Hoytema"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Lee Smith"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2014
+review_date: "07/05/2021"
+redux: false

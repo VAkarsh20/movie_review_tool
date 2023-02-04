@@ -1,0 +1,50 @@
+title: "Catch Me If You Can"
+rating: 9.2
+review {
+  direction {
+    director {
+      name: "Steven Spielberg"
+    }
+    comments: "Great Direction"
+  }
+  acting {
+    actor {
+      name: "Leonardo DiCaprio"
+      comments: "Great to Incredible from Leonardo DiCaprio"
+    }
+    actor {
+      name: "Tom Hanks"
+      comments: "Great to Incredible from Tom Hanks"
+    }
+    actor {
+      name: "Christopher Walken"
+      comments: "Great to Incredible Acting from Christopher Walken"
+    }
+    cast: "Good from the rest of the cast"
+    comments: "Great Acting"
+  }
+  story {
+    writer {
+      name: "Jeff Nathanson"
+    }
+    comments: "Incredible Story (Stays pretty true to the source material)"
+  }
+  screenplay {
+    writer {
+      name: "Jeff Nathanson"
+    }
+    comments: "Great Screenplay (Filled with foreshadowing)"
+  }
+  score {
+    composer {
+      name: "John Williams"
+    }
+    comments: "Good Score"
+  }
+  pacing: "Pacing was great up until the final like 20 minutes (probably could have cut it down to 10)"
+  climax: "The build to the climax was incredible as the standoff scene between Leo and Hanks really showed both actor's best in displaying the anxiety and fright in the situation"
+  overall: "Overall, a great film that is one of the most entertaining films to watch as it is a thrill of a ride to see all the different scams Frank Abagnale was able to pull off from the very start to the very end, something that really keeps you engaged at all times"
+}
+release_year: 2002
+review_date: "05/24/2021"
+redux: false

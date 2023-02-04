@@ -1,0 +1,88 @@
+title: "Wedding Crashers"
+rating: 7.7
+review {
+  direction {
+    director {
+      name: "David Dobkin"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Owen Wilson"
+      comments: " from Owen Wilson ()"
+    }
+    actor {
+      name: "Vince Vaughn"
+      comments: " from Vince Vaughn ()"
+    }
+    actor {
+      name: "Christopher Walken"
+      comments: " from Christopher Walken ()"
+    }
+    actor {
+      name: "Rachel McAdams"
+      comments: " from Rachel McAdams ()"
+    }
+    actor {
+      name: "Isla Fisher"
+      comments: " from Isla Fisher ()"
+    }
+    actor {
+      name: "Jane Seymour"
+      comments: " from Jane Seymour ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Steve Faber"
+    }
+    writer {
+      name: "Bob Fisher"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Steve Faber"
+    }
+    writer {
+      name: "Bob Fisher"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Rolfe Kent"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Julio Macat"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Mark Livolsi"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2005
+review_date: "12/31/2021"
+redux: false

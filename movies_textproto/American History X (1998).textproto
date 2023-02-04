@@ -1,0 +1,89 @@
+title: "American History X"
+rating: 8.6
+review {
+  direction {
+    director {
+      name: "Tony Kaye"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Edward Norton"
+      comments: " from Edward Norton ()"
+    }
+    actor {
+      name: "Edward Furlong"
+      comments: " from Edward Furlong ()"
+    }
+    actor {
+      name: "Fairuza Balk"
+      comments: " from Fairuza Balk ()"
+    }
+    actor {
+      name: "Stacy Keach"
+      comments: " from Stacy Keach ()"
+    }
+    actor {
+      name: "Elliott Gould"
+      comments: " from Elliott Gould ()"
+    }
+    actor {
+      name: "Avery Brooks"
+      comments: " from Avery Brooks ()"
+    }
+    actor {
+      name: "Beverly D\'Angelo"
+      comments: " from Beverly D\'Angelo ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "David McKenna"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "David McKenna"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Anne Dudley"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Tony Kaye"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Jerry Greenberg"
+    }
+    editor {
+      name: "Alan Heim"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1998
+review_date: "11/09/2021"
+redux: false

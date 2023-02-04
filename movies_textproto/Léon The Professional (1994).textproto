@@ -1,0 +1,74 @@
+title: "L\303\251on: The Professional"
+rating: 6.8
+review {
+  direction {
+    director {
+      name: "Luc Besson"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Jean Reno"
+      comments: " from Jean Reno ()"
+    }
+    actor {
+      name: "Gary Oldman"
+      comments: " from Gary Oldman ()"
+    }
+    actor {
+      name: "Natalie Portman"
+      comments: " from Natalie Portman ()"
+    }
+    actor {
+      name: "Danny Aiello"
+      comments: " from Danny Aiello ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Luc Besson"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Luc Besson"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "\303\211ric Serra"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Thierry Arbogast"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Sylvie Landra"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1994
+review_date: "04/19/2022"
+redux: false

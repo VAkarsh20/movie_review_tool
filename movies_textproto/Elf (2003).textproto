@@ -1,0 +1,47 @@
+title: "Elf"
+rating: 8.5
+review {
+  direction {
+    director {
+      name: "Jon Favreau"
+    }
+    comments: "Very Good Direction (Especially for the lengths Jon Favreau went to limit the use of CGI)"
+  }
+  acting {
+    actor {
+      name: "Will Ferrell"
+      comments: "Very Good from Will Ferrell"
+    }
+    cast: "Pretty Good from the rest of the cast (Everyone plays their part well)"
+    comments: "Good Acting"
+  }
+  story {
+    writer {
+      name: "David Berenbaum"
+    }
+    comments: "Very Good/Iconic Story (Although it is filled with cliches and is very safe)"
+  }
+  screenplay {
+    writer {
+      name: "David Berenbaum"
+    }
+    comments: "Very Good Screenplay"
+  }
+  cinematography {
+    cinematographer {
+      name: "Greg Gardiner"
+    }
+    comments: "Great Cinematography (Uses force perspective very well (even though it can lead to inconsistencies at times))"
+  }
+  editing {
+    editor {
+      name: "Dan Lebental"
+    }
+    comments: "Great Editing ()"
+  }
+  visual_effects: "Great Visual Effects (Especially for the stop motion parts of the film to give is a very classic Christmas movie feel)"
+  overall: "Overall, an iconic christmas movie that is filled with many emotions, makes you root for the characters, and makes you remember the spirit of christmas, even though the movie is very safe, formulaic, cliche, and plays its cards very close to its chest (something I can't really blame given its a family Christmas movie)"
+}
+release_year: 2003
+review_date: "12/26/2020"
+redux: false

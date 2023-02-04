@@ -1,0 +1,57 @@
+title: "Tár"
+rating: 8.7
+review {
+  direction {
+    director {
+      name: "Todd Field"
+    }
+    comments: "Very Good Direction (He is able to get a lot out of his actors; Field shows off a Masterclass in subtlety as he is able to create an anxious tone without ever making his actors move to a higher gear (as most of the confrontation is in a tense second gear); there could be an improvement in driving the story forward as it does lag at times and there are a bit of dull moments)"
+  }
+  acting {
+    actor {
+      name: "Cate Blanchett"
+      comments: "Great from Cate Blanchett (Really shows a masterclass in subtlety as her performance makes other anxious in how tense and fear-inducing her action is (sort of an antithesis of JK Simmons in Whiplash yet still inducing the same response); Blanchett really shows why she is one of the best actresses of all time as she uses her experience as a focal point for other actors to fear her year worship her at the same time)"
+    }
+    cast: "Pretty Good to Good from the rest of the cast (It is just hard to tell how well they actually are given how good of a performance Blanchett gives (as they can only keep up and have their performances guide hers))"
+    comments: "Good to Very Good Acting"
+  }
+  story {
+    writer {
+      name: "Todd Field"
+    }
+    comments: "Good Story (The overarching story is Very Good and very captivating as Field does a great job in peeling back different layers of Tár's life to subtly tell more about who her character really is, but there are a lot of unnecessary plot points that definitely drag the story down and make the overall plot feel more bloated then it needs to be)"
+  }
+  screenplay {
+    writer {
+      name: "Todd Field"
+    }
+    comments: "Great to Very Good Screenplay (The dialogue is very tight and captivating, and the symbolism and foreshadowing is done very well ax it really helps with showing the true nature of Tár (while also not being overt in what it is trying to show))"
+  }
+  score {
+    composer {
+      name: "Hildur Guðnadóttir"
+    }
+    comments: "Score is very minimal (Really uses sound very well in helping portray the tense and anxious moments of Tár slowly losing her mind)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Florian Hoffmeister"
+    }
+    comments: "Good to Very Good Cinematography (The overall grand scenes were very well shot as it helps with building the scenes of how big of a figure Tár is; but the walking shots were pretty nauseating and kinda was a predictable juxtaposition to show how anxious Tár really was)"
+  }
+  sound: "Great Sound (Given there was a very minimal score (which is surprising giving the subject matter), the sound really helps with building tension and showing how the downfall of Tár)"
+  editing {
+    editor {
+      name: "Monika Willi"
+    }
+    comments: "Good Editing"
+  }
+  plot_structure: "Plot Structure was a big issue for the movie as it really overstays its welcome in many of its scenes as many of the scenes really did not need to be there, with the resolution being absolutely unnecessary (30 minutes of the movie could have been cut and it would've been the same movie)"
+  pacing: "Pacing was on the slower side (but does not really need to be changed to so much as it is more plot that needs to be cut rather than a faster pace)"
+  climax: "Climax was a very tense and important part of the movie (definitely making the audience get to the edge of their seats) but it is after the climax where the movie falters"
+  tone: "Tone was established very well throughout the movie (one of the film's highlights) as the subtlety to create a tense atmosphere is experience throughout the whole movie and really gives a very similar feel to Whiplash (but done in the exact opposite way)"
+  overall: "Overall, a masterclass in subtlety as the direction mixed with Blanchett's performance drives forward a very intense movie without doing/saying that much, but the film's potential is ultimately held back by its long runtime and poor plot construction (which is a shame because these reasons will limit its staying power in film history)"
+}
+release_year: 2022
+review_date: "02/02/2023"
+redux: false

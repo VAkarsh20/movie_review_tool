@@ -1,0 +1,56 @@
+title: "Dazed and Confused"
+rating: 7.3
+review {
+  direction {
+    director {
+      name: "Richard Linklater"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "See Cast section"
+      comments: " from See Cast section ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Richard Linklater"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Richard Linklater"
+    }
+    comments: "Screenplay ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Lee Daniel"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Sandra Adair"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1993
+review_date: "11/24/2021"
+redux: false

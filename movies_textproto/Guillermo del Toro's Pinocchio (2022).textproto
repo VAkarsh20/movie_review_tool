@@ -1,0 +1,114 @@
+title: "Guillermo del Toro\'s Pinocchio"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Guillermo del Toro"
+    }
+    director {
+      name: "Mark Gustafson"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Ewan McGregor"
+      comments: " from Ewan McGregor ()"
+    }
+    actor {
+      name: "David Bradley"
+      comments: " from David Bradley ()"
+    }
+    actor {
+      name: "Gregory Mann"
+      comments: " from Gregory Mann ()"
+    }
+    actor {
+      name: "Burn Gorman"
+      comments: " from Burn Gorman ()"
+    }
+    actor {
+      name: "Ron Perlman"
+      comments: " from Ron Perlman ()"
+    }
+    actor {
+      name: "John Turturro"
+      comments: " from John Turturro ()"
+    }
+    actor {
+      name: "Finn Wolfhard"
+      comments: " from Finn Wolfhard ()"
+    }
+    actor {
+      name: "Cate Blanchett"
+      comments: " from Cate Blanchett ()"
+    }
+    actor {
+      name: "Tim Blake Nelson"
+      comments: " from Tim Blake Nelson ()"
+    }
+    actor {
+      name: "Christoph Waltz"
+      comments: " from Christoph Waltz ()"
+    }
+    actor {
+      name: "Tilda Swinton"
+      comments: " from Tilda Swinton ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Guillermo del Toro"
+    }
+    writer {
+      name: "Matthew Robbins"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Guillermo del Toro"
+    }
+    writer {
+      name: "Patrick McHale"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Alexandre Desplat[1]"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Frank Passingham"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Ken Schretzmann"
+    }
+    editor {
+      name: "Holly Klein"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "02/02/2023"
+redux: false

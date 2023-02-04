@@ -1,0 +1,82 @@
+title: "A Quiet Place Part II"
+rating: 8.6
+review {
+  direction {
+    director {
+      name: "John Krasinski"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Emily Blunt"
+      comments: " from Emily Blunt ()"
+    }
+    actor {
+      name: "Cillian Murphy"
+      comments: " from Cillian Murphy ()"
+    }
+    actor {
+      name: "Millicent Simmonds"
+      comments: " from Millicent Simmonds ()"
+    }
+    actor {
+      name: "Noah Jupe"
+      comments: " from Noah Jupe ()"
+    }
+    actor {
+      name: "Djimon Hounsou"
+      comments: " from Djimon Hounsou ()"
+    }
+    actor {
+      name: "John Krasinski[1]"
+      comments: " from John Krasinski[1] ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "John Krasinski"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "John Krasinski"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Marco Beltrami"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Polly Morgan"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Michael P. Shawver"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2020
+review_date: "07/22/2021"
+redux: false

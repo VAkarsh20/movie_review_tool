@@ -35,7 +35,7 @@ review {
     writer {
       name: "Scott Silver"
     }
-    comments: "Very Good Story (The semi-autobiographical nature of the story really looks into Eminem's upbringing to show how hard it was for him to grow and make a name for himself in the rap community)"
+    comments: "Very Good Story (The semi-autobiographical nature of the story really looks into Eminem\'s upbringing to show how hard it was for him to grow and make a name for himself in the rap community)"
   }
   screenplay {
     writer {
@@ -64,8 +64,9 @@ review {
   }
   plot_structure: "Plot Structure was pretty standard and boilerplate (the typical underdog story getting his shot at the end)"
   pacing: "Pacing was good (there was no need to cut or add any time)"
-  climax: "climax was great and the best part of the movie (it really shows how Rabbit finally gets the confidence to show off his lyricism as he spits some of the most famous bars not only in movie history but rap history)"
+  climax: "Climax was great and the best part of the movie (it really shows how Rabbit finally gets the confidence to show off his lyricism as he spits some of the most famous bars not only in movie history but rap history)"
   tone: "Tone was set well (helped with really establishing the scene and the grime of the ghetto in Detroit)"
   overall: "Overall, an entertaining movie that has really great moments and showcases great hip-hop, all lead by a good performance from Eminem as he drives the movie to a great climax of Rap Battles, but is held back a bit from the pretty standard/boilerplate elements and not great performances from the minor characters"
 }
 release_year: 2002
+review_date: "01/18/2023"

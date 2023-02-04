@@ -1,0 +1,82 @@
+title: "The Godfather Part II"
+rating: 9.4
+review {
+  direction {
+    director {
+      name: "Francis Ford Coppola"
+    }
+    comments: "Incredible Direction"
+  }
+  acting {
+    actor {
+      name: "Al Pacino"
+      comments: "Brilliant from Al Pacino"
+    }
+    actor {
+      name: "Robert Duvall"
+      comments: "Great to Incredible from Robert Duvall"
+    }
+    actor {
+      name: "Diane Keaton"
+      comments: "Great to Incredible from Diane Keaton"
+    }
+    actor {
+      name: "Robert De Niro"
+      comments: "Great from Robert De Niro"
+    }
+    cast: "Very Good to Great from the rest of the cast (A true masterclass in acting by the entire cast)"
+    comments: "Great to Incredible Acting"
+  }
+  story {
+    writer {
+      name: "Francis Ford Coppola"
+    }
+    writer {
+      name: "Mario Puzo"
+    }
+    comments: "Great to Incredible Story (Sequel Part was Incredible to Brilliant and the Prequel part was Good and necessary (though I did not really care for it that much); storytelling was a bit confusing)"
+  }
+  screenplay {
+    writer {
+      name: "Francis Ford Coppola"
+    }
+    writer {
+      name: "Mario Puzo"
+    }
+    comments: "Brilliant Screenplay (Mixed with the nuances of subtly, symbolism, and visual queues)"
+  }
+  score {
+    composer {
+      name: "Nino Rota"
+    }
+    comments: "Great Score"
+  }
+  cinematography {
+    cinematographer {
+      name: "Gordon Willis"
+    }
+    comments: Incredible Cinematography (Uses Sound/Cinematography/Editing to really show the mood of the scenes and emotions of the characters; a real standout in how it uses the camera to look into the eyes of Michael)"
+  }
+  sound: "Incredible Sound (See Cinematography)"
+  editing {
+    editor {
+      name: "Peter Zinner"
+    }
+    editor {
+      name: "Barry Malkin"
+    }
+    editor {
+      name: "Richard Marks"
+    }
+    comments: "Incredible Editing (See Cinematography)"
+  }
+  plot_structure: "Plot Structure was good"
+  pacing: "Pacing was slow and steady; Runtime was long but it is hard to take out/cut any scenes because each scene feels like it is important to the story (Though it could be argued that many of the prequel scenes were not that necessary)"
+  climax: "The build to the climax was very good with the final moments of the movie being Incredible (especially last 7-10 minutes) and full of symbolism (especially how it mirrors yet differs from the original movie)"
+  tone: "tone"
+  final_notes: "The Michael Corleone story was Great (though not as good as the first) in showing how too far gone he is in his corruption and crime as he still have glimmers of hope of leaving (though he knows the dreams of being an outsider are too late to come true)"
+  overall: "Overall, a Great to Incredible Movie that stands up to being 'One of the best sequels ever made' as it is another definition of symbolism and visual queues (helping drive the story forward and influencing the characters decisions/emotions, especially Michael's eyes looking into characters) in a movie as Coppola offers a continuation of a story rather than a sequel"
+}
+release_year: 1974
+review_date: "06/11/2021"
+redux: false
