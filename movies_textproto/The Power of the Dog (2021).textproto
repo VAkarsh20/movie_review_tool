@@ -1,0 +1,90 @@
+title: "The Power of the Dog"
+rating: 8.6
+review {
+  direction {
+    director {
+      name: "Jane Campion"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Benedict Cumberbatch"
+      comments: " from Benedict Cumberbatch ()"
+    }
+    actor {
+      name: "Kirsten Dunst"
+      comments: " from Kirsten Dunst ()"
+    }
+    actor {
+      name: "Jesse Plemons"
+      comments: " from Jesse Plemons ()"
+    }
+    actor {
+      name: "Kodi Smit-McPhee"
+      comments: " from Kodi Smit-McPhee ()"
+    }
+    actor {
+      name: "Thomasin McKenzie"
+      comments: " from Thomasin McKenzie ()"
+    }
+    actor {
+      name: "Genevieve Lemon"
+      comments: " from Genevieve Lemon ()"
+    }
+    actor {
+      name: "Keith Carradine"
+      comments: " from Keith Carradine ()"
+    }
+    actor {
+      name: "Frances Conroy"
+      comments: " from Frances Conroy ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Jane Campion"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Jane Campion"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Jonny Greenwood"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Ari Wegner"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Peter Sciberras"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "04/06/2022"
+redux: false

@@ -1,0 +1,89 @@
+title: "Doctor Strange in the Multiverse of Madness"
+rating: 7.0
+review {
+  direction {
+    director {
+      name: "Sam Raimi"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Benedict Cumberbatch"
+      comments: " from Benedict Cumberbatch ()"
+    }
+    actor {
+      name: "Elizabeth Olsen"
+      comments: " from Elizabeth Olsen ()"
+    }
+    actor {
+      name: "Chiwetel Ejiofor"
+      comments: " from Chiwetel Ejiofor ()"
+    }
+    actor {
+      name: "Benedict Wong"
+      comments: " from Benedict Wong ()"
+    }
+    actor {
+      name: "Xochitl Gomez"
+      comments: " from Xochitl Gomez ()"
+    }
+    actor {
+      name: "Michael Stuhlbarg"
+      comments: " from Michael Stuhlbarg ()"
+    }
+    actor {
+      name: "Rachel McAdams"
+      comments: " from Rachel McAdams ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Michael Waldron"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Michael Waldron"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Danny Elfman"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "John Mathieson"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Bob Murawski"
+    }
+    editor {
+      name: "Tia Nolan"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "05/23/2022"
+redux: false

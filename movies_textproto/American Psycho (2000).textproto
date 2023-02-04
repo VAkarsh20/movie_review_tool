@@ -1,0 +1,50 @@
+title: "American Psycho"
+rating: 7.5
+review {
+  direction {
+    director {
+      name: "Mary Harron"
+    }
+    comments: "Decent Direction"
+  }
+  acting {
+    actor {
+      name: "Christian Bale"
+      comments: "Good from Christian Bale (Plays the serial killer very well but can be very pretentious at times (which is extremely annoying to watch))"
+    }
+    actor {
+      name: "Willem Dafoe"
+      comments: "Pretty Good from Willem Dafoe"
+    }
+    actor {
+      name: "Jared Leto"
+      comments: "Pretty Good from Jared Leto"
+    }
+    cast: "Bad to Pretty Bad from the rest of the cast (annoyingly pretentious)"
+    comments: "Pretty Bad Acting"
+  }
+  story {
+    writer {
+      name: "Mary Harron"
+    }
+    writer {
+      name: "Guinevere Turner"
+    }
+    comments: "Very Good to Great Story"
+  }
+  screenplay {
+    writer {
+      name: "Mary Harron"
+    }
+    writer {
+      name: "Guinevere Turner"
+    }
+    comments: "Decent Screenplay (But filled with many iconic/memeable lines)"
+  }
+  climax: "Build to the climax happens suddenly as that part of the movie really shows the lapses in reality (leading to the dilemma at the end)"
+  final_notes: "The killing scenes were the best parts of the movie as the gore/violence/madness of Patrick Bateman was really displayed; though, the rest of the movie is very pretentious (which makes it end up being very memey when it is trying to be serious)"
+  overall: "Overall, a decent movie that shows moments of greatness from a future star (Bale and somewhat Leto) as the movie has good moments to watch (like the killing scenes and the overanalyzing from Bateman), but there are a lot of flaws in the movie that make it very hard to watch at times when looking at the greed of wall street from a very surface level, pretentious lense."
+}
+release_year: 2000
+review_date: "01/24/2021"
+redux: false

@@ -1,0 +1,78 @@
+title: "E.T. the Extra-Terrestrial"
+rating: 9.4
+review {
+  direction {
+    director {
+      name: "Steven Spielberg"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Dee Wallace"
+      comments: " from Dee Wallace ()"
+    }
+    actor {
+      name: "Henry Thomas"
+      comments: " from Henry Thomas ()"
+    }
+    actor {
+      name: "Peter Coyote"
+      comments: " from Peter Coyote ()"
+    }
+    actor {
+      name: "Robert MacNaughton"
+      comments: " from Robert MacNaughton ()"
+    }
+    actor {
+      name: "Drew Barrymore"
+      comments: " from Drew Barrymore ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Melissa Mathison"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Melissa Mathison"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Williams"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Allen Daviau"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Carol Littleton"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1982
+review_date: "09/03/2022"
+redux: false

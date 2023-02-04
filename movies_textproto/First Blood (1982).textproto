@@ -1,0 +1,54 @@
+title: "First Blood"
+rating: 8.5
+review {
+  direction {
+    director {
+      name: "Ted Kotcheff"
+    }
+    comments: "Good Direction"
+  }
+  acting {
+    actor {
+      name: "Sylvester Stallone"
+      comments: "Great from Sylvester Stallone (though I'm biased)"
+    }
+    actor {
+      name: "Richard Crenna"
+      comments: "Pretty Good from Richard Crenna"
+    }
+    cast: "Decent from the rest of the cast"
+    comments: "Pretty Good Acting"
+  }
+  story {
+    writer {
+      name: "Michael Kozoll"
+    }
+    writer {
+      name: "William Sackheim"
+    }
+    writer {
+      name: "Sylvester Stallone"
+    }
+    comments: "Very Good Story (Actually handles PTSD from Vietnam pretty well)"
+  }
+  screenplay {
+    writer {
+      name: "Michael Kozoll"
+    }
+    writer {
+      name: "William Sackheim"
+    }
+    writer {
+      name: "Sylvester Stallone"
+    }
+    comments: "Minimal Screenplay (Works to show how traumatized Rambo is)"
+  }
+  sound: "Pretty Bad Sound Editing/Mixing (A bit off (but thats the 80s for yah))"
+  pacing: "Pacing is very fast as it is fueled by its action (with a very short runtime that would have definitely benefited from 15-20 minutes of character building or exposition)"
+  climax: "Build to the climax was pretty good with the overall climax executed very well as we see all the sides of Rambo"
+  final_notes: "Action is what keeps the movie going as Rambo constantly builds up his arsenal with the more kills he gets (but it is important to note that many of the actions that Rambo did were extremely unnecessary and escalated the situation a lot more than it needed to be"
+  overall: "Overall, a movie that is a fun action movie to watch as Sly gives off one of his iconic performances to create a signature character that is a war machine suffering from PTSD that is trying his best to just to live in a post-Vietnam, anti-war society"
+}
+release_year: 1982
+review_date: "01/14/2021"
+redux: false

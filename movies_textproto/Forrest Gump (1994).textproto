@@ -1,0 +1,78 @@
+title: "Forrest Gump"
+rating: 9.6
+review {
+  direction {
+    director {
+      name: "Robert Zemeckis"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Tom Hanks"
+      comments: " from Tom Hanks ()"
+    }
+    actor {
+      name: "Robin Wright"
+      comments: " from Robin Wright ()"
+    }
+    actor {
+      name: "Gary Sinise"
+      comments: " from Gary Sinise ()"
+    }
+    actor {
+      name: "Mykelti Williamson"
+      comments: " from Mykelti Williamson ()"
+    }
+    actor {
+      name: "Sally Field"
+      comments: " from Sally Field ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Eric Roth"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Eric Roth"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Alan Silvestri"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Don Burgess"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Arthur Schmidt"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1994
+review_date: "11/22/2021"
+redux: false

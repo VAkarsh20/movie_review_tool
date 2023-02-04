@@ -1,0 +1,74 @@
+title: "Eyes Wide Shut"
+rating: 7.9
+review {
+  direction {
+    director {
+      name: "Stanley Kubrick"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Tom Cruise"
+      comments: " from Tom Cruise ()"
+    }
+    actor {
+      name: "Nicole Kidman"
+      comments: " from Nicole Kidman ()"
+    }
+    actor {
+      name: "Sydney Pollack"
+      comments: " from Sydney Pollack ()"
+    }
+    actor {
+      name: "Marie Richardson"
+      comments: " from Marie Richardson ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Stanley KubrickFrederic Raphael"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Stanley KubrickFrederic Raphael"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Jocelyn Pook"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Larry Smith"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Nigel Galt"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1999
+review_date: "08/18/2022"
+redux: false

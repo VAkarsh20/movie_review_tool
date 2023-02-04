@@ -1,0 +1,96 @@
+title: "Space Jam"
+rating: 7.2
+review {
+  direction {
+    director {
+      name: "Joe Pytka"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Michael Jordan"
+      comments: " from Michael Jordan ()"
+    }
+    actor {
+      name: "Billy West"
+      comments: " from Billy West ()"
+    }
+    actor {
+      name: "Wayne Knight"
+      comments: " from Wayne Knight ()"
+    }
+    actor {
+      name: "Theresa Randle"
+      comments: " from Theresa Randle ()"
+    }
+    actor {
+      name: "Danny DeVito"
+      comments: " from Danny DeVito ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Leo Benvenuti"
+    }
+    writer {
+      name: "Steve Rudnick"
+    }
+    writer {
+      name: "Timothy Harris"
+    }
+    writer {
+      name: "Herschel Weingrod"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Leo Benvenuti"
+    }
+    writer {
+      name: "Steve Rudnick"
+    }
+    writer {
+      name: "Timothy Harris"
+    }
+    writer {
+      name: "Herschel Weingrod"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "James Newton Howard"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Michael Chapman"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Sheldon Kahn"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1996
+review_date: "07/28/2021"
+redux: false

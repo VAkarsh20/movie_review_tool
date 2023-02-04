@@ -1,0 +1,70 @@
+title: "The Wrestler"
+rating: 9.3
+review {
+  direction {
+    director {
+      name: "Darren Aronofsky"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Mickey Rourke"
+      comments: " from Mickey Rourke ()"
+    }
+    actor {
+      name: "Marisa Tomei"
+      comments: " from Marisa Tomei ()"
+    }
+    actor {
+      name: "Evan Rachel Wood"
+      comments: " from Evan Rachel Wood ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Robert Siegel"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Robert Siegel"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Clint Mansell"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Maryse Alberti"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Andrew Weisblum"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2008
+review_date: "07/24/2021"
+redux: false

@@ -1,0 +1,88 @@
+title: "Napoleon Dynamite"
+rating: 7.5
+review {
+  direction {
+    director {
+      name: "Jared Hess"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Jon Heder"
+      comments: " from Jon Heder ()"
+    }
+    actor {
+      name: "Jon Gries"
+      comments: " from Jon Gries ()"
+    }
+    actor {
+      name: "Aaron Ruell"
+      comments: " from Aaron Ruell ()"
+    }
+    actor {
+      name: "Efren Ramirez"
+      comments: " from Efren Ramirez ()"
+    }
+    actor {
+      name: "Tina Majorino"
+      comments: " from Tina Majorino ()"
+    }
+    actor {
+      name: "Diedrich Bader"
+      comments: " from Diedrich Bader ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Jared Hess"
+    }
+    writer {
+      name: "Jerusha Hess"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Jared Hess"
+    }
+    writer {
+      name: "Jerusha Hess"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Swihart"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Munn Powell"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Jeremy Coon"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2004
+review_date: "07/07/2022"
+redux: false

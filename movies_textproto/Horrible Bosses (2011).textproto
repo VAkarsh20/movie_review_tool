@@ -1,0 +1,96 @@
+title: "Horrible Bosses"
+rating: 6.3
+review {
+  direction {
+    director {
+      name: "Seth Gordon"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Jason Bateman"
+      comments: " from Jason Bateman ()"
+    }
+    actor {
+      name: "Charlie Day"
+      comments: " from Charlie Day ()"
+    }
+    actor {
+      name: "Jason Sudeikis"
+      comments: " from Jason Sudeikis ()"
+    }
+    actor {
+      name: "Jennifer Aniston"
+      comments: " from Jennifer Aniston ()"
+    }
+    actor {
+      name: "Colin Farrell"
+      comments: " from Colin Farrell ()"
+    }
+    actor {
+      name: "Kevin Spacey"
+      comments: " from Kevin Spacey ()"
+    }
+    actor {
+      name: "Donald Sutherland"
+      comments: " from Donald Sutherland ()"
+    }
+    actor {
+      name: "Jamie Foxx"
+      comments: " from Jamie Foxx ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Michael Markowitz"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Michael Markowitz"
+    }
+    writer {
+      name: "John Francis Daley"
+    }
+    writer {
+      name: "Jonathan Goldstein"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Christopher Lennertz"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "David Hennings"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Peter Teschner"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2011
+review_date: "07/25/2022"
+redux: false

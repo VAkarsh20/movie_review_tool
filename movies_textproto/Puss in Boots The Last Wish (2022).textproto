@@ -1,0 +1,102 @@
+title: "Puss in Boots: The Last Wish"
+rating: 9.4
+review {
+  direction {
+    director {
+      name: "Joel Crawford"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Antonio Banderas"
+      comments: " from Antonio Banderas ()"
+    }
+    actor {
+      name: "Salma Hayek Pinault"
+      comments: " from Salma Hayek Pinault ()"
+    }
+    actor {
+      name: "Harvey Guill\303\251n"
+      comments: " from Harvey Guill\303\251n ()"
+    }
+    actor {
+      name: "Florence Pugh"
+      comments: " from Florence Pugh ()"
+    }
+    actor {
+      name: "Olivia Colman"
+      comments: " from Olivia Colman ()"
+    }
+    actor {
+      name: "Ray Winstone"
+      comments: " from Ray Winstone ()"
+    }
+    actor {
+      name: "Samson Kayo"
+      comments: " from Samson Kayo ()"
+    }
+    actor {
+      name: "John Mulaney"
+      comments: " from John Mulaney ()"
+    }
+    actor {
+      name: "Wagner Moura"
+      comments: " from Wagner Moura ()"
+    }
+    actor {
+      name: "Da\'Vine Joy Randolph"
+      comments: " from Da\'Vine Joy Randolph ()"
+    }
+    actor {
+      name: "Anthony Mendez"
+      comments: " from Anthony Mendez ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Tommy Swerdlow"
+    }
+    writer {
+      name: "Tom Wheeler"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Paul Fisher"
+    }
+    writer {
+      name: "Tommy Swerdlow"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Heitor Pereira"
+    }
+    comments: "Score ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "James Ryan"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "01/13/2023"
+redux: false

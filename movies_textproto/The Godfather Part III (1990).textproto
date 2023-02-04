@@ -1,0 +1,84 @@
+title: "The Godfather Part III"
+rating: 5.0
+review {
+  direction {
+    director {
+      name: "Francis Ford Coppola"
+    }
+    comments: "Pretty Bad Direction"
+  }
+  acting {
+    actor {
+      name: "Al Pacino"
+      comments: "Good from Al Pacino (Was either Great and typical Michael or Bad and overacting/disappointing)"
+    }
+    actor {
+      name: "Diane Keaton"
+      comments: "Good from Diane Keaton"
+    }
+    actor {
+      name: "Talia Shire"
+      comments: "Pretty Bad to Decent from Talia Shire"
+    }
+    actor {
+      name: "Andy García"
+      comments: "Pretty Bad to Decent from Andy García"
+    actor {
+      name: "Sofia Coppola"
+      comments: "Terrible from Sofia Coppola (One of the worst (if not the worst) performances in film history)"
+    }
+    cast: "Bad from the rest of the cast (Can clearly see how losing character from the previous movies effected this one)"
+    comments: "Bad Acting"
+  }
+  story {
+    writer {
+      name: "Mario Puzo"
+    }
+    writer {
+      name: "Francis Ford Coppola"
+    }
+    comments: "Pretty Bad Story (The story of Michael's decline needed to be made and there were some good elements but the way they went about it really ruined his story arc; storytelling being a bit confusing))"
+  }
+  screenplay {
+    writer {
+      name: "Mario Puzo"
+    }
+    writer {
+      name: "Francis Ford Coppola"
+    }
+    comments: "Very Bad Screenplay (Extremely simple and Direct unlike its predecessors even though there are some elements of symbolism)"
+  }
+  score {
+    composer {
+      name: "Carmine Coppola"
+    }
+    comments: "Great Score"
+  }
+  cinematography {
+    cinematographer {
+      name: "Gordon Willis"
+    }
+    comments: "Bad Cinematography (The use of new technology and techniques in sound/cinematography really gave the feeling an off feel as it looks completely different from its predecessors (making it very weird when they cut back to footage from the previous movies but still keep its original quality))"
+  }
+  sound: "Bad Sound (See Cinematography)"
+  editing {
+    editor {
+      name: "Barry Malkin"
+    }
+    editor {
+      name: "Lisa Fruchtman"
+    }
+    editor {
+      name: "Walter Murch"
+    }
+    comments: "Terrible Editing (The cut for this movie was extremely off and really jumped around too much in the story, which made it feel many details were lost (even though there were style choices similar to the past movies))"
+  }
+  plot_structure: "Plot Structure was bad"
+  pacing: "Pacing was slow and steady; Runtime was long but the cut they chose for the movie made it really hard to believe that more scenes needed to be cut as it could be argued more scenes needed to be added/rearranged"
+  climax: "The build to the climax was very good as it mirrored the first movie but the actual ending was terrible and the choices the director made made zero sense (especially the final 15 minutes)"
+  final_notes: "The Michael Corleone Story was Bad (even though it could be argued it needed to be made, the route they went for his decline was just horrible and really ruined last act of his character)"
+  overall: "Overall, a bad movie that is a clear cash grab by using the Godfather name as it is a simple/dull movie that is horribly cut and contains many amateur elements, and while a third movie did need to be made it was clear that it was too late as the way this movie was presented makes it so distant from the previous two (making the audience start to see the downfall in Francis Ford Coppola's abilities)"
+}
+release_year: 1990
+review_date: "06/11/2021"
+redux: false

@@ -1,0 +1,89 @@
+title: "Blue Bayou"
+rating: 7.3
+review {
+  direction {
+    director {
+      name: "Justin Chon"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Justin Chon"
+      comments: " from Justin Chon ()"
+    }
+    actor {
+      name: "Alicia Vikander"
+      comments: " from Alicia Vikander ()"
+    }
+    actor {
+      name: "Mark O\'Brien"
+      comments: " from Mark O\'Brien ()"
+    }
+    actor {
+      name: "Linh Dan Pham"
+      comments: " from Linh Dan Pham ()"
+    }
+    actor {
+      name: "Sydney Kowalske"
+      comments: " from Sydney Kowalske ()"
+    }
+    actor {
+      name: "Vondie Curtis-Hall"
+      comments: " from Vondie Curtis-Hall ()"
+    }
+    actor {
+      name: "Emory Cohen"
+      comments: " from Emory Cohen ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Justin Chon"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Justin Chon"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Roger Suen"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Matthew Chuang"
+    }
+    cinematographer {
+      name: "Ante Cheng"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Reynolds Barney"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "08/02/2022"
+redux: false

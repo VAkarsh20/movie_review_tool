@@ -1,0 +1,85 @@
+title: "Licorice Pizza"
+rating: 9.2
+review {
+  direction {
+    director {
+      name: "Paul Thomas Anderson"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Alana Haim"
+      comments: " from Alana Haim ()"
+    }
+    actor {
+      name: "Cooper Hoffman"
+      comments: " from Cooper Hoffman ()"
+    }
+    actor {
+      name: "Sean Penn"
+      comments: " from Sean Penn ()"
+    }
+    actor {
+      name: "Tom Waits"
+      comments: " from Tom Waits ()"
+    }
+    actor {
+      name: "Bradley Cooper"
+      comments: " from Bradley Cooper ()"
+    }
+    actor {
+      name: "Benny Safdie"
+      comments: " from Benny Safdie ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Paul Thomas Anderson"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Paul Thomas Anderson"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Jonny Greenwood"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Michael Bauman"
+    }
+    cinematographer {
+      name: "Paul Thomas Anderson"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Andy Jurgensen"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "01/11/2022"
+redux: false

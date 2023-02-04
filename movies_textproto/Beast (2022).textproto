@@ -1,0 +1,74 @@
+title: "Beast"
+rating: 4.4
+review {
+  direction {
+    director {
+      name: "Baltasar Korm\303\241kur"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Idris Elba"
+      comments: " from Idris Elba ()"
+    }
+    actor {
+      name: "Sharlto Copley"
+      comments: " from Sharlto Copley ()"
+    }
+    actor {
+      name: "Iyana Halley"
+      comments: " from Iyana Halley ()"
+    }
+    actor {
+      name: "Leah Sava Jeffries"
+      comments: " from Leah Sava Jeffries ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Jaime Primak Sullivan"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Ryan Engle"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Steven Price[1]"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Philippe Rousselot"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Jay Rabinowitz"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "09/04/2022"
+redux: false

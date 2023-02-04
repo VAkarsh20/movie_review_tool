@@ -1,0 +1,119 @@
+title: "Spider-Man: No Way Home"
+rating: 9.3
+review {
+  direction {
+    director {
+      name: "Jon Watts"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Tom Holland"
+      comments: " from Tom Holland ()"
+    }
+    actor {
+      name: "Zendaya"
+      comments: " from Zendaya ()"
+    }
+    actor {
+      name: "Benedict Cumberbatch"
+      comments: " from Benedict Cumberbatch ()"
+    }
+    actor {
+      name: "Jacob Batalon"
+      comments: " from Jacob Batalon ()"
+    }
+    actor {
+      name: "Jon Favreau"
+      comments: " from Jon Favreau ()"
+    }
+    actor {
+      name: "Jamie Foxx"
+      comments: " from Jamie Foxx ()"
+    }
+    actor {
+      name: "Willem Dafoe"
+      comments: " from Willem Dafoe ()"
+    }
+    actor {
+      name: "Alfred Molina"
+      comments: " from Alfred Molina ()"
+    }
+    actor {
+      name: "Benedict Wong"
+      comments: " from Benedict Wong ()"
+    }
+    actor {
+      name: "Tony Revolori"
+      comments: " from Tony Revolori ()"
+    }
+    actor {
+      name: "Marisa Tomei"
+      comments: " from Marisa Tomei ()"
+    }
+    actor {
+      name: "Andrew Garfield"
+      comments: " from Andrew Garfield ()"
+    }
+    actor {
+      name: "Tobey Maguire"
+      comments: " from Tobey Maguire ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Chris McKenna"
+    }
+    writer {
+      name: "Erik Sommers"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Chris McKenna"
+    }
+    writer {
+      name: "Erik Sommers"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Michael Giacchino"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Mauro Fiore"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Jeffrey Ford"
+    }
+    editor {
+      name: "Leigh Folsom Boyd"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "12/23/2021"
+redux: false

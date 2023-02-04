@@ -1,0 +1,82 @@
+title: "The Imitation Game"
+rating: 8.5
+review {
+  direction {
+    director {
+      name: "Morten Tyldum"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Benedict Cumberbatch"
+      comments: " from Benedict Cumberbatch ()"
+    }
+    actor {
+      name: "Keira Knightley"
+      comments: " from Keira Knightley ()"
+    }
+    actor {
+      name: "Matthew Goode"
+      comments: " from Matthew Goode ()"
+    }
+    actor {
+      name: "Rory Kinnear"
+      comments: " from Rory Kinnear ()"
+    }
+    actor {
+      name: "Charles Dance"
+      comments: " from Charles Dance ()"
+    }
+    actor {
+      name: "Mark Strong"
+      comments: " from Mark Strong ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Graham Moore"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Graham Moore"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Alexandre Desplat"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "\303\223scar Faura"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "William Goldenberg"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2014
+review_date: "06/28/2022"
+redux: false

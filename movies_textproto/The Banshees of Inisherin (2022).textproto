@@ -1,0 +1,74 @@
+title: "The Banshees of Inisherin"
+rating: 8.8
+review {
+  direction {
+    director {
+      name: "Martin McDonagh"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Colin Farrell"
+      comments: " from Colin Farrell ()"
+    }
+    actor {
+      name: "Brendan Gleeson"
+      comments: " from Brendan Gleeson ()"
+    }
+    actor {
+      name: "Kerry Condon"
+      comments: " from Kerry Condon ()"
+    }
+    actor {
+      name: "Barry Keoghan"
+      comments: " from Barry Keoghan ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Martin McDonagh"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Martin McDonagh"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Carter Burwell"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Ben Davis[1]"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Mikkel E. G. Nielsen"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "12/04/2022"
+redux: false

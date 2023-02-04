@@ -1,0 +1,82 @@
+title: "Pan\'s Labyrinth"
+rating: 8.4
+review {
+  direction {
+    director {
+      name: "Guillermo del Toro"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Sergi L\303\263pez"
+      comments: " from Sergi L\303\263pez ()"
+    }
+    actor {
+      name: "Maribel Verd\303\272"
+      comments: " from Maribel Verd\303\272 ()"
+    }
+    actor {
+      name: "Ivana Baquero"
+      comments: " from Ivana Baquero ()"
+    }
+    actor {
+      name: "Doug Jones"
+      comments: " from Doug Jones ()"
+    }
+    actor {
+      name: "Ariadna Gil"
+      comments: " from Ariadna Gil ()"
+    }
+    actor {
+      name: "\303\201lex Angulo"
+      comments: " from \303\201lex Angulo ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Guillermo del Toro"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Guillermo del Toro"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Javier Navarrete"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Guillermo Navarro"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Bernat Vilaplana"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2006
+review_date: "09/26/2022"
+redux: false

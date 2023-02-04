@@ -1,0 +1,82 @@
+title: "Psycho"
+rating: 9.1
+review {
+  direction {
+    director {
+      name: "Alfred Hitchcock"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Anthony Perkins"
+      comments: " from Anthony Perkins ()"
+    }
+    actor {
+      name: "Vera Miles"
+      comments: " from Vera Miles ()"
+    }
+    actor {
+      name: "John Gavin"
+      comments: " from John Gavin ()"
+    }
+    actor {
+      name: "Martin Balsam"
+      comments: " from Martin Balsam ()"
+    }
+    actor {
+      name: "John McIntire"
+      comments: " from John McIntire ()"
+    }
+    actor {
+      name: "Janet Leigh"
+      comments: " from Janet Leigh ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Joseph Stefano"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Joseph Stefano"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Bernard Herrmann"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "John L. Russell"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "George Tomasini"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1960
+review_date: "11/08/2021"
+redux: false

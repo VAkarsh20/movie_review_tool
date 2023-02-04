@@ -1,0 +1,58 @@
+title: "Soul"
+rating: 9.2
+review {
+  direction {
+    director {
+      name: "Pete Docter"
+    }
+    comments: "Great Direction"
+  }
+  acting {
+    cast: "From the cast as a whole (with Tina Fay being a standout)"
+    comments: "Good Voice Acting"
+  }
+  story {
+    writer {
+      name: "Pete Docter"
+    }
+    writer {
+      name: "Mike Jones"
+    }
+    writer {
+      name: "Kemp Powers"
+    }
+    comments: "Great Story (Though pretty predictable, especially the ending)"
+  }
+  screenplay {
+    writer {
+      name: "Pete Docter"
+    }
+    writer {
+      name: "Mike Jones"
+    }
+    writer {
+      name: "Kemp Powers"
+    }
+    comments: "Great Screenplay"
+  }
+  score {
+    composer {
+      name: "Trent Reznor"
+    }
+    composer {
+      name: "Atticus Ross"
+    }
+    composer {
+      name: "Jon Batiste[a]"
+    }
+    comments: "Very Good Score"
+  }
+  visual_effects: "Incredible Animation (The best animation from Pixar by far)"
+  pacing: "Pacing was Decent"
+  climax: "Build to climax is good and the climax was very well done"
+  final_notes: "the themes and concepts were very thought provoking and were very well executed (especially for a kids movie)"
+  overall: "Overall, a great Pixar movie (probably mid-tier) that is filled with incredible animation and thought-provoking themes, even though it has a predictable plot"
+}
+release_year: 2020
+review_date: "01/04/2021"
+redux: false

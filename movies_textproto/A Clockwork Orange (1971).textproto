@@ -1,0 +1,49 @@
+title: "A Clockwork Orange"
+rating: 9.2
+review {
+  direction {
+    director {
+      name: "Stanley Kubrick"
+    }
+    comments: "Very Good to Great Direction"
+  }
+  acting {
+    actor {
+      name: "Malcolm McDowell"
+      comments: "Great Acting from Malcolm McDowell"
+    }
+    cast: "Good from the rest of the cast"
+    comments: "Very Good Acting"
+  }
+  story {
+    writer {
+      name: "Stanley Kubrick"
+    }
+    comments: "Incredible Story (Very true to the source material)"
+  }
+  screenplay {
+    writer {
+      name: "Stanley Kubrick"
+    }
+    comments: "Great Screenplay (Very hard to understand and watch at first as it is very Shakespearean due to the fictional Nadsat language they use, but once you overcome the first 30 mins, the screenplay gradually increases to where it is incredible towards the end)"
+  }
+  score {
+    composer {
+      name: "Wendy Carlos[a]"
+    }
+    comments: "Great Score/Soundtrack (Especially with the use of classical music along with its iconic original score)"
+  }
+  cinematography {
+    cinematographer {
+      name: "John Alcott"
+    }
+    comments: "Incredible Cinematography (Very Kubrick in style)"
+  }
+  production_design: "Incredible Production Design"
+  pacing: "Pacing is great ( broken up into 3 distinct parts (like the book) that gradually increases towards the climax)"
+  climax: "climax is very intense and keeps the audience in their seat"
+  overall: "Overall, a movie that is very hard to watch in the first 1/3 (both because of imagery, understanding the dialogue, plot, and pace), but once you get past that point, it is an great to incredible piece of art that shows the line between psychological treatment and free will as well as the ability for the redemption of the lost"
+}
+release_year: 1971
+review_date: "11/27/2020"
+redux: false

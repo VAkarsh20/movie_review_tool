@@ -1,0 +1,77 @@
+title: "Nobody"
+rating: 7.3
+review {
+  direction {
+    director {
+      name: "Ilya Naishuller"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Bob Odenkirk"
+      comments: " from Bob Odenkirk ()"
+    }
+    actor {
+      name: "Connie Nielsen"
+      comments: " from Connie Nielsen ()"
+    }
+    actor {
+      name: "RZA"
+      comments: " from RZA ()"
+    }
+    actor {
+      name: "Christopher Lloyd"
+      comments: " from Christopher Lloyd ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Derek Kolstad"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Derek Kolstad"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "David Buckley"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Pawel Pogorzelski"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "William Yeh"
+    }
+    editor {
+      name: "Evan Schiff"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "03/01/2022"
+redux: false

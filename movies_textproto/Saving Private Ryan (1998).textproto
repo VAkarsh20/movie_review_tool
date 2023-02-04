@@ -1,0 +1,62 @@
+title: "Saving Private Ryan"
+rating: 9.5
+review {
+  direction {
+    director {
+      name: "Steven Spielberg"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Tom HanksEdward BurnsMatt DamonTom Sizemore"
+      comments: " from Tom HanksEdward BurnsMatt DamonTom Sizemore ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Robert Rodat"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Robert Rodat"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Williams"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Janusz Kami\305\204ski"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Michael Kahn"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1998
+review_date: "06/28/2022"
+redux: false

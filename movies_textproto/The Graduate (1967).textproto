@@ -1,0 +1,79 @@
+title: "The Graduate"
+rating: 8.6
+review {
+  direction {
+    director {
+      name: "Mike Nichols"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Anne Bancroft"
+      comments: " from Anne Bancroft ()"
+    }
+    actor {
+      name: "Dustin Hoffman"
+      comments: " from Dustin Hoffman ()"
+    }
+    actor {
+      name: "Katharine Ross"
+      comments: " from Katharine Ross ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Calder Willingham"
+    }
+    writer {
+      name: "Buck Henry"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Calder Willingham"
+    }
+    writer {
+      name: "Buck Henry"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Paul Simon (songs)"
+    }
+    composer {
+      name: "Dave Grusin (score)"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Robert Surtees"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Sam O\'Steen"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1967
+review_date: "06/14/2022"
+redux: false

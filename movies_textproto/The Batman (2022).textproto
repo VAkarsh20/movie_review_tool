@@ -1,0 +1,99 @@
+title: "The Batman"
+rating: 8.1
+review {
+  direction {
+    director {
+      name: "Matt Reeves"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Robert Pattinson"
+      comments: " from Robert Pattinson ()"
+    }
+    actor {
+      name: "Zo\303\253 Kravitz"
+      comments: " from Zo\303\253 Kravitz ()"
+    }
+    actor {
+      name: "Paul Dano"
+      comments: " from Paul Dano ()"
+    }
+    actor {
+      name: "Jeffrey Wright"
+      comments: " from Jeffrey Wright ()"
+    }
+    actor {
+      name: "John Turturro"
+      comments: " from John Turturro ()"
+    }
+    actor {
+      name: "Peter Sarsgaard"
+      comments: " from Peter Sarsgaard ()"
+    }
+    actor {
+      name: "Andy Serkis"
+      comments: " from Andy Serkis ()"
+    }
+    actor {
+      name: "Colin Farrell"
+      comments: " from Colin Farrell ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Matt Reeves"
+    }
+    writer {
+      name: "Peter Craig"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Matt Reeves"
+    }
+    writer {
+      name: "Peter Craig"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Michael Giacchino"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Greig Fraser"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "William Hoy"
+    }
+    editor {
+      name: "Tyler Nelson"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "03/12/2022"
+redux: false

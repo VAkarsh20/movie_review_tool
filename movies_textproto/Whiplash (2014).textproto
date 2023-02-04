@@ -1,0 +1,58 @@
+title: "Whiplash"
+rating: 9.7
+review {
+  direction {
+    director {
+      name: "Damien Chazelle"
+    }
+    comments: "Incredible Direction"
+  }
+  acting {
+    actor {
+      name: "Miles Teller"
+      comments: "Great from Miles Teller"
+    }
+    actor {
+      name: "J. K. Simmons"
+      comments: "Brilliant from J. K. Simmons"
+    }
+    cast: "Good from the rest of the cast"
+    comments: "Very Good to Great Acting"
+  }
+  story {
+    writer {
+      name: "Damien Chazelle"
+    }
+    comments: "Brilliant Story"
+  }
+  screenplay {
+    writer {
+      name: "Damien Chazelle"
+    }
+    comments: "Brilliant Screenplay"
+  }
+  score {
+    composer {
+      name: "Justin Hurwitz"
+    }
+    comments: "Incredible Score"
+  }
+  cinematography {
+    cinematographer {
+      name: "Sharone Meir"
+    }
+    comments: "Great Cinematography (Brilliant use of lighting to establish mood and themes)"
+  }
+  editing {
+    editor {
+      name: "Tom Cross"
+    }
+    comments: "Incredible Editing"
+  }
+  pacing: "Pacing is Great to Incredible as it gives it a very artsy feel that slowly builds to a brilliant climax"
+  climax: "climax is brilliant as it is filled with symbolism till the very last shot as JKs mouth is covered showing his recognition is all that Andrew needed to think he is one of the greats"
+  overall: "Overall, one of, if not the best, movies to show the obsession of an artist that wants to make it to the top, stopping at nothing to get there, as they are pushed past their mental breaking point to achieve their goal"
+}
+release_year: 2014
+review_date: "12/24/2020"
+redux: false

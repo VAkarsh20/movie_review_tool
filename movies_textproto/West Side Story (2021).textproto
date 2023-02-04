@@ -1,0 +1,85 @@
+title: "West Side Story"
+rating: 9.1
+review {
+  direction {
+    director {
+      name: "Steven Spielberg"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Ansel Elgort"
+      comments: " from Ansel Elgort ()"
+    }
+    actor {
+      name: "Ariana DeBose"
+      comments: " from Ariana DeBose ()"
+    }
+    actor {
+      name: "David Alvarez"
+      comments: " from David Alvarez ()"
+    }
+    actor {
+      name: "Mike Faist"
+      comments: " from Mike Faist ()"
+    }
+    actor {
+      name: "Rita Moreno"
+      comments: " from Rita Moreno ()"
+    }
+    actor {
+      name: "Rachel Zegler"
+      comments: " from Rachel Zegler ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Tony Kushner"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Tony Kushner"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Leonard Bernstein"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Janusz Kami\305\204ski"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Michael Kahn"
+    }
+    editor {
+      name: "Sarah Broshar"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "12/25/2021"
+redux: false

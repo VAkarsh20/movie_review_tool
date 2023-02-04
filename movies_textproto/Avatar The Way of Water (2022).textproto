@@ -1,0 +1,102 @@
+title: "Avatar: The Way of Water"
+rating: 7.2
+review {
+  direction {
+    director {
+      name: "James Cameron"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Sam Worthington"
+      comments: " from Sam Worthington ()"
+    }
+    actor {
+      name: "Zoe Salda\303\261a"
+      comments: " from Zoe Salda\303\261a ()"
+    }
+    actor {
+      name: "Sigourney Weaver"
+      comments: " from Sigourney Weaver ()"
+    }
+    actor {
+      name: "Stephen Lang"
+      comments: " from Stephen Lang ()"
+    }
+    actor {
+      name: "Kate Winslet"
+      comments: " from Kate Winslet ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "James Cameron"
+    }
+    writer {
+      name: "Rick Jaffa"
+    }
+    writer {
+      name: "Amanda Silver"
+    }
+    writer {
+      name: "Josh Friedman"
+    }
+    writer {
+      name: "Shane Salerno"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "James Cameron"
+    }
+    writer {
+      name: "Rick JaffaAmanda Silver"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Simon Franglen"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Russell Carpenter"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Stephen Rivkin"
+    }
+    editor {
+      name: "David Brenner"
+    }
+    editor {
+      name: "John Refoua"
+    }
+    editor {
+      name: "James Cameron"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "01/10/2023"
+redux: false

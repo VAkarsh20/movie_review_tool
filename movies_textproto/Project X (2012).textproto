@@ -1,0 +1,59 @@
+title: "Project X"
+rating: 5.3
+review {
+  direction {
+    director {
+      name: "Nima Nourizadeh"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Thomas MannOliver CooperJonathan Daniel BrownKirby Bliss Blanton"
+      comments: " from Thomas MannOliver CooperJonathan Daniel BrownKirby Bliss Blanton ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Michael Bacall"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Matt Drake"
+    }
+    writer {
+      name: "Michael Bacall"
+    }
+    comments: "Screenplay ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Ken Seng"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Jeff Groth"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2012
+review_date: "06/17/2022"
+redux: false

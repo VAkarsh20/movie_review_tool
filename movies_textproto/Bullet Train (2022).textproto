@@ -1,0 +1,94 @@
+title: "Bullet Train"
+rating: 5.4
+review {
+  direction {
+    director {
+      name: "David Leitch"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Brad Pitt"
+      comments: " from Brad Pitt ()"
+    }
+    actor {
+      name: "Joey King"
+      comments: " from Joey King ()"
+    }
+    actor {
+      name: "Aaron Taylor-Johnson"
+      comments: " from Aaron Taylor-Johnson ()"
+    }
+    actor {
+      name: "Brian Tyree Henry"
+      comments: " from Brian Tyree Henry ()"
+    }
+    actor {
+      name: "Andrew Koji"
+      comments: " from Andrew Koji ()"
+    }
+    actor {
+      name: "Hiroyuki Sanada"
+      comments: " from Hiroyuki Sanada ()"
+    }
+    actor {
+      name: "Michael Shannon"
+      comments: " from Michael Shannon ()"
+    }
+    actor {
+      name: "Benito A. Mart\303\255nez Ocasio"
+      comments: " from Benito A. Mart\303\255nez Ocasio ()"
+    }
+    actor {
+      name: "Sandra Bullock"
+      comments: " from Sandra Bullock ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Zak Olkewicz"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Zak Olkewicz"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Dominic Lewis"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Jonathan Sela"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "El\303\255sabet Ronaldsd\303\263ttir"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "08/19/2022"
+redux: false

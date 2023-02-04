@@ -1,0 +1,105 @@
+title: "Top Gun: Maverick"
+rating: 9.2
+review {
+  direction {
+    director {
+      name: "Joseph Kosinski"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Tom Cruise"
+      comments: " from Tom Cruise ()"
+    }
+    actor {
+      name: "Miles Teller"
+      comments: " from Miles Teller ()"
+    }
+    actor {
+      name: "Jennifer Connelly"
+      comments: " from Jennifer Connelly ()"
+    }
+    actor {
+      name: "Jon Hamm"
+      comments: " from Jon Hamm ()"
+    }
+    actor {
+      name: "Glen Powell"
+      comments: " from Glen Powell ()"
+    }
+    actor {
+      name: "Lewis Pullman"
+      comments: " from Lewis Pullman ()"
+    }
+    actor {
+      name: "Ed Harris"
+      comments: " from Ed Harris ()"
+    }
+    actor {
+      name: "Val Kilmer"
+      comments: " from Val Kilmer ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Peter Craig"
+    }
+    writer {
+      name: "Justin Marks"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Ehren Kruger"
+    }
+    writer {
+      name: "Eric Warren Singer"
+    }
+    writer {
+      name: "Christopher McQuarrie"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Harold Faltermeyer"
+    }
+    composer {
+      name: "Lady Gaga"
+    }
+    composer {
+      name: "Hans Zimmer"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Claudio Miranda"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Eddie Hamilton"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "06/04/2022"
+redux: false

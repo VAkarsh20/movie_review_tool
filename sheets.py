@@ -9,7 +9,7 @@ def access_api():
     return gspread.authorize(creds)
 
 
-def post_to_sheets(title, rating, review):
+def post_to_sheets(title, rating, review, review_date):
 
     # Accessing API
     client = access_api()
@@ -24,7 +24,7 @@ def post_to_sheets(title, rating, review):
     # Check to see if review already exists, if it does not create a new entry, else replace it
     cell = sheet.find(title)
     if cell is None:
-        record = [title, rating, review, rows + 1]
+        record = [title, rating, review, review_date, rows + 1]
         sheet.insert_row(record, rows + 2)
     else:
         sheet.update_cell(cell.row, 2, rating)

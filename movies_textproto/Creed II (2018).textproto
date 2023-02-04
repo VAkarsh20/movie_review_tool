@@ -1,0 +1,98 @@
+title: "Creed II"
+rating: 7.8
+review {
+  direction {
+    director {
+      name: "Steven Caple Jr."
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Michael B. Jordan"
+      comments: " from Michael B. Jordan ()"
+    }
+    actor {
+      name: "Sylvester Stallone"
+      comments: " from Sylvester Stallone ()"
+    }
+    actor {
+      name: "Tessa Thompson"
+      comments: " from Tessa Thompson ()"
+    }
+    actor {
+      name: "Wood Harris"
+      comments: " from Wood Harris ()"
+    }
+    actor {
+      name: "Phylicia Rashad"
+      comments: " from Phylicia Rashad ()"
+    }
+    actor {
+      name: "Florian Munteanu"
+      comments: " from Florian Munteanu ()"
+    }
+    actor {
+      name: "Dolph Lundgren"
+      comments: " from Dolph Lundgren ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Sascha Penn"
+    }
+    writer {
+      name: "Cheo Hodari Coker"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Juel Taylor"
+    }
+    writer {
+      name: "Sylvester Stallone"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Ludwig G\303\266ransson"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Kramer Morgenthau"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Dana E. Glauberman"
+    }
+    editor {
+      name: "Saira Haider"
+    }
+    editor {
+      name: "Paul Harb"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2018
+review_date: "07/03/2022"
+redux: false

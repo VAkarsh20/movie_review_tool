@@ -1,0 +1,99 @@
+title: "The Northman"
+rating: 8.6
+review {
+  direction {
+    director {
+      name: "Robert Eggers"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Alexander Skarsg\303\245rd"
+      comments: " from Alexander Skarsg\303\245rd ()"
+    }
+    actor {
+      name: "Nicole Kidman"
+      comments: " from Nicole Kidman ()"
+    }
+    actor {
+      name: "Claes Bang"
+      comments: " from Claes Bang ()"
+    }
+    actor {
+      name: "Anya Taylor-Joy"
+      comments: " from Anya Taylor-Joy ()"
+    }
+    actor {
+      name: "Gustav Lindh"
+      comments: " from Gustav Lindh ()"
+    }
+    actor {
+      name: "Ethan Hawke"
+      comments: " from Ethan Hawke ()"
+    }
+    actor {
+      name: "Bj\303\266rk"
+      comments: " from Bj\303\266rk ()"
+    }
+    actor {
+      name: "Willem Dafoe"
+      comments: " from Willem Dafoe ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Sj\303\263n"
+    }
+    writer {
+      name: "Robert Eggers"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Sj\303\263n"
+    }
+    writer {
+      name: "Robert Eggers"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Robin Carolan"
+    }
+    composer {
+      name: "Sebastian Gainsborough"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Jarin Blaschke"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Louise Ford"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "05/24/2022"
+redux: false

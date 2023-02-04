@@ -1,0 +1,96 @@
+title: "The Unbearable Weight of Massive Talent"
+rating: 6.3
+review {
+  direction {
+    director {
+      name: "Tom Gormican"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Nicolas Cage"
+      comments: " from Nicolas Cage ()"
+    }
+    actor {
+      name: "Pedro Pascal"
+      comments: " from Pedro Pascal ()"
+    }
+    actor {
+      name: "Sharon Horgan"
+      comments: " from Sharon Horgan ()"
+    }
+    actor {
+      name: "Ike Barinholtz"
+      comments: " from Ike Barinholtz ()"
+    }
+    actor {
+      name: "Alessandra Mastronardi"
+      comments: " from Alessandra Mastronardi ()"
+    }
+    actor {
+      name: "Jacob Scipio"
+      comments: " from Jacob Scipio ()"
+    }
+    actor {
+      name: "Neil Patrick Harris"
+      comments: " from Neil Patrick Harris ()"
+    }
+    actor {
+      name: "Tiffany Haddish"
+      comments: " from Tiffany Haddish ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Tom Gormican"
+    }
+    writer {
+      name: "Kevin Etten"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Tom Gormican"
+    }
+    writer {
+      name: "Kevin Etten"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Mark Isham"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Nigel Bluck"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Melissa Bretherton"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "08/20/2022"
+redux: false

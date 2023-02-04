@@ -1,0 +1,96 @@
+title: "The Menu"
+rating: 7.4
+review {
+  direction {
+    director {
+      name: "Mark Mylod"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Ralph Fiennes"
+      comments: " from Ralph Fiennes ()"
+    }
+    actor {
+      name: "Anya Taylor-Joy"
+      comments: " from Anya Taylor-Joy ()"
+    }
+    actor {
+      name: "Nicholas Hoult"
+      comments: " from Nicholas Hoult ()"
+    }
+    actor {
+      name: "Hong Chau"
+      comments: " from Hong Chau ()"
+    }
+    actor {
+      name: "Janet McTeer"
+      comments: " from Janet McTeer ()"
+    }
+    actor {
+      name: "Reed Birney"
+      comments: " from Reed Birney ()"
+    }
+    actor {
+      name: "Judith Light"
+      comments: " from Judith Light ()"
+    }
+    actor {
+      name: "John Leguizamo"
+      comments: " from John Leguizamo ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Seth Reiss"
+    }
+    writer {
+      name: "Will Tracy"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Seth Reiss"
+    }
+    writer {
+      name: "Will Tracy"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Colin Stetson"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Peter Deming"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Christopher Tellefsen"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "12/19/2022"
+redux: false

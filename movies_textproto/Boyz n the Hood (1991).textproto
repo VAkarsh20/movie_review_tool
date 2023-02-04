@@ -1,0 +1,25 @@
+title: "Boyz n the Hood"
+rating: 8.5
+review {
+  direction {
+    director {
+      name: "John Singleton"
+    }
+    comments: "Good to Very Good Direction"
+  }
+  acting {
+    cast: "The cast overall works well with each other (especially the main cast)"
+    comments: "Good Acting"
+  }
+  score {
+    composer {
+      name: "Stanley Clarke"
+    }
+    comments: "Pretty Good Score (Gives it a very 80s Law and Order SVU vibes)"
+  }
+  pacing: "Good Pacing (Keeps a constant steady pace)"
+  overall: "Overall, a Good movie to show the struggles of living in South Central LA and how those who dream to get out may not even get the chance"
+}
+release_year: 1991
+review_date: "11/27/2020"
+redux: false

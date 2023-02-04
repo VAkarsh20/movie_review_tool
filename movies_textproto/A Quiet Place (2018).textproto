@@ -1,0 +1,83 @@
+title: "A Quiet Place"
+rating: 8.5
+review {
+  direction {
+    director {
+      name: "John Krasinski"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Emily Blunt"
+      comments: " from Emily Blunt ()"
+    }
+    actor {
+      name: "John Krasinski"
+      comments: " from John Krasinski ()"
+    }
+    actor {
+      name: "Millicent Simmonds"
+      comments: " from Millicent Simmonds ()"
+    }
+    actor {
+      name: "Noah Jupe"
+      comments: " from Noah Jupe ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Bryan Woods"
+    }
+    writer {
+      name: "Scott Beck"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Bryan Woods"
+    }
+    writer {
+      name: "Scott Beck"
+    }
+    writer {
+      name: "John Krasinski"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Marco Beltrami"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Charlotte Bruus Christensen"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Christopher Tellefsen"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2018
+review_date: "07/03/2021"
+redux: false

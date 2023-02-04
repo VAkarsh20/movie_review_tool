@@ -1,0 +1,104 @@
+title: "Blade Runner 2049"
+rating: 8.3
+review {
+  direction {
+    director {
+      name: "Denis Villeneuve"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Ryan Gosling"
+      comments: " from Ryan Gosling ()"
+    }
+    actor {
+      name: "Harrison Ford"
+      comments: " from Harrison Ford ()"
+    }
+    actor {
+      name: "Ana de Armas"
+      comments: " from Ana de Armas ()"
+    }
+    actor {
+      name: "Sylvia Hoeks"
+      comments: " from Sylvia Hoeks ()"
+    }
+    actor {
+      name: "Robin Wright"
+      comments: " from Robin Wright ()"
+    }
+    actor {
+      name: "Mackenzie Davis"
+      comments: " from Mackenzie Davis ()"
+    }
+    actor {
+      name: "Carla Juri"
+      comments: " from Carla Juri ()"
+    }
+    actor {
+      name: "Lennie James"
+      comments: " from Lennie James ()"
+    }
+    actor {
+      name: "Dave Bautista"
+      comments: " from Dave Bautista ()"
+    }
+    actor {
+      name: "Jared Leto"
+      comments: " from Jared Leto ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Hampton Fancher"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Hampton Fancher"
+    }
+    writer {
+      name: "Michael Green"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Benjamin Wallfisch"
+    }
+    composer {
+      name: "Hans Zimmer"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Roger A. Deakins"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Joe Walker"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2017
+review_date: "12/04/2022"
+redux: false

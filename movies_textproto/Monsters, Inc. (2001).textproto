@@ -1,0 +1,56 @@
+title: "Monsters, Inc."
+rating: 9.7
+review {
+  direction {
+    director {
+      name: "Pete Docter"
+    }
+    comments: "Incredible Direction"
+  }
+  acting {
+    actor {
+      name: "Billy Crystal"
+      comments: "Brilliant from Billy Crystal (May have the best voice acting performance of all time as Mike)"
+    }
+    cast: "Incredible from the rest of the cast"
+    comments: "Incredible Voice Acting"
+  }
+  story {
+    writer {
+      name: "Pete Docter"
+    }
+    writer {
+      name: "Jill Culton"
+    }
+    writer {
+      name: "Jeff Pidgeon"
+    }
+    writer {
+      name: "Ralph Eggleston"
+    }
+    comments: "Brilliant Story (Especially character writing)"
+  }
+  screenplay {
+    writer {
+      name: "Andrew Stanton"
+    }
+    writer {
+      name: "Daniel Gerson"
+    }
+    comments: "Incredible Screenplay (Filled with emotions and wit/humor)"
+  }
+  score {
+    composer {
+      name: "Randy Newman"
+    }
+    comments: "Great Score"
+  }
+  plot_structure: "Plot Structure is great as all the scenes add to the plot as there is nothing wasted"
+  pacing: "Pacing is Great (Given its short runtime)"
+  climax: "Build to the climax is very evident and the climatic sequence is executed very well"
+  final_notes: "Only drawback for the movie is that it is too short"
+  overall: "Overall, the best Pixar movie (a little biased) that shows the loving dynamic of a father-daughter relationship through an animation filled adventure; lives up to how much I loved it as a kid and more, especially Mike Wazowski"
+}
+release_year: 2001
+review_date: "01/09/2021"
+redux: false

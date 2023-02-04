@@ -1,0 +1,100 @@
+title: "Marcel the Shell with Shoes On"
+rating: 8.6
+review {
+  direction {
+    director {
+      name: "Dean Fleischer Camp"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Jenny Slate"
+      comments: " from Jenny Slate ()"
+    }
+    actor {
+      name: "Rosa Salazar"
+      comments: " from Rosa Salazar ()"
+    }
+    actor {
+      name: "Thomas Mann"
+      comments: " from Thomas Mann ()"
+    }
+    actor {
+      name: "Dean Fleischer Camp"
+      comments: " from Dean Fleischer Camp ()"
+    }
+    actor {
+      name: "Lesley Stahl"
+      comments: " from Lesley Stahl ()"
+    }
+    actor {
+      name: "Isabella Rossellini"
+      comments: " from Isabella Rossellini ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Dean Fleischer Camp"
+    }
+    writer {
+      name: "Jenny Slate"
+    }
+    writer {
+      name: "Nick Paley"
+    }
+    writer {
+      name: "Elisabeth Holm"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Dean Fleischer Camp"
+    }
+    writer {
+      name: "Jenny Slate"
+    }
+    writer {
+      name: "Nick Paley"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Disasterpeace"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Bianca Cline"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Dean Fleischer Camp"
+    }
+    editor {
+      name: "Nick Paley"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2021
+review_date: "07/29/2022"
+redux: false

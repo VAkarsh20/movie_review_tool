@@ -1,0 +1,87 @@
+title: "Top Gun"
+rating: 7.6
+review {
+  direction {
+    director {
+      name: "Tony Scott"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Tom Cruise"
+      comments: " from Tom Cruise ()"
+    }
+    actor {
+      name: "Kelly McGillis"
+      comments: " from Kelly McGillis ()"
+    }
+    actor {
+      name: "Val Kilmer"
+      comments: " from Val Kilmer ()"
+    }
+    actor {
+      name: "Anthony Edwards"
+      comments: " from Anthony Edwards ()"
+    }
+    actor {
+      name: "Tom Skerritt"
+      comments: " from Tom Skerritt ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Jim Cash"
+    }
+    writer {
+      name: "Jack Epps Jr."
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Jim Cash"
+    }
+    writer {
+      name: "Jack Epps Jr."
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Harold Faltermeyer"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Jeffrey L. Kimball"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Chris Lebenzon"
+    }
+    editor {
+      name: "Billy Weber"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1986
+review_date: "06/03/2022"
+redux: false

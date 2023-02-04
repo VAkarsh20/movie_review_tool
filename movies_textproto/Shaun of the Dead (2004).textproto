@@ -1,0 +1,95 @@
+title: "Shaun of the Dead"
+rating: 8.8
+review {
+  direction {
+    director {
+      name: "Edgar Wright"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Simon Pegg"
+      comments: " from Simon Pegg ()"
+    }
+    actor {
+      name: "Kate Ashfield"
+      comments: " from Kate Ashfield ()"
+    }
+    actor {
+      name: "Lucy Davis"
+      comments: " from Lucy Davis ()"
+    }
+    actor {
+      name: "Nick Frost"
+      comments: " from Nick Frost ()"
+    }
+    actor {
+      name: "Dylan Moran"
+      comments: " from Dylan Moran ()"
+    }
+    actor {
+      name: "Bill Nighy"
+      comments: " from Bill Nighy ()"
+    }
+    actor {
+      name: "Penelope Wilton"
+      comments: " from Penelope Wilton ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Simon Pegg"
+    }
+    writer {
+      name: "Edgar Wright"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Simon Pegg"
+    }
+    writer {
+      name: "Edgar Wright"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Pete Woodhead"
+    }
+    composer {
+      name: "Daniel Mudford"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "David M. Dunlap"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Chris Dickens"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2004
+review_date: "07/19/2022"
+redux: false

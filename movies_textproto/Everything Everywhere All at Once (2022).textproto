@@ -1,0 +1,92 @@
+title: "Everything Everywhere All at Once"
+rating: 9.1
+review {
+  direction {
+    director {
+      name: "Daniel KwanDaniel Scheinert"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Michelle Yeoh"
+      comments: " from Michelle Yeoh ()"
+    }
+    actor {
+      name: "Stephanie Hsu"
+      comments: " from Stephanie Hsu ()"
+    }
+    actor {
+      name: "Ke Huy Quan"
+      comments: " from Ke Huy Quan ()"
+    }
+    actor {
+      name: "Jenny Slate"
+      comments: " from Jenny Slate ()"
+    }
+    actor {
+      name: "Harry Shum Jr."
+      comments: " from Harry Shum Jr. ()"
+    }
+    actor {
+      name: "James Hong"
+      comments: " from James Hong ()"
+    }
+    actor {
+      name: "Jamie Lee Curtis"
+      comments: " from Jamie Lee Curtis ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Daniel Kwan"
+    }
+    writer {
+      name: "Daniel Scheinert"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Daniel Kwan"
+    }
+    writer {
+      name: "Daniel Scheinert"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Son Lux"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Larkin Seiple"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Paul Rogers"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "08/05/2022"
+redux: false

@@ -1,0 +1,86 @@
+title: "The Fighter"
+rating: 8.5
+review {
+  direction {
+    director {
+      name: "David O. Russell"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Mark Wahlberg"
+      comments: " from Mark Wahlberg ()"
+    }
+    actor {
+      name: "Christian Bale"
+      comments: " from Christian Bale ()"
+    }
+    actor {
+      name: "Amy Adams"
+      comments: " from Amy Adams ()"
+    }
+    actor {
+      name: "Melissa Leo"
+      comments: " from Melissa Leo ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting "
+  }
+  story {
+    writer {
+      name: "Keith Dorrington"
+    }
+    writer {
+      name: "Paul Tamasy"
+    }
+    writer {
+      name: "Eric Johnson"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Scott Silver"
+    }
+    writer {
+      name: "Paul Tamasy"
+    }
+    writer {
+      name: "Eric Johnson"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Michael Brook"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Hoyte van Hoytema"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Pamela Martin"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "climax "
+  tone: "tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2010
+review_date: "06/21/2021"
+redux: false
