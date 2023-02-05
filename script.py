@@ -7,6 +7,7 @@ import review_tool
 import os
 import movie_pb2
 from google.protobuf import text_format
+import sys
 
 def get_imdb_id(film):
 
@@ -138,9 +139,103 @@ def create_protos_free_from_csv(df):
             print("Issue with {}".format(i))
             continue
 
+def fill_in_proto(proto, field):
+    
+    if "Direction" in field and proto.review.direction.comments == "Direction ()":
+        proto.review.direction.comments = field
+        return True
+    elif "Story" in field and proto.review.story.comments == "Story ()":
+        proto.review.story.comments = field
+        return True
+    elif "Screenplay" in field and proto.review.screenplay.comments == "Screenplay ()":
+        proto.review.screenplay.comments = field
+        return True
+    elif "Score" in field and proto.review.score.comments == "Score ()":
+        proto.review.score.comments = field
+        return True
+    elif "Cinematography" in field and proto.review.cinematography.comments == "Cinematography ()":
+        proto.review.cinematography.comments = field
+        return True
+    elif "Sound" in field and proto.review.sound == "Sound ()":
+        proto.review.sound = field
+        return True
+    elif "Editing" in field and proto.review.editing.comments == "Editing ()":
+        proto.review.editing.comments = field
+        return True
+    elif "Visual Effects" in field and proto.review.visual_effects == "Visual Effects ()":
+        proto.review.visual_effects = field
+        return True
+    elif "Production Design" in field and proto.review.production_design == "Production Design ()":
+        proto.review.production_design = field
+        return True
+    elif "Makeup" in field and proto.review.makeup == "Makeup ()":
+        proto.review.makeup = field
+        return True
+    elif "Costumes" in field and proto.review.costumes == "Costumes ()":
+        proto.review.costumes = field
+        return True
+    else:
+        return False
+
+def parse_review(df, filename):
+
+    
+    global proto
+    proto = review_tool.read_proto(filename)
+
+    record = ""
+    if not df[df['Title'] == proto.title].empty:
+        record = df[df['Title'] == proto.title]
+    elif not df[df['Title'] == "{} (film)".format(proto.title)].empty: 
+        record = df[df['Title'] == "{} (film)".format(proto.title)]
+    else:
+        record = df[df['Title'] == "{} ({} film)".format(proto.title, proto.release_year)]
+    review = record["Review"].item()
+    
+    start = 0
+    current = 0
+
+    period = review.split(". Overall, ")
+    comments = period[0]
+    overall = "Overall, " + period[1].rstrip(". ")
+
+    res = []
+    stack = []
+    while current < len(comments):
+        if comments[current] == "(":
+            stack.append("(")
+        elif comments[current] == ")":
+            stack.pop()
+        if comments[current] == "," and len(stack) == 0:
+            field = comments[start:current].strip()
+            if not fill_in_proto(proto, field):
+                res.append(field + "\n")
+            start = current + 1
+        current += 1
+    proto.review.overall = overall
+
+    if len(stack) > 0:
+        raise Exception("Review is invalid")
+
+    with open("parsed.txt", "w") as fd:
+        fd.writelines(res)
+    
+    with open("movies_textproto/" + filename + ".textproto", "w") as fd:
+        text_proto = text_format.MessageToString(proto)
+        fd.write(text_proto)
+
+
 if __name__=="__main__":
+
+    argc = len(sys.argv)
+
     df = create_df()
+
+    if argc > 1:
+        filename = sys.argv[1]
+        parse_review(df, filename)
+
     # df.to_csv("movies.csv", index=False)
-    create_protos_from_csv(df)
+    # create_protos_from_csv(df)
     # create_protos_free_from_csv(df)
 

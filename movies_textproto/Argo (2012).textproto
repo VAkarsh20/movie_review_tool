@@ -5,69 +5,64 @@ review {
     director {
       name: "Ben Affleck"
     }
-    comments: "Direction ()"
+    comments: "Great Direction"
   }
   acting {
     actor {
       name: "Ben Affleck"
-      comments: " from Ben Affleck ()"
+      comments: "Good to Very Good from Ben Affleck (Though pretty one dimensional)"
     }
     actor {
       name: "Bryan Cranston"
-      comments: " from Bryan Cranston ()"
+      comments: "Very Good from Bryan Cranston"
     }
     actor {
       name: "Alan Arkin"
-      comments: " from Alan Arkin ()"
+      comments: "Very Good from Alan Arkin"
     }
     actor {
       name: "John Goodman"
-      comments: " from John Goodman ()"
+      comments: "Very Good from John Goodman"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Decent to Pretty Good from the rest of the cast"
+    comments: "Good Acting"
   }
   story {
     writer {
       name: "Chris Terrio"
     }
-    comments: "Story ()"
+    comments: "Very Good Story (Though there is a lot of fabrication in what actually happened)"
   }
   screenplay {
     writer {
       name: "Chris Terrio"
     }
-    comments: "Screenplay ()"
+    comments: "Very Good to Great Screenplay"
   }
   score {
     composer {
       name: "Alexandre Desplat"
     }
-    comments: "Score ()"
+    comments: "Good Score"
   }
   cinematography {
     cinematographer {
       name: "Rodrigo Prieto"
     }
-    comments: "Cinematography ()"
+    comments: "Very Good Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Good to Very Good Sound"
   editing {
     editor {
       name: "William Goldenberg"
     }
-    comments: "Editing ()"
+    comments: "Great Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  production_design: "Good Production Design ((especially where they shot the movie to show the Middle East (though some of the shots seemed fake))"
+  pacing: "Pacing was a quick good pace (kinda mimics how quick the operation needed to be carried out); Runtime was good (nothing needed to be cut or added)"
+  climax: "Build to the Climax was extremely well done as it is a really anxious experience to see the hostages escape Iran with the overall escape being the best part of the movie (though it is extremely exaggerated in what actually happened)"
+  final_notes: "The resolution of the movie was good and shows the more personal side of Tony Mendez; the major flaw of this movie was how much of the story was actually fabricated from the true events of the Canadian Caper and Canada's involvement in the operation (which especially hurts given the 'based on a true story' tag it was as marketed/what was put in the film)"
+  overall: "Overall, a Very Good to Great Movie that details a fictional portrayed of the Canadian Caper operation and the rescuing of the Iranian Hostages, with the fabrication from the real story being one of main detractors from how good the movie is (especially cause it said it was 'based on a true story')"
 }
 release_year: 2012
 review_date: "07/11/2021"

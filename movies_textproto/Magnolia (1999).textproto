@@ -5,105 +5,71 @@ review {
     director {
       name: "Paul Thomas Anderson"
     }
-    comments: "Direction ()"
+    comments: "Very Good Direction"
   }
   acting {
     actor {
-      name: "Jeremy Blackman"
-      comments: " from Jeremy Blackman ()"
-    }
-    actor {
       name: "Tom Cruise"
-      comments: " from Tom Cruise ()"
-    }
-    actor {
-      name: "Melinda Dillon"
-      comments: " from Melinda Dillon ()"
+      comments: "Incredible from Tom Cruise (Though he was literally just playing himself)"
     }
     actor {
       name: "Philip Baker Hall"
-      comments: " from Philip Baker Hall ()"
+      comments: "Good to Very Good from Philip Baker Hall ()"
     }
     actor {
       name: "Philip Seymour Hoffman"
-      comments: " from Philip Seymour Hoffman ()"
-    }
-    actor {
-      name: "Ricky Jay"
-      comments: " from Ricky Jay ()"
+      comments: "Very Good to Great from Philip Seymour Hoffman"
     }
     actor {
       name: "William H. Macy"
-      comments: " from William H. Macy ()"
-    }
-    actor {
-      name: "Alfred Molina"
-      comments: " from Alfred Molina ()"
+      comments: "Great from William H. Macy"
     }
     actor {
       name: "Julianne Moore"
-      comments: " from Julianne Moore ()"
-    }
-    actor {
-      name: "Michael Murphy"
-      comments: " from Michael Murphy ()"
+      comments: "Very Good to Great from Julianne Moore"
     }
     actor {
       name: "John C. Reilly"
-      comments: " from John C. Reilly ()"
+      comments: "Good to Very Good from John C. Reilly"
     }
-    actor {
-      name: "Jason Robards"
-      comments: " from Jason Robards ()"
-    }
-    actor {
-      name: "Melora Walters"
-      comments: " from Melora Walters ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Decent from the rest of the cast"
+    comments: "Very Good Acting"
   }
   story {
     writer {
       name: "Paul Thomas Anderson"
     }
-    comments: "Story ()"
+    comments: "Pretty Good Story (I liked the way the store points ran parallel in narrative but intersected at many points throughout the movie; though, it does falter in the last 20-30 minutes)"
   }
   screenplay {
     writer {
       name: "Paul Thomas Anderson"
     }
-    comments: "Screenplay ()"
+    comments: "Good Screenplay (There is a lot of symbolism throughout the movie which I really enjoyed but the dialogue was just very basic, unnatural, and hard to watch)"
   }
   score {
     composer {
       name: "Jon Brion"
     }
-    comments: "Score ()"
+    comments: "Good Score"
   }
   cinematography {
     cinematographer {
       name: "Robert Elswit"
     }
-    comments: "Cinematography ()"
+    comments: "Great Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Decent to Pretty Good Sound"
   editing {
     editor {
       name: "Dylan Tichenor"
     }
-    comments: "Editing ()"
+    comments: "Great Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "The runtime of the movie is extremely long even with the 8 different stories (2-3 of the stories should have been cut to make a more polished product); the ending of the movie was very poor as it had to pick up the pieces from its very weird climax and only tied up the loose ends for like half of the stories (leaving the other half unfinished and questioning)"
+  pacing: "Pacing was extremely slow (Especially dragging at some points) in the first half of the movie and extremely fast in the second half)"
+  climax: "The build to the climax was great and executed very nicely but the actual climax was a 180 from what it was building to and completely threw off the flow and experience of the movie (like I get why PTA did it but it still was just very poorly executed and threw off the movie for no reason)"
+  overall: "Overall, a Pretty Good movie that has a lot of great moments and shows how the different characters lives intersect as they deal with their past trauma, but it falters from its inconsistent pace, terrible use of runtime (Given that it is extremely long and still does not manage to tie up loose ends), and very questionable ending (Something I see a lot from PTA)"
 }
 release_year: 1999
 review_date: "08/09/2021"

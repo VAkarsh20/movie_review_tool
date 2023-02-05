@@ -5,77 +5,61 @@ review {
     director {
       name: "John Krasinski"
     }
-    comments: "Direction ()"
+    comments: "Great Direction"
   }
   acting {
     actor {
       name: "Emily Blunt"
-      comments: " from Emily Blunt ()"
+      comments: "Very Good from Emily Blunt"
     }
     actor {
       name: "Cillian Murphy"
-      comments: " from Cillian Murphy ()"
+      comments: "Very Good from Cillian Murphy"
     }
     actor {
       name: "Millicent Simmonds"
-      comments: " from Millicent Simmonds ()"
+      comments: "Good from Millicent Simmonds"
     }
     actor {
       name: "Noah Jupe"
-      comments: " from Noah Jupe ()"
+      comments: "Good from Noah Jupe"
     }
     actor {
-      name: "Djimon Hounsou"
-      comments: " from Djimon Hounsou ()"
+      name: "John Krasinski"
+      comments: "Good from John Krasinski"
     }
-    actor {
-      name: "John Krasinski[1]"
-      comments: " from John Krasinski[1] ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: ""
+    comments: "Good to Very Good Acting"
   }
   story {
     writer {
       name: "John Krasinski"
     }
-    comments: "Story ()"
+    comments: "Good Story"
   }
   screenplay {
     writer {
       name: "John Krasinski"
     }
-    comments: "Screenplay ()"
+    comments: "Good Screenplay (Uses less ASL makes the movie a bit more 'Blunt,' but the movie uses plot points throughout the movie to tie the movie together)"
   }
   score {
     composer {
       name: "Marco Beltrami"
     }
-    comments: "Score ()"
+    comments: "Decent to Pretty Good Score"
   }
   cinematography {
     cinematographer {
       name: "Polly Morgan"
     }
-    comments: "Cinematography ()"
+    comments: "Great Cinematography"
   }
-  sound: "Sound ()"
-  editing {
-    editor {
-      name: "Michael P. Shawver"
-    }
-    comments: "Editing ()"
-  }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  sound: "Great to Incredible Sound"
+  plot_structure: "Plot Structure was Good"
+  climax: "Build to the climax was great with the final 15 minutes being a very well executed sequence that kept me on the edge of my seat"
+  final_notes: "The movie was scarier than the first (but uses more jump scares to achieve this); movie sort of ends on a cliff hanger but does have some closure to what will happen to the characters"
+  overall: "Overall, a movie that is more of a direct continuation of the first as it uses a larger budget to make a better movie that is scarier, better executed, and a better watch overall (something I hope the spin-off builds on)"
 }
 release_year: 2020
 review_date: "07/22/2021"

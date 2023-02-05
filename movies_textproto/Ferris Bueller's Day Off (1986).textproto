@@ -5,65 +5,53 @@ review {
     director {
       name: "John Hughes"
     }
-    comments: "Direction ()"
+    comments: "Good Direction"
   }
   acting {
     actor {
       name: "Matthew Broderick"
-      comments: " from Matthew Broderick ()"
-    }
-    actor {
-      name: "Mia Sara"
-      comments: " from Mia Sara ()"
+      comments: "Very Good from Matthew Broderick"
     }
     actor {
       name: "Alan Ruck"
-      comments: " from Alan Ruck ()"
+      comments: "Good from Alan Ruck"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Good from the rest of the cast"
+    comments: "Pretty Good to Good Acting"
   }
   story {
     writer {
       name: "John Hughes"
     }
-    comments: "Story ()"
+    comments: "Pretty Good Story (Pretty simplistic in its nature but contains very iconic scenes)"
   }
   screenplay {
     writer {
       name: "John Hughes"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Good Screenplay (Iconic Lines and Scenes throughout the movie with its breaking the fourth wall but the overall screenplay was pretty simple and bland (reeks of the 80s); little to no noticable symbolism)"
   }
   score {
     composer {
       name: "Ira Newborn"
     }
-    comments: "Score ()"
+    comments: "Very Good/Iconic Soundtrack"
   }
   cinematography {
     cinematographer {
       name: "Tak Fujimoto"
     }
-    comments: "Cinematography ()"
+    comments: "Pretty Good Cinematography"
   }
-  sound: "Sound ()"
   editing {
     editor {
       name: "Paul Hirsch"
     }
-    comments: "Editing ()"
+    comments: "Good Film Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing was a valley (very fast towards the beginning and ends but pretty slow in the middle); the runtime was on the shorter side but 20 minutes in the middle definitely could have been cut to produce the same movie"
+  climax: "The build to the climax was a short spike that is very fast with the actual climax being an iconic sequence where Ferris tries to get back home; the ending of the movie was decent with everything coming back full circle (With the post credits being very funny and iconic, something groundbreaking for its day)"
+  overall: "Overall, a Pretty Good movie that contains a lot of iconic moments and is a fun watch as we see the protagonist try to live some of his last moments of youth before growing up, but the movie is still pretty shallow with its content as it reeks of the 80s (especially with its subjects and meta storytelling)"
 }
 release_year: 1986
 review_date: "08/16/2021"

@@ -5,73 +5,57 @@ review {
     director {
       name: "Phil Alden Robinson"
     }
-    comments: "Direction ()"
+    comments: "Pretty Good to Good Direction"
   }
   acting {
     actor {
       name: "Kevin Costner"
-      comments: " from Kevin Costner ()"
+      comments: "Pretty Good to Good from Kevin Costner (Kinda has the same expression throughout the movie (not bad but very static))"
     }
     actor {
       name: "Amy Madigan"
-      comments: " from Amy Madigan ()"
+      comments: "Good to Very Good from Amy Madigan"
     }
     actor {
       name: "James Earl Jones"
-      comments: " from James Earl Jones ()"
+      comments: "Good to Very Good from James Earl Jones"
     }
-    actor {
-      name: "Ray Liotta"
-      comments: " from Ray Liotta ()"
-    }
-    actor {
-      name: "Burt Lancaster"
-      comments: " from Burt Lancaster ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Bad to Decent from the rest of the cast"
+    comments: "Decent to Pretty Good Acting"
   }
   story {
     writer {
       name: "Phil Alden Robinson"
     }
-    comments: "Story ()"
+    comments: "Decent to Pretty Good Story (Though a majority of the movie stems away from the actual subject of the film as the film takes about 40 minutes into a pointless side quest)"
   }
   screenplay {
     writer {
       name: "Phil Alden Robinson"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Good Screenplay (Has iconic lines and good moments but the rest of the dialogue reeks of the 80s and is kinda bland)"
   }
   score {
     composer {
       name: "James Horner"
     }
-    comments: "Score ()"
+    comments: "Great Score"
   }
   cinematography {
     cinematographer {
       name: "John Lindley"
     }
-    comments: "Cinematography ()"
+    comments: "Pretty Good Cinematography"
   }
-  sound: "Sound ()"
   editing {
     editor {
       name: "Ian Crafford"
     }
-    comments: "Editing ()"
+    comments: "Good Film Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing was extremely fast in the beginning then pretty good in the middle and then pretty slow towards the end with a very abrupt ending (though the ending of the movie was decent to pretty good with everything coming back full circle (As all the points come to the purpose of Kevin Costner's character))"
+  climax: "The build to the climax was very abrupt as you realize you missed the climax right as it is about to end; the runtime was on the shorter side but was very poorly used as there definitely could've been 10-20 minutes added towards the climax/resolution"
+  overall: "Overall, a Decent to Pretty Good movie that makes you root for the characters and gets very emotional at times as you go through a baseball themed adventure but is very overatted as the film does not use its runtime effectively and stems away from the subject/purpose of the movie"
 }
 release_year: 1989
 review_date: "08/16/2021"
