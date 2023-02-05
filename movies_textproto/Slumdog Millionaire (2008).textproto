@@ -8,73 +8,64 @@ review {
     director {
       name: "Loveleen Tandan"
     }
-    comments: "Direction ()"
+    comments: "Incredible to Brilliant Direction"
   }
   acting {
     actor {
       name: "Dev Patel"
-      comments: " from Dev Patel ()"
+      comments: "Great from Dev Patel"
     }
     actor {
       name: "Freida Pinto"
-      comments: " from Freida Pinto ()"
-    }
-    actor {
-      name: "Madhur Mittal"
-      comments: " from Madhur Mittal ()"
+      comments: "Good from Freida Pinto"
     }
     actor {
       name: "Anil Kapoor"
-      comments: " from Anil Kapoor ()"
+      comments: "Great from Anil Kapoor"
     }
     actor {
       name: "Irrfan Khan"
-      comments: " from Irrfan Khan ()"
+      comments: "Great from Irrfan Khan"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Good from the rest of the cast (Great from Kids, Good from adults, Decent from teenagers)"
+    comments: "Very Good Acting"
   }
   story {
     writer {
       name: "Simon Beaufoy"
     }
-    comments: "Story ()"
+    comments: "Incredible Story (A mix of bollywood with hollywood in a telling of 'Indian' Forrest Gump; also, the narrative and the story points molding together was extremely well done)"
   }
   screenplay {
     writer {
       name: "Simon Beaufoy"
     }
-    comments: "Screenplay ()"
+    comments: "Great to Incredible Screenplay (The dialogue during the non-romantic parts were incredible while the romantic parts were not as well done; the symbolism of how Jamal was able to use life experiences to be a true rags to riches was incredible)"
   }
   score {
     composer {
       name: "A. R. Rahman"
     }
-    comments: "Score ()"
+    comments: "Great Score/Incredible Soundtrack"
   }
   cinematography {
     cinematographer {
       name: "Anthony Dod Mantle"
     }
-    comments: "Cinematography ()"
+    comments: "Great Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "Chris Dickens"
     }
-    comments: "Editing ()"
+    comments: "Incredible Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  production_design: "Great Production Design (shows the poorer parts of india (rest was also good))"
+  pacing: "Pacing was good but a bit inconsistent (slow during the childhood, extremely fast during the teenage years, decently fast during the adult years); runtime was a bit long but not terrible (probably could have cut out a few sequences)"
+  climax: "The build to the climax was incredible with the actual climax being extremely tense and modeling how bollywood climaxes are usually; the resolution was a bit poor in its execution and the movie could have ended with the climax (though the bollywood sequence at the end was a nice touch)"
+  final_notes: "The incredible nature of the movie is how the plot points throughout the movie connect at the end and during the competition (even though there aren't any deeper meanings in the movie)"
+  overall: "Overall, a Great to Incredible Movie that shows some of the dangerous and true natures of India while highlighting some of its beauty as Danny Boyle pulls off an incredible rendition of 'Indian Forrest Gump' by loosely basing a story from the source material to show a bollywood rendition of the 'rags to riches' trope in what is an incredible watch"
 }
 release_year: 2008
 review_date: "08/01/2021"

@@ -5,95 +5,56 @@ review {
     director {
       name: "Quentin Tarantino"
     }
-    comments: "Direction ()"
+    comments: "Great Direction"
   }
   acting {
     actor {
       name: "John Travolta"
-      comments: " from John Travolta ()"
+      comments: "Very Good to Great from John Travolta"
     }
     actor {
       name: "Samuel L. Jackson"
-      comments: " from Samuel L. Jackson ()"
+      comments: "Great to Incredible from Samuel L. Jackson"
     }
     actor {
       name: "Uma Thurman"
-      comments: " from Uma Thurman ()"
+      comments: "Very Good to Great from Uma Thurman"
     }
     actor {
       name: "Harvey Keitel"
-      comments: " from Harvey Keitel ()"
-    }
-    actor {
-      name: "Tim Roth"
-      comments: " from Tim Roth ()"
-    }
-    actor {
-      name: "Amanda Plummer"
-      comments: " from Amanda Plummer ()"
-    }
-    actor {
-      name: "Maria de Medeiros"
-      comments: " from Maria de Medeiros ()"
-    }
-    actor {
-      name: "Ving Rhames"
-      comments: " from Ving Rhames ()"
-    }
-    actor {
-      name: "Eric Stoltz"
-      comments: " from Eric Stoltz ()"
-    }
-    actor {
-      name: "Rosanna Arquette"
-      comments: " from Rosanna Arquette ()"
-    }
-    actor {
-      name: "Christopher Walken"
-      comments: " from Christopher Walken ()"
+      comments: "Good to Very Good from Harvey Keitel"
     }
     actor {
       name: "Bruce Willis"
-      comments: " from Bruce Willis ()"
+      comments: "Good to Very Good from Bruce Willis"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Very Good from the rest of the cast"
+    comments: "Very Good to Great Acting"
   }
   story {
     writer {
       name: "Quentin Tarantino"
     }
-    comments: "Story ()"
+    comments: "Incredible Story (especially how it was set up as individual stories to mimic the "pulp" magazine style Tarantino was going for; also, the foreshadowing and how all the stories tie together was excellently pulled off)"
   }
   screenplay {
     writer {
       name: "Quentin Tarantino"
     }
-    comments: "Screenplay ()"
+    comments: "Incredible to Brilliant Screenplay (The prime example of Tarantino dialogue)"
   }
-  cinematography {
-    cinematographer {
-      name: "Andrzej Seku\305\202a"
-    }
-    comments: "Cinematography ()"
-  }
-  sound: "Sound ()"
   editing {
     editor {
       name: "Sally Menke"
     }
-    comments: "Editing ()"
+    comments: "Very Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Good Visual Effects (Good subtle use of visual effects (gives the movie a very fictionally story feel))"
+  production_design: "Great Production Design (Helps give the movie the vibe it was going for)"
+  pacing: "Pacing was good as it was quick and got the job done; Runtime was a bit on the longer side but the movie is broken up into multiple stories so it doesn't present too much of problem"
+  climax: "There is no real apparent climax but the build to the last couple of scenes helps draw and put all the stories together (with the last monologue from Jackson showing his character development)"
+  final_notes: "Good use of music to substitute score (Helps with establishing the vibe/mood of the film)"
+  overall: "Overall, a great movie that was a real trendsetter for movies to come after with this Tarantino-esque dialogue, action, violence, and storytelling, but it a bit overrated considering it was a major reason for better movies to come after"
 }
 release_year: 1994
 review_date: "07/11/2021"

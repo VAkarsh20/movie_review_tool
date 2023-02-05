@@ -5,33 +5,33 @@ review {
     director {
       name: "Brian De Palma"
     }
-    comments: "Direction ()"
+    comments: "Pretty Bad to Decent Direction (Good at moments (like the iconic ones), but pretty bad at others)"
   }
   acting {
     actor {
       name: "Al Pacino"
-      comments: " from Al Pacino ()"
+      comments: "Good to Very Good from Al Pacino (Iconic performance (but its pretty one dimensional and his accent is horrible)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Bad from the rest of the cast (most of the actors have a terrible cuban accent)"
+    comments: "Pretty Bad Acting"
   }
   story {
     writer {
       name: "Oliver Stone"
     }
-    comments: "Story ()"
+    comments: "Good Story"
   }
   screenplay {
     writer {
       name: "Oliver Stone"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Bad Screenplay (Has great/iconic moments (there are very iconic lines and moments but a lot of the dialogue/writing is very bland/direct))"
   }
   score {
     composer {
       name: "Giorgio Moroder"
     }
-    comments: "Score ()"
+    comments: " Very 80s Score (not that much of a fan tbh)"
   }
   cinematography {
     cinematographer {
@@ -39,7 +39,7 @@ review {
     }
     comments: "Cinematography ()"
   }
-  sound: "Sound ()"
+  sound: "Decent Sound"
   editing {
     editor {
       name: "Jerry Greenberg"
@@ -47,18 +47,15 @@ review {
     editor {
       name: "David Ray"
     }
-    comments: "Editing ()"
+    comments: "Decent Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  production_design: "Great Production Design"
+  plot_structure: "Plot Structure  was pretty good overall but it only talks about his rags and his riches (really misses out on the rags TO riches part)"
+  pacing: "Runtime was pretty long but it is not used that well because it focuses too much on the ends of the story and not the middle"
+  climax: "Build to the climax was good (mostly because it kinda just takes you there and is not a gradual build overall) with the climax being one of the best parts of the movie"
+  tone: "The mood and vibe of the movies is extremely 80s (probably the most 80s movie I have ever seen)"
+  final_notes: "The character of Tony Montana is a great one that is a 'Rags to Riches to fallen from grace' character with iconic mannerisms (though he is not as great of a character as everyone makes him to be as he is pretty one-dimension/over-the-top even in moments where he shows his more sensitive side)"
+  overall: "Overall, a decent, fun watch with very iconic moments that is an embodiment of the 80s, but overall a very overrated movie that is not that well carried out as people make it to be (a true valley in its rags to riches story)"
 }
 release_year: 1983
 review_date: "07/01/2021"

@@ -5,69 +5,52 @@ review {
     director {
       name: "James Gunn"
     }
-    comments: "Direction ()"
+    comments: "Very Good Direction"
   }
   acting {
     actor {
       name: "Margot Robbie"
-      comments: " from Margot Robbie ()"
+      comments: "Very Good to Great from Margot Robbie ()"
     }
     actor {
       name: "Idris Elba"
-      comments: " from Idris Elba ()"
-    }
-    actor {
-      name: "John Cena"
-      comments: " from John Cena ()"
+      comments: "Very Good to Great from Idris Elba ()"
     }
     actor {
       name: "Joel Kinnaman"
-      comments: " from Joel Kinnaman ()"
+      comments: "Very Good from Joel Kinnaman"
     }
     actor {
       name: "Sylvester Stallone"
-      comments: " from Sylvester Stallone ()"
+      comments: "Very Good to Great from Sylvester Stallone (Voice Acting, a little biased though)"
     }
-    actor {
-      name: "Viola Davis"
-      comments: " from Viola Davis ()"
-    }
-    actor {
-      name: "Jai Courtney"
-      comments: " from Jai Courtney ()"
-    }
-    actor {
-      name: "Peter Capaldi"
-      comments: " from Peter Capaldi ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Good to Very Good from the rest of the cast"
+    comments: "Very Good Acting"
   }
   story {
     writer {
       name: "James Gunn"
     }
-    comments: "Story ()"
+    comments: "Pretty Good to Good Story (though a bit formulaic by combining pieces from the original movie and Guardians of the Galaxy; also, while I liked that there were misdirections/twists, I felt there were a bit too many by the end)"
   }
   screenplay {
     writer {
       name: "James Gunn"
     }
-    comments: "Screenplay ()"
+    comments: "Very Good to Great Screenplay (Very Tarantino-Esque as it is serious but is filled with great comedic dialogue to break tension; really liked how they used CGI/effects as a part of the storytelling)"
   }
   score {
     composer {
       name: "John Murphy"
     }
-    comments: "Score ()"
+    comments: "Decent Score/Good Soundtrack (Though the mix with old and new songs kinda clashed at times for me)"
   }
   cinematography {
     cinematographer {
       name: "Henry Braham"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography"
   }
-  sound: "Sound ()"
   editing {
     editor {
       name: "Fred Raskin"
@@ -75,18 +58,13 @@ review {
     editor {
       name: "Christian Wagner"
     }
-    comments: "Editing ()"
+    comments: "Incredible Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Incredible Visual Effects (really liked how they used CGI as a part of the storytelling; liked the visual gore style cause it showed a blend of both cartoony yet realistic)"
+  production_design: "Great Production Design"
+  pacing: "Pacing was good to very good (a bit quick at the end but nothing terrible)"
+  climax: "Build to the climax was very good with the overall climax being very well executed (bit long though); runtime was ok but 10-15 minutes of the movie could have been cut (especially at the end)"
+  overall: "Overall, a very fun watch that makes me have confidence in the direction DC is going with their movies as this film has creative story telling, great characters, and great action sequences, even though it was very formulaic and a very similar/close-copy to Guardians of the Galaxy (which makes sense given its from James Gunn)"
 }
 release_year: 2021
 review_date: "08/24/2021"

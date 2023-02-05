@@ -5,27 +5,19 @@ review {
     director {
       name: "John Krasinski"
     }
-    comments: "Direction ()"
+    comments: "Good Direction"
   }
   acting {
     actor {
       name: "Emily Blunt"
-      comments: " from Emily Blunt ()"
+      comments: "Very Good to Great from Emily Blunt"
     }
     actor {
       name: "John Krasinski"
-      comments: " from John Krasinski ()"
+      comments: "Good to Very Good from John Krasinski"
     }
-    actor {
-      name: "Millicent Simmonds"
-      comments: " from Millicent Simmonds ()"
-    }
-    actor {
-      name: "Noah Jupe"
-      comments: " from Noah Jupe ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: ""
+    comments: "Good Acting"
   }
   story {
     writer {
@@ -34,7 +26,7 @@ review {
     writer {
       name: "Scott Beck"
     }
-    comments: "Story ()"
+    comments: "Good Story"
   }
   screenplay {
     writer {
@@ -46,37 +38,25 @@ review {
     writer {
       name: "John Krasinski"
     }
-    comments: "Screenplay ()"
+    comments: "Very Good Screenplay (Especially how it uses symbolism along with ASL to tell the story)"
   }
   score {
     composer {
       name: "Marco Beltrami"
     }
-    comments: "Score ()"
+    comments: "Decent Score"
   }
   cinematography {
     cinematographer {
       name: "Charlotte Bruus Christensen"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography"
   }
-  sound: "Sound ()"
-  editing {
-    editor {
-      name: "Christopher Tellefsen"
-    }
-    comments: "Editing ()"
-  }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  sound: "Great Sound"
+  plot_structure: "Plot Structure was Good"
+  pacing: "Short runtime is used effectively as no scene is really unused and there really isn't anything that needs to be added/cut"
+  climax: "Build to the climax was great with the final 20 minutes being a very great executed sequence"
+  overall: "Overall, a well made horror film on the apocalypse trope that is a fun watch that keeps you on your seat, leaving you with wanting more by the time its over"
 }
 release_year: 2018
 review_date: "07/03/2021"

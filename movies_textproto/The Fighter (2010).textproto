@@ -5,27 +5,27 @@ review {
     director {
       name: "David O. Russell"
     }
-    comments: "Direction ()"
+    comments: "Good Direction"
   }
   acting {
     actor {
       name: "Mark Wahlberg"
-      comments: " from Mark Wahlberg ()"
+      comments: "Good to Very Good from Mark Wahlberg (Though pretty shallow in terms of his lack of depth in the more depressing scenes)"
     }
     actor {
       name: "Christian Bale"
-      comments: " from Christian Bale ()"
+      comments: "Incredible from Christian Bale"
     }
     actor {
       name: "Amy Adams"
-      comments: " from Amy Adams ()"
+      comments: "Very Good to Great from Amy Adams"
     }
     actor {
       name: "Melissa Leo"
-      comments: " from Melissa Leo ()"
+      comments: "Great from Melissa Leo"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Good to Good from the rest of the cast"
+    comments: "Good to Very Good Acting"
   }
   story {
     writer {
@@ -37,7 +37,7 @@ review {
     writer {
       name: "Eric Johnson"
     }
-    comments: "Story ()"
+    comments: "Good Story"
   }
   screenplay {
     writer {
@@ -49,37 +49,29 @@ review {
     writer {
       name: "Eric Johnson"
     }
-    comments: "Screenplay ()"
+    comments: "Decent to Pretty Good Screenplay (Pretty shallow and simple though, though it does have a good amount of comedic moments for a drama)"
   }
   score {
     composer {
       name: "Michael Brook"
     }
-    comments: "Score ()"
+    comments: "Score was just there and didn't really do anything; soundtrack choices were very typical of that of early 2010s movies which made it a bit cringe"
   }
   cinematography {
     cinematographer {
       name: "Hoyte van Hoytema"
     }
-    comments: "Cinematography ()"
+    comments: "Great Cinematography (Especially how it gave it a very "documentary style" that mimics the beginning of the movie)"
   }
-  sound: "Sound ()"
   editing {
     editor {
       name: "Pamela Martin"
     }
-    comments: "Editing ()"
+    comments: "Decent Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing was pretty rushed as it skipped/merged a lot of events that actually happened when it really didn't; Runtime was ok but could have been a bit longer towards the end"
+  climax: "the climax was very abrupt and pretty anticlimactic as the final fight and the reconciliation by the family is kinda felt as an after thought when it is meant to be the pinnacle of the movie"
+  overall: "Overall, a good movie that is a fun watch that is driven by its performances but is held back a lot by it being a very simple retelling of what actually happened (even if some of the events were exaggerated)"
 }
 release_year: 2010
 review_date: "06/21/2021"
