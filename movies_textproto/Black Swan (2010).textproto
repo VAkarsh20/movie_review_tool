@@ -5,37 +5,33 @@ review {
     director {
       name: "Darren Aronofsky"
     }
-    comments: "Direction ()"
+    comments: "Incredible Direction (Only someone like Darren Aronofsky could have made this film)"
   }
   acting {
     actor {
       name: "Natalie Portman"
-      comments: " from Natalie Portman ()"
+      comments: "Incredible from Natalie Portman"
     }
     actor {
       name: "Vincent Cassel"
-      comments: " from Vincent Cassel ()"
+      comments: "Decent from Vincent Cassel (Hit or miss performance)"
     }
     actor {
       name: "Mila Kunis"
-      comments: " from Mila Kunis ()"
-    }
-    actor {
-      name: "Barbara Hershey"
-      comments: " from Barbara Hershey ()"
+      comments: "Very Good from Mila Kunis"
     }
     actor {
       name: "Winona Ryder"
-      comments: " from Winona Ryder ()"
+      comments: "Good from Winona Ryder (Very Winona Ryder Performance)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Good from the rest of the cast"
+    comments: "Good Acting"
   }
   story {
     writer {
       name: "Andres Heinz"
     }
-    comments: "Story ()"
+    comments: "Great to Incredible Story"
   }
   screenplay {
     writer {
@@ -47,37 +43,37 @@ review {
     writer {
       name: "John McLaughlin"
     }
-    comments: "Screenplay ()"
+    comments: "Great Screenplay (A very simple yet complex screenplay (Simple in terms of the dialogue as it was very forced/unnatural and made no sense at times, while very complex in terms of the content/subject mater/symbolism in how it presents it))"
   }
   score {
     composer {
       name: "Clint Mansell"
     }
-    comments: "Score ()"
+    comments: "Good Score (blended in very nicely and really liked how they used romantic/swan lake motifs)"
   }
   cinematography {
     cinematographer {
       name: "Matthew Libatique"
     }
-    comments: "Cinematography ()"
+    comments: "Great Cinematography (though nauseating at times)"
   }
   sound: "Sound ()"
   editing {
     editor {
       name: "Andrew Weisblum"
     }
-    comments: "Editing ()"
+    comments: "Great Editing (Great editing/visual effects in how it was molded together to show the hallucinations)"
   }
-  visual_effects: "Visual Effects ()"
+  visual_effects: "Great Visual Effects (See Editing)"
   production_design: "Production Design ()"
   makeup: "Makeup ()"
   costumes: "Costumes ()"
   plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
+  pacing: "Pacing was pretty fast fast/chaotic to mimic that of the mind of Nina (runtime was good (no need to add/cut scenes))"
+  climax: "The build to the climax was great as you really do not know what is real and what is just made up in Nina's head (as she slowly drives into madness on her way to perfection)"
   tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  final_notes: "Incredible symbolism and parallel construction on how the obsession of the artist turned the white/innocent swan that Nina was into the dark/lost soul black swan she became at the end of the movie (something that is parallel to Swan Lake)"
+  overall: "Overall, a great movie that is both a simple, yet complex modern retelling of Swan Lake that looks into the obsession of an artist and how far one will go to pollute their innocence to become the best, even though it was told in a very simple, direct way"
 }
 release_year: 2010
 review_date: "06/21/2021"
