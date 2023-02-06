@@ -5,63 +5,43 @@ review {
     director {
       name: "Tony Kaye"
     }
-    comments: "Direction ()"
+    comments: "Good Direction (while a lot of the conversational moments with smaller character or extras was pretty bad, the more important moments and grand scale moments were carried out very well)"
   }
   acting {
     actor {
       name: "Edward Norton"
-      comments: " from Edward Norton ()"
+      comments: " Incredible from Edward Norton (range of emotions, ferocity, and epiphany were carried out very well)"
     }
     actor {
       name: "Edward Furlong"
-      comments: " from Edward Furlong ()"
+      comments: "Pretty Good from Edward Furlong (Good in some moments and Pretty bad and emotionless in others)"
     }
-    actor {
-      name: "Fairuza Balk"
-      comments: " from Fairuza Balk ()"
-    }
-    actor {
-      name: "Stacy Keach"
-      comments: " from Stacy Keach ()"
-    }
-    actor {
-      name: "Elliott Gould"
-      comments: " from Elliott Gould ()"
-    }
-    actor {
-      name: "Avery Brooks"
-      comments: " from Avery Brooks ()"
-    }
-    actor {
-      name: "Beverly D\'Angelo"
-      comments: " from Beverly D\'Angelo ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Bad to Decent from the rest of the cast (Minor characters were Decent to Pretty Good, extras and very small characters were Pretty Bad)"
+    comments: "Decent to Pretty Good Acting"
   }
   story {
     writer {
       name: "David McKenna"
     }
-    comments: "Story ()"
+    comments: "Pretty Good to Good Story (Really liked the way the story was filtered between flashbacks in B&W and current in color, the fall and redemption of Vinyard was a bit formulaic, but the story towards the end really was carried out very well to show the message of the story)"
   }
   screenplay {
     writer {
       name: "David McKenna"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Good to Good Screenplay (Symbols were a bit overt (though they were good in what they were trying to show) and the dialogue was very meta and forced)"
   }
   score {
     composer {
       name: "Anne Dudley"
     }
-    comments: "Score ()"
+    comments: "Pretty Good Score"
   }
   cinematography {
     cinematographer {
       name: "Tony Kaye"
     }
-    comments: "Cinematography ()"
+    comments: "Great to Incredible Cinematography (especially the way to show flashback being B&W (showing Vinyards past of separating color) with the present being in color (to show Vinyards future to look at multiple facets))"
   }
   sound: "Sound ()"
   editing {
@@ -71,18 +51,13 @@ review {
     editor {
       name: "Alan Heim"
     }
-    comments: "Editing ()"
+    comments: "Great to Incredible Editing (helping with the cinematography)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was good as it is a story that mixes past and present to move the story forward"
+  pacing: "Pacing was very good (nothing to really take out)"
+  climax: "The build to the climax was very good as the climax of the movie really shows the true nature of how life really is; it was the correct decision to end the movie at the climax as it really leaves the audience understanding how life really is"
+  final_notes: "the character and arc of Derek Vinyard is fascinating as (though formulaic) as it shows the way influence has in corrupting the mind and it is only through self-exploration that real thoughts can be formed"
+  overall: "Overall, a good watch to show the importance influence can have on corrupting the mind as we go through the story of Derek Vinyard (through an incredible and powerful performance from Edward Norton) to see how America is a nation filled with flaws and it is up to us to learn from and overcome these flaws (even though some may not be ready to do so), even though the movie may be meta and simple and representation in this message"
 }
 release_year: 1998
 review_date: "11/09/2021"

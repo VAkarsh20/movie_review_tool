@@ -5,31 +5,27 @@ review {
     director {
       name: "Martin Scorsese"
     }
-    comments: "Direction ()"
+    comments: "Incredible Direction (With the ability to handle such fast paced moments with a lot of moving parts at once and the conversations between characters)"
   }
   acting {
     actor {
       name: "Robert De Niro"
-      comments: " from Robert De Niro ()"
+      comments: "Very Good to Great from Robert Di Nero (though his character really does not have that much of a presence in relation to his billing for the movie)"
     }
     actor {
       name: "Ray Liotta"
-      comments: " from Ray Liotta ()"
+      comments: "Great from Ray Liotta (was the right person to drive the story forward, just was not that amazing in the very emotional and sad parts)"
     }
     actor {
       name: "Joe Pesci"
-      comments: " from Joe Pesci ()"
+      comments: "Incredible from Joe Pesci (in a very Joe Pesci way)"
     }
     actor {
       name: "Lorraine Bracco"
-      comments: " from Lorraine Bracco ()"
+      comments: "Very Good to Great from Lorraine Bracco (though the interjections in narration from her character were not that great)"
     }
-    actor {
-      name: "Paul Sorvino"
-      comments: " from Paul Sorvino ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Good to Very Good from the rest of the cast (which is telling considering the number of characters in this movie)"
+    comments: "Great Acting"
   }
   story {
     writer {
@@ -38,7 +34,7 @@ review {
     writer {
       name: "Martin Scorsese"
     }
-    comments: "Story ()"
+    comments: "Incredible Story (With Ray Liota's narration being an iconic feature for the movie in depicting the life of Henry Hill, though the final parts of the plot did drag on a bit)"
   }
   screenplay {
     writer {
@@ -47,31 +43,27 @@ review {
     writer {
       name: "Martin Scorsese"
     }
-    comments: "Screenplay ()"
+    comments: "Incredible to Brilliant Screenplay (with the language being so fluid yet vulgar, the actions conveying the tone of the film, and the film being filled with iconic moments and lines)"
   }
   cinematography {
     cinematographer {
       name: "Michael Ballhaus"
     }
-    comments: "Cinematography ()"
+    comments: "Incredible Cinematography (helped with setting the tone and keeping the pace going)"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "Thelma Schoonmaker"
     }
-    comments: "Editing ()"
+    comments: "Great to Incredible Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was good (though more time was spent in the first half introducing elements, the climax and the resolution dragged for a bit; the first half of the plot had a lot of elements displayed very fast while the second half had less elements and took longer that expected to explain them); I feel that the exposition and rising action were the real key points of the movie as that was what the most time was spent on and really shows the development of the characters"
+  pacing: "Pacing was very quick except towards the end (where the final 40 minutes really dragged on, and it probably could have been cut in half (still felt it dragged even though it was quick))"
+  climax: "In my eyes there were 2 real climaxes for the movie (the build to the first one was great as they really laid out the suspense of its nature, the second climax (while not as big) was not developed that well); did not really like the ending because I felt it was very abrupt"
+  tone: "Tone and mood of the movie is carried out so well by Martin Scorsese as this movie is a prime example of why this formula/movie genre works so well from him (in what might be his prime example for mob movies)"
+  final_notes: "Pretty Good score (despite not officially having one); Good soundtrack (helped set the tone of the movie)"
+  overall: "Overall, a Great movie that is incredible for the first 3/4 as you get to see Martin Scorsese work in his natural element to create one of the mob movies that defined him as you go through the life of Henry Hill and his rise in crime, though the final 1/4 of the movie felt dragging and underdeveloped (leaving the audience not as satisfied as they were throughout the film earlier)"
 }
 release_year: 1990
 review_date: "11/23/2021"

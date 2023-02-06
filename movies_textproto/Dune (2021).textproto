@@ -5,67 +5,39 @@ review {
     director {
       name: "Denis Villeneuve"
     }
-    comments: "Direction ()"
+    comments: "Good to Very Good Direction (Was able to manage the grand scenes very well and did a decent job with the interpersonal scenes)"
   }
   acting {
     actor {
-      name: "Timoth\303\251e Chalamet"
-      comments: " from Timoth\303\251e Chalamet ()"
+      name: "Timothée Chalamet"
+      comments: "Pretty Good from Timothée Chalamet"
     }
     actor {
       name: "Rebecca Ferguson"
-      comments: " from Rebecca Ferguson ()"
+      comments: "Pretty Bad to Decent from Rebecca Ferguson"
     }
     actor {
       name: "Oscar Isaac"
-      comments: " from Oscar Isaac ()"
+      comments: "Good from Oscar Isaac"
     }
     actor {
       name: "Josh Brolin"
-      comments: " from Josh Brolin ()"
+      comments: "Good from Josh Brolin"
     }
     actor {
-      name: "Stellan Skarsg\303\245rd"
-      comments: " from Stellan Skarsg\303\245rd ()"
-    }
-    actor {
-      name: "Dave Bautista"
-      comments: " from Dave Bautista ()"
-    }
-    actor {
-      name: "Stephen McKinley Henderson"
-      comments: " from Stephen McKinley Henderson ()"
-    }
-    actor {
-      name: "Zendaya"
-      comments: " from Zendaya ()"
-    }
-    actor {
-      name: "David Dastmalchian"
-      comments: " from David Dastmalchian ()"
-    }
-    actor {
-      name: "Chang Chen"
-      comments: " from Chang Chen ()"
-    }
-    actor {
-      name: "Sharon Duncan-Brewster"
-      comments: " from Sharon Duncan-Brewster ()"
-    }
-    actor {
-      name: "Charlotte Rampling"
-      comments: " from Charlotte Rampling ()"
+      name: "Stellan Skarsgård"
+      comments: "Good from Stellan Skarsgård"
     }
     actor {
       name: "Jason Momoa"
-      comments: " from Jason Momoa ()"
+      comments: "Good from Jason Momoa"
     }
     actor {
       name: "Javier Bardem"
-      comments: " from Javier Bardem ()"
+      comments: "Good from Javier Bardem"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: ""
+    comments: "Pretty Good to Good Acting"
   }
   story {
     writer {
@@ -77,7 +49,7 @@ review {
     writer {
       name: "Eric Roth"
     }
-    comments: "Story ()"
+    comments: "Bad Story (Bad Storytelling as the exposition does a very poor job of explaining the backstory)"
   }
   screenplay {
     writer {
@@ -89,37 +61,33 @@ review {
     writer {
       name: "Eric Roth"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Good to Good Screenplay that is less awkward than most Sci-Fi movies but forces jargon that is not explained"
   }
   score {
     composer {
       name: "Hans Zimmer"
     }
-    comments: "Score ()"
+    comments: "Great Score"
   }
   cinematography {
     cinematographer {
       name: "Greig Fraser"
     }
-    comments: "Cinematography ()"
+    comments: "Great Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Great Sound"
   editing {
     editor {
       name: "Joe Walker"
     }
-    comments: "Editing ()"
+    comments: "Good Editing (Though it made the movie more confusing when it cut between dreams and reality)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Great Visual Effects"
+  production_design: "Good Production Design"
+  plot_structure: "Plot Structure very skewed because this is one part of a two part movie (First half is the exposition and second half is rising action)"
+  pacing: "Pacing was Very Slow (The first half is incredibly slow while the second half is pretty slow)"
+  climax: "Climax for this movie is not that significant because it is meant to be a rise in the conflict for the next movie"
+  overall: "Overall, a movie with great visuals and the presentations of a great space epic that acts as more of a prologue and beginning of a story than a full movie, though it does suffer from bad storytelling that makes the movie hard to follow; hopefully, this means that this part one sets up part two to be a better movie"
 }
 release_year: 2021
 review_date: "10/31/2021"

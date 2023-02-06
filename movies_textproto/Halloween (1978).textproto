@@ -5,27 +5,11 @@ review {
     director {
       name: "John Carpenter"
     }
-    comments: "Direction ()"
+    comments: "Good Direction"
   }
   acting {
-    actor {
-      name: "Donald Pleasence"
-      comments: " from Donald Pleasence ()"
-    }
-    actor {
-      name: "Jamie Lee Curtis"
-      comments: " from Jamie Lee Curtis ()"
-    }
-    actor {
-      name: "P. J. Soles"
-      comments: " from P. J. Soles ()"
-    }
-    actor {
-      name: "Nancy Loomis"
-      comments: " from Nancy Loomis ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Especially for the younger, inexperienced actors"
+    comments: "Pretty Good to Good Acting"
   }
   story {
     writer {
@@ -34,7 +18,7 @@ review {
     writer {
       name: "Debra Hill"
     }
-    comments: "Story ()"
+    comments: "Very Good/Iconic Story"
   }
   screenplay {
     writer {
@@ -43,40 +27,24 @@ review {
     writer {
       name: "Debra Hill"
     }
-    comments: "Screenplay ()"
+    comments: "Good Screenplay (Good use of suspense and no major flows in the dialogue)"
   }
   score {
     composer {
       name: "John Carpenter"
     }
-    comments: "Score ()"
+    comments: "Very Good/Iconic Score"
   }
   cinematography {
     cinematographer {
       name: "Dean Cundey"
     }
-    comments: "Cinematography ()"
+    comments: "Very Good Cinematography (Really liked the POV shots and thought it overall very well executed especially with such a low budget)"
   }
-  sound: "Sound ()"
-  editing {
-    editor {
-      name: "Tommy Wallace"
-    }
-    editor {
-      name: "Charles Bornstein"
-    }
-    comments: "Editing ()"
-  }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  sound: "Good Sound (Good use of sound effects to help build suspense)"
+  plot_structure: "Plot Structure was pretty poor as it felt that the first hour of the movie is the exposition and the final 30 minutes was the real horror and suspenseful parts of the movie (although the transition/build between these two parts was very well executed)"
+  pacing: "Pacing was very slow overall as the entire movie felt it was dragging up until the final 30 minutes (there were moments where you could tell they were filling time, especially with the panning shots)"
+  overall: "Overall, a fun, iconic horror movie that made the most that it could from its very low budget by creating iconic moments and characters, even though it suffers from a poorly constructed plot structure that spends the first hour in dragging, exposition moments"
 }
 release_year: 1978
 review_date: "10/21/2021"

@@ -5,27 +5,27 @@ review {
     director {
       name: "Alexander Payne"
     }
-    comments: "Direction ()"
+    comments: "Great Direction"
   }
   acting {
     actor {
       name: "Paul Giamatti"
-      comments: " from Paul Giamatti ()"
+      comments: "Incredible to Brilliant from Paul Giamatti (especially how he was able to embody someone with extreme anxiety and depression; Paul Giamatti is the focal point while all the others were great supporting elements to aspects of his character)"
     }
     actor {
       name: "Thomas Haden Church"
-      comments: " from Thomas Haden Church ()"
+      comments: "Great from Thomas Haden Church (though it started out a bit rough)"
     }
     actor {
       name: "Virginia Madsen"
-      comments: " from Virginia Madsen ()"
+      comments: "Very Good to Great from Virginia Madsen"
     }
     actor {
       name: "Sandra Oh"
-      comments: " from Sandra Oh ()"
+      comments: "Very Good from Sandra Oh"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: ""
+    comments: "Great Acting"
   }
   story {
     writer {
@@ -34,7 +34,7 @@ review {
     writer {
       name: "Jim Taylor"
     }
-    comments: "Story ()"
+    comments: "Great Story (A bit rough at first as the plot as the first 1/4, exposition of the movie was very dry in its details but the plot/story really begins to hit its stride and start running afterwards)"
   }
   screenplay {
     writer {
@@ -43,37 +43,29 @@ review {
     writer {
       name: "Jim Taylor"
     }
-    comments: "Screenplay ()"
+    comments: "Incredible Screenplay (The dialogue was both very conversational and elegant at times as it does a great job knowing when to shift from conversations to monologues throughout the movie (incorporating both the scholarly personality of Giamatti's character and the 'valley dude, player' in Haden Church's character))"
   }
   score {
     composer {
       name: "Rolfe Kent"
     }
-    comments: "Score ()"
+    comments: "Pretty Good Score"
   }
   cinematography {
     cinematographer {
       name: "Phedon Papamichael"
     }
-    comments: "Cinematography ()"
+    comments: "Decent Cinematography"
   }
-  sound: "Sound ()"
   editing {
     editor {
       name: "Kevin Tent"
     }
-    comments: "Editing ()"
+    comments: "Good to Very Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing was a bit on the slower side throughout the whole movie (with the first 1/4 being extremely slow and the final 3/4 being a bit slow); Runtime was decent but could have been a bit more optimal if 10-15 minutes was cut from the beginning of the movie"
+  climax: "There really was no build to the climax but the ending was very well done as Giamatti's character really comes to terms with who is and what he wants"
+  overall: "Overall, a great movie that starts off very rough (a true slow burn), but it is an excellent portrayal of finding one's self as they deal with personal struggles as we get a snapshot of a friendship exploring wine country looking for love, something that could have really been polished if the exposition was a bit tighter (making the movie possibly a 9.4-9.5)"
 }
 release_year: 2004
 review_date: "08/27/2021"

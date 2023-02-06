@@ -5,73 +5,64 @@ review {
     director {
       name: "Danny Boyle"
     }
-    comments: "Direction ()"
+    comments: "Good Direction (Some times were better than others cause it was a very raw experience overall)"
   }
   acting {
     actor {
       name: "Cillian Murphy"
-      comments: " from Cillian Murphy ()"
+      comments: "Very Good from Cillian Murphy"
     }
     actor {
       name: "Naomie Harris"
-      comments: " from Naomie Harris ()"
-    }
-    actor {
-      name: "Christopher Eccleston"
-      comments: " from Christopher Eccleston ()"
+      comments: "Very Good from Naomie Harris"
     }
     actor {
       name: "Megan Burns"
-      comments: " from Megan Burns ()"
+      comments: "Very Bad from Megan Burns (though a child actor so do not take seriously)"
     }
     actor {
       name: "Brendan Gleeson"
-      comments: " from Brendan Gleeson ()"
+      comments: "Very Good from Brendan Gleeson"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Good to Good from the rest of the cast"
+    comments: "Good Acting"
   }
   story {
     writer {
       name: "Alex Garland"
     }
-    comments: "Story ()"
+    comments: "Good to Very Good Story (Though the inception of the idea of the virus is a very stupid idea)"
   }
   screenplay {
     writer {
       name: "Alex Garland"
     }
-    comments: "Screenplay ()"
+    comments: "Good Screenplay"
   }
   score {
     composer {
       name: "John Murphy"
     }
-    comments: "Score ()"
+    comments: "Good to Very Good Score"
   }
   cinematography {
     cinematographer {
       name: "Anthony Dod Mantle"
     }
-    comments: "Cinematography ()"
+    comments: "Very Good to Great Cinematography (presents a raw feeling of fear and desolation; though it does help play into the movie reeking of the early 00s)"
   }
-  sound: "Sound ()"
+  sound: "Very Bad Sound (inconsistent)"
   editing {
     editor {
       name: "Chris Gill"
     }
-    comments: "Editing ()"
+    comments: "Bad Editing (The jump cuts and style reeks of the early 00s)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Very Bad Visual Effects (CGI/effects that reek of the early 00s)"
+  plot_structure: "Plot Structure was good for the most part (first 5-10 minutes was very bad but rest of the exposition was fine, all other plot points were fine with the climax being good (though the actual storytelling in this part was chaotic), the ending was not necessarily bad but it was extremely safe)"
+  pacing: "Pacing was a good steady pace"
+  final_notes: "The horror elements of the movie were presented very well as there were suspenseful moments (even though it was not a majority of the film)"
+  overall: "Overall, a fun watch for a horror movie that makes you care more about the actual plot than the horror elements, even though the movie badly reeks of the early 00s"
 }
 release_year: 2002
 review_date: "10/27/2021"
