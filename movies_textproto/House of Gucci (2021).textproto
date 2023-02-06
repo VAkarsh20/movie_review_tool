@@ -5,41 +5,41 @@ review {
     director {
       name: "Ridley Scott"
     }
-    comments: "Direction ()"
+    comments: "Pretty Bad Direction (The tone throughout the movie was incredibly inconsistent, the acting as a whole was not properly conveyed (especially with the accents), and many scenes displayed a sense of awkward silence)"
   }
   acting {
     actor {
       name: "Lady Gaga"
-      comments: " from Lady Gaga ()"
+      comments: "Very Good to Great from Lady Gaga (her mannerisms were very spot on, but some moments definitely shinned more than others)"
     }
     actor {
       name: "Adam Driver"
-      comments: " from Adam Driver ()"
+      comments: "Good to Very Good from Adam Driver (Though his accent can get very annoying at times)"
     }
     actor {
       name: "Jared Leto"
-      comments: " from Jared Leto ()"
+      comments: "Terrible from Jared Leto (Possibly one of the worst performances I have every seen, his accent is atrocious and he's comedic when his trying to be serious)"
     }
     actor {
       name: "Jeremy Irons"
-      comments: " from Jeremy Irons ()"
+      comments: "Good from Jeremy Irons (his accent was the only believable one in the entire cast)"
     }
     actor {
       name: "Salma Hayek"
-      comments: " from Salma Hayek ()"
+      comments: "Bad from Salma Hayek (Considering she is just using her Mexican Accent while playing an Italian character)"
     }
     actor {
       name: "Al Pacino"
-      comments: " from Al Pacino ()"
+      comments: "Pretty Good to Good from Al Pacino (Has his iconic Al Pacino charm but there is still something off with his performance)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Bad to Decent from the rest of the cast"
+    comments: "Bad Acting"
   }
   story {
     writer {
       name: "Becky Johnston"
     }
-    comments: "Story ()"
+    comments: "Pretty Good Story (though the cut spends way too much on the exposition and the rise of Patrizia Reggiani that the inevitable fall is kinda rushed and not well developed; the storytelling was decent though it was inconsistent on what elements mattered the most in presenting the story)"
   }
   screenplay {
     writer {
@@ -48,37 +48,35 @@ review {
     writer {
       name: "Roberto Bentivegna"
     }
-    comments: "Screenplay ()"
+    comments: "Terrible Screenplay (while the symbolism is prevalent, the actual dialogue was filled with terrible jokes and forced sayings that made the conversations feel incredibly unnatural)"
   }
   score {
     composer {
       name: "Harry Gregson-Williams"
     }
-    comments: "Score ()"
+    comments: "Inconsistent Score (the score was used in moments it was needed and was absent in moments it was desperately needed; its absence helped set the inconsistent tone throughout the movie)"
   }
   cinematography {
     cinematographer {
       name: "Dariusz Wolski"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography"
   }
-  sound: "Sound ()"
   editing {
     editor {
       name: "Claire Simpson"
     }
-    comments: "Editing ()"
+    comments: "Pretty Good to Good Editing (helped with some of the moments in the film)"
   }
   visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  production_design: "Good Production Design"
+  makeup: "Incredible Makeup (considering Jared Leto was unrecognizable)"
+  costumes: "Good to Very Good Costumes (it was supposed to emulate Gucci after all)"
+  plot_structure: "Plot Structure was prevalent but not effectively carried out (the movie spends too much time on the rise of the unrecognizable Partizia, that the downfall, climax, and resolution are completely rushed and feel like afterthoughts)"
+  pacing: "Pacing felt like it was fine until you realize that there is 30 minutes left of the movie and the real conflict has only started to be introduced (this left the final act incredibly rushed)"
+  climax: "Build to the climax is present (but the audience is already disinterested in the movie at this point that it is kinda useless); the climax and actual key plot point of the movie is horribly conveyed as it is more comical than dramatic"
+  final_notes: "The aura of the movie is present as it was good to see the 70s/80s/90s having an effect on the fashion and designs of Gucci and the soundtrack used to help show what time period the film is currently in"
+  overall: "Overall, a very poorly executed movie that cannot be saved by performances from Lady Gaga and Adam Driver as the direction, screenplay, tone, and terrible acting make this movie extremely hard to watch and a mess overall"
 }
 release_year: 2021
 review_date: "11/30/2021"
