@@ -5,57 +5,60 @@ review {
     director {
       name: "Peter Weir"
     }
-    comments: "Direction ()"
+    comments: "Good Direction"
   }
   acting {
     actor {
       name: "Robin Williams"
-      comments: " from Robin Williams ()"
+      comments: "Incredible from Robin Williams (really tailored to his personality and was a good precursor to his role in Good Will Hunting)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    actor {
+      name: "Robert Sean Leonard"
+      comments: "Good from Robert Sean Leonard"
+    }
+    actor {
+      name: "Ethan Hawke"
+      comments: "Good from Ethan Hawke (for what he was supposed to portray)"
+    }
+    cast: "Pretty Good from the rest of the cast"
+    comments: "Good Acting"
   }
   story {
     writer {
       name: "Tom Schulman"
     }
-    comments: "Story ()"
+    comments: "Decent to Pretty Good Story (the generic coming-of-age story in a conservative society)"
   }
   screenplay {
     writer {
       name: "Tom Schulman"
     }
-    comments: "Screenplay ()"
+    comments: "Very Good Screenplay (filled with many iconic quotes and is really carried out well by the cast (especially Robin Williams))"
   }
   score {
     composer {
       name: "Maurice Jarre"
     }
-    comments: "Score ()"
+    comments: "Pretty Good Score"
   }
   cinematography {
     cinematographer {
       name: "John Seale"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Bad Sound (it makes it sounds extremely cartoony and unrealistic (especially in the spanking scenes))"
   editing {
     editor {
       name: "William Anderson"
     }
-    comments: "Editing ()"
+    comments: "Pretty Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was a bit off because the movie just ends at the climax (with no resolution or loose ends even close to being tied)"
+  pacing: "Pacing was good (though there definitely needed to be 10-15 minutes added towards the end because of how abrupt the movie ends)"
+  climax: "The build to the climax was very well done because you begin to feel for Perry towards the end; the overall climax was fine but the movie just ends at the iconic scene (making it very hard to understand what happens to the characters because there are so many loose ends that are left untied)"
+  final_notes: "it is important to point out the plot holes in the movie (especially when Keating probably teaches other students, so like what happens to them; also in the iconic scene not everyone stands up and some of the people who stand up are not even in the Dead Poets Society);the development in all the characters (especially Ethan Hawke's character) makes you want to root for them towards the end"
+  overall: "Overall, a coming of age drama that is a bit generic but is carried by Robin Williams' performance and iconic lines as you root for the characters in the end, even though the movie ends very abruptly"
 }
 release_year: 1989
 review_date: "11/10/2021"

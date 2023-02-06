@@ -5,77 +5,55 @@ review {
     director {
       name: "Alfred Hitchcock"
     }
-    comments: "Direction ()"
+    comments: "Great Direction (was able to manage the use of different angles and scenes to help tell and move the story forward)"
   }
   acting {
     actor {
       name: "Anthony Perkins"
-      comments: " from Anthony Perkins ()"
-    }
-    actor {
-      name: "Vera Miles"
-      comments: " from Vera Miles ()"
-    }
-    actor {
-      name: "John Gavin"
-      comments: " from John Gavin ()"
-    }
-    actor {
-      name: "Martin Balsam"
-      comments: " from Martin Balsam ()"
-    }
-    actor {
-      name: "John McIntire"
-      comments: " from John McIntire ()"
+      comments: "Great from Anthony Perkins"
     }
     actor {
       name: "Janet Leigh"
-      comments: " from Janet Leigh ()"
+      comments: "Very Good from Janet Leigh"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Good from the rest of the cast"
+    comments: "Good to Very Good Acting"
   }
   story {
     writer {
       name: "Joseph Stefano"
     }
-    comments: "Story ()"
+    comments: "Great Story that is filled with twists and turns"
   }
   screenplay {
     writer {
       name: "Joseph Stefano"
     }
-    comments: "Screenplay ()"
+    comments: "Very Good Screenplay (uses allusions and symbols to help keep the audience guessing the mystery; also, the dialogue was very fitting for the time)"
   }
   score {
     composer {
       name: "Bernard Herrmann"
     }
-    comments: "Score ()"
+    comments: "Great/Iconic Score that helps with building suspense"
   }
   cinematography {
     cinematographer {
       name: "John L. Russell"
     }
-    comments: "Cinematography ()"
+    comments: "Great Cinematography (especially the use of multiple camera angles and techniques to give illusions of fear and movement)"
   }
-  sound: "Sound ()"
   editing {
     editor {
       name: "George Tomasini"
     }
-    comments: "Editing ()"
+    comments: "Very Good to Great Editing that helps with transitioning between scenes and camera angles"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was good as all points were laid out at the perfect time in the movie; the resolution (while iconic) was a bit convoluted for no reason"
+  pacing: "Pacing for the most part was good (although there were a lot of filler shots that could be cut into a quarter of the time just to fill space (like Norman cleaning or Marion's sister walking up the stairs))"
+  climax: "The build to the climax was very well done with the actual climax being the most suspenseful and best part of the movie"
+  final_notes: "the character of Norman Bates is incredibly written as it shows the effects isolation and jealously can have on an individual to descend into madness (with Perkins capturing this essence very well through his mannerisms and acting)"
+  overall: "Overall, a classic in the horror genre that lives up to the name as many iconic elements of the movie make Psycho a must watch for the slasher genre (especially considering how ahead of its time it was), even though it does have a good amount of filler elements"
 }
 release_year: 1960
 review_date: "11/08/2021"
