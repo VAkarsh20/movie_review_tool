@@ -5,77 +5,64 @@ review {
     director {
       name: "Jason Reitman"
     }
-    comments: "Direction ()"
+    comments: "Pretty Good Direction (Did a fine job in moving the story forward, and the cut of the movie was fine, but nothing was really spectacle with the acting between the cast or showing the symbolism)"
   }
   acting {
     actor {
-      name: "Elliot Page[a]"
-      comments: " from Elliot Page[a] ()"
+      name: "Elliot Page"
+      comments: "Pretty Good to Good from Elliot Page (Showed Good moments, but for the most part played the pretentious teenager who is filled with angst and overly blurts 00s slang)"
     }
     actor {
       name: "Michael Cera"
-      comments: " from Michael Cera ()"
+      comments: "Pretty Good from Michael Cera (just played the Michael Cera character)"
     }
     actor {
       name: "Jennifer Garner"
-      comments: " from Jennifer Garner ()"
+      comments: "Decent to Pretty Good from Jennifer Garner"
     }
     actor {
       name: "Jason Bateman"
-      comments: " from Jason Bateman ()"
+      comments: "Decent to Pretty Good from Jason Bateman"
     }
     actor {
       name: "Allison Janney"
-      comments: " from Allison Janney ()"
+      comments: "Decent to Pretty Good from Allison Janney"
     }
     actor {
       name: "J. K. Simmons"
-      comments: " from J. K. Simmons ()"
+      comments: " Pretty Good from J. K. Simmons"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Decent from the rest of the cast"
+    comments: "Pretty Good Acting"
   }
   story {
     writer {
       name: "Diablo Cody"
     }
-    comments: "Story ()"
+    comments: "Decent to Pretty Good Story (the generic coming of age story about an angsty girl, with the backdrop of the teenage pregnancy)"
   }
   screenplay {
     writer {
       name: "Diablo Cody"
     }
-    comments: "Screenplay ()"
+    comments: "Decent Screenplay (some of the jokes were decently funny, but there was an exaggeration of how teens talked in the 00s (especially with them cramming in way too much of the slang; also, the angsty parts were annoying to watch))"
   }
   score {
     composer {
       name: "Mateo Messina"
     }
-    comments: "Score ()"
+    comments: "Pretty Good Score and Soundtrack"
   }
   cinematography {
     cinematographer {
       name: "Eric Steelberg"
     }
-    comments: "Cinematography ()"
+    comments: "Decent Cinematography"
   }
-  sound: "Sound ()"
-  editing {
-    editor {
-      name: "Dana E. Glauberman"
-    }
-    comments: "Editing ()"
-  }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was clear and clean as segment of the story was effectively shown"
+  pacing: "Pacing was good as the short runtime was effectively used to convey everything that was needed to be said (there was no need to add more time)"
+  climax: "The build to the climax was pretty good with the actual climax really showing the true nature of all the characters"
+  overall: "Overall, a decent to pretty good movie that was a generic coming-of-age story that was masked with the backdrop of the teenage pregnancy and annoying, angsty moments"
 }
 release_year: 2007
 review_date: "12/01/2021"

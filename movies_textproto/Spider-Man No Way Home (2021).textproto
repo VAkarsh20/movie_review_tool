@@ -5,63 +5,39 @@ review {
     director {
       name: "Jon Watts"
     }
-    comments: "Direction ()"
+    comments: "Great Direction (Especially the ability to capture the sad, humor, and action moments, and the ability to have all the characters work with each other despite being from different times)"
   }
   acting {
     actor {
       name: "Tom Holland"
-      comments: " from Tom Holland ()"
-    }
-    actor {
-      name: "Zendaya"
-      comments: " from Zendaya ()"
+      comments: "Very Good to Great from Tom Holland (was able to capture more of the darker, depressing side of Peter Parker while still capturing his boyish side)"
     }
     actor {
       name: "Benedict Cumberbatch"
-      comments: " from Benedict Cumberbatch ()"
-    }
-    actor {
-      name: "Jacob Batalon"
-      comments: " from Jacob Batalon ()"
-    }
-    actor {
-      name: "Jon Favreau"
-      comments: " from Jon Favreau ()"
-    }
-    actor {
-      name: "Jamie Foxx"
-      comments: " from Jamie Foxx ()"
+      comments: "Very Good from Benedict Cumberbatch"
     }
     actor {
       name: "Willem Dafoe"
-      comments: " from Willem Dafoe ()"
+      comments: "Great from Willem Dafoe (Left right off where Spider-Man (2002) ended as he was able to switch between both personalities effortlessly)"
     }
     actor {
       name: "Alfred Molina"
-      comments: " from Alfred Molina ()"
-    }
-    actor {
-      name: "Benedict Wong"
-      comments: " from Benedict Wong ()"
-    }
-    actor {
-      name: "Tony Revolori"
-      comments: " from Tony Revolori ()"
+      comments: "Very Good from Alfred Molina (same with Dafoe, was able to take up where he left off with Spider-Man 2)"
     }
     actor {
       name: "Marisa Tomei"
-      comments: " from Marisa Tomei ()"
+      comments: "Very Good from Marisa Tomei"
     }
     actor {
       name: "Andrew Garfield"
-      comments: " from Andrew Garfield ()"
+      comments: "Great from Andrew Garfield (The best performance of the movie as he was able to be 360 in showing the emotions of a fractured, failed Spiderman)"
     }
     actor {
       name: "Tobey Maguire"
-      comments: " from Tobey Maguire ()"
+      comments: "Very Good from Tobey Maguire (Started off a bit rusty given that Maguire has not had a live action role in 7 years, but after getting his grove back, he was able to show why he was the best Spiderman)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Good to Very Good from the rest of the cast"
+    comments: "Very Good to Great Acting"
   }
   story {
     writer {
@@ -70,7 +46,7 @@ review {
     writer {
       name: "Erik Sommers"
     }
-    comments: "Story ()"
+    comments: "Great Story (While a very simple plot, the ability to mix and mold the different timelines and storylines together into one is great to see; though there are a bit of some plot holes given the spells)"
   }
   screenplay {
     writer {
@@ -79,40 +55,28 @@ review {
     writer {
       name: "Erik Sommers"
     }
-    comments: "Screenplay ()"
+    comments: "Great Screenplay (The ability to capture humor while also being serious was very entertaining; also, the easter-eggs in dialogue from the previous franchises were also great to see)"
   }
   score {
     composer {
       name: "Michael Giacchino"
     }
-    comments: "Score ()"
+    comments: "Good to Very Good Score"
   }
   cinematography {
     cinematographer {
       name: "Mauro Fiore"
     }
-    comments: "Cinematography ()"
+    comments: "Great to Incredible Cinematography"
   }
-  sound: "Sound ()"
-  editing {
-    editor {
-      name: "Jeffrey Ford"
-    }
-    editor {
-      name: "Leigh Folsom Boyd"
-    }
-    comments: "Editing ()"
-  }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  sound: "Great Sound"
+  visual_effects: "Great to Incredible Visual Effects (though it did look a bit cartoony)"
+  costumes: "Great Costumes (especially at how they were able to accent/get previous costumes from the older franchises)"
+  plot_structure: "Plot Structure was great as the movie was broken down effectively into parts that build on each other"
+  pacing: "Pacing was very good as it uses all its scenes effectively (even though the runtime is a bit longer)"
+  climax: "Build to the climax is great with the climax being the best part of the movie (it shows the maturity and growth of all the three spidermans)"
+  final_notes: "Incredible Casting (something I rarely comment on, but the ability to get all the previous Spider-Man actors who were not under contract (as well as the ability to keep the spoilers under wraps) is something that deserves applause in itself); the fan service of the movie is a prime example of how it should be done (it accents all the previous franchises while still showing the brilliance of the current one); the main message/theme of the movie is about second chances (seen with Peter Parker explaining this with the reason to hold the fight at the Statue of Liberty) as all three Spidermans get a second-chance at something that was taken from them (Tobey Maguire's Spiderman gets his second chance at saving Norman Osborn while also getting closure on his career defining role, Andrew Garfield gets his second chance at saving MJ (something he could not do with Gwen) while also redeeming himself from the failures of his franchise to show how capable of a Spiderman he really was, Tom Holland's Spiderman gives his second chance away to his best friend and girlfriend as he sacrifices his life so that they can succeed without him); it is important to also note how amazing of a cinematic experience this was as I have never seen a crowd so invested in the movie as they cheered and got on their feet for different moments (like when the different Spidermen and daredevil were introduced, and when Andrew Garfield gets his second chance) and I really believe this will be the movie to bring theaters back from the pandemic"
+  overall: "Overall, a defining comic-book movie that is filled with action, humor, and sadness as we get to see some familiar faces get second chances and get the closure they never got with both their characters and their careers"
 }
 release_year: 2021
 review_date: "12/23/2021"

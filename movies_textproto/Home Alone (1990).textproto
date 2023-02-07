@@ -5,77 +5,57 @@ review {
     director {
       name: "Chris Columbus"
     }
-    comments: "Direction ()"
+    comments: "Very Good to Great Direction (able to bring out the humor and joy in many moments, helps set the lighthearted tone that Kevin brings throughout the movie)"
   }
   acting {
     actor {
       name: "Macaulay Culkin"
-      comments: " from Macaulay Culkin ()"
+      comments: "Great from Macaulay Culkin (able to bring the charm the movie is known for)"
     }
     actor {
       name: "Joe Pesci"
-      comments: " from Joe Pesci ()"
+      comments: "Great from Joe Pesci (able to bring the charm the movie is known for)"
     }
     actor {
       name: "Daniel Stern"
-      comments: " from Daniel Stern ()"
+      comments: "Very Good from Daniel Stern (the good comedic relief to the comedic relief from Joe Pesci)"
     }
     actor {
-      name: "John Heard"
-      comments: " from John Heard ()"
+      name: "Catherine O'Hara"
+      comments: "Good to Very Good from Catherine O'Hara"
     }
-    actor {
-      name: "Roberts Blossom"
-      comments: " from Roberts Blossom ()"
-    }
-    actor {
-      name: "Catherine O\'Hara"
-      comments: " from Catherine O\'Hara ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Decent to Pretty Good from the rest of the cast"
+    comments: "Pretty Good to Good Acting"
   }
   story {
     writer {
       name: "John Hughes"
     }
-    comments: "Story ()"
+    comments: "Great to Incredible Story (Something that was very unique and iconic for the time as it takes the Christmas movie genre to new heights)"
   }
   screenplay {
     writer {
       name: "John Hughes"
     }
-    comments: "Screenplay ()"
+    comments: "Very Good to Great Screenplay (Filled with iconic lines but the actual dialogue is pretty simple (mostly due to the movie staring a child and it being a family movie))"
   }
   score {
     composer {
       name: "John Williams"
     }
-    comments: "Score ()"
+    comments: "Incredible Score (One of John Williams most iconic works)"
   }
   cinematography {
     cinematographer {
       name: "Julio Macat"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography"
   }
-  sound: "Sound ()"
-  editing {
-    editor {
-      name: "Raja Gosnell"
-    }
-    comments: "Editing ()"
-  }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  sound: "Good Sound"
+  plot_structure: "Plot Structure was very nicely laid out as there are no real wasted scenes in developing the story"
+  pacing: "Pacing was great as it was a steady pace that used its runtime very nicely"
+  climax: "Build to the climax was great as it helped tie loose ends in Kevin's fears of being alone and with the old man; climax is the most iconic part of the movie as it shows Kevin against the Wet Bandits as he lays the house out with traps to defend himself and show how he is not afraid anymore"
+  overall: "Overall, one of the best christmas movies ever made as we get to see the iconic elements carried out by Culkin and the wet bandits as they navigate through the different traps and high jinks, and I would rate this movie higher but I personally prefer the sequel more due to personal reasons"
 }
 release_year: 1990
 review_date: "12/25/2021"
