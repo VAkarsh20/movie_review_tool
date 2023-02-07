@@ -5,61 +5,61 @@ review {
     director {
       name: "Steven Spielberg"
     }
-    comments: "Direction ()"
+    comments: "Incredible Direction (especially as he is able to transition through the serious moments and musical numbers, while simultaneously getting the most out of his cast; also, uses the cinematography and editing very well to drive the story forward)"
   }
   acting {
     actor {
       name: "Ansel Elgort"
-      comments: " from Ansel Elgort ()"
+      comments: "Very Good from Ansel Elgort (Able to hold his own throughout the movie and shows a surprisingly good singing voice)"
     }
     actor {
       name: "Ariana DeBose"
-      comments: " from Ariana DeBose ()"
+      comments: "Decent to Pretty Good from Ariana DeBose (Her acting was on the better side but I was not so much of a fan of her over-the-top, exaggerated singing as I felt it took too much out of the songs)"
     }
     actor {
       name: "David Alvarez"
-      comments: " from David Alvarez ()"
+      comments: "Good to Very Good from David Alvarez"
     }
     actor {
       name: "Mike Faist"
-      comments: " from Mike Faist ()"
+      comments: "Good to Very Good from Mike Faist"
     }
     actor {
       name: "Rita Moreno"
-      comments: " from Rita Moreno ()"
+      comments: "Good to Very Good from Rita Moreno"
     }
     actor {
       name: "Rachel Zegler"
-      comments: " from Rachel Zegler ()"
+      comments: "Great to Incredible from Rachel Zegler (Able to show so much range in her feature debut as she navigates through the different parts of the film effortlessly and shows a powerful singing voice through all the numbers)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Good from the rest of the cast"
+    comments: "Good to Very Good Acting"
   }
   story {
     writer {
       name: "Tony Kushner"
     }
-    comments: "Story ()"
+    comments: "Incredible Story (Mostly takes from the original Broadway production and films (but still a great retelling of Romeo and Juliet filled with Puerto Rican and American influences), really helped show the audience why it is still a classic)"
   }
   screenplay {
     writer {
       name: "Tony Kushner"
     }
-    comments: "Screenplay ()"
+    comments: "Great to Incredible Screenplay (Filled with great dialogue that mixes both English and Spanish and is very true to the times it portrays (have not watched the original productions to say whether or not it is similar))"
   }
   score {
     composer {
       name: "Leonard Bernstein"
     }
-    comments: "Score ()"
+    comments: "Incredible Score (just a rendition of the original scores); Very Good to Great Musical Numbers (Musical renditions were either better, the same, or worse in this compared to the previous renditions; Choreography was incredible and needed to be highlighted though)"
   }
   cinematography {
     cinematographer {
-      name: "Janusz Kami\305\204ski"
+      name: "	Janusz Kamiński"
     }
-    comments: "Cinematography ()"
+    comments: "Incredible Cinematography (especially with the way it uses light and different colors to make scenes more lively in such dark, torn-down areas)"
   }
-  sound: "Sound ()"
+  sound: "Great Sound (makes it feel as if it was mixed and edited back in 1960)"
   editing {
     editor {
       name: "Michael Kahn"
@@ -67,18 +67,14 @@ review {
     editor {
       name: "Sarah Broshar"
     }
-    comments: "Editing ()"
+    comments: "Great Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  production_design: "Incredible Production Design (the clash between the color and dark elements really make the movie show the beauty in the poverty the characters live in)"
+  costumes: "Incredible Costumes (Similar to what the Production Design gives to the movie)"
+  plot_structure: "Plot Structure was mostly identical to the original movie (though it is still good in terms of how everything is laid out, I would have liked to have seen more in terms of moments between Maria and Tony)"
+  pacing: "Pacing was good overall as it did not really feel rushed or dragging at points"
+  climax: "Build to the climax is well done as we get to see tensions building from the rumble between the Sharks and the Jets and how the aftermath effects the characters; climax itself is a pivotal part in the movie as we get to see Tony and Maria's true love come out (though logically it needs to be pointed out how unrealistic the events actually would be)"
+  overall: "Overall, a great remake of the original as we get to hear and see new faces, and old, carry out iconic characters and numbers as this new rendition pays homage to the original in may ways while also holding its own as it brings back the flair and numbers that make West Side Story one of the most well-known musicals of all time"
 }
 release_year: 2021
 review_date: "12/25/2021"

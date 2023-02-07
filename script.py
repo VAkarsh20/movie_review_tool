@@ -198,7 +198,7 @@ def parse_review(df, filename):
     period = review.split(". Overall, ")
     comments = period[0]
     overall = "Overall, " + period[1].rstrip(". ")
-
+    print(comments)
     res = []
     stack = []
     while current < len(comments):
@@ -212,17 +212,19 @@ def parse_review(df, filename):
                 res.append(field + "\n")
             start = current + 1
         current += 1
+    res.append(comments[start:].strip())
     proto.review.overall = overall
 
     if len(stack) > 0:
         raise Exception("Review is invalid")
 
-    with open("parsed.txt", "w") as fd:
-        fd.writelines(res)
+    # with open("parsed.txt", "w") as fd:
+    #     fd.writelines(res)
     
-    with open("movies_textproto/" + filename + ".textproto", "w") as fd:
-        text_proto = text_format.MessageToString(proto)
-        fd.write(text_proto)
+    # with open("movies_textproto/" + filename + ".textproto", "w") as fd:
+    #     text_proto = text_format.MessageToString(proto)
+    #     fd.write(text_proto)
+    print(res)
 
 
 if __name__=="__main__":
