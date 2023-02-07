@@ -5,7 +5,7 @@ review {
     director {
       name: "Sian Heder"
     }
-    comments: "Direction ()"
+    comments: "Great Direction (espeically the ability to control the scenes with deaf actors (especially during the signing arguments))"
   }
   acting {
     actor {
@@ -39,32 +39,32 @@ review {
     writer {
       name: "Sian Heder"
     }
-    comments: "Story ()"
+    comments: "Good to Very Good Story (The story is very predictable because of it being a bildungsroman movie but there are some unique elements that make it interesting to watch (like the juxtaposition of being a singer in a deaf family))"
   }
   screenplay {
     writer {
       name: "Sian Heder"
     }
-    comments: "Screenplay ()"
+    comments: "Very Good Screenplay (especially the usage of ASL in intense arguments, though the imagery/symbolism is a bit surface-level (mostly due to it being a coming of age story))"
   }
   score {
     composer {
       name: "Marius de Vries"
     }
-    comments: "Score ()"
+    comments: "Decent Score"
   }
   cinematography {
     cinematographer {
       name: "Paula Huidobro"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography"
   }
   sound: "Sound ()"
   editing {
     editor {
       name: "Geraud Brisson"
     }
-    comments: "Editing ()"
+    comments: "Good Editing"
   }
   visual_effects: "Visual Effects ()"
   production_design: "Production Design ()"
@@ -75,7 +75,7 @@ review {
   climax: "climax "
   tone: "tone"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a good movie that is carried by the strong performances of the entire cast as we get to see a rare insight into deaf culture, though the movie is held back by it playing way too much to the coming-of-age genre through its cliches and predictable plot"
 }
 release_year: 2021
 review_date: "01/01/2021"
