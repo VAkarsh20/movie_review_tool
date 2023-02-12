@@ -5,77 +5,61 @@ review {
     director {
       name: "Reinaldo Marcus Green"
     }
-    comments: "Direction ()"
+    comments: "Good to Very Good Direction (Cut the right anecdotes and story points to help show the relationship between Richard and his family; got a good amount out of the actors in their scenes, though it felt like there were some points where there was some idle points/awkwardness with the more minor characters)"
   }
   acting {
     actor {
       name: "Will Smith"
-      comments: " from Will Smith ()"
+      comments: "Incredible Acting by Will Smith (Really transforms into the character of Richard Williams as the transformation of harshness to compassion for his family is fluid throughout the entire movie)"
     }
     actor {
       name: "Aunjanue Ellis"
-      comments: " from Aunjanue Ellis ()"
-    }
-    actor {
-      name: "Saniyya Sidney"
-      comments: " from Saniyya Sidney ()"
-    }
-    actor {
-      name: "Demi Singleton"
-      comments: " from Demi Singleton ()"
-    }
-    actor {
-      name: "Tony Goldwyn"
-      comments: " from Tony Goldwyn ()"
+      comments: "Good to Very Good from Aunjanue Ellis (Was a good scene partner to Wll Smith and had moments where she could show off her ability as well)"
     }
     actor {
       name: "Jon Bernthal"
-      comments: " from Jon Bernthal ()"
+      comments: "Good from Jon Bernthal (Was more of a minor role but played it very well)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "decent to pretty good from the rest of the cast"
+    comments: "Pretty Good Acting"
   }
   story {
     writer {
       name: "Zach Baylin"
     }
-    comments: "Story ()"
+    comments: "Very Good to Great Story (Outlines the impact that Richard has on the careers of his daughters as his fire and compassion help fuel their tennis careers; the issue with the story is that it is a bit revisionist as it is told from the perspectives of the Williams family (given the sister\'s roles as Executive producers) and sugarcoats a lot of his horrible nature and kinda makes up some aspects to make it work for the drama; despite this revisionist history, I feel the story still stayed mostly true to what happened and used tennis terminology very well (especially the William\'s use of open stance and throwing a spiral football for their serve))"
   }
   screenplay {
     writer {
       name: "Zach Baylin"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Good to Good Screenplay (A bit simple in its dialogue but gets the job done in terms of moving the story forward, some of the lines feel a bit forced as the foreshadowing is very overt)"
   }
   score {
     composer {
       name: "Kris Bowers"
     }
-    comments: "Score ()"
+    comments: "Score was present/Soundtrack was fine but gave the tone a bit more of a happy go lucky type (which I personally am not too much of a fan of)"
   }
   cinematography {
     cinematographer {
       name: "Robert Elswit"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "Pamela Martin"
     }
-    comments: "Editing ()"
+    comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was laid out very nicely as each element builds off of each other as we see the progression through Venus (as well as Serena) through their come up in the tennis world"
+  pacing: "Pacing was good as there really was not any moments where the movie felt like it was rushed or dragging (no need to cut any time)"
+  climax: "Build to climax was good as it was really building throughout the whole movie (Venus going pro); climax was good as it helped show how cut throat the tennis world can be (even for a prodigy)"
+  tone: "Tone of the movie was a bit too happy go lucky/feel-good and because of this I felt it really took away from some of the serious/angry moments of Richard Williams"
+  final_notes: "a major problem of the movie was that it is really told from the perspective of Richard Williams and because of this it sugar-coats him and kinda takes away from some of the anger he really had when he worked with the media and others (though it does humanize him which was good to see as he really was trying to make his daughters the best); I did like they focused more on Venus because she really gets overshadowed by the success that Serena has gotten over the years"
+  overall: "Overall, a movie that is fueled by the best performance that Will Smith has ever given as he transforms himself into a compassionate father that wants his daughters to succeed, though it does falter from its feel-good tone and its revisionist history given that it is told from the Williams\' family perspective (though it gets a lot of small details right which I do applaud)"
 }
 release_year: 2021
 review_date: "03/21/2022"

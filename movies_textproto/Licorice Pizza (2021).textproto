@@ -5,53 +5,41 @@ review {
     director {
       name: "Paul Thomas Anderson"
     }
-    comments: "Direction ()"
+    comments: "Great Direction (was able to get a lot out of very inexperienced actors)"
   }
   acting {
     actor {
       name: "Alana Haim"
-      comments: " from Alana Haim ()"
+      comments: "Great to Incredible from Alana Haim (really embodied the character and was able to carry her performance through her facial expressions, mannerisms, and vocal inflection)"
     }
     actor {
       name: "Cooper Hoffman"
-      comments: " from Cooper Hoffman ()"
-    }
-    actor {
-      name: "Sean Penn"
-      comments: " from Sean Penn ()"
-    }
-    actor {
-      name: "Tom Waits"
-      comments: " from Tom Waits ()"
+      comments: "Very Good from Cooper Hoffman (able to play the immaturity aspect of his character very well and you can tell he will be a great actor and is his father\'s son)"
     }
     actor {
       name: "Bradley Cooper"
-      comments: " from Bradley Cooper ()"
+      comments: "Great from Bradley Cooper (even though he is in the movie for very little, he really carries his scene and shows how great of an actor he really is)"
     }
-    actor {
-      name: "Benny Safdie"
-      comments: " from Benny Safdie ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Good to Very Good from the rest of the cast"
+    comments: "Very Good Acting"
   }
   story {
     writer {
       name: "Paul Thomas Anderson"
     }
-    comments: "Story ()"
+    comments: "Great Story (the plot was structured in 4 pseudo vignettes that were decently connected together (though it could have been better connected), but the movie is less focused on its story and more about its atmosphere and characters)"
   }
   screenplay {
     writer {
       name: "Paul Thomas Anderson"
     }
-    comments: "Screenplay ()"
+    comments: "Great to Incredible Screenplay (the dialogue was extremely conversational and had a great mix of dramatic/comedic moments, the screenplay was written very well to suit the mood of the film being a bit of a plotless \"hangout\" movie)"
   }
   score {
     composer {
       name: "Jonny Greenwood"
     }
-    comments: "Score ()"
+    comments: "Very Good Score/Soundtrack (helped play to the times of the setting)"
   }
   cinematography {
     cinematographer {
@@ -60,25 +48,20 @@ review {
     cinematographer {
       name: "Paul Thomas Anderson"
     }
-    comments: "Cinematography ()"
+    comments: "Great Cinematography (really liked the tracking shots used to help show the character as they navigate through the scenes, also used shot/reverse-shot and other camera transitions to help show perspective)"
   }
-  sound: "Sound ()"
+  sound: "Very Good Sound"
   editing {
     editor {
       name: "Andy Jurgensen"
     }
-    comments: "Editing ()"
+    comments: "Very Good Editing (was used in tandem to help show perspective in the movie)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was very different but handled decently well (4 smaller stories that ultimately ended in a final climatic moment (no real resolution); the fourth story (the mayor one) was a bit dragging so I would have liked to have seen this one cut by about 10ish minutes to make it more consistent with the other stories)"
+  pacing: "Pacing was good for the most part (was dragging in the final story so I would have liked to have seen this one cut a bit)"
+  climax: "Build up to the climax was very stylistic of 60s-70s movies and I really liked how they did it (was very true to the tone and true to the times); climax itself was a real epiphany moment for the characters as they figured out what they truly wanted"
+  tone: "Tone of the movie was established throughout very nicely as the movie was meant to be a hangout movie and not very deep in its meaning (I personally feel that this movie was what Once upon a Time in Hollywood tried to be, but better)"
+  overall: "Overall, a great movie and a very fun watch as we get to see these young characters grow through the different adventures they go on as PT Anderson delivers a great hangout movie that shows why he is one of the most respected filmmakers in the business by getting the most out of his script and elevating very new actors"
 }
 release_year: 2021
 review_date: "01/11/2022"

@@ -5,51 +5,11 @@ review {
     director {
       name: "Ryusuke Hamaguchi"
     }
-    comments: "Direction ()"
+    comments: "Great Direction (The way the director was able to get the most out of his actors while also putting together different shots to help display the loneliness and trauma of the characters was great to see)"
   }
   acting {
-    actor {
-      name: "Hidetoshi Nishijima"
-      comments: " from Hidetoshi Nishijima ()"
-    }
-    actor {
-      name: "T\305\215ko Miura"
-      comments: " from T\305\215ko Miura ()"
-    }
-    actor {
-      name: "Reika Kirishima"
-      comments: " from Reika Kirishima ()"
-    }
-    actor {
-      name: "Park Yu-rim"
-      comments: " from Park Yu-rim ()"
-    }
-    actor {
-      name: "Jin Dae-yeon"
-      comments: " from Jin Dae-yeon ()"
-    }
-    actor {
-      name: "Sonia Yuan\302\240[zh]"
-      comments: " from Sonia Yuan\302\240[zh] ()"
-    }
-    actor {
-      name: "Ahn Hwitae"
-      comments: " from Ahn Hwitae ()"
-    }
-    actor {
-      name: "Perry Dizon"
-      comments: " from Perry Dizon ()"
-    }
-    actor {
-      name: "Satoko Abe"
-      comments: " from Satoko Abe ()"
-    }
-    actor {
-      name: "Masaki Okada"
-      comments: " from Masaki Okada ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Not one performance was better than another (it felt like everyone played their role the way it was meant to be written and played their part in helping display their trauma)"
+    comments: "Very Good Acting"
   }
   story {
     writer {
@@ -58,7 +18,7 @@ review {
     writer {
       name: "Takamasa Oe"
     }
-    comments: "Story ()"
+    comments: "Good to Very Good Story (While the actual plot is minimal and a bit mismanaged, the different points that help show the characters overcoming their trauma was a nice subtle touch)"
   }
   screenplay {
     writer {
@@ -67,37 +27,33 @@ review {
     writer {
       name: "Takamasa Oe"
     }
-    comments: "Screenplay ()"
+    comments: "Great to Incredible Screenplay (Even though it is a translation, the screenplay felt very natural and personal; it was as if the characters were letting out all of their emotions when trying to move past the hardships they felt)"
   }
   score {
     composer {
       name: "Eiko Ishibashi"
     }
-    comments: "Score ()"
+    comments: "Score was poorly used (the movie rarely used the score as it opted for more ambient noise, but because of this it felt extremely slow; either use a score or do not use a score, do not just minimally use it)"
   }
   cinematography {
     cinematographer {
       name: "Hidetoshi Shinomiya"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Pretty Good Sound"
   editing {
     editor {
       name: "Azusa Yamazaki"
     }
-    comments: "Editing ()"
+    comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was not managed well (The exposition was almost 30 minutes when it could have been 15, the middle acts could have cut like 20-30 minutes as most of it is just white noise/characters not really doing anything, and the resolution kinda felt out of place as it is part of the \"covid\" world when it really did not need to set in a contemporary world)"
+  pacing: "Pacing was bad as the entire movie felt like it was dragging (Because the movie felt like it was 30-45 minutes longer than it should, it just has a lot of emptiness in it that makes the overall move feel slower (which does not help when they do not use a score))"
+  climax: "Build to climax was prevalent (though a bit too prevalent) as it really shows what the characters need and how they are going to get it; climax was executed very well as it is the most touching part of the movie (with the characters leaving everything out there and attempting to move on with their lives)"
+  tone: "tone was consistent throughout as it was a somber tone the mimic the state of the characters"
+  final_notes: "A movie that handles dealing with trauma very well as we can see how these characters are effected by their past actions and how they are holding onto the past (which is not allowing them to move forwards)"
+  overall: "Overall, a very well made and written movie that looks at the effects of holding on to trauma and the importance of letting go as we see all the characters be parts of a well oiled machine, but where the movie really fails with its extremely long runtime and mismanaged plot structure as it really feels like the movie is dragging a lot (something the viewer has to get past to see the hidden beauty)"
 }
 release_year: 2021
 review_date: "03/27/2022"

@@ -5,81 +5,68 @@ review {
     director {
       name: "Kenneth Branagh"
     }
-    comments: "Direction ()"
+    comments: "Very Good to Great Direction (Able to use different camera angles to show perception very well and get the most out of his actors in the cast)"
   }
   acting {
     actor {
       name: "Caitr\303\255ona Balfe"
-      comments: " from Caitr\303\255ona Balfe ()"
+      comments: "Very Good to Great from Caitr\303\255ona Balfe (the change in opinion she has throughout the movie really shows her testament to her home and keeping her family together)"
     }
     actor {
       name: "Judi Dench"
-      comments: " from Judi Dench ()"
+      comments: "Very Good performance from Judi Dench (mastered the Irish accent very well)"
     }
     actor {
       name: "Jamie Dornan"
-      comments: " from Jamie Dornan ()"
+      comments: "Very Good from Jamie Dornan (He was able to give a surprising performance to help be the leader (both moral and physical) of the family as he tries to do what is best)"
     }
     actor {
       name: "Ciar\303\241n Hinds"
-      comments: " from Ciar\303\241n Hinds ()"
-    }
-    actor {
-      name: "Colin Morgan"
-      comments: " from Colin Morgan ()"
-    }
-    actor {
-      name: "Josie Walker"
-      comments: " from Josie Walker ()"
+      comments: "Good to Very Good from Ciar\303\241n Hinds"
     }
     actor {
       name: "Jude Hill"
-      comments: " from Jude Hill ()"
+      comments: "Good to Very Good from Jude Hill (he captured the innocence of the character very well)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: ""
+    comments: "Very Good Acting"
   }
   story {
     writer {
       name: "Kenneth Branagh"
     }
-    comments: "Story ()"
+    comments: "Pretty Bad to Decent Story (There really does not feel like a story as the conflict is only subtly introduced and not really shown to impact the characters that well throughout the movie)"
   }
   screenplay {
     writer {
       name: "Kenneth Branagh"
     }
-    comments: "Screenplay ()"
+    comments: "Good to Very Good Screenplay (The dialogue was very good and true to the region and the symbolism is evident throughout)"
   }
   score {
     composer {
       name: "Van Morrison"
     }
-    comments: "Score ()"
+    comments: "Score was just present (nothing memorable)"
   }
   cinematography {
     cinematographer {
       name: "Haris Zambarloukos"
     }
-    comments: "Cinematography ()"
+    comments: "Great Cinematography (The different camera angles really added to the depth of the movie, use of selective color with a black and white lense really highlighted choices and helped with the stylistic feel of the movie)"
   }
-  sound: "Sound ()"
+  sound: "Decent Sound (sometimes felt it was off)"
   editing {
     editor {
       name: "\303\232na N\303\255 Dhongha\303\255le"
     }
-    comments: "Editing ()"
+    comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was pretty minimal and kinda pointless (the movie is trying to build to something but really has no plot to help with building to that point)"
+  pacing: "Pacing was a bit slow as certain moments really feel like they were dragging on (did not help that certain story elements were kinda pointless)"
+  climax: "Build to the climax was prevalent but not terribly rememberable; climax was good as it showed how far gone Belfast really is and sparked the decision for the family to finally decide their fate"
+  tone: "Tone of the movie stayed consistent throughout as it really played to the coming-of-age story theme with a backdrop of social and political unrest"
+  overall: "Overall, a pretty good movie that is filled with many highlights in direction and acting but feels pretty boring as the plot is very minimal and has nothing memorable to go off of"
 }
 release_year: 2021
 review_date: "03/01/2022"

@@ -8,43 +8,11 @@ review {
     director {
       name: "Evan Goldberg"
     }
-    comments: "Direction ()"
+    comments: "Very Good Direction (Considering the entire movie was improv, I feel like Seth and Evan did an impressive Job giving starting points for the actors to work on)"
   }
   acting {
-    actor {
-      name: "James Franco"
-      comments: " from James Franco ()"
-    }
-    actor {
-      name: "Jonah Hill"
-      comments: " from Jonah Hill ()"
-    }
-    actor {
-      name: "Seth Rogen"
-      comments: " from Seth Rogen ()"
-    }
-    actor {
-      name: "Jay Baruchel"
-      comments: " from Jay Baruchel ()"
-    }
-    actor {
-      name: "Danny McBride"
-      comments: " from Danny McBride ()"
-    }
-    actor {
-      name: "Craig Robinson"
-      comments: " from Craig Robinson ()"
-    }
-    actor {
-      name: "Michael Cera"
-      comments: " from Michael Cera ()"
-    }
-    actor {
-      name: "Emma Watson"
-      comments: " from Emma Watson ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Movie felt like a masterclass in improv from some of the best comedic talents of the early 2010s as the chemistry with the entire cast felt very fluid with everyone building off each other effortlessly"
+    comments: "Very Good Acting"
   }
   story {
     writer {
@@ -53,7 +21,7 @@ review {
     writer {
       name: "Evan Goldberg"
     }
-    comments: "Story ()"
+    comments: "Good Story (A sleepover type movie with the backdrop of apocalypse mixed with different motifs on faith and judgment, though story is not what really makes the movie what it is; different callbacks to the actor\'s previous movies was fun to see)"
   }
   screenplay {
     writer {
@@ -62,37 +30,34 @@ review {
     writer {
       name: "Evan Goldberg"
     }
-    comments: "Screenplay ()"
+    comments: "Very Good to Great Screenplay (Given that 85% of the movie was improv, the entire movie was incredibly funny as all the jokes built off each other very nicely; Also, the biblical symbolism was a nice touch to a movie that is not meant to be taken that serious on the surface)"
   }
   score {
     composer {
       name: "Henry Jackman"
     }
-    comments: "Score ()"
+    comments: "Score was present/Soundtrack complemented the movie very nicely in both style and comedic fashion"
   }
   cinematography {
     cinematographer {
       name: "Brandon Trost"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Pretty Good Sound"
   editing {
     editor {
       name: "Zene Baker"
     }
-    comments: "Editing ()"
+    comments: "Pretty Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Pretty Bad Visual Effects (Felt very low cost)"
+  plot_structure: "Plot Structure was very nice as each segment had its purpose in progressing the story forward"
+  pacing: "Pacing was good as it kept a consistent pace (with no scenes really needed to be cut)"
+  climax: "Build to climax was very typical of movies from this time (so pretty good); climax was good as it was more important in how it is revelations for the characters rather than the action present"
+  tone: "Tone was set very nicely through the different motifs present as the mix of comedy/apocalypse/sleep-over/religious concepts brought something new and fun to see"
+  final_notes: "The reliance on improv was fun to see as it really made the movie more about the characters interacting with each other and building jokes on each other rather than the story itself"
+  overall: "Overall, an incredibly funny movie that is a masterclass in improv from some of the most prominent comedic actors of the early 2010s as we got to see how well they work with each other to make a very disastrous, fun scenario"
 }
 release_year: 2013
 review_date: "03/16/2022"

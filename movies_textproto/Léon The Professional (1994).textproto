@@ -5,69 +5,62 @@ review {
     director {
       name: "Luc Besson"
     }
-    comments: "Direction ()"
+    comments: "Good Direction (Able to move the story forward and coordinate the action scenes nicely)"
   }
   acting {
     actor {
       name: "Jean Reno"
-      comments: " from Jean Reno ()"
+      comments: "Decent to Pretty Good from Jean Reno (Carried out the action sequences well and had some good moments but that was pretty much it)"
     }
     actor {
       name: "Gary Oldman"
-      comments: " from Gary Oldman ()"
+      comments: "Pretty Good to Good from Gary Oldman (Very over-the-top in this performance and felt very Nic Cage-esqe (but he did handle himself very well))"
     }
     actor {
       name: "Natalie Portman"
-      comments: " from Natalie Portman ()"
+      comments: "Pretty Good to Good from Natalie Portman (Given this is her first role I am impressed by the level of maturity she is able to have with a very mature script, she holds herself very well but does show her inexperience (something she definitely improves on throughout her career))"
     }
-    actor {
-      name: "Danny Aiello"
-      comments: " from Danny Aiello ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Very Bad from the rest of the cast"
+    comments: "Pretty Bad Acting"
   }
   story {
     writer {
       name: "Luc Besson"
     }
-    comments: "Story ()"
+    comments: "Decent Story (Pretty Cliche and easy to predict, also a story that has been told so many times before)"
   }
   screenplay {
     writer {
       name: "Luc Besson"
     }
-    comments: "Screenplay ()"
+    comments: "Very Bad Screenplay (The dialogue was extremely bad and felt like it was a dub of another screenplay (when it was not))"
   }
   score {
     composer {
       name: "\303\211ric Serra"
     }
-    comments: "Score ()"
+    comments: "Good Score (I liked how it added to the anxiety of some of the scenes and brought tension overall)"
   }
   cinematography {
     cinematographer {
       name: "Thierry Arbogast"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Good to Very Good Sound"
   editing {
     editor {
       name: "Sylvie Landra"
     }
-    comments: "Editing ()"
+    comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Good to Very Good Visual Effects (More pyro than visuals, plus the blood and gore was a very nice touch)"
+  plot_structure: "Plot Structure felt like it was very mismanaged because the rising action is completely forgotten (feels like a skip from the conflict introduction to the climax)"
+  pacing: "Pacing was very bad as it felt entirely rushed (there should have been like 30 minutes added to this movie because the pacing was incredibly fast and did not leave any time for character development (I understand there is a directors cut of the movie that shows this but I can only review off of the cut that was theatrically released))"
+  climax: "Build to climax was decent but felt extremely rushed by the inconsistent pacing; climax was executed well as the action sequences were the best part of this movie"
+  tone: "Tone of the movie is entirely inconsistent as it just shifts from a father-daughter relationship to a lover relationship"
+  final_notes: "the action sequences of this movie were the best part as you get to see why Leon is a very well trained assassin; it is important to note how disgusting the relationship between Leon and Mathilda is because it just changes from a father-daughter to a very inappropriate lover relationship which was very hard to watch at times (and apparently it was supposed to be even more sexualized)"
+  overall: "Overall, an action movie with a lot of action sequences that were carried out nicely and had good moments, but lacks a well structured plot and screenplay that could not save the themes and relationships they were trying to portray"
 }
 release_year: 1994
 review_date: "04/19/2022"
