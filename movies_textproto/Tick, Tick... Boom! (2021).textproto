@@ -5,61 +5,53 @@ review {
     director {
       name: "Lin-Manuel Miranda"
     }
-    comments: "Direction ()"
+    comments: "Good Direction (The flow and driving the movie forward was very good, the numbers were carried out well; issues are with interpersonal scenes because there is always a large mismatch between Garfield and his co-stars (especially in the more emotional, argumentative scenes))"
   }
   acting {
     actor {
       name: "Andrew Garfield"
-      comments: " from Andrew Garfield ()"
+      comments: "Incredible performance by Andrew Garfield (Really transforms himself into the character as his mannerisms are to a T, he carries every scene he is in as he really shows his range, his singing actually is pretty good as well for someone who has never had a musical background)"
     }
     actor {
       name: "Alexandra Shipp"
-      comments: " from Alexandra Shipp ()"
+      comments: "Decent by Alexandra Shipp (handles scenes decently well but really falters in the augmenting/emotional scenes as you can see the limit she is trying to pass)"
     }
     actor {
       name: "Robin de Jes\303\272s"
-      comments: " from Robin de Jes\303\272s ()"
-    }
-    actor {
-      name: "Joshua Henry"
-      comments: " from Joshua Henry ()"
-    }
-    actor {
-      name: "Judith Light"
-      comments: " from Judith Light ()"
+      comments: "Pretty Good to Good from Robin de Jesús (overall, he commands himself very well and acts as a great side to Garfield, singing is also a plus in his performance, but he really hits his limit and falters in the emotional augmenting scenes)"
     }
     actor {
       name: "Vanessa Hudgens"
       comments: " from Vanessa Hudgens ()"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Bad from the rest of the cast (either Bad or Pretty Good)"
+    comments: "Acting is on a spectrum"
   }
   story {
     writer {
       name: "Steven Levenson"
     }
-    comments: "Story ()"
+    comments: "Very Good to Great Story (very inspiration and details the trials and tribulations Larson when through as he was struggling as an writer; however, it is a major cop out to say that 'the story was true, except when it was not' as just say its true or exaggerated)"
   }
   screenplay {
     writer {
       name: "Steven Levenson"
     }
-    comments: "Screenplay ()"
+    comments: "Good to Very Good Screenplay (the screenplay was pretty simple in terms of its dialogue (also extremely meta, like I understand thats what he was going for its just I hate meta things), but there is great use of foreshadowing and symbolism as it alludes to what inspires Larson to write Rent)"
   }
   score {
     composer {
       name: "Jonathan Larson"
     }
-    comments: "Score ()"
+    comments: "Score/Numbers were hit or miss (I liked some of the songs and did not like others)"
   }
   cinematography {
     cinematographer {
       name: "Alice Brooks"
     }
-    comments: "Cinematography ()"
+    comments: "Pretty Good Cinematography (kinda falters when it shows the numbers as it feels limited by the poor effects)"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "Myron Kerstein"
@@ -67,18 +59,15 @@ review {
     editor {
       name: "Andrew Weisblum"
     }
-    comments: "Editing ()"
+    comments: "Great Editing (especially the cuts between shots when doing the numbers)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Very Bad Visual Effects (the overlays of notes and effects were not that bad, its just that it is very obvious when they are using a green-screen as it is not poorly put into the scene)"
+  production_design: "Pretty Bad Production Design (the overall sets were fine, its just they used CGI to complete some of the sets (in the numbers especially))"
+  plot_structure: "Plot Structure was good"
+  pacing: "Pacing is good for the most part (think it gets a bit too fast towards the end)"
+  climax: "Build to the climax is anti-climatic (but this a good thing) as it shows the constant cycle of Larson getting his hopes up then failing; the resolution feeling empty is a bit symbolic as it shows how Larson was striving for success his entire life (and even though he did achieve it, he never saw it with his own eyes)"
+  final_notes: "the journey of Jonathan Larson is very touching as we get to see him almost on the verge of giving up but continuing to push through adversity (and as I said, even though he never gets to see it; he gets to have his legacy live on)"
+  overall: "Overall, a movie carried by Andrew Garfield as he transforms himself into Jonathan Larson as he tells the story of building a legacy and to keep on going (even if you never get to see your success), though it held back by some of its numbers, limited acting/direction, and very bad CGI"
 }
 release_year: 2021
 review_date: "01/06/2022"

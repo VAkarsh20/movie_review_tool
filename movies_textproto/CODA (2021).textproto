@@ -5,35 +5,23 @@ review {
     director {
       name: "Sian Heder"
     }
-    comments: "Great Direction (espeically the ability to control the scenes with deaf actors (especially during the signing arguments))"
+    comments: "Great Direction (especially the ability to control the scenes with deaf actors (especially during the signing arguments))"
   }
   acting {
     actor {
       name: "Emilia Jones"
-      comments: " from Emilia Jones ()"
-    }
-    actor {
-      name: "Eugenio Derbez"
-      comments: " from Eugenio Derbez ()"
+      comments: "Very Good to Great from Emilia Jones (Able to hold her own and was great in the more emotionally intense scenes (played the angsty character very well as well))"
     }
     actor {
       name: "Troy Kotsur"
-      comments: " from Troy Kotsur ()"
-    }
-    actor {
-      name: "Ferdia Walsh-Peelo"
-      comments: " from Ferdia Walsh-Peelo ()"
-    }
-    actor {
-      name: "Daniel Durant"
-      comments: " from Daniel Durant ()"
+      comments: "Great to Incredible from Troy Kotsur (Stole the show with his comedic, humorous moments and was the real emotional rock for the family as his actions play a vital role in Jones's character finding herself)"
     }
     actor {
       name: "Marlee Matlin"
-      comments: " from Marlee Matlin ()"
+      comments: "Great from Marlee Matlin (plays her role very well and shows a lot of range)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Very Good from the rest of the cast"
+    comments: "Great Acting"
   }
   story {
     writer {
@@ -59,7 +47,7 @@ review {
     }
     comments: "Good Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Very Good Sound (especially with the lack of to mimic how the deaf characters are witnessing the scene)"
   editing {
     editor {
       name: "Geraud Brisson"
@@ -70,11 +58,10 @@ review {
   production_design: "Production Design ()"
   makeup: "Makeup ()"
   costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
+  plot_structure: "Plot Structure good (kinda just follows the generic bilsdungroman plot structure so there really are not issues)"
+  pacing: "Pacing is good (would not really add or cut any scenes as the movie uses its runtime effectively)"
+  climax: "Build to the climax is evident and present (kinda predictable though); climax is a great performance and a culmination of all the hopes and dreams of the characters (though it was kinda predictable what would happen); resolution is touching as it shows how much the family cares for Ruby and how much she cares for them"
+  final_notes: "The major issues of the movie is how much this movie plays to the bilsdungroman archetype as it is incredibly predictable and very surface-level in its meanings of growing up and managing conflicts"
   overall: "Overall, a good movie that is carried by the strong performances of the entire cast as we get to see a rare insight into deaf culture, though the movie is held back by it playing way too much to the coming-of-age genre through its cliches and predictable plot"
 }
 release_year: 2021

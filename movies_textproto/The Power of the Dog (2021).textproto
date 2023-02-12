@@ -5,85 +5,67 @@ review {
     director {
       name: "Jane Campion"
     }
-    comments: "Direction ()"
+    comments: "Very Good to Great Direction (The different choices she made were stylistically very beautiful and artistic, though I did feel she made some questionable choices more for shock value)"
   }
   acting {
     actor {
       name: "Benedict Cumberbatch"
-      comments: " from Benedict Cumberbatch ()"
+      comments: "Very Good to Great from Benedict Cumberbatch (A performance that showed both the harshness of a man while also highlighting his closeted nature)"
     }
     actor {
       name: "Kirsten Dunst"
-      comments: " from Kirsten Dunst ()"
+      comments: "Very Good from Kirsten Dunst (Was able to capture a woman who spirals into a dark alcoholic state very well as the change in action from hope to losing herself is seen through her performance)"
     }
     actor {
       name: "Jesse Plemons"
-      comments: " from Jesse Plemons ()"
+      comments: "Good from Jesse Plemons (was a more calmer foil to the harshness of the main character, which limited the availability he could give with this performance)"
     }
     actor {
       name: "Kodi Smit-McPhee"
-      comments: " from Kodi Smit-McPhee ()"
+      comments: "Pretty Good to Good from Kodi Smit-McPhee (the character was not really written that well as it is more of a nerdy, not strong character that uses more of subtly than overt actions, but I also did not see him go above and beyond in this role either)"
     }
-    actor {
-      name: "Thomasin McKenzie"
-      comments: " from Thomasin McKenzie ()"
-    }
-    actor {
-      name: "Genevieve Lemon"
-      comments: " from Genevieve Lemon ()"
-    }
-    actor {
-      name: "Keith Carradine"
-      comments: " from Keith Carradine ()"
-    }
-    actor {
-      name: "Frances Conroy"
-      comments: " from Frances Conroy ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: ""
+    comments: "Good Acting"
   }
   story {
     writer {
       name: "Jane Campion"
     }
-    comments: "Story ()"
+    comments: "Good to Very Good Story (felt the different parts of the movie were spread out pretty well and the actually closeted nature of the main character was foreshadowed throughout the movie; moreover, the subtle actions of the character really do come around full circle towards the end)"
   }
   screenplay {
     writer {
       name: "Jane Campion"
     }
-    comments: "Screenplay ()"
+    comments: "Good to Very Good Screenplay (the dialogue was well written but the main point of this move is the use of its subtly (even though it may be too much) and use of heavy symbols)"
   }
   score {
     composer {
       name: "Jonny Greenwood"
     }
-    comments: "Score ()"
+    comments: "Very Good Score (really had that western fell and was used very effectively to help show the tense nature of a scene and to keep the movie rolling)"
   }
   cinematography {
     cinematographer {
       name: "Ari Wegner"
     }
-    comments: "Cinematography ()"
+    comments: "Very Good Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "Peter Sciberras"
     }
-    comments: "Editing ()"
+    comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  production_design: "Incredible Production Design (I really felt the location choice for filming along with the sets were very beautiful and helped capture the beauty of the west very well (a very similar feeling I got from Brokeback Mountain))"
+  costumes: "Good Costumes (really liked the western feel a lot as there was the western hardworking men juxtaposed by the elite (similar feel to Red Dead Redemption))"
+  plot_structure: "Plot Structure was good for the most part as the movie was effectively laid out into different acts that helped with the pacing (though the last two acts did feel very rushed)"
+  pacing: "Pacing was good for the most part as I felt the score helped give it a good steady pace (but I felt that the movie is really rushed towards the end and could have benefited from 10-15 more minutes)"
+  climax: "Build to climax was extremely abrupt as it heavily relies on the audience paying attention to the subtly of the characters and what they did in their past acts; climax is more just thrown on us because the director wants us to piece together the subtly to make a conclusion on what happened (something I was not really a fan of)"
+  tone: "Tone of the movie was very harsh/western for the first 3/4 but then becomes a bit more lighter towards the end (which I was not really a fan off cause it was a little too late)"
+  final_notes: "The movie relies way too much on subtly as a method of communicating meaning and I feel that it is too much (causing a worse viewing experience than if it was a mix of dialogue/subtly); there is a major shift in the movie between two characters and after that point the movie really loses its charm as the pacing is very rushed and the ending is really thrown at us as we have to draw conclusions on what happened (which I really thought was a lazy tie up)"
+  overall: "Overall, a movie that is very artistic in its use of subtly and production design as we follow a cowboy come to terms with his own identity, but even though the movie is well made, it falters from relying too much on subtly and ultimately leaves the audience with more questions in the end"
 }
 release_year: 2021
 review_date: "04/06/2022"
