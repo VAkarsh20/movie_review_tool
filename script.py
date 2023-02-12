@@ -8,6 +8,7 @@ import os
 import movie_pb2
 from google.protobuf import text_format
 import sys
+from collections import defaultdict
 
 def get_imdb_id(film):
 
@@ -139,10 +140,71 @@ def create_protos_free_from_csv(df):
             print("Issue with {}".format(i))
             continue
 
-def fill_in_proto(proto, field):
+def fill_in_acting(comments):
+    
+    def fill_in_acting_comments(actors_dict, comment):
+        if "from the rest of the cast" in comment:
+            proto.review.acting.cast = comment
+            return True
+        else:
+            name = comment.partition("from ")[-1]
+            actor_comment_idx = comments.find("(")
+
+            if actor_comment_idx != -1:
+                name = name.partition(" (")[0]
+            
+            i = actors_dict[name]
+            if i != -1:
+                proto.review.acting.actor[i].comments = comment
+                return True
+            else:
+                return False
+
+    start = comments.find("(")
+    if start == -1:
+        proto.review.acting.comments = comments.strip()
+        return
+    else:
+        proto.review.acting.comments = comments[:start].strip()
+
+    if comments[-1] != ")":
+        raise Exception("Acting should end with a closing parenthesis")
+    
+    start += 1
+    current = start
+
+    actors_dict = defaultdict(lambda: -1)
+    
+    for i in range(len(proto.review.acting.actor)):
+        actor = proto.review.acting.actor[i]
+        actors_dict[actor.name] = i
+
+    stack = []
+    while current < len(comments) - 1:
+        
+        if comments[current] == "(":
+            stack.append("(")
+        elif comments[current] == ")":
+            stack.pop()
+        if comments[current] == "," and len(stack) == 0:
+            comment = comments[start:current].strip()
+            # Fix this
+            if not fill_in_acting_comments(actors_dict, comment):
+                res.append(comment + "\n")
+            start = current + 1
+        current += 1
+    
+    last_comment = comments[start:-1].strip()
+    if not fill_in_acting_comments(actors_dict, last_comment):
+        res.append(last_comment + "\n")
+
+def fill_in_proto(field):
     
     if "Direction" in field and proto.review.direction.comments == "Direction ()":
         proto.review.direction.comments = field
+        return True
+    elif "Acting" in field and proto.review.acting.comments.strip() == "Acting":
+        fill_in_acting(field)
         return True
     elif "Story" in field and proto.review.story.comments == "Story ()":
         proto.review.story.comments = field
@@ -174,6 +236,21 @@ def fill_in_proto(proto, field):
     elif "Costumes" in field and proto.review.costumes == "Costumes ()":
         proto.review.costumes = field
         return True
+    elif "Plot Structure" in field and proto.review.plot_structure == "Plot Structure ":
+        proto.review.plot_structure = field
+        return True
+    elif "Pacing" in field and proto.review.pacing == "Pacing ":
+        proto.review.pacing = field
+        return True
+    elif field.startswith("the build to climax") and proto.review.climax == "climax ":
+        proto.review.climax = field.replace("the build", "Build")
+        return True
+    elif field.startswith("climax"):
+        proto.review.climax += "; {}".format(field)
+        return True
+    elif field.startswith("tone "):
+        proto.review.tone = field.capitalize()
+        return True
     else:
         return False
 
@@ -199,6 +276,7 @@ def parse_review(df, filename):
     comments = period[0]
     overall = "Overall, " + period[1].rstrip(". ")
 
+    global res
     res = []
     stack = []
     while current < len(comments):
@@ -208,7 +286,7 @@ def parse_review(df, filename):
             stack.pop()
         if comments[current] == "," and len(stack) == 0:
             field = comments[start:current].strip()
-            if not fill_in_proto(proto, field):
+            if not fill_in_proto(field):
                 res.append(field + "\n")
             start = current + 1
         current += 1
@@ -216,7 +294,7 @@ def parse_review(df, filename):
     proto.review.overall = overall
 
     if len(stack) > 0:
-        raise Exception("Review is invalid")
+        raise Exception("Review is invalid, there is an extra (")
 
     with open("parsed.txt", "w") as fd:
         fd.writelines(res)

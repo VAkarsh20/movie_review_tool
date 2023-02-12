@@ -5,51 +5,35 @@ review {
     director {
       name: "Cary Joji Fukunaga"
     }
-    comments: "Direction ()"
+    comments: "Very Good Direction (Was able to choreograph the fight and action scenes very well as well as the interpersonal dialogue heavy scenes)"
   }
   acting {
     actor {
       name: "Daniel Craig"
-      comments: " from Daniel Craig ()"
+      comments: "Very Good to Great from Daniel Craig (A good send-off performance for the character he is most known for as he really takes command of every scene he is in (though there are some small minor hiccups that take this from going above and beyond his other Bond performances))"
     }
     actor {
       name: "Rami Malek"
-      comments: " from Rami Malek ()"
+      comments: "Pretty Bad performance from Rami Malek (It felt very lazy and his overall acting and mannerisms did not feel that menacing as a Bond villain)"
     }
     actor {
       name: "L\303\251a Seydoux"
-      comments: " from L\303\251a Seydoux ()"
+      comments: "Good from L\303\251a Seydoux (A good scene partner and love interest to Bond)"
     }
     actor {
       name: "Ana de Armas"
-      comments: " from Ana de Armas ()"
+      comments: "Very Good from Ana de Armas (even though she was barely in the movie, she plays her ditsy, Bond girl character very well)"
     }
     actor {
       name: "Lashana Lynch"
-      comments: " from Lashana Lynch ()"
-    }
-    actor {
-      name: "Ben Whishaw"
-      comments: " from Ben Whishaw ()"
-    }
-    actor {
-      name: "Naomie Harris"
-      comments: " from Naomie Harris ()"
+      comments: "Good to Very Good from Lashana Lynch (Was able to make the most out of the dialogue she was given as she plays the up-incoming, hotshot trope well)"
     }
     actor {
       name: "Jeffrey Wright"
-      comments: " from Jeffrey Wright ()"
+      comments: "Very Good from Jeffrey Wright (A nice return from a memorable Bond character as Wright pays to his strengths very well with this performance)"
     }
-    actor {
-      name: "Christoph Waltz"
-      comments: " from Christoph Waltz ()"
-    }
-    actor {
-      name: "Ralph Fiennes"
-      comments: " from Ralph Fiennes ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Good from the rest of the main cast (though some questionable performances from some of the minor villains)"
+    comments: "Good Acting"
   }
   story {
     writer {
@@ -61,7 +45,7 @@ review {
     writer {
       name: "Cary Joji Fukunaga"
     }
-    comments: "Story ()"
+    comments: "Pretty Good to Good Story (The layout of Bond coming out of retirement and why certain pieces tie together make it be a good closure to the whole Daniel Craig Bond Saga; though there were some questionable story elements towards the end (filed with predictable cliches))"
   }
   screenplay {
     writer {
@@ -76,21 +60,21 @@ review {
     writer {
       name: "Phoebe Waller-Bridge"
     }
-    comments: "Screenplay ()"
+    comments: "Decent to Pretty Good Screenplay (some of the dialogue was fine but there were some elements where it was easy to predict what was going to be said and what was coming up; it was very obvious where Phoebe Waller-Bridge came in to edit the screenplay to add more comedic elements because it just felt very forced and not funny (though some of the wittier/typical Bond jokes did hit))"
   }
   score {
     composer {
       name: "Hans Zimmer"
     }
-    comments: "Score ()"
+    comments: "Very Good to Great Score (took elements of old Bond themes while also captured new themes to make it work well (this was Hans Zimmer after all))"
   }
   cinematography {
     cinematographer {
       name: "Linus Sandgren"
     }
-    comments: "Cinematography ()"
+    comments: "Very Good Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Great Sound (Really enjoyed the moments where Bond\'s hearing is recovering in a fight from close proximity to an explosion)"
   editing {
     editor {
       name: "Elliot Graham"
@@ -98,18 +82,15 @@ review {
     editor {
       name: "Tom Cross"
     }
-    comments: "Editing ()"
+    comments: "Very Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Great Visual Effects"
+  plot_structure: "Plot Structure was good for the most part (I felt the exposition really help play into the trust issues for Bond, but I feel like the resolution was very lackluster)"
+  pacing: "Pacing was good because even though it was a long movie the pacing was consistent for the most part (no need to cut anything)"
+  climax: "Build to climax was good because it was clear what was needed and how it was important to the story; climax was executed very nicely in terms of action (but in terms of story it was a bit cliche and predictable)"
+  tone: "Tone was constant for the most part because it tried to be the typical bond movie (but like an older bond who is coming out of retirement one last time (though the break in tone for the comedy scenes were really annoying))"
+  final_notes: "The finishing touches for Craig as bond were displayed very well throughout the movie as you can see him make peace with his time as the character as he shows his experience but also shows his closure at the same time"
+  overall: "Overall, a nice conclusion to Daniel Craig as James Bond as we get to see him close out the character on his own terms in a very action packed, emotional manner, but the movie does not really compete with his other movies like Skyfall and Casino Royale due to the subpar screenplay/story and questionable performances from Rami Malek and some of the minor characters"
 }
 release_year: 2021
 review_date: "03/25/2022"

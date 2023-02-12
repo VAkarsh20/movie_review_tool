@@ -5,77 +5,58 @@ review {
     director {
       name: "Roman Polanski"
     }
-    comments: "Direction ()"
+    comments: "Great to Incredible Direction (Polanski really moves the story forward in the typical noir style, but adds his own twists that make this movie stand out from the rest)"
   }
   acting {
     actor {
       name: "Jack Nicholson"
-      comments: " from Jack Nicholson ()"
+      comments: "Very Good to Great from Jack Nicholson (Plays his character very well as it is a character who is constantly haunted by the demons he faced in his past)"
     }
     actor {
       name: "Faye Dunaway"
-      comments: " from Faye Dunaway ()"
+      comments: "Good to Very Good from Faye Dunaway (Is able to go past the damsel in distress character as she offers her own reasons to why she is doing what she is doing)"
     }
-    actor {
-      name: "John Hillerman"
-      comments: " from John Hillerman ()"
-    }
-    actor {
-      name: "Perry Lopez"
-      comments: " from Perry Lopez ()"
-    }
-    actor {
-      name: "Burt Young"
-      comments: " from Burt Young ()"
-    }
-    actor {
-      name: "John Huston"
-      comments: " from John Huston ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Good from the rest of the cast"
+    comments: "Good to Very Good Acting"
   }
   story {
     writer {
       name: "Robert Towne"
     }
-    comments: "Story ()"
+    comments: "Great Story (The different points and elements really work well with each other as the different clues foreshadow what is going to happen (as well as detail why the past is so important to the characters), the ending is really realistic of what actually may happen; but the way the actual story was laid out was a not really balanced as there were moments were it felt they were spending too much time on small things and too little time on big things)"
   }
   screenplay {
     writer {
       name: "Robert Towne"
     }
-    comments: "Screenplay ()"
+    comments: "Incredible Screenplay (Very true to the noir style and the symbolism is really prevalent in not only physical form but how it effects the characters (aka the meaning of \"Chinatown\"))"
   }
   score {
     composer {
       name: "Jerry Goldsmith"
     }
-    comments: "Score ()"
+    comments: "Good Score"
   }
   cinematography {
     cinematographer {
       name: "John A. Alonzo"
     }
-    comments: "Cinematography ()"
+    comments: "Good to Very Good Cinematography (really enjoyed the POV shots and the moving camera)"
   }
-  sound: "Sound ()"
+  sound: "Good Sound (typical of a 70s movie)"
   editing {
     editor {
       name: "Sam O\'Steen"
     }
-    comments: "Editing ()"
+    comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Good Visual Effects/Stunts"
+  plot_structure: "Plot Structure was not laid out in the best way (there is a lack of exposition (we are kinda just thrown into the lives of the characters), the middle parts of the movie spend a bit too much time on different smaller elements and very little time on important elements, and the ending/climax is also a bit rushed)"
+  pacing: "Pacing was a bit all over the place as it can be either very slow or very fast at times (especially the end which is extremely fast)"
+  climax: "Build to climax was present but extremely fast (though i did like this to an extent); climax was incredibly short but the best part of the movie (really shows what the overall meaning is)"
+  tone: "Tone of the movie is very noir-esque and plays this very well"
+  final_notes: "I understand why the movie is called Chinatown (for symbolic reasons) but for the movie to only have the final 5 minutes be the only time they are ever in Chinatown is really disappointing (like looking at it from a consumer perspective and not a filmmaker's perspective)"
+  overall: "Overall, a classic that still holds up very well as a very well written story mixed with some of the best talent of the time makes the movie a film noir that is very similar to the time in its presentation but very different in how it lays the plot together and how things finish off (though it does falter a bit in its plot structure and pacing of different elements)"
 }
 release_year: 1974
 review_date: "04/11/2022"

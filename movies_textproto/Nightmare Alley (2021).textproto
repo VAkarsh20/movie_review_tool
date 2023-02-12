@@ -5,47 +5,31 @@ review {
     director {
       name: "Guillermo del Toro"
     }
-    comments: "Direction ()"
+    comments: "Very Good to Great Direction (Was able to progress the story forward not only from a macro scale but on a micro scale as well (though there were some blimps on that micro scale (some of the scenes felt kinda like filler and empty space)))"
   }
   acting {
     actor {
       name: "Bradley Cooper"
-      comments: " from Bradley Cooper ()"
+      comments: "Good to Very Good acting from Bradley Cooper (Played the character very well, the issue was it was more of a mysterious character that only comes out towards the end of the movie (Especially the last 5 minutes))"
     }
     actor {
       name: "Cate Blanchett"
-      comments: " from Cate Blanchett ()"
+      comments: "Good to Very Good from Cate Blanchett (it felt like a lot of the prep/performance was borrowed from her portrayal as Katharine Hepburn in The Aviator)"
     }
     actor {
       name: "Toni Collette"
-      comments: " from Toni Collette ()"
+      comments: "Good from Toni Collette"
     }
     actor {
       name: "Willem Dafoe"
-      comments: " from Willem Dafoe ()"
-    }
-    actor {
-      name: "Richard Jenkins"
-      comments: " from Richard Jenkins ()"
+      comments: "Good from Willem Dafoe"
     }
     actor {
       name: "Rooney Mara"
-      comments: " from Rooney Mara ()"
+      comments: "Pretty Good from Rooney Mara (Kinda a boring character altogether)"
     }
-    actor {
-      name: "Ron Perlman"
-      comments: " from Ron Perlman ()"
-    }
-    actor {
-      name: "Mary Steenburgen"
-      comments: " from Mary Steenburgen ()"
-    }
-    actor {
-      name: "David Strathairn"
-      comments: " from David Strathairn ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Decent to Pretty Good from the rest of the cast"
+    comments: "Pretty Good to Good Acting Overall"
   }
   story {
     writer {
@@ -54,7 +38,7 @@ review {
     writer {
       name: "Kim Morgan"
     }
-    comments: "Story ()"
+    comments: "Good to Very Good Story (A story surrounded in mystery and the passage of time is handled very well through its subtle details, though it may just be the source material because it almost feels like nothing major is happening throughout)"
   }
   screenplay {
     writer {
@@ -63,37 +47,35 @@ review {
     writer {
       name: "Kim Morgan"
     }
-    comments: "Screenplay ()"
+    comments: "Good to Very Good Screenplay (The symbolism is prevalent and the screenplay is pretty true to the time)"
   }
   score {
     composer {
       name: "Nathan Johnson"
     }
-    comments: "Score ()"
+    comments: "Decent to Pretty Good Score"
   }
   cinematography {
     cinematographer {
       name: "Dan Laustsen"
     }
-    comments: "Cinematography ()"
+    comments: "Brilliant Cinematography (Possibly one of the best shot movies I have ever scene, the transition and camera angles used to help tell the story was honestly breath-taking)"
   }
-  sound: "Sound ()"
+  sound: "Pretty Good to Sound"
   editing {
     editor {
       name: "Cam McLauchlin"
     }
-    comments: "Editing ()"
+    comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Good Visual Effects"
+  production_design: "Incredible Production Design (It feels like this movie is from the same universe as The Shape of Water as the sets and styles feel awfully similar to that movie, which is fine because the Production design for that movie was also a standout)"
+  plot_structure: "Plot Structure is laid out very well as it is easy to follow where we are in the story and which part of the narrative arc we are"
+  pacing: "Pacing was slow and consistent throughout the movie (not a bad thing)"
+  climax: "Build to climax was very good as it was show overtly why the climax was important and what built up to it; climax was shown very well as it symbolizes the downfall of Cooper's character as he get's himself in too deep"
+  tone: "Tone of the movie was very good as the Neo Noir style added to the historical and dark feel of the movie that was mysterious throughout"
+  final_notes: "It may have been an issue from the source material but did not feel as if the movie was that new or captivating in what it was trying to show (it felt like a formulaic movie that was pretty surface level)"
+  overall: "Overall, Good to Very Good movie that is visually appealing as we go through the mystery of the characters that was a fun and captivating watch, though it is a bit surface level in both its formulaic plot structure and story leaving us wanting more as it feels like nothing really happens"
 }
 release_year: 2021
 review_date: "03/15/2022"

@@ -5,53 +5,49 @@ review {
     director {
       name: "Ilya Naishuller"
     }
-    comments: "Direction ()"
+    comments: "Decent to Pretty Good Direction (Was able to move the story forward decently well even though he could not get the most out of his actors, action scenes were pretty well coordinated)"
   }
   acting {
     actor {
       name: "Bob Odenkirk"
-      comments: " from Bob Odenkirk ()"
-    }
-    actor {
-      name: "Connie Nielsen"
-      comments: " from Connie Nielsen ()"
+      comments: "Good from Bob Odenkirk"
     }
     actor {
       name: "RZA"
-      comments: " from RZA ()"
+      comments: "Decent to Pretty Good from RZA"
     }
     actor {
       name: "Christopher Lloyd"
-      comments: " from Christopher Lloyd ()"
+      comments: "Decent to Pretty Good from Christopher Lloyd"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Bad from the rest of the cast (mainly due to inexperience)"
+    comments: "Pretty Bad to Decent Acting overall"
   }
   story {
     writer {
       name: "Derek Kolstad"
     }
-    comments: "Story ()"
+    comments: "Pretty Good Story (it is kinda just an ex-army, John Wick Copy)"
   }
   screenplay {
     writer {
       name: "Derek Kolstad"
     }
-    comments: "Screenplay ()"
+    comments: "Decent Screenplay (kinda bland dialogue overall though)"
   }
   score {
     composer {
       name: "David Buckley"
     }
-    comments: "Score ()"
+    comments: "Score was not rememberable"
   }
   cinematography {
     cinematographer {
       name: "Pawel Pogorzelski"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "William Yeh"
@@ -59,18 +55,14 @@ review {
     editor {
       name: "Evan Schiff"
     }
-    comments: "Editing ()"
+    comments: "Good Editing (Felt kinda cheap, though the repetitive editing in the beginning is very symbolic in a way that Requiem for a Dream had those sequences)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure followed the same generic plot structure of a John Wick/Action Movie"
+  pacing: "Pacing felt very fast (the movie was less than 90 minutes)"
+  climax: "Build to the climax was very good as it is a culmination of all the action that Odenkirk's character had in him; Climax was good as it was the most action packed moment of the entire movie and was well choreographed"
+  tone: "Tone of the movie was very dark and grungy (adds to that John Wick feel)"
+  final_notes: "the action scenes were well choreographed as a whole and shared a very similar stylistic choice to John Wick"
+  overall: "Overall, a decent watch that was filled with action, though it entirely feels like a John Wick copy (which makes sense given who made the movie)"
 }
 release_year: 2021
 review_date: "03/01/2022"
