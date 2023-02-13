@@ -5,39 +5,27 @@ review {
     director {
       name: "Rawson Marshall Thurber"
     }
-    comments: "Direction ()"
+    comments: "Pretty Good Direction (comedic elements were executed well and it was pretty similar in feel to that of comedies from that time-frame)"
   }
   acting {
     actor {
       name: "Jennifer Aniston"
-      comments: " from Jennifer Aniston ()"
+      comments: "Good to Very Good from Jennifer Aniston (really showed her experience in comedic acting from this role and did a good job being a presence to work off of for the other actors)"
     }
     actor {
       name: "Jason Sudeikis"
-      comments: " from Jason Sudeikis ()"
+      comments: "Good to Very Good from Jason Sudeikis (really commanded all the scenes he was in and was the lightning rod for others to work on him)"
     }
     actor {
       name: "Emma Roberts"
-      comments: " from Emma Roberts ()"
+      comments: "Good from Emma Roberts"
     }
     actor {
       name: "Will Poulter"
-      comments: " from Will Poulter ()"
+      comments: "Good from Will Poulter"
     }
-    actor {
-      name: "Nick Offerman"
-      comments: " from Nick Offerman ()"
-    }
-    actor {
-      name: "Kathryn Hahn"
-      comments: " from Kathryn Hahn ()"
-    }
-    actor {
-      name: "Ed Helms"
-      comments: " from Ed Helms ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Good to Good from the rest of the cast (given what their roles in the movie were and the type of movie it is)"
+    comments: "Good Acting"
   }
   story {
     writer {
@@ -46,7 +34,7 @@ review {
     writer {
       name: "Steve Faber"
     }
-    comments: "Story ()"
+    comments: "Decent to Pretty Good Story (At its core the movie is pretty surface level in that its a fake family trying to smuggle drugs, but the overall story is funny and good to watch all the flawed characters grow in the process)"
   }
   screenplay {
     writer {
@@ -61,40 +49,13 @@ review {
     writer {
       name: "John Morris"
     }
-    comments: "Screenplay ()"
+    comments: "Good Screenplay (Very funny movie that has some quotable lines/moments)"
   }
-  score {
-    composer {
-      name: "Theodore Shapiro"
-    }
-    composer {
-      name: "Ludwig G\303\266ransson"
-    }
-    comments: "Score ()"
-  }
-  cinematography {
-    cinematographer {
-      name: "Barry Peterson"
-    }
-    comments: "Cinematography ()"
-  }
-  sound: "Sound ()"
-  editing {
-    editor {
-      name: "Mike Sale"
-    }
-    comments: "Editing ()"
-  }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was very nice and laid out well"
+  pacing: "Pacing was good as it kept a consistent pace for the most part (though it does drag towards the end (so cutting like 5-10 minutes towards the end would have really helped))"
+  climax: "Build to climax was very typical of movies from this time; climax was good (A generic mix of 2010s action with comedic elements)"
+  tone: "Tone was set very nicely as you know it is a comedy from the way they play off the genre"
+  overall: "Overall, a funny movie with good performances that is a fun watch that is not very serious, though the flawed characters growing from their journey is a nice touch"
 }
 release_year: 2013
 review_date: "07/03/2022"

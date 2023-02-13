@@ -5,35 +5,35 @@ review {
     director {
       name: "Daniel Espinosa"
     }
-    comments: "Direction ()"
+    comments: "Terrible Direction (I do not understand how someone could do this bad of a job at directing, it was as if every scene was off and there was no consistent tone of style the director wanted to go for)"
   }
   acting {
     actor {
       name: "Jared Leto"
-      comments: " from Jared Leto ()"
+      comments: "Pretty Bad to Bad from Jared Leto (A performance that had so many questions overall with what he was doing as it was very over-the-top/forced and not well executed (but he did show moments where he is someone who can act (its just that that was not the majority of the film)))"
     }
     actor {
       name: "Matt Smith"
-      comments: " from Matt Smith ()"
+      comments: "Terrible to Very Bad from Matt Smith (His performance was just borderline annoying and really did not help with being the foil/villain to Morbius, it was just hard to believe overall cause of how questionable it was)"
     }
     actor {
       name: "Adria Arjona"
-      comments: " from Adria Arjona ()"
+      comments: "Bad from Adria Arjona (She did have some range of emotion, but this did not save her from giving a phone-in performance that really did not play that much to the story at all as a love-interest)"
     }
     actor {
       name: "Jared Harris"
-      comments: " from Jared Harris ()"
+      comments: "Pretty Bad from Jared Harris (His performance was actually the best because of how bad everyone else was, he really just was a neutral character that did not provide any value with what he did)"
     }
     actor {
       name: "Al Madrigal"
-      comments: " from Al Madrigal ()"
+      comments: "Terrible to Very Bad from Al Madrigal (He just did not match the tone of the movie because he tried to be funny when it was serious and vice versa, and because of this his performance just felt so off and was hard to watch at times (so this bad performance maybe just a by-product of the movie being bad and inconsistent))"
     }
     actor {
       name: "Tyrese Gibson"
-      comments: " from Tyrese Gibson ()"
+      comments: "Very Bad to Bad from Tyrese Gibson (He just lacked any effort as it felt very phoned-in and effortless when he was trying to be serious and find truth)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Terrible from the rest of the cast"
+    comments: "Very Bad Acting"
   }
   story {
     writer {
@@ -42,7 +42,7 @@ review {
     writer {
       name: "Burk Sharpless"
     }
-    comments: "Story ()"
+    comments: "Terrible Story (There is just so many jumps and assumptions made to the audience that the story does not come together at all (this can be especially be seen as Morbius just knows he has these powers without even showing us how he got them); also, there is just so many plot holes and boring moments that the writing really shows how bad it is)"
   }
   screenplay {
     writer {
@@ -51,37 +51,34 @@ review {
     writer {
       name: "Burk Sharpless"
     }
-    comments: "Screenplay ()"
+    comments: "Terrible Screenplay (The dialogue is horrible and so unnatural that its borderline laughable that someone actually wrote this; also, the attempts at humor were so bad as it just left awkward silence rather than having the audience laugh; moreover, the character writing is terrible as you do not care about any of the characters introduced in this movie)"
   }
   score {
     composer {
       name: "Jon Ekstrand"
     }
-    comments: "Score ()"
+    comments: "Bad Score (it is just so poorly used and written as serious themes play during comedic moments and vice versa; also the score is just so loud at times that you can barely hear the dialogue)"
   }
   cinematography {
     cinematographer {
       name: "Oliver Wood"
     }
-    comments: "Cinematography ()"
+    comments: "Terrible Cinematography (It felt like a fan made movie with how shaky and amateur the cinematography was)"
   }
-  sound: "Sound ()"
+  sound: "Bad Sound (It was so poorly mixed that I could barely hear the characters as times)"
   editing {
     editor {
-      name: "Pietro Scalia[1]"
+      name: "Pietro Scalia"
     }
-    comments: "Editing ()"
+    comments: "Bad Editing (the actual different cuts and transitions between scenes was so poorly done it felt like this movie was made in Windows movie maker)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Terrible Visual Effects (it was over-saturated throughout the entire movie and just felt extremely cartoony at times)"
+  plot_structure: "Plot Structure was really poorly laid out as it spent no time in its exposition and developing the character to where once the climax comes the audience is just so confused with how Morbius got his powers and developed as a character; also there is no exposition as the movie just ends on a cliffhanger"
+  pacing: "Pacing was incredible fast and mismanaged to the point where the movie is incredibly short and there are so many questions left when the movie ended (if the movie was good I would have wanted to have seen like 30-40 more minutes, but I would not wish anyone to see 30-40 minutes more of this movie)"
+  climax: "Build to climax is nonexistent as we just get there with no background with how we are there; climax was horribly executed as we find out we were in the climax after the movie ends; also the actual fighting and over-saturation of CGI made it so boring and hard to watch"
+  tone: "Tone was incredibly inconsistent as the moments where it was meant to be funny it tries to be serious and vice-versa (it was as if the director had no idea what type of movie he wanted to create)"
+  final_notes: "This movie is not bad to where it is funny it is just bad to where it is just so interesting how it even go made"
+  overall: "Overall, one of the worst movies ever created with how much money was put into this and the output they got as there is not a single good thing to say about this movie (and I really hope nobody has to go through the struggle of having to see it, even for the meme)"
 }
 release_year: 2022
 review_date: "06/07/2022"

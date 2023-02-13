@@ -5,23 +5,23 @@ review {
     director {
       name: "Mike Nichols"
     }
-    comments: "Direction ()"
+    comments: "Great Direction (Really was able to get a lot from his actors and used the different camera angles and editing to help tell the story and get the most out of a movie that is very simple on paper)"
   }
   acting {
     actor {
       name: "Anne Bancroft"
-      comments: " from Anne Bancroft ()"
+      comments: "Great from Anne Bancroft (Really plays the dynamic of the older person trying to take advantage of the younger very well while also showing a range of emotion when trying to protect her daughter, overall showed her experience with this role)"
     }
     actor {
       name: "Dustin Hoffman"
-      comments: " from Dustin Hoffman ()"
+      comments: "Very Good from Dustin Hoffman (Started off very slow as it was not that believable that he could be an anxious young adult, but he got better and better as the performance went on as he really began to steal the show the further the movie progressed and he got more comfortable (an analogy to his character in the movie itself))"
     }
     actor {
       name: "Katharine Ross"
-      comments: " from Katharine Ross ()"
+      comments: "Good to Very Good from Katharine Ross (shows up pretty late into the movie but does show some range in her character towards the end as she begins to have feelings for Hoffman\'s character)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Good to Very Good from the rest of the cast"
+    comments: "Very Good Acting"
   }
   story {
     writer {
@@ -30,7 +30,7 @@ review {
     writer {
       name: "Buck Henry"
     }
-    comments: "Story ()"
+    comments: "Very Good Story (A tale of two movies: the first part dealt with the uncertainty of graduation and did a good job doing so as the main character dives deeper into exploring his independence, the second part deals with the more typical rom-com movie of parents disapproving of this love/love-triangle; while the transition between these two parts is very abrupt as it does not flow well, the connection between the beginning and the end is better)"
   }
   screenplay {
     writer {
@@ -39,7 +39,7 @@ review {
     writer {
       name: "Buck Henry"
     }
-    comments: "Screenplay ()"
+    comments: "Very Good Screenplay (the actual conversational dialogue is very well written (with iconic lines), but some of the lines are a little too on-the-nose (like when he talks about not knowing his future); the symbolism of water is also used throughout as it helps provide truth and wash away sins committed from the past)"
   }
   score {
     composer {
@@ -48,31 +48,27 @@ review {
     composer {
       name: "Dave Grusin (score)"
     }
-    comments: "Score ()"
+    comments: "Great Score/Soundtrack (Uses three different songs for the different parts of the movie and does a good job building themes and renditions that weave into the story very well, also the songs are very iconic in themselves)"
   }
   cinematography {
     cinematographer {
       name: "Robert Surtees"
     }
-    comments: "Cinematography ()"
+    comments: "Incredible Cinematography (Especially the different angles they used and the mirroring techniques they had (something that is very ahead of its time))"
   }
-  sound: "Sound ()"
+  sound: "Very Good Sound"
   editing {
     editor {
       name: "Sam O\'Steen"
     }
-    comments: "Editing ()"
+    comments: "Incredible Editing (The transition between shots was very seamless and really seemed groundbreaking given when this movie was created (examples of this are when Hoffman\'s character transitions from going to the pool to seeing Mrs. Robinson and some of the Hotel scene shots))"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was not the best structured as it felt like a movie with in two big parts (the Ben-Mrs.Robinson relationship and the Ben-Elaine relationship) with the last part into itself being split into two parts (so this makes the movie feel very unbalanced in its structure as it favors the first part a lot)"
+  pacing: "Pacing was not that well maintained as the first half felt fine but the second half felt like it was dragging as it starts when a typical rise to the climax should happen (so 15-10 minutes could have between cut from the first half to make it seen more balanced)"
+  climax: "Build to climax was well done as it pretty standard for the typical Rom-Com (but since this is a movie from the past it may be that other later films have taken from this so that actually might make it revolutionary); climax was a bit chaotic as so much happens at once and kinda makes it hard to concentrate (also it is very fast); the movie also kinda ends abruptly with no conclusion (but that may be intentional for symbolic purposes)"
+  tone: "Tone was actually well established as it shifts from uncertainty to having a clear vision (with both being the guise of a rom-com)"
+  final_notes: "For a movie that is over 50 years it is very groundbreaking in what it does with direction/cinematography and is a pioneer in the rom-com genre that many movies later on most likely take from"
+  overall: "Overall, a movie that is a very good watch and has things to watch for (like direction and acting) as we get to see Dustin Hoffman enter the Hollywood scene with a very comedic movie that is groundbreaking in the rom-com genre, but the film suffers from a very imbalanced plot structure as it favors the Mrs.Robinson relationship a lot more than it should"
 }
 release_year: 1967
 review_date: "06/14/2022"
