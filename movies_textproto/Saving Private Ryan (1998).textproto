@@ -5,57 +5,59 @@ review {
     director {
       name: "Steven Spielberg"
     }
-    comments: "Direction ()"
+    comments: "Incredible to Brilliant Direction (The way he was able to conduct shots and scenes on a mass scale was a masterclass as it was truly a spectacle to watch the grotesque nature of war as it places its subjects into mass trauma; the interpersonal scenes were also well carried out as he is able to capture the trauma the characters are experiencing through World War II)"
   }
   acting {
     actor {
-      name: "Tom HanksEdward BurnsMatt DamonTom Sizemore"
-      comments: " from Tom HanksEdward BurnsMatt DamonTom Sizemore ()"
+      name: "Tom Hanks"
+      comments: "Great from Tom Hanks (does a great job in portraying the leader who has to move past his present trauma to lead his men (really commands all the scenes he is in))"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    actor {
+      name: "Matt Damon"
+      comments: "Very Good to Great from Matt Damon (Although he is not in the movie for long, he really does a good job in portraying the emotion of someone who has so much to live for yet has already lost so much)"
+    }
+    cast: "Very Good to Great from the rest of the cast (everyone (even Vin Diesel) plays their part very well no matter how big or small it is)"
+    comments: "Very Good to Great Acting"
   }
   story {
     writer {
       name: "Robert Rodat"
     }
-    comments: "Story ()"
+    comments: "Good Story (At its core it is pretty simple as it is just the characters going on a mission that they do not want to go on (but have to to serve their country); but the different elements of the character\'s journey was a good touch to see)"
   }
   screenplay {
     writer {
       name: "Robert Rodat"
     }
-    comments: "Screenplay ()"
+    comments: "Great Screenplay (The dialogue was very well written and naturally flowed from the characters and the use of symbolism in trying to find purpose greater than one\'s self as well as dealing with trauma was very well written)"
   }
   score {
     composer {
       name: "John Williams"
     }
-    comments: "Score ()"
+    comments: "Very Good Score"
   }
   cinematography {
     cinematographer {
       name: "Janusz Kami\305\204ski"
     }
-    comments: "Cinematography ()"
+    comments: "Incredible Cinematography (And this shows during the war scenes (especially D-Day))"
   }
-  sound: "Sound ()"
+  sound: "Incredible Sound"
   editing {
     editor {
       name: "Michael Kahn"
     }
-    comments: "Editing ()"
+    comments: "Great Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Brilliant Visual Effects (Especially the ability to capture the gore of war)"
+  makeup: "Great Makeup (In helping show the dirt and gore of war)"
+  plot_structure: "Plot Structure was managed well as the movie really starts with a 30 minute prologue of D-Day followed by the actual movie (which is well structured)"
+  pacing: "Pacing was good for the most part (though some of the middle conflict could have been cut by like 10-15 minutes to help with length)"
+  climax: "Build to climax was incredible as it shows the mission coming to a close (but not fully completed); climax was well executed as it really symbolizes the scarifies the characters make for the country and those who are and are not willing to put their body on the line to defend it"
+  tone: "Tone was a war movie mixed with one of character\'s dealing with trauma as both aspects synergize to create a well made tone that keeps the audience captivated"
+  final_notes: "One of the best representations of War and Trauma I have seen as the gore and dangerous elements of the war paint a realistic picture of how traumatic the overall experience was for the characters and how they have to go through it to finish their job"
+  overall: "Overall, and incredible movie that is a must watch to see the effects trauma has on soldiers of war who want to get out but cannot due to the duty they have to serve to their country"
 }
 release_year: 1998
 review_date: "06/28/2022"

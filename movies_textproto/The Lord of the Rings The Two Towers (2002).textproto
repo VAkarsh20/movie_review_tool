@@ -5,83 +5,11 @@ review {
     director {
       name: "Peter Jackson"
     }
-    comments: "Direction ()"
+    comments: "Very Good to Great Direction (Takes a step back from the previous movie as this movie is more about moving the story forward (which is does a great job at) but introduces many new things in this film that it is a bit hard to follow at times)"
   }
   acting {
-    actor {
-      name: "Elijah Wood"
-      comments: " from Elijah Wood ()"
-    }
-    actor {
-      name: "Ian McKellen"
-      comments: " from Ian McKellen ()"
-    }
-    actor {
-      name: "Liv Tyler"
-      comments: " from Liv Tyler ()"
-    }
-    actor {
-      name: "Viggo Mortensen"
-      comments: " from Viggo Mortensen ()"
-    }
-    actor {
-      name: "Sean Astin"
-      comments: " from Sean Astin ()"
-    }
-    actor {
-      name: "Cate Blanchett"
-      comments: " from Cate Blanchett ()"
-    }
-    actor {
-      name: "John Rhys-Davies"
-      comments: " from John Rhys-Davies ()"
-    }
-    actor {
-      name: "Bernard Hill"
-      comments: " from Bernard Hill ()"
-    }
-    actor {
-      name: "Christopher Lee"
-      comments: " from Christopher Lee ()"
-    }
-    actor {
-      name: "Billy Boyd"
-      comments: " from Billy Boyd ()"
-    }
-    actor {
-      name: "Dominic Monaghan"
-      comments: " from Dominic Monaghan ()"
-    }
-    actor {
-      name: "Orlando Bloom"
-      comments: " from Orlando Bloom ()"
-    }
-    actor {
-      name: "Hugo Weaving"
-      comments: " from Hugo Weaving ()"
-    }
-    actor {
-      name: "Miranda Otto"
-      comments: " from Miranda Otto ()"
-    }
-    actor {
-      name: "David Wenham"
-      comments: " from David Wenham ()"
-    }
-    actor {
-      name: "Brad Dourif"
-      comments: " from Brad Dourif ()"
-    }
-    actor {
-      name: "Karl Urban"
-      comments: " from Karl Urban ()"
-    }
-    actor {
-      name: "Andy Serkis"
-      comments: " from Andy Serkis ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "All the performances still act as pieces to a larger part but they are not as powerful as they were in the first film (specifically Gandolf) but Gollum did improve in this movie substantially"
+    comments: "Very Good Acting"
   }
   story {
     writer {
@@ -96,7 +24,7 @@ review {
     writer {
       name: "Peter Jackson"
     }
-    comments: "Story ()"
+    comments: "Good to Very Good Story (The story is still very captivating but there are so many parallel plots going that introduce new story elements so quickly that is a bit confusing at times on what is happening)"
   }
   screenplay {
     writer {
@@ -111,37 +39,37 @@ review {
     writer {
       name: "Peter Jackson"
     }
-    comments: "Screenplay ()"
+    comments: "Great Screenplay (Similar to the first film; while the very \"Middle English\"-esque text is hard to follow sometimes, the actual dialogue is very well written as we see the director use it well to help tell the story (especially in the narration parts); also, the symbolism throughout the movie (specifically, about a boy who is trying to grow-up and be a hero trope))"
   }
   score {
     composer {
       name: "Howard Shore"
     }
-    comments: "Score ()"
+    comments: "Great Score (with memorable themes, and actually may be a bit better this movie)"
   }
   cinematography {
     cinematographer {
       name: "Andrew Lesnie"
     }
-    comments: "Cinematography ()"
+    comments: "Very Good Cinematography (An improvement from the last film as there are more grandiose shots that are well executed)"
   }
-  sound: "Sound ()"
+  sound: "Great Sound"
   editing {
     editor {
       name: "Michael J. Horton"
     }
-    comments: "Editing ()"
+    comments: "Very Good to Great Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Very Good Visual Effects (For the most part the CGI is good but there are more noticeable hiccups in this movie than the previous (especially in the mix between Live-Action and CGI))"
+  production_design: "Great Production Design"
+  makeup: "Great Makeup"
+  costumes: "Very Good Costumes"
+  plot_structure: "Plot Structure just feels like it is moving the story forward and not like a separate film in the trilogy (like the first film) so there really is no typical plot structure"
+  pacing: "Pacing was very fast (especially for a movie that is 3 hours long) as it felt like they were trying to fit so much in (which does make sense given how dense the books are) but unlike the last film I do not think it does as good of a job as it did in the previous one"
+  climax: "Build to climax was good as it builds up to different epic battles that the characters must fight; climax was well executed as it goes between the different story line climaxes very well to keep the audience engaged"
+  tone: "Tone was stereotypical of the fantasy genre (as it treated as such)"
+  final_notes: "This movie feels more like it is moving the story forward in the trilogy (the rising action/building the overall conflict) so it should be treated as such (making it less of a stand alone movie as the previous one)"
+  overall: "Overall, a movie that is more about building the story in the trilogy rather than being experienced on its own with it more concerned about transitioning to the next part to see how the trilogy concludes (which makes it not hit the mark as well as the previous one)"
 }
 release_year: 2002
 review_date: "06/28/2022"

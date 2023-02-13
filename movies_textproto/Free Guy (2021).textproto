@@ -5,33 +5,33 @@ review {
     director {
       name: "Shawn Levy"
     }
-    comments: "Direction ()"
+    comments: "Pretty Good Direction (Does a good job on a macro-scale to help build the world and does a good job in moving the story forward (though in a pretty simplistic way) but kinda falters when trying to lead his actors)"
   }
   acting {
     actor {
       name: "Ryan Reynolds"
-      comments: " from Ryan Reynolds ()"
+      comments: "Decent to Pretty Good from Ryan Reynolds (plays the typical Ryan Reynolds character)"
     }
     actor {
       name: "Jodie Comer"
-      comments: " from Jodie Comer ()"
+      comments: "Good to Very Good from Jodie Comer (Actually shows a good amount of depth in her performance and is a real standout in terms of helping drive the story forward)"
     }
     actor {
-      name: "Lil Rel Howery"
-      comments: " from Lil Rel Howery ()"
+      name: "Joe Keery"
+      comments: "Good from Joe Keery (Kinda taps into his Steve Harrington but actually does a decent job in playing a programmer who sounds comfortable in saying the technical knowledge)"
     }
     actor {
       name: "Taika Waititi"
-      comments: " from Taika Waititi ()"
+      comments: "Bad from Taika Waititi (I get what they were trying to go for with this character but it was just way too over the top and really annoying by the end)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Decent from the rest of the cast"
+    comments: "Pretty Bad to Decent Acting"
   }
   story {
     writer {
       name: "Matt Lieberman"
     }
-    comments: "Story ()"
+    comments: "Pretty Good Story (the actual concept is very interesting and I think this was a surprisingly good interpretation of Sentient AI, but the movie felt a bit too formulaic and the ending was incredibly safe to where it really stained the rest of the movie)"
   }
   screenplay {
     writer {
@@ -40,37 +40,28 @@ review {
     writer {
       name: "Zak Penn"
     }
-    comments: "Screenplay ()"
-  }
-  score {
-    composer {
-      name: "Christophe Beck"
-    }
-    comments: "Score ()"
+    comments: "Pretty Good Screenplay (The use of technical jargon was surprisingly very good and pretty realistic to what programmers actually say, but the rest of the dialogue was pretty generic; the jokes were pretty clever and had a lot of innuendoes that were targeted towards older audiences/gamers)"
   }
   cinematography {
     cinematographer {
       name: "George Richmond"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "Dean Zimmerman"
     }
-    comments: "Editing ()"
+    comments: "Very Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Great Visual Effects (especially the ability to make it look like a video game)"
+  plot_structure: "Plot Structure was fine and laid out pretty well (though it is a bit formulaic)"
+  pacing: "Pacing was fine"
+  climax: "Build to climax was good given that it is pretty formulaic to that of other action movies; climax was captivating and fun to watch (it is just an issue with the transition to post climax/ending)"
+  tone: "Tone was that of a action movie but had some mixes of video game culture"
+  final_notes: "The biggest issue I had with the movie was how safe the ending was as it is something from the late 00s/early 10s and really makes the movie feel like it built towards nothing"
+  overall: "Overall, a fun watch that plays into the tech/gamer world pretty well, but falters from a simplistic delivery and a safe ending"
 }
 release_year: 2021
 review_date: "07/05/2022"
