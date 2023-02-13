@@ -5,77 +5,64 @@ review {
     director {
       name: "Morten Tyldum"
     }
-    comments: "Direction ()"
+    comments: "Good Direction (Gets the job done and is very similar to that of other British Bio-pics (nothing amazing or bad))"
   }
   acting {
     actor {
       name: "Benedict Cumberbatch"
-      comments: " from Benedict Cumberbatch ()"
+      comments: "Incredible from Benedict Cumberbatch (Really embodies the character very well as he commands every scene he is in to bring to life an important figure in history)"
     }
     actor {
       name: "Keira Knightley"
-      comments: " from Keira Knightley ()"
+      comments: "Good to Very Good from Keira Knightley (While her performance is not incredibly impactful, she does stand out from the rest of the cast as she is able to be a good scene partner to get the best out of Cumberbatch in their scenes together)"
     }
     actor {
       name: "Matthew Goode"
-      comments: " from Matthew Goode ()"
-    }
-    actor {
-      name: "Rory Kinnear"
-      comments: " from Rory Kinnear ()"
-    }
-    actor {
-      name: "Charles Dance"
-      comments: " from Charles Dance ()"
+      comments: "Good from Matthew Goode (Really brings the wit and comedic charm to the movie as he acts as a rival/colleague to Alan Turing)"
     }
     actor {
       name: "Mark Strong"
-      comments: " from Mark Strong ()"
+      comments: "Good from Mark Strong (Plays the typical Mark Strong character but is fine in his role for this movie)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Good to Good from the rest of the cast (very British Bio-pic/BBC esque in their acting)"
+    comments: "Good Acting"
   }
   story {
     writer {
       name: "Graham Moore"
     }
-    comments: "Story ()"
+    comments: "Good to Very Good Story (Helps paint the life of Alan Turing well (though with many elements fabricated) and shows the struggles he had to go through in his personal life as he was excelling in his public one)"
   }
   screenplay {
     writer {
       name: "Graham Moore"
     }
-    comments: "Screenplay ()"
+    comments: "Good to Very Good Screenplay (Mixes wit with dialogue very well)"
   }
   score {
     composer {
       name: "Alexandre Desplat"
     }
-    comments: "Score ()"
+    comments: "Good Score"
   }
   cinematography {
     cinematographer {
       name: "\303\223scar Faura"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "William Goldenberg"
     }
-    comments: "Editing ()"
+    comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was decent for the most part but really kinda falls off given the climax happens with almost 20-30 minutes left in the movie (making the rest seem like it is dragging)"
+  pacing: "Pacing was a bit on the slower side (with the last 20-30 minutes really dragging; could have probably cut this section in half)"
+  climax: "Build to climax was there and decently executed; climax was decently executed but happens a bit too early into the movie"
+  tone: "Tone was very british biopic-esque as it is very similar to other films in this genre"
+  overall: "Overall, a good movie that presents an important story in history (Alan Turing) and is carried by an incredible performance from Benedict Cumberbatch, but is pretty simplistic in execution and drags a bit towards the end"
 }
 release_year: 2014
 review_date: "06/28/2022"

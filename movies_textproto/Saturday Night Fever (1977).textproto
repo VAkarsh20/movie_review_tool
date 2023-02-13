@@ -5,31 +5,31 @@ review {
     director {
       name: "John Badham"
     }
-    comments: "Direction ()"
+    comments: "Pretty Good Direction (Able to move the movie forward and executes the dancing sequences very well, but besides this, he really does not get that much out of his actors and there are a lot of questionable scenes)"
   }
   acting {
     actor {
       name: "John Travolta"
-      comments: " from John Travolta ()"
+      comments: "Very Good from John Travolta (In a very \"John Travolta\" way, a film that really puts him on the map for his exaggerated character)"
     }
     actor {
-      name: "Karen Gorney"
-      comments: " from Karen Gorney ()"
+      name: "Karen Lynn Gorney"
+      comments: "Decent from Karen Lynn Gorney (Has some good moments and has some questionable ones)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Bad to Decent from the rest of the cast (A lot of the characters play the stereotypical New York Italian and it just gets so annoying to watch/listen to after a while)"
+    comments: "Pretty Bad to Decent Acting"
   }
   story {
     writer {
       name: "Norman Wexler"
     }
-    comments: "Story ()"
+    comments: "Decent Story (Pretty formulaic and easy to predict, nothing really of substance)"
   }
   screenplay {
     writer {
       name: "Norman Wexler"
     }
-    comments: "Screenplay ()"
+    comments: "Decent Screenplay (As a whole, it is fine and gets the job done (very surface level), but there are just way to many stereotypical Italian mannerisms that it gets annoying)"
   }
   score {
     composer {
@@ -38,31 +38,28 @@ review {
     composer {
       name: "David Shire"
     }
-    comments: "Score ()"
+    comments: "Great to Incredible Soundtrack (The actual songs were Incredible, but there were moments where I felt the director did not use the soundtrack properly (like reusing songs))"
   }
   cinematography {
     cinematographer {
       name: "Ralf D. Bode"
     }
-    comments: "Cinematography ()"
+    comments: "Pretty Good Cinematography (The cinematography comes to life in the dancing scenes as I liked the very low angle shots to show how big of a dancer Travolta\'s character was)"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "David Rawlins"
     }
-    comments: "Editing ()"
+    comments: "Pretty Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  costumes: "Pretty Good Costumes (Very Disco-esque attire)"
+  plot_structure: "Plot Structure was structured pretty well with no major problems (except the end kinda falls apart as it really could have ended 10-15 minutes earlier)"
+  pacing: "Pacing was fine"
+  climax: "Build to climax was not well done as the movie builds to the competition as if it is th the climax but the real climax is after (therefore, it just feels like it was building to nothing); climax was kinda boring as it was not what the movie was building to"
+  tone: "Tone was very 70s/disco/New York Italian and it was made very clear with the dialogue and the mannerisms the characters have"
+  final_notes: "The actual message of the movie is good but it is just so hard to believe as the character of John Travolta goes back to his foolish/degenerate ways right after as soon as he has his epiphany; also the movie really did not age well with its themes and language (but I guess it tried to portray the average New York Italian youth in that era)"
+  overall: "Overall, a movie with highlights in John Travolta\'s performance, soundtrack, and dancing sequences, but really has some misses in other aspects as it misses the mark in terms of its writing and other performances"
 }
 release_year: 1977
 review_date: "05/30/2022"

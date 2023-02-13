@@ -5,89 +5,72 @@ review {
     director {
       name: "Tim Burton"
     }
-    comments: "Direction ()"
+    comments: "Very Good to Great Direction (Really enjoyed the mechanical yet cartoonish feel as it really felt like it helped set the tone of the movie being in a factory as well as it being a Roald Dahl story; also, the direction of actors was fine enough to where there were no major issues)"
   }
   acting {
     actor {
       name: "Johnny Depp"
-      comments: " from Johnny Depp ()"
+      comments: "Great from Johnny Depp (Really was the commanding figure that is needed from Willy Wonka; was able to switch between a cheerful yet apathetic man who is deeply effected by his past trauma very well as these transitions are seamless yet cartoony to a feel that makes sense for the movie)"
     }
     actor {
       name: "Freddie Highmore"
-      comments: " from Freddie Highmore ()"
+      comments: "Good to Very Good from Freddie Highmore (plays his role well as the cheerful and hopeful boy who is the moral compass for the movie)"
     }
     actor {
       name: "David Kelly"
-      comments: " from David Kelly ()"
+      comments: "Pretty Good to Good from David Kelly"
     }
     actor {
       name: "Helena Bonham Carter"
-      comments: " from Helena Bonham Carter ()"
-    }
-    actor {
-      name: "Noah Taylor"
-      comments: " from Noah Taylor ()"
-    }
-    actor {
-      name: "Missi Pyle"
-      comments: " from Missi Pyle ()"
-    }
-    actor {
-      name: "James Fox"
-      comments: " from James Fox ()"
-    }
-    actor {
-      name: "Deep Roy"
-      comments: " from Deep Roy ()"
+      comments: "Good from Helena Bonham Carter"
     }
     actor {
       name: "Christopher Lee"
-      comments: " from Christopher Lee ()"
+      comments: "Good from Christopher Lee (plays a very Christopher Lee role that is toned down a bit for a children\'s movie)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Good to Good from the rest of the cast"
+    comments: "Good to Very Good Acting"
   }
   story {
     writer {
       name: "John August"
     }
-    comments: "Story ()"
+    comments: "Good Story (In terms of how iconic of a story the film is based from, it really does a good job in painting the world created by Dahl; the only issues with the story come towards the end as it really feels to drag on as we get to the final two kids)"
   }
   screenplay {
     writer {
       name: "John August"
     }
-    comments: "Screenplay ()"
+    comments: "Good Screenplay (A very cartoony, kid-friendly script that plays to a Dahl story pretty well; also, good use of foreshadowing throughout (though it makes it a bit predictable))"
   }
   score {
     composer {
       name: "Danny Elfman"
     }
-    comments: "Score ()"
+    comments: "Good Score"
   }
   cinematography {
     cinematographer {
       name: "Philippe Rousselot"
     }
-    comments: "Cinematography ()"
+    comments: "Good to Very Good Cinematography (It does a good job in helping us come into this world as each of the different rooms has its own type of style (with the last kids room having a Kubrick esque approach given the movie they are watching is 2001: A Space Odyssey))"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "Chris Lebenzon"
     }
-    comments: "Editing ()"
+    comments: "Very Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Very Good Visual Effects (though it was a bit easy to see the limitations that early 2000s CGI had in making this movie)"
+  production_design: "Great Production Design (The sets really brought this film to life with its ability to tell the story of the rooms/scenes it was in)"
+  costumes: "Good Costumes (More so for Willy Wonka as his costume really steals the show for the film)"
+  plot_structure: "Plot Structure was a major issue that holds this film back because it spends way too much time in the exposition (the film gets to the start of the factory tour at the 40 minute mark) so the movie really seems to drag and become forgettable after the second child (so the movie really should have cut 15-20 minutes from the film (especially the background scenes for Willy Wonka))"
+  pacing: "Pacing is fine for a good portion but really starts to drag after the second child is over (given by the issues from the plot structure)"
+  climax: "Build to climax was pretty anti-climatic and really is not that interesting because the movie has really dragged on for so much that it is pretty hard for the audience to care; climax was pretty uneventful as it is more about Willy Wonka facing his demons rather than the actual climax for the meat of the movie (the tour)"
+  tone: "Tone was very well established as cartoony and mechanical as Burton does a really good job establishing this throughout the film; i was also a fan of the more darker approach it takes at some moments"
+  final_notes: "I have not watched the original movie so it is hard for me to compare both of these movies"
+  overall: "Overall, a good movie that is well made and driven by its Director and lead actor (Johnny Depp) as it is fun to see us go into the world of Charlie and the Chocolate Factory, but it suffers from a mismanaged plot structure to the point where the final 30 minutes really feels like a chore to go through"
 }
 release_year: 2005
 review_date: "07/04/2022"
