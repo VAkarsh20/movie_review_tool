@@ -5,69 +5,64 @@ review {
     director {
       name: "Stanley Kubrick"
     }
-    comments: "Direction ()"
+    comments: "Good Direction (It was definitely Kubrick in style but the direction of people other than the leads (and even the leads) was a bit underwhelming at times)"
   }
   acting {
     actor {
       name: "Tom Cruise"
-      comments: " from Tom Cruise ()"
+      comments: "Good from Tom Cruise (Plays a very Tom Cruise character throughout the movie but does shine in different parts)"
     }
     actor {
       name: "Nicole Kidman"
-      comments: " from Nicole Kidman ()"
+      comments: "Decent from Nicole Kidman (A very hit or miss performance from her as there are some moments where she is really good and some moments where she gives questionable deliveries)"
     }
-    actor {
-      name: "Sydney Pollack"
-      comments: " from Sydney Pollack ()"
-    }
-    actor {
-      name: "Marie Richardson"
-      comments: " from Marie Richardson ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Bad to Decent from the rest of the cast"
+    comments: "Decent Acting"
   }
   story {
     writer {
-      name: "Stanley KubrickFrederic Raphael"
+      name: "Stanley Kubrick"
     }
-    comments: "Story ()"
+    writer {
+      name: "Frederic Raphael"
+    }
+    comments: "Good to Very Good Story (The story and story-telling of the first two acts is very captivating and very interesting but the final act really falls apart in terms of a climax (which really comes in the middle but there is a definite climax in the end) and resolution)"
   }
   screenplay {
     writer {
-      name: "Stanley KubrickFrederic Raphael"
+      name: "Stanley Kubrick"
     }
-    comments: "Screenplay ()"
+    writer {
+      name: "Frederic Raphael"
+    }
+    comments: "Decent Screenplay (The foreshadowing and symbolism of the movie is very good and pretty standard to Kubrick\'s style, but the dialogue is really simplistic and pretty bad at times)"
   }
   score {
     composer {
       name: "Jocelyn Pook"
     }
-    comments: "Score ()"
+    comments: "Very Good Score/Soundtrack (Really did a good job in helping music paint the scenes/mood of the movie and the record-player stopping the music was a nice touch)"
   }
   cinematography {
     cinematographer {
       name: "Larry Smith"
     }
-    comments: "Cinematography ()"
+    comments: "Very Good Cinematography (Extremely Kubrick with cinematography (long panning to show rooms and sharp shot reverse shots) but needs to be as it helps paint the scenes (especially in the party))"
   }
-  sound: "Sound ()"
+  sound: "Good to Very Good Sound (as seen with the record player note)"
   editing {
     editor {
       name: "Nigel Galt"
     }
-    comments: "Editing ()"
+    comments: "Good Editing (Very Kubrick in style with its fades)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  costumes: "Very Good Costumes (Helps with giving the lavish, mysterious feels of the party)"
+  plot_structure: "Plot Structure was in thirds with the first two acts being good in exposition and rising action but the last act really is not structured well as it is a bit rushed and does not come to any resolution in the end"
+  pacing: "Pacing was more on the slower side (typical of Kubrick) with 20 minutes that could have either have been put into the end or just removed to make it a tighter runtime"
+  climax: "Build to climax was pretty anticlimactic with the real climax happening in the middle of the movie; climax was very bland and boring as the real climax being in the middle (kinda blew because it was neither closed up or left open to interpretation. It was this weird middle ground and the actual ending was pretty anticlimactic)"
+  tone: "Tone was very kubrick in style but had some shades of mystery that kept the viewers interested"
+  final_notes: "Tom Cruise and Nicole Kidman might not have been the best cast for this movie as even though they are married they do not really show that much chemistry"
+  overall: "Overall, an interesting watch as the audience gets to see Kubrick give off his sendoff (with many elements that are synonymous to his style) in a story that captivating for the most part, but does not deliver to the level he is known for with not so great writing and final act that really falls apart towards the end"
 }
 release_year: 1999
 review_date: "08/18/2022"

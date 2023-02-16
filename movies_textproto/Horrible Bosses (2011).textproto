@@ -5,49 +5,17 @@ review {
     director {
       name: "Seth Gordon"
     }
-    comments: "Direction ()"
+    comments: "Decent Direction (Comedic elements were decently executed and it was pretty similar in feel to that of comedies from that timeframe)"
   }
   acting {
-    actor {
-      name: "Jason Bateman"
-      comments: " from Jason Bateman ()"
-    }
-    actor {
-      name: "Charlie Day"
-      comments: " from Charlie Day ()"
-    }
-    actor {
-      name: "Jason Sudeikis"
-      comments: " from Jason Sudeikis ()"
-    }
-    actor {
-      name: "Jennifer Aniston"
-      comments: " from Jennifer Aniston ()"
-    }
-    actor {
-      name: "Colin Farrell"
-      comments: " from Colin Farrell ()"
-    }
-    actor {
-      name: "Kevin Spacey"
-      comments: " from Kevin Spacey ()"
-    }
-    actor {
-      name: "Donald Sutherland"
-      comments: " from Donald Sutherland ()"
-    }
-    actor {
-      name: "Jamie Foxx"
-      comments: " from Jamie Foxx ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "The whole ensemble cast was very experienced and each played to their strengths very well (like Kevin Spacey, Jamie Foxx, and Charlie Day (Who was just playing Charlie Kelly from It's Always Sunny in Philadelphia))"
+    comments: "Good Acting"
   }
   story {
     writer {
       name: "Michael Markowitz"
     }
-    comments: "Story ()"
+    comments: "Pretty Bad Story (The actual concept of the movie as pretty interesting, it is just the plot itself was very simplistic, predictable, and unrealistic to how it favored the heros to win)"
   }
   screenplay {
     writer {
@@ -59,37 +27,13 @@ review {
     writer {
       name: "Jonathan Goldstein"
     }
-    comments: "Screenplay ()"
+    comments: "Decent Screenplay (A movie with funny/enjoyable moments but is overall very simplistic and has bland dialogue)"
   }
-  score {
-    composer {
-      name: "Christopher Lennertz"
-    }
-    comments: "Score ()"
-  }
-  cinematography {
-    cinematographer {
-      name: "David Hennings"
-    }
-    comments: "Cinematography ()"
-  }
-  sound: "Sound ()"
-  editing {
-    editor {
-      name: "Peter Teschner"
-    }
-    comments: "Editing ()"
-  }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was too predictable and simple"
+  pacing: "Pacing was good as it kept a consistent pace for the most part (Nothing to really add or cut)"
+  climax: "Build to climax was very typical of movies from this time; climax was very dumb in how it tried to make the heros win (something that is very typical of movies from this era)"
+  tone: "Tone was very similar to other comedies from the time"
+  overall: "Overall, an enjoyable movie with funny performances from the experienced cast, but is overall very simple and bland in terms of writing"
 }
 release_year: 2011
 review_date: "07/25/2022"
