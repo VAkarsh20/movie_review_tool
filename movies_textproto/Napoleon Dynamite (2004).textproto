@@ -5,35 +5,31 @@ review {
     director {
       name: "Jared Hess"
     }
-    comments: "Direction ()"
+    comments: "Pretty Good Direction (Does a good enough job in helping get the most out of his actors, even when the movie is a deadpan comedy; also, it is impressive that he was able to get the most out of the movie given such a low budget)"
   }
   acting {
     actor {
       name: "Jon Heder"
-      comments: " from Jon Heder ()"
+      comments: "Good to Very Good from Jon Heder (Really helps encapsulate who the titular character really is and has a lot of iconic mannerisms that make this performance iconic still to this day)"
     }
     actor {
       name: "Jon Gries"
-      comments: " from Jon Gries ()"
+      comments: "Good to Very Good from Jon Gries (his over-the-top, 80s nostalgic performance really helps play into the character as he is a star of the show that tries to relive memories from the past (making him the most iconic character out of all the performances))"
     }
     actor {
       name: "Aaron Ruell"
-      comments: " from Aaron Ruell ()"
+      comments: "Pretty Good from Aaron Ruell (Actually a surprisingly good performance and is a real comedic relief in the moments of deadpan, he is able to play off other characters pretty nicely)"
     }
     actor {
       name: "Efren Ramirez"
-      comments: " from Efren Ramirez ()"
+      comments: "Decent to Pretty Good from Efren Ramirez (Does not really have that much to work with as his character is more of a sidekick, but is able to still make his performance memorable)"
     }
     actor {
       name: "Tina Majorino"
-      comments: " from Tina Majorino ()"
+      comments: "Decent from Tina Majorino (Plays a very Deadpan character who is very sheltered so she is not really able to give off that much in this performance)"
     }
-    actor {
-      name: "Diedrich Bader"
-      comments: " from Diedrich Bader ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Bad to Decent from the rest of the cast"
+    comments: "Decent Acting"
   }
   story {
     writer {
@@ -42,7 +38,7 @@ review {
     writer {
       name: "Jerusha Hess"
     }
-    comments: "Story ()"
+    comments: "Decent Story (Nothing really happens in the story (and that is kinda the point) as the movie is more about seeing Napoleon in his daily life by himself)"
   }
   screenplay {
     writer {
@@ -51,37 +47,34 @@ review {
     writer {
       name: "Jerusha Hess"
     }
-    comments: "Screenplay ()"
+    comments: "Good Screenplay (Dialogue that is filled with iconic deadpan humor and moments that really make this movie very iconic)"
   }
   score {
     composer {
       name: "John Swihart"
     }
-    comments: "Score ()"
+    comments: "Pretty Good Score (Helps set the tone of the movie with its quirkiness)"
   }
   cinematography {
     cinematographer {
       name: "Munn Powell"
     }
-    comments: "Cinematography ()"
+    comments: "Decent Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Decent Sound"
   editing {
     editor {
       name: "Jeremy Coon"
     }
-    comments: "Editing ()"
+    comments: "Pretty Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  costumes: "Pretty Good Costumes (the movie is filled with some iconic costumes that help play into this movie being remembered still till this day (like the Vote for Pedro shirt))"
+  plot_structure: "Plot Structure was kinda none-existent in it is more about Napoleon doing things and building to those different moments that Napoleon is doing (and how these events do not really have much of a resolution)"
+  pacing: "Pacing was a bit on the slower side (helps add to the deadpan)"
+  climax: "Build to climax was minimal but somewhat there; climax was the most iconic part of the movie but the coming down from the climax was pretty bad"
+  tone: "Tone was extremely deadpan (the point)"
+  final_notes: "For such a low budget movie it is very impressive what they were able to pull off with the movie and how much of a hit/iconic movie they created"
+  overall: "Overall, a cult classic that is an embodiment of deadpan humor as the filmmakers really tried to get the most out of what they could from a low-budget movie, and it really shows"
 }
 release_year: 2004
 review_date: "07/07/2022"

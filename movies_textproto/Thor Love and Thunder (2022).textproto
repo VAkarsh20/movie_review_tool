@@ -5,39 +5,39 @@ review {
     director {
       name: "Taika Waititi"
     }
-    comments: "Direction ()"
+    comments: "Bad Direction (Really tries too hard to be funny and really is chaotic with trying to progress the story forward)"
   }
   acting {
     actor {
       name: "Chris Hemsworth"
-      comments: " from Chris Hemsworth ()"
+      comments: "Very Good from Chris Hemsworth (Really shows the experience he has with the character and effortlessly is able to command every scene he is in)"
     }
     actor {
       name: "Christian Bale"
-      comments: " from Christian Bale ()"
+      comments: "Very Good from Christian Bale (Really shows the level of dedication he goes through as an actor as he is very captivating even in this villainous role)"
     }
     actor {
       name: "Tessa Thompson"
-      comments: " from Tessa Thompson ()"
-    }
-    actor {
-      name: "Jaimie Alexander"
-      comments: " from Jaimie Alexander ()"
+      comments: "Pretty Good from Tessa Thompson (A good comedic relief that is menacing this time around and picks up where she left off from the previous film)"
     }
     actor {
       name: "Taika Waititi"
-      comments: " from Taika Waititi ()"
+      comments: "Decent to Pretty Good from Taika Waititi (Plays the comedic relief character and has his ups and down given the script he wrote)"
     }
     actor {
       name: "Russell Crowe"
-      comments: " from Russell Crowe ()"
+      comments: "Pretty bad from Russell Crowe (Really was not that convincing as Zeus as his acting was not there and his accent really did not sit right (which is surprising because this role was really written for him))"
     }
     actor {
       name: "Natalie Portman"
-      comments: " from Natalie Portman ()"
+      comments: "Decent to Pretty Good from Natalie Portman (Tries a bit too hard in this performance and really falters when it comes to the emotional side of the character (something that is surprising to me given her experience))"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    actor {
+      name: "Matt Damon"
+      comments: "Very Good from Matt Damon (It was really funny how he is able to carry on his cameo from the previous movie and have such a small role even though how big he is)"
+    }
+    cast: "Pretty Bad to Decent from the rest of the cast (though Good from the Guardians of the Galaxy (really just stayed on brand for their characters given how short of screen time they had))"
+    comments: "Acting"
   }
   story {
     writer {
@@ -46,7 +46,7 @@ review {
     writer {
       name: "Jennifer Kaytin Robinson"
     }
-    comments: "Story ()"
+    comments: "Pretty Bad Story (The overarching story was not that bad as it deals with Thor post Avengers as he is trying to come to terms with unfinished love, it is just not that well structured and the ending really is not that good; plus the general breaks from the narrative were really sloppy and not well executed (given that it was amateur style and it really was not that funny); also, for a movie that is meant to be about Thor and Jane\'s relationship it does a real bad job in helping develop it (we are kinda just thrown into what happens))"
   }
   screenplay {
     writer {
@@ -55,7 +55,7 @@ review {
     writer {
       name: "Jennifer Kaytin Robinson"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Bad Screenplay (The movie tries way too hard to be funny and because of it only 1/3 jokes really hit in the movie, plus most of the lines are really predictable and bland)"
   }
   score {
     composer {
@@ -64,15 +64,15 @@ review {
     composer {
       name: "Nami Melumad (score)"
     }
-    comments: "Score ()"
+    comments: "Pretty Good Score/Soundtrack (though it is really annoying how much they play Sweet Child o\' Mine throughout the movie)"
   }
   cinematography {
     cinematographer {
       name: "Barry Idoine"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Decent Sound"
   editing {
     editor {
       name: "Matthew Schmidt"
@@ -86,18 +86,15 @@ review {
     editor {
       name: "Jennifer Vecchiarello"
     }
-    comments: "Editing ()"
+    comments: "Pretty Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Very Bad Visual Effects (Given the budget for the movie it is really alarming how unfinished and cartoonish it looks, it looks like they did not spend any effort to change this up before the release)"
+  costumes: "Good Costumes (Did a good job in the Asgardian armor)"
+  plot_structure: "Plot Structure was a real mess as the movie tries to follow a simplistic Marvel structure but tries to be quirky with it with different breaks and changes that it really hurts with the execution; also the rising action in the character arcs was really poorly done and the resolution really is thrown at the audience and the ending really takes away at what it was trying to build"
+  pacing: "Pacing was incredibly fast (and this is from the short runtime; the movie could have really benefited from 20-30 minutes added to help with developing and building character relationships)"
+  climax: "Build to climax was fine and pretty typical of Marvel; climax was incredible formulaic and predictable to any Marvel movie"
+  tone: "Tone was pretty 80s and i think he did a good job in helping build this (but is too meta at times with how it is like this)"
+  overall: "Overall, a movie that is poorly executed and cannot be saved with Thor\'s charm as it tries too hard to be funny with its meta jokes and constant volume of jokes (even when it mostly does not work) as this takes away from actually building a storyline that should really be developed, the relationship between Thor and Jane and how Thor comes to terms with being at the end of his character arc"
 }
 release_year: 2022
 review_date: "07/15/2022"

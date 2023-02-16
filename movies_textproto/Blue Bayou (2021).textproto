@@ -5,57 +5,45 @@ review {
     director {
       name: "Justin Chon"
     }
-    comments: "Direction ()"
+    comments: "Decent to Pretty Good Direction (The actual artistic shots were very well executed and the ability to capture emotions was very nice, but the acting at many moments is really hard to watch at how bad it is)"
   }
   acting {
     actor {
       name: "Justin Chon"
-      comments: " from Justin Chon ()"
+      comments: "Great from Justin Chon (The only multi-dimensional performance in the whole movie as he really puts everything he has in playing this character as his struggle is the major driving element of the film)"
     }
     actor {
       name: "Alicia Vikander"
-      comments: " from Alicia Vikander ()"
-    }
-    actor {
-      name: "Mark O\'Brien"
-      comments: " from Mark O\'Brien ()"
+      comments: "Pretty Good from Alicia Vikander (Able to hold her own throughout the movie but is really underwhelming at many points given she is an Oscar winning actress (especially in the angry and emotional scenes of the movie))"
     }
     actor {
       name: "Linh Dan Pham"
-      comments: " from Linh Dan Pham ()"
+      comments: "Pretty Good from Linh Dan Pham (Was able to hold her own in the movie and play a key character in helping show symbolism)"
     }
     actor {
       name: "Sydney Kowalske"
-      comments: " from Sydney Kowalske ()"
+      comments: "Pretty Good from Sydney Kowalske"
     }
-    actor {
-      name: "Vondie Curtis-Hall"
-      comments: " from Vondie Curtis-Hall ()"
-    }
-    actor {
-      name: "Emory Cohen"
-      comments: " from Emory Cohen ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Very Bad from the rest of the cast (where at some points is it is very hard to watch at how bad they are)"
+    comments: "Acting on a spectrum"
   }
   story {
     writer {
       name: "Justin Chon"
     }
-    comments: "Story ()"
+    comments: "Pretty Good Story (The actual plot overarching construction is good with many elements I did like, but there are many useless moments in the film just meant to fill time)"
   }
   screenplay {
     writer {
       name: "Justin Chon"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Bad Screenplay (The symbolism of the film is very prevalent and shown very well and there are many scenes where the dialogue is good (especially Justin Chon\'s dialogue), but there are many moments in the film where the dialogue is very unrealistic and just feels very forced)"
   }
   score {
     composer {
       name: "Roger Suen"
     }
-    comments: "Score ()"
+    comments: "Score was present"
   }
   cinematography {
     cinematographer {
@@ -64,25 +52,20 @@ review {
     cinematographer {
       name: "Ante Cheng"
     }
-    comments: "Cinematography ()"
+    comments: "Good to Very Good Cinematography (It really shines in the Bayou scenes and especially when its at night with the lighting)"
   }
-  sound: "Sound ()"
+  sound: "Decent Sound"
   editing {
     editor {
       name: "Reynolds Barney"
     }
-    comments: "Editing ()"
+    comments: "Good to Very Good Editing (The actual construction of scenes was very well put together from a macro sense)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was fine in the overarching sense but there were many elements in the movie that could have been cut to give the movie a more cleaner watch (like 10-15 minutes worth)"
+  pacing: "Pacing was a bit on the slower side"
+  climax: "Build to climax was good and one of the more emotional parts of the movie as you really do care for Justin Chon\'s character; climax was the most heartbreaking part of the movie as it is the most emotional moment"
+  tone: "Tone was a bit too much on the feel-good side as it resembles that of a Lifetime movie at times"
+  overall: "Overall, a movie that is carried solely by Justin Chon with a performance that makes the audience engaged with the film and his struggle (with some good elements of direction as well), but the movie heavily dragged back by the other characters and their scenes as it is really hard to watch at times"
 }
 release_year: 2021
 review_date: "08/02/2022"

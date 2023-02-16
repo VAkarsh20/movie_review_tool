@@ -5,81 +5,49 @@ review {
     director {
       name: "Guy Ritchie"
     }
-    comments: "Direction ()"
+    comments: "Decent Direction (Able to progress the story forward and cuts the film very well, but pretty inconsistent in terms of setting tone and getting the most from his actors)"
   }
   acting {
-    actor {
-      name: "Jason Statham"
-      comments: " from Jason Statham ()"
-    }
-    actor {
-      name: "Stephen Graham"
-      comments: " from Stephen Graham ()"
-    }
-    actor {
-      name: "Brad Pitt"
-      comments: " from Brad Pitt ()"
-    }
-    actor {
-      name: "Benicio del Toro"
-      comments: " from Benicio del Toro ()"
-    }
-    actor {
-      name: "Dennis Farina"
-      comments: " from Dennis Farina ()"
-    }
-    actor {
-      name: "Vinnie Jones"
-      comments: " from Vinnie Jones ()"
-    }
-    actor {
-      name: "Rade \305\240erbed\305\276ija"
-      comments: " from Rade \305\240erbed\305\276ija ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "The cast as a whole is judged as it was more of an ensemble effort for the characters to help progress the story forward (Some performances to highlight were Brad Pitt in his ability to play a Pikey very well and Jason Statham who is not his typical tough guy character (though he does show a bit of inexperience with his acting))"
+    comments: "Decent to Pretty Good Acting"
   }
   story {
     writer {
       name: "Guy Ritchie"
     }
-    comments: "Story ()"
+    comments: "Good to Very Good Story (Does a good job in having the different parallel story lines converge at different points to show how they were all going after the same goal but in different ways)"
   }
   screenplay {
     writer {
       name: "Guy Ritchie"
     }
-    comments: "Screenplay ()"
+    comments: "Good Screenplay (A bit repetitive at times but there were some good foreshadowing and symbolism that was surprising for a movie like this; also the jokes and dialogue were a bit simple, but it was overall pretty enjoyable)"
   }
   score {
     composer {
       name: "John Murphy"
     }
-    comments: "Score ()"
+    comments: "Good Score (really helped fit and set the tone for the movie)"
   }
   cinematography {
     cinematographer {
       name: "Tim Maurice-Jones"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography (helped in setting the distinctive editing sequences, though the filter made it a bit hard to see the film)"
   }
-  sound: "Sound ()"
+  sound: "Pretty Good Sound"
   editing {
     editor {
       name: "Jon Harris"
     }
-    comments: "Editing ()"
+    comments: "Great Editing (was a bit amateur at first but really helped in showing why the fast-cutting/hip-hop montage were a main-stay in the early 00s)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was unique as it was different parallel story-lines converging at different points in the story with each having their own plot structure"
+  pacing: "Pacing was incredibly fast so it was a bit hard to keep up (though this was the point of the movie so it is fine with me)"
+  climax: "Build to climax was there; climax was definitely a memorable part of the movie given how it twists at what it was building at"
+  tone: "Tone was very distinct in what it was trying to do but was a bit inconsistent in being set as it felt like it was trying too hard to play at both ends of the crime-comedy genre"
+  final_notes: "the movie started off not that good but over-time it got better and better so it is definitely a slow burn that gets better the more the movie goes on"
+  overall: "Overall, a fun watch with a pretty well written story and iconic editing sequences but is pretty simplistic in terms of its execution"
 }
 release_year: 2000
 review_date: "07/18/2022"
