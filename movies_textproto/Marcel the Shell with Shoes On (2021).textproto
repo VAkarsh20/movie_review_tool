@@ -5,35 +5,23 @@ review {
     director {
       name: "Dean Fleischer Camp"
     }
-    comments: "Direction ()"
+    comments: "Good Direction (Really immerses himself in the film as a key person and does so in a way that really helps move the story forward)"
   }
   acting {
     actor {
       name: "Jenny Slate"
-      comments: " from Jenny Slate ()"
-    }
-    actor {
-      name: "Rosa Salazar"
-      comments: " from Rosa Salazar ()"
-    }
-    actor {
-      name: "Thomas Mann"
-      comments: " from Thomas Mann ()"
+      comments: "Very Good from Jenny Slate (Is able to capture the cute and charm of the character as she brings him to life in a way that makes you really care for him)"
     }
     actor {
       name: "Dean Fleischer Camp"
-      comments: " from Dean Fleischer Camp ()"
-    }
-    actor {
-      name: "Lesley Stahl"
-      comments: " from Lesley Stahl ()"
+      comments: "Pretty Good from Dean Fleischer Camp (Able to interject himself well throughout the movie and work with something that really is not there (at least during filming))"
     }
     actor {
       name: "Isabella Rossellini"
-      comments: " from Isabella Rossellini ()"
+      comments: "Good from Isabella Rossellini (Able to be that elderly figure for Marcel and does that well for the movie)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Good from the rest of the cast"
+    comments: "Good Acting"
   }
   story {
     writer {
@@ -48,7 +36,7 @@ review {
     writer {
       name: "Elisabeth Holm"
     }
-    comments: "Story ()"
+    comments: "Good Story (Very simple in the finding home trope and tries to play well to the cute nature of Marcel)"
   }
   screenplay {
     writer {
@@ -60,21 +48,14 @@ review {
     writer {
       name: "Nick Paley"
     }
-    comments: "Screenplay ()"
-  }
-  score {
-    composer {
-      name: "Disasterpeace"
-    }
-    comments: "Score ()"
+    comments: "Good to Very Good Screenplay (The actual dialogue was pretty simple (even though it was a lot of improv) but it does try to deal with issues of family, community, and loneliness and does a good job at doing so)"
   }
   cinematography {
     cinematographer {
       name: "Bianca Cline"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography (Has a very low-budget, documentary style feel to it)"
   }
-  sound: "Sound ()"
   editing {
     editor {
       name: "Dean Fleischer Camp"
@@ -82,18 +63,14 @@ review {
     editor {
       name: "Nick Paley"
     }
-    comments: "Editing ()"
+    comments: "Very Good Editing (did a lot with the low budget it had and how it had to mix live-action with stop-motion animation)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Good Visual Effects (Did a good job in helping capture that stock-motion feel with its mix of animation/stop-motion)"
+  plot_structure: "Plot Structure was very simplistic but followed very nicely (so no complaints)"
+  pacing: "Pacing was good (even for the short runtime)"
+  climax: "Build to climax was good; climax was good (and the ending resolution was enough time to help close of the movie)"
+  tone: "Tone was very consistent with that of other children's movies but with a low-budget/indie twist"
+  overall: "Overall, a very cute movie that is very simple on the surface but has a little bit more depth for a children\'s movie (especially for how low-budget it looked)"
 }
 release_year: 2021
 review_date: "07/29/2022"

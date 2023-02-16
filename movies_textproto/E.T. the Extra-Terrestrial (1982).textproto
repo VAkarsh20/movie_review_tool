@@ -5,16 +5,16 @@ review {
     director {
       name: "Steven Spielberg"
     }
-    comments: "Direction ()"
+    comments: "Incredible Direction (Spielberg does an amazing job in helping movie the story forward and helping build emotion and a connections with ET and the younger characters in the film; also, his ability to conduct very grandiose scenes is something that is definitely applauded)"
   }
   acting {
     actor {
       name: "Dee Wallace"
-      comments: " from Dee Wallace ()"
+      comments: "Pretty Good to Good from Dee Wallace (Plays the typical 80s mom character and is written as such)"
     }
     actor {
       name: "Henry Thomas"
-      comments: " from Henry Thomas ()"
+      comments: "Good from Henry Thomas (Was able to hold his own as a child actor as the conduit between ET and the human world)"
     }
     actor {
       name: "Peter Coyote"
@@ -22,56 +22,53 @@ review {
     }
     actor {
       name: "Robert MacNaughton"
-      comments: " from Robert MacNaughton ()"
+      comments: "Pretty Good to Good from Robert MacNaughton (Plays the older brother/bully character well and acts as a strong elder figure as he plays off Thomas well towards the climax)"
     }
     actor {
       name: "Drew Barrymore"
-      comments: " from Drew Barrymore ()"
+      comments: "Good from Drew Barrymore (plays the innocent, youthful character very well and shows glimpses of what made her a big star in the coming years)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Decent from the rest of the cast (typical 80s supporting cast)"
+    comments: "Decent to Pretty Good Acting"
   }
   story {
     writer {
       name: "Melissa Mathison"
     }
-    comments: "Story ()"
+    comments: "Great to Incredible Story (The architecture of the story is laid out very nicely with the different elements helping make it iconic and a pioneering effort in the science-fiction genre)"
   }
   screenplay {
     writer {
       name: "Melissa Mathison"
     }
-    comments: "Screenplay ()"
+    comments: "Very Good Screenplay (Filled with iconic lines that are coupled with foreshadowing and symbolism to help drive the story forward; also the homages to Star Wars were a funny touch)"
   }
   score {
     composer {
       name: "John Williams"
     }
-    comments: "Score ()"
+    comments: "Incredible Score (Iconic overall and used very well in the film, especially how it blends in to create the mood of the scenes)"
   }
   cinematography {
     cinematographer {
       name: "Allen Daviau"
     }
-    comments: "Cinematography ()"
+    comments: "Brilliant Cinematography (Especially with the angles and how they used light to emphasis the dark (blinding the face as well (which was a very nice touch in not showing the bad guys and painting them as elder figures the children should not trust)); also, the use of fog in the light helped create more of an ominous feeling)"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "Carol Littleton"
     }
-    comments: "Editing ()"
+    comments: "Very Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Great Visual Effects (Groundbreaking for the time (especially the puppetry and use of flying), but did not age as well as other films from the time as the Green Screen is pretty obvious to see)"
+  plot_structure: "Plot Structure was laid out very nicely as each arc in the story did not feel like it was overstaying its place in the film (with all the elements building off of each other to help move the story forward)"
+  pacing: "Pacing was consistent throughout the movie (with it not being too fast or too slow)"
+  climax: "Build to climax was very evident and played out very well (with the characters planning on how they will let ET out); climax was executed very nicely and one of the most iconic moments in cinema history"
+  tone: "Tone was more on the feel-good family movie side that has science fiction subject matter (and does a good job in helping develop this tone throughout the movie)"
+  final_notes: "Design of ET was very iconic (even though it is very 80s) with the puppetry of the character being a very important part in creating how adorable and caring he was; the end of the movie really dragged out but was still incredibly emotional and iconic in how the movie closes the chapters on its characters"
+  overall: "Overall, an iconic family movie that captures the hearts of its audiences through its titular character and the character\'s plight of trying to make his way back home, taking the audience on an emotional adventure that is guided with Spielberg\'s incredible direction, groundbreaking cinematography, and iconic John Williams Score"
 }
 release_year: 1982
 review_date: "09/03/2022"

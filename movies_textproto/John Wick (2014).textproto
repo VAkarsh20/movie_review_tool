@@ -3,61 +3,29 @@ rating: 6.7
 review {
   direction {
     director {
-      name: "Chad Stahelski[a]"
+      name: "Chad Stahelski"
     }
-    comments: "Direction ()"
+    comments: "Pretty Bad Direction (The choreography of action sequences was very well done (Some of the best I have seen), but the moving of the story forward and the direction of actors was bad considering how dull the movie really was)"
   }
   acting {
     actor {
       name: "Keanu Reeves"
-      comments: " from Keanu Reeves ()"
+      comments: "Pretty Good from Keanu Reeves (Able to handle the action sequences in a great way and is a strong prominent figure throughout the movie (With some good moments in dramatic acting), but has some really questionable scenes that may be in fault from the direction he was given)"
     }
-    actor {
-      name: "Michael Nyqvist"
-      comments: " from Michael Nyqvist ()"
-    }
-    actor {
-      name: "Alfie Allen"
-      comments: " from Alfie Allen ()"
-    }
-    actor {
-      name: "Adrianne Palicki"
-      comments: " from Adrianne Palicki ()"
-    }
-    actor {
-      name: "Bridget Moynahan"
-      comments: " from Bridget Moynahan ()"
-    }
-    actor {
-      name: "Dean Winters"
-      comments: " from Dean Winters ()"
-    }
-    actor {
-      name: "Ian McShane"
-      comments: " from Ian McShane ()"
-    }
-    actor {
-      name: "John Leguizamo"
-      comments: " from John Leguizamo ()"
-    }
-    actor {
-      name: "Willem Dafoe"
-      comments: " from Willem Dafoe ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Acting on a Spectrum from the rest of the cast (Anywhere from very bad and emotionless (like Alfie Allen) to decent acting (like Willem Dafoe))"
+    comments: "Bad Acting"
   }
   story {
     writer {
       name: "Derek Kolstad"
     }
-    comments: "Story ()"
+    comments: "Good Story (Though it is filled with cliches of an ex-conman coming back into the fold, the storytelling and character writing of John Wick is very good to paint him as the ultimate figure to not be messed with)"
   }
   screenplay {
     writer {
       name: "Derek Kolstad"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Bad to Decent Screenplay (The dialogue was very bland but there were some good moments)"
   }
   score {
     composer {
@@ -66,31 +34,29 @@ review {
     composer {
       name: "Joel J. Richard"
     }
-    comments: "Score ()"
+    comments: "Score was just present (but did help in the action scenes when present)"
   }
   cinematography {
     cinematographer {
       name: "Jonathan Sela"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Good to Very Good Sound"
   editing {
     editor {
       name: "El\303\255sabet Ronalds"
     }
-    comments: "Editing ()"
+    comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Good Visual Effects (Especially, when showing the firefights)"
+  costumes: "Good Costumes (Even though it is just a suit, they really helped create an iconic character in John Wick)"
+  plot_structure: "Plot Structure was decent for the most part (but does follow a typical action-movie one)"
+  pacing: "Pacing was incredible fast to where the runtime was very short (But this helps in giving pace to the character of John Wick)"
+  climax: "Build to climax was prevalent and noticeable in its prep for the action; climax was well executed and a fun part of the movie"
+  tone: "Tone of the movie was very dark and grungy (adds to that John Wick feel); but there is a lot of dryness from the deadpan that it kinda takes away from this"
+  final_notes: "The action scenes of the movie were some of the best choreographed action scenes I have ever seen as it is just so physical and technical that it keeps the audience engaged and wanting more"
+  overall: "Overall, a movie that is not so great in its own right with its lackluster direction, acting, and screenplay, but is an enjoyable watch because of its intense action scenes and character writing of John Wick (painting a character that will be fun to see what happens next to him)"
 }
 release_year: 2014
 review_date: "08/21/2022"

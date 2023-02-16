@@ -3,41 +3,34 @@ rating: 9.1
 review {
   direction {
     director {
-      name: "Daniel KwanDaniel Scheinert"
+      name: "Daniel Kwan"
+      name: "Daniel Scheinert"
     }
-    comments: "Direction ()"
+    comments: "Very Good to Great Direction (Did a really good job in helping choreograph the different fight scenes, fast cuts in helping drive the narrative, and getting the most out of their actors in many different parts in the film; sometimes they do get lost is in their own pace as they cannot keep up with the fast pace they have created and did not do the best in helping bring the whole thing home)"
   }
   acting {
     actor {
       name: "Michelle Yeoh"
-      comments: " from Michelle Yeoh ()"
+      comments: "Great from Michelle Yeoh (Really is able to command the film and show multiple dimensions in her performance as she helps the character grown from her insecurities to a confident lead in the end)"
     }
     actor {
       name: "Stephanie Hsu"
-      comments: " from Stephanie Hsu ()"
+      comments: "Pretty Good to Good from Stephanie Hsu (Is fine in helping portray a multiple sided character that is a angsty teen with villain capabilities, but her performance can get really annoying at times as she plays too strong into the Villain and teen tropes to where her performance becomes a bit limited and annoying)"
     }
     actor {
       name: "Ke Huy Quan"
-      comments: " from Ke Huy Quan ()"
-    }
-    actor {
-      name: "Jenny Slate"
-      comments: " from Jenny Slate ()"
-    }
-    actor {
-      name: "Harry Shum Jr."
-      comments: " from Harry Shum Jr. ()"
+      comments: "Very Good from Ke Huy Quan (really steals the show sometimes as he still has that charm that Short Round had while still moving a bit past to show his ability to show multiple dimensions as an actor)"
     }
     actor {
       name: "James Hong"
-      comments: " from James Hong ()"
+      comments: "Good from James Hong (Plays the typical character that he usually plays but does a good job in doing it)"
     }
     actor {
       name: "Jamie Lee Curtis"
-      comments: " from Jamie Lee Curtis ()"
+      comments: "Good to Very Good from Jamie Lee Curtis (Shows her experience in the role and is able to be a monotonous anti-hero very well)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Good from the rest of the cast"
+    comments: "Good to Very Good Acting"
   }
   story {
     writer {
@@ -46,7 +39,7 @@ review {
     writer {
       name: "Daniel Scheinert"
     }
-    comments: "Story ()"
+    comments: "Very Good Story (Very good concept and does a good job in explaining the concept, the storytelling of the film is also very good as the audience is very captivated by what is happening and what will happen next; there are some issues with overall plot construction and how everything is distributed)"
   }
   screenplay {
     writer {
@@ -55,37 +48,36 @@ review {
     writer {
       name: "Daniel Scheinert"
     }
-    comments: "Screenplay ()"
+    comments: "Great Screenplay (Very witty and the jokes are very good, there is also a lot of symbolism present in multiple ways (even absurd ones))"
   }
   score {
     composer {
       name: "Son Lux"
     }
-    comments: "Score ()"
+    comments: "Decent Score"
   }
   cinematography {
     cinematographer {
       name: "Larkin Seiple"
     }
-    comments: "Cinematography ()"
+    comments: "Great Cinematography (really comes to light in the fighting scenes)"
   }
-  sound: "Sound ()"
+  sound: "Very Good Sound"
   editing {
     editor {
       name: "Paul Rogers"
     }
-    comments: "Editing ()"
+    comments: "Incredible Editing (Is used in a very good way in helping tell the story and show the different worlds the characters are going through in parallel)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Decent Visual Effects (Is fine given the budget but can really show sometimes in how cheap it is)"
+  makeup: "Good Makeup"
+  costumes: "Good Costumes (Helps in differentiating the different worlds)"
+  plot_structure: "Plot Structure is the movie is a big issue as it is split into three parts but puts way too much into the first than the final two (especially the last one) as the final two parts feel a bit rushed (to where 10-20 minutes from the first part could be cut out and the exact same movie would be there)"
+  pacing: "Pacing was incredibly fast to where many details can be lost if not paying attention (due to how content dense the movie is)"
+  climax: "Build to climax is very well done and a good epiphany for the main character as she learns her importance; climax was very underwhelming as it tries a bit too hard to be feel good to where it just feels incredibly forced and unrealistic"
+  tone: "Tone of the movie is a bit unique as it blends multiple genres (whether it be martial arts, comedy, absurd comedy, and even drama)"
+  final_notes: "One of the better movies to tackle the multiverse as it is clear in how it explains it (though is still fast and dense)"
+  overall: "Overall, a great movie that is very unique in how it blends many genres that is driven by its performances, writing, and action, but it does falter a bit from an inconsistent plot structure, fast pacing, and ending that is very feel good"
 }
 release_year: 2022
 review_date: "08/05/2022"

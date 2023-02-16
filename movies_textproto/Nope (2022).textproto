@@ -5,77 +5,62 @@ review {
     director {
       name: "Jordan Peele"
     }
-    comments: "Direction ()"
+    comments: "Good to Very Good Direction (Really helped in creating the feel throughout the entire movie as he did a good job in helping establish scenes)"
   }
   acting {
     actor {
       name: "Daniel Kaluuya"
-      comments: " from Daniel Kaluuya ()"
+      comments: "Good to Very Good from Daniel Kaluuya (Really is able to be the grounded character for all characters to build off of and does a good job in mixing serious and comedic moments)"
     }
     actor {
       name: "Keke Palmer"
-      comments: " from Keke Palmer ()"
+      comments: "Good from Keke Palmer (Basically just plays herself)"
     }
     actor {
       name: "Steven Yeun"
-      comments: " from Steven Yeun ()"
+      comments: "Good to Very Good from Steven Yeun (Shows his experience and has a bit more depth in showing how past traumas have effected his character as well as shows some animation)"
     }
-    actor {
-      name: "Michael Wincott"
-      comments: " from Michael Wincott ()"
-    }
-    actor {
-      name: "Brandon Perea"
-      comments: " from Brandon Perea ()"
-    }
-    actor {
-      name: "Keith David"
-      comments: " from Keith David ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Good from the rest of the cast"
+    comments: "Good to Very Good Acting"
   }
   story {
     writer {
       name: "Jordan Peele"
     }
-    comments: "Story ()"
+    comments: "Pretty Bad Story (The actual plot construction was fine with the different details coming together to help lead the film to the climax, but the actual conflict is poorly constructed as it is just presented with no real introduction or conclusion towards the end (an issue I have had with all of Jordan Peele\'s movies); also there is a bit of some plot holes in the ending that make it a bit hard to realize how it was pulled off by the characters)"
   }
   screenplay {
     writer {
       name: "Jordan Peele"
     }
-    comments: "Screenplay ()"
+    comments: "Good Screenplay (Well written dialogue that has good mixes of comedy and horror (with the horror elements being a bit cliche), and the use of foreshadowing was typical to that of other horror movies)"
   }
   score {
     composer {
       name: "Michael Abels"
     }
-    comments: "Score ()"
+    comments: "Good Score (Really helped in complementing the scarier moments to give it that horror feel)"
   }
   cinematography {
     cinematographer {
       name: "Hoyte van Hoytema"
     }
-    comments: "Cinematography ()"
+    comments: "Very Good to Great Cinematography (Has more of the big-budget movie feel as the switching of wide-screen to full-screen is similar to that of Christopher Nolan movies (which makes sense given its the same DP))"
   }
-  sound: "Sound ()"
+  sound: "Good to Very Good Sound (Typical to that of other horror movies)"
   editing {
     editor {
       name: "Nicholas Monsour"
     }
-    comments: "Editing ()"
+    comments: "Good to Very Good Editing (Helped in building the suspense)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Decent Visual Effects (Was fine but felt a bit underdeveloped given the production budget of the movie)"
+  plot_structure: "Plot Structure was fine and typical to that of other horror films"
+  pacing: "Pacing was fine for the most part"
+  climax: "Build to climax was a bit short but a noticeable and memorable part of the movie given the events that happened previous to it; climax was very well executed and definitely the most captivating part of the movie"
+  tone: "Tone was an overarching horror but the different elements of comedy definitely gave it a good feel at times"
+  final_notes: "Peele has gone for a more traditional horror feel with this movie and I liked this as it was a bit more focused and the added elements of comedy helped play to his strengths; the Chimp scene was definitely one of the scariest scenes I have ever scene in a movie given the sense of realism and what went on during it (definitely is one of the most well executed scenes I have ever scene in a movie)"
+  overall: "Overall, a more traditional horror movie for Jordan Peele that has a good mix of horror and comedic in a big-budget project that make it a good watch, but the actual conflict of the movie is really lacking to where it really holds the film back from being something special"
 }
 release_year: 2022
 review_date: "08/02/2022"

@@ -5,89 +5,66 @@ review {
     director {
       name: "David Leitch"
     }
-    comments: "Direction ()"
+    comments: "Decent Direction (The choreography of the action scenes was well done but the overall moving of the story forward with the very sharp cuts to try to create humor were not that well executed (with the actors also not really given that much to work with))"
   }
   acting {
     actor {
       name: "Brad Pitt"
-      comments: " from Brad Pitt ()"
+      comments: "Good from Brad Pitt (Really has to pull from his experience in the role as he isn\'t given that much from the director or script to work with, but he still does do a fine job (mainly because he is playing someone who is close to his real life persona))"
     }
     actor {
       name: "Joey King"
-      comments: " from Joey King ()"
+      comments: "Pretty Bad from Joey King (It is understandable that her character was portrayed to be annoying, but she really was not that good in the role)"
     }
     actor {
       name: "Aaron Taylor-Johnson"
-      comments: " from Aaron Taylor-Johnson ()"
+      comments: "Good to Very Good from Aaron Taylor-Johnson (A joint performance with Brian Tyree Henry as they both really do a good job at playing off each other to build comedy and action)"
     }
     actor {
       name: "Brian Tyree Henry"
-      comments: " from Brian Tyree Henry ()"
+      comments: "Good to Very Good from Brian Tyree Henry (See Aaron Taylor-Johnson)"
     }
-    actor {
-      name: "Andrew Koji"
-      comments: " from Andrew Koji ()"
-    }
-    actor {
-      name: "Hiroyuki Sanada"
-      comments: " from Hiroyuki Sanada ()"
-    }
-    actor {
-      name: "Michael Shannon"
-      comments: " from Michael Shannon ()"
-    }
-    actor {
-      name: "Benito A. Mart\303\255nez Ocasio"
-      comments: " from Benito A. Mart\303\255nez Ocasio ()"
-    }
-    actor {
-      name: "Sandra Bullock"
-      comments: " from Sandra Bullock ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Decent to Pretty Good from the rest of the cast (but there was a real issue of screen-time with a huge cast like this)"
+    comments: "Decent to Pretty Good Acting"
   }
   story {
     writer {
       name: "Zak Olkewicz"
     }
-    comments: "Story ()"
+    comments: "Pretty Bad Story (The actual concept and idea was decent but the overall story was very poorly laid out to the point that the ending becomes very tiring)"
   }
   screenplay {
     writer {
       name: "Zak Olkewicz"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Bad Screenplay (The dialogue was filled with way too much meta humor in that it tries so hard to be like Deadpool but just ends up being very annoying (though some jokes and moments were funny (like the cameos)))"
   }
   score {
     composer {
       name: "Dominic Lewis"
     }
-    comments: "Score ()"
+    comments: "Decent Score"
   }
   cinematography {
     cinematographer {
       name: "Jonathan Sela"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography (Especially during the fight scenes)"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "El\303\255sabet Ronaldsd\303\263ttir"
     }
-    comments: "Editing ()"
+    comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Good Visual Effects"
+  plot_structure: "Plot Structure was very poorly laid out as it has a big issue in building things up as if they are important then bringing them down in minutes (with this happening so many times that it just gets boring towards the end)"
+  pacing: "Pacing was very fast but could have still cut out some time (like 20 mins) because of how dense in content it is"
+  climax: "Build to climax was there but not that exciting cause it was the standard preparing for a battle trope; climax was well done and a good fighting scene"
+  tone: "Tone was way too much like Deadpool to the point where it is very annoying"
+  final_notes: "The 75% of the movie's action scenes and best moments were shown in the trailer to the point where everything else that is shown is just boring or redundant"
+  overall: "Overall, a movie that is entertaining for the action elements and some comedic moments, but is not a good movie in terms of writing, story structure, and overall feel"
 }
 release_year: 2022
 review_date: "08/19/2022"
