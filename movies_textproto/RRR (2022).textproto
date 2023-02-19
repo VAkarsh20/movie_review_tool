@@ -5,89 +5,67 @@ review {
     director {
       name: "S. S. Rajamouli"
     }
-    comments: "Direction ()"
+    comments: "Good to Very Good Direction (Did a very good job on a grad scale in creating a Telugu epic that is very watchable from a large scale audience, got the most out of his actors and commanded lead very well in helping drive the story forward)"
   }
   acting {
     actor {
       name: "N. T. Rama Rao Jr."
-      comments: " from N. T. Rama Rao Jr. ()"
+      comments: "Good to Very Good from N. T. Rama Rao Jr. (Was very typical like other Telugu movies, but he does show some more range than I thought he ever could; really commands lead throughout the movie and does a good job in helping drive the story forward)"
     }
     actor {
       name: "Ram Charan"
-      comments: " from Ram Charan ()"
+      comments: "Good from Ram Charan (Plays his character very well as it is one filled with depth and range)"
     }
     actor {
       name: "Ajay Devgn"
-      comments: " from Ajay Devgn ()"
+      comments: "Pretty Good from Ajay Devgn"
     }
     actor {
       name: "Alia Bhatt"
-      comments: " from Alia Bhatt ()"
+      comments: "Pretty Good from Alia Bhatt"
     }
-    actor {
-      name: "Shriya Saran"
-      comments: " from Shriya Saran ()"
-    }
-    actor {
-      name: "Samuthirakani"
-      comments: " from Samuthirakani ()"
-    }
-    actor {
-      name: "Ray Stevenson"
-      comments: " from Ray Stevenson ()"
-    }
-    actor {
-      name: "Alison Doody"
-      comments: " from Alison Doody ()"
-    }
-    actor {
-      name: "Olivia Morris"
-      comments: " from Olivia Morris ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Bad from the rest of the cast (very typical of the white actors as well as extras in Indian movies)"
+    comments: "Decent to Pretty Good Acting"
   }
   story {
     writer {
       name: "V. Vijayendra Prasad"
     }
-    comments: "Story ()"
+    comments: "Very Good Story (An actually captivating story that inspires patriotism as well as does a good job in laying out elements very nicely and showing what the characters want towards the end (though does falter a bit from the typical Telugu tropes))"
   }
   screenplay {
     writer {
       name: "S. S. Rajamouli"
     }
-    comments: "Screenplay ()"
+    comments: "Good Screenplay (For a Telugu script, it does not fall too much into the cliches of dialog (though there are many moments when it does) as the writing makes sense; the symbolism and the foreshadowing of the movie is actually surprisingly good for a Telugu movie)"
   }
   score {
     composer {
       name: "M. M. Keeravani"
     }
-    comments: "Score ()"
+    comments: "Good Score/Great Soundtrack (Very Good use of songs to help in telling the story (does not seem forced like in other Indian movies of the past))"
   }
   cinematography {
     cinematographer {
       name: "K. K. Senthil Kumar"
     }
-    comments: "Cinematography ()"
+    comments: "Very Good Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "A. Sreekar Prasad"
     }
-    comments: "Editing ()"
+    comments: "Very Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Great Visual Effects (Really shows how far Telugu movies have come in the technology they have to tell stories)"
+  production_design: "Very Good Production Design (Really helps in setting the scene)"
+  costumes: "Very Good Costumes (Helped with setting the time period, as well as the difference between the lower and higher classes)"
+  plot_structure: "Plot Structure was laid out very nicely and it felt like all the elements of the plot were building off of each other"
+  pacing: "Pacing was good (especially for the long runtime as it felt like nothing was dragging as the length was used effectively to tell the story)"
+  climax: "Climax was very typical of an action sequence in a telugu movie (but was still very enjoyable)"
+  tone: "Tone was very typical to that of Telugu Epics (but it does contain flavors of patriotism and the wanting independence trope)"
+  overall: "Overall, a Telugu movie that does falter a bit from the given Telugu tropes, but overall transcends Tollywood as Rajamouli builds from the progress made from Baahubali to show what Telugu filmmaking can be as he creates a well digestible Epic that is driven by the performances of the two leads, good writing, and technical achievements in order to show India can stand on the same footing as the Western world in making films"
 }
 release_year: 2022
 review_date: "01/10/2023"

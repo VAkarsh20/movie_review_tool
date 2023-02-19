@@ -5,31 +5,31 @@ review {
     director {
       name: "James Cameron"
     }
-    comments: "Direction ()"
+    comments: "Pretty Good Direction (Does a very good job at helping build the world and moving the story forward (plus helping create the action and suspense); does do a better job this time in getting more from his actors, but nothing seems very innovative since the last movie)"
   }
   acting {
     actor {
       name: "Sam Worthington"
-      comments: " from Sam Worthington ()"
+      comments: "Decent from Sam Worthington (While there were similar flaws to the previous performance, he did improve a lot and shows a bit more experience this time around)"
     }
     actor {
       name: "Zoe Salda\303\261a"
-      comments: " from Zoe Salda\303\261a ()"
+      comments: "Pretty Good from Zoe Salda\303\261a"
     }
     actor {
       name: "Sigourney Weaver"
-      comments: " from Sigourney Weaver ()"
+      comments: "Pretty Good from Sigourney Weaver"
     }
     actor {
       name: "Stephen Lang"
-      comments: " from Stephen Lang ()"
+      comments: "Pretty Good from Stephen Lang (Kinda just plays the same character as last time and just goes off of the same villain trope that is pretty standard)"
     }
     actor {
       name: "Kate Winslet"
-      comments: " from Kate Winslet ()"
+      comments: "Pretty Good from Kate Winslet"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Bad to Decent from the rest of the cast"
+    comments: "Decent to Pretty Good Acting"
   }
   story {
     writer {
@@ -47,30 +47,33 @@ review {
     writer {
       name: "Shane Salerno"
     }
-    comments: "Story ()"
+    comments: "Bad to Pretty Bad Story (It honestly feels like the same story as the last movie and suffers from the same flaws as well; moreover, the movie just tries to fit in so much plot that the final part of the story just becomes boring considering how long the movie is)"
   }
   screenplay {
     writer {
       name: "James Cameron"
     }
     writer {
-      name: "Rick JaffaAmanda Silver"
+      name: "Rick Jaffa"
     }
-    comments: "Screenplay ()"
+    writer {
+      name: "Amanda Silver"
+    }
+    comments: "Pretty Bad to Decent Screenplay (The dialogue does improve a bit and does not feel as forced as last time (but still very similar to other Sci-Fi movies); the allegory for the story is literally the same as last time but it is just something else that is being exploited (once again exploiting natives for their resources and not caring about the humanity trope))"
   }
   score {
     composer {
       name: "Simon Franglen"
     }
-    comments: "Score ()"
+    comments: "Good Score (Has some iconic elements to it and builds on the previous score)"
   }
   cinematography {
     cinematographer {
       name: "Russell Carpenter"
     }
-    comments: "Cinematography ()"
+    comments: "Great Cinematography (It is easier to tell now what is done using cinematography and it is very well done (even though most of the movie is CGI))"
   }
-  sound: "Sound ()"
+  sound: "Very Good Sound"
   editing {
     editor {
       name: "Stephen Rivkin"
@@ -84,18 +87,15 @@ review {
     editor {
       name: "James Cameron"
     }
-    comments: "Editing ()"
+    comments: "Very Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Incredible Visual Effects (Even though it might become dated like the last movie, currently it was very stunning how pretty the movie was and how the use of CGI made this world not only above land but below it)"
+  plot_structure: "Plot Structure was the same but dragged out more"
+  pacing: "Pacing was not the issue as it never felt super slow (but there is just so much plot that it drags for the final third of the movie to where it just gets really boring)"
+  climax: "Climax was good as it is the most action packed part of the movie"
+  tone: "Tone tries to be a mix of sci-fi and colonization movies but ends up being very bland overall"
+  final_notes: "This movie looks very good now but may turn out to be dated like the previous film (so it is hard to tell how it will hold up over time)"
+  overall: "Overall, an improvement in terms of the technical aspects and the acting, but overall just feels like the same movie as the first as the story coupled with the very long runtime make the movie pretty hard to watch towards the end (though it is still a decent watch in terms of how pretty the world they created was)"
 }
 release_year: 2022
 review_date: "01/10/2023"

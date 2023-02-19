@@ -5,77 +5,74 @@ review {
     director {
       name: "Damien Chazelle"
     }
-    comments: "Direction ()"
+    comments: "Bad Direction (The whole movie just feels like a mess as everything is super chaotic and the narrative just gets very hard to follow as it goes on; Damien Chazelle really does not get the most out of his actors as he tries to really go for more shock than trying to get powerful performances from them)"
   }
   acting {
     actor {
       name: "Brad Pitt"
-      comments: " from Brad Pitt ()"
+      comments: "Pretty Good from Brad Pitt (Really pulls more from experience to help get through this as his character just feels like a more chaotic version of the one he played in Once Upon a Time in Hollywood, but as it tries to get deeper it just misses the mark more)"
     }
     actor {
       name: "Margot Robbie"
-      comments: " from Margot Robbie ()"
+      comments: "Pretty Good to Good from Margot Robbie (Uses the experience she has playing the socialites to help drive the performance as it just feels like she is playing a combination of characters she has played in the past)"
     }
     actor {
       name: "Diego Calva"
-      comments: " from Diego Calva ()"
+      comments: "Pretty Good to Good from Diego Calva (Does a good job for the most part being the lens of the movie and really holds his own when working with more established actors)"
     }
     actor {
       name: "Jean Smart"
-      comments: " from Jean Smart ()"
+      comments: "Pretty Bad from Jean Smart"
     }
     actor {
       name: "Jovan Adepo"
-      comments: " from Jovan Adepo ()"
+      comments: "Decent from Jovan Adepo (He is pent up to be a very important character but they just do not use him well enough to show what he can do)"
     }
     actor {
       name: "Li Jun Li"
-      comments: " from Li Jun Li ()"
+      comments: "Decent from Li Jun Li"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Bad to Pretty Bad from the rest of the cast (Just chaotic overall and a lot of the performances feel like overacting)"
+    comments: "Decent Acting"
   }
   story {
     writer {
       name: "Damien Chazelle"
     }
-    comments: "Story ()"
+    comments: "Pretty Bad Story (The actual theme of the movie is somewhat interesting, but the plot itself is just incredibly long and the elements really do not work well off of each other as it feels like the story is progressing but going backwards at the same time (even though it could be argued this is intentional))"
   }
   screenplay {
     writer {
       name: "Damien Chazelle"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Bad Screenplay (The symbolism just feels very shallow and the foreshadowing is very predictable; the dialogue is also very forced and superficial)"
   }
   score {
     composer {
       name: "Justin Hurwitz"
     }
-    comments: "Score ()"
+    comments: "Good Score"
   }
   cinematography {
     cinematographer {
       name: "Linus Sandgren"
     }
-    comments: "Cinematography ()"
+    comments: "Pretty Good Cinematography (There were many shots from a grand scale that make the movie look very nice as it helped with establishing the big sets and scenes, but the constant fast moving of the camera to help with making the movie chaotic really got nauseating at times as it felt very amateurish)"
   }
-  sound: "Sound ()"
+  sound: "Pretty Good Sound"
   editing {
     editor {
       name: "Tom Cross"
     }
-    comments: "Editing ()"
+    comments: "Very Bad Editing (It just tries to hard to be shock but ends up just being nauseating; Also the editing towards the end just feels like something a 5 year old would do)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Good Visual Effects"
+  production_design: "Good to Very Good Production Design (Does do a good job in helping establish the time period)"
+  plot_structure: "Plot Structure was very bad as it was just a chaotic mess of elements trying to movie the story forward (with the resolution basically being unnecessary as the movie could have ended at the climax and still would have been the same movie)"
+  pacing: "Pacing was very bad as the movie drags a lot after the halfway point of the movie as it tries to fit in so much plot that is very unnecessary to tell the story (45-60 minutes of the movie could have been cut and it would have been the same movie)"
+  climax: "Climax was interesting (but still has elements of shock that are really unnecessary); the ending of the movie was completely unnecessary and the final scene felt really awkward and forced for no reason"
+  tone: "Tone was really trying to be comedic with a mix of chaos and black comedy (but there were many awkward silences that just made the movie feel more awkward and grotesque than what it was trying to go for)"
+  overall: "Overall, a chaotic mess from a talented director as he fails to direct his poorly constructed narrative cause he tries too hard to go for shock and humor that it goes for grotesque and unwatchable, so much to the point that even the competent performances cannot even save the train-wreck that is over three hours long"
 }
 release_year: 2022
 review_date: "01/11/2023"

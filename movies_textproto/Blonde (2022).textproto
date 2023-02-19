@@ -5,76 +5,71 @@ review {
     director {
       name: "Andrew Dominik"
     }
-    comments: "Direction ()"
+    comments: "Very Bad Direction (While there are some moments that I did like, there are incredibly way more moments that I absolutely hated about this movie because the overall storytelling and direction of actors is some of the worst I have ever seen as these flaws coupled with awkward dead space to make the movie seem more artsy makes the whole movie just terrible)"
   }
   acting {
     actor {
       name: "Ana de Armas"
-      comments: " from Ana de Armas ()"
+      comments: "Decent from Ana de Armas (She does do well in a handful of instances (like the monologue by the bathtub) and gets the mannerisms of Monroe down very easily, the issue is that there are way too many misses in the performance (which I blame more on the direction and writing) and you can still hear her Cuban accent)"
     }
     actor {
       name: "Adrien Brody"
-      comments: " from Adrien Brody ()"
+      comments: "Pretty Bad to Decent from Adrien Brody (While the performance isn\'t that bad, it is just not that memorable as it is very bland and dull)"
     }
     actor {
       name: "Bobby Cannavale"
-      comments: " from Bobby Cannavale ()"
-    }
-    actor {
-      name: "Xavier Samuel"
-      comments: " from Xavier Samuel ()"
+      comments: "Pretty Bad to Decent from Bobby Cannavale (Another performance that just isn\'t that special and just lacks chemistry when trying to play off  De Armas (Even though that may be the point))"
     }
     actor {
       name: "Julianne Nicholson"
-      comments: " from Julianne Nicholson ()"
+      comments: "Very Bad from Julianne Nicholson (Just really lacks any direction and is very hard to watch at how bad and off beat it is, she also cannot play off any actors at all as her dialogue with other actors just seems so forced for someone who is supposed to be mentally unstable)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Terrible from the rest of the cast (It feels like many of the actors are just amateurs and have never acted before as the scenes with other actors (especially when they are talking about Monroe) are just so hard to watch)"
+    comments: "Very Bad to Bad Acting"
   }
   story {
     writer {
       name: "Andrew Dominik"
     }
-    comments: "Story ()"
+    comments: "Bad Story (The movie does a really bad job at choosing which events of Monroe\'s life to actually focus on as it is just awkward transitions and jumps into different parts of her life that it feels very unnatural; also, the movie is very predictable at times that it makes it very boring; many plot holes in the movie that just never get answered)"
   }
   screenplay {
     writer {
       name: "Andrew Dominik"
     }
-    comments: "Screenplay ()"
+    comments: "Terrible Screenplay (One of the worst screenplays I have ever seen as it is just so unnatural, clunky, forced, and horribly written that it makes the movie very hard to watch; also the symbolism of the movie is just unimportant for how bad the actual dialogue is)"
   }
   score {
     composer {
       name: "Nick Cave"
     }
     composer {
-      name: "Warren Ellis[2]"
+      name: "Warren Ellis"
     }
-    comments: "Score ()"
+    comments: "Pretty Good to Good Score (The piano theme of the movie actually was good and I did like it spread throughout the movie)"
   }
   cinematography {
     cinematographer {
       name: "Chayse Irvin"
     }
-    comments: "Cinematography ()"
+    comments: "Terrible Cinematography (There were so many flaws and shots in this movie that made it so hard to watch (like the random black and white shots, the forced shot-reverse-shots, and the POV shots) that make the movie just feel so amateur; the movie theater shots were pretty good but considering how bad the other shots in the movie were it does not cover for it)"
   }
-  sound: "Sound ()"
+  sound: "Decent Sound"
   editing {
     editor {
-      name: "Adam Robinson[1]"
+      name: "Adam Robinson"
     }
-    comments: "Editing ()"
+    comments: "Pretty Bad to Decent Editing (There were some editing techniques I did like (like the transitions from one scene to another and her showing her routine slowly killing her), but overall it just feels so amateur and very bad (like the blurring of the faces (which is something you can edit on like Tik Tok)))"
   }
-  visual_effects: "Visual Effects ()"
+  visual_effects: "Very Bad Visual Effects (Feels incredibly tacky and amateur and the CGI of the baby is actually horrible and hard to watch; a lot of the effects just feels like a fever dream)"
   production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  costumes: "Pretty Bad Costumes (They reuse a lot of the iconic costumes a lot throughout the movie and the costumes were not that well designed overall (especially the iconic vent dress))"
+  plot_structure: "Plot Structure is very inconsistent as there are so many jumps throughout the movie that are not subtle at all (leaving so many questions about what is going on in the plot)"
+  pacing: "Pacing is incredibly slow despite all the jumps that the movie goes through as it just drags and feels very boring (The movie focuses too much on very small scenes and details); the overall runtime should have been cut by and hour and the movie would probably be the same)"
+  climax: "Build to the climax was decent as it portrays her downfall and does a decent job at showing it (but the scenes with JFK were just very weird and hard to watch at how sexual they were); climax is just boring cause she\'s just crazy and seeing things and it\'s overall very artsy (And the ending itself is very poorly executed)"
+  tone: "Tone is a mix of biopic with an artsy surrealist lens that overall does not hit because the actual tone of the movie is just very boring to even care what is going on"
+  final_notes: "The message of the movie is very clear throughout (it separates Norma from Marilyn as the former is her true self while the later is just an object created by Hollywood) and the movie actually does a decent job at showing this (even though it is very forced); there are just way too many grotesque scenes that movie just gets too hard to watch (like the abortion scene)"
+  overall: "Overall, a Terrible movie that has a message of showing how corrupted Monroe\'s life became with the external pressures around her from being able to be herself, but the fails across the board in so many aspects that watching the movie feels like a waste of time at how bad and boring it is that you really don\'t care about anything from this movie"
 }
 release_year: 2022
 review_date: "11/02/2022"

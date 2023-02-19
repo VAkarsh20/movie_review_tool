@@ -5,69 +5,54 @@ review {
     director {
       name: "Baltasar Korm\303\241kur"
     }
-    comments: "Direction ()"
+    comments: "Bad Direction (The whole movie felt like a chaotic mess with the acting, screenplay, sound, and editing all not matching)"
   }
   acting {
     actor {
       name: "Idris Elba"
-      comments: " from Idris Elba ()"
+      comments: "Pretty Bad to Decent from Idris Elba (Even though he is not given that much to work with, he still isn\'t able to use his experience to make this performance believable as he is not able to hit the dramatic moments and connect with the other characters)"
     }
-    actor {
-      name: "Sharlto Copley"
-      comments: " from Sharlto Copley ()"
-    }
-    actor {
-      name: "Iyana Halley"
-      comments: " from Iyana Halley ()"
-    }
-    actor {
-      name: "Leah Sava Jeffries"
-      comments: " from Leah Sava Jeffries ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Very Bad from the rest of the cast (The girls were just incredibly annoying throughout the movie (and making dumb-decisions along with that), and the friend really was limited in his range during the suspenseful moments)"
+    comments: "Very Bad to Bad Acting"
   }
   story {
     writer {
       name: "Jaime Primak Sullivan"
     }
-    comments: "Story ()"
+    comments: "Bad Story (The actual idea of the story was pretty dumb and simplistic (with the introduction of the conflict being executed pretty poorly))"
   }
   screenplay {
     writer {
       name: "Ryan Engle"
     }
-    comments: "Screenplay ()"
+    comments: "Bad Screenplay (The dialogue of the movie felt very unnatural and the humor moments were incredibly forced and not funny; the symbolism was also very dumb and not that important for the movie (even with its impact on the ending))"
   }
   score {
     composer {
-      name: "Steven Price[1]"
+      name: "Steven Price"
     }
-    comments: "Score ()"
+    comments: "Pretty Good Score (Probably one of the better parts of the movie but was poorly mixed into the movie)"
   }
   cinematography {
     cinematographer {
       name: "Philippe Rousselot"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography (Some of the dolly and tracking shots were well done, with the wild-life cinematography also well shot)"
   }
-  sound: "Sound ()"
+  sound: "Very Bad Sound (Was so poorly mixed into the movie (especially the score) that it was so hard to hear what was going on and focus on the actual conflict; the editing was not that bad but the mixing was so bad that it makes the movie very hard to watch)"
   editing {
     editor {
       name: "Jay Rabinowitz"
     }
-    comments: "Editing ()"
+    comments: "Decent Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Very Bad Visual Effects (The lions of the movie looked so fake that it was more laughable than terrifying when the thriller/suspenseful parts come on)"
+  production_design: "Pretty Good Production Design (The sets they used were very good and helped show the wildlife of Africa, its just there were barely any sets used)"
+  plot_structure: "Plot Structure was very poorly laid out as the movie was way too short to have a well executed conflict build (with the actual conflict not being that scary to begin with; Exposition is pretty unorganized with the sound mixing being bad as the score is louder than the dialogue (which is already not that great; The rising of the conflict is really badly executed as it\'s so chaotic and unorganized with the action coupled with the poor performance of scared emotions being portrayed))"
+  pacing: "Pacing was incredibly fast (which is mainly because of the short runtime (though I do not want to see any more of the movie to justify it being longer))"
+  climax: "Build to climax was typical to that of any monster/survival movie; climax was so anticlimactic and honestly very laughable given how absurd it is (with it overall being very boring and typical to that of other generic monster movie climaxes)"
+  tone: "Tone was supposed to be scary and that of a thriller but the movie is just so poorly executed that its just hard to be attached to the movie to care"
+  overall: "Overall, a very poorly executed movie with almost everything across the board not hitting as Idris Elba cannot save this mess from being watchable, with the poor direction, acting, writing, and sound mixing making the movie more laughable than scary"
 }
 release_year: 2022
 review_date: "09/04/2022"

@@ -5,69 +5,65 @@ review {
     director {
       name: "Martin McDonagh"
     }
-    comments: "Direction ()"
+    comments: "Very Good Direction (He really gets a lot out of his actors and commands scenes very well, but there are some issues in keeping the audience captivated with a pretty bland tone; he is able to make different moments more funny than it could be)"
   }
   acting {
     actor {
       name: "Colin Farrell"
-      comments: " from Colin Farrell ()"
+      comments: "Great from Colin Farrell (Really shows multiple layers to the character as he really hones in on the loneliness he feels from losing everything around him)"
     }
     actor {
       name: "Brendan Gleeson"
-      comments: " from Brendan Gleeson ()"
+      comments: "Very Good to Great from Brendan Gleeson (Plays off of Farrell very well as he shows the side of an individual who wants to change their life but cannot and loses himself because of it)"
     }
     actor {
       name: "Kerry Condon"
-      comments: " from Kerry Condon ()"
+      comments: "Very Good from Kerry Condon (Really acts as the focal point of morality throughout the movie as she tries to be the bridge in many conversations)"
     }
     actor {
       name: "Barry Keoghan"
-      comments: " from Barry Keoghan ()"
+      comments: "Good from Barry Keoghan (Started off pretty bad but really molded into his character as the movie went on)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Good from the rest of the cast"
+    comments: "Good to Very Good Acting"
   }
   story {
     writer {
       name: "Martin McDonagh"
     }
-    comments: "Story ()"
+    comments: "Good Story (The story is very simplistic as it does not try too much to be very flashy and does not make any failures from trying)"
   }
   screenplay {
     writer {
       name: "Martin McDonagh"
     }
-    comments: "Screenplay ()"
+    comments: "Great Screenplay (The dialogue is very witty (in a very irish way) and is the driving force to move the story forward; the parallelism, symbolism, and foreshadowing is also very good as it helps keep the audience engaged with what is going on)"
   }
   score {
     composer {
       name: "Carter Burwell"
     }
-    comments: "Score ()"
+    comments: "Pretty Good Score"
   }
   cinematography {
     cinematographer {
-      name: "Ben Davis[1]"
+      name: "Ben Davis"
     }
-    comments: "Cinematography ()"
+    comments: "Good to Very Good Cinematography (Especially when setting the scene and showing the scenery)"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "Mikkel E. G. Nielsen"
     }
-    comments: "Editing ()"
+    comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  production_design: "Great Production Design (Really helps show the scenery and the seclusion away from mainland Ireland)"
+  plot_structure: "Plot Structure was very nice as it was clear throughout the movie how the story was unfolding"
+  pacing: "Pacing was on the slower side but was not that much of an issue (there could have been a lot of moments that have been cut but there really would be no need cause the movie is really about the screenplay and not the story)"
+  climax: "Build to the climax was good and helps show how Farrell's character is really losing everything around him as he enters a period of inescapable loneliness; climax was executed very nicely and was one of the more memorable parts of the movie"
+  tone: "Tone was very true to the black-comedy genre as it uses wit and humor in juxtaposition to the more depressing/lonely undertones"
+  overall: "Overall, a movie that does not have that many bells and whistles (and therefore could have probably been better as a play) as it uses a very well written screenplay with experienced actors (that have great chemistry with the director) to make the movie a memorable and fun watch (as it helps blend comedic themes with more depressing, lonely ones)"
 }
 release_year: 2022
 review_date: "12/04/2022"

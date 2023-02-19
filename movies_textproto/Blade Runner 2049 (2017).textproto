@@ -5,57 +5,29 @@ review {
     director {
       name: "Denis Villeneuve"
     }
-    comments: "Direction ()"
+    comments: "Pretty Good to Good Direction (Does a Great Job in storytelling/moving the story forward as he is able to build scenes/worlds and pieces them toghether with other story elements; the issues in the direction come with directors his actors as it has a similar style to the first film and because of it there is a lot of dull performances with dead air)"
   }
   acting {
     actor {
       name: "Ryan Gosling"
-      comments: " from Ryan Gosling ()"
+      comments: "Pretty Good to Good from Ryan Gosling (Uses a lot of his facial experiences to help sell the scenes and acts as a replicant very well (which kinda hurts him because he really is not given that much to work with in terms of showing range))"
     }
     actor {
       name: "Harrison Ford"
-      comments: " from Harrison Ford ()"
+      comments: "Decent from Harrison Ford (Shows more experience and emotion from the last time but the performance just shows that he put no prep into the role as it just feels like he showed up with very little interest)"
     }
     actor {
       name: "Ana de Armas"
-      comments: " from Ana de Armas ()"
+      comments: "Good to Very Good from Ana de Armas (Really acts as the morality of the movie as she works well off of Gosling to help give humanity to his life despite being fake herself)"
     }
-    actor {
-      name: "Sylvia Hoeks"
-      comments: " from Sylvia Hoeks ()"
-    }
-    actor {
-      name: "Robin Wright"
-      comments: " from Robin Wright ()"
-    }
-    actor {
-      name: "Mackenzie Davis"
-      comments: " from Mackenzie Davis ()"
-    }
-    actor {
-      name: "Carla Juri"
-      comments: " from Carla Juri ()"
-    }
-    actor {
-      name: "Lennie James"
-      comments: " from Lennie James ()"
-    }
-    actor {
-      name: "Dave Bautista"
-      comments: " from Dave Bautista ()"
-    }
-    actor {
-      name: "Jared Leto"
-      comments: " from Jared Leto ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Decent from the rest of the cast (just a lot of emotionless performances that don\'t really help or hurt the movie)"
+    comments: "Decent to Pretty Good Acting"
   }
   story {
     writer {
       name: "Hampton Fancher"
     }
-    comments: "Story ()"
+    comments: "Good to Very Good Story (Really does a good job in differing from the previous movie as the plot this time around was more about K finding his own humanity rather than a Blade Runner trying to hunt down replicants; the movie also does share the same philosophical interpretations on what it means to be alive but it is less open ended than last time)"
   }
   screenplay {
     writer {
@@ -64,7 +36,7 @@ review {
     writer {
       name: "Michael Green"
     }
-    comments: "Screenplay ()"
+    comments: "Decent to Pretty Good Screenplay (The screenplay does improve as it flows more than the last movie (not by that much though) but the symbolism is not as good as the previous movie; the foreshadowing is still very on-par with the previous movie as it is very evident at what they are trying to build throughout the movie)"
   }
   score {
     composer {
@@ -73,31 +45,30 @@ review {
     composer {
       name: "Hans Zimmer"
     }
-    comments: "Score ()"
+    comments: "Good to Very Good Score"
   }
   cinematography {
     cinematographer {
       name: "Roger A. Deakins"
     }
-    comments: "Cinematography ()"
+    comments: "Incredible to Brilliant Cinematography (Such a beautiful movie in how they try to set up these different worlds and how they use lighting to help set the ominous nature of the scenes)"
   }
-  sound: "Sound ()"
+  sound: "Great Sound"
   editing {
     editor {
       name: "Joe Walker"
     }
-    comments: "Editing ()"
+    comments: "Great Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Incredible Visual Effects"
+  production_design: "Great Production Design"
+  costumes: "Very Good Costumes"
+  plot_structure: "Plot Structure was laid out very well as it was prevalent which part of the story the movie is in"
+  pacing: "Pacing was on the slower side (with 20-30 minutes that could have been cut to make the movie a bit tighter and faster)"
+  climax: "Build to climax was decent (but hard considering how slow the movie was progressing); climax was decent but not that interesting or entertaining"
+  tone: "Tone had more of that sci-fi tone than the original movie was going for as the advancement in technology really helped with setting this"
+  final_notes: "The movie really benefits from the advancements in technology as it is able to be more of a realistic sci-fi movie as opposed to the previous movie"
+  overall: "Overall, a very technically sound movie that uses advancements in filmmaking and technology to help make a better movie that its predecessor, though it still falters a bit in terms of bland writing/acting that is still very slow in pace"
 }
 release_year: 2017
 review_date: "12/04/2022"
