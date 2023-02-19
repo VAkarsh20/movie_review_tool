@@ -5,43 +5,39 @@ review {
     director {
       name: "Kogonada"
     }
-    comments: "Direction ()"
+    comments: "Pretty Bad to Decent Direction (Good job at moving the story forward, but with the movie being very slow and the tone really not being that captivating means his direction could only go so far; moreover, it really does not feel like he is getting the most out of his actors as it feels very choppy and held back)"
   }
   acting {
     actor {
       name: "Colin Farrell"
-      comments: " from Colin Farrell ()"
+      comments: "Pretty Good to Good from Colin Farrell (Shows some depth and range in his performance, but really is not given that much to work with)"
     }
     actor {
       name: "Jodie Turner-Smith"
-      comments: " from Jodie Turner-Smith ()"
+      comments: "Decent to Pretty Good from Jodie Turner-Smith (Does not really show any emotion in her performance but does hold her own pretty well when working off other actors)"
     }
     actor {
       name: "Justin H. Min"
-      comments: " from Justin H. Min ()"
+      comments: "Decent from Justin H. Min (Really is not in the movie that long but does do a decent job in portraying a curious robot)"
     }
     actor {
       name: "Malea Emma Tjandrawidjaja"
-      comments: " from Malea Emma Tjandrawidjaja ()"
+      comments: "Pretty Good to Good from Malea Emma Tjandrawidjaja (Really plays the child character wanting something that is lost very well, shows a good amount of depth and is a real star from the movie)"
     }
-    actor {
-      name: "Haley Lu Richardson"
-      comments: " from Haley Lu Richardson ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Bad from the rest of the cast (everything just feels emotionless and inexperienced)"
+    comments: "Decent Acting"
   }
   story {
     writer {
       name: "Kogonada"
     }
-    comments: "Story ()"
+    comments: "Pretty Good Story (With a shortened screen-time, the movie makes no waste in trying to get the most out of its plot elements and progressing the story forward)"
   }
   screenplay {
     writer {
       name: "Kogonada"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Good Screenplay (the conversations of the movie did feel natural and of a technological utopian; the symbolism of the movie was good and did help show some limelight into the humanity of Artificial Intelligence)"
   }
   score {
     composer {
@@ -50,31 +46,28 @@ review {
     composer {
       name: "Ryuichi Sakamoto"
     }
-    comments: "Score ()"
+    comments: "Score was very minimal and really did not play too much into the movie"
   }
   cinematography {
     cinematographer {
       name: "Benjamin Loeb"
     }
-    comments: "Cinematography ()"
+    comments: "Decent Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Pretty Bad Sound (made the silence of the movie pretty deafening)"
   editing {
     editor {
       name: "Kogonada"
     }
-    comments: "Editing ()"
+    comments: "Decent Editing (felt a bit amaturish)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Pretty Good Visual Effects (especially for how low the budget was)"
+  production_design: "Pretty Good Production Design (helped bring that futuristic element to the movie)"
+  plot_structure: "Plot Structure was very simplistic and laid out well (no bells and whistles)"
+  pacing: "Pacing was a bit on the slower side at felt like it dragged a bit (if maybe 15 minutes of the movie was cut and the pacing was a bit faster then the movie would have been more captivating but it would also take away from its charm)"
+  climax: "Climax was a bit anti-climatic (but it was necessary given what the movie does try to portray)"
+  tone: "Tone played into the sci-fi elements which made it very much on the dull/slow-burn side so the movie was a bit hard to follow at times as it could get a bit boring (the lack of score/sound at many points definitely added to this)"
+  overall: "Overall, a slow-burn that is a quick representation of how AI can make an impact on families as this family looks for the humanity of their artificial child, bringing in some interesting ideas but ultimately ends up being a bit boring and hard to follow because of the very dull tone and lack of direction"
 }
 release_year: 2021
 review_date: "01/12/2023"

@@ -242,11 +242,14 @@ def fill_in_proto(field):
     elif "Pacing" in field and proto.review.pacing == "Pacing ":
         proto.review.pacing = field
         return True
-    elif field.startswith("the build to climax") and proto.review.climax == "climax ":
-        proto.review.climax = field.replace("the build", "Build")
-        return True
+    # elif field.startswith("the build to climax") and proto.review.climax == "climax ":
+    #     proto.review.climax = field.replace("the build", "Build")
+    #     return True
+    # elif field.startswith("climax"):
+    #     proto.review.climax += "; {}".format(field)
+    #     return True
     elif field.startswith("climax"):
-        proto.review.climax += "; {}".format(field)
+        proto.review.climax = field.capitalize()
         return True
     elif field.startswith("tone "):
         proto.review.tone = field.capitalize()
@@ -267,6 +270,7 @@ def parse_review(df, filename):
         record = df[df['Title'] == "{} (film)".format(proto.title)]
     else:
         record = df[df['Title'] == "{} ({} film)".format(proto.title, proto.release_year)]
+    
     review = record["Review"].item()
     
     start = 0

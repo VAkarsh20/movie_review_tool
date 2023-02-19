@@ -5,61 +5,49 @@ review {
     director {
       name: "Ryan Coogler"
     }
-    comments: "Direction ()"
+    comments: "Pretty Good Direction (Able to take command of his actors and drive the story forward (that be in a very Marvel way))"
   }
   acting {
     actor {
       name: "Letitia Wright"
-      comments: " from Letitia Wright ()"
+      comments: "Good to Very Good from Letitia Wright (Really shows a range of emotions throughout the movie and is able to get through some of the tough moments very well; she is able to command lead in this film and really play a character trying to go through the grieving process)"
     }
     actor {
       name: "Lupita Nyong\'o"
-      comments: " from Lupita Nyong\'o ()"
+      comments: "Pretty Good from Lupita Nyong\'o (Nothing spectacular but she does hold her own)"
     }
     actor {
       name: "Danai Gurira"
-      comments: " from Danai Gurira ()"
+      comments: "Pretty Good from Danai Gurira"
     }
     actor {
       name: "Winston Duke"
-      comments: " from Winston Duke ()"
-    }
-    actor {
-      name: "Florence Kasumba"
-      comments: " from Florence Kasumba ()"
+      comments: "Pretty Good to Good from Winston Duke (Really shows his presence with his charisma, power and humor in all the scenes he is in)"
     }
     actor {
       name: "Dominique Thorne"
-      comments: " from Dominique Thorne ()"
-    }
-    actor {
-      name: "Michaela Coel"
-      comments: " from Michaela Coel ()"
+      comments: "Decent from Dominique Thorne (A character kinda just thrown into the movie, but she does a decent job with what she was given)"
     }
     actor {
       name: "Tenoch Huerta Mej\303\255a"
-      comments: " from Tenoch Huerta Mej\303\255a ()"
+      comments: "Decent to Pretty Good from Tenoch Huerta Mej\303\255a (Plays the role decently well and shows some range (it just isn\'t really his fault given he isn\'t given that much to work with))"
     }
     actor {
       name: "Martin Freeman"
-      comments: " from Martin Freeman ()"
-    }
-    actor {
-      name: "Julia Louis-Dreyfus"
-      comments: " from Julia Louis-Dreyfus ()"
+      comments: "Pretty Good from Martin Freeman (Continues where he left off from the previous film)"
     }
     actor {
       name: "Angela Bassett"
-      comments: " from Angela Bassett ()"
+      comments: "Very Good from Angela Bassett (The best performance of the movie as she uses her experience very well to be a powerful and loving figure that tries to pick up the pieces of a fractured nation)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Decent from the rest of the cast"
+    comments: "Pretty Good Acting"
   }
   story {
     writer {
       name: "Ryan Coogler"
     }
-    comments: "Story ()"
+    comments: "Pretty Bad Story (The overall narrative follows the boilerplate Marvel formula, but the moments dealing with grief were surprising and pretty good overall (especially for a marvel movie); the conflict overall was very boring as the villains and their world were just not that interesting (and pretty similar to Avatar))"
   }
   screenplay {
     writer {
@@ -68,21 +56,21 @@ review {
     writer {
       name: "Joe Robert Cole"
     }
-    comments: "Screenplay ()"
+    comments: "Decent to Pretty Good Screenplay (Dialogue was pretty average for a marvel movie; the humor is very hit or miss (but when it hits it is very clever); the foreshadowing and symbolism was pretty predictable for a marvel movie)"
   }
   score {
     composer {
       name: "Ludwig G\303\266ransson"
     }
-    comments: "Score ()"
+    comments: "Very Good Score/Pretty Bad to Decent Soundtrack (at least in comparison to the previous soundtrack cause it does not match on the same level)"
   }
   cinematography {
     cinematographer {
       name: "Autumn Durald Arkapaw"
     }
-    comments: "Cinematography ()"
+    comments: "Decent to Pretty Bad Cinematography (For the most part it is pretty typical of other Marvel movies but there are moments when it gets very nauseating)"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "Michael P. Shawver"
@@ -93,18 +81,18 @@ review {
     editor {
       name: "Jennifer Lame"
     }
-    comments: "Editing ()"
+    comments: "Good Editing (There were some edits that were very good like the parallelism in the climax and when it shows the villains mom getting older, but some of the editing techniques were not that appealing (like the slow-motion editing))"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Pretty Bad Visual Effects (Felt very tacky (especially with raising his body) and feels like how other Marvel movies are in recent times (which is not a good thing))"
+  production_design: "Good Production Design"
+  makeup: "Good Makeup"
+  costumes: "Pretty Bad to Decent Costumes (The overall Wakanda costumes were good, its just Shuri\'s fits when being a regular person were pretty bad)"
+  plot_structure: "Plot Structure was very typical of marvel movies"
+  pacing: "Pacing was the same pacing of marvel movies"
+  climax: "Build to climax was good and shows the transition of power in the movie; climax was very typical of Marvel movies; the ending was incredibly safe and very predictable"
+  tone: "Tone did share the same aspects of other marvel movies but there were more depressing tones throughout the movie due to the major themes of dealing with grief and loss"
+  final_notes: "this movie does venture away a bit from the typical marvel model through its tributes to Boseman (which was a nice touch that they never actually showed his face) and how the characters have to deal with his death (something they had to change the whole direction of the movie for)"
+  overall: "Overall, a marvel movie that is a bit different considering how it deals with loss and grief, but is still flawed with its uninteresting plot and boilerplate Marvel template"
 }
 release_year: 2022
 review_date: "12/03/2022"

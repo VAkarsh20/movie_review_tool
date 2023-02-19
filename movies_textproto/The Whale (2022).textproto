@@ -5,73 +5,69 @@ review {
     director {
       name: "Darren Aronofsky"
     }
-    comments: "Direction ()"
+    comments: "Decent to Pretty Good Direction (Aronofsky falls back to a style of filmmaking he has been accustomed to (the broken character film) and pulls from a lot of his experience because of it; however, because of this, the movie does not feel very innovative and has flavors of his past films; He does not direct the actors working well together as some moments feel very choppy and it feels like the actors have a hard time playing off each other)"
   }
   acting {
     actor {
       name: "Brendan Fraser"
-      comments: " from Brendan Fraser ()"
+      comments: "Great to Incredible from Brendan Fraser (Gives the performance of his career as he fully transforms into this broken character looking for love despite not having that much time; fully embodies the struggles it takes to play someone of this size)"
     }
     actor {
       name: "Sadie Sink"
-      comments: " from Sadie Sink ()"
+      comments: "Pretty Bad from Sadie Sink (A very one-dimensional performance considering her character is just an angsty teen (Plays basically a poor man\'s version of Max from Stranger Things))"
     }
     actor {
       name: "Hong Chau"
-      comments: " from Hong Chau ()"
+      comments: "Pretty Good from Hong Chau (A performance of ebbs and flows as some moments she is able to work well off of Fraser and stand on her own, and other times she has trouble working with the rest of the cast)"
     }
     actor {
       name: "Ty Simpkins"
-      comments: " from Ty Simpkins ()"
+      comments: "Bad to Pretty Bad from Ty Simpkins (A very one-dimensional performance that is not redeeming at all)"
     }
     actor {
       name: "Samantha Morton"
-      comments: " from Samantha Morton ()"
+      comments: "Pretty Bad from Samantha Morton (for the time she has, she really does not do that well to establish herself)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: ""
+    comments: "Pretty Bad Acting"
   }
   story {
     writer {
       name: "Samuel D. Hunter"
     }
-    comments: "Story ()"
+    comments: "Pretty Good Story (The construction was very tight and did make sense, there were just some plot elements that were just there really for shock (like the binge eating scenes); the ending was also a bit questionable despite how emotional it was)"
   }
   screenplay {
     writer {
       name: "Samuel D. Hunter"
     }
-    comments: "Screenplay ()"
+    comments: "Decent Screenplay (The actual dialogue was very lackluster and surface level; the subtext for loneliness and the symbols they presented for it are actually very good and help keep the audience engaged with Charlie\'s life; there is also a bit of foreshadowing that does play well in helping execute the climax)"
   }
   score {
     composer {
       name: "Rob Simonsen"
     }
-    comments: "Score ()"
+    comments: "Great Score (Is used very nicely throughout the movie to set the tone)"
   }
   cinematography {
     cinematographer {
       name: "Matthew Libatique"
     }
-    comments: "Cinematography ()"
+    comments: "Decent Cinematography (Very typical to other low-budget A24 movies)"
   }
-  sound: "Sound ()"
+  sound: "Decent Sound"
   editing {
     editor {
       name: "Andrew Weisblum"
     }
-    comments: "Editing ()"
+    comments: "Pretty Bad Editing (The movie just feels very choppy at times)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  makeup: "Great Makeup (Especially with the prosthetics they used on Fraser)"
+  plot_structure: "Plot Structure was laid out very nicely and pretty standard to other narratives"
+  pacing: "Pacing was a bit on the slower side but was a non-issue throughout the movie"
+  climax: "Climax of the movie was incredibly touching as everything seems to be coming to an end with characters you get so closely attached to (but the final shot of the movie was very dumb and really ruins something beautiful they were building towards)"
+  tone: "Tone was very somber and depressing (and the director uses different elements very well to help with creating this)"
+  overall: "Overall, a movie that is carried by Fraser\'s performance with a story that is very heartbreaking, but feels very similar to other Aronofsky films (like Black Swan and The Wrestler) which takes away at something great they could have had, coupled with a hit-or-miss screenplay and questionable performances from the rest of the cast"
 }
 release_year: 2022
 review_date: "01/04/2023"

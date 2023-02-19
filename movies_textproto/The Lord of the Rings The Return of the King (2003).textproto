@@ -5,87 +5,11 @@ review {
     director {
       name: "Peter Jackson"
     }
-    comments: "Direction ()"
+    comments: "Incredible Direction (Does an amazing job in getting the most out of his actors and helping drive the story to a conclusion with many different moving parts going on at once)"
   }
   acting {
-    actor {
-      name: "Elijah Wood"
-      comments: " from Elijah Wood ()"
-    }
-    actor {
-      name: "Ian McKellen"
-      comments: " from Ian McKellen ()"
-    }
-    actor {
-      name: "Liv Tyler"
-      comments: " from Liv Tyler ()"
-    }
-    actor {
-      name: "Viggo Mortensen"
-      comments: " from Viggo Mortensen ()"
-    }
-    actor {
-      name: "Sean Astin"
-      comments: " from Sean Astin ()"
-    }
-    actor {
-      name: "Cate Blanchett"
-      comments: " from Cate Blanchett ()"
-    }
-    actor {
-      name: "John Rhys-Davies"
-      comments: " from John Rhys-Davies ()"
-    }
-    actor {
-      name: "Bernard Hill"
-      comments: " from Bernard Hill ()"
-    }
-    actor {
-      name: "Billy Boyd"
-      comments: " from Billy Boyd ()"
-    }
-    actor {
-      name: "Dominic Monaghan"
-      comments: " from Dominic Monaghan ()"
-    }
-    actor {
-      name: "Orlando Bloom"
-      comments: " from Orlando Bloom ()"
-    }
-    actor {
-      name: "Hugo Weaving"
-      comments: " from Hugo Weaving ()"
-    }
-    actor {
-      name: "Miranda Otto"
-      comments: " from Miranda Otto ()"
-    }
-    actor {
-      name: "David Wenham"
-      comments: " from David Wenham ()"
-    }
-    actor {
-      name: "Karl Urban"
-      comments: " from Karl Urban ()"
-    }
-    actor {
-      name: "John Noble"
-      comments: " from John Noble ()"
-    }
-    actor {
-      name: "Andy Serkis"
-      comments: " from Andy Serkis ()"
-    }
-    actor {
-      name: "Ian Holm"
-      comments: " from Ian Holm ()"
-    }
-    actor {
-      name: "Sean Bean"
-      comments: " from Sean Bean ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "No one performance stands out as everyone acts as a unit to progress the story forward"
+    comments: "Great Acting by the cast"
   }
   story {
     writer {
@@ -97,7 +21,7 @@ review {
     writer {
       name: "Peter Jackson"
     }
-    comments: "Story ()"
+    comments: "Great Story (The movie is incredibly dense in its story material as it builds off of the previous two movies to bring a conclusion to the three part epic; moreover, the parallelism of the of the different storylines help keeps the movie engaging as the audience gets to see how all the storylines converge to a conclusion)"
   }
   screenplay {
     writer {
@@ -109,37 +33,37 @@ review {
     writer {
       name: "Peter Jackson"
     }
-    comments: "Screenplay ()"
+    comments: "Great to Incredible Screenplay (Very similar in style to the first two movies; the dialogue is very tight and flows very well throughout the movie as it helps drive the story forward; the symbolism throughout the movie is also on par with the previous movies (like showing the effects greed can have on corrupting an individual); the humor and wit of the movie is really good this time as well)"
   }
   score {
     composer {
       name: "Howard Shore"
     }
-    comments: "Score ()"
+    comments: "Great Score (Carries on from the previous films)"
   }
   cinematography {
     cinematographer {
       name: "Andrew Lesnie"
     }
-    comments: "Cinematography ()"
+    comments: "Great Cinematography (Especially when trying to show how grand the sets and fights were)"
   }
-  sound: "Sound ()"
+  sound: "Great Sound"
   editing {
     editor {
       name: "Jamie Selkirk"
     }
-    comments: "Editing ()"
+    comments: "Great Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Pretty Bad Visual Effects (While the actual CGI was very good, the green screen was so obvious in many of the scenes that it was so hard to pay attention to what was going on and take things seriously)"
+  production_design: "Great Production Design"
+  makeup: "Good to Very Good Makeup (It was great for the most part, but the transition makeup for Gollum was pretty bad)"
+  costumes: "Very Good Costumes"
+  plot_structure: "Plot Structure feels like it is trying to conclude all of the storylines from the previous movies as it serves as the conclusion for this trilogy (and less of a separate film) even though there is somewhat of a plot structure"
+  pacing: "Pacing was fast (though slower from last time) as the movie still tries to be very story dense and fit as much as it can in the movie; the epilogue is incredible slow though and could definitely have been cut in half to keep the runtime shorter (overall the movie could have been cut 30 minutes and have had the same feel)"
+  climax: "Build to climax was very good as it was more of a build to end all three of the movies; climax was incredible as the helps tie the ends of the entire trilogy as it keeps the audience engaged with what is going on and how the story will end"
+  tone: "Tone was stereotypical of the fantasy genre (as it is treated as such)"
+  final_notes: "The movie is incredibly story dense as it implies so much from the previous movies in order to understand what is going on (which is not a terrible thing) but it makes it less of a stand alone movie"
+  overall: "Overall, a great conclusion to the trilogy as it helps tie loose ends and bring the story to a close in an epic fashion, but the movie is very story dense (that could have been a bit tighter) that needs to seen as a continuation of the previous films rather than being a stand-alone film"
 }
 release_year: 2003
 review_date: "11/30/2022"
