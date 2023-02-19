@@ -5,77 +5,68 @@ review {
     director {
       name: "Guillermo del Toro"
     }
-    comments: "Direction ()"
+    comments: "Very Good Direction (Does a good job in helping move the story forward and helping set some of the fantasy-esque scenes)"
   }
   acting {
     actor {
       name: "Sergi L\303\263pez"
-      comments: " from Sergi L\303\263pez ()"
+      comments: "Good to Very Good from Sergi L\303\263pez (really does a good job in helping portray the true monster of the film as he does a good job in helping create a sense of conflict in a menacing fashion for all the characters)"
     }
     actor {
       name: "Maribel Verd\303\272"
-      comments: " from Maribel Verd\303\272 ()"
+      comments: "Good from Maribel Verd\303\272 (Does a really good job in helping act as the conduit between the evil and the innocent as she has to hide her true identity in helping fight for what she believes in)"
     }
     actor {
       name: "Ivana Baquero"
-      comments: " from Ivana Baquero ()"
+      comments: "Good from Ivana Baquero (Does a good job in helping be the focal point of the film and acts as the innocence that tries to save the broken world)"
     }
     actor {
       name: "Doug Jones"
-      comments: " from Doug Jones ()"
+      comments: "Good from Doug Jones (Does a good job in helping bring the Faun to live as the character is someone who is scary and menacing on the surface, but is someone who is very loving and caring on the inside)"
     }
-    actor {
-      name: "Ariadna Gil"
-      comments: " from Ariadna Gil ()"
-    }
-    actor {
-      name: "\303\201lex Angulo"
-      comments: " from \303\201lex Angulo ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Good from the rest of the cast"
+    comments: "Good Acting"
   }
   story {
     writer {
       name: "Guillermo del Toro"
     }
-    comments: "Story ()"
+    comments: "Pretty Good Story (The movie was told as if it was a fairytale (which I really liked), but there were definitely elements of the film that could have been more concise/cut out; the mix between the tasks and the revolution really showed the innocence during a troubling time; the plot was incredibly safe and very predictable)"
   }
   screenplay {
     writer {
       name: "Guillermo del Toro"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Good Screenplay (The dialogue was incredibly simplistic (I haven\'t spoken Spanish in over 4 years and I could understand most of the movie) and the elements of symbolism were pretty surface level (like painting the true monster of the movie being the Captain through his dialogue \"Do you think I am a monster\" and the importance of the watch to show his selfish, narcissistic nature))"
   }
   score {
     composer {
       name: "Javier Navarrete"
     }
-    comments: "Score ()"
+    comments: "Decent Score"
   }
   cinematography {
     cinematographer {
       name: "Guillermo Navarro"
     }
-    comments: "Cinematography ()"
+    comments: "Good to Very Good Cinematography (Really helped with building the scenes and presenting a fairytale)"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "Bernat Vilaplana"
     }
-    comments: "Editing ()"
+    comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Great Visual Effects (A little dated but is still very good for the time)"
+  production_design: "Good Production Design"
+  makeup: "Very Good Makeup"
+  plot_structure: "Plot Structure was good for the most part and everything is laid out very nicely"
+  pacing: "Pacing was good (not too fast or slow)"
+  climax: "Build to climax was very good but seems a bit forced on the fairytale side; climax was good and feels very similar to The Shinning (though the ending was so basic and safe that it really deterred from the story)"
+  tone: "Tone felt very similar to that of a fairy-tale or fantasy through its storytelling and use of CGI (and does a really good job in using these elements to set the tone)"
+  final_notes: "The message of the movie felt very obvious as it was meant to show the captain was the real monster and not the actual monsters (though it is a safe message)"
+  overall: "Overall, a Pretty Good movie that does a really good job at painting a fairy-tale during the Franco Spanish reign as it paints who the real monsters were, but is a very safe movie that has pretty overt symbols and simple writing"
 }
 release_year: 2006
 review_date: "09/26/2022"

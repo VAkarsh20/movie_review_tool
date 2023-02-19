@@ -5,65 +5,62 @@ review {
     director {
       name: "Zach Cregger"
     }
-    comments: "Direction ()"
+    comments: "Pretty Good Direction (Able to get the storytelling across very nicely as he builds the narrative driven by suspense; also able to get the most out of his actors and elicit fear (at least in the horror parts, the non-horror parts were pretty bland and amateur))"
   }
   acting {
     actor {
       name: "Georgina Campbell"
-      comments: " from Georgina Campbell ()"
+      comments: "Pretty Good to Good from Georgina Campbell (Was able to hold her own very well being the lead character as her fear and anxiety builds throughout the movie the farther into the house she goes)"
     }
     actor {
       name: "Bill Skarsg\303\245rd"
-      comments: " from Bill Skarsg\303\245rd ()"
+      comments: "Pretty Good from Bill Skarsg\303\245rd (Works off of Campbell very well and helps build some of the suspense himself with his mannerisms)"
     }
     actor {
       name: "Justin Long"
-      comments: " from Justin Long ()"
+      comments: "Pretty Good from Justin Long (Plays the aging/fading actor very well as he pulls from his experience)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Good from the rest of the cast"
+    comments: "Pretty Good Acting"
   }
   story {
     writer {
       name: "Zach Cregger"
     }
-    comments: "Story ()"
+    comments: "Decent to Pretty Good Story (While the overall concept and layout is pretty cliche and simplistic, the storytelling is good and a lot of the elements play well together to drive the story forward; the ending is a bit questionable though)"
   }
   screenplay {
     writer {
       name: "Zach Cregger"
     }
-    comments: "Screenplay ()"
+    comments: "Decent to Pretty Good Screenplay (The dialogue in the non-horror parts was a bit bland/simplistic, but there were many symbols and elements of horror that were spread throughout the movie that makes it very suspenseful and capture the audience\'s attention)"
   }
   score {
     composer {
       name: "Anna Drubich"
     }
-    comments: "Score ()"
+    comments: "Pretty Good Score"
   }
   cinematography {
     cinematographer {
       name: "Zach Kuperstein"
     }
-    comments: "Cinematography ()"
+    comments: "Very Good Cinematography (The different angles used throughout the movie are very good in helping build suspense and helping build the world/house that is very eerie)"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "Joe Murphy"
     }
-    comments: "Editing ()"
+    comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Pretty Bad Visual Effects (Really shows how low budget the movie is as the visual effects really make the movie tacky and less scary)"
+  makeup: "Pretty Bad Makeup (Really tacky and really takes away with the movie being realistic at how bad it is)"
+  plot_structure: "Plot Structure was pretty well laid out as it introduces the conflict very well and then builds it back up right after a switch in scenery (with the climax and end being very well defined)"
+  pacing: "Pacing was good (not too slow or fast and the runtime was about right)"
+  climax: "Build to climax was very typical of horror movies but does a decent job at building suspense and keeping the audience engaged; climax was good and suspenseful (but the ending is a bit questionable and really takes away from the movie being scary)"
+  tone: "Tone was typical to that of many suspenseful horror movies (and the movie does a good job at building this)"
+  overall: "Overall, a fun, suspenseful watch that builds story pretty well and does many elements of horror right as you go farther into the conflict, but is pretty bare-bones when it comes to filmmaking, acting, and writing"
 }
 release_year: 2022
 review_date: "11/09/2022"

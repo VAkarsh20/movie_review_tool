@@ -5,31 +5,27 @@ review {
     director {
       name: "Steven Spielberg"
     }
-    comments: "Direction ()"
+    comments: "Very Good to Great Direction (Really is able to get the most out of his cast as well as use the cinematography and editing very well to drive the story forward; A lot of this direction is about building things on a grander scale and that is done in a very experienced/Spielberg way; it is very clear to the audience the personal touch of the movie is driving him to complete the story as he is basically telling the story of his own life (and how he wants his legacy to be known))"
   }
   acting {
     actor {
       name: "Michelle Williams"
-      comments: " from Michelle Williams ()"
+      comments: "Very Good from Michelle Williams (Really shows her range throughout the movie as she can go from angry to depressed in a matter of seconds (but there are many moments where it feels very superficial/over-the-top))"
     }
     actor {
       name: "Paul Dano"
-      comments: " from Paul Dano ()"
+      comments: "Pretty Good from Paul Dano (Does not have too many faults in his performance but he really never gets into second or third gear in trying to display his distrust (and when he does it, it is not really the best considering I have seen him do this in the past with other roles); a performance that really is just the calm center for other characters to work off of but is not really able to get in real arguments when the time comes)"
     }
     actor {
       name: "Seth Rogen"
-      comments: " from Seth Rogen ()"
+      comments: "Pretty Good from Seth Rogen (Plays a very anti-Seth Rogan character as he really gives off a very \"I Love Lucy\" style comedy that is super clean and family friendly (something that is just very hard to see from him); he does show off his dramatic chops in different scenes and when it does come out it is good)"
     }
     actor {
       name: "Gabriel LaBelle"
-      comments: " from Gabriel LaBelle ()"
+      comments: "Good from Gabriel LaBelle (As a young lead, he did a good job in helping tell the story and be the introverted kid who wants to make movies when no one else believes in his dreams)"
     }
-    actor {
-      name: "Judd Hirsch"
-      comments: " from Judd Hirsch ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Good to Good from the rest of the cast"
+    comments: "Pretty Good to Good Acting"
   }
   story {
     writer {
@@ -38,7 +34,7 @@ review {
     writer {
       name: "Tony Kushner"
     }
-    comments: "Story ()"
+    comments: "Good Story (The story for the first two thirds of the movie is a very good bildungsroman that really helps set up his family and his love of filmmaking, but the final third of the movie just becomes a cliche new-kid getting bullied in high school movie (with new conflicts getting introduced very late))"
   }
   screenplay {
     writer {
@@ -47,21 +43,21 @@ review {
     writer {
       name: "Tony Kushner"
     }
-    comments: "Screenplay ()"
+    comments: "Very Good to Great Screenplay (Does a great job in making dialogue feel very natural and something of the time; the allusions to previous Spielberg movies were a very nice touch as it helps show how this movie is just an homage to his whole career; Spielberg does a very good job at foreshadowing the conflict present within the family through different clues that eventually come to a realization)"
   }
   score {
     composer {
       name: "John Williams"
     }
-    comments: "Score ()"
+    comments: "Good Score (Very John Williams)"
   }
   cinematography {
     cinematographer {
       name: "Janusz Kami\305\204ski[1]"
     }
-    comments: "Cinematography ()"
+    comments: "Great Cinematography (Very similar in style to other Janusz Kami\305\204ski/Spielberg collaborations and feels very professional)"
   }
-  sound: "Sound ()"
+  sound: "Very Good Sound"
   editing {
     editor {
       name: "Michael Kahn"
@@ -69,18 +65,13 @@ review {
     editor {
       name: "Sarah Broshar"
     }
-    comments: "Editing ()"
+    comments: "Great Editing (especially when transitioning between time jumps in the plot)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure suffers from the movie being too long (the first two thirds of the movie are very well laid out and build to a good point, but the final third of the movie just feels really forced/unnecessary and causes the movie to drag on too much because of everything being introduced last minute)"
+  pacing: "Pacing was good for the most part (but the final hour of the movie just felt very unnecessary and could have been cut out)"
+  climax: "Build to the climax is decent but it builds to a conflict that really should not have happened (as it built to a better climax for a different conflict earlier on in the movie); climax was fine and similar to other Spielberg movies of recent memory (but it was for a conflict that really was not the best)"
+  tone: "Tone of the movie was set nicely as it is following the coming-of-age trope with a 50-60s dynamic"
+  overall: "Overall, a very personal movie from Spielberg that goes through his coming of age story as we see why he became a filmmaker and different homages to his most famous works, but overstays its welcome with the third act really falling apart and being cliche"
 }
 release_year: 2022
 review_date: "12/20/2022"

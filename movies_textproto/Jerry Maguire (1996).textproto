@@ -5,81 +5,68 @@ review {
     director {
       name: "Cameron Crowe"
     }
-    comments: "Direction ()"
+    comments: "Decent Direction (Keeps the movie entertaining, but the overall execution is very bland and similar to other Rom-Coms from the 90s)"
   }
   acting {
     actor {
       name: "Tom Cruise"
-      comments: " from Tom Cruise ()"
+      comments: "Very Good from Tom Cruise (Really carries the movie and is the focal point for other actors to play off of, but he is just playing himself and it really shows)"
     }
     actor {
       name: "Cuba Gooding Jr."
-      comments: " from Cuba Gooding Jr. ()"
+      comments: "Very Good from Cuba Gooding Jr. (Really helps play off of Cruise and match his level of animation as the chemistry they build together helps keep the story going)"
     }
     actor {
       name: "Ren\303\251e Zellweger"
-      comments: " from Ren\303\251e Zellweger ()"
+      comments: "Pretty Bad from Ren\303\251e Zellweger (Does not have any chemistry with Cruise and her scenes are sometimes hard to watch as the delivery sometimes comes off as cringy)"
     }
     actor {
-      name: "Kelly Preston"
-      comments: " from Kelly Preston ()"
+      name: "Regina King"
+      comments: "Good from Regina King (Does her job really well and does a good job in playing off the other actors to help keep her scenes interesting)"
     }
     actor {
-      name: "Jerry O\'Connell"
-      comments: " from Jerry O\'Connell ()"
+      name: "Jonathan Lipnicki"
+      comments: "Good from Jonathan Lipnicki (Does a good job in being the adorable character that helps give Cruise a moral compass to keep coming back to the family)"
     }
-    actor {
-      name: "Jay Mohr"
-      comments: " from Jay Mohr ()"
-    }
-    actor {
-      name: "Bonnie Hunt"
-      comments: " from Bonnie Hunt ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Pretty Bad from the rest of the cast"
+    comments: "Decent Acting"
   }
   story {
     writer {
       name: "Cameron Crowe"
     }
-    comments: "Story ()"
+    comments: "Decent to Pretty Good Story (The overarching story was entertaining but it is an incredibly safe movie that is very predictable; the storytelling was also very amateur as it does so much telling what is going on rather than showing)"
   }
   screenplay {
     writer {
       name: "Cameron Crowe"
     }
-    comments: "Screenplay ()"
+    comments: "Decent Screenplay (Very simplistic dialogue (even though it has very memorable lines) that has very surface-level meaning with all the messages being outright explained in the movie; also, the movie suffers from complete narcissism in how much they mention Jerry Maguire's name (which could be a symbol of how highly the character thinks of himself and his notoriety but it comes off as more annoying than symbolic))"
   }
   score {
     composer {
       name: "Nancy Wilson"
     }
-    comments: "Score ()"
+    comments: "Decent Score"
   }
   cinematography {
     cinematographer {
       name: "Janusz Kami\305\204ski"
     }
-    comments: "Cinematography ()"
+    comments: "Decent Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Bad Sound (Nothing seems fluid and it is obvious where the editing and mixing is)"
   editing {
     editor {
       name: "Joe Hutshing"
     }
-    comments: "Editing ()"
+    comments: "Pretty Bad Editing (Everything is very sharp with little transitions between the cuts)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was good for the most part as it follows as very simplistic Rom-Com structure"
+  pacing: "Pacing was good (not too slow or fast)"
+  climax: "Build to climax was very typical of Rom-Coms and was very easy to tell what was going to happen; climax was entertaining but very predictable (both for the sports side and the romantic side)"
+  tone: "Tone was very 90s Rom-Com that has elements of sports in the background"
+  overall: "Overall, an entertaining movie that has memorable performances by Tom Cruise and Cuba Gooding Jr., but is filled with many cliches of 90s comedies as it is very formulaic and predictable with its decent direction and predictable storyline"
 }
 release_year: 1996
 review_date: "09/28/2022"
