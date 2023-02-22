@@ -278,10 +278,17 @@ def write_proto(proto):
 def read_proto(filename):
     with open("movies_textproto/" + filename + ".textproto", "r") as fd:
         text_proto = fd.read()
+        
+        fd.seek(0)
+        if len(fd.readlines()) == 6:
+            return text_format.Parse(text_proto, movie_pb2.MovieFree())
+        else: 
+            return text_format.Parse(text_proto, movie_pb2.Movie())
 
-    return text_format.Parse(text_proto, movie_pb2.Movie())
+def print_review(proto):
 
-def proto_to_string(proto):
+    if isinstance(proto, movie_pb2.MovieFree):
+        return proto.review
 
     review = []
     
@@ -361,8 +368,8 @@ def proto_to_string(proto):
     review += ". "
 
     review += proto.review.overall + "."
-    print(review)
-    # post_to_sheets(proto.title, proto.rating, review, proto.review_date)
+
+    return review
 
 if __name__=="__main__":
     
@@ -379,11 +386,12 @@ if __name__=="__main__":
     elif sys.argv[1] == "reviews_sorted":
         print(reviews_sorted())   
     
-    elif sys.argv[1] == "proto_to_string":
+    elif sys.argv[1] == "post_review":
 
         filename = input("What is the name of the movie?\n")
         proto = read_proto(filename)
-        proto_to_string(proto)
+        review = print_review(proto)
+        post_to_sheets(proto.title, proto.rating, review, proto.review_date)
     elif sys.argv[1] == "post_to_letterboxd":
         
         filename = input("What is the name of the movie?\n")

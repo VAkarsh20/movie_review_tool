@@ -31,13 +31,7 @@ review {
     composer {
       name: "Giorgio Moroder"
     }
-    comments: " Very 80s Score (not that much of a fan tbh)"
-  }
-  cinematography {
-    cinematographer {
-      name: "John A. Alonzo"
-    }
-    comments: "Cinematography ()"
+    comments: "Very 80s Score (not that much of a fan tbh)"
   }
   sound: "Decent Sound"
   editing {
@@ -50,7 +44,7 @@ review {
     comments: "Decent Editing"
   }
   production_design: "Great Production Design"
-  plot_structure: "Plot Structure  was pretty good overall but it only talks about his rags and his riches (really misses out on the rags TO riches part)"
+  plot_structure: "Plot Structure was pretty good overall but it only talks about his rags and his riches (really misses out on the rags TO riches part)"
   pacing: "Runtime was pretty long but it is not used that well because it focuses too much on the ends of the story and not the middle"
   climax: "Build to the climax was good (mostly because it kinda just takes you there and is not a gradual build overall) with the climax being one of the best parts of the movie"
   tone: "The mood and vibe of the movies is extremely 80s (probably the most 80s movie I have ever seen)"

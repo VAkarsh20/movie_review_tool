@@ -20,15 +20,7 @@ review {
       name: "Helena Bonham Carter"
       comments: "Pretty Good from Helena Bonham Carter"
     }
-    actor {
-      name: "Meat Loaf"
-      comments: " from Meat Loaf ()"
-    }
-    actor {
-      name: "Jared Leto"
-      comments: " from Jared Leto ()"
-    }
-    cast: "from the rest of the cast ()"
+    cast: ""
     comments: "Decent to Pretty Good Acting"
   }
   story {

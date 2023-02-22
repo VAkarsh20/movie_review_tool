@@ -3,7 +3,10 @@ rating: 9.4
 review {
   direction {
     director {
-      name: "Joel CoenEthan Coen"
+      name: "Joel Coen"
+    }
+    director {
+      name: "Ethan Coen"
     }
     comments: "Incredible Direction"
   }

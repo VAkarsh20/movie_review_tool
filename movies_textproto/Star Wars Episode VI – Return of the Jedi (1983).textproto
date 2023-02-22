@@ -5,53 +5,61 @@ review {
     director {
       name: "Richard Marquand"
     }
-    comments: "Direction ()"
+    comments: "Good Direction (He is able to move the story forward in the typical Star Wars way, but is a step behind from the first two movies (given how much he is able to get out of the actors and the general off feel there is at points in the movie))"
   }
   acting {
     actor {
       name: "Mark Hamill"
-      comments: " from Mark Hamill ()"
+      comments: "Good from Mark Hamill (A real step back in this performance as he is more reserved and over-the-top (which makes sense given he is now a Jedi), and really is not able to capture the same charm he had in the first two films (even when it is warranted))"
     }
     actor {
       name: "Harrison Ford"
-      comments: " from Harrison Ford ()"
+      comments: "Very Good from Harrison Ford (The only one of the main cast who does not have that far back of a drop-off in his performance as he really has to play to his instincts/experience from the character to give this performance (which shows some drop off but is nonetheless the charismatic star of the show))"
     }
     actor {
       name: "Carrie Fisher"
-      comments: " from Carrie Fisher ()"
+      comments: "Decent from Carrie Fisher (Really took a step back in her performance as she reverts to someone who is not able to keep up with the cast (with the lack of inflection and big pauses in delivery))"
     }
     actor {
       name: "Billy Dee Williams"
-      comments: " from Billy Dee Williams ()"
+      comments: "Pretty Good from Billy Dee Williams (not as much of a presence in this film as he lost the charm that made his character so lovable from the previous film, though still does have some good moments)"
+    }
+    actor {
+      name: "Ian McDiarmid"
+      comments: "Pretty Good to Good from Ian McDiarmid (Though limited, he did show why he was the right choice for the emperor)"
     }
     actor {
       name: "Anthony Daniels"
-      comments: " from Anthony Daniels ()"
+      comments: "Very Good from Anthony Daniels (Really brings C-3PO to life as he tries to help but panics in not knowing how much he can (the anxious nerd-savior trope); also, plays a great role in helping vocalize the relationship and friendship he has with R2-D2)"
     }
     actor {
-      name: "David Prowse"
-      comments: " from David Prowse ()"
+      name: "James Earl Jones/David Prowse"
+      comments: "Incredible from James Earl Jones/David Prowse (Created one of the most iconic voices in pop-culture as his menacing voice and performance showed why Darth Vader is a villain to be scared of)"
     }
     actor {
       name: "Kenny Baker"
-      comments: " from Kenny Baker ()"
+      comments: "Incredible from Kenny Baker (Really brings R2 to life through the difference mannerisms the character has in sort of a comedic relief yet important way (making R2 one of the best characters in all of Star Wars); also, helps bring the flare that makes the character\'s friendship with C-3PO one of the best in pop-culture)"
     }
     actor {
       name: "Peter Mayhew"
-      comments: " from Peter Mayhew ()"
+      comments: "Very Good from Peter Mayhew (Played the adorable, yet extremely dangerous Chewie and played off his co-star very nicely, similar to the R2/C-3PO relationship; and continues to show how loving he is towards his new friends)"
     }
     actor {
       name: "Frank Oz"
-      comments: " from Frank Oz ()"
+      comments: "Great from Frank Oz (Really brought the character of Yoda to life with puppeteering and the vocal performance, though he really does not have that much to work with this time)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    actor {
+      name: "Warwick Davis"
+      comments: "Very Good from Warwick Davis (also for other Ewoks, a debut role that really helped play to the adorableness of the Ewoks)"
+    }
+    cast: "Decent to Pretty Good from the rest of the cast; Very Good from the rest of the cast"
+    comments: "Good Acting (Pretty Good from the Live-Action cast; Great from the Vocal/Costumed-Characters)"
   }
   story {
     writer {
       name: "George Lucas"
     }
-    comments: "Story ()"
+    comments: "Great Story (Even though the film switches back to its more linearly story-telling style, the overarching story does do a good job at bringing the trilogy to a close)"
   }
   screenplay {
     writer {
@@ -60,21 +68,21 @@ review {
     writer {
       name: "George Lucas"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Good Screenplay (The dialogue takes a step back from its improvements in the last film as it is very obvious at times where George Lucas wrote the dialogue as it is very unnatural; The overall structure of foreshadowing and symbols is worthy of Star Wars praise (Still with some iconic lines))"
   }
   score {
     composer {
       name: "John Williams"
     }
-    comments: "Score ()"
+    comments: "Brilliant Score (Continues to take what was great from the previous film and adds some new themes that really make this score stand out as well)"
   }
   cinematography {
     cinematographer {
       name: "Alan Hume"
     }
-    comments: "Cinematography ()"
+    comments: "Great to Incredible Cinematography (Which really stands out in the Luke vs. Vader scene)"
   }
-  sound: "Sound ()"
+  sound: "Great Sound (Especially when giving the movie a space/science-fiction feel as well as bringing the sounds of the droids (especially R2-D2) to life)"
   editing {
     editor {
       name: "Sean Barton"
@@ -85,18 +93,18 @@ review {
     editor {
       name: "Duwayne Dunham"
     }
-    comments: "Editing ()"
+    comments: "Very Good to Great Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Pretty Bad to Decent Visual Effects (While there are some monumental moments, there is a wide use of bad Green Screen (which was easy to see) and an excessive use of pyrotechnics (to where it just got annoying); there are also many flaws from the new edition that were so painful to watch (example being the Jabba\'s palace scenes))"
+  production_design: "Incredible to Brilliant Production Design (Some of the best sets in all of Star Wars that are so iconic and well remembered in history, with the Tatooine/Endor sets being some of my favorite from the series)"
+  makeup: "Incredible Makeup (Helped bring to life aliens that are not from this world)"
+  costumes: "Incredible Costumes (Created some of the most iconic outfits in pop-culture history, with the Darth Vader costume being one of the most well remembered in any historical context; also, the ewok costumes were so adorable in how they were designed to where it added to us caring about them)"
+  plot_structure: "Plot Structure went back to the linear structure but does a good job in setting pieces together and making sure everything comes together in the end"
+  pacing: "Pacing was good and not too rushed or slow"
+  climax: "Build to climax was good as it helped build the relationships between the different characters (Luke and Vader as well as Han and Leia); Climax was a bit anticlimactic (as even though they went for luke to be the better man, it just did not have the flare that the previous movies had as it was meant more for closure in the characters rather than entertainment)"
+  tone: "Tone goes back to being a mix of a space opera/science fiction epic as the movie really acts as the final act in the saga (needing the other two movie\'s support to keep it going)"
+  final_notes: "As a movie meant to close out the saga it does a good job in bringing closure to character arcs and stories (but this movie cannot really be a stand alone film)"
+  overall: "Overall, a step back from the previous Star Wars films by reverting back similar bad habits (with George Lucas\'s poor dialogue and over use of effects), but the movie does do a good job in ending the saga with its world-building and great storytelling (something that makes the Original Trilogy one of the most respected in movie history)"
 }
 release_year: 1983
 review_date: "08/28/2022"

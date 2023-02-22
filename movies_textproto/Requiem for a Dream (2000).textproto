@@ -1,0 +1,75 @@
+title: "Requiem for a Dream"
+rating: 9.3
+review {
+  direction {
+    director {
+      name: "Darren Aronofsky"
+    }
+    comments: "Great to Incredible Direction (Aronofsky is able to get memorable performances out of his actors as they are elevated through is script, use of symbolism, and unique editing and cinematography)"
+  }
+  acting {
+    actor {
+      name: "Ellen Burstyn"
+      comments: "Brilliant from Ellen Burstyn (Delivers a career rebirth through this performance as she is able to completely transform herself into a fractured mother still looking to keep hold of her family that is fading away from her)"
+    }
+    actor {
+      name: "Jared Leto"
+      comments: "Very Good from Jared Leto (Shows promise throughout the movie as he was able to handle the emotional moments very well (though does falter at times for a bit of a newer actor))"
+    }
+    actor {
+      name: "Jennifer Connelly"
+      comments: "Very Good to Great from Jennifer Connelly (A performance that really helped shift her career in a different direction as she embodies an individual who is slowly becoming numb as she succumbs to her addictions)"
+    }
+    actor {
+      name: "Marlon Wayans"
+      comments: "Good to Very Good from Marlon Waynes (A surprisingly good performance from the known comedic actor as he steps out of his comfort zone to play his character very well)"
+    }
+    cast: "Pretty Bad to Decent from the rest of the cast"
+    comments: "Great Acting"
+  }
+  story {
+    writer {
+      name: "Hubert Selby Jr."
+    }
+    writer {
+      name: "Darren Aronofsky"
+    }
+    comments: "Incredible Story (Very well structured as we get to see how the characters slowly decline and succumb to their addictions)"
+  }
+  screenplay {
+    writer {
+      name: "Hubert Selby Jr."
+    }
+    writer {
+      name: "Darren Aronofsky"
+    }
+    comments: "Great to Incredible Screenplay (Filled with great symbolism and imagery as well as great dialogue for the most part, there are some very questionable moments however)"
+  }
+  score {
+    composer {
+      name: "Clint Mansell"
+    }
+    comments: "Incredible to Brilliant Score (really helped set the tone of the movie and is very iconic in its own-right)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Matthew Libatique"
+    }
+    comments: "Incredible Cinematography (For the most part, as we get to see the camera help give perspective to the characters, though it can be very nauseating at times)"
+  }
+  sound: "Very Good Sound (Helped show the routine the characters went through as using the drugs just became a habit for them, though some of the sound choices were a bit cartoony and out of place)"
+  editing {
+    editor {
+      name: "Jay Rabinowitz"
+    }
+    comments: "Incredible Editing (For the most part, the jump cuts and the scenes where the characters are getting high are very well conducted and helped create an artsy genre for the public to see, though some of the editing choices were questionable)"
+  }
+  plot_structure: "Plot Structure was great as the movie is just a constant build to the climax with no resolution (something that was an intended message for the characters)"
+  pacing: "Pacing was extremely fast (and while this was an intention, it still kinda made it a bit hard to follow)"
+  climax: "Build to the climax was incredible as the whole movie just builds to it; the climax itself is one of the most memorable parts of the movie as it shows how far all the characters went with their addictions and how there was no turning back anymore (something that was helped strengthened through there being no resolution)"
+  final_notes: "The movie is filled was incredible moments and does an incredible job with the low budget it is given but it is still filled with many flaws that showed why a movie like this was very unsuccessful went it came out (that and how grotesque it was)"
+  overall: "Overall, a must watch as Aronofsky puts himself on the mainstream map by crafting an incredible insight into the descent people go to fill the void of happiness they have as we get to see 4 characters spiral out of control through their addictions, though it is not a perfect movie as it is filled with many flaws (and but not it being it is nauseating and grotesque)"
+}
+release_year: 2000
+review_date: "01/11/2022"
+redux: true

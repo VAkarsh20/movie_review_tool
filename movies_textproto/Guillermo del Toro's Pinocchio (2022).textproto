@@ -1,5 +1,5 @@
 title: "Guillermo del Toro\'s Pinocchio"
-rating: 1.0
+rating: 7.0
 review {
   direction {
     director {
@@ -8,55 +8,35 @@ review {
     director {
       name: "Mark Gustafson"
     }
-    comments: "Direction ()"
+    comments: "Decent Direction (While they are able to move the story forward pretty well, the whole movie just feels very choppy (which to an extent makes sense given it is a stop-motion movie) as many of the connecting story elements feel like they are forced together and the vocal performances don't really flow together)"
   }
   acting {
     actor {
       name: "Ewan McGregor"
-      comments: " from Ewan McGregor ()"
+      comments: "Pretty Good to Good from Ewan McGregor (Really is the best vocal performance in the movie as he is able to be the voice for the movie and show off his range in vocal inflections; but he really does not work well with the other cast members as there just feels like a sense of awkwardness when running lines with his peers)"
     }
     actor {
       name: "David Bradley"
-      comments: " from David Bradley ()"
+      comments: "Decent to Pretty Good from David Bradley (Is very animated throughout the movie and does a good job at showing the sadder parts of the character, but overall feels a bit one-dimensional)"
     }
     actor {
       name: "Gregory Mann"
-      comments: " from Gregory Mann ()"
-    }
-    actor {
-      name: "Burn Gorman"
-      comments: " from Burn Gorman ()"
-    }
-    actor {
-      name: "Ron Perlman"
-      comments: " from Ron Perlman ()"
-    }
-    actor {
-      name: "John Turturro"
-      comments: " from John Turturro ()"
-    }
-    actor {
-      name: "Finn Wolfhard"
-      comments: " from Finn Wolfhard ()"
-    }
-    actor {
-      name: "Cate Blanchett"
-      comments: " from Cate Blanchett ()"
-    }
-    actor {
-      name: "Tim Blake Nelson"
-      comments: " from Tim Blake Nelson ()"
+      comments: "Decent from Gregory Mann (The issues with the performance are not really his fault given that is how the character is written, but it is pretty hard to follow at times given how annoying of a character Pinocchio is (as he is just all over the place))"
     }
     actor {
       name: "Christoph Waltz"
-      comments: " from Christoph Waltz ()"
+      comments: "Decent to Pretty Good from Christoph Waltz (Really just plays himself, but does hold his own well)"
     }
     actor {
       name: "Tilda Swinton"
-      comments: " from Tilda Swinton ()"
+      comments: "Decent to Pretty Good from Tilda Swinton (Really just uses her own voice with an angelic filter on it, but she holds her own decently well with what she is given)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    actor {
+      name: "Tom Kenny"
+      comments: "Pretty Good from Tom Kenny (Really shows why his is a king in voice acting)"
+    }
+    cast: "Pretty Bad to Decent from the rest of the cast (It just feels like none of the actors are able to work off each other as there are many moments where the movie feels very choppy (which makes some of the scenes hard to watch))"
+    comments: "Decent Voice Acting"
   }
   story {
     writer {
@@ -65,7 +45,7 @@ review {
     writer {
       name: "Matthew Robbins"
     }
-    comments: "Story ()"
+    comments: "Pretty Good Story (Follows a similar template to the original Pinocchio but also deviates a good amount to make this story unique in sharing some of its own messages)"
   }
   screenplay {
     writer {
@@ -74,21 +54,15 @@ review {
     writer {
       name: "Patrick McHale"
     }
-    comments: "Screenplay ()"
+    comments: "Decent Screenplay (While the symbols and themes about mortality were interesting to see, especially in a movie marketed towards children, the dialogue just was very simplistic and hard to listen to at times with how choppy and annoying it was; also, the narration for the storytelling really got annoying at times (but did help with giving it a fairytale feel))"
   }
   score {
     composer {
-      name: "Alexandre Desplat[1]"
+      name: "Alexandre Desplat"
     }
-    comments: "Score ()"
+    comments: "Decent Score\Pretty Good Soundtrack (some catchy songs)"
   }
-  cinematography {
-    cinematographer {
-      name: "Frank Passingham"
-    }
-    comments: "Cinematography ()"
-  }
-  sound: "Sound ()"
+  sound: "Pretty Bad Sound (Just felt very amateurish and choppy (leading to a very unpleasant viewing experience))"
   editing {
     editor {
       name: "Ken Schretzmann"
@@ -96,19 +70,15 @@ review {
     editor {
       name: "Holly Klein"
     }
-    comments: "Editing ()"
+    comments: "Decent Editing (The editing definitely gave it more of a stop-motion feel (which is what they were going for) but overall became a bit nauseating at times)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Pretty Good Animation (I did appreciate that they went for the stop-motion feel, but it can just be a lot at times cause this makes the movie very choppy and hard to watch)"
+  plot_structure: "Plot Structure was good as it follows the generic plot structure for a movie like this"
+  pacing: "Pacing was a bit on the slower side (which is not helped by its choppy editing to make there be no flow) but there really is not that much to be cut or added"
+  climax: "Climax was actually good as it was very captivating to see how they are shown some of their biggest perils of their adventure (with the ending message being very important to show what the movie is about)"
+  tone: "Tone was a that of many fairytale movies but it does do a good job in grasping some of the darker tones to show the concept of mortality"
+  overall: "Overall, a decent watch that follows the iconic character of Pinocchio in a unique way as the audience gets to see him tackle darker concepts of the importance of family and what is the meaning of death, but is a pretty hard watch given how choppy the movie is with its lackluster direction, acting that is not fluid, stop motion animation (which is not necessarily a bad thing), and editing."
 }
 release_year: 2022
-review_date: "02/02/2023"
+review_date: "02/16/2023"
 redux: false
