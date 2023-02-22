@@ -1,6 +1,46 @@
 title: "Prisoners"
 rating: 9.5
-review: "REDUX: Incredible to Great Direction, Great Acting by the entire cast as a whole despite some hickups of overacting at some points (Incredible performances by Hugh and Jake), Incredible Story, Incredible to Great Screenplay filled with symbolism throughout, Incredible Cinematography, Incredible Makeup, The pacing was good overall but was slower at sometimes and seemed pretty rushed towards the end, the runtime of the movie was a little too long as 15-20 minutes of the movie could definitely been cut to show off the same product, The build to the climax was great and the climax was executed very well. Overall, one of the best movies about serial crime that looks into the tramua and effects searching for lost love ones can have on a father, family, and detective searching. ORIGINAL 9.2"
+review {
+  direction {
+    director {
+      name: "Denis Villeneuve"
+    }
+    comments: "Incredible to Great Direction"
+  }
+  acting {
+    actor {
+      name: "Hugh Jackman"
+      comments: "Incredible from Hugh Jackman"
+    }
+    actor {
+      name: "Jake Gyllenhaal"
+      comments: "Incredible from Jake Gyllenhaal"
+    }
+    cast: "Great from the rest of the cast (Despite some hiccups of overacting at some points)"
+    comments: "Great to Incredible Acting"
+  }
+  story {
+    writer {
+      name: "Aaron Guzikowski"
+    }
+    comments: "Incredible Story"
+  }
+  screenplay {
+    writer {
+      name: "Aaron Guzikowski"
+    }
+    comments: "Great to Incredible Screenplay (Filled with symbolism throughout)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Roger A. Deakins"
+    }
+    comments: "Incredible Cinematography"
+  }
+  pacing: "Pacing was good overall but was slower at sometimes and seemed pretty rushed towards the end; the runtime of the movie was a little too long as 15-20 minutes of the movie that could definitely been cut to show off the same product"
+  climax: "Build to the climax was very well executed"
+  overall: "Overall, one of the best movies about serial crime that looks into the trauma and effects searching for lost love ones can have on a father, family, and detective searching"
+}
 release_year: 2013
-review_date: "02/18/2018 (WITH REDUX)"
-redux: false
+review_date: "02/18/2018"
+redux: true

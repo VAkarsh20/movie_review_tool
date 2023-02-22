@@ -10,11 +10,11 @@ review {
   acting {
     actor {
       name: "Margot Robbie"
-      comments: "Very Good to Great from Margot Robbie ()"
+      comments: "Very Good to Great from Margot Robbie"
     }
     actor {
       name: "Idris Elba"
-      comments: "Very Good to Great from Idris Elba ()"
+      comments: "Very Good to Great from Idris Elba"
     }
     actor {
       name: "Joel Kinnaman"

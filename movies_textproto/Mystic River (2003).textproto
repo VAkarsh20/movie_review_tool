@@ -37,23 +37,12 @@ review {
     }
     comments: "Decent Score"
   }
-  cinematography {
-    cinematographer {
-      name: "Tom Stern"
-    }
-    comments: "Cinematography ()"
-  }
-  sound: "Sound ()"
   editing {
     editor {
       name: "Joel Cox"
     }
     comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
   plot_structure: "Plot Structure was very good as there are two parallel stories to try and look for the killer (Though the development of Kevin Bacon's character was a bit confusing on how it was presented)"
   pacing: "Pacing was on the slower side but pretty good overall; runtime was decent (but there were definitely scenes that could be cut as they were unnecessary, bout like 10-15 minutes worth)"
   climax: "The build to the climax was great with the climax being incredible as well as the falling action and finding out the true story of the killing; the resolution was kinda poor and not carried out well"

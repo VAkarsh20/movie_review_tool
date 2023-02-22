@@ -8,17 +8,8 @@ review {
     comments: "Pretty Good Direction"
   }
   acting {
-    cast: "A surprisingly studded all star cast where each actor plays their role very well, but there are issues (Cohen's accent  was very annoying and characters, like Amy Adams, were overacting at times)"
+    cast: "A surprisingly studded all star cast where each actor plays their role very well, but there are issues (Cohen's accent was very annoying and characters, like Amy Adams, were overacting at times)"
     comments: "Pretty Good Acting"
-  }
-  story {
-    writer {
-      name: "Will Ferrell"
-    }
-    writer {
-      name: "Adam McKay"
-    }
-    comments: "Story ()"
   }
   screenplay {
     writer {
@@ -28,18 +19,6 @@ review {
       name: "Adam McKay"
     }
     comments: "Very Good Screenplay (Very funny movie (Stupid funny but funny); Most jokes hit but when they miss its pretty eh; very Will Ferrell in its joke telling in that he breaks the pace or adds on to a joke to make it funnier (This either hits or can be annoying at times))"
-  }
-  score {
-    composer {
-      name: "Alex Wurman"
-    }
-    comments: "Score ()"
-  }
-  cinematography {
-    cinematographer {
-      name: "Oliver Wood"
-    }
-    comments: "Cinematography ()"
   }
   sound: "Pretty Good Sound Editing/Mixing"
   editing {
