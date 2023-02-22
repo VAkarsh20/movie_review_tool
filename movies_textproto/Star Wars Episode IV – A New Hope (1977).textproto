@@ -5,57 +5,73 @@ review {
     director {
       name: "George Lucas"
     }
-    comments: "Direction ()"
+    comments: "Very Good Direction (The actual moving of the story and making sure all pieces come together is incredibly managed and executed, it is just the actual direction of characters was pretty poorly done (which kinda reveals the truth that George Lucas is a visionary in storytelling, but not that Great in actually directing people))"
   }
   acting {
     actor {
       name: "Mark Hamill"
-      comments: " from Mark Hamill ()"
+      comments: "Very Good from Mark Hamill (Really excelled at playing the naive kid who is interested in helping very well, shows a bit of inexperience but that is to be accepted when he is playing a very young character that is the hero)"
     }
     actor {
       name: "Harrison Ford"
-      comments: " from Harrison Ford ()"
+      comments: "Very Good to Great from Harrison Ford (The real star of the show in all his scenes as his smooth/cool nature really helps show how great of a character Han Solo really is (though there are moments that are kinda iffy with the awkwardness and silence from line deliveries))"
     }
     actor {
       name: "Carrie Fisher"
-      comments: " from Carrie Fisher ()"
+      comments: "Pretty Good from Carrie Fisher (Her performance does not compete with the others but she does play the damsel in distress character trope very well (though it is a bit annoying when she is changing between accents as it sounds like she is putting on a fake English accent at times))"
     }
     actor {
       name: "Peter Cushing"
-      comments: " from Peter Cushing ()"
+      comments: "Pretty Good to Good from Peter Cushing (Not really that much in the movie despite his high billing)"
     }
     actor {
       name: "Alec Guinness"
-      comments: " from Alec Guinness ()"
+      comments: "Great from Alec Guinness (Really shows his experience as an actor in this performance as he has much range in showing both care for Luke yet trauma from his past that still effects him)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    actor {
+      name: "Anthony Daniels"
+      comments: "Very Good from Anthony Daniels (Really brings C-3PO to life as he tries to help but panics in not knowing how much he can (the anxious nerd-savior trope); also, plays a great role in helping vocalize the relationship and friendship he has with R2-D2)"
+    }
+    actor {
+      name: "Kenny Baker"
+      comments: "Incredible from Kenny Baker (Really brings R2 to life through the difference mannerisms the character has in sort of a comedic relief yet important way (making R2 one of the best characters in all of Star Wars); also, helps bring the flare that makes the character's friendship with C-3PO one of the best in pop-culture)"
+    }
+    actor {
+      name: "Peter Mayhew"
+      comments: "Very Good from Peter Mayhew (Played the adorable, yet extremely dangerous Chewie and played off his co-star very nicely, similar to the R2/C-3PO relationship)"
+    }
+    actor {
+      name: "James Earl Jones/David Prowse"
+      comments: "Incredible from James Earl Jones/David Prowse (Created one of the most iconic voices in pop-culture as his menacing voice and performance showed why Darth Vader is a villain to be scared of)"
+    }
+    cast: "Very Good from the rest of the Live-Action cast; Very Good from the rest of the Vocal/Costumed-Characters cast"
+    comments: "Very Good Acting (Good to Very Good from the Live-Action Cast; Very Good to Great from the Vocal/Costumed-Characters)"
   }
   story {
     writer {
       name: "George Lucas"
     }
-    comments: "Story ()"
+    comments: "Brilliant Story (Created a world that is one of the most iconic today; the character writing is incredible as they are some of the most iconic characters in pop culture; the way the story ties all the different movies together (both prequel and later films) is very well done and visionary)"
   }
   screenplay {
     writer {
       name: "George Lucas"
     }
-    comments: "Screenplay ()"
+    comments: "Very Good Screenplay (The actual dialogue was not that well written as it felt very unnatural (as was seen from the characters trying to say the words), but where the screenplay shines is the foreshadowing to future Star Wars events, symbolism, iconic lines, and character writing to introduce the Star Wars universe as a cinematic achievement)"
   }
   score {
     composer {
       name: "John Williams"
     }
-    comments: "Score ()"
+    comments: "Brilliant Score (One of the most iconic scores in cinema history and is very well used throughout the movie)"
   }
   cinematography {
     cinematographer {
       name: "Gilbert Taylor"
     }
-    comments: "Cinematography ()"
+    comments: "Great Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Incredible Sound (Especially when giving the movie a space/science-fiction feel as well as bringing the sounds of the droids (especially R2-D2) to life)"
   editing {
     editor {
       name: "Paul Hirsch"
@@ -66,18 +82,18 @@ review {
     editor {
       name: "Richard Chew"
     }
-    comments: "Editing ()"
+    comments: "Very Good to Great Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Cannot rate Visual Effects (The original Visual Effects were incredible for how revolutionary they were at the time of the release, but the added CGI from the re-release makes it very hard to watch as it just feels so forced and out of place with the original effects)"
+  production_design: "Incredible Production Design (Created some very iconic sets that are well remembered in history)"
+  makeup: "Incredible Makeup (Helped bring to life aliens that are not from this world)"
+  costumes: "Incredible Costumes (Created some of the most iconic outfits in pop-culture history, with the Darth Vader costume being one of the most well remembered in any historical context)"
+  plot_structure: "Plot Structure was very well written as each piece builds on the previous one as everything matters in building up the movie and moving the story forward (so nothing to really add or remove)"
+  pacing: "Pacing can be a bit slower at times but does maintain a very steady pace throughout the movie (pace very typical of movies from that time-period)"
+  climax: "Build to climax was very well done as the movie treats the actual build as the climax (so we are building to this build very nicely throughout the movie); Climax was kinda thrown at us as in the grand scheme of things we did not build to this (we built up to the build as previously stated) but it was very well executed and really shows off the technical marvels that the original film was very groundbreaking for; moreover helps provide some insight into Luke's quest in finding the force and taking his first step in becoming a Jedi"
+  tone: "Tone was that typical to a space opera or science fiction epic but does have some unique feel to it that makes it very Star Wars"
+  final_notes: "A ground-breaking movie not only in Cinema-history but actual history as well as it ushered in a new way to view and create stories and was an inspiration for the rise in the Science-Fiction genre in the 80s and 90s"
+  overall: "Overall, an important movie to watch in what created one of the most iconic franchises in the world and helped jump-start a story that is beloved by many through its technical achieves and story-writing, even though the direction is a bit lacking"
 }
 release_year: 1977
 review_date: "06/12/2022"

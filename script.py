@@ -116,6 +116,7 @@ def create_protos_free_from_csv(df):
             
             record = free_df.iloc[i]
             title = record['Title']
+
             wiki_title = title.replace(" ", "_")
             infobox = review_tool.parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
 
@@ -307,6 +308,54 @@ def parse_review(df, filename):
         text_proto = text_format.MessageToString(proto)
         fd.write(text_proto)
 
+def update_csv(df, start_idx):
+
+    # read_proto(filename)
+    # with open("movies_textproto/" + filename + ".textproto", "r") as fd:
+    #     text_proto = fd.read()
+
+    # return text_format.Parse(text_proto, movie_pb2.Movie())
+
+    title = ""
+    new_df = df.copy()
+    count = 0
+    for i in range(start_idx, len(df)):
+        
+        try: 
+            
+            record = df.iloc[i]
+            title = record['Title']
+
+            if title in ["Best F(r)iends: Volume 1", "We Are Columbine"]:
+                continue
+
+            wiki_title = title.replace(" ", "_")
+            infobox = review_tool.parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
+
+            if title.endswith("film)"):
+                title = title[:title.rfind(' (')]
+            
+            filename = (title + " ({})".format(review_tool.find_release_year(infobox))).replace(":","").replace("?","")
+            
+            proto = review_tool.read_proto(filename)
+
+            review = review_tool.print_review(proto)
+            # df_review = record['Review']
+            # if abs(len(review)-len(df_review)) > 50:
+            print(title + " {} ".format(len(review)-len(record['Review'])))
+            #     print()
+            #     print(review)
+            #     print()
+            #     print(df_review)
+            #     print()
+            #     print()
+            print(review)
+            
+        except:
+            raise Exception("Issue with {} {}".format(title, i))
+            continue
+    print(count)
+
 
 if __name__=="__main__":
 
@@ -314,9 +363,11 @@ if __name__=="__main__":
 
     df = create_df()
 
-    if argc > 1:
-        filename = sys.argv[1]
-        parse_review(df, filename)
+    # if argc > 1:
+        # filename = sys.argv[1]
+        # parse_review(df, filename)
+
+    update_csv(df, 167)
 
     # df.to_csv("movies.csv", index=False)
     # create_protos_from_csv(df)

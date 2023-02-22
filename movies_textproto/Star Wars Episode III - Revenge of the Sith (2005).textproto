@@ -5,73 +5,56 @@ review {
     director {
       name: "George Lucas"
     }
-    comments: "Direction ()"
+    comments: "Bad Direction (The actual action and fight scenes were very well choreographed but everything else was terrible (and it could be seen how helpless the actors were))"
   }
   acting {
     actor {
       name: "Ewan McGregor"
-      comments: " from Ewan McGregor ()"
+      comments: "Great from Ewan McGregor (Given how bad the direction was, he really stole the show with his ability to take control of his scenes and actual show emotions when others couldn\'t)"
     }
     actor {
       name: "Natalie Portman"
-      comments: " from Natalie Portman ()"
+      comments: "Pretty Bad from Natalie Portman (Very emotionless performance with very little depth)"
     }
     actor {
       name: "Hayden Christensen"
-      comments: " from Hayden Christensen ()"
+      comments: "Bad from Hayden Christensen (There were elements that I genuinely though he was good, but the majority was just comical and meme-worthy cause of how bad the direction he was given)"
     }
     actor {
       name: "Ian McDiarmid"
-      comments: " from Ian McDiarmid ()"
+      comments: "Good to Very Good from Ian McDiarmid (Embodied the emperor very well and was able to switch sides very easily)"
     }
     actor {
       name: "Samuel L. Jackson"
-      comments: " from Samuel L. Jackson ()"
+      comments: "Decent from Samuel L. Jackson (had limited range throughout the performance but it was easy to see where he had to let go of the direction he was given)"
     }
-    actor {
-      name: "Christopher Lee"
-      comments: " from Christopher Lee ()"
-    }
-    actor {
-      name: "Anthony Daniels"
-      comments: " from Anthony Daniels ()"
-    }
-    actor {
-      name: "Kenny Baker"
-      comments: " from Kenny Baker ()"
-    }
-    actor {
-      name: "Frank Oz"
-      comments: " from Frank Oz ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting "
+    cast: "Acting on a Spectrum from the rest of the cast (Bad from the rest of the live-action cast; Great voice acting (really brought to life the iconic performances of their characters))"
+    comments: "Pretty Bad Acting"
   }
   story {
     writer {
       name: "George Lucas"
     }
-    comments: "Story ()"
+    comments: "Incredible Story (The actual structure and storyline was very well told cause it really bridges the descent Anakin has in being the chosen one to falling to the darkside through the illusion that it will help Padme (especially really shown in the final hour))"
   }
   screenplay {
     writer {
       name: "George Lucas"
     }
-    comments: "Screenplay ()"
+    comments: "Bad Screenplay (To where it is memorable and iconic; None of the language was natural and felt very forced (but there are just so many memorable lines from how bad they were written that I loved it; the foreshadowing and symbolism actually is told very well (giving further proof that Lucas is a good Storyteller but terrible dialogue writer)))"
   }
   score {
     composer {
       name: "John Williams"
     }
-    comments: "Score ()"
+    comments: "Incredible to Brilliant Score (One of the best John Williams scores he has ever made)"
   }
   cinematography {
     cinematographer {
       name: "David Tattersall"
     }
-    comments: "Cinematography ()"
+    comments: "Great to Incredible Cinematography (especially in the scenes where the subjects are small pieces of a large canvas)"
   }
-  sound: "Sound ()"
   editing {
     editor {
       name: "Roger Barton"
@@ -79,18 +62,18 @@ review {
     editor {
       name: "Ben Burtt"
     }
-    comments: "Editing ()"
+    comments: "Good Editing (The cuts between different shots was Great but the transitions between scenes felt very lazy)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "climax "
-  tone: "tone"
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Great to Incredible Visual Effects (Especially considering when the movie was made and a majority of it is through Green screen and effects)"
+  production_design: "Incredible Production Design"
+  makeup: "Incredible Makeup"
+  costumes: "Incredible Costumes"
+  plot_structure: "Plot Structure was laid out very nicely as all the elements really built off of each other and every element played an importance"
+  pacing: "Pacing was great as it really kept a steady pace throughout (with no need to add or cut on runtime)"
+  climax: "Build to climax was incredible as the final hour of the movie was building to the fall of the Jedi; Climax was incredible as it was one of the best moments in Star Wars history (especially the Anakin vs. Obi-Wan fight)"
+  tone: "Tone was very typical of the prequels and Star Wars (but the darker tones were a night touch as it brought a depressing aspect with glimpses of hope)"
+  final_notes: "The movie was a real redemption for the prequels as we already expected the bad aspects of the movie yet we were still surprised the grandeur and level of story writing which makes this movie an iconic story in the Star Wars saga"
+  overall: "Overall, An incredible story with the technical achievements that really make this movie a must watch and a favorite of mine as it helps bridge the prequels with the original trilogy, even though it does reek of the bad dialogue and direction that the rest of the prequels suffer from"
 }
 release_year: 2005
 review_date: "05/11/2022"

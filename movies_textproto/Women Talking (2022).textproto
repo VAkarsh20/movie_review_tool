@@ -1,65 +1,41 @@
 title: "Women Talking"
-rating: 1.0
+rating: 6.0
 review {
   direction {
     director {
       name: "Sarah Polley"
     }
-    comments: "Direction ()"
+    comments: "Decent Direction (Does a good job on the micro-level as the discussion scenes were well executed as the actors were able to flow off each other very nicely, but she falters on a macro scale as there is a lot of issues with storytelling and setting the tone (as it comes off as very boring))"
   }
   acting {
-    actor {
-      name: "Rooney Mara"
-      comments: " from Rooney Mara ()"
-    }
-    actor {
-      name: "Claire Foy"
-      comments: " from Claire Foy ()"
-    }
-    actor {
-      name: "Jessie Buckley"
-      comments: " from Jessie Buckley ()"
-    }
-    actor {
-      name: "Judith Ivey"
-      comments: " from Judith Ivey ()"
-    }
-    actor {
-      name: "Ben Whishaw"
-      comments: " from Ben Whishaw ()"
-    }
-    actor {
-      name: "Frances McDormand"
-      comments: " from Frances McDormand ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "The cast as a whole plays off each other very well in order to discuss the conflict and share their their differing opinions"
+    comments: "Good Acting"
   }
   story {
     writer {
       name: "Sarah Polley"
     }
-    comments: "Story ()"
+    comments: "Bad Story (While the actual conflict is interesting, the plot feels very poorly put together as it feels like nothing really happens in this movie as it is just the characters debating the same topic in multiple scenes)"
   }
   screenplay {
     writer {
       name: "Sarah Polley"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Bad Screenplay (The dialogue is not that captivating (at least outside of the discussion scenes) and the symbols and foreshadowing were a bit shallow in its presentation)"
   }
   score {
     composer {
       name: "Hildur Gu\303\260nad\303\263ttir"
     }
-    comments: "Score ()"
+    comments: "Score was present"
   }
   cinematography {
     cinematographer {
       name: "Luc Montpellier"
     }
-    comments: "Cinematography ()"
+    comments: "Pretty Good Cinematography (Felt very Artist/A24 esque with the filter they used, but does a pretty good job in showing the darkness the characters are going through (despite the constant sunlight))"
   }
-  sound: "Sound ()"
+  sound: "Decent Sound"
   editing {
     editor {
       name: "Christopher Donaldson"
@@ -67,19 +43,16 @@ review {
     editor {
       name: "Roslyn Kalloo"
     }
-    comments: "Editing ()"
+    comments: "Decent Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone"
-  final_notes: ""
-  overall: "Overall, "
+  costumes: "Pretty Good Costumes"
+  plot_structure: "Plot Structure was very poorly put together as it really does not feel like they build to the conflict at all in the movie as it feels like the same three scenes throughout the movie"
+  pacing: "Pacing was incredibly slow as there really is not that much plot to progress the story forward"
+  climax: "Climax was not captivating at all as it is just declared how they are going to combat the conflict and it is very rushed in showing this resolution"
+  tone: "Tone was very Victorian/Mennonite and but is more forced in how it is set as it just used the story to set this (making the movie feel incredibly boring and not captivating)"
+  final_notes: "This movie would have been a lot better as a play as it really does not take advantage of any techniques that can only be done on film as opposed to the stage"
+  overall: "Overall, a movie that has good acting and is good from a micro-scale (especially with the discussion scenes), but really falters on a macro-scale as the direction and bad plot construction really makes the movie very boring and feel like nothing actually happened (to where this movie probably would have been better suited off as a play)."
 }
 release_year: 2022
-review_date: "02/02/2023"
+review_date: "02/19/2023"
 redux: false

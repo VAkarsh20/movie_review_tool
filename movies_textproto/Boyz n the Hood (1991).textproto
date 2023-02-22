@@ -11,6 +11,18 @@ review {
     cast: "The cast overall works well with each other (especially the main cast)"
     comments: "Good Acting"
   }
+  story {
+    writer {
+      name: "John Singleton"
+    }
+    comments: "Great Story (Emotional and makes you feel for the character's struggles)"
+  }
+  screenplay {
+    writer {
+      name: "John Singleton"
+    }
+    comments: "Very Good Screenplay"
+  }
   score {
     composer {
       name: "Stanley Clarke"
