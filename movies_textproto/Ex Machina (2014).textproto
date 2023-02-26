@@ -5,7 +5,7 @@ review {
     director {
       name: "Alex Garland"
     }
-    comments: "Great Direction (Like the stylistic choices he made by interweaving the scenic shots/sets with the character's dialogue)"
+    comments: "Great Direction (Like the stylistic choices he made by interweaving the scenic shots/sets with the character\'s dialogue)"
   }
   acting {
     actor {
@@ -60,3 +60,5 @@ review {
 release_year: 2014
 review_date: "05/30/2021"
 redux: false
+id: 195
+imdb_id: "tt0470752"

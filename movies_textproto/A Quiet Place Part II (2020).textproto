@@ -41,7 +41,7 @@ review {
     writer {
       name: "John Krasinski"
     }
-    comments: "Good Screenplay (Uses less ASL makes the movie a bit more 'Blunt,' but the movie uses plot points throughout the movie to tie the movie together)"
+    comments: "Good Screenplay (Uses less ASL makes the movie a bit more \'Blunt,\' but the movie uses plot points throughout the movie to tie the movie together)"
   }
   score {
     composer {
@@ -57,7 +57,7 @@ review {
   }
   sound: "Great to Incredible Sound"
   plot_structure: "Plot Structure was Good"
-  pacing: "Short runtime is used effectively as no scene is really unused and there really isn't anything that needs to be added/cut"
+  pacing: "Short runtime is used effectively as no scene is really unused and there really isn\'t anything that needs to be added/cut"
   climax: "Build to the climax was great with the final 15 minutes being a very well executed sequence that kept me on the edge of my seat"
   final_notes: "The movie was scarier than the first (but uses more jump scares to achieve this); movie sort of ends on a cliff hanger but does have some closure to what will happen to the characters"
   overall: "Overall, a movie that is more of a direct continuation of the first as it uses a larger budget to make a better movie that is scarier, better executed, and a better watch overall (something I hope the spin-off builds on)"
@@ -65,3 +65,5 @@ review {
 release_year: 2020
 review_date: "07/22/2021"
 redux: false
+id: 211
+imdb_id: "tt8332922"

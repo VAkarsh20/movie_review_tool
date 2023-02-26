@@ -26,7 +26,7 @@ review {
     writer {
       name: "Matthew Fogel"
     }
-    comments: "Decent Story (Nothing really spectacular as it is a pretty predictable plot that is harmless for a children's movie)"
+    comments: "Decent Story (Nothing really spectacular as it is a pretty predictable plot that is harmless for a children\'s movie)"
   }
   screenplay {
     writer {
@@ -58,3 +58,5 @@ review {
 release_year: 2022
 review_date: "07/07/2022"
 redux: false
+id: 275
+imdb_id: "tt5113044"

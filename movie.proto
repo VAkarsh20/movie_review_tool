@@ -9,6 +9,8 @@ message Movie {
     int32 release_year = 4;
     optional string review_date = 5;
     optional bool redux = 6;
+    int32 id = 7;
+    string imdb_id = 8;
 
     message Review {
         
@@ -83,5 +85,7 @@ message MovieFree {
     int32 release_year = 4;
     optional string review_date = 5;
     optional bool redux = 6;
+    int32 id = 7;
+    string imdb_id = 8;
 }
 

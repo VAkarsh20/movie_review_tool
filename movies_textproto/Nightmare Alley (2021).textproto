@@ -72,7 +72,7 @@ review {
   production_design: "Incredible Production Design (It feels like this movie is from the same universe as The Shape of Water as the sets and styles feel awfully similar to that movie, which is fine because the Production design for that movie was also a standout)"
   plot_structure: "Plot Structure is laid out very well as it is easy to follow where we are in the story and which part of the narrative arc we are"
   pacing: "Pacing was slow and consistent throughout the movie (not a bad thing)"
-  climax: "Build to climax was very good as it was show overtly why the climax was important and what built up to it; climax was shown very well as it symbolizes the downfall of Cooper's character as he get's himself in too deep"
+  climax: "Build to climax was very good as it was show overtly why the climax was important and what built up to it; climax was shown very well as it symbolizes the downfall of Cooper\'s character as he get\'s himself in too deep"
   tone: "Tone of the movie was very good as the Neo Noir style added to the historical and dark feel of the movie that was mysterious throughout"
   final_notes: "It may have been an issue from the source material but did not feel as if the movie was that new or captivating in what it was trying to show (it felt like a formulaic movie that was pretty surface level)"
   overall: "Overall, Good to Very Good movie that is visually appealing as we go through the mystery of the characters that was a fun and captivating watch, though it is a bit surface level in both its formulaic plot structure and story leaving us wanting more as it feels like nothing really happens"
@@ -80,3 +80,5 @@ review {
 release_year: 2021
 review_date: "03/15/2022"
 redux: false
+id: 245
+imdb_id: "tt7740496"

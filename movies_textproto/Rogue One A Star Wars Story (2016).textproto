@@ -85,7 +85,7 @@ review {
   visual_effects: "Great to Incredible Visual Effects (Everything from this movie was incredible but the Deepfakes did show their age as it falls more into the uncanny valley now)"
   production_design: "Very Good Production Design"
   makeup: "Very Good Makeup"
-  costumes: "Great Costumes (Helps pay homage to A New Hope's costumes)"
+  costumes: "Great Costumes (Helps pay homage to A New Hope\'s costumes)"
   plot_structure: "Plot Structure was very well executed from a macro level as it helps entertain the audience but there is a lot jammed into the movie that it takes away from helping build the characters and their importance (they are kinda just plopped into the story)"
   pacing: "Pacing was a bit on the faster side cause of how much they try to jam (if they cut like cut 30 minutes of new content/characters and used it to slow the pace and build up some of their characters the movie would have a bit better execution)"
   climax: "Build to climax was very well done and is a bit similar to other blockbuster/Star Wars movies; climax was incredibly executed and the best part of the movie (whether it be from the fights on the ground or the fire fights)"
@@ -94,5 +94,7 @@ review {
   overall: "Overall, an entertaining movie that helps rejuvenate the Star Wars franchise through its well executed action scenes and fan-service to the original film, though it is filled with corny dialogue and introduction of too many new elements that it is not able to be on the same par as the original trilogy"
 }
 release_year: 2016
-review_date: "09/04/22"
+review_date: "09/04/2022"
 redux: true
+id: 1
+imdb_id: "tt3748528"

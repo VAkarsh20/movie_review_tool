@@ -18,7 +18,7 @@ review {
     }
     actor {
       name: "Jared Leto"
-      comments: "Terrible from Jared Leto (Possibly one of the worst performances I have every seen, his accent is atrocious and he's comedic when his trying to be serious)"
+      comments: "Terrible from Jared Leto (Possibly one of the worst performances I have every seen, his accent is atrocious and he\'s comedic when his trying to be serious)"
     }
     actor {
       name: "Jeremy Irons"
@@ -82,3 +82,5 @@ review {
 release_year: 2021
 review_date: "11/30/2021"
 redux: false
+id: 231
+imdb_id: "tt11214590"

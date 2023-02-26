@@ -8,7 +8,7 @@ review {
     comments: "Pretty Good Direction"
   }
   acting {
-    cast: "A surprisingly studded all star cast where each actor plays their role very well, but there are issues (Cohen's accent was very annoying and characters, like Amy Adams, were overacting at times)"
+    cast: "A surprisingly studded all star cast where each actor plays their role very well, but there are issues (Cohen\'s accent was very annoying and characters, like Amy Adams, were overacting at times)"
     comments: "Pretty Good Acting"
   }
   screenplay {
@@ -28,9 +28,11 @@ review {
     comments: "Pretty Good Editing"
   }
   pacing: "Pacing was intentionally fast (which leaves no room for development)"
-  climax: "the build to the climax really is ok but definitely could've been better"
+  climax: "the build to the climax really is ok but definitely could\'ve been better"
   overall: "Overall, a fun movie to watch for leisure that has many jokes that hit very well and are very quotable, even though it may be stupid funny"
 }
 release_year: 2006
 review_date: "12/26/2020"
 redux: false
+id: 173
+imdb_id: "tt0415306"

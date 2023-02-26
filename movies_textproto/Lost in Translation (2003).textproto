@@ -16,7 +16,7 @@ review {
       name: "Scarlett Johansson"
       comments: "Good to Very Good from Scarlett Johansson"
     }
-    cast: "There really wasn't a supporting cast for the movie"
+    cast: "There really wasn\'t a supporting cast for the movie"
     comments: "Good to Very Good Acting"
   }
   story {
@@ -29,7 +29,7 @@ review {
     writer {
       name: "Sofia Coppola"
     }
-    comments: "Pretty Bad to Decent Screenplay (The screenplay was meant to be awkward and being 'lost in translation' and it did capture that well, but I also felt that it made the movie very boring and dull because of it)"
+    comments: "Pretty Bad to Decent Screenplay (The screenplay was meant to be awkward and being \'lost in translation\' and it did capture that well, but I also felt that it made the movie very boring and dull because of it)"
   }
   cinematography {
     cinematographer {
@@ -44,3 +44,5 @@ review {
 release_year: 2003
 review_date: "05/24/2021"
 redux: false
+id: 189
+imdb_id: "tt0335266"

@@ -17,10 +17,6 @@ review {
       comments: "Good from Henry Thomas (Was able to hold his own as a child actor as the conduit between ET and the human world)"
     }
     actor {
-      name: "Peter Coyote"
-      comments: " from Peter Coyote ()"
-    }
-    actor {
       name: "Robert MacNaughton"
       comments: "Pretty Good to Good from Robert MacNaughton (Plays the older brother/bully character well and acts as a strong elder figure as he plays off Thomas well towards the climax)"
     }
@@ -73,3 +69,5 @@ review {
 release_year: 1982
 review_date: "09/03/2022"
 redux: false
+id: 292
+imdb_id: "tt0083866"

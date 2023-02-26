@@ -34,7 +34,7 @@ review {
     writer {
       name: "Martin Scorsese"
     }
-    comments: "Incredible Story (With Ray Liota's narration being an iconic feature for the movie in depicting the life of Henry Hill, though the final parts of the plot did drag on a bit)"
+    comments: "Incredible Story (With Ray Liota\'s narration being an iconic feature for the movie in depicting the life of Henry Hill, though the final parts of the plot did drag on a bit)"
   }
   screenplay {
     writer {
@@ -68,3 +68,5 @@ review {
 release_year: 1990
 review_date: "11/23/2021"
 redux: false
+id: 229
+imdb_id: "tt0099685"

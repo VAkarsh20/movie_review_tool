@@ -39,7 +39,7 @@ review {
     cinematographer {
       name: "Wally Pfister"
     }
-    comments: "Incredible Cinematography (in Wally Pfister's last movie with Nolan)"
+    comments: "Incredible Cinematography (in Wally Pfister\'s last movie with Nolan)"
   }
   sound: "Incredible Sound"
   editing {
@@ -56,3 +56,5 @@ review {
 release_year: 2012
 review_date: "05/11/2021"
 redux: false
+id: 186
+imdb_id: "tt1345836"

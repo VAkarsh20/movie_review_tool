@@ -21,8 +21,8 @@ review {
       comments: "Very Good from Daniel Stern (the good comedic relief to the comedic relief from Joe Pesci)"
     }
     actor {
-      name: "Catherine O'Hara"
-      comments: "Good to Very Good from Catherine O'Hara"
+      name: "Catherine O\'Hara"
+      comments: "Good to Very Good from Catherine O\'Hara"
     }
     cast: "Decent to Pretty Good from the rest of the cast"
     comments: "Pretty Good to Good Acting"
@@ -54,9 +54,11 @@ review {
   sound: "Good Sound"
   plot_structure: "Plot Structure was very nicely laid out as there are no real wasted scenes in developing the story"
   pacing: "Pacing was great as it was a steady pace that used its runtime very nicely"
-  climax: "Build to the climax was great as it helped tie loose ends in Kevin's fears of being alone and with the old man; climax is the most iconic part of the movie as it shows Kevin against the Wet Bandits as he lays the house out with traps to defend himself and show how he is not afraid anymore"
+  climax: "Build to the climax was great as it helped tie loose ends in Kevin\'s fears of being alone and with the old man; climax is the most iconic part of the movie as it shows Kevin against the Wet Bandits as he lays the house out with traps to defend himself and show how he is not afraid anymore"
   overall: "Overall, one of the best christmas movies ever made as we get to see the iconic elements carried out by Culkin and the wet bandits as they navigate through the different traps and high jinks, and I would rate this movie higher but I personally prefer the sequel more due to personal reasons"
 }
 release_year: 1990
 review_date: "12/25/2021"
 redux: false
+id: 234
+imdb_id: "tt0099785"
