@@ -9,8 +9,8 @@ review {
   }
   acting {
     actor {
-      name: "Daniel Brühl"
-      comments: "Great from Daniel Brühl"
+      name: "Daniel Br\303\274hl"
+      comments: "Great from Daniel Br\303\274hl"
     }
     cast: "Good from the rest of the cast"
     comments: "Good to Very Good Acting"
@@ -43,3 +43,5 @@ review {
 release_year: 2013
 review_date: "05/11/2021"
 redux: false
+id: 185
+imdb_id: "tt1979320"

@@ -14,7 +14,7 @@ review {
     }
     actor {
       name: "Philip Baker Hall"
-      comments: "Good to Very Good from Philip Baker Hall ()"
+      comments: "Good to Very Good from Philip Baker Hall"
     }
     actor {
       name: "Philip Seymour Hoffman"
@@ -75,3 +75,5 @@ review {
 release_year: 1999
 review_date: "08/09/2021"
 redux: false
+id: 216
+imdb_id: "tt0175880"

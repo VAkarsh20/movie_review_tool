@@ -18,7 +18,7 @@ review {
     }
     actor {
       name: "Robin de Jes\303\272s"
-      comments: "Pretty Good to Good from Robin de Jesús (overall, he commands himself very well and acts as a great side to Garfield, singing is also a plus in his performance, but he really hits his limit and falters in the emotional augmenting scenes)"
+      comments: "Pretty Good to Good from Robin de Jes\303\272s (overall, he commands himself very well and acts as a great side to Garfield, singing is also a plus in his performance, but he really hits his limit and falters in the emotional augmenting scenes)"
     }
     actor {
       name: "Vanessa Hudgens"
@@ -31,7 +31,7 @@ review {
     writer {
       name: "Steven Levenson"
     }
-    comments: "Very Good to Great Story (very inspiration and details the trials and tribulations Larson when through as he was struggling as an writer; however, it is a major cop out to say that 'the story was true, except when it was not' as just say its true or exaggerated)"
+    comments: "Very Good to Great Story (very inspiration and details the trials and tribulations Larson when through as he was struggling as an writer; however, it is a major cop out to say that \'the story was true, except when it was not\' as just say its true or exaggerated)"
   }
   screenplay {
     writer {
@@ -72,3 +72,5 @@ review {
 release_year: 2021
 review_date: "01/06/2022"
 redux: false
+id: 239
+imdb_id: "tt8721424"

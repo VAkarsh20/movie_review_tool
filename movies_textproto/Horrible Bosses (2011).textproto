@@ -8,7 +8,7 @@ review {
     comments: "Decent Direction (Comedic elements were decently executed and it was pretty similar in feel to that of comedies from that timeframe)"
   }
   acting {
-    cast: "The whole ensemble cast was very experienced and each played to their strengths very well (like Kevin Spacey, Jamie Foxx, and Charlie Day (Who was just playing Charlie Kelly from It's Always Sunny in Philadelphia))"
+    cast: "The whole ensemble cast was very experienced and each played to their strengths very well (like Kevin Spacey, Jamie Foxx, and Charlie Day (Who was just playing Charlie Kelly from It\'s Always Sunny in Philadelphia))"
     comments: "Good Acting"
   }
   story {
@@ -38,3 +38,5 @@ review {
 release_year: 2011
 review_date: "07/25/2022"
 redux: false
+id: 282
+imdb_id: "tt1499658"

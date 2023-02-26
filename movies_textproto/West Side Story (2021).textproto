@@ -55,7 +55,7 @@ review {
   }
   cinematography {
     cinematographer {
-      name: "	Janusz Kamiński"
+      name: "\tJanusz Kami\305\204ski"
     }
     comments: "Incredible Cinematography (especially with the way it uses light and different colors to make scenes more lively in such dark, torn-down areas)"
   }
@@ -73,9 +73,11 @@ review {
   costumes: "Incredible Costumes (Similar to what the Production Design gives to the movie)"
   plot_structure: "Plot Structure was mostly identical to the original movie (though it is still good in terms of how everything is laid out, I would have liked to have seen more in terms of moments between Maria and Tony)"
   pacing: "Pacing was good overall as it did not really feel rushed or dragging at points"
-  climax: "Build to the climax is well done as we get to see tensions building from the rumble between the Sharks and the Jets and how the aftermath effects the characters; climax itself is a pivotal part in the movie as we get to see Tony and Maria's true love come out (though logically it needs to be pointed out how unrealistic the events actually would be)"
+  climax: "Build to the climax is well done as we get to see tensions building from the rumble between the Sharks and the Jets and how the aftermath effects the characters; climax itself is a pivotal part in the movie as we get to see Tony and Maria\'s true love come out (though logically it needs to be pointed out how unrealistic the events actually would be)"
   overall: "Overall, a great remake of the original as we get to hear and see new faces, and old, carry out iconic characters and numbers as this new rendition pays homage to the original in may ways while also holding its own as it brings back the flair and numbers that make West Side Story one of the most well-known musicals of all time"
 }
 release_year: 2021
 review_date: "12/25/2021"
 redux: false
+id: 235
+imdb_id: "tt3581652"

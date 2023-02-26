@@ -10,7 +10,7 @@ review {
   acting {
     actor {
       name: "Will Ferrell"
-      comments: "Incredible from Will Ferrell (Incredible Chemistry between Will Ferrell and Mark Wahlburg as both actors' strengths come out when working off each other)"
+      comments: "Incredible from Will Ferrell (Incredible Chemistry between Will Ferrell and Mark Wahlburg as both actors\' strengths come out when working off each other)"
     }
     actor {
       name: "Mark Wahlberg"
@@ -76,3 +76,5 @@ review {
 release_year: 2010
 review_date: "04/09/2022"
 redux: true
+id: 9
+imdb_id: "tt1386588"

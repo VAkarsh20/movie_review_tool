@@ -59,7 +59,7 @@ review {
   }
   plot_structure: "Plot Structure followed the same generic plot structure of a John Wick/Action Movie"
   pacing: "Pacing felt very fast (the movie was less than 90 minutes)"
-  climax: "Build to the climax was very good as it is a culmination of all the action that Odenkirk's character had in him; Climax was good as it was the most action packed moment of the entire movie and was well choreographed"
+  climax: "Build to the climax was very good as it is a culmination of all the action that Odenkirk\'s character had in him; Climax was good as it was the most action packed moment of the entire movie and was well choreographed"
   tone: "Tone of the movie was very dark and grungy (adds to that John Wick feel)"
   final_notes: "the action scenes were well choreographed as a whole and shared a very similar stylistic choice to John Wick"
   overall: "Overall, a decent watch that was filled with action, though it entirely feels like a John Wick copy (which makes sense given who made the movie)"
@@ -67,3 +67,5 @@ review {
 release_year: 2021
 review_date: "03/01/2022"
 redux: false
+id: 242
+imdb_id: "tt7888964"

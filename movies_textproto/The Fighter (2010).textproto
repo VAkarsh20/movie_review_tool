@@ -55,7 +55,7 @@ review {
     composer {
       name: "Michael Brook"
     }
-    comments: "Score was just there and didn't really do anything; soundtrack choices were very typical of that of early 2010s movies which made it a bit cringe"
+    comments: "Score was just there and didn\'t really do anything; soundtrack choices were very typical of that of early 2010s movies which made it a bit cringe"
   }
   cinematography {
     cinematographer {
@@ -69,10 +69,12 @@ review {
     }
     comments: "Decent Editing"
   }
-  pacing: "Pacing was pretty rushed as it skipped/merged a lot of events that actually happened when it really didn't; Runtime was ok but could have been a bit longer towards the end"
+  pacing: "Pacing was pretty rushed as it skipped/merged a lot of events that actually happened when it really didn\'t; Runtime was ok but could have been a bit longer towards the end"
   climax: "the climax was very abrupt and pretty anticlimactic as the final fight and the reconciliation by the family is kinda felt as an after thought when it is meant to be the pinnacle of the movie"
   overall: "Overall, a good movie that is a fun watch that is driven by its performances but is held back a lot by it being a very simple retelling of what actually happened (even if some of the events were exaggerated)"
 }
 release_year: 2010
 review_date: "06/21/2021"
 redux: false
+id: 203
+imdb_id: "tt0964517"

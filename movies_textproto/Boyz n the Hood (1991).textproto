@@ -15,7 +15,7 @@ review {
     writer {
       name: "John Singleton"
     }
-    comments: "Great Story (Emotional and makes you feel for the character's struggles)"
+    comments: "Great Story (Emotional and makes you feel for the character\'s struggles)"
   }
   screenplay {
     writer {
@@ -35,3 +35,5 @@ review {
 release_year: 1991
 review_date: "11/27/2020"
 redux: false
+id: 170
+imdb_id: "tt0101507"

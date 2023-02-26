@@ -9,8 +9,8 @@ review {
   }
   acting {
     actor {
-      name: "Timothée Chalamet"
-      comments: "Pretty Good from Timothée Chalamet"
+      name: "Timoth\303\251e Chalamet"
+      comments: "Pretty Good from Timoth\303\251e Chalamet"
     }
     actor {
       name: "Rebecca Ferguson"
@@ -25,8 +25,8 @@ review {
       comments: "Good from Josh Brolin"
     }
     actor {
-      name: "Stellan Skarsgård"
-      comments: "Good from Stellan Skarsgård"
+      name: "Stellan Skarsg\303\245rd"
+      comments: "Good from Stellan Skarsg\303\245rd"
     }
     actor {
       name: "Jason Momoa"
@@ -92,3 +92,5 @@ review {
 release_year: 2021
 review_date: "10/31/2021"
 redux: false
+id: 223
+imdb_id: "tt1160419"
