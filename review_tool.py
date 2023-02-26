@@ -9,24 +9,37 @@ from sheets import post_to_sheets, reviews_sorted
 from datetime import datetime
 from letterboxd import LetterboxdBot
 import os
+import wikipedia
 
-def find_title_and_infobox():
+def get_wiki_info():
 
     # Parse Wikipedia
     while True:
         try: 
             title = input("What is the film title?\n")
             wiki_title = title.replace(" ", "_")
+            imdb_id = get_imdb_id(wiki_title)
             infobox = parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
             
             # Change the film title if it has a (film) tag end the end of the wikipedia search
             if title.endswith("film)"):
                 title = title[:title.rfind(' (')]
             
-            return title, infobox
+            return title, imdb_id, infobox
         except:
             print("Film not found. Please try again.")
-    return None, None
+    return None, None, None
+
+def get_imdb_id(film):
+
+    links = wikipedia.WikipediaPage(title=film).references
+    imdb_id = [x.replace("https://www.imdb.com/title/","").partition("/")[0] for x in links if("https://www.imdb.com/title/" in x)]
+
+    if len(imdb_id) > 1 and len(set(imdb_id)) > 1:
+        raise Exception("More than one IMDB link for " + film)
+
+    imdb_id = imdb_id[0]
+    return imdb_id
 
 # Taken from https://www.geeksforgeeks.org/web-scraping-from-wikipedia-using-python-a-complete-guide/
 def parse_wiki(url):
@@ -205,7 +218,7 @@ def find_review_date():
 def create_proto():
     
     # Find title
-    title, infobox = find_title_and_infobox()
+    title, imdb_id, infobox = get_wiki_info()
 
     # Initializing all the fields
     direction = parse_direction(infobox)
@@ -255,14 +268,14 @@ def create_proto():
     review_date = find_review_date()
 
     # creating the review object from the fields already initialized
-    return movie_pb2.Movie(title=title, rating=1.0, review=review, release_year=release_year, review_date=review_date, redux=False)
+    return movie_pb2.Movie(title=title, rating=1.0, review=review, release_year=release_year, review_date=review_date, redux=False, id=-1, imdb_id=imdb_id)
     
 
 def create_proto_free():
-    title, infobox = find_title_and_infobox()
+    title, imdb_id, infobox = get_wiki_info()
     release_year = find_release_year(infobox)
     review_date = find_review_date()
-    return movie_pb2.MovieFree(title=title, rating=1.0, review="", release_year=release_year, review_date=review_date, redux=False)
+    return movie_pb2.MovieFree(title=title, rating=1.0, review="", release_year=release_year, review_date=review_date, redux=False, id=-1, imdb_id=imdb_id)
 
 
 def write_proto(proto):
@@ -280,12 +293,42 @@ def read_proto(filename):
         text_proto = fd.read()
         
         fd.seek(0)
-        if len(fd.readlines()) == 6:
+        if len(fd.readlines()) <= 8:
             return text_format.Parse(text_proto, movie_pb2.MovieFree())
         else: 
             return text_format.Parse(text_proto, movie_pb2.Movie())
 
-def print_review(proto):
+def print_redux_review(redux_proto, filename):
+    
+    #Format is REDUX (YEAR): <Review>. ORIGINAL (RATING, YEAR): <Review>. 
+    redux = "REDUX {}: ".format(redux_proto.review_date) + print_review(redux_proto, "")
+    original_proto = read_proto("reduxed/" + filename)
+    original = " ORIGINAL ({}, {}): ".format(original_proto.rating, original_proto.review_date) + print_review(original_proto, "")    
+    return redux + original
+
+def print_short_redux_review(redux_proto, filename):
+    
+    #Format is REDUX (YEAR): <Review>. ORIGINAL (RATING, YEAR): <Review>. 
+    redux = "REDUX ({})\n{}\n\n".format(redux_proto.review_date, print_short_review(redux_proto, ""))
+    original_proto = read_proto("reduxed/" + filename)
+    original = "ORIGINAL ({})\n{}".format(original_proto.review_date, print_short_review(original_proto, ""))  
+    return redux + original
+
+def print_short_review(proto, filename):
+    
+    if proto.redux == True and filename != "":
+        return print_short_redux_review(proto, filename)
+    
+    if isinstance(proto, movie_pb2.MovieFree):
+        return "Rating: {}\n{}".format(proto.rating, proto.review)
+    else:
+        return "Rating: {}\n{}.".format(proto.rating, proto.review.overall)
+
+
+def print_review(proto, filename):
+
+    if proto.redux == True and filename != "":
+        return print_redux_review(proto, filename)
 
     if isinstance(proto, movie_pb2.MovieFree):
         return proto.review
@@ -390,8 +433,8 @@ if __name__=="__main__":
 
         filename = input("What is the name of the movie?\n")
         proto = read_proto(filename)
-        review = print_review(proto)
-        post_to_sheets(proto.title, proto.rating, review, proto.review_date)
+        review = print_review(proto, filename)
+        # post_to_sheets(proto.title, proto.rating, review, proto.review_date)
     elif sys.argv[1] == "post_to_letterboxd":
         
         filename = input("What is the name of the movie?\n")

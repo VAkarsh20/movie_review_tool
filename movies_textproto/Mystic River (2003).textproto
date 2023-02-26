@@ -43,7 +43,7 @@ review {
     }
     comments: "Good Editing"
   }
-  plot_structure: "Plot Structure was very good as there are two parallel stories to try and look for the killer (Though the development of Kevin Bacon's character was a bit confusing on how it was presented)"
+  plot_structure: "Plot Structure was very good as there are two parallel stories to try and look for the killer (Though the development of Kevin Bacon\'s character was a bit confusing on how it was presented)"
   pacing: "Pacing was on the slower side but pretty good overall; runtime was decent (but there were definitely scenes that could be cut as they were unnecessary, bout like 10-15 minutes worth)"
   climax: "The build to the climax was great with the climax being incredible as well as the falling action and finding out the true story of the killing; the resolution was kinda poor and not carried out well"
   final_notes: "One of the best portrayals of trauma and grief I have ever seen carried out"
@@ -52,3 +52,5 @@ review {
 release_year: 2003
 review_date: "05/28/2021"
 redux: false
+id: 193
+imdb_id: "tt0327056"

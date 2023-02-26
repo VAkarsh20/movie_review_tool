@@ -18,7 +18,7 @@ review {
     }
     actor {
       name: "Bobby Cannavale"
-      comments: "Pretty Bad to Decent from Bobby Cannavale (Another performance that just isn\'t that special and just lacks chemistry when trying to play off  De Armas (Even though that may be the point))"
+      comments: "Pretty Bad to Decent from Bobby Cannavale (Another performance that just isn\'t that special and just lacks chemistry when trying to play off De Armas (Even though that may be the point))"
     }
     actor {
       name: "Julianne Nicholson"
@@ -62,7 +62,6 @@ review {
     comments: "Pretty Bad to Decent Editing (There were some editing techniques I did like (like the transitions from one scene to another and her showing her routine slowly killing her), but overall it just feels so amateur and very bad (like the blurring of the faces (which is something you can edit on like Tik Tok)))"
   }
   visual_effects: "Very Bad Visual Effects (Feels incredibly tacky and amateur and the CGI of the baby is actually horrible and hard to watch; a lot of the effects just feels like a fever dream)"
-  production_design: "Production Design ()"
   costumes: "Pretty Bad Costumes (They reuse a lot of the iconic costumes a lot throughout the movie and the costumes were not that well designed overall (especially the iconic vent dress))"
   plot_structure: "Plot Structure is very inconsistent as there are so many jumps throughout the movie that are not subtle at all (leaving so many questions about what is going on in the plot)"
   pacing: "Pacing is incredibly slow despite all the jumps that the movie goes through as it just drags and feels very boring (The movie focuses too much on very small scenes and details); the overall runtime should have been cut by and hour and the movie would probably be the same)"
@@ -74,3 +73,5 @@ review {
 release_year: 2022
 review_date: "11/02/2022"
 redux: false
+id: 298
+imdb_id: "tt1655389"

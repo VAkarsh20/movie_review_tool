@@ -69,9 +69,11 @@ review {
   plot_structure: "Plot Structure was very simplistic but followed very nicely (so no complaints)"
   pacing: "Pacing was good (even for the short runtime)"
   climax: "Build to climax was good; climax was good (and the ending resolution was enough time to help close of the movie)"
-  tone: "Tone was very consistent with that of other children's movies but with a low-budget/indie twist"
+  tone: "Tone was very consistent with that of other children\'s movies but with a low-budget/indie twist"
   overall: "Overall, a very cute movie that is very simple on the surface but has a little bit more depth for a children\'s movie (especially for how low-budget it looked)"
 }
 release_year: 2021
 review_date: "07/29/2022"
 redux: false
+id: 283
+imdb_id: "tt15339456"

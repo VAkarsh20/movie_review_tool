@@ -31,7 +31,7 @@ review {
     writer {
       name: "Eric Roth"
     }
-    comments: "Brilliant Story (with how iconic each segment of Forrest's life makes him who he is and the storytelling from Tom Hanks to help drive the movie forward (and not just tell what is happening))"
+    comments: "Brilliant Story (with how iconic each segment of Forrest\'s life makes him who he is and the storytelling from Tom Hanks to help drive the movie forward (and not just tell what is happening))"
   }
   screenplay {
     writer {
@@ -59,12 +59,14 @@ review {
     comments: "Great to Incredible Editing (especially its ability to go between different parts of the story)"
   }
   visual_effects: "Pretty Good Visual Effects (Pretty Good use of CGI (though it was a bit over-the-top at times))"
-  plot_structure: "Plot Structure was incredibly unique as each segment in the first 3/4 of the movie were more used as vignettes into Forrest's life and the final quarter is meant more to show the present and show what Forrest's future will be (however, the overarching plot structure does a great job in still introducing character, introducing some conflict, and showing character development through passage of time)"
-  pacing: "Pacing was good as the movie never felt like it was dragging even though it was a bit on the longer side (partly due to the nature of how the story is built with different episodes from Forrest's life)"
-  climax: "Build to the climax was kinda abrupt but the climax itself is the epiphany moment in Forrest's life in what his true purpose is (despite all that he has accomplished)"
+  plot_structure: "Plot Structure was incredibly unique as each segment in the first 3/4 of the movie were more used as vignettes into Forrest\'s life and the final quarter is meant more to show the present and show what Forrest\'s future will be (however, the overarching plot structure does a great job in still introducing character, introducing some conflict, and showing character development through passage of time)"
+  pacing: "Pacing was good as the movie never felt like it was dragging even though it was a bit on the longer side (partly due to the nature of how the story is built with different episodes from Forrest\'s life)"
+  climax: "Build to the climax was kinda abrupt but the climax itself is the epiphany moment in Forrest\'s life in what his true purpose is (despite all that he has accomplished)"
   final_notes: "the character of Forrest Gump is important to highlight as it is a true mainstay in American Society (cause even though he may not be the smartest, he had so much heart and love to where he could accomplish anything that was set in his path)"
-  overall: "Overall, an incredible movie that is one of the most fun watches anyone can ever have as the audience goes through the incredible adventure of Forrest Gump's life to see how much someone can do despite having so little (A true testament of the importance love and heart can have as a driving factor)"
+  overall: "Overall, an incredible movie that is one of the most fun watches anyone can ever have as the audience goes through the incredible adventure of Forrest Gump\'s life to see how much someone can do despite having so little (A true testament of the importance love and heart can have as a driving factor)"
 }
 release_year: 1994
 review_date: "11/22/2021"
 redux: false
+id: 228
+imdb_id: "tt0109830"

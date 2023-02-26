@@ -56,8 +56,10 @@ review {
   pacing: "Pacing was generally very slow but consistent to Kubrick style pacing"
   climax: "The build to the climax is not that well done as there are many jumps in the narrative and the resolution does not really exist"
   final_notes: "Very well choreography war scenes"
-  overall: "Overall, a good movie that shows the horrors of war and the effects it has on soldiers, but is very shallow in its meaning and message when compared to Kubrick's other films"
+  overall: "Overall, a good movie that shows the horrors of war and the effects it has on soldiers, but is very shallow in its meaning and message when compared to Kubrick\'s other films"
 }
 release_year: 1987
 review_date: "12/23/2020"
 redux: false
+id: 171
+imdb_id: "tt0093058"

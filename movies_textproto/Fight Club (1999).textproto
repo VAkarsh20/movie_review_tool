@@ -51,16 +51,18 @@ review {
     editor {
       name: "James Haygood"
     }
-    comments: "Great to Incredible Editing (Especially how it edits specific frames into the movie to mimic the editing style of 'Tyler' and allude to how the narrator may be having illusions)"
+    comments: "Great to Incredible Editing (Especially how it edits specific frames into the movie to mimic the editing style of \'Tyler\' and allude to how the narrator may be having illusions)"
   }
   visual_effects: "Very Bad Visual Effects (Looks extremely tacky and reeks of the Late 90s/early 00s style of forced CGI)"
   production_design: "Good to Very Good Production Design (Shows the dark, dirty world the narrator has gotten himself into)"
   pacing: "Pacing was good (constant quick pace which was helped by the movie starting at the end); Runtime was good (no need to cut or add any scenes)"
   climax: "The build to the climax and epiphany was good with the final 15-20 minutes being executed very well (though I felt that there could have been 5 more minutes added to the end of the movie)"
-  tone: "The tone and narration of the movie was extremely annoying because it was told through the lens of a pretentious 'Holden Caulfield' who hates the world and leaves it to find himself (therefore being extremely meta in the process of telling the story)"
-  final_notes: "The actual twist (while I knew ahead of time) was very easy to spot as there were many plot/logical holes that could only be explained by the twist" 
-  overall: "Overall, a Pretty Good to Good movie that was very entertaining to watch the narrator devolve from a consumer lifestyle to a point where he loses himself in a modern day retelling of 'Catcher in the Rye' (Which is kinda a reason for why I did not like parts of the movie cause it was extremely annoying)"
+  tone: "The tone and narration of the movie was extremely annoying because it was told through the lens of a pretentious \'Holden Caulfield\' who hates the world and leaves it to find himself (therefore being extremely meta in the process of telling the story)"
+  final_notes: "The actual twist (while I knew ahead of time) was very easy to spot as there were many plot/logical holes that could only be explained by the twist"
+  overall: "Overall, a Pretty Good to Good movie that was very entertaining to watch the narrator devolve from a consumer lifestyle to a point where he loses himself in a modern day retelling of \'Catcher in the Rye\' (Which is kinda a reason for why I did not like parts of the movie cause it was extremely annoying)"
 }
 release_year: 1999
 review_date: "07/19/2021"
 redux: false
+id: 210
+imdb_id: "tt0137523"

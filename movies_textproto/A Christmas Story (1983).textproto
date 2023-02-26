@@ -33,13 +33,15 @@ review {
     writer {
       name: "Bob Clark"
     }
-    comments: "Decent Screenplay (With \"You'll shoot your eye out kid\" being an iconic quote in all of cinema)"
+    comments: "Decent Screenplay (With \"You\'ll shoot your eye out kid\" being an iconic quote in all of cinema)"
   }
   plot_structure: "Plot Structure is on the spectrum as the build to the climax is throughout the whole movie and pulls it off decently well but the movie needed to end after the last use of the \"iconic line\" because all the scenes after that are pretty pointless and make the movie feel like its dragging more than it should"
   pacing: "Pacing is very slow as the movie seems incredibly long despite the fact that it is surprisingly only a little over an hour and a half"
   final_notes: "Narration made the story a lot slower than it needed to be and kinda dragged away from what was being told"
-  overall: "Overall, a movie that is kinda overrated, has not aged that well compared to other christmas movies, and has incredible pacing and length issues, but is still an entertaining watch for the family during Christmas time."
+  overall: "Overall, a movie that is kinda overrated, has not aged that well compared to other christmas movies, and has incredible pacing and length issues, but is still an entertaining watch for the family during Christmas time"
 }
 release_year: 1983
 review_date: "12/26/2020"
 redux: false
+id: 175
+imdb_id: "tt0085334"

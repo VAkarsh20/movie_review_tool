@@ -68,10 +68,12 @@ review {
     }
     comments: "Pretty Good Editing"
   }
-  plot_structure: "Plot Structure was fine for the most part (but I think it should spend a bit more time in the 10 minutes before the climax because the audience is just kinda thrown into Vaughn and Fisher's characters getting married (cause no passage of time is really given, just that they are 'moving quickly'))"
-  climax: "Build to the climax was decent (while it does have the best moment of the movie (Chazz scene), it really does not go that well into the fallout between Wilson and Vaughn's characters and the latter's relationship (maybe like 10 minutes cut from the middle to put into that would have helped)); the climax is pretty cliche but not bad overall (its a 00s rom-com after all)"
+  plot_structure: "Plot Structure was fine for the most part (but I think it should spend a bit more time in the 10 minutes before the climax because the audience is just kinda thrown into Vaughn and Fisher\'s characters getting married (cause no passage of time is really given, just that they are \'moving quickly\'))"
+  climax: "Build to the climax was decent (while it does have the best moment of the movie (Chazz scene), it really does not go that well into the fallout between Wilson and Vaughn\'s characters and the latter\'s relationship (maybe like 10 minutes cut from the middle to put into that would have helped)); the climax is pretty cliche but not bad overall (its a 00s rom-com after all)"
   overall: "Overall, a fun movie to watch that is filled with many memorable quotes and good laughs, but what holds the movie back is it reeking of the 00s Rom-Com archetype with its predictable story and constant cliches, so it would probably be a fun movie to watch in the background or picking it up in the middle on TV"
 }
 release_year: 2005
 review_date: "12/31/2021"
 redux: false
+id: 237
+imdb_id: "tt0396269"

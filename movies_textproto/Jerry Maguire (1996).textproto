@@ -41,7 +41,7 @@ review {
     writer {
       name: "Cameron Crowe"
     }
-    comments: "Decent Screenplay (Very simplistic dialogue (even though it has very memorable lines) that has very surface-level meaning with all the messages being outright explained in the movie; also, the movie suffers from complete narcissism in how much they mention Jerry Maguire's name (which could be a symbol of how highly the character thinks of himself and his notoriety but it comes off as more annoying than symbolic))"
+    comments: "Decent Screenplay (Very simplistic dialogue (even though it has very memorable lines) that has very surface-level meaning with all the messages being outright explained in the movie; also, the movie suffers from complete narcissism in how much they mention Jerry Maguire\'s name (which could be a symbol of how highly the character thinks of himself and his notoriety but it comes off as more annoying than symbolic))"
   }
   score {
     composer {
@@ -71,3 +71,5 @@ review {
 release_year: 1996
 review_date: "09/28/2022"
 redux: false
+id: 296
+imdb_id: "tt0116695"

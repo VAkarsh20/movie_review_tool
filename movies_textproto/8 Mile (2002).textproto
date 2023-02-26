@@ -58,7 +58,10 @@ review {
   sound: "Good Sound (Really helped when mixing the hip-hop elements with the story)"
   editing {
     editor {
-      name: "Jay RabinowitzCraig Kitson"
+      name: "Jay Rabinowitz"
+    }
+    editor {
+      name: "Craig Kitson"
     }
     comments: "Pretty Good Editing"
   }
@@ -70,3 +73,5 @@ review {
 }
 release_year: 2002
 review_date: "01/18/2023"
+id: 314
+imdb_id: "tt0298203"

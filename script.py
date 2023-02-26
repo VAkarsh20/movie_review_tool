@@ -9,6 +9,7 @@ import movie_pb2
 from google.protobuf import text_format
 import sys
 from collections import defaultdict
+import sheets
 
 def get_imdb_id(film):
 
@@ -35,9 +36,9 @@ def rating_to_stars(rating):
     elif rating in range(85, 90):
         return 4
     elif rating in range(80, 85):
-        return 3.5
+        return 4
     elif rating in range(75, 80):
-        return 3
+        return 3.5
     elif rating in range(70, 75):
         return 3
     elif rating in range(60, 70):
@@ -52,6 +53,34 @@ def rating_to_stars(rating):
         return 0.5
     else:
         return 0
+
+def rating_to_tag(rating):
+
+    rating = int (rating * 10)
+
+    # Mapping rating to its respective tag
+    if rating in range(97, 100):
+        return "Brilliant"
+    elif rating in range(95, 97):
+        return "Incredible"
+    elif rating in range(90, 95):
+        return "Great"
+    elif rating in range(85, 90):
+        return "Very Good"
+    elif rating in range(80, 85):
+        return "Good"
+    elif rating in range(75, 80):
+        return "Pretty Good"
+    elif rating in range(70, 75):
+        return "Decent"
+    elif rating in range(60, 70):
+        return "Pretty Bad"
+    elif rating in range(40, 60):
+        return "Bad"
+    elif rating in range(30, 40):
+        return "Very Bad"
+    else:
+        return "Terrible"
 
 def create_df():
     
@@ -308,7 +337,7 @@ def parse_review(df, filename):
         text_proto = text_format.MessageToString(proto)
         fd.write(text_proto)
 
-def update_csv(df, start_idx):
+def add_id(df, start_idx):
 
     # read_proto(filename)
     # with open("movies_textproto/" + filename + ".textproto", "r") as fd:
@@ -339,17 +368,12 @@ def update_csv(df, start_idx):
             
             proto = review_tool.read_proto(filename)
 
+            proto.id = record['Id']
+
             review = review_tool.print_review(proto)
-            # df_review = record['Review']
-            # if abs(len(review)-len(df_review)) > 50:
-            print(title + " {} ".format(len(review)-len(record['Review'])))
-            #     print()
-            #     print(review)
-            #     print()
-            #     print(df_review)
-            #     print()
-            #     print()
-            print(review)
+            with open("movies_textproto/" + filename + ".textproto", "w") as fd:
+                text_proto = text_format.MessageToString(proto)
+                fd.write(text_proto)
             
         except:
             raise Exception("Issue with {} {}".format(title, i))
@@ -357,17 +381,78 @@ def update_csv(df, start_idx):
     print(count)
 
 
+def add_imdb_id(start_idx, df):
+    title = ""
+    files = os.listdir("movies_textproto/")
+    
+    id_to_imdb = dict(map(lambda x,y : (x,y) , df['Id'], df['imdbID']))
+
+    for i in range(start_idx, len(files)):
+        
+        try: 
+            filename = files[i].replace(".textproto","")
+            proto = review_tool.read_proto(filename)
+
+            proto_id = proto.id
+            if proto_id > 315:
+                print(proto.title)
+                continue
+
+            proto.imdb_id = id_to_imdb[proto.id]
+
+            with open("movies_textproto/" + filename + ".textproto", "w") as fd:
+                text_proto = text_format.MessageToString(proto)
+                fd.write(text_proto)
+            
+        except:
+            raise Exception("Issue with {} {}".format(title, i))
+            continue
+
+
+def change_date_format(date):
+    month, day, year = date.split("/")
+    return "{}-{}-{}".format(year, month, day)
+
+def update_csv():
+    
+    title = ""
+    df = pd.DataFrame(columns=["imdbID", "Title", "Year", "Rating","WatchedDate","Tags","Review","Id"])
+    files = os.listdir("movies_textproto/")
+
+    for i in range(len(files)):
+
+        try: 
+            filename = files[i].replace(".textproto","")
+
+            if filename == "reduxed":
+                continue
+
+            proto = review_tool.read_proto(filename)
+            record = [proto.imdb_id, proto.title, proto.release_year, rating_to_stars(proto.rating), change_date_format(proto.review_date), rating_to_tag(proto.rating), review_tool.print_short_review(proto, filename), proto.id]
+            df.loc[len(df)] = record
+            # sheets.post_to_sheets(proto.title, proto.rating, review_tool.print_review(proto, filename), proto.release_year, proto.review_date, proto.id, proto.imdb_id)
+            
+        except:
+            raise Exception("Issue with {} {}".format(title, i))
+            continue
+
+    df = df.sort_values(by=['Id'])
+    df = df.drop(columns=['Id'])
+
+    df.to_csv("letterboxd_upload.csv", index=False)
+
 if __name__=="__main__":
 
     argc = len(sys.argv)
 
     df = create_df()
 
+    # add_imdb_id(109, df)
     # if argc > 1:
         # filename = sys.argv[1]
         # parse_review(df, filename)
 
-    update_csv(df, 167)
+    update_csv()
 
     # df.to_csv("movies.csv", index=False)
     # create_protos_from_csv(df)

@@ -1,4 +1,4 @@
-title: "It's a Wonderful Life"
+title: "It\'s a Wonderful Life"
 rating: 8.5
 review {
   direction {
@@ -14,7 +14,7 @@ review {
     }
     actor {
       name: "Donna Reed"
-      comments: "Good to Very Good from Donna Reed (A good companion performance to Stewart's)"
+      comments: "Good to Very Good from Donna Reed (A good companion performance to Stewart\'s)"
     }
     actor {
       name: "Lionel Barrymore"
@@ -37,7 +37,7 @@ review {
     writer {
       name: "Frank Capra"
     }
-    comments: "Good to Very Good Story (While the concepts, elements, and the 'retelling' of 'A Christmas Carol' was very good/iconic, the movie spends too much of the story on the exposition to where the more memorable parts are barely a part of the movie)"
+    comments: "Good to Very Good Story (While the concepts, elements, and the \'retelling\' of \'A Christmas Carol\' was very good/iconic, the movie spends too much of the story on the exposition to where the more memorable parts are barely a part of the movie)"
   }
   screenplay {
     writer {
@@ -83,3 +83,5 @@ review {
 release_year: 1946
 review_date: "12/30/2021"
 redux: false
+id: 236
+imdb_id: "tt0038650"

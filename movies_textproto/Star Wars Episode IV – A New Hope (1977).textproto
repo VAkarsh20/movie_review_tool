@@ -34,7 +34,7 @@ review {
     }
     actor {
       name: "Kenny Baker"
-      comments: "Incredible from Kenny Baker (Really brings R2 to life through the difference mannerisms the character has in sort of a comedic relief yet important way (making R2 one of the best characters in all of Star Wars); also, helps bring the flare that makes the character's friendship with C-3PO one of the best in pop-culture)"
+      comments: "Incredible from Kenny Baker (Really brings R2 to life through the difference mannerisms the character has in sort of a comedic relief yet important way (making R2 one of the best characters in all of Star Wars); also, helps bring the flare that makes the character\'s friendship with C-3PO one of the best in pop-culture)"
     }
     actor {
       name: "Peter Mayhew"
@@ -90,7 +90,7 @@ review {
   costumes: "Incredible Costumes (Created some of the most iconic outfits in pop-culture history, with the Darth Vader costume being one of the most well remembered in any historical context)"
   plot_structure: "Plot Structure was very well written as each piece builds on the previous one as everything matters in building up the movie and moving the story forward (so nothing to really add or remove)"
   pacing: "Pacing can be a bit slower at times but does maintain a very steady pace throughout the movie (pace very typical of movies from that time-period)"
-  climax: "Build to climax was very well done as the movie treats the actual build as the climax (so we are building to this build very nicely throughout the movie); Climax was kinda thrown at us as in the grand scheme of things we did not build to this (we built up to the build as previously stated) but it was very well executed and really shows off the technical marvels that the original film was very groundbreaking for; moreover helps provide some insight into Luke's quest in finding the force and taking his first step in becoming a Jedi"
+  climax: "Build to climax was very well done as the movie treats the actual build as the climax (so we are building to this build very nicely throughout the movie); Climax was kinda thrown at us as in the grand scheme of things we did not build to this (we built up to the build as previously stated) but it was very well executed and really shows off the technical marvels that the original film was very groundbreaking for; moreover helps provide some insight into Luke\'s quest in finding the force and taking his first step in becoming a Jedi"
   tone: "Tone was that typical to a space opera or science fiction epic but does have some unique feel to it that makes it very Star Wars"
   final_notes: "A ground-breaking movie not only in Cinema-history but actual history as well as it ushered in a new way to view and create stories and was an inspiration for the rise in the Science-Fiction genre in the 80s and 90s"
   overall: "Overall, an important movie to watch in what created one of the most iconic franchises in the world and helped jump-start a story that is beloved by many through its technical achieves and story-writing, even though the direction is a bit lacking"
@@ -98,3 +98,5 @@ review {
 release_year: 1977
 review_date: "06/12/2022"
 redux: false
+id: 263
+imdb_id: "tt0076759"

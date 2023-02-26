@@ -9,7 +9,7 @@ def access_api():
     return gspread.authorize(creds)
 
 
-def post_to_sheets(title, rating, review, review_date):
+def post_to_sheets(title, rating, review, release_year, review_date, movie_id, imdb_id):
 
     # Accessing API
     client = access_api()
@@ -24,11 +24,12 @@ def post_to_sheets(title, rating, review, review_date):
     # Check to see if review already exists, if it does not create a new entry, else replace it
     cell = sheet.find(title)
     if cell is None:
-        record = [title, rating, review, review_date, rows + 1]
+        record = [title, rating, review, release_year, review_date, movie_id, imdb_id]
         sheet.insert_row(record, rows + 2)
     else:
         sheet.update_cell(cell.row, 2, rating)
         sheet.update_cell(cell.row, 3, review)
+        sheet.update_cell(cell.row, 5, review_date)
 
 def reviews_sorted():
     

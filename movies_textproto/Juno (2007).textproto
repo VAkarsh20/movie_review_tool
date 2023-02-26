@@ -30,7 +30,7 @@ review {
     }
     actor {
       name: "J. K. Simmons"
-      comments: " Pretty Good from J. K. Simmons"
+      comments: "Pretty Good from J. K. Simmons"
     }
     cast: "Decent from the rest of the cast"
     comments: "Pretty Good Acting"
@@ -67,3 +67,5 @@ review {
 release_year: 2007
 review_date: "12/01/2021"
 redux: false
+id: 232
+imdb_id: "tt0467406"

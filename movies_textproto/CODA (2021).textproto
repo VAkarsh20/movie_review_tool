@@ -14,7 +14,7 @@ review {
     }
     actor {
       name: "Troy Kotsur"
-      comments: "Great to Incredible from Troy Kotsur (Stole the show with his comedic, humorous moments and was the real emotional rock for the family as his actions play a vital role in Jones's character finding herself)"
+      comments: "Great to Incredible from Troy Kotsur (Stole the show with his comedic, humorous moments and was the real emotional rock for the family as his actions play a vital role in Jones\'s character finding herself)"
     }
     actor {
       name: "Marlee Matlin"
@@ -54,10 +54,6 @@ review {
     }
     comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
   plot_structure: "Plot Structure good (kinda just follows the generic bilsdungroman plot structure so there really are not issues)"
   pacing: "Pacing is good (would not really add or cut any scenes as the movie uses its runtime effectively)"
   climax: "Build to the climax is evident and present (kinda predictable though); climax is a great performance and a culmination of all the hopes and dreams of the characters (though it was kinda predictable what would happen); resolution is touching as it shows how much the family cares for Ruby and how much she cares for them"
@@ -67,3 +63,5 @@ review {
 release_year: 2021
 review_date: "01/01/2021"
 redux: false
+id: 238
+imdb_id: "tt10366460"

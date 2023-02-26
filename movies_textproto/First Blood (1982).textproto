@@ -10,7 +10,7 @@ review {
   acting {
     actor {
       name: "Sylvester Stallone"
-      comments: "Great from Sylvester Stallone (though I'm biased)"
+      comments: "Great from Sylvester Stallone (though I\'m biased)"
     }
     actor {
       name: "Richard Crenna"
@@ -52,3 +52,5 @@ review {
 release_year: 1982
 review_date: "01/14/2021"
 redux: false
+id: 179
+imdb_id: "tt0083944"
