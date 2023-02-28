@@ -1,0 +1,80 @@
+title: "50/50"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Jonathan Levine"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Joseph Gordon-Levitt"
+      comments: " from Joseph Gordon-Levitt ()"
+    }
+    actor {
+      name: "Seth Rogen"
+      comments: " from Seth Rogen ()"
+    }
+    actor {
+      name: "Anna Kendrick"
+      comments: " from Anna Kendrick ()"
+    }
+    actor {
+      name: "Bryce Dallas Howard"
+      comments: " from Bryce Dallas Howard ()"
+    }
+    actor {
+      name: "Anjelica Huston"
+      comments: " from Anjelica Huston ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Will Reiser"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Will Reiser"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Michael Giacchino"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Terry Stacey"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Zene Baker"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone"
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2011
+review_date: "02/26/2023"
+redux: false
+id: 320
+imdb_id: "tt1306980"
