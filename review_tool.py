@@ -10,6 +10,8 @@ from datetime import datetime
 from letterboxd import LetterboxdBot
 import os
 import wikipedia
+import pandas as pd
+import yaml
 
 def get_wiki_info():
 
@@ -28,6 +30,7 @@ def get_wiki_info():
             return title, imdb_id, infobox
         except:
             print("Film not found. Please try again.")
+            break
     return None, None, None
 
 def get_imdb_id(film):
@@ -268,21 +271,22 @@ def create_proto():
     review_date = find_review_date()
 
     # creating the review object from the fields already initialized
-    return movie_pb2.Movie(title=title, rating=1.0, review=review, release_year=release_year, review_date=review_date, redux=False, id=-1, imdb_id=imdb_id)
+    return movie_pb2.Movie(title=title, rating=1.0, review=review, release_year=release_year, review_date=review_date, redux=False, id=len(os.listdir('movies_textproto/')), imdb_id=imdb_id)
     
 
 def create_proto_free():
     title, imdb_id, infobox = get_wiki_info()
     release_year = find_release_year(infobox)
     review_date = find_review_date()
-    return movie_pb2.MovieFree(title=title, rating=1.0, review="", release_year=release_year, review_date=review_date, redux=False, id=-1, imdb_id=imdb_id)
+    return movie_pb2.MovieFree(title=title, rating=1.0, review="", release_year=release_year, review_date=review_date, redux=False, id=len(os.listdir('movies_textproto/')), imdb_id=imdb_id)
 
 
 def write_proto(proto):
 
-    filename = ("movies_textproto/" + proto.title + " ({})".format(proto.release_year) + ".textproto").replace(":","")
+    filename = (proto.title + " ({})".format(proto.release_year) + ".textproto").replace(":","").replace("/", " ")
+    path = ("movies_textproto/" + filename)
     if not os.path.exists(filename):
-        with open(filename, "w") as fd:
+        with open(path, "w") as fd:
             text_proto = text_format.MessageToString(proto)
             fd.write(text_proto)
     else:
@@ -414,6 +418,76 @@ def print_review(proto, filename):
 
     return review
 
+def rating_to_stars(rating):
+
+    rating = int (rating * 10)
+
+    # Mapping rating to its respective star
+    if rating in range(95, 100):
+        return 5
+    elif rating in range(90, 95):
+        return 4.5
+    elif rating in range(80, 90):
+        return 4
+    elif rating in range(75, 80):
+        return 3.5
+    elif rating in range(70, 75):
+        return 3
+    elif rating in range(60, 70):
+        return 2.5
+    elif rating in range(50, 60):
+        return 2
+    elif rating in range(40, 50):
+        return 1.5
+    elif rating in range(30, 40):
+        return 1.0
+    elif rating in range(20, 30):
+        return 0.5
+    else:
+        return 0
+
+def rating_to_tag(rating):
+
+    rating = int (rating * 10)
+
+    # Mapping rating to its respective tag
+    if rating in range(97, 100):
+        return "Brilliant"
+    elif rating in range(95, 97):
+        return "Incredible"
+    elif rating in range(90, 95):
+        return "Great"
+    elif rating in range(85, 90):
+        return "Very Good"
+    elif rating in range(80, 85):
+        return "Good"
+    elif rating in range(75, 80):
+        return "Pretty Good"
+    elif rating in range(70, 75):
+        return "Decent"
+    elif rating in range(60, 70):
+        return "Pretty Bad"
+    elif rating in range(40, 60):
+        return "Bad"
+    elif rating in range(30, 40):
+        return "Very Bad"
+    else:
+        return "Terrible"
+
+def change_date_format(date):
+    month, day, year = date.split("/")
+    return "{}-{}-{}".format(year, month, day)
+
+def create_letterboxd_csv(filename):
+    
+    df = pd.DataFrame(columns=["imdbID", "Title", "Year", "Rating","WatchedDate","Tags","Review"])
+
+    proto = read_proto(filename)
+    record = [proto.imdb_id, proto.title, proto.release_year, rating_to_stars(proto.rating), change_date_format(proto.review_date), rating_to_tag(proto.rating), print_short_review(proto, filename)]
+    df.loc[1] = record
+
+    df.to_csv("letterboxd_upload.csv", index=False)
+
 if __name__=="__main__":
     
     argc = len(sys.argv)
@@ -429,22 +503,17 @@ if __name__=="__main__":
     elif sys.argv[1] == "reviews_sorted":
         print(reviews_sorted())   
     
-    elif sys.argv[1] == "post_review":
+    elif sys.argv[1] == "post_to_sheets":
 
         filename = input("What is the name of the movie?\n")
-        proto = read_proto(filename)
-        review = print_review(proto, filename)
-        # post_to_sheets(proto.title, proto.rating, review, proto.review_date)
+        post_to_sheets(filename)
     elif sys.argv[1] == "post_to_letterboxd":
         
         filename = input("What is the name of the movie?\n")
-        username = input("What is your username?\n")
-        password = input("What is your password?\n")
-        
-        proto = read_proto(filename)
-        letterboxd_bot = LetterboxdBot()
-        letterboxd_bot.login(username, password)
-        letterboxd_bot.log_film(proto)
+        post_to_letterboxd(filename)
+    elif sys.argv[1] == "post_to_all":
+        filename = input("What is the name of the movie?\n")
+        post_to_letterboxd(filename)
 
     else:
         print("Invalid input. Please try again.")
