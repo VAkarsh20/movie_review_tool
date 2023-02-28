@@ -5,13 +5,13 @@ from bs4 import BeautifulSoup
 import requests
 import sys
 from google.protobuf import text_format
-from sheets import post_to_sheets, reviews_sorted
+from sheets import initialize_to_sheets, post_to_sheets, reviews_sorted
 from datetime import datetime
-from letterboxd import LetterboxdBot
+from letterboxd import post_to_letterboxd
 import os
 import wikipedia
 import pandas as pd
-import yaml
+from csv import writer
 
 def get_wiki_info():
 
@@ -238,7 +238,7 @@ def create_proto():
     plot_structure = "Plot Structure "
     pacing = "Pacing "
     climax = "Climax "
-    tone = "Tone"
+    tone = "Tone "
     final_notes = ""
     overall = "Overall, "
 
@@ -474,19 +474,14 @@ def rating_to_tag(rating):
     else:
         return "Terrible"
 
-def change_date_format(date):
-    month, day, year = date.split("/")
-    return "{}-{}-{}".format(year, month, day)
+def reviews_sorted():
 
-def create_letterboxd_csv(filename):
-    
-    df = pd.DataFrame(columns=["imdbID", "Title", "Year", "Rating","WatchedDate","Tags","Review"])
+    # Getting all the Titles and Ratings
+    df = pd.read_csv("movies.csv")[["Title", "Rating"]]
 
-    proto = read_proto(filename)
-    record = [proto.imdb_id, proto.title, proto.release_year, rating_to_stars(proto.rating), change_date_format(proto.review_date), rating_to_tag(proto.rating), print_short_review(proto, filename)]
-    df.loc[1] = record
-
-    df.to_csv("letterboxd_upload.csv", index=False)
+    # Sortings in descending order and returning as a string
+    df = df.sort_values(by=['Rating'], ascending=False)
+    return df.to_string(index=False)
 
 if __name__=="__main__":
     
@@ -494,10 +489,12 @@ if __name__=="__main__":
 
     if argc == 1 or sys.argv[1] == "create_proto":
         movie = create_proto()
+        initialize_to_sheets(movie)
         write_proto(movie)
 
     elif sys.argv[1] == "create_proto_free":
         movie = create_proto_free()
+        initialize_to_sheets(movie)
         write_proto(movie)
 
     elif sys.argv[1] == "reviews_sorted":
@@ -506,14 +503,30 @@ if __name__=="__main__":
     elif sys.argv[1] == "post_to_sheets":
 
         filename = input("What is the name of the movie?\n")
-        post_to_sheets(filename)
+
+        # Get details for post
+        proto = read_proto(filename)
+        review = print_review(proto, filename)
+        
+        post_to_sheets(proto, review)
     elif sys.argv[1] == "post_to_letterboxd":
         
         filename = input("What is the name of the movie?\n")
-        post_to_letterboxd(filename)
+
+        # Get details for post
+        proto = read_proto(filename)
+        short_review = print_short_review(proto, filename)
+
+        post_to_letterboxd(proto, short_review)
     elif sys.argv[1] == "post_to_all":
         filename = input("What is the name of the movie?\n")
-        post_to_letterboxd(filename)
 
+        # Get details for post
+        proto = read_proto(filename)
+        review = print_review(proto, filename)
+        short_review = print_short_review(proto, filename)
+
+        post_to_sheets(proto, review)
+        post_to_letterboxd(proto, short_review)
     else:
         print("Invalid input. Please try again.")

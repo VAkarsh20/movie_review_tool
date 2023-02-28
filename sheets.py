@@ -1,7 +1,9 @@
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import pandas as pd
-from review_tool import read_proto, print_review
+from csv import writer
+
+# sudo hwclock -s
 
 def access_api():
     
@@ -9,12 +11,7 @@ def access_api():
     creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json", scope)
     return gspread.authorize(creds)
 
-
-def post_to_sheets(filename):
-
-    # Get details for record
-    proto = read_proto(filename)
-    review = print_review(proto, filename)
+def initialize_to_sheets(proto):
 
     # Accessing API
     client = access_api()
@@ -27,26 +24,41 @@ def post_to_sheets(filename):
     rows = len(data)
 
     # Check to see if review already exists, if it does not create a new entry, else replace it
-    cell = sheet.find(title)
+    cell = sheet.find(proto.imdb_id)
     if cell is None:
-        record = [proto.title, proto.rating, review, proto.release_year, proto.review_date, proto.movie_id, proto.imdb_id]
+        record = [proto.title, "", "", proto.release_year, "", proto.id, proto.imdb_id]
         sheet.insert_row(record, rows + 2)
     else:
-        sheet.update_cell(cell.row, 2, rating)
-        sheet.update_cell(cell.row, 3, review)
-        sheet.update_cell(cell.row, 5, review_date)
+        print("Review is already initialized in row {}".format(cell.row))
 
-def reviews_sorted():
-    
+def post_to_csv(proto, review):
+
+    # If not redux															
+    record = [proto.title, proto.rating, review, proto.release_year, proto.review_date, proto.id, proto.imdb_id]
+    with open("movies.csv", "a") as fd:
+        writer(fd).writerow(record)
+        fd.close()
+
+def post_to_sheets(proto, review):
+
     # Accessing API
     client = access_api()
 
-    # Accesing Sheet
+    # Accessing Sheet
     sheet = client.open("Movies").sheet1
+    
+    # Finding number of rows
+    data = sheet.get_all_records()
+    rows = len(data)
 
-    # Getting all the Titles and Ratings
-    df = pd.DataFrame(sheet.get_all_records())[["Title", "Rating"]]
+    # Post review to local csv file
+    post_to_csv(proto, review)
 
-    # Sortings in descending order and returning as a string
-    df = df.sort_values(by=['Rating'], ascending=False)
-    return df.to_string(index=False)
+    # Check to see if review already exists, if it does not create a new entry, else replace it
+    cell = sheet.find(proto.imdb_id)
+    if cell is not None:
+        sheet.update_cell(cell.row, 2, proto.rating)
+        sheet.update_cell(cell.row, 3, review)
+        sheet.update_cell(cell.row, 5, proto.review_date)
+    else:
+        print("Cannot post review")
