@@ -445,16 +445,18 @@ if __name__=="__main__":
 
     argc = len(sys.argv)
 
-    df = create_df()
+    # df = create_df()
 
     # add_imdb_id(109, df)
     # if argc > 1:
         # filename = sys.argv[1]
         # parse_review(df, filename)
 
-    update_csv()
+    # update_csv()
 
     # df.to_csv("movies.csv", index=False)
     # create_protos_from_csv(df)
     # create_protos_free_from_csv(df)
+    proto = review_tool.read_proto("Pathaan (2023)")
+    sheets.initialize_to_sheets(proto)
 

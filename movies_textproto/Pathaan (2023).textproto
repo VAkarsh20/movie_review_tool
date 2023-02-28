@@ -1,0 +1,80 @@
+title: "Pathaan"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Siddharth Anand"
+    }
+    comments: "Decent Direction (Uses the )"
+  }
+  acting {
+    actor {
+      name: "Shah Rukh Khan"
+      comments: " from Shah Rukh Khan ()"
+    }
+    actor {
+      name: "Deepika Padukone"
+      comments: " from Deepika Padukone ()"
+    }
+    actor {
+      name: "John Abraham"
+      comments: " from John Abraham ()"
+    }
+    actor {
+      name: "Dimple Kapadia"
+      comments: " from Dimple Kapadia ()"
+    }
+    actor {
+      name: "Ashutosh Rana"
+      comments: " from Ashutosh Rana ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Abbas Tyrewala (dialogues)"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Abbas Tyrewala (dialogues)"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Score:Sanchit BalharaAnkit BalharaSongs: Vishal\342\200\223Shekhar"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Satchith Paulose"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Aarif Sheikh"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "02/27/2023"
+redux: false
+id: 321
+imdb_id: "tt12844910"
