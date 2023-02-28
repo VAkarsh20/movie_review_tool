@@ -1,6 +1,7 @@
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import pandas as pd
+from review_tool import read_proto, print_review
 
 def access_api():
     
@@ -9,14 +10,18 @@ def access_api():
     return gspread.authorize(creds)
 
 
-def post_to_sheets(title, rating, review, release_year, review_date, movie_id, imdb_id):
+def post_to_sheets(filename):
+
+    # Get details for record
+    proto = read_proto(filename)
+    review = print_review(proto, filename)
 
     # Accessing API
     client = access_api()
 
-    # Accesing Sheet
+    # Accessing Sheet
     sheet = client.open("Movies").sheet1
-
+    
     # Finding number of rows
     data = sheet.get_all_records()
     rows = len(data)
@@ -24,7 +29,7 @@ def post_to_sheets(title, rating, review, release_year, review_date, movie_id, i
     # Check to see if review already exists, if it does not create a new entry, else replace it
     cell = sheet.find(title)
     if cell is None:
-        record = [title, rating, review, release_year, review_date, movie_id, imdb_id]
+        record = [proto.title, proto.rating, review, proto.release_year, proto.review_date, proto.movie_id, proto.imdb_id]
         sheet.insert_row(record, rows + 2)
     else:
         sheet.update_cell(cell.row, 2, rating)
