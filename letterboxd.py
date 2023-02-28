@@ -4,6 +4,8 @@ from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import movie_pb2
+import pandas as pd
+import yaml
 
 # export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
 # LIBGL_ALWAYS_INDIRECT=1
@@ -79,7 +81,7 @@ def rating_to_stars(rating):
     else:
         return 0
 
-def rating_to_tag(self, rating):
+def rating_to_tag(rating):
 
     rating = int (rating * 10)
 
@@ -107,20 +109,31 @@ def rating_to_tag(self, rating):
     else:
         return "Terrible"
 
-def post_to_letterboxd(filename):
-    file = yaml.safe_load(open('login_details.yml'))
-    username = file['letterboxd']['username']
-    password = file['letterboxd']['password']
-    
-    proto = read_proto(filename)
+def change_date_format(date):
+    month, day, year = date.split("/")
+    return "{}-{}-{}".format(year, month, day)
 
-    create_letterboxd_csv(filename)
+def create_letterboxd_csv(proto, short_review):
+    
+    df = pd.DataFrame(columns=["imdbID", "Title", "Year", "Rating","WatchedDate","Tags","Review"])
+
+    record = [proto.imdb_id, proto.title, proto.release_year, rating_to_stars(proto.rating), change_date_format(proto.review_date), rating_to_tag(proto.rating), short_review]
+    df.loc[1] = record
+
+    df.to_csv("letterboxd_upload.csv", index=False)
+
+def post_to_letterboxd(proto, short_review):
+    yml = yaml.safe_load(open('login_details.yml'))
+    username = yml['letterboxd']['username']
+    password = yml['letterboxd']['password']
+
+    create_letterboxd_csv(proto, short_review)
 
     letterboxd_bot = LetterboxdBot()
     letterboxd_bot.login(username, password)
     letterboxd_bot.import_review()
 
-    if rating >= 8.5:
+    if proto.rating >= 8.5:
         letterboxd_bot.liked_film(proto.title)
     os.remove("letterboxd_upload.csv")
 
