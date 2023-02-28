@@ -1,2 +1,5 @@
 # API Credential
 credentials.json
+
+# Letterboxd login information
+login_details.yml
