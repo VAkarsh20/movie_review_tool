@@ -1,77 +1,83 @@
 title: "Pathaan"
-rating: 1.0
+rating: 6.8
 review {
   direction {
     director {
       name: "Siddharth Anand"
     }
-    comments: "Decent Direction (Uses the )"
+    comments: "Decent Direction (Uses the generic Bollywood Action trope to guide his execution, but does do a decent job in getting the most out of each scene and his actors; was not too much of a fan of the storytelling but that was a stylistic choice)"
   }
   acting {
     actor {
       name: "Shah Rukh Khan"
-      comments: " from Shah Rukh Khan ()"
+      comments: "Pretty Good from Shah Rukh Khan (Is not able to show too much range that made him a household name, but does play the action hero trope pretty well)"
     }
     actor {
       name: "Deepika Padukone"
-      comments: " from Deepika Padukone ()"
+      comments: "Pretty Good from Deepika Padukone (Plays the typical role she is given as she pulls from experience to play sexy, lead heroine)"
     }
     actor {
       name: "John Abraham"
-      comments: " from John Abraham ()"
+      comments: "Decent from John Abraham (Some moments he was convincing as the villain but there were some questionable parts that felt a bit like overacting; holds his own pretty well throughout the movie though)"
     }
     actor {
       name: "Dimple Kapadia"
-      comments: " from Dimple Kapadia ()"
+      comments: "Decent from Dimple Kapadia"
     }
     actor {
       name: "Ashutosh Rana"
-      comments: " from Ashutosh Rana ()"
+      comments: "Decent from Ashutosh Rana"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Pretty Bad to Decent from the rest of the cast"
+    comments: "Decent Acting"
   }
   story {
     writer {
-      name: "Abbas Tyrewala (dialogues)"
+      name: "Siddharth Anand"
     }
-    comments: "Story ()"
+    comments: "Pretty Bad to Decent Story (The Story elements follows the typical Bollywood action movie formula; I was not really too much of a fan of the story construction as it really put more emphasis on Pathaan's backstory rather than what is currently happening; pretty predictable overall)"
   }
   screenplay {
     writer {
-      name: "Abbas Tyrewala (dialogues)"
+      name: "Shridhar Raghavan"
     }
-    comments: "Screenplay ()"
+    writer {
+      name: "Abbas Tyrewala"
+    }
+    comments: "Decent Screenplay (Flowed pretty well and had some good jokes, very shallow in its symbolism, foreshadowing is a bit overt which leads to the movie being very predictable (that and the formula it follows))"
   }
   score {
     composer {
-      name: "Score:Sanchit BalharaAnkit BalharaSongs: Vishal\342\200\223Shekhar"
+      name: "Sanchit Balhara"
     }
-    comments: "Score ()"
+    composer {
+      name: "Ankit Balhara"
+    }
+    composer {
+      name: "Vishal\342\200\223Shekhar"
+    }
+    comments: "Decent to Pretty Good Score (Spread throughout the movie and followed scores from the same genre); Pretty Good to Good Soundtrack (even though there are only two songs, both of them are good sequences and highlights for the movie)"
   }
   cinematography {
     cinematographer {
       name: "Satchith Paulose"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Decent to Pretty Good Sound (Some issues but was pretty good for the most part)"
   editing {
     editor {
       name: "Aarif Sheikh"
     }
-    comments: "Editing ()"
+    comments: "Pretty Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Bad Visual Effects (Looked incredibly fake and really tacky (made the action sequences less convincing))"
+  makeup: "Pretty Makeup (Helped with the blood)"
+  plot_structure: "Plot Structure was weirdly structured as it went forward then added an hour of backstory then went back to telling the story from the present after the intermission; while it was a stylistic choice to tell the story this way I was not too much of a fan of it cause it made the movie drag on for longer than it needed to be; besides this all the plot elements were pretty easy to spot out cause of the formula followed"
+  pacing: "Pacing was a bit on the slower side cause of the long runtime and unnecessary story elements (20-30 minutes of rising action (before the intermission) could have been cut)"
+  climax: "Climax was well executed as it was a standard Indian action movie"
+  tone: "Tone was way too much like other Indian action movies as it follows the formula really closely"
+  overall: "Overall, a pretty decent watch that has a lot of fun elements and lighter moments (like some of the jokes and the dance sequences), but follows the generic Bollywood Action movie formula so much that the movie is very predictable and bland (with the non-linear storytelling not helping as well)"
 }
 release_year: 2023
 review_date: "02/27/2023"
