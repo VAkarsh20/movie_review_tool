@@ -441,6 +441,86 @@ def update_csv():
 
     df.to_csv("letterboxd_upload.csv", index=False)
 
+def parse_score(infobox):
+    
+    # See if movie has a score
+    if "Music by" not in infobox:
+        return None
+
+    # Create score object
+    score = movie_pb2.Movie.Review.Score()
+
+    # Parse all of the possible composers and append them to the object
+    for name in infobox["Music by"]:
+        composer = movie_pb2.Movie.Review.Person()
+        composer.name = name
+        score.composer.append(composer)
+
+    # Add comments for the score
+    score.comments = "Score ()"
+
+    return score
+
+def parse_cinematography(infobox):
+
+    # See if movie has cinematography
+    if "Cinematography" not in infobox:
+        return None
+    
+    # Create cinematography object
+    cinematography = movie_pb2.Movie.Review.Cinematography()
+
+    # Parse all of the possible cinematographers and append them to the object
+    for name in infobox["Cinematography"]:
+        cinematographer = movie_pb2.Movie.Review.Person()
+        cinematographer.name = name
+        cinematography.cinematographer.append(cinematographer)
+
+    # Add comments for the cinematography
+    cinematography.comments = "Cinematography ()"
+
+    return cinematography
+
+
+def parse_editing(infobox):
+    
+    # Create score object
+    editing = movie_pb2.Movie.Review.Editing()
+
+    # Parse all of the possible composers and append them to the object
+    for name in infobox["Edited by"]:
+        editor = movie_pb2.Movie.Review.Person()
+        editor.name = name
+        editing.editor.append(editor)
+
+    # Add comments for the score
+    editing.comments = "Editing ()"
+
+    return editing
+
+
+
+def parse_direction(infobox):
+    
+    # Create direction object
+    direction = movie_pb2.Movie.Review.Direction()
+
+    # Parse all of the possible directors and append them to the object
+    for name in infobox["Directed by"]:
+        director = movie_pb2.Movie.Review.Person()
+        director.name = name
+        direction.director.append(director)
+
+    # Add comments for the direction
+    direction.comments = "Direction ()"
+
+    return direction
+
+
+def parse():
+    review_tool.read_proto()
+
+
 if __name__=="__main__":
 
     argc = len(sys.argv)
@@ -457,6 +537,6 @@ if __name__=="__main__":
     # df.to_csv("movies.csv", index=False)
     # create_protos_from_csv(df)
     # create_protos_free_from_csv(df)
-    proto = review_tool.read_proto("Pathaan (2023)")
-    sheets.initialize_to_sheets(proto)
+    # proto = review_tool.read_proto("Pathaan (2023)")
+    # sheets.initialize_to_sheets(proto)
 

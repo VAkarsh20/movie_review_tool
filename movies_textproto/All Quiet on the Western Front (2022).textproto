@@ -1,0 +1,84 @@
+title: "All Quiet on the Western Front"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Edward Berger"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Felix Kammerer"
+      comments: " from Felix Kammerer ()"
+    }
+    actor {
+      name: "Albrecht Schuch"
+      comments: " from Albrecht Schuch ()"
+    }
+    actor {
+      name: "Daniel Br\303\274hl"
+      comments: " from Daniel Br\303\274hl ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Edward Berger"
+    }
+    writer {
+      name: "Ian Stokell"
+    }
+    writer {
+      name: "Lesley Paterson"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Edward Berger"
+    }
+    writer {
+      name: "Ian Stokell"
+    }
+    writer {
+      name: "Lesley Paterson"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Volker Bertelmann"
+    }
+    comments: "Score () (Does not match the scene and is mixed in too loud)"
+  }
+  cinematography {
+    cinematographer {
+      name: "James Friend"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Sven Budelmann"
+    }
+    comments: "Editing () (Saw some editing mistakes)"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2022
+review_date: "03/02/2023"
+redux: false
+id: 322
+imdb_id: "tt1016150"

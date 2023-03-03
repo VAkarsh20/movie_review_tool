@@ -6,6 +6,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 import movie_pb2
 import pandas as pd
 import yaml
+import os
 
 # export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
 # LIBGL_ALWAYS_INDIRECT=1

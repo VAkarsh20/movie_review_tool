@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import requests
 import sys
 from google.protobuf import text_format
-from sheets import initialize_to_sheets, post_to_sheets, reviews_sorted
+from sheets import initialize_to_sheets, post_to_sheets
 from datetime import datetime
 from letterboxd import post_to_letterboxd
 import os
@@ -69,24 +69,47 @@ def parse_wiki(url):
 
     return infobox
 
-def parse_direction(infobox):
+
+def get_field(infobox, key):
     
-    # Create direction object
-    direction = movie_pb2.Movie.Review.Direction()
+    # Check to see if the key is valid
+    if key not in infobox:
+        print(key)
+        return None
 
-    # Parse all of the possible directors and append them to the object
-    for name in infobox["Directed by"]:
-        director = movie_pb2.Movie.Review.Person()
-        director.name = name
-        direction.director.append(director)
+    # Get all the people for the field
+    person_list = []
+    for name in infobox[key]:
+        person = movie_pb2.Movie.Review.Person()
+        person.name = name
+        person_list.append(person)
+    
+    # Initialize the field
+    if key == "Directed by":
+        direction = movie_pb2.Movie.Review.Direction()
+        direction.director.extend(person_list)
+        direction.comments = "Direction ()"
+        return direction
+    elif key == "Music by":
+        score = movie_pb2.Movie.Review.Score()
+        score.composer.extend(person_list)
+        score.comments = "Score ()"
+        return score
+    elif key == "Cinematography":
+        cinematography = movie_pb2.Movie.Review.Cinematography()
+        cinematography.cinematographer.extend(person_list)
+        cinematography.comments = "Cinematography ()"
+        return cinematography
+    elif key == "Edited by":
+        editing = movie_pb2.Movie.Review.Editing()
+        editing.editor.extend(person_list)
+        editing.comments = "Editing ()"
+        return editing
 
-    # Add comments for the direction
-    direction.comments = "Direction ()"
-
-    return direction
+    return None  
 
 
-def parse_acting(infobox):
+def get_acting(infobox):
     
     # Create acting object
     acting = movie_pb2.Movie.Review.Acting()
@@ -107,7 +130,7 @@ def parse_acting(infobox):
     return acting
 
 
-def parse_writing(infobox):
+def get_writing(infobox):
     
     # Create writing object
     story = movie_pb2.Movie.Review.Story()
@@ -148,63 +171,6 @@ def parse_writing(infobox):
     return story, screenplay
 
 
-def parse_score(infobox):
-    
-    # See if movie has a score
-    if "Music by" not in infobox:
-        return None
-
-    # Create score object
-    score = movie_pb2.Movie.Review.Score()
-
-    # Parse all of the possible composers and append them to the object
-    for name in infobox["Music by"]:
-        composer = movie_pb2.Movie.Review.Person()
-        composer.name = name
-        score.composer.append(composer)
-
-    # Add comments for the score
-    score.comments = "Score ()"
-
-    return score
-
-def parse_cinematography(infobox):
-
-    # See if movie has cinematography
-    if "Cinematography" not in infobox:
-        return None
-    
-    # Create cinematography object
-    cinematography = movie_pb2.Movie.Review.Cinematography()
-
-    # Parse all of the possible cinematographers and append them to the object
-    for name in infobox["Cinematography"]:
-        cinematographer = movie_pb2.Movie.Review.Person()
-        cinematographer.name = name
-        cinematography.cinematographer.append(cinematographer)
-
-    # Add comments for the cinematography
-    cinematography.comments = "Cinematography ()"
-
-    return cinematography
-
-
-def parse_editing(infobox):
-    
-    # Create score object
-    editing = movie_pb2.Movie.Review.Editing()
-
-    # Parse all of the possible composers and append them to the object
-    for name in infobox["Edited by"]:
-        editor = movie_pb2.Movie.Review.Person()
-        editor.name = name
-        editing.editor.append(editor)
-
-    # Add comments for the score
-    editing.comments = "Editing ()"
-
-    return editing
-
 def find_release_year(infobox):
     
     # Find the release year for the movie
@@ -220,65 +186,39 @@ def find_review_date():
 
 def create_proto():
     
-    # Find title
+    # Find some of the fields and infobox
     title, imdb_id, infobox = get_wiki_info()
-
-    # Initializing all the fields
-    direction = parse_direction(infobox)
-    acting = parse_acting(infobox)
-    story, screenplay = parse_writing(infobox)
-    score = parse_score(infobox)
-    cinematography = parse_cinematography(infobox)
-    sound = "Sound ()"
-    editing = parse_editing(infobox)
-    visual_effects = "Visual Effects ()"
-    production_design = "Production Design ()"
-    makeup = "Makeup ()"
-    costumes = "Costumes ()"
-    plot_structure = "Plot Structure "
-    pacing = "Pacing "
-    climax = "Climax "
-    tone = "Tone "
-    final_notes = ""
-    overall = "Overall, "
+    story, screenplay = get_writing(infobox)
 
     # Creating the review object
     review = movie_pb2.Movie.Review(
-        direction=direction, 
-        acting=acting,
+        direction = get_field(infobox, "Directed by"), # parse_direction(infobox), 
+        acting = get_acting(infobox),
         story=story,
         screenplay=screenplay,
-        score=score,
-        cinematography=cinematography,
-        sound=sound,
-        editing=editing,
-        visual_effects=visual_effects,
-        production_design=production_design,
-        makeup=makeup,
-        costumes=costumes,
-        plot_structure=plot_structure,
-        pacing=pacing,
-        climax=climax,
-        tone=tone,
-        final_notes=final_notes,
-        overall=overall
+        score = get_field(infobox, "Music by"), # parse_score(infobox),
+        cinematography = get_field(infobox, "Cinematography"), # parse_cinematography(infobox),
+        sound = "Sound ()",
+        editing = get_field(infobox, "Edited by"), # parse_editing(infobox),
+        visual_effects = "Visual Effects ()",
+        production_design = "Production Design ()",
+        makeup = "Makeup ()",
+        costumes = "Costumes ()",
+        plot_structure= "Plot Structure ",
+        pacing = "Pacing ",
+        climax = "Climax ",
+        tone = "Tone ",
+        final_notes = "",
+        overall = "Overall, "
     )
 
-    # Get release year
-    release_year = find_release_year(infobox)
-
-    # Get review date
-    review_date = find_review_date()
-
     # creating the review object from the fields already initialized
-    return movie_pb2.Movie(title=title, rating=1.0, review=review, release_year=release_year, review_date=review_date, redux=False, id=len(os.listdir('movies_textproto/')), imdb_id=imdb_id)
+    return movie_pb2.Movie(title=title, rating=1.0, review=review, release_year = find_release_year(infobox), review_date = find_review_date(), redux=False, id=len(os.listdir('movies_textproto/')), imdb_id=imdb_id)
     
 
 def create_proto_free():
     title, imdb_id, infobox = get_wiki_info()
-    release_year = find_release_year(infobox)
-    review_date = find_review_date()
-    return movie_pb2.MovieFree(title=title, rating=1.0, review="", release_year=release_year, review_date=review_date, redux=False, id=len(os.listdir('movies_textproto/')), imdb_id=imdb_id)
+    return movie_pb2.MovieFree(title=title, rating=1.0, review="", release_year = find_release_year(infobox), review_date = find_review_date(), redux=False, id=len(os.listdir('movies_textproto/')), imdb_id=imdb_id)
 
 
 def write_proto(proto):
@@ -417,62 +357,6 @@ def print_review(proto, filename):
     review += proto.review.overall + "."
 
     return review
-
-def rating_to_stars(rating):
-
-    rating = int (rating * 10)
-
-    # Mapping rating to its respective star
-    if rating in range(95, 100):
-        return 5
-    elif rating in range(90, 95):
-        return 4.5
-    elif rating in range(80, 90):
-        return 4
-    elif rating in range(75, 80):
-        return 3.5
-    elif rating in range(70, 75):
-        return 3
-    elif rating in range(60, 70):
-        return 2.5
-    elif rating in range(50, 60):
-        return 2
-    elif rating in range(40, 50):
-        return 1.5
-    elif rating in range(30, 40):
-        return 1.0
-    elif rating in range(20, 30):
-        return 0.5
-    else:
-        return 0
-
-def rating_to_tag(rating):
-
-    rating = int (rating * 10)
-
-    # Mapping rating to its respective tag
-    if rating in range(97, 100):
-        return "Brilliant"
-    elif rating in range(95, 97):
-        return "Incredible"
-    elif rating in range(90, 95):
-        return "Great"
-    elif rating in range(85, 90):
-        return "Very Good"
-    elif rating in range(80, 85):
-        return "Good"
-    elif rating in range(75, 80):
-        return "Pretty Good"
-    elif rating in range(70, 75):
-        return "Decent"
-    elif rating in range(60, 70):
-        return "Pretty Bad"
-    elif rating in range(40, 60):
-        return "Bad"
-    elif rating in range(30, 40):
-        return "Very Bad"
-    else:
-        return "Terrible"
 
 def reviews_sorted():
 

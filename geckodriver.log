@@ -36315,3 +36315,192 @@ console.error: Region.sys.mjs: "Error fetching region" (new SyntaxError("JSON.pa
 console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
 console.error: Region.sys.mjs: "Error fetching region" (new SyntaxError("JSON.parse: unexpected end of data at line 1 column 1 of the JSON data", ""))
 console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+1677807639618	geckodriver	INFO	Listening on 127.0.0.1:45951
+1677807640148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile43YZ1Q"
+Error: no DISPLAY environment variable specified
+1677807732799	geckodriver	INFO	Listening on 127.0.0.1:40685
+1677807733306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMztKYY"
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+1677807735380	Marionette	INFO	Marionette enabled
+1677807735393	Marionette	INFO	Listening on port 37349
+Read port: 37349
+WebDriver BiDi listening on ws://127.0.0.1:44395
+1677807735911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMztKYY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44395/devtools/browser/095ad8ef-74b1-4074-b613-efe7c69eecd4
+1677807745949	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.14/videoCard.01fa78e7064a386f48fc.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.14/videoCard.01fa78e7064a386f48fc.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 116: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 116: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1677807751444	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.14/videoCard.01fa78e7064a386f48fc.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.14/videoCard.01fa78e7064a386f48fc.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1677807757190	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 2098 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 3353 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 1990, MediaDecoderStateMachine #1] WARNING: 7f4e688943a0 OpenCubeb() failed to init cubeb: file /build/firefox-mFDrA5/firefox-109.0+build2/dom/media/AudioStream.cpp:281
+[Child 1990, MediaDecoderStateMachine #1] WARNING: Decoder=7f4e68958600 [OnMediaSinkAudioError]: file /build/firefox-mFDrA5/firefox-109.0+build2/dom/media/MediaDecoderStateMachine.cpp:4504
+[Child 1990, MediaDecoderStateMachine #1] WARNING: Decoder=7f4e68958600 Decode error: NS_ERROR_DOM_MEDIA_MEDIASINK_ERR (0x806e000b) - OnMediaSinkAudioError: file /build/firefox-mFDrA5/firefox-109.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 2864 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1677807807016	geckodriver	INFO	Listening on 127.0.0.1:60413
+1677807807524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKNhV2J"
+1677807808828	Marionette	INFO	Marionette enabled
+1677807808840	Marionette	INFO	Listening on port 37511
+Read port: 37511
+WebDriver BiDi listening on ws://127.0.0.1:54391
+1677807809212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKNhV2J/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54391/devtools/browser/f4ffa269-8ea5-45b2-803b-39349c2b114b
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1677807819421	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.14/videoCard.01fa78e7064a386f48fc.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.14/videoCard.01fa78e7064a386f48fc.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 116: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 116: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1677807824869	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.14/videoCard.01fa78e7064a386f48fc.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.14/videoCard.01fa78e7064a386f48fc.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1677807830522	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 2754 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1677807863212	Marionette	INFO	Stopped listening on port 37511
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
