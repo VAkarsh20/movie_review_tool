@@ -1,27 +1,27 @@
 title: "All Quiet on the Western Front"
-rating: 1.0
+rating: 8.3
 review {
   direction {
     director {
       name: "Edward Berger"
     }
-    comments: "Direction ()"
+    comments: "Good to Very Good Direction (Did a great job in the macro scenes as he was able to capture the horrors of war through well choreographed battle scenes, also is able to use storytelling and tone to help build scenes and show the message; direction took a hit in more of the interpersonal scenes/negotiation scenes as they are not on the same level as the more important scenes)"
   }
   acting {
     actor {
       name: "Felix Kammerer"
-      comments: " from Felix Kammerer ()"
+      comments: "Good from Felix Kammerer (Does a good job in holding his own as the transitions from the hopefully kid to someone shell-shocked by the fears of War helps with displaying the message)"
     }
     actor {
       name: "Albrecht Schuch"
-      comments: " from Albrecht Schuch ()"
+      comments: "Good from Albrecht Schuch (Plays the companion character very well and plays off of Kammerer very well)"
     }
     actor {
       name: "Daniel Br\303\274hl"
-      comments: " from Daniel Br\303\274hl ()"
+      comments: "Pretty Good from Daniel Br\303\274hl (Really is not given that much to work with but does hold his own well)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Pretty Good from the rest of the cast"
+    comments: "Pretty Good to Good Acting"
   }
   story {
     writer {
@@ -33,7 +33,7 @@ review {
     writer {
       name: "Lesley Paterson"
     }
-    comments: "Story ()"
+    comments: "Pretty Good Story (When the story stays true to the source material, the movie is very good as it shows the horrors of war and how the trauma effects the soldiers, but the armistice scenes were really pointless as they were not from the source material and really do not add that much to the message at all; also the interpersonal scenes were hit or miss as some really helped add to caring about the characters while some were just not that well executed; the falling action really is a bit too long and could have been cut to make the movie way more tighter as it does not add too much to the story)"
   }
   screenplay {
     writer {
@@ -45,37 +45,37 @@ review {
     writer {
       name: "Lesley Paterson"
     }
-    comments: "Screenplay ()"
+    comments: "Good to Very Good Screenplay (Dialogue overall flows pretty nicely with no major issues (hard to tell considering it was a translation); symbolism is prevalent as it helps aid with the the machinery of war as well as the trauma the people face; foreshadowing is pretty obvious but this does not hurt too much)"
   }
   score {
     composer {
       name: "Volker Bertelmann"
     }
-    comments: "Score () (Does not match the scene and is mixed in too loud)"
+    comments: "Bad Score (Really does not match the scenes it is in and is mixed in way too loud)"
   }
   cinematography {
     cinematographer {
       name: "James Friend"
     }
-    comments: "Cinematography ()"
+    comments: "Very Good to Great Cinematography (Helps with displaying the war)"
   }
-  sound: "Sound ()"
+  sound: "Good to Very Good Sound (The war scenes and gunshots really helped with displaying the war, the issues have to do with mixing the score in)"
   editing {
     editor {
       name: "Sven Budelmann"
     }
-    comments: "Editing () (Saw some editing mistakes)"
+    comments: "Pretty Good Editing (For the most part the movie has good editing but there were some noticeable editing mistakes)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Very Good Visual Effects"
+  production_design: "Good Production Design (Helped with creating the scene of WWI)"
+  makeup: "Good Makeup (Especially the gore)"
+  costumes: "Very Good Costumes"
+  plot_structure: "Plot Structure was a major issue for the movie as it has a main story that it does very well but a side story about the armistice was pointless to where it drew away from the main story and what the overall message of the movie was; the falling action after the announcement of the war ending really could have been cut in half as it really make the movie drag for the final 40 minutes"
+  pacing: "Pacing was a bit on the slower side as the movie is more of a slower burn (but about 20-30 minutes of the movie could have been cut for plot that does not need to be there)"
+  climax: "There were multiple climaxes (with all of them being carried out very well to show the fear of war; the actual climax (the final one) was very well shot and helps display the message for the movie"
+  tone: "Tone was conveyed very nicely as the historical time-period coupled with the fearful performances by the actor really helped provide a thrilling tone filled with anxietyS"
+  final_notes: "The movie stays pretty true to the source material but added additional scenes that were unnecessary"
+  overall: "Overall, a war movie that is very good when staying true to the story as it shows the horrors war has on the soldiers, but is really held back by scenes that were unnecessary (like the armistice and parts of the falling action) to where the movie drags on longer than it needs to be, thus taking away from the overall message."
 }
 release_year: 2022
 review_date: "03/02/2023"

@@ -36504,3 +36504,653 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 [GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.imdb.com."
+JavaScript warning: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/8536-7554bee223238861.js, line 1: Script terminated by timeout at:
+r@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/8536-7554bee223238861.js:1:3000
+$@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/8536-7554bee223238861.js:1:11173
+oo@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-735a6db3a2e8e4c5.js:1:78981
+Bo@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-735a6db3a2e8e4c5.js:1:88548
+Ki@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-735a6db3a2e8e4c5.js:1:132272
+zu@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-735a6db3a2e8e4c5.js:1:118524
+Nu@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-735a6db3a2e8e4c5.js:1:118452
+Pu@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-735a6db3a2e8e4c5.js:1:118313
+bu@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-735a6db3a2e8e4c5.js:1:115279
+52967/Yl/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-735a6db3a2e8e4c5.js:1:64773
+9670/t.unstable_runWithPriority@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-735a6db3a2e8e4c5.js:1:142200
+Ql@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-735a6db3a2e8e4c5.js:1:64550
+Yl@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-735a6db3a2e8e4c5.js:1:64720
+Kl@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-735a6db3a2e8e4c5.js:1:64653
+ku@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-735a6db3a2e8e4c5.js:1:115688
+os@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-735a6db3a2e8e4c5.js:1:130141
+52967/t.hydrate@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-735a6db3a2e8e4c5.js:1:137537
+36330/oe/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/main-e10dbeb41a067f4f.js:1:28925
+oe@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/main-e10dbeb41a067f4f.js:1:28959
+36330/ue/ue</<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/main-e10dbeb41a067f4f.js:1:29324
+45680/f/u/</<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/main-e10dbeb41a067f4f.js:1:11916
+45680/f/u/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/main-e10dbeb41a067f4f.js:1:12021
+r@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/main-e10dbeb41a067f4f.js:1:880
+u@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/main-e10dbeb41a067f4f.js:1:1086
+18282/t.Z/</<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/main-e10dbeb41a067f4f.js:1:1145
+18282/t.Z/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/main-e10dbeb41a067f4f.js:1:1025
+ue@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/main-e10dbeb41a067f4f.js:1:29484
+ie@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/main-e10dbeb41a067f4f.js:1:29111
+36330/ce/ce</<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/main-e10dbeb41a067f4f.js:1:31050
+45680/f/u/</<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/main-e10dbeb41a067f4f.js:1:11916
+45680/f/u/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/main-e10dbeb41a067f4f.js:1:12021
+r@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/main-e10dbeb41a067f4f.js:1:880
+u@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/main-e10dbeb41a067f4f.js:1:1086
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fap%2F3p_callback%3FidentityProvider%3DGOOGLE%26relyingParty%3DIMDbPool%26request%3Dsignin%26openid.assoc_handle%3Dimdb_google%26openid.mode%3Dcheckid_setup%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%26openid.return_to%3Dhttps%253A%252F%252Fwww.imdb.com%2Fap-signin-handler&state=86a47045-be44-496d-b816-48d8b38a067f.CLG_eLoQSlRUjI1w1tCWI80JHIO5xAvMcWHIfPs8LME%3D&client_id=118778695955-4inip14ellc053slc8e3aebndgcfo3p9.apps.googleusercontent.com&scope=email+profile line 2 > eval line 4765 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+Gdk-Message: 10:05:32.307: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server 172.20.80.1:0.0.
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1678155213330	geckodriver	INFO	Listening on 127.0.0.1:38783
+1678155213841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenjecZJ"
+1678155215193	Marionette	INFO	Marionette enabled
+1678155215202	Marionette	INFO	Listening on port 38317
+Read port: 38317
+WebDriver BiDi listening on ws://127.0.0.1:59907
+1678155215516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenjecZJ/search.json.mozlz4", (void 0)))
+[Parent 131, Main Thread] WARNING: Unable to get session bus: Could not connect: Connection refused: 'glib warning', file /build/firefox-mFDrA5/firefox-109.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:131): LIBDBUSMENU-GLIB-WARNING **: 20:13:37.073: Unable to get session bus: Could not connect: Connection refused
+DevTools listening on ws://127.0.0.1:59907/devtools/browser/2c34e558-e3f2-4703-b5b3-2d2e3242194a
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678155224331	Marionette	INFO	Stopped listening on port 38317
+1678155376238	geckodriver	INFO	Listening on 127.0.0.1:48017
+1678155376744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBuMp7C"
+1678155377591	Marionette	INFO	Marionette enabled
+1678155377597	Marionette	INFO	Listening on port 42561
+Read port: 42561
+WebDriver BiDi listening on ws://127.0.0.1:59935
+1678155377788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBuMp7C/search.json.mozlz4", (void 0)))
+[Parent 515, Main Thread] WARNING: Unable to get session bus: Could not connect: Connection refused: 'glib warning', file /build/firefox-mFDrA5/firefox-109.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:515): LIBDBUSMENU-GLIB-WARNING **: 20:16:19.338: Unable to get session bus: Could not connect: Connection refused
+DevTools listening on ws://127.0.0.1:59935/devtools/browser/9fa7fe9f-7c7a-4d26-90e3-5ab4de040a24
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.imdb.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678155533030	Marionette	INFO	Stopped listening on port 42561
+1678155537432	geckodriver	INFO	Listening on 127.0.0.1:37985
+1678155537938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewtsyIt"
+1678155538780	Marionette	INFO	Marionette enabled
+1678155538786	Marionette	INFO	Listening on port 35331
+Read port: 35331
+WebDriver BiDi listening on ws://127.0.0.1:44493
+1678155539095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewtsyIt/search.json.mozlz4", (void 0)))
+[Parent 928, Main Thread] WARNING: Unable to get session bus: Could not connect: Connection refused: 'glib warning', file /build/firefox-mFDrA5/firefox-109.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:928): LIBDBUSMENU-GLIB-WARNING **: 20:19:01.700: Unable to get session bus: Could not connect: Connection refused
+DevTools listening on ws://127.0.0.1:44493/devtools/browser/7dd1b239-5ffc-451c-9840-7d73fbc8ea7c
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678155548742	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+1678155555521	Marionette	INFO	Stopped listening on port 35331
+1678155558533	geckodriver	INFO	Listening on 127.0.0.1:59145
+1678155559040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepshfa3"
+1678155559884	Marionette	INFO	Marionette enabled
+1678155559889	Marionette	INFO	Listening on port 38693
+Read port: 38693
+WebDriver BiDi listening on ws://127.0.0.1:35265
+1678155560098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepshfa3/search.json.mozlz4", (void 0)))
+[Parent 1298, Main Thread] WARNING: Unable to get session bus: Could not connect: Connection refused: 'glib warning', file /build/firefox-mFDrA5/firefox-109.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:1298): LIBDBUSMENU-GLIB-WARNING **: 20:19:21.755: Unable to get session bus: Could not connect: Connection refused
+DevTools listening on ws://127.0.0.1:35265/devtools/browser/a34b7000-3203-4a31-8dc7-c90355b7684d
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678155569198	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678155658686	Marionette	INFO	Stopped listening on port 38693
+1678155669459	geckodriver	INFO	Listening on 127.0.0.1:51451
+1678155669966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKm1bPr"
+1678155670921	Marionette	INFO	Marionette enabled
+1678155670932	Marionette	INFO	Listening on port 34301
+Read port: 34301
+WebDriver BiDi listening on ws://127.0.0.1:34733
+1678155671179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKm1bPr/search.json.mozlz4", (void 0)))
+[Parent 1679, Main Thread] WARNING: Unable to get session bus: Could not connect: Connection refused: 'glib warning', file /build/firefox-mFDrA5/firefox-109.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:1679): LIBDBUSMENU-GLIB-WARNING **: 20:21:13.001: Unable to get session bus: Could not connect: Connection refused
+DevTools listening on ws://127.0.0.1:34733/devtools/browser/14aa3562-fd1d-462e-aa55-38f1a131ee46
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678155680202	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.imdb.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.imdb.com."
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678155746566	geckodriver	INFO	Listening on 127.0.0.1:45681
+1678155747075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBzdWhI"
+1678155748044	Marionette	INFO	Marionette enabled
+1678155748051	Marionette	INFO	Listening on port 32893
+Read port: 32893
+WebDriver BiDi listening on ws://127.0.0.1:47679
+1678155748377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBzdWhI/search.json.mozlz4", (void 0)))
+[Parent 2109, Main Thread] WARNING: Unable to get session bus: Could not connect: Connection refused: 'glib warning', file /build/firefox-mFDrA5/firefox-109.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2109): LIBDBUSMENU-GLIB-WARNING **: 20:22:29.639: Unable to get session bus: Could not connect: Connection refused
+DevTools listening on ws://127.0.0.1:47679/devtools/browser/8464a84c-f762-4c39-8a4d-2042de014dc2
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678155756636	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678155779508	Marionette	INFO	Stopped listening on port 34301
+1678155780330	Marionette	INFO	Stopped listening on port 32893
+1678155783969	geckodriver	INFO	Listening on 127.0.0.1:39399
+1678155784477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7mWHS4"
+1678155785255	Marionette	INFO	Marionette enabled
+1678155785261	Marionette	INFO	Listening on port 40587
+Read port: 40587
+WebDriver BiDi listening on ws://127.0.0.1:38297
+1678155785695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7mWHS4/search.json.mozlz4", (void 0)))
+[Parent 2492, Main Thread] WARNING: Unable to get session bus: Could not connect: Connection refused: 'glib warning', file /build/firefox-mFDrA5/firefox-109.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2492): LIBDBUSMENU-GLIB-WARNING **: 20:23:06.962: Unable to get session bus: Could not connect: Connection refused
+DevTools listening on ws://127.0.0.1:38297/devtools/browser/eab41e97-c96b-4f2e-906a-818287c44516
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678155794537	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678155807562	geckodriver	INFO	Listening on 127.0.0.1:34383
+1678155808069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelOufxv"
+1678155808403	Marionette	INFO	Stopped listening on port 40587
+1678155809276	Marionette	INFO	Marionette enabled
+1678155809289	Marionette	INFO	Listening on port 46803
+Read port: 46803
+WebDriver BiDi listening on ws://127.0.0.1:55173
+1678155809563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelOufxv/search.json.mozlz4", (void 0)))
+[Parent 2892, Main Thread] WARNING: Unable to get session bus: Could not connect: Connection refused: 'glib warning', file /build/firefox-mFDrA5/firefox-109.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2892): LIBDBUSMENU-GLIB-WARNING **: 20:23:30.941: Unable to get session bus: Could not connect: Connection refused
+DevTools listening on ws://127.0.0.1:55173/devtools/browser/29d3ede0-47f2-49f7-b0cc-a33d411ce286
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678155817880	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.imdb.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.imdb.com."
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678155840850	Marionette	INFO	Stopped listening on port 46803
+1678155906135	geckodriver	INFO	Listening on 127.0.0.1:60951
+1678155906643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegQrDeu"
+1678155907557	Marionette	INFO	Marionette enabled
+1678155907565	Marionette	INFO	Listening on port 36563
+Read port: 36563
+WebDriver BiDi listening on ws://127.0.0.1:35691
+1678155907790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegQrDeu/search.json.mozlz4", (void 0)))
+[Parent 3312, Main Thread] WARNING: Unable to get session bus: Could not connect: Connection refused: 'glib warning', file /build/firefox-mFDrA5/firefox-109.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:3312): LIBDBUSMENU-GLIB-WARNING **: 20:25:09.546: Unable to get session bus: Could not connect: Connection refused
+DevTools listening on ws://127.0.0.1:35691/devtools/browser/ee9216dc-f6e3-4e0f-8b1e-ef2b4b70dee5
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678155916480	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.imdb.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.imdb.com."
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.imdb.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fap%2F3p_callback%3FidentityProvider%3DGOOGLE%26relyingParty%3DIMDbPool%26request%3Dsignin%26openid.assoc_handle%3Dimdb_google%26openid.mode%3Dcheckid_setup%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%26openid.return_to%3Dhttps%253A%252F%252Fwww.imdb.com%2Fap-signin-handler&state=5f9ad09c-552c-4364-8b9a-fb7ca4215fbe.S_iDXjrS79lgnGag_cxq7k6vXQ1WAGReNdepOgrsjTo%3D&client_id=118778695955-4inip14ellc053slc8e3aebndgcfo3p9.apps.googleusercontent.com&scope=email+profile line 2 > eval line 3404 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fap%2F3p_callback%3FidentityProvider%3DGOOGLE%26relyingParty%3DIMDbPool%26request%3Dsignin%26openid.assoc_handle%3Dimdb_google%26openid.mode%3Dcheckid_setup%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%26openid.return_to%3Dhttps%253A%252F%252Fwww.imdb.com%2Fap-signin-handler&state=5f9ad09c-552c-4364-8b9a-fb7ca4215fbe.S_iDXjrS79lgnGag_cxq7k6vXQ1WAGReNdepOgrsjTo%3D&client_id=118778695955-4inip14ellc053slc8e3aebndgcfo3p9.apps.googleusercontent.com&scope=email+profile line 2 > eval line 5364 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://accounts.google.com/signin/oauth?response_type=code&access_type=offline&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fap%2F3p_callback%3FidentityProvider%3DGOOGLE%26relyingParty%3DIMDbPool%26request%3Dsignin%26openid.assoc_handle%3Dimdb_google%26openid.mode%3Dcheckid_setup%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%26openid.return_to%3Dhttps%253A%252F%252Fwww.imdb.com%2Fap-signin-handler&state=5f9ad09c-552c-4364-8b9a-fb7ca4215fbe.S_iDXjrS79lgnGag_cxq7k6vXQ1WAGReNdepOgrsjTo%3D&client_id=118778695955-4inip14ellc053slc8e3aebndgcfo3p9.apps.googleusercontent.com&scope=email+profile&service=lso&o2v=2&flowName=GeneralOAuthFlow line 2 > eval line 1055 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://accounts.google.com/signin/oauth?response_type=code&access_type=offline&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fap%2F3p_callback%3FidentityProvider%3DGOOGLE%26relyingParty%3DIMDbPool%26request%3Dsignin%26openid.assoc_handle%3Dimdb_google%26openid.mode%3Dcheckid_setup%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%26openid.return_to%3Dhttps%253A%252F%252Fwww.imdb.com%2Fap-signin-handler&state=5f9ad09c-552c-4364-8b9a-fb7ca4215fbe.S_iDXjrS79lgnGag_cxq7k6vXQ1WAGReNdepOgrsjTo%3D&client_id=118778695955-4inip14ellc053slc8e3aebndgcfo3p9.apps.googleusercontent.com&scope=email+profile&service=lso&o2v=2&flowName=GeneralOAuthFlow line 2 > eval line 5042 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://accounts.google.com/signin/oauth?response_type=code&access_type=offline&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fap%2F3p_callback%3FidentityProvider%3DGOOGLE%26relyingParty%3DIMDbPool%26request%3Dsignin%26openid.assoc_handle%3Dimdb_google%26openid.mode%3Dcheckid_setup%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%26openid.return_to%3Dhttps%253A%252F%252Fwww.imdb.com%2Fap-signin-handler&state=5f9ad09c-552c-4364-8b9a-fb7ca4215fbe.S_iDXjrS79lgnGag_cxq7k6vXQ1WAGReNdepOgrsjTo%3D&client_id=118778695955-4inip14ellc053slc8e3aebndgcfo3p9.apps.googleusercontent.com&scope=email+profile&service=lso&o2v=2&flowName=GeneralOAuthFlow line 2 > eval line 1956 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fap%2F3p_callback%3FidentityProvider%3DGOOGLE%26relyingParty%3DIMDbPool%26request%3Dsignin%26openid.assoc_handle%3Dimdb_google%26openid.mode%3Dcheckid_setup%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%26openid.return_to%3Dhttps%253A%252F%252Fwww.imdb.com%2Fap-signin-handler&state=5f9ad09c-552c-4364-8b9a-fb7ca4215fbe.S_iDXjrS79lgnGag_cxq7k6vXQ1WAGReNdepOgrsjTo%3D&client_id=118778695955-4inip14ellc053slc8e3aebndgcfo3p9.apps.googleusercontent.com&scope=email+profile&service=lso&o2v=2&flowName=GeneralOAuthFlow line 2 > eval line 1136 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fap%2F3p_callback%3FidentityProvider%3DGOOGLE%26relyingParty%3DIMDbPool%26request%3Dsignin%26openid.assoc_handle%3Dimdb_google%26openid.mode%3Dcheckid_setup%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%26openid.return_to%3Dhttps%253A%252F%252Fwww.imdb.com%2Fap-signin-handler&state=5f9ad09c-552c-4364-8b9a-fb7ca4215fbe.S_iDXjrS79lgnGag_cxq7k6vXQ1WAGReNdepOgrsjTo%3D&client_id=118778695955-4inip14ellc053slc8e3aebndgcfo3p9.apps.googleusercontent.com&scope=email+profile&service=lso&o2v=2&flowName=GeneralOAuthFlow line 2 > eval line 2319 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678156100054	Marionette	INFO	Stopped listening on port 36563
+1678156104736	geckodriver	INFO	Listening on 127.0.0.1:58937
+1678156105244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOGfnZq"
+1678156106127	Marionette	INFO	Marionette enabled
+1678156106134	Marionette	INFO	Listening on port 41485
+Read port: 41485
+WebDriver BiDi listening on ws://127.0.0.1:60493
+1678156106337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOGfnZq/search.json.mozlz4", (void 0)))
+[Parent 4081, Main Thread] WARNING: Unable to get session bus: Could not connect: Connection refused: 'glib warning', file /build/firefox-mFDrA5/firefox-109.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:4081): LIBDBUSMENU-GLIB-WARNING **: 20:28:28.193: Unable to get session bus: Could not connect: Connection refused
+DevTools listening on ws://127.0.0.1:60493/devtools/browser/ed53697d-6598-4e9b-9aff-4a24b7029197
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678156115061	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.imdb.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.imdb.com."
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678156168937	Marionette	INFO	Stopped listening on port 41485
+1678156173860	geckodriver	INFO	Listening on 127.0.0.1:45341
+1678156174389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVSJWYg"
+1678156175360	Marionette	INFO	Marionette enabled
+1678156175368	Marionette	INFO	Listening on port 39447
+Read port: 39447
+WebDriver BiDi listening on ws://127.0.0.1:42375
+1678156175671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVSJWYg/search.json.mozlz4", (void 0)))
+[Parent 4536, Main Thread] WARNING: Unable to get session bus: Could not connect: Connection refused: 'glib warning', file /build/firefox-mFDrA5/firefox-109.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:4536): LIBDBUSMENU-GLIB-WARNING **: 20:29:37.252: Unable to get session bus: Could not connect: Connection refused
+DevTools listening on ws://127.0.0.1:42375/devtools/browser/0f96373b-b7ad-4bfe-a86b-d0d389718d0a
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678156184432	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.imdb.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.imdb.com."
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71kn7f+tS+L.js?AUIClients/FWCIMAssets, line 289: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678156257302	Marionette	INFO	Stopped listening on port 39447
+1678409618918	geckodriver	INFO	Listening on 127.0.0.1:47973
+1678409619449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuRzi9J"
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+1678409621318	Marionette	INFO	Marionette enabled
+1678409621331	Marionette	INFO	Listening on port 42265
+Read port: 42265
+WebDriver BiDi listening on ws://127.0.0.1:47117
+1678409621766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuRzi9J/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47117/devtools/browser/4e9b778b-4063-4a88-bf26-123594cb6e1d
+1678409631191	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.15/videoCard.01fa78e7064a386f48fc.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.15/videoCard.01fa78e7064a386f48fc.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 116: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 116: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678409636608	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.15/videoCard.01fa78e7064a386f48fc.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.15/videoCard.01fa78e7064a386f48fc.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678409642206	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9DoG2UqGQ_hj5gfOHn4oyjEZInin2z3VqHqE5UOquhE.js line 2 > eval line 4409 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9DoG2UqGQ_hj5gfOHn4oyjEZInin2z3VqHqE5UOquhE.js line 2 > eval line 4772 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/thetradedeskvideo910663478306/moatvideo.js#_moatApi83685106, line 249: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/thetradedeskvideo910663478306/moatvideo.js#_moatApi83685106, line 249: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9DoG2UqGQ_hj5gfOHn4oyjEZInin2z3VqHqE5UOquhE.js line 2 > eval line 3438 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: javascript:void;, line 1: SyntaxError: expected expression, got ';'
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: javascript:void;, line 1: SyntaxError: expected expression, got ';'
+JavaScript error: javascript:void;, line 1: SyntaxError: expected expression, got ';'
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9DoG2UqGQ_hj5gfOHn4oyjEZInin2z3VqHqE5UOquhE.js line 2 > eval line 3044 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript error: https://cdn.spotxcdn.com/integration/instreamadbroker/v1/instreamadbroker.js, line 75: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: javascript:void;, line 1: SyntaxError: expected expression, got ';'
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: javascript:void;, line 1: SyntaxError: expected expression, got ';'
+JavaScript error: javascript:void;, line 1: SyntaxError: expected expression, got ';'
+JavaScript error: https://cdn.spotxcdn.com/integration/instreamadbroker/v1/instreamadbroker.js, line 75: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.spotxcdn.com/integration/instreamadbroker/v1/instreamadbroker.js, line 75: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: javascript:void;, line 1: SyntaxError: expected expression, got ';'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WygWmAr8N2thj-jBdqJCiD6QGZJ45ru74cfJMvWtULI.js line 2 > eval line 7717 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: https://cdn.spotxcdn.com/integration/instreamadbroker/v1/instreamadbroker.js, line 75: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WygWmAr8N2thj-jBdqJCiD6QGZJ45ru74cfJMvWtULI.js line 2 > eval line 2535 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: https://cdn.spotxcdn.com/integration/instreamadbroker/v1/instreamadbroker.js, line 75: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WygWmAr8N2thj-jBdqJCiD6QGZJ45ru74cfJMvWtULI.js line 2 > eval line 7491 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: https://cdn.spotxcdn.com/integration/instreamadbroker/v1/instreamadbroker.js, line 75: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: javascript:void;, line 1: SyntaxError: expected expression, got ';'
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: javascript:void;, line 1: SyntaxError: expected expression, got ';'
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: javascript:void;, line 1: SyntaxError: expected expression, got ';'
+JavaScript error: javascript:void;, line 1: SyntaxError: expected expression, got ';'
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: javascript:void;, line 1: SyntaxError: expected expression, got ';'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9DoG2UqGQ_hj5gfOHn4oyjEZInin2z3VqHqE5UOquhE.js line 2 > eval line 5461 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+1678422563402	Marionette	INFO	Stopped listening on port 42265
+1678684064039	geckodriver	INFO	Listening on 127.0.0.1:47801
+1678684064563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1l3yaJ"
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+1678684066884	Marionette	INFO	Marionette enabled
+1678684066898	Marionette	INFO	Listening on port 42225
+Read port: 42225
+WebDriver BiDi listening on ws://127.0.0.1:52515
+1678684067477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1l3yaJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52515/devtools/browser/ee9f8434-99af-41c6-9d94-4ab4ea6c6d82
+1678684080861	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.15/videoCard.01fa78e7064a386f48fc.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.15/videoCard.01fa78e7064a386f48fc.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 116: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 116: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1678684086478	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://letterboxd.com."
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.15/videoCard.01fa78e7064a386f48fc.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.15/videoCard.01fa78e7064a386f48fc.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1678684092129	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 222: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9DoG2UqGQ_hj5gfOHn4oyjEZInin2z3VqHqE5UOquhE.js line 2 > eval line 2095 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9DoG2UqGQ_hj5gfOHn4oyjEZInin2z3VqHqE5UOquhE.js line 2 > eval line 1003 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.spotxcdn.com/integration/ados/v1/ados.js, line 78: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/thetradedeskvideo910663478306/moatvideo.js#_moatApi69074232, line 249: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://z.moatads.com/thetradedeskvideo910663478306/moatvideo.js#_moatApi69074232, line 249: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9DoG2UqGQ_hj5gfOHn4oyjEZInin2z3VqHqE5UOquhE.js line 2 > eval line 2173 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.spotxcdn.com/integration/instreamadbroker/v1/instreamadbroker.js, line 75: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1659: Error: permitUnload is already running for this tab.
+1678684253682	Marionette	INFO	Stopped listening on port 42225
+JavaScript error: chrome://browser/content/browser.js, line 8169: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
