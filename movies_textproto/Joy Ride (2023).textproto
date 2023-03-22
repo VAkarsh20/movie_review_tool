@@ -1,0 +1,85 @@
+title: "Joy Ride"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Adele Lim"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Ashley Park"
+      comments: " from Ashley Park ()"
+    }
+    actor {
+      name: "Sherry Cola"
+      comments: " from Sherry Cola ()"
+    }
+    actor {
+      name: "Stephanie Hsu"
+      comments: " from Stephanie Hsu ()"
+    }
+    actor {
+      name: "Sabrina Wu"
+      comments: " from Sabrina Wu ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Cherry Chevapravatdumrong"
+    }
+    writer {
+      name: "Teresa Hsiao"
+    }
+    writer {
+      name: "Adele Lim"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Cherry Chevapravatdumrong"
+    }
+    writer {
+      name: "Teresa Hsiao"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Nathan Matthew David"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Paul Yee"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Nena Erb"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "03/19/2023"
+redux: false
+id: 329
+imdb_id: "tt15268244"

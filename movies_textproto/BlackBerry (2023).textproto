@@ -1,0 +1,74 @@
+title: "BlackBerry"
+rating: 8.8
+review {
+  direction {
+    director {
+      name: "Matt Johnson"
+    }
+    comments: "Very Good Direction (Really moves the story forward in a unique style as he blends the humor in the more lighter segments and the drama in the more intense segments; Gets the most out of the cast and uses different elements like cinematography and editing to help tell the story and build the tone; really helped embody the engineering culture and the clash between tech and business well throughout the movie)"
+  }
+  acting {
+    actor {
+      name: "Glenn Howerton"
+      comments: "Very Good from Glenn Howerton (Really pulls a lot from the psychopathic elements of Dennis in It's Always Sunny as he is a real commanding force in all the scenes he is in as he portrays a real social climber that is really does not know what he is doing)"
+    }
+    actor {
+      name: "Jay Baruchel"
+      comments: "Good from Jay Baruchel (Shows a real transformation of the character throughout the movie as he transitions from a more social awkward tech-background engineer to a more heartless executive who lost the passion he originally had when going into the business)"
+    }
+    actor {
+      name: "Matt Johnson"
+      comments: "Pretty Good to Good from Matt Johnson (The real comedic relief of the movie as he breaks a lot of the tension in the scenes he is in)"
+    }
+    cast: "Pretty Good to Good from the rest of the cast (Really embodied their respective roles very well (especially the ones portraying the engineers))"
+    comments: "Good Acting"
+  }
+  story {
+    writer {
+      name: "Matt Johnson"
+    }
+    writer {
+      name: "Matthew Miller"
+    }
+    comments: "Great Story (Story was laid out very well as it was entertaining to see where the company was going and how far the different character's journeys are taking them; It is uncertain how close this movie was the original source material but as a biopic I think it does a good job in capturing the essence of the rise and fall of Blackberry)"
+  }
+  screenplay {
+    writer {
+      name: "Matt Johnson"
+    }
+    writer {
+      name: "Matthew Miller"
+    }
+    comments: "Great Screenplay (The dialogue was well written/flowed nicely and jokes were really funny; the symbolism was pretty prevalent throughout the movie (which is pretty unique given the movie is a biopic); the foreshadowing of the downfall of the company is actually well done (though kinda overt towards the end) as it is down through the characters and how they are changing rather than any story elements/symbols)"
+  }
+  score {
+    composer {
+      name: "Jay McCarrol"
+    }
+    comments: "Good to Very Good Score (Really added to the tech feel of the movie)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Jared Raab"
+    }
+    comments: "Very Good Cinematography (Though it is a bit amateurish, the guerilla style, shooting shots from different rooms, and the zoom ins really helped add to the scrappy tech start up feel of the movie as well as give comedic relief at times)"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Curt Lobb"
+    }
+    comments: "Very Good Editing (Helps give the scrappy feel of the movie and brings it all together)"
+  }
+  plot_structure: "Plot Structure was good for the most part as it does a good job in following the rise and fall of the company (though I would have liked to have seen more time given to the fall as it seems a bit rushed)"
+  pacing: "Pacing was good for the most part as it keeps a pretty steady pace until the end where it seems a bit rushed (I would have liked to have seen 10 minutes from the rise be given to the fall of Blackberry (but keep the same runtime))"
+  climax: "Climax was executed very nicely as it really shows how far gone a lot of these characters are as the pressures of a failing company really get to them"
+  tone: "Tone was a blend of comedy/tech/drama as it uses all of these different elements to present an entertaining movie"
+  final_notes: "Saw US Premiere at SXSW (One of my favorite movies from SXSW); really captures the tech culture/workplace very well"
+  overall: "Overall, an extremely entertaining movie that blends multiple genres to create an engaging biopic that tell the story of a famous company where not that much is known about them, with all the cinematic elements of the film coming together to drive the story forward"
+}
+release_year: 2023
+review_date: "03/19/2023"
+redux: false
+id: 326
+imdb_id: "tt21867434"

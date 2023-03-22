@@ -1,0 +1,113 @@
+title: "Theater Camp"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Molly Gordon"
+    }
+    director {
+      name: "Nick Lieberman"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Molly Gordon"
+      comments: " from Molly Gordon ()"
+    }
+    actor {
+      name: "Ben Platt"
+      comments: " from Ben Platt ()"
+    }
+    actor {
+      name: "Noah Galvin"
+      comments: " from Noah Galvin ()"
+    }
+    actor {
+      name: "Jimmy Tatro"
+      comments: " from Jimmy Tatro ()"
+    }
+    actor {
+      name: "Patti Harrison"
+      comments: " from Patti Harrison ()"
+    }
+    actor {
+      name: "Ayo Edebiri"
+      comments: " from Ayo Edebiri ()"
+    }
+    actor {
+      name: "Alan Kim"
+      comments: " from Alan Kim ()"
+    }
+    actor {
+      name: "Amy Sedaris"
+      comments: " from Amy Sedaris ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Molly Gordon"
+    }
+    writer {
+      name: "Nick Lieberman"
+    }
+    writer {
+      name: "Ben Platt"
+    }
+    writer {
+      name: "Noah Galvin"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Molly Gordon"
+    }
+    writer {
+      name: "Nick Lieberman"
+    }
+    writer {
+      name: "Ben Platt"
+    }
+    writer {
+      name: "Noah Galvin"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "James McAlister"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Nate Hurtsellers"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Jon Philpot"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "03/19/2023"
+redux: false
+id: 330
+imdb_id: "tt21232992"
