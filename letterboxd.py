@@ -65,19 +65,19 @@ def rating_to_stars(rating):
         return 4.5
     elif rating in range(80, 90):
         return 4
-    elif rating in range(75, 80):
+    elif rating in range(70, 78):
         return 3.5
-    elif rating in range(70, 75):
-        return 3
     elif rating in range(60, 70):
-        return 2.5
+        return 3
     elif rating in range(50, 60):
-        return 2
+        return 2.5
     elif rating in range(40, 50):
-        return 1.5
+        return 2.0
     elif rating in range(30, 40):
-        return 1.0
+        return 1.5
     elif rating in range(20, 30):
+        return 1.0
+    elif rating in range(10, 20):
         return 0.5
     else:
         return 0
@@ -97,15 +97,15 @@ def rating_to_tag(rating):
         return "Very Good"
     elif rating in range(80, 85):
         return "Good"
-    elif rating in range(75, 80):
+    elif rating in range(70, 80):
         return "Pretty Good"
-    elif rating in range(70, 75):
-        return "Decent"
     elif rating in range(60, 70):
-        return "Pretty Bad"
+        return "Decent"
     elif rating in range(50, 60):
-        return "Bad"
+        return "Pretty Bad"
     elif rating in range(40, 50):
+        return "Bad"
+    elif rating in range(30, 40):
         return "Very Bad"
     else:
         return "Terrible"

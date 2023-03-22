@@ -1,0 +1,64 @@
+title: "Self Reliance"
+rating: 7.6
+review {
+  direction {
+    director {
+      name: "Jake Johnson"
+    }
+    comments: "Pretty Good Direction (For a directorial debut, Johnson does a fine job at moving the story forward and building suspense while still incorporating comedic elements throughout the movie to keep the audience engaged, there are some rookie mistakes throughout the movie but these do no overshadow the positives he brings to the table)"
+  }
+  acting {
+    actor {
+      name: "Jake Johnson"
+      comments: "Pretty Good from Jake Johnson (Handles the comedic and paranoia elements of the story very well as he holds his own being the lead, but he really hits a limit when it comes to the more dramatic parts of the movie)"
+    }
+    actor {
+      name: "Anna Kendrick"
+      comments: "Decent to Pretty Good from Anna Kendrick (Plays a character she has been accustomed to portraying for the past decade as she holds her own well with what she is given)"
+    }
+    cast: "Decent to Pretty Good from the rest of the cast (Help play off each other to both build humor and paranoia in the main character)"
+    comments: "Decent to Pretty Good Acting"
+  }
+  story {
+    writer {
+      name: "Jake Johnson"
+    }
+    comments: "Pretty Good Story (The mix off Hunger Games esque competition with a comedic background was a fresh flavor to see as the overarching plot is laid out pretty well due to it following the 30 day countdown for the competition; the more romantic parts of the movie did really draw back from the story overall as it was a bit predictable and formulaic)"
+  }
+  screenplay {
+    writer {
+      name: "Jake Johnson"
+    }
+    comments: "Decent Screenplay (Dialogue was pretty simplistic as it kinda got to a point where it was easy to predict what he was going to say, but the jokes definitely hit more than they did not (with it being very Jake Johnson in its comedic style); the symbolism was a bit too overt as they borderline told the audience what the symbols and meaning of the movie was during it (like the loneliness aspect); the movie was pretty predictable so the foreshadowing was a bit overt)"
+  }
+  score {
+    composer {
+      name: "Dan Romer"
+    }
+    comments: "Decent Score (Helped with building the scenes and adding suspense)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Adam Silver"
+    }
+    comments: "Pretty Good Cinematography (especially for a lower budget movie like this as it aided in building the suspense and action scenes)"
+  }
+  sound: "Pretty Good Sound"
+  editing {
+    editor {
+      name: "Ryan Brown"
+    }
+    comments: "Pretty Good Editing"
+  } 
+  plot_structure: "Plot Structure was pretty standard as it followed the typical action-comedy template where all the elements are overtly laid out and it is obvious which part of the story arc the movie is in"
+  pacing: "Pacing was good (The movie uses its short runtime decently well but it would have been nice to see 10-15 minutes more for the final days of the competition to show the main character's downfall a bit more and the relationships he is losing)"
+  climax: "Climax was pretty standard and kinda boring cause of how predictable it was (the final scene being very 2010s esque in its execution)"
+  tone: "Tone was very similar to movies of the early 2010s in the comedic and dramatic sense but the mix of horror and suspenseful elements was a nice touch"
+  final_notes: "Saw World Premiere at SXSW"
+  overall: "Overall, a fun watch that blends comedy and thriller elements very well as the movie is a pretty funny and captivating directorial debut from for Jake Johnson, though it very predictable in its plot and pretty safe overall as it falls too much into the 2010s comedy tropes"
+}
+release_year: 2023
+review_date: "03/19/2023"
+redux: false
+id: 324
+imdb_id: "tt26084002"

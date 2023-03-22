@@ -1,0 +1,68 @@
+title: "Evil Dead Rise"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Lee Cronin"
+    }
+    comments: "Pretty Bad to Decent Direction ()" Highlight Horror parts/Do not highlight Dramatic parts
+  }
+  acting {
+    actor {
+      name: "Lily Sullivan"
+      comments: " from Lily Sullivan ()"
+    }
+    actor {
+      name: "Alyssa Sutherland"
+      comments: " from Alyssa Sutherland ()"
+    }
+    cast: "Decent from the rest of the cast (Faltered a bit in the more dramatic parts (typical of other horror movies), but though the horror acting was good; The child actors were actually decent overall with no major faults)"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Lee Cronin"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Lee Cronin"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Stephen McKeon"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Dave Garbett"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Bryan Shaw"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "03/19/2023"
+redux: false
+id: 328
+imdb_id: "tt13345606"
