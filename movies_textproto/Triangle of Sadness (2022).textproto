@@ -1,0 +1,80 @@
+title: "Triangle of Sadness"
+rating: 4.8
+review {
+  direction {
+    director {
+      name: "Ruben \303\226stlund"
+    }
+    comments: "Pretty Bad Direction (There is just a lot of awkwardness as the whole movie seems like a mess with many pauses rather than a cohesive form of storytelling; also, he did not get the most out of his actors as it just feels like they do not work well off of each other)"
+  }
+  acting {
+    actor {
+      name: "Harris Dickinson"
+      comments: "Decent to Pretty Good from Harris Dickinson (Shows some range, but it's pretty limited)"
+    }
+    actor {
+      name: "Charlbi Dean"
+      comments: "Decent from Charlbi Dean (Holds her own well but is not really given that much to work with)"
+    }
+    actor {
+      name: "Dolly de Leon"
+      comments: "Pretty Good to Good from Dolly de Leon (The best performance of the movie (which is not saying much) as she commands her own nicely and steals the show in the final arc of the movie, though she does so some inexperience and hiccups)"
+    }
+    actor {
+      name: "Woody Harrelson"
+      comments: "Pretty Good from Woody Harrelson (Really just pulls from experience and not direction as it just feels like he was on set for a couple of days and was uninterested in the project)"
+    }
+    cast: "Pretty Bad to Bad from the rest of the cast (just a lot of inexperience and choppiness)"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Ruben \303\226stlund"
+    }
+    comments: "Pretty Bad to Bad Story (The story construction is three different arcs, but the first two arcs are really poorly constructed and more about shock rather than actually moving the story forward (though the final third act was pretty good and had some redeeming factor to it); also, a lot of the plot points were really disgusting and unnecessary to tell the story)"
+  }
+  screenplay {
+    writer {
+      name: "Ruben \303\226stlund"
+    }
+    comments: "Bad Screenplay (It felt like English was the writer’s fourth language as none of the dialogue felt natural or flowed between actors; the symbolism is so overt that its very pretentious in what they are trying to show; the foreshadowing is surprisingly more subtle but there are predictable elements to the plot; The jokes were not that funny as it relies way too much on shock/grotesque humor than anything of substance (though the jokes in the final arc had some good moments)"
+  }
+  score {
+    composer {
+      name: "Mikkel Maltha"
+    }
+    composer {
+      name: "Leslie Ming"
+    }
+    comments: "Decent Score/Decent Soundtrack"
+  }
+  cinematography {
+    cinematographer {
+      name: "Fredrik Wenzel"
+    }
+    comments: "Pretty Good Cinematography (Feels very Kubrick-esque)"
+  }
+  sound: "Decent Sound"
+  editing {
+    editor {
+      name: "Ruben \303\226stlund"
+    }
+    editor {
+      name: "Mikel Cee Karlsson"
+    }
+    comments: "Pretty Good Editing (Helps give that Kubrick feel mentioned earlier)"
+  }
+  visual_effects: "Decent Visual Effects"
+  production_design: "Decent Production Design"
+  plot_structure: "Plot Structure was the worst part of the movie as the first two parts of the movie are so hard to watch for how boring and grotesque it is; but the final arc of the movie is actually pretty good but my perception of the movie is already made at this point that it is too late to save (20-30 minutes of the runtime of the second part could’ve been cut to make the movie a lot better and help put more emphasis on the message of the movie by giving the third part porporationally more time)"
+  pacing: "Pacing was on the slower side for the third two thirds of the movie but picks up to a good pace in the final part"
+  climax: "Climax was decently captivating (but the movie is just so exhausting that its hard to follow by the time we reach it)"
+  tone: "Tone follows the black comedy script pretty closely as the director really sets the tone throughout the movie with the dialogue and comedy (which kinda is one of the main issues of the movie as it is way too overt)"
+  final_notes: "The movie is unnecessarily grotesque as a lot of the scenes are hard to watch and do not really provide anything to the movie (rather than just give shock humor)"
+  overall: "Overall, a movie that falters from poor plot construction and reliance on shock humor as the final third of the movie is too late to save the mess that was developed throughout the film, which really hurts its overt message it is trying to portray"
+}
+release_year: 2022
+review_date: "03/09/2023"
+redux: false
+id: 324
+imdb_id: "tt7322224"
