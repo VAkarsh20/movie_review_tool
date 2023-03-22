@@ -1,0 +1,100 @@
+title: "Creed III"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Michael B. Jordan"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Michael B. Jordan"
+      comments: " from Michael B. Jordan ()"
+    }
+    actor {
+      name: "Tessa Thompson"
+      comments: " from Tessa Thompson ()"
+    }
+    actor {
+      name: "Jonathan Majors"
+      comments: " from Jonathan Majors ()"
+    }
+    actor {
+      name: "Wood Harris"
+      comments: " from Wood Harris ()"
+    }
+    actor {
+      name: "Mila Davis-Kent"
+      comments: " from Mila Davis-Kent ()"
+    }
+    actor {
+      name: "Florian Munteanu"
+      comments: " from Florian Munteanu ()"
+    }
+    actor {
+      name: "Phylicia Rashad"
+      comments: " from Phylicia Rashad ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Ryan Coogler"
+    }
+    writer {
+      name: "Keenan Coogler"
+    }
+    writer {
+      name: "Zach Baylin"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Keenan Coogler"
+    }
+    writer {
+      name: "Zach Baylin"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Joseph Shirley"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Kramer Morgenthau"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Tyler Nelson"
+    }
+    editor {
+      name: "Jessica Baclesse"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "03/21/2023"
+redux: false
+id: 331
+imdb_id: "tt11145118"
