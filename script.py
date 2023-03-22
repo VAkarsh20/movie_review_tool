@@ -516,14 +516,46 @@ def parse_direction(infobox):
 
     return direction
 
+# TODO: Create FILM TO REDUX
+# https://www.imdb.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.imdb.com%2Fregistration%2Fap-signin-handler%2Fimdb_us&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=imdb_us&openid.mode=checkid_setup&siteState=eyJvcGVuaWQuYXNzb2NfaGFuZGxlIjoiaW1kYl91cyIsInJlZGlyZWN0VG8iOiJodHRwczovL3d3dy5pbWRiLmNvbS8_cmVmXz1sb2dpbiJ9&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&tag=imdbtag_reg-20
+def parse(filename):
 
-def parse():
-    review_tool.read_proto()
+    # proto = review_tool.read_proto(filename)
+
+    path = "movies_textproto/"
+    count = 0
+    stack = ["movies_textproto/" + filename]
+
+    d = {}
+
+    end = False
+    while not end:
+        if os.path.exists(path + ("reduxed/" * count) + filename):
+            stack.append(path + ("reduxed/" * count) + filename)
+            count += 1
+    
+    if not os.path.exists(path + ("reduxed/" * count) + filename):
+        os.mkdir(path + ("reduxed/" * count) + filename)
+
+    while os.path.exists(path + ("reduxed/" * count) + filename):
+        stack.append(path + ("reduxed/" * count) + filename)
+        count += 1
+
+
+    print(stack)
+    print(count)
+    while count > 0:
+        d[path + ("reduxed/" * count) + filename] = stack.pop()
+        count -= 1
+    print(d)
+
 
 
 if __name__=="__main__":
 
     argc = len(sys.argv)
+
+    parse("Zoolander (2001).textproto")
 
     # df = create_df()
 
@@ -540,3 +572,29 @@ if __name__=="__main__":
     # proto = review_tool.read_proto("Pathaan (2023)")
     # sheets.initialize_to_sheets(proto)
 
+
+
+
+    # from selenium import webdriver
+    # from selenium.webdriver.firefox.service import Service as FirefoxService
+    # from webdriver_manager.firefox import GeckoDriverManager
+    # from selenium.webdriver.common.by import By
+    # from selenium.webdriver.common.action_chains import ActionChains
+
+    # def wait(driver, seconds):
+    #     driver.maximize_window()
+    #     driver.implicitly_wait(seconds)
+
+    # # review_tool.read_proto(filename)
+
+    # driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
+
+    # driver.get("https://www.imdb.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.imdb.com%2Fregistration%2Fap-signin-handler%2Fimdb_us&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=imdb_us&openid.mode=checkid_setup&siteState=eyJvcGVuaWQuYXNzb2NfaGFuZGxlIjoiaW1kYl91cyIsInJlZGlyZWN0VG8iOiJodHRwczovL3d3dy5pbWRiLmNvbS8_cmVmXz1sb2dpbiJ9&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&tag=imdbtag_reg-20")
+
+
+    # wait(driver, 10)
+    # username = "vakarsh2000@gmail.com"
+    # password = "kiran888"
+    # driver.find_element(By.XPATH, '//*[@id="ap_email"]').send_keys(username)
+    # driver.find_element(By.XPATH, '//*[@id="ap_password"]').send_keys(password)
+    # driver.find_element(By.XPATH, '//*[@id="signInSubmit"]').click()
