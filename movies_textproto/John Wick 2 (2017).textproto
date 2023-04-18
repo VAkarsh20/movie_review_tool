@@ -1,0 +1,107 @@
+title: "John Wick 2"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Chad Stahelski"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Keanu Reeves"
+      comments: " from Keanu Reeves ()"
+    }
+    actor {
+      name: "Common"
+      comments: " from Common ()"
+    }
+    actor {
+      name: "Laurence Fishburne"
+      comments: " from Laurence Fishburne ()"
+    }
+    actor {
+      name: "Riccardo Scamarcio"
+      comments: " from Riccardo Scamarcio ()"
+    }
+    actor {
+      name: "Ruby Rose"
+      comments: " from Ruby Rose ()"
+    }
+    actor {
+      name: "Lance Reddick"
+      comments: " from Lance Reddick ()"
+    }
+    actor {
+      name: "Peter Stormare"
+      comments: " from Peter Stormare ()"
+    }
+    actor {
+      name: "Bridget Moynahan"
+      comments: " from Bridget Moynahan ()"
+    }
+    actor {
+      name: "Franco Nero"
+      comments: " from Franco Nero ()"
+    }
+    actor {
+      name: "John Leguizamo"
+      comments: " from John Leguizamo ()"
+    }
+    actor {
+      name: "Ian McShane"
+      comments: " from Ian McShane ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Derek Kolstad"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Derek Kolstad"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Tyler Bates"
+    }
+    composer {
+      name: "Joel J. Richard"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Dan Laustsen"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Evan Schiff"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2017
+review_date: "04/17/2023"
+redux: false
+id: 335
+imdb_id: "tt4425200"

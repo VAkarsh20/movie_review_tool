@@ -1,5 +1,5 @@
 title: "Theater Camp"
-rating: 1.0
+rating: 9.0
 review {
   direction {
     director {
@@ -8,43 +8,27 @@ review {
     director {
       name: "Nick Lieberman"
     }
-    comments: "Direction ()"
+    comments: "Great Direction (Really told the story well through this mockumentary lens as we get to see a guerrilla style approach to how the theater camp is a mess; uses transitions very well instead of narration to help provide non-sequitur moments to move the plot forward (especially in a comedic way); really gets a lot out of the actors (especially the child actors) as they are allowed to play through improv to build comedy)"
   }
   acting {
     actor {
       name: "Molly Gordon"
-      comments: " from Molly Gordon ()"
+      comments: "Good to Very Good from Molly Gordon (Really plays off of Platt's character well as she plays the out of touch with reality character very well)"
     }
     actor {
       name: "Ben Platt"
-      comments: " from Ben Platt ()"
+      comments: "Very Good from Ben Platt (The real force that other characters play off of as he uses his theater experience well to show someone who is trapped in a world they do not want to leave)"
     }
     actor {
       name: "Noah Galvin"
-      comments: " from Noah Galvin ()"
+      comments: "Good from Noah Galvin (Plays the steady role very well throughout the movie but really comes out towards the end)"
     }
     actor {
       name: "Jimmy Tatro"
-      comments: " from Jimmy Tatro ()"
+      comments: "Very Good from Jimmy Tatro (Has basically perfected this role from all the similar roles he has been in as he effortlessly plays this douchey, finance bro)"
     }
-    actor {
-      name: "Patti Harrison"
-      comments: " from Patti Harrison ()"
-    }
-    actor {
-      name: "Ayo Edebiri"
-      comments: " from Ayo Edebiri ()"
-    }
-    actor {
-      name: "Alan Kim"
-      comments: " from Alan Kim ()"
-    }
-    actor {
-      name: "Amy Sedaris"
-      comments: " from Amy Sedaris ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Good to Very Good from the rest of the cast (Especially the child actors as they do a great job in using improv to help build scenes and create humor)"
+    comments: "Very Good Acting"
   }
   story {
     writer {
@@ -59,7 +43,7 @@ review {
     writer {
       name: "Noah Galvin"
     }
-    comments: "Story ()"
+    comments: "Great Story (The mockumentary structure really helps in keeping the story interesting as it allows this satire to make fun of what actually goes on at a theater camp; also the plot is laid out very well as it uses the transition slides to move the story forward while also adding humor)"
   }
   screenplay {
     writer {
@@ -74,37 +58,33 @@ review {
     writer {
       name: "Noah Galvin"
     }
-    comments: "Screenplay ()"
+    comments: "Great Screenplay (Considering the movie was mostly improv it is very impressive what they got off as it incredibly funny and captivating what is going on in the scenes; the symbols and messages throughout the movie are pretty prevalent)"
   }
   score {
     composer {
       name: "James McAlister"
     }
-    comments: "Score ()"
+    comments: "Pretty Good Score"
   }
   cinematography {
     cinematographer {
       name: "Nate Hurtsellers"
     }
-    comments: "Cinematography ()"
+    comments: "Very Good Cinematography (The handheld style really gives the movie a documentary feel as if we are right next to the subjects of the movie)"
   }
-  sound: "Sound ()"
+  sound: "Decent Sound"
   editing {
     editor {
       name: "Jon Philpot"
     }
-    comments: "Editing ()"
+    comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was laid out very well as it was very evident which part of the plot we were as the movie follows a countdown to the performance at the end"
+  pacing: "Pacing was a good pace (no need to add or cut runtime)"
+  climax: "Climax was the best part of the movie as it was them putting on the play after everything in the movie was culminating to this moment; this part also had some of the funniest bits of the entire film"
+  tone: "Tone was very satirical in nature as it never tried to take itself too seriously by keeping things light-hearted (there was some flavors of Will Ferrell in the tone as well)"
+  final_notes: "Saw the Texas Premiere at SXSW (The best movie of the festival in my eyes)"
+  overall: "Overall, an extremely funny movie that is well made as this mockumentary looks into the eyes of a typical theater camp through the use of improv, hand-held cinematography, and funny writing to make this movie very captivating and a great watch overall (my favorite film of SXSW)"
 }
 release_year: 2023
 review_date: "03/19/2023"

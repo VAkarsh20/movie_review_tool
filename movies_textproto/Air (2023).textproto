@@ -1,0 +1,79 @@
+title: "Air"
+rating: 8.3
+review {
+  direction {
+    director {
+      name: "Ben Affleck"
+    }
+    comments: "Good Direction (Helps build to the tone of the movie very nicely and does a good job in getting the most from his actors; progresses the story forward in a very safe way (which mimics the 80s in itself); really pulls more from experience to finish the project than try anything groundbreaking)"
+  }
+  acting {
+    actor {
+      name: "Matt Damon"
+      comments: "Good from Matt Damon (Plays his character very well and uses more experience than research into the character (kinda a similar performance in Ford v. Ferrari))"
+    }
+    actor {
+      name: "Ben Affleck"
+      comments: "Good from Ben Affleck (Similar to Matt Damon's performance as it felt he was more pulling from experience than research into the character)"
+    }
+    actor {
+      name: "Jason Bateman"
+      comments: "Pretty Good to Good from Jason Bateman (Started off a bit rocky but got his footing as the movie went on and got more screen time)"
+    }
+    actor {
+      name: "Marlon Wayans"
+      comments: "Good from Marlon Wayans (Surprisingly my favorite performance of the movie as he acts the most natural and in tune with what is needed from him (it is just a shame he is only in the movie for one scene))"
+    }
+    actor {
+      name: "Chris Messina"
+      comments: "Pretty Good from Chris Messina"
+    }
+    actor {
+      name: "Chris Tucker"
+      comments: "Pretty Good from Chris Tucker (Plays the very Chris Tucker esque character (so also just pulls more from experience))"
+    }
+    actor {
+      name: "Viola Davis"
+      comments: "Good from Viola Davis (Really commands the scenes she is in, but is not able to go above and beyond like her other movies because of the material is working with)"
+    }
+    cast: "Pretty Good from the rest of the cast"
+    comments: "Pretty Good to Good Acting"
+  }
+  story {
+    writer {
+      name: "Alex Convery"
+    }
+    comments: "Good Story (Does a good job in not having too many moving parts as it only has a a week or two time period that they dive really deep into; the story is laid out well; it is pretty obvious how much of this story was fabricated (but they were never really trying to go for a based on a true story film so it gets a pass))"
+  }
+  screenplay {
+    writer {
+      name: "Alex Convery"
+    }
+    comments: "Pretty Good to Good Screenplay (The movie does do a decent job at making the vernacular sound very 1980s; the dialogue is kinda over the top at times as it is pretty obvious when the script is going for the commercial or awards scenes shot; the symbolism is a good as it can get for a biopic (like Sonny analyzing Jordan's jump shot); the foreshadowing is surprisingly present and handled well (like the pink shorts for running))"
+  }
+  cinematography {
+    cinematographer {
+      name: "Robert Richardson"
+    }
+    comments: "Good Cinematography (Has the feel of a startup-guerilla style documentary at points, but is still polished to that of a big budget movie)"
+  }
+  sound: "Good Sound"
+  editing {
+    editor {
+      name: "William Goldenberg"
+    }
+    comments: "Good Editing (Very similar to 80s movies and sports movies of the 80s/90s (like Jerry Maguire))"
+  }
+  production_design: "Good Production Design (Helped give it that 80s vibe)"
+  plot_structure: "Plot Structure was laid out well as it focuses on a few events and does a really good job at trying to get as much detail from these events as possible"
+  pacing: "Pacing was incredibly fast (an intentional thing that I really enjoyed) as it mimics the pressure in Nike trying to sign Jordan"
+  climax: "Climax was decent to pretty but felt a little over-the-top and more motivational than it needed to be"
+  tone: "Tone was very 80s and the movie does do a good job in helping build this with the vernacular/production design/vibes; the movie also has a bit of a startup/business feel with the quick pace and content"
+  final_notes: "I really respect how they never showed Michael Jordan's face of the movie as that would really take away from the real stars (his mother and the people at Nike) and story (how Nike was able to work with the parents to get Jordan to sign); I also really enjoyed how the movie really never took itself too seriously as it felt like the crew wanted to have fun more than win awards"
+  overall: "Overall, a very fun watch about the story of how Michael Jordan signed with Nike as the all-star cast really propels the story forward to make this movie very enjoyable, though it really does not go above and beyond in any way as it is a pretty straightforward biopic with cliche writing (which is kinda the point as it felt like this movie wasn't taking itself too seriously as it was just a couple of friends having fun on a project)"
+}
+release_year: 2023
+review_date: "04/01/2023"
+redux: false
+id: 332
+imdb_id: "tt16419074"
