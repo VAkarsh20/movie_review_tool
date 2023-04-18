@@ -1,31 +1,31 @@
 title: "Joy Ride"
-rating: 1.0
+rating: 6.2
 review {
   direction {
     director {
       name: "Adele Lim"
     }
-    comments: "Direction ()"
+    comments: "Decent Direction (Moves the story in a pretty standard comedic fashion (definitely has the blueprint of more modern Seth Rogen comedies); does get a decent amount of the actors throughout the movie but some of the sequences just felt very similar to other raunchy comedies that nothing feels very new)"
   }
   acting {
     actor {
       name: "Ashley Park"
-      comments: " from Ashley Park ()"
+      comments: "Pretty Good from Ashley Park (As the lead of the movie she does a good job in commanding the scenes she is in and playing the character written for her, she shows some range and is able to be comedic and show emotion when needed)"
     }
     actor {
       name: "Sherry Cola"
-      comments: " from Sherry Cola ()"
+      comments: "Decent to Pretty Good from Sherry Cola (Does her role well as the comedic relief character but her character is only really given so much range to work with; plus her comedy style kinda gets annoying as the movie goes on (though this might just be her character playing too much into her trope))"
     }
     actor {
       name: "Stephanie Hsu"
-      comments: " from Stephanie Hsu ()"
+      comments: "Pretty Good from Stephanie Hsu (Has the most range out of anymore in the cast as she is able to play a two sided character very well)"
     }
     actor {
       name: "Sabrina Wu"
-      comments: " from Sabrina Wu ()"
+      comments: "Decent to Pretty Good from Sabrina Wu (Plays the deadpan character well and gives the most they can despite their character being written with very little emotion)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Decent to Pretty Good from the rest of the cast (No real major flaws in the supporting cast and minor roles)"
+    comments: "Pretty Good Acting"
   }
   story {
     writer {
@@ -37,7 +37,7 @@ review {
     writer {
       name: "Adele Lim"
     }
-    comments: "Story ()"
+    comments: "Decent to Pretty Good Story (The overarching story follows a very similar template that Seth Rogen has created for his 2010s comedies as it is pretty obvious which part of the story we are in and what will happen next (making the movie a bit predictable); though the Asian elements of the story (whether it be her exploring Asian or the characters exploring their asian identity) were a nice fresh touch to the Hollywood comedy as they really did justice to a group that is slowly rising into the mainstream entertainment eye)"
   }
   screenplay {
     writer {
@@ -46,37 +46,34 @@ review {
     writer {
       name: "Teresa Hsiao"
     }
-    comments: "Screenplay ()"
+    comments: "Screenplay (The dialogue overall was pretty standard for comedies of the 2010s; the jokes were very hit or miss because I really enjoyed the Asian specific comedy cause of how relatable it was (at least the jokes that had some overlap with Indian culture) but felt the raunchy/sex comedy was really Amy Schumer esque (so not for me) and there was an over reliance on using Swear words to illicit comedy; symbolism kinda shallow (which is given cause of the formula it follows))"
   }
   score {
     composer {
       name: "Nathan Matthew David"
     }
-    comments: "Score ()"
+    comments: "Decent Score/Decent to Pretty Good Soundtrack (Really used it as an outlet to show Asian pop music rather than have it weave well into the movie (not an issue though))"
   }
   cinematography {
     cinematographer {
       name: "Paul Yee"
     }
-    comments: "Cinematography ()"
+    comments: "Decent Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Decent Sound (Pretty Cartoony similar to how other comedies post 2000 use sound effects)"
   editing {
     editor {
       name: "Nena Erb"
     }
-    comments: "Editing ()"
+    comments: "Decent to Pretty Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Pretty Bad Visual Effects (It is pretty obvious when they added visual effects as it looks a bit tacky and unrealistic)"
+  plot_structure: "Plot Structure was very formulaic to 2010s comedies as it was obvious what part of the movie we were in (follows the Seth Rogen template)"
+  pacing: "Pacing was stead throughout (no need to add or cut screen time)"
+  climax: "Climax was pretty typical of the genre and was pretty predictable overall (which made it not that enjoyable)"
+  tone: "Tone was very Seth Rogen Comedy/2010s Comedy and it kinda really detracted from this movie being good as it did not feel like it was being innovative"
+  final_notes: "A movie not really made for me so the faults I have with the movie on a content basis are more about me not being the intended audience (I could see how an Asian American female would really enjoy this movie"
+  overall: "Overall, a movie that was a decent watch as it follows the standard Seth Rogen/2010s comedy template to bring East Asian female representation to the comedic world, but is ultimately not really made for me as the film is a hit or miss on jokes given I have kinda outgrown the raunchy comedy style and a lot of the jokes were geared towards East Asians (so I could see how the East Asian female demographic would really enjoy this movie)"
 }
 release_year: 2023
 review_date: "03/19/2023"

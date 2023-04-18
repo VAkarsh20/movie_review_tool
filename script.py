@@ -524,30 +524,15 @@ def parse(filename):
 
     path = "movies_textproto/"
     count = 0
-    stack = ["movies_textproto/" + filename]
-
-    d = {}
-
-    end = False
-    while not end:
-        if os.path.exists(path + ("reduxed/" * count) + filename):
-            stack.append(path + ("reduxed/" * count) + filename)
-            count += 1
-    
-    if not os.path.exists(path + ("reduxed/" * count) + filename):
-        os.mkdir(path + ("reduxed/" * count) + filename)
-
     while os.path.exists(path + ("reduxed/" * count) + filename):
-        stack.append(path + ("reduxed/" * count) + filename)
         count += 1
+    
+    if not os.path.exists(path + ("reduxed/" * count)):
+        os.mkdir(path + ("reduxed/" * count))
 
-
-    print(stack)
-    print(count)
     while count > 0:
-        d[path + ("reduxed/" * count) + filename] = stack.pop()
+        os.rename(path + ("reduxed/" * (count - 1)) + filename, path + ("reduxed/" * (count)) + filename)
         count -= 1
-    print(d)
 
 
 
@@ -556,6 +541,19 @@ if __name__=="__main__":
     argc = len(sys.argv)
 
     parse("Zoolander (2001).textproto")
+
+    # Getting all the Titles and Ratings
+    # df = pd.read_csv("movies.csv")
+
+    # filename = "La La Land (2016)"
+    # proto = review_tool.read_proto(filename)
+    # review = review_tool.print_review(proto, filename)
+
+    # df.at[int(proto.id) - 1, 'Rating'] = proto.rating
+    # df.at[int(proto.id) - 1, 'Review'] = review
+    # df.at[int(proto.id) - 1, 'Review Date'] = proto.review_date
+
+    # df.to_csv('movies.csv', index=False)
 
     # df = create_df()
 

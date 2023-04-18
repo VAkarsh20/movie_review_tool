@@ -33,11 +33,21 @@ def initialize_to_sheets(proto):
 
 def post_to_csv(proto, review):
 
-    # If not redux															
-    record = [proto.title, proto.rating, review, proto.release_year, proto.review_date, proto.id, proto.imdb_id]
-    with open("movies.csv", "a") as fd:
-        writer(fd).writerow(record)
-        fd.close()
+    # If not redux
+    if not proto.redux:															
+        record = [proto.title, proto.rating, review, proto.release_year, proto.review_date, proto.id, proto.imdb_id]
+        with open("movies.csv", "a") as fd:
+            writer(fd).writerow(record)
+            fd.close()
+    else:
+        # Getting all the Titles and Ratings
+        df = pd.read_csv("movies.csv")
+
+        df.at[int(proto.id) - 1, 'Rating'] = proto.rating
+        df.at[int(proto.id) - 1, 'Review'] = review
+        df.at[int(proto.id) - 1, 'Review Date'] = proto.review_date
+
+        df.to_csv('movies.csv', index=False)        
 
 def post_to_sheets(proto, review):
 
