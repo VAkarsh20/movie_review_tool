@@ -1,65 +1,57 @@
 title: "Renfield"
-rating: 1.0
+rating: 5.9
 review {
   direction {
     director {
       name: "Chris McKay"
     }
-    comments: "Direction ()"
+    comments: "Decent Direction (Pretty safe and formulaic in its storytelling and direction of actors, but does a good job in the action sequences)"
   }
   acting {
     actor {
       name: "Nicholas Hoult"
-      comments: " from Nicholas Hoult ()"
+      comments: "Pretty Good from Nicholas Hoult (Plays the anxious protagonist pretty well and commands the scenes he is in with a sense of charm)"
     }
     actor {
       name: "Awkwafina"
-      comments: " from Awkwafina ()"
+      comments: "Pretty Bad to Decent from Awkwafina (While her performance isn't bad, it is just pretty corny overall (which can kinda be a fault of the script and not her))"
     }
     actor {
       name: "Ben Schwartz"
-      comments: " from Ben Schwartz ()"
-    }
-    actor {
-      name: "Adrian Martinez"
-      comments: " from Adrian Martinez ()"
-    }
-    actor {
-      name: "Shohreh Aghdashloo"
-      comments: " from Shohreh Aghdashloo ()"
+      comments: "Pretty Bad to Decent from Ben Schwartz (It was just hard to believe him as the villain)"
     }
     actor {
       name: "Nicolas Cage"
-      comments: " from Nicolas Cage ()"
+      comments: "Good from Nicolas Cage (Really brings to life the character as it seems like this version of Dracula was written for him)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Pretty Bad from the rest of the cast"
+    comments: "Pretty Bad to Decent Acting"
   }
   story {
     writer {
       name: "Robert Kirkman"
     }
-    comments: "Story ()"
+    comments: "Decent to Pretty Good Story (Even with a short runtime, it feels like most of the narrative was introduced and wrapped up in a succinct manner; the story was a bit predictable however)"
   }
   screenplay {
     writer {
       name: "Ryan Ridley"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Bad Screenplay (The dialogue was incredibly corny and very predictable at parts; the symbolism and message of the movie was kinda shallow and not really that compelling; foreshadowing was pretty standard)"
   }
   score {
     composer {
       name: "Marco Beltrami"
     }
-    comments: "Score ()"
+    comments: "Decent Score"
   }
   cinematography {
     cinematographer {
       name: "Mitchell Amundsen"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography (Especially in the fight scenes)"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "Ryan Folsey"
@@ -70,18 +62,15 @@ review {
     editor {
       name: "Zene Baker"
     }
-    comments: "Editing ()"
+    comments: "Pretty Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Good Visual Effects (Kinda cartoony/Video Game-esque but I enjoyed it)"
+  plot_structure: "Plot Structure was pretty standard and formulaic; the short runtime forces the movie to really follow a boilerplate to progress the story forward"
+  pacing: "Pacing was incredibly fast because of the short runtime (this then becomes an issue because it does not have time to explore relationships they introduced (like the main love interest); it would have been nice to see 15 minutes added to just slow down the pace)"
+  climax: "Climax was decent as it was a typical fight scene (but executed well)"
+  tone: "Tone was very lighthearted (which made the movie not take itself too seriously)"
+  final_notes: "The narration really took away from the storytelling and made the movie feel more corny; the action scenes were well choreographed and definitely a plus for the movie for how visual they were"
+  overall: "Overall, a movie with memorable performances from Hoult and Cage and well executed action sequences, but has incredibly corny writing and is very formulaic and predictable"
 }
 release_year: 2023
 review_date: "04/17/2023"
