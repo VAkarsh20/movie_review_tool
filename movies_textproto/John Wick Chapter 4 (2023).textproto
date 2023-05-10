@@ -1,0 +1,96 @@
+title: "John Wick: Chapter 4"
+rating: 8.4
+review {
+  direction {
+    director {
+      name: "Chad Stahelski"
+    }
+    comments: "Good Direction (Really improves in his storytelling as he builds a grand action epic to tell this chapter of the saga, filled with stunning fight choreography and improvement in direction of actors)"
+  }
+  acting {
+    actor {
+      name: "Keanu Reeves"
+      comments: "Pretty Good to Good from Keanu Reeves (Still a very reserved performance but really holds his own and comes to life in the more action packed scenes)"
+    }
+    actor {
+      name: "Donnie Yen"
+      comments: "Pretty Good to Good from Donnie Yen (Really gives a multidimensional performance to show a villian you can sympathize (also brings his martial arts charm and charisma in the fight scenes))"
+    }
+    actor {
+      name: "Bill Skarsg\303\245rd"
+      comments: "Decent from Bill Skarsg\303\245rd (Was a fine performance that held his own, but I really could not believe him to be super menacing with the accent he put on)"
+    }
+    actor {
+      name: "Laurence Fishburne"
+      comments: "Pretty Good from Laurence Fishburne (Still has that dynamic performance he is known for the previous movies but is not given that much to work with this time around)"
+    }
+    actor {
+      name: "Hiroyuki Sanada"
+      comments: "Pretty Good to Good from Hiroyuki Sanada (Really was a memorable part of the movie and holds his own very well in both the story and action scenes)"
+    }
+    actor {
+      name: "Rina Sawayama"
+      comments: "Decent to Pretty Good from Rina Sawayama (Held her own pretty well with what she was given)"
+    }
+    actor {
+      name: "Ian McShane"
+      comments: "Pretty Good from Ian McShane (Really shows improvement this time around as he is given more screen time to show more of his character)"
+    }
+    cast: "Decent to Pretty Good from the rest of the cast"
+    comments: "Pretty Good Acting"
+  }
+  story {
+    writer {
+      name: "Shay Hatten"
+    }
+    writer {
+      name: "Michael Finch"
+    }
+    comments: "Good Story (Really has a very polished story that has many moving parts to show the redemption of John Wick, but the issue is there is just too much plot that is kinda drawn out longer than it needs to be)"
+  }
+  screenplay {
+    writer {
+      name: "Shay Hatten"
+    }
+    writer {
+      name: "Michael Finch"
+    }
+    comments: "Pretty Good Screenplay (A real improvement in the screenplay this time as the dialog just feels more natural and flows very nicely between characters (though there are still some hiccups); the screenplay and foreshadowing is very present in this movie (though it kinda feels like they are playing it safe in terms of the foreshadowing))"
+  }
+  score {
+    composer {
+      name: "Tyler Bates"
+    }
+    composer {
+      name: "Joel J. Richard"
+    }
+    comments: "Good to Very Good Score (Actually very memorable this time around as it is pretty present to help with setting tone and is used very well in the fight scenes (especially the club scene))"
+  }
+  cinematography {
+    cinematographer {
+      name: "Dan Laustsen"
+    }
+    comments: "Incredible Cinematography (Really helps with painting a grand epic as the use of different camera angles really helps with showing the world is way bigger than it is; the lighting is also used very well as both the angles and lighting help with making the fight scenes incredible; the climax with the aerial/doll-house angle was some of the best cinematography I have ever seen as it made the fight sequence just jaw-dropping in what they could do)"
+  }
+  sound: "Great Sound"
+  editing {
+    editor {
+      name: "Nathan Orloff"
+    }
+    comments: " Great Editing"
+  }
+  visual_effects: "Great Visual Effects (A real improvement this time around as the use of pyrotechnics and visuals help show the grand nature of the fight scenes)"
+  production_design: "Great Production Design (The sets/areas this time around were so grand that it really helped bring the level of the action sequences as it is just so mesmerizing to watch John Wick navigate through the scenes)"
+  makeup: "Good Makeup (showed the grit and blood of the scenes very well)"
+  plot_structure: "Plot Structure was kinda the biggest issue with the movie as it feels like the rising action is way too long and dragged out (the exposition is a bit longer than expected too); the other aspects of the plot construction are fine"
+  pacing: "Pacing was very slow for a movie that should have been fast-paced (they really dragged out some of the scenes by having unnecessarily elongations; there was also some plot that could have really been cut out); Runtime should have been cut 30 minutes to make the movie more tight and increase the pace to make it more thrilling (something the first three movies actually did a decent job in)"
+  climax: "Climax was incredibly shot as it was a real cinematic experience to see how John Wick was navigating through the scenes"
+  tone: "Tone was a little bit lighter this time (which I did enjoy cause it allowed the movie to be more fun rather than be dark and dingy like the previous movies); the movie also felt a lot like a martial arts movie at times through its asian influences and fight scenes"
+  final_notes: "This movie is going to be a benchmark in how to make action movies as it is a real grand experience in its choreography/visuals/cinematography"
+  overall: "Overall, the best movie of the franchise by far as its use of cinematography, technical elements, and fight choreography make this movie such a fun watch and a benchmark in how to make action movies going forward due to the grand nature of this chapter, but the movie feels very long with its unnecessary cramming of plot and slow pace"
+}
+release_year: 2023
+review_date: "04/20/2023"
+redux: false
+id: 337
+imdb_id: "tt10366206"

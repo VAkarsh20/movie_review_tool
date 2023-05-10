@@ -1,0 +1,77 @@
+title: "John Wick: Chapter 2"
+rating: 6.1
+review {
+  direction {
+    director {
+      name: "Chad Stahelski"
+    }
+    comments: "Bad to Pretty Bad Direction (The choreography of action sequences was very well done (though not as good as the first), but the moving of the story forward and the direction of actors was bad considering how dull the movie really was (a little bit worse than last time))"
+  }
+  acting {
+    actor {
+      name: "Keanu Reeves"
+      comments: "Decent to Pretty Good from Keanu Reeves (Able to handle the action sequences in a great way and is a strong prominent figure throughout the movie (With some good moments in dramatic acting), but has more questionable scenes than last time that may be in fault from the direction/writing he was given (there were were many cringey part this time around))"
+    }
+    actor {
+      name: "Common"
+      comments: "Decent from Common (Kinda just an emotionless assassin, really nothing to go off of or give)"
+    }
+    actor {
+      name: "Laurence Fishburne"
+      comments: "Pretty Good from Laurence Fishburne (Really just pulls from experience in portaying a dynamic character (really feels like he is using the most out of his direction))"
+    }
+    actor {
+      name: "Ruby Rose"
+      comments: "Decent from Ruby Rose (An emotionless performance that really is neither good nor bad)"
+    }
+    cast: "Bad to Pretty Bad from the rest of the cast"
+    comments: "Pretty Bad Acting"
+  }
+  story {
+    writer {
+      name: "Derek Kolstad"
+    }
+    comments: "Pretty Bad Story (The movie just rides off the character's they introduced last time as most of the new elements this time around are not as good and the storytelling is a bit convoluted with the plot itself being more bland and boring)"
+  }
+  screenplay {
+    writer {
+      name: "Derek Kolstad"
+    }
+    comments: "Pretty Bad Screenplay (The dialogue is very bland and pretty cringey overall (though there are some elements that are noteworthy))"
+  }
+  score {
+    composer {
+      name: "Tyler Bates"
+    }
+    composer {
+      name: "Joel J. Richard"
+    }
+    comments: "Pretty Good Score (especially in the club/fight scenes)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Dan Laustsen"
+    }
+    comments: "Good Cinematography"
+  }
+  sound: "Good to Very Good Sound"
+  editing {
+    editor {
+      name: "Evan Schiff"
+    }
+    comments: "Good Editing"
+  }
+  visual_effects: "Good Visual Effects (Especially, when showing the firefights; this came more to light in the big fights this time)"
+  makeup: "Good Makeup (showed the grit and blood of the scenes very well)"
+  plot_structure: "Plot Structure was pretty formulaic overall as it was pretty obvious what part of the plot we were in; the movie also follows a similar structure to the first movie in that it takes a lot from the action-movie boilerplate"
+  pacing: "Pacing was very fast but the runtime is longer this time (so it just kinda feels like there is more plot than there needs to be); Runtime could have been cut 15-20 minutes to reduce some of the redundant plot"
+  climax: "Climax was well executed and a fun part of the movie"
+  tone: "Tone of the movie was very dark and grungy (adds to that John Wick feel); but there is a lot of dryness from the deadpan that it kinda takes away from this (though it is better this time around)"
+  final_notes: "The action sequences are still the reason to watch this movie as they are still well choreographed and fun to watch (though not as good as last time)"
+  overall: "Overall, a movie that is a step back from its predecessor as while it still is a very entertaining action movie (with the sequences making the movie as a whole watchable), the writing and direction this time around is not as good and makes the more dramatic parts of the movie kinda hard to watch (just from how uninteresting it is)"
+}
+release_year: 2017
+review_date: "04/17/2023"
+redux: false
+id: 335
+imdb_id: "tt4425200"

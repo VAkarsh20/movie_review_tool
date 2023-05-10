@@ -1,0 +1,70 @@
+title: "Beau is Afraid"
+rating: 4.9
+review {
+  direction {
+    director {
+      name: "Ari Aster"
+    }
+    comments: "Bad Direction (The whole movie just feels like a mess as scenes really don't flow naturally between each other and Aster relies too much on shock and grotesque than actually tell a compelling story)"
+  }
+  acting {
+    actor {
+      name: "Joaquin Phoenix"
+      comments: "Good from Joaquin Phoenix (The only real standout from the cast as he pulls from experience (particularly Joker) in helping portray the character and his paranoia)"
+    }
+    actor {
+      name: "Nathan Lane"
+      comments: "Pretty Bad from Nathan Lane (His character was just not that well written so it is not entirely his fault)"
+    }
+    actor {
+      name: "Amy Ryan"
+      comments: "Pretty Bad from Amy Ryan (Really does not do a good job in shifting from caring to anger as it just feels forced)"
+    }
+    cast: "Bad from the rest of the cast (it just feels like nobody has experience as all the acting feels forced and unnatural)"
+    comments: "Bad to Pretty Bad Acting"
+  }
+  story {
+    writer {
+      name: "Ari Aster"
+    }
+    comments: "Bad Story (The story is bloated with way too many plot details that it makes the overall product feel very uninteresting; the story becomes pretty predictable after the first hour mark; the plot elements rely on being grotesque and shocking rather than being interesting)"
+  }
+  screenplay {
+    writer {
+      name: "Ari Aster"
+    }
+    comments: "Bad to Pretty Bad Screenplay (The dialogue feels incredibly unnatural, the symbolism and foreshadowing is so shallow that it feels predictable, and the message is never really established or answered; the jokes are more laughable at how questionable they are rather than actually being funny)"
+  }
+  score {
+    composer {
+      name: "Bobby Krlic"
+    }
+    comments: "Pretty Good Score (Used well to help build anxiety throughout the movie)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Pawel Pogorzelski"
+    }
+    comments: "Great to Incredible Cinematography (The best part of the movie as the fast jumps and use of different angles really feel polished and help build suspense)"
+  }
+  sound: "Very Good Sound (Helps with building suspense)"
+  editing {
+    editor {
+      name: "Lucian Johnston"
+    }
+    comments: "Very Good to Great Editing (Helped make the movie feel very polished)"
+  }
+  visual_effects: "Pretty Good to Good Visual Effects (Was good for the most part but the visual effects in the climax were just very questionable)"
+  production_design: "Pretty Good Production Design (The sets were very grand)"
+  plot_structure: "Plot Structure was the biggest issue with the movie as it is just very bloated in plot that the movie starts to become boring at the halfway mark (The rising action could have been cut 40-50 minutes and the exposition could have been cut 10 minutes and the movie would have been the same and tighter)"
+  pacing: "Pacing was very slow despite the movie giving this anxious feeling (something that a shorter runtime could have helped with)"
+  climax: "Climax was very questionable as it is filled with so much shock and grotesque moments that it elicits cringe rather than fear (though there is some anxiety at this part)"
+  tone: "Tone was very anxious/thrilling and this was probably the best part of the movie as it does build anxiety throughout the movie"
+  final_notes: "The movie sets up anxiety well as it does feel very anxious at times; the major issues with this movie is that it tries to be grotesque just to be grotesque (which is an excuse for storytelling in this case)"
+  overall: "Overall, a chaotic mess from a talented director as he fails to direct this poorly constructed horror film as he tries way to hard to be edgy and grotesque rather than actually be a good storyteller with a compelling script, so much to the point that the cinematography/sound/editing and performance by Phoenix cannot save this 3 hour mess from being watchable as it feels more like a waste of time then a compelling watch"
+}
+release_year: 2023
+review_date: "04/24/2023"
+redux: false
+id: 338
+imdb_id: "tt14081570"

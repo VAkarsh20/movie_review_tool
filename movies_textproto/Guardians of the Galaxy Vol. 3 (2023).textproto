@@ -1,0 +1,107 @@
+title: "Guardians of the Galaxy Vol. 3"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "James Gunn"
+    }
+    comments: "Very Good Direction (This movie really shows how comfortable Gunn is at guiding ensemble casts through super hero epics as he pulls from experience to drive the story forward; Gunn also really shows his ability to tell a heartbreaking story by weaving past elements to fuel the present)"
+  }
+  acting {
+    actor {
+      name: "Chris Pratt"
+      comments: "Good from Chris Pratt (Really builds off his experience as the leader of the group as he has his signature charm while showcasing more of his dramatic chops)"
+    }
+    actor {
+      name: "Zoe Saldana"
+      comments: "Pretty Good to Good from Zoe Saldana (Her character is more restricted/rigged this time so she can't really show too much emotion, but she does a good job with what she was given)"
+    }
+    actor {
+      name: "Dave Bautista"
+      comments: "Pretty Good to Good from Dave Bautista"
+    }
+    actor {
+      name: "Karen Gillan"
+      comments: "Pretty Good to Good from Karen Gillan"
+    }
+    actor {
+      name: "Pom Klementieff"
+      comments: "Good from Pom Klementieff"
+    }
+    actor {
+      name: "Vin Diesel"
+      comments: "Good from Vin Diesel"
+    }
+    actor {
+      name: "Bradley Cooper"
+      comments: "Great from Bradley Cooper (Really shows a range of emotions through this vocal performance and displays why he is the real protagonist of the movie)"
+    }
+    actor {
+      name: "Sean Gunn"
+      comments: "Pretty Good from Sean Gunn"
+    }
+    actor {
+      name: "Chukwudi Iwuji"
+      comments: "Decent to Pretty Good from Chukwudi Iwuji (His performance was a bit too over-the-top for me but he definitely shows some good moments (its just he went from 0 to 100 way too often); I also think his character was pretty shallowly written as his backstory/motive is not really addressed that well)"
+    }
+    actor {
+      name: "Will Poulter"
+      comments: "Decent to Pretty Good from Will Poulter (He was fine with the role he was given, its just I do not think his character was written that well)"
+    }
+    actor {
+      name: "Sylvester Stallone"
+      comments: "Good from Sylvester Stallone (That's because he's Sly Stallone, the man)"
+    }
+    cast: "Pretty Good from the rest of the cast"
+    comments: "Pretty Good to Good Acting"
+  }
+  story {
+    writer {
+      name: "James Gunn"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "James Gunn"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Murphy"
+    }
+    comments: "Good Score/ Very Good Soundtrack (while there wasn't a consistent theme as in the other movies, I still liked the song selection (like Creep and Dog Days Are Over))"
+  }
+  cinematography {
+    cinematographer {
+      name: "Henry Braham"
+    }
+    comments: "Very Good Cinematography (Really enjoyed the 360/wide-angle style cinematography in the fight scenes (especially the hallway scene))"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Fred Raskin"
+    }
+    editor {
+      name: "Greg D\'Auria"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "05/07/2023"
+redux: false
+id: 342
+imdb_id: "tt6791350"
