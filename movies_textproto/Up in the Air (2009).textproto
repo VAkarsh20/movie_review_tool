@@ -1,0 +1,86 @@
+title: "Up in the Air"
+rating: 9.0
+review {
+  direction {
+    director {
+      name: "Jason Reitman"
+    }
+    comments: "Very Good Direction (Really gets the most out of his scenes and uses his actors well to help drive the plot forward, though it is a bit safe in its storytelling (just a nature of the type of movie he was making))"
+  }
+  acting {
+    actor {
+      name: "George Clooney"
+      comments: "Great from George Clooney (Really commands all the scenes he is in and uses his natural suave and charm to play the character (which was probably written for him))"
+    }
+    actor {
+      name: "Vera Farmiga"
+      comments: "Very Good from Vera Farmiga (Acts as the real match for Clooney's character (as a somewhat foil) to show how lonely his lifestyle is as he is chasing his goal)"
+    }
+    actor {
+      name: "Anna Kendrick"
+      comments: "Good from Anna Kendrick (Plays the smart, yet naive character well as her scenes with Clooney build chemistry throughout the movie)"
+    }
+    actor {
+      name: "Jason Bateman"
+      comments: "Pretty Good from Jason Bateman"
+    }
+    actor {
+      name: "Danny McBride"
+      comments: "Pretty Good from Danny McBride"
+    }
+    actor {
+      name: "J. K. Simmons"
+      comments: "Pretty Good from J. K. Simmons"
+    }
+    cast: "Pretty Bad to Decent from the rest of the cast (The characters with higher billing were fine but the more minor/extra characters (like those being fired) were very inexperienced and unnatural)"
+    comments: "Pretty Good Acting"
+  }
+  story {
+    writer {
+      name: "Jason Reitman"
+    }
+    writer {
+      name: "Sheldon Turner"
+    }
+    comments: "Very Good Story (The story was laid out nicely with overall concept being very interesting, though the movie does kinda drag a bit in the end with its plot and dealing with the main conflict of love and purpose)"
+  }
+  screenplay {
+    writer {
+      name: "Jason Reitman"
+    }
+    writer {
+      name: "Sheldon Turner"
+    }
+    comments: "Great Screenplay (The dialog flowed very naturally and was very clever and whity (with the jokes being funny despite it being very feel-good); the symbolism is very present and shows a lot about how chasing success can lead to loneliness and loss of purpose; the foreshadowing was good and helps tie ends together at the end)"
+  }
+  score {
+    composer {
+      name: "Rolfe Kent"
+    }
+    comments: "Pretty Good Score/ Decent Soundtrack (Very feel-good and tied to rom-com movies of the time (which shows its age))"
+  }
+  cinematography {
+    cinematographer {
+      name: "Eric Steelberg"
+    }
+    comments: "Good Cinematography"
+  }
+  sound: "Good Sound"
+  editing {
+    editor {
+      name: "Dana E. Glauberman"
+    }
+    comments: "Good Editing (Though a bit simplistic)"
+  }
+  plot_structure: "Plot Structure was laid out decently well with the the rising action really being a great part of the movie as we see how Clooney's character interacts/sees the world (as he masks his own problems); the 20 minutes up to the climax (the wedding part of the movie) does drag a bit and could have been cut a little (though it is necessary to show the relationship he has was Farmiga's character; ending is a bit abrupt)"
+  pacing: "Pacing was a good steady pace up until the last 40 minutes where it gets very slow and then very fast (the runtime could have been kept the same but maybe redistribute this part out a bit to make it more balanced)"
+  climax: "Climax was good as it has many twists and turns to show the true nature of Clooney's character's life (and the direction he wants to now go)"
+  tone: "Tone was very feel-good/Rom-Com which was very good for the time and suited the movie well (but just causes it to be restricted in what it can portray and makes it feel very dated to similar movies of the time)"
+  final_notes: ""
+  overall: "Overall, a well written movie that has a very memorable performance from George Clooney as we get to see him navigate the subject matter in a very captivating way in order to show how striving for success and unattainable goals can lead to loneliness, though it does feel restricted by the tone and storytelling as it makes the movie feel a bit dated from the time"
+}
+release_year: 2009
+review_date: "05/04/2023"
+redux: false
+id: 341
+imdb_id: "tt1193138"
