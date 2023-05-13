@@ -10,6 +10,10 @@ from google.protobuf import text_format
 import sys
 from collections import defaultdict
 import sheets
+import subprocess
+import yaml
+import rotten_tomatoes
+
 
 def get_imdb_id(film):
 
@@ -540,7 +544,18 @@ if __name__=="__main__":
 
     argc = len(sys.argv)
 
-    parse("Zoolander (2001).textproto")
+    rotten_tomatoes.RottenTomatoesBot().login()
+
+    # parse("Zoolander (2001).textproto")
+
+    # subprocess.run(
+    #     ["sudo", "hwclock", "-s"],
+    #     stdout=subprocess.PIPE,
+    #     input=password,
+    #     encoding="ascii")
+
+    # subprocess.run(["sudo", "hwclock", "-s"])
+    # subprocess.run(["export", "DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0"])
 
     # Getting all the Titles and Ratings
     # df = pd.read_csv("movies.csv")

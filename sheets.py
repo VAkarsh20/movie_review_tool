@@ -2,6 +2,7 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import pandas as pd
 from csv import writer
+import subprocess
 
 # sudo hwclock -s
 
@@ -12,6 +13,9 @@ def access_api():
     return gspread.authorize(creds)
 
 def initialize_to_sheets(proto):
+
+    # Reset clock
+    subprocess.run(["sudo", "hwclock", "-s"])
 
     # Accessing API
     client = access_api()
@@ -50,6 +54,9 @@ def post_to_csv(proto, review):
         df.to_csv('movies.csv', index=False)        
 
 def post_to_sheets(proto, review):
+
+    # Reset clock
+    subprocess.run(["sudo", "hwclock", "-s"])
 
     # Accessing API
     client = access_api()
