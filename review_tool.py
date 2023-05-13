@@ -12,6 +12,7 @@ import os
 import wikipedia
 import pandas as pd
 from csv import writer
+import multiprocessing as mp
 
 def get_wiki_info():
 
@@ -386,6 +387,7 @@ if __name__=="__main__":
 
     if argc == 1 or sys.argv[1] == "create_proto":
         if argc > 3 and sys.argv[2] == "redux":
+            subprocess()
             movie = create_proto(True)
             move_redux_reviews("{} ({})".format(movie.title, movie.release_year))
             initialize_to_sheets(movie)
@@ -435,7 +437,14 @@ if __name__=="__main__":
         review = print_review(proto, filename)
         short_review = print_short_review(proto, filename)
 
-        post_to_sheets(proto, review)
-        post_to_letterboxd(proto, short_review)
+        # Post to Sheets and Letterboxd
+        p_sheets = mp.Process(target=post_to_sheets, args=(proto, review))
+        p_letterboxd = mp.Process(target=post_to_letterboxd, args=(proto, short_review))
+
+        p_sheets.start()
+        p_letterboxd.start()
+
+        p_sheets.join()
+        p_letterboxd.join()
     else:
         print("Invalid input. Please try again.")

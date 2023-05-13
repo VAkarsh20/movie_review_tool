@@ -52,6 +52,8 @@ class LetterboxdBot:
 
         self.wait(10)
         self.driver.find_element(By.XPATH, '//*[@id="diary-entry-submit-button"]').click()
+    def quit(self):
+        self.driver.quit()
 
 
 def rating_to_stars(rating):
@@ -124,6 +126,7 @@ def create_letterboxd_csv(proto, short_review):
     df.to_csv("letterboxd_upload.csv", index=False)
 
 def post_to_letterboxd(proto, short_review):
+    
     yml = yaml.safe_load(open('login_details.yml'))
     username = yml['letterboxd']['username']
     password = yml['letterboxd']['password']
@@ -137,6 +140,8 @@ def post_to_letterboxd(proto, short_review):
     if proto.rating >= 8.5:
         letterboxd_bot.liked_film(proto.title)
     os.remove("letterboxd_upload.csv")
+
+    letterboxd_bot.quit()
 
 
 
