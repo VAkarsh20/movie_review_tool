@@ -1,5 +1,5 @@
 title: "Guardians of the Galaxy Vol. 3"
-rating: 1.0
+rating: 8.2
 review {
   direction {
     director {
@@ -59,13 +59,13 @@ review {
     writer {
       name: "James Gunn"
     }
-    comments: "Very Good Story (Does a great job at concluding the trilogy by closing up the lose-ends of many of the characters; the overall plot was well written and entertaining to watch (though it could have been cut just a little bit); the Rocket backstory was incredibly touching and really showed the trauma Rocket had to go through throughout his whole life (even though it could be argued it is a bit simple and relies on the cute animal trope (something I am able to move past given how moving it is)))"
+    comments: "Good Story (Does a great job at concluding the trilogy by closing up the lose-ends of many of the characters; the overall plot was well written and entertaining to watch (though it could have been cut just a little bit); the Rocket backstory was incredibly touching and really showed the trauma Rocket had to go through throughout his whole life (even though it could be argued it is a bit simple and relies on the cute animal trope (something I am able to move past given how moving it is)); the character writing for the villains was not the best because it really does not go into their backstory (so it makes it harder to believe their plight); the movie still does follow a lot of the same marvel trope that hold it back a bit)"
   }
   screenplay {
     writer {
       name: "James Gunn"
     }
-    comments: "Good to Very Good Screenplay (The dialog feels very similar to other movies in the trilogy as it is witty, funny, and touching; the symbolism of the movie is incredibly profound as it really looks into the effects friendships and family have on people (especially with how rigid Rocket is to opening up, the importance of family for Quill, and why Quill is trying to get Gamora back); the foreshadowing was kind a setback in the movie as it is just pretty predictable overall in how safe they go about the movie (I would have liked it to be a bit more depressing/dark to be more profound))"
+    comments: "Good Screenplay (The dialog feels very similar to other movies in the trilogy as it is witty, funny, and touching; the symbolism of the movie is incredibly profound as it really looks into the effects friendships and family have on people (especially with how rigid Rocket is to opening up, the importance of family for Quill, and why Quill is trying to get Gamora back); the foreshadowing was kind a setback in the movie as it is just pretty predictable overall in how safe they go about the movie (I would have liked it to be a bit more depressing/dark to be more profound); still has very Marvel elements to the screenplay that restrict if from going above and beyond)"
   }
   score {
     composer {
@@ -93,12 +93,12 @@ review {
   production_design: "Good Production Design"
   makeup: "Very Good Makeup"
   costumes: "Very Good Costumes"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was good for the most part as all the major points were laid out nicely (but there was a bit too much plot that was not that necessary (like 10-15 minutes could have been cut)); the narrative style of weaving between the past and the present was well done as it helped make Rocket a more multidimensional character"
+  pacing: "Pacing was good for the most part as it stayed a steady pace for most of the movie up until the end (the ending felt incredibly rushed at how abrupt it was (which kinda hurt considering it was meant to wrap up all the storylines for the Guardians))"
+  climax: "Climax was entertaining and fun to watch but still showed many signs of following the Marvel formula (though there was some James Gunn touches on it that made it feel somewhat unique)"
+  tone: "Tone was established very well throughout the movie as it blends the sadder/dramatic parts very well with the more traditional lighthearted/funny moments to show how this installment continues where the previous installments left off while still being unique in its own-right; there still was some signs of it following the Marvel tone"
+  final_notes: "The movie does a good job in helping provide more context to some of the the characters in the previous films (like Rocket) as the backstory presented shows why some of the characters acted in the way they did in the first two installments; this by far was the saddest MCU movie (mainly because of the character writing/backstory of Rocket)"
+  overall: "Overall, a good end to the trilogy that has become a staple in the MCU as James Gunn uses tone/writing/visual effects to build off his previous comedic movies while also creating what might be the saddest/most touching Marvel movie (mainly through the backstory/writing of Rocket), but the movie does fall under the trap many Marvel movies follow as it is a bit too restricted by the predictable MCU boilerplate to be more profound that it is capable of being"
 }
 release_year: 2023
 review_date: "05/07/2023"
