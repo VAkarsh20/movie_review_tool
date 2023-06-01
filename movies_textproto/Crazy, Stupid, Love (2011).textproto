@@ -1,0 +1,90 @@
+title: "Crazy, Stupid, Love"
+rating: 6.3
+review {
+  direction {
+    director {
+      name: "Glenn Ficarra"
+    }
+    director {
+      name: "John Requa"
+    }
+    comments: "Decent Direction (Uses the 2000s/early-2010s Rom-Com template to help drive the story forward, allows the ensemble to use their talents as it seems like they are taking a step back)"
+  }
+  acting {
+    actor {
+      name: "Steve Carell"
+      comments: "Pretty Good from Steve Carell (Plays a very typical Steve Carell character, so pulls a lot from experience to play the role)"
+    }
+    actor {
+      name: "Ryan Gosling"
+      comments: "Pretty Good from Ryan Gosling (Really uses his charm and charisma to guide his performance)"
+    }
+    actor {
+      name: "Julianne Moore"
+      comments: "Decent from Julianne Moore (Is not really given too much material to work with)"
+    }
+    actor {
+      name: "Emma Stone"
+      comments: "Decent from Emma Stone"
+    }
+    actor {
+      name: "John Carroll Lynch"
+      comments: "Decent from John Carroll Lynch"
+    }
+    actor {
+      name: "Marisa Tomei"
+      comments: "Decent from Marisa Tomei"
+    }
+    actor {
+      name: "Kevin Bacon"
+      comments: "Decent from Kevin Bacon"
+    }
+    cast: "Decent from the rest of the cast"
+    comments: "Decent to Pretty Good Acting"
+  }
+  story {
+    writer {
+      name: "Dan Fogelman"
+    }
+    comments: "Pretty Bad to Decent Story (Entertaining story overall as it is a retelling of the makeover story similar Pretty Woman and She's All That, but it does share a lot of the same cliches as well has many of the same faults that Rom-Coms of the time period have (making the movie incredibly predictable); The story does fall apart in the final 30-40 minutes as it becomes incredibly predictable and borderline cringy)"
+  }
+  screenplay {
+    writer {
+      name: "Dan Fogelman"
+    }
+    comments: "Decent Screenplay (Pretty Funny/light-hearted Rom-Com overall with safe dialogue, symbolism is pretty shallow as it follows the same message as many of the Rom-Coms of the era; the foreshadowing was more cliche than anything (which made the movie incredibly predictable))"
+  }
+  score {
+    composer {
+      name: "Christophe Beck"
+    }
+    composer {
+      name: "Nick Urata"
+    }
+    comments: "Decent Score"
+  }
+  cinematography {
+    cinematographer {
+      name: "Andrew Dunn"
+    }
+    comments: "Bad Cinematography (I'm not sure if it was just the way I was viewing it but the filter they were using made the movie feel incredibly blurry as it gave this movie a dream-like feel)"
+  }
+  sound: "Decent Sound"
+  editing {
+    editor {
+      name: "Lee Haxall"
+    }
+    comments: "Decent Editing"
+  }
+  plot_structure: "Plot Structure was pretty boilerplate for a Rom-Com but the final arc (last 30-49) becomes very cliche as it tries to show the 'meaning' of the movie"
+  pacing: "Pacing was decent for the most part but is incredibly rushed in the final 30-40 minutes of the movie (which is kinda sad considering this was where the message of the movie was supposed to be brought out); Runtime was fine (maybe an extra 10 minutes could've helped with the ending)"
+  climax: "Climax was not executed well as it was very cringy and was incredibly formulaic for a Rom-Com"
+  tone: "Tone was very similar to other Rom-Coms of the era"
+  final_notes: ""
+  overall: "Overall, a decent watch that has some memorable moments from the interactions between Ryan Gosling and Steve Carell, but overall is a pretty formulaic Rom-Com that does not have a strong ending considering how predictable the movie gets"
+}
+release_year: 2011
+review_date: "05/25/2023"
+redux: false
+id: 345
+imdb_id: "tt1570728"
