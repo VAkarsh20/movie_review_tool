@@ -1,0 +1,79 @@
+title: "The Machine"
+rating: 6.5
+review {
+  direction {
+    director {
+      name: "Peter Atencio"
+    }
+    comments: "Decent Direction (Safe Storytelling but was surprisingly able to move the story very well, got a good amount of the actors, and set the tone decently well)"
+  }
+  acting {
+    actor {
+      name: "Bert Kreischer"
+      comments: "Pretty Good from Bert Kreischer (Was literally playing himself)"
+    }
+    actor {
+      name: "Mark Hamill"
+      comments: "Pretty Good from Mark Hamill (Pulls a lot from his experience as an actor, but does have good comedic timing)"
+    }
+    actor {
+      name: "Jimmy Tatro"
+      comments: "Pretty Good from Jimmy Tatro (Plays the typical Jimmy Tatro/Frat character)"
+    }
+    actor {
+      name: "Iva Babi\304\207"
+      comments: "Decent to Pretty Good from Iva Babi\304\207 (A real star from the movie as she was able to play the stone-cold killer well and showed some dramatic moments of humanity well; the character was kinda restricted a bit in that were were some corny moments though)"
+    }
+    cast: "Decent from the rest of the cast"
+    comments: "Decent to Pretty Acting"
+  }
+  story {
+    writer {
+      name: "Kevin Biegel"
+    }
+    writer {
+      name: "Scotty Landes"
+    }
+    comments: "Decent Story (Does a good job in interpolating the old machine story into the new one as the past is used to help move the present forward; though does follow a lot of the same cliches other action-comedies have (making the movie very predictable overall))"
+  }
+  screenplay {
+    writer {
+      name: "Kevin Biegel"
+    }
+    writer {
+      name: "Scotty Landes"
+    }
+    comments: "Decent Screenplay (Has a good amount of comedic moments that wer enjoyable to watch/funny to laugh at (though there are some noticeable misses); dialogue is pretty shallow and safe overall; the movie is pretty shallow in its symbolism and foreshadowing)"
+  }
+  score {
+    composer {
+      name: "Joseph Trapanese"
+    }
+    comments: "Decent Score"
+  }
+  cinematography {
+    cinematographer {
+      name: "Eigil Bryld"
+    }
+    comments: "Decent to Pretty Good Cinematography"
+  }
+  sound: "Decent to Pretty Good Sound"
+  editing {
+    editor {
+      name: "Eleanor Infante"
+    }
+    comments: "Decent Editing (I felt the cuts between scenes were kinda choppy (which was kinda a shame cause they could have made the transitions from the present to the past a lot smoother); but I really liked how they edited the text into the screen as it was very unique)"
+  }
+  visual_effects: "Decent to Pretty Good Visual Effects"
+  plot_structure: "Plot Structure was pretty boilerplate as it followed the generic action-comedy template"
+  pacing: "Pacing was steady throughout the whole movie (no need to cut or add any time)"
+  climax: "Climax was executed well as it is a full action sequence that was well choreographed"
+  tone: "Tone was very action-comedy-esque (though really falls more into the comedy part)"
+  final_notes: "the fight scenes were choreographed pretty well (but the scenes at the end were definitely a lot better than the beginning)"
+  overall: "Overall, a surprisingly fun watch as the audience gets to see how the famous Machine story gets interweaved into a action-comedy movie, though it does have its cliche moments that make the movie a bit shallow"
+}
+release_year: 2023
+review_date: "05/25/2023"
+redux: false
+id: 346
+imdb_id: "tt11040844"
