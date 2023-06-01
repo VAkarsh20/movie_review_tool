@@ -1,0 +1,76 @@
+title: "Are You There God? It\'s Me, Margaret."
+rating: 6.6
+review {
+  direction {
+    director {
+      name: "Kelly Fremon Craig"
+    }
+    comments: "Decent Direction (Very safe in its storytelling as it tells the boilerplate coming-of-age story, the actors give fine performances that are very serviceable (nothing too spectacular, but nothing bad))"
+  }
+  acting {
+    actor {
+      name: "Rachel McAdams"
+      comments: "Pretty Good to Good from Rachel McAdams (Really uses her charm and charisma to the role as she really lights up the room and plays a very convincing mother and wife who has a crisis of faith)"
+    }
+    actor {
+      name: "Abby Ryder Fortson"
+      comments: "Pretty Good from Abby Ryder Fortson (Held her own pretty well as the lead and was pretty believable in the character she was portraying)"
+    }
+    actor {
+      name: "Benny Safdie"
+      comments: "Decent from Benny Safdie"
+    }
+    actor {
+      name: "Kathy Bates"
+      comments: "Pretty Good to Good from Kathy Bates (Really just pools from previous characters she has portrayed (kinda felt like she wasn't acting))"
+    }
+    cast: "Decent from the rest of the cast (Does not include child actors)"
+    comments: "Decent to Pretty Good Acting"
+  }
+  story {
+    writer {
+      name: "Kelly Fremon Craig"
+    }
+    comments: "Decent Story (Follows a pretty typical coming-of-age story template, but does keep it interesting with the crisis of faith aspect of the story; the story does fall apart towards the end)"
+  }
+  screenplay {
+    writer {
+      name: "Kelly Fremon Craig"
+    }
+    comments: "Decent Screenplay (The dialogue followed nicely as it was not trying to be profound in any way (was really geared more for a younger, teen audience); the symbolism decently prevalent throughout; the foreshadowing was not trying to be subtle in any way as it was predictable to mimic struggles with adolescence)"
+  }
+  score {
+    composer {
+      name: "Hans Zimmer"
+    }
+    comments: "Pretty Good Score (Why are you scoring this movie Hans, you probably took like a day to make this)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Tim Ives"
+    }
+    comments: "Decent to Pretty Good Cinematography"
+  }
+  sound: "Pretty Good Sound"
+  editing {
+    editor {
+      name: "Nick Moore"
+    }
+    editor {
+      name: "Oona Flaherty"
+    }
+    comments: "Good Editing"
+  }
+  production_design: "Pretty Good Production Design"
+  plot_structure: "Plot Structure was pretty boilerplate for the most part as it followed the generic coming-of-age drama (though it does falter a bit towards the end)"
+  pacing: "Pacing was consistent throughout but is a bit rushed towards the end"
+  climax: "Climax was not executed well at all as it is just incredibly rushed/fast with the actual message being portrayed being both not good and not explained well"
+  tone: "Tone was very 70s with the content following the tone of coming-of-age dramas"
+  final_notes: "I was really not a fan of the message of the movie as it was very shallow and not something that should really be presented to teens looking for answers"
+  overall: "Overall, a decent coming of age story as it follows the typical boilerplate to tell the story, though it does not really go above and beyond in any way and I was really not a fan of the ending/message"
+}
+release_year: 2023
+review_date: "05/16/2023"
+redux: false
+id: 344
+imdb_id: "tt9185206"

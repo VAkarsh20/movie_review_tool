@@ -13,6 +13,7 @@ import wikipedia
 import pandas as pd
 from csv import writer
 import multiprocessing as mp
+import subprocess
 
 def get_wiki_info():
 
@@ -21,6 +22,7 @@ def get_wiki_info():
         try: 
             title = input("What is the film title?\n")
             wiki_title = title.replace(" ", "_")
+
             imdb_id = get_imdb_id(wiki_title)
             infobox = parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
             
@@ -418,6 +420,9 @@ if __name__=="__main__":
         # Get details for post
         proto = read_proto(filename)
         review = print_review(proto, filename)
+
+        # Reset clock
+        subprocess.run(["sudo", "hwclock", "-s"])
         
         post_to_sheets(proto, review)
     elif sys.argv[1] == "post_to_letterboxd":
@@ -436,6 +441,9 @@ if __name__=="__main__":
         proto = read_proto(filename)
         review = print_review(proto, filename)
         short_review = print_short_review(proto, filename)
+
+        # Reset clock
+        subprocess.run(["sudo", "hwclock", "-s"])
 
         # Post to Sheets and Letterboxd
         p_sheets = mp.Process(target=post_to_sheets, args=(proto, review))

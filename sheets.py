@@ -14,9 +14,6 @@ def access_api():
 
 def initialize_to_sheets(proto):
 
-    # Reset clock
-    subprocess.run(["sudo", "hwclock", "-s"])
-
     # Accessing API
     client = access_api()
 
