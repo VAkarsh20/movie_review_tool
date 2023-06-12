@@ -1,0 +1,75 @@
+title: "Past Lives"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Celine Song"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Greta Lee"
+      comments: " from Greta Lee ()"
+    }
+    actor {
+      name: "Teo Yoo"
+      comments: " from Teo Yoo ()"
+    }
+    actor {
+      name: "John Magaro"
+      comments: " from John Magaro ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Celine Song"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Celine Song"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Christopher Bear"
+    }
+    composer {
+      name: "Daniel Rossen"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Shabier Kirchner"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Keith Fraase"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "06/10/2023"
+redux: false
+id: 350
+imdb_id: "tt13238346"

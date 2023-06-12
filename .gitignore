@@ -3,3 +3,6 @@ credentials.json
 
 # Letterboxd login information
 login_details.yml
+
+# Cookies
+imdb_cookies.pkl

@@ -8,6 +8,7 @@ from google.protobuf import text_format
 from sheets import initialize_to_sheets, post_to_sheets
 from datetime import datetime
 from letterboxd import post_to_letterboxd
+from imdb import post_to_imdb
 import os
 import wikipedia
 import pandas as pd
@@ -270,15 +271,8 @@ def print_short_review(proto, filename):
     else:
         return "Rating: {}\n{}.".format(proto.rating, proto.review.overall)
 
-
-def print_review(proto, filename):
-
-    if proto.redux == True and filename != "":
-        return print_redux_review(proto, filename)
-
-    if isinstance(proto, movie_pb2.MovieFree):
-        return proto.review
-
+def combine_review_fields(proto, filename):
+    
     review = []
     
     # Direction
@@ -354,11 +348,37 @@ def print_review(proto, filename):
         review.append(proto.review.final_notes)
 
     review = ", ".join(review)
+    return review
+
+def print_review(proto, filename):
+
+    if proto.redux == True and filename != "":
+        return print_redux_review(proto, filename)
+
+    if isinstance(proto, movie_pb2.MovieFree):
+        return proto.review
+
+    review = combine_review_fields(proto, filename)
     review += ". "
 
     review += proto.review.overall + "."
 
     return review
+
+# Create the review to be put in a format for IMDb
+def print_imdb_review(proto, filename):
+    review = print_short_review(proto, filename)
+
+    if isinstance(proto, movie_pb2.Movie):
+
+        full_review = combine_review_fields(proto, filename)
+
+        review_parts = review.split("\n\n")
+        review_parts.insert(1, "\n\n{}\n\n".format(full_review))
+
+        review = "".join(review_parts)
+
+    return review.rstrip()
 
 def move_redux_reviews(filename):
     
@@ -434,6 +454,16 @@ if __name__=="__main__":
         short_review = print_short_review(proto, filename)
 
         post_to_letterboxd(proto, short_review)
+    elif sys.argv[1] == "post_to_imdb":
+
+        filename = input("What is the name of the movie?\n")
+
+        # Get details for post
+        proto = read_proto(filename)
+        imdb_review = print_imdb_review(proto, filename)
+
+        post_to_imdb(proto, imdb_review)
+        
     elif sys.argv[1] == "post_to_all":
         filename = input("What is the name of the movie?\n")
 
@@ -441,6 +471,7 @@ if __name__=="__main__":
         proto = read_proto(filename)
         review = print_review(proto, filename)
         short_review = print_short_review(proto, filename)
+        imdb_review = print_imdb_review(proto, filename)
 
         # Reset clock
         subprocess.run(["sudo", "hwclock", "-s"])
@@ -448,11 +479,14 @@ if __name__=="__main__":
         # Post to Sheets and Letterboxd
         p_sheets = mp.Process(target=post_to_sheets, args=(proto, review))
         p_letterboxd = mp.Process(target=post_to_letterboxd, args=(proto, short_review))
+        p_imdb = mp.Process(target=post_to_imdb, args=(proto, imdb_review))
 
         p_sheets.start()
         p_letterboxd.start()
+        p_imdb.start()
 
         p_sheets.join()
         p_letterboxd.join()
+        p_imdb.join()
     else:
         print("Invalid input. Please try again.")
