@@ -544,7 +544,13 @@ if __name__=="__main__":
 
     argc = len(sys.argv)
 
-    rotten_tomatoes.RottenTomatoesBot().login()
+
+
+
+
+
+
+    # rotten_tomatoes.RottenTomatoesBot().login()
 
     # parse("Zoolander (2001).textproto")
 
@@ -586,8 +592,6 @@ if __name__=="__main__":
     # sheets.initialize_to_sheets(proto)
 
 
-
-
     # from selenium import webdriver
     # from selenium.webdriver.firefox.service import Service as FirefoxService
     # from webdriver_manager.firefox import GeckoDriverManager
@@ -603,11 +607,3 @@ if __name__=="__main__":
     # driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
 
     # driver.get("https://www.imdb.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.imdb.com%2Fregistration%2Fap-signin-handler%2Fimdb_us&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=imdb_us&openid.mode=checkid_setup&siteState=eyJvcGVuaWQuYXNzb2NfaGFuZGxlIjoiaW1kYl91cyIsInJlZGlyZWN0VG8iOiJodHRwczovL3d3dy5pbWRiLmNvbS8_cmVmXz1sb2dpbiJ9&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&tag=imdbtag_reg-20")
-
-
-    # wait(driver, 10)
-    # username = "vakarsh2000@gmail.com"
-    # password = "kiran888"
-    # driver.find_element(By.XPATH, '//*[@id="ap_email"]').send_keys(username)
-    # driver.find_element(By.XPATH, '//*[@id="ap_password"]').send_keys(password)
-    # driver.find_element(By.XPATH, '//*[@id="signInSubmit"]').click()

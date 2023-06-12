@@ -36,6 +36,7 @@ class LetterboxdBot:
         self.wait(30)
         self.driver.find_element(By.XPATH,"/html/body/div[2]/div/div[1]/a[2]").click()
 
+    # TODO: Fix Bug where it removes like
     def liked_film(self, title):
         
         self.wait(10)
@@ -45,13 +46,29 @@ class LetterboxdBot:
         self.driver.find_element("link text", title).click()
 
         self.wait(10)
-        self.driver.find_element("link text", "Edit or delete this review…").click()
+        self.driver.find_element(By.XPATH, "/html/body/div[2]/div/div/aside/section[1]/ul/li[1]/span[2]/span/span/span").click()
+
+        # Deprecated way
+        # self.wait(10)
+        # self.driver.find_element("link text", "Edit or delete this review…").click()
+
+        # self.wait(10)
+        # self.driver.find_element(By.XPATH, '//*[@id="film-like-checkbox"]').click()
+
+        # self.wait(10)
+        # self.driver.find_element(By.XPATH, '//*[@id="diary-entry-submit-button"]').click()
+    
+    def add_to_cinema_personified_list(self):
+        
+        self.wait(10)
+        self.driver.find_element("link text", "Add this film to lists…").click()
 
         self.wait(10)
-        self.driver.find_element(By.XPATH, '//*[@id="film-like-checkbox"]').click()
+        self.driver.find_element(By.XPATH, '/html/body/div[6]/div[1]/div[2]/div[2]/div[1]/div/form/div[2]/div[1]/label').click()
 
         self.wait(10)
-        self.driver.find_element(By.XPATH, '//*[@id="diary-entry-submit-button"]').click()
+        self.driver.find_element(By.XPATH, '//*[@id="add-to-a-list-modal"]/form/div[3]/div[2]/input').click()
+        
     def quit(self):
         self.driver.quit()
 
@@ -140,6 +157,9 @@ def post_to_letterboxd(proto, short_review):
     if proto.rating >= 8.5:
         letterboxd_bot.liked_film(proto.title)
     os.remove("letterboxd_upload.csv")
+
+    if proto.rating >= 9.5:
+        letterboxd_bot.add_to_cinema_personified_list()
 
     letterboxd_bot.quit()
 
