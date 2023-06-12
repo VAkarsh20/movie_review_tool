@@ -1,0 +1,103 @@
+title: "Spider-Man: Across the Spider-Verse"
+rating: 9.5
+review {
+  direction {
+    director {
+      name: "Joaquim Dos Santos"
+    }
+    director {
+      name: "Kemp Powers"
+    }
+    director {
+      name: "Justin K. Thompson"
+    }
+    comments: "Great to Incredible Direction (Really brings a unique flair to telling story as it takes elements from the previous movie while also adding more mature tones to show a more holistic representation of the Spider-Verse and their characters; Gets a lot more out of the voice actors this time around; creates an even more grand opus of a universe as the fighting and animation are used in conjunction to create such captivating images (building off an already brilliant animation style); the attention to detail in the micro scenes were also nice to see)"
+  }
+  acting {
+    actor {
+      name: "Shameik Moore"
+      comments: "Good from Shameik Moore (Has a very similar performance as the first one, embodies the role of a young Spider-Man navigating different pressures in life)"
+    }
+    actor {
+      name: "Hailee Steinfeld"
+      comments: "Very Good from Hailee Steinfeld (Builds off the last performance very well as she shows more dimensions to the character and really steals the scenes she is in)"
+    }
+    actor {
+      name: "Brian Tyree Henry"
+      comments: "Very Good from Brian Tyree Henry (Continues to give a multi-dimensional vocal performance here as he shows the angry and loving side of being a father; also does a good job in playing the comedic relief in the scenes he is in)"
+    }
+    actor {
+      name: "Luna Lauren V\303\251lez"
+      comments: "Very Good from Luna Lauren V\303\251lez (The biggest improvement from the previous film as she shows so many emotions to display a caring mother who really wants what is best for her son (even if that means letting him go))"
+    }
+    actor {
+      name: "Jake Johnson"
+      comments: "Good to Very Good from Jake Johnson (Shows a bit more range this time around as the element of being a father allows him to be more empathetic to Miles)"
+    }
+    actor {
+      name: "Jason Schwartzman"
+      comments: "Good from Jason Schwartzman (Not too much a menacing villian but does a good job in the scenes he is in)"
+    }
+    actor {
+      name: "Issa Rae"
+      comments: "Good to Very Good from Issa Rae (The force she is in the movie is really displayed through this vocal performance as we how important she is to the Spider-Force)"
+    }
+    actor {
+      name: "Karan Soni"
+      comments: "Good to Very Good from Karan Soni (Really embodies an Indian Spider-Man very well)"
+    }
+    actor {
+      name: "Daniel Kaluuya"
+      comments: "Very Good from Daniel Kaluuya (Steals the scenes he is in as he has somewhat of a loving tension between him and Miles, Kaluuya also seems like he is just pooling from his experience being a British actor)"
+    }
+    actor {
+      name: "Oscar Isaac"
+      comments: "Very Good to Great from Oscar Isaac (The real menacing force of the movie and the true foil for Miles, steals the scenes he is in by showing why he does what he does)"
+    }
+    cast: "Good from the rest of the cast"
+    comments: "Good to Very Good Voice Acting"
+  }
+  story {
+    writer {
+      name: "Phil Lord Christopher Miller"
+    }
+    writer {
+      name: "David Callaham"
+    }
+    comments: "Incredible Story (Really builds from the last movie as they steer away from the template that made the last movie predictable and showed more about Mile's importance in the Spider-Verse; the darker elements of the movie were also great to see included as it shows both the good and the bad of being a Spider-Man (especially about the parallelism in timelines); there are many iconic elements of the story that will eventually be told in pop-culture (like Canon events))"
+  }
+  screenplay {
+    writer {
+      name: "Phil Lord Christopher Miller"
+    }
+    writer {
+      name: "David Callaham"
+    }
+    comments: "Incredible Screenplay (The dialogue this time was more powerful and profound in its meaning as it really touched on the ideas of purpose and growing up; Jokes not as funny this time (which is kinda byproduct of it being more of a serious movie); The symbolism really improves this time around as it is way more evident and really helps in showing the meaning/message of the movie (also the easter eggs were also really nice to see as they help tie the worlds together/are nice things to see); the foreshadowing was an integral part of the movie as it helped show the parallelism between the different worlds and how some events were predictable (also the small details act as important elements for how the story unfolds later on in the movie))"
+  }
+  score {
+    composer {
+      name: "Daniel Pemberton"
+    }
+    comments: "Incredible Score (Builds on an already great score form the first movie as it keeps all the good themes from the first movie while adding new genres to shows the personalities of all the different characters; used very well to help build suspense (especially during the beginning and end with Gwen))/Good Soundtrack (was fine but just not as many hits as the first movie)"
+  }
+  sound: "Great Sound (especially during the fight scenes)"
+  editing {
+    editor {
+      name: "Mike Andrews"
+    }
+    comments: "Incredible to Brilliant Editing (Really build on the last movie as it brought all the worlds together while still keeping that comic book feel as the first movie; the editing strengths were shown very well in the fighting scenes as it helps bring together all this small elements in the macro sized scenes)"
+  }
+  visual_effects: "Brilliant Visual Effects/Animation (Builds off the revolutionary 2D animation style they used in the first movie as they use different animation styles to help give character to the different worlds (with the Gwen world being the most visually appealing through the use of colors); again is used well to help tell the story with the different visual text elements; the animation of the fighting scenes were also stunning as they really showed their full capability in making such beautiful worlds)"
+  plot_structure: "Plot Structure was kinda the biggest fault of this movie just because of the nature of the movie (the movie is one of two parts so its a constant build to a cliffhanger)"
+  pacing: "Pacing was a bit on the slower side (though a better pace than the last movie) as it seems the directors wanted to use the fact that this movie is one of two parts to help build the scenes well without being too fast; Runtime was fine (given this movie is one of two parts, I feel like they used the runtime well to build everything up to a point where you are leaving wanting more)"
+  climax: "Climax was incredible as it was incredibly suspenseful and shows some of the hidden messages of the movie; the movie leaves off in the middle of the climax (creating this cliffhanger that leaves you wanting more)"
+  tone: "Tone was a bit more darker this time (though the beginning is pretty similar to the first movie) as it helps show how Miles has to prove himself in the universe and how he needs to navigate the pressures of being Spider-Man while also growing up"
+  final_notes: "The Indian representation of this movie was a Chef's kiss as it was nice to finally see the largest populated country in the world portrayed in one of the franchises in Pop-Culture (and in a good way as well)"
+  overall: "Overall, another groundbreaking film in the franchise that only builds on everything they created in the previous film as the brilliant animation and incredible writing is used to show the audience a well-rounded story about a Spider-Man who is trying to find his place in the world, with the only major drawback of the movie being that it suffers from the flaws of it being one of two parts"
+}
+release_year: 2023
+review_date: "06/03/2023"
+redux: false
+id: 349
+imdb_id: "tt9362722"
