@@ -13,7 +13,8 @@ import sheets
 import subprocess
 import yaml
 import rotten_tomatoes
-
+import imdb
+import threading
 
 def get_imdb_id(film):
 
@@ -538,13 +539,72 @@ def parse(filename):
         os.rename(path + ("reduxed/" * (count - 1)) + filename, path + ("reduxed/" * (count)) + filename)
         count -= 1
 
+def export_imdb(files):
+    
+    bot = imdb.IMDbBot()
+    bot.login()
+    print()
+    
+    for filename in files:
+        
+        try:
+            proto = review_tool.read_proto(filename)
+            review = review_tool.print_imdb_review(proto, filename)
+            bot.import_review(proto.imdb_id, proto.rating, review)
 
+            if proto.rating >= 9.5:        
+                bot.add_to_cinema_personified_list(proto.imdb_id, proto.title, proto.release_year)
+        except:
+            raise Exception("Issue with {}".format(filename))
+            continue
+
+
+
+def bulk_export_imdb():
+    # df = pd.read_csv("movies.csv")[329:]
+    # files = ["{} ({})".format(df["Title"].iloc[i].replace(":","").replace("/", " "), df["Release Year"].iloc[i]) for i in range(len(df))]
+    files = filter_values()
+
+    # creating thread
+    t1 = threading.Thread(target=export_imdb, args=(files[0:6],))
+    t2 = threading.Thread(target=export_imdb, args=(files[6:12],))
+    t3 = threading.Thread(target=export_imdb, args=(files[12:18],))
+    t4 = threading.Thread(target=export_imdb, args=(files[18:],))
+ 
+    # starting thread 1
+    t1.start()
+    # starting thread 2
+    t2.start()
+    # starting thread 3
+    t3.start()
+    # starting thread 4
+    t4.start()
+ 
+    # wait until thread 1 is completely executed
+    t1.join()
+    # wait until thread 2 is completely executed
+    t2.join()
+    # wait until thread 3 is completely executed
+    t3.join()
+    # wait until thread 4 is completely executed
+    t4.join()
+
+
+def filter_values():
+    df = pd.read_csv("movies.csv")[0:167]
+
+    files = []
+    for i in range(len(df)):
+        record = df.iloc[i]
+        if isinstance(record["Review"], str) and len(record["Review"]) >= 600:
+            files.append("{} ({})".format(record["Title"].replace(":","").replace("/", " "), record["Release Year"]))
+    return files
+    
 
 if __name__=="__main__":
 
     argc = len(sys.argv)
-
-
+    bulk_export_imdb()
 
 
 

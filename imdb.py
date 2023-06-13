@@ -29,16 +29,16 @@ class IMDbBot:
             except Exception as e:
                 print(e)
 
-    def login_and_load_review_page(self, imdb_id):
+    def login(self):
         
         self.driver.get("https://www.imdb.com/")
 
         self.load_cookies()
-        self.wait(10)
-
-        self.driver.get("https://contribute.imdb.com/review/{}/add?".format(imdb_id))
     
-    def import_review(self, rating, review):
+    def import_review(self, imdb_id, rating, review):
+
+        self.wait(10)
+        self.driver.get("https://contribute.imdb.com/review/{}/add?".format(imdb_id))
 
         self.wait(10)
         stars = self.driver.find_elements(By.CLASS_NAME, "ice-star-wrapper")
@@ -171,10 +171,9 @@ def rating_to_tag(rating):
 def post_to_imdb(proto, review):
 
     bot = IMDbBot()
-    bot.login_and_load_review_page(proto.imdb_id)
+    bot.login()
 
-    bot.import_review(proto.rating, review)
-
+    bot.import_review(proto.imdb_id, proto.rating, review)
     if proto.rating >= 9.5:        
         bot.add_to_cinema_personified_list(proto.imdb_id, proto.title, proto.release_year)
 
