@@ -1,0 +1,131 @@
+title: "The Grand Budapest Hotel"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Wes Anderson"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Ralph Fiennes"
+      comments: " from Ralph Fiennes ()"
+    }
+    actor {
+      name: "F. Murray Abraham"
+      comments: " from F. Murray Abraham ()"
+    }
+    actor {
+      name: "Mathieu Amalric"
+      comments: " from Mathieu Amalric ()"
+    }
+    actor {
+      name: "Adrien Brody"
+      comments: " from Adrien Brody ()"
+    }
+    actor {
+      name: "Willem Dafoe"
+      comments: " from Willem Dafoe ()"
+    }
+    actor {
+      name: "Jeff Goldblum"
+      comments: " from Jeff Goldblum ()"
+    }
+    actor {
+      name: "Harvey Keitel"
+      comments: " from Harvey Keitel ()"
+    }
+    actor {
+      name: "Jude Law"
+      comments: " from Jude Law ()"
+    }
+    actor {
+      name: "Bill Murray"
+      comments: " from Bill Murray ()"
+    }
+    actor {
+      name: "Edward Norton"
+      comments: " from Edward Norton ()"
+    }
+    actor {
+      name: "Saoirse Ronan"
+      comments: " from Saoirse Ronan ()"
+    }
+    actor {
+      name: "Jason Schwartzman"
+      comments: " from Jason Schwartzman ()"
+    }
+    actor {
+      name: "L\303\251a Seydoux"
+      comments: " from L\303\251a Seydoux ()"
+    }
+    actor {
+      name: "Tilda Swinton"
+      comments: " from Tilda Swinton ()"
+    }
+    actor {
+      name: "Tom Wilkinson"
+      comments: " from Tom Wilkinson ()"
+    }
+    actor {
+      name: "Owen Wilson"
+      comments: " from Owen Wilson ()"
+    }
+    actor {
+      name: "Tony Revolori"
+      comments: " from Tony Revolori ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Wes Anderson"
+    }
+    writer {
+      name: "Hugo Guinness"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Wes Anderson"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Alexandre Desplat"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Robert Yeoman"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Barney Pilling"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2014
+review_date: "06/28/2023"
+redux: false
+id: 352
+imdb_id: "tt2278388"

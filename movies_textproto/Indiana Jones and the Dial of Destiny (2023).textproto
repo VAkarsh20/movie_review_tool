@@ -1,0 +1,116 @@
+title: "Indiana Jones and the Dial of Destiny"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "James Mangold"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Harrison Ford"
+      comments: " from Harrison Ford ()"
+    }
+    actor {
+      name: "Phoebe Waller-Bridge"
+      comments: " from Phoebe Waller-Bridge ()"
+    }
+    actor {
+      name: "Antonio Banderas"
+      comments: " from Antonio Banderas ()"
+    }
+    actor {
+      name: "John Rhys-Davies"
+      comments: " from John Rhys-Davies ()"
+    }
+    actor {
+      name: "Toby Jones"
+      comments: " from Toby Jones ()"
+    }
+    actor {
+      name: "Boyd Holbrook"
+      comments: " from Boyd Holbrook ()"
+    }
+    actor {
+      name: "Ethann Isidore"
+      comments: " from Ethann Isidore ()"
+    }
+    actor {
+      name: "Mads Mikkelsen"
+      comments: " from Mads Mikkelsen ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Jez Butterworth"
+    }
+    writer {
+      name: "John-Henry Butterworth"
+    }
+    writer {
+      name: "David Koepp"
+    }
+    writer {
+      name: "James Mangold"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Jez Butterworth"
+    }
+    writer {
+      name: "John-Henry Butterworth"
+    }
+    writer {
+      name: "David Koepp"
+    }
+    writer {
+      name: "James Mangold"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Williams"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Phedon Papamichael"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Michael McCusker[1]"
+    }
+    editor {
+      name: "Andrew Buckland[1]"
+    }
+    editor {
+      name: "Dirk Westervelt[1]"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "06/28/2023"
+redux: false
+id: 353
+imdb_id: "tt1462764"

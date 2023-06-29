@@ -1,0 +1,147 @@
+title: "Asteroid City"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Wes Anderson"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Jason Schwartzman"
+      comments: " from Jason Schwartzman ()"
+    }
+    actor {
+      name: "Scarlett Johansson"
+      comments: " from Scarlett Johansson ()"
+    }
+    actor {
+      name: "Tom Hanks"
+      comments: " from Tom Hanks ()"
+    }
+    actor {
+      name: "Jeffrey Wright"
+      comments: " from Jeffrey Wright ()"
+    }
+    actor {
+      name: "Tilda Swinton"
+      comments: " from Tilda Swinton ()"
+    }
+    actor {
+      name: "Bryan Cranston"
+      comments: " from Bryan Cranston ()"
+    }
+    actor {
+      name: "Edward Norton"
+      comments: " from Edward Norton ()"
+    }
+    actor {
+      name: "Adrien Brody"
+      comments: " from Adrien Brody ()"
+    }
+    actor {
+      name: "Liev Schreiber"
+      comments: " from Liev Schreiber ()"
+    }
+    actor {
+      name: "Hope Davis"
+      comments: " from Hope Davis ()"
+    }
+    actor {
+      name: "Stephen Park"
+      comments: " from Stephen Park ()"
+    }
+    actor {
+      name: "Rupert Friend"
+      comments: " from Rupert Friend ()"
+    }
+    actor {
+      name: "Maya Hawke"
+      comments: " from Maya Hawke ()"
+    }
+    actor {
+      name: "Steve Carell"
+      comments: " from Steve Carell ()"
+    }
+    actor {
+      name: "Matt Dillon"
+      comments: " from Matt Dillon ()"
+    }
+    actor {
+      name: "Hong Chau"
+      comments: " from Hong Chau ()"
+    }
+    actor {
+      name: "Willem Dafoe"
+      comments: " from Willem Dafoe ()"
+    }
+    actor {
+      name: "Margot Robbie"
+      comments: " from Margot Robbie ()"
+    }
+    actor {
+      name: "Tony Revolori"
+      comments: " from Tony Revolori ()"
+    }
+    actor {
+      name: "Jake Ryan"
+      comments: " from Jake Ryan ()"
+    }
+    actor {
+      name: "Jeff Goldblum"
+      comments: " from Jeff Goldblum ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Wes Anderson"
+    }
+    writer {
+      name: "Roman Coppola"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Wes Anderson"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Alexandre Desplat"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Robert Yeoman"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Barney Pilling"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "06/28/2023"
+redux: false
+id: 351
+imdb_id: "tt14230388"
