@@ -1,0 +1,89 @@
+title: "No Hard Feelings"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Gene Stupnitsky"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Jennifer Lawrence"
+      comments: " from Jennifer Lawrence ()"
+    }
+    actor {
+      name: "Andrew Barth Feldman"
+      comments: " from Andrew Barth Feldman ()"
+    }
+    actor {
+      name: "Laura Benanti"
+      comments: " from Laura Benanti ()"
+    }
+    actor {
+      name: "Natalie Morales"
+      comments: " from Natalie Morales ()"
+    }
+    actor {
+      name: "Matthew Broderick"
+      comments: " from Matthew Broderick ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Gene Stupnitsky"
+    }
+    writer {
+      name: "John Phillips"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Gene Stupnitsky"
+    }
+    writer {
+      name: "John Phillips"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Mychael Danna"
+    }
+    composer {
+      name: "Jessica Rose Weiss"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Eigil Bryld"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Brent White"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "06/29/2023"
+redux: false
+id: 354
+imdb_id: "tt15671028"
