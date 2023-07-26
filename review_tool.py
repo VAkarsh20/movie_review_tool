@@ -15,6 +15,7 @@ import pandas as pd
 from csv import writer
 import multiprocessing as mp
 import subprocess
+import re
 
 def get_wiki_info():
 
@@ -23,7 +24,7 @@ def get_wiki_info():
         try: 
             title = input("What is the film title?\n")
             wiki_title = title.replace(" ", "_")
-
+            
             imdb_id = get_imdb_id(wiki_title)
             infobox = parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
             
@@ -38,19 +39,20 @@ def get_wiki_info():
     return None, None, None
 
 def get_imdb_id(film):
+    
+    links = " ".join(wikipedia.WikipediaPage(title=film).references)
+    imdb_id = set(re.findall(pattern = "tt[0-9]{7}", string=links))
+    # imdb_id = [x.replace("https://www.imdb.com/title/","").partition("/")[0] for x in links if("https://www.imdb.com/title/" in x)]
 
-    links = wikipedia.WikipediaPage(title=film).references
-    imdb_id = [x.replace("https://www.imdb.com/title/","").partition("/")[0] for x in links if("https://www.imdb.com/title/" in x)]
-
-    if len(imdb_id) > 1 and len(set(imdb_id)) > 1:
+    # if len(imdb_id) > 1 and len(set(imdb_id)) > 1:
+    if len(imdb_id) > 1:
         raise Exception("More than one IMDB link for " + film)
 
-    imdb_id = imdb_id[0]
-    return imdb_id
+    return imdb_id.pop()
 
 # Taken from https://www.geeksforgeeks.org/web-scraping-from-wikipedia-using-python-a-complete-guide/
 def parse_wiki(url):
-
+    
     # get URL
     page = requests.get(url)
     
@@ -70,7 +72,7 @@ def parse_wiki(url):
         key = keys[i].get_text().strip()
         val = vals[i].get_text().strip().split("\n")
         infobox[key] = val
-
+    
     return infobox
 
 
@@ -191,6 +193,9 @@ def create_proto(redux=False):
     
     # Find some of the fields and infobox
     title, imdb_id, infobox = get_wiki_info()
+    if title == None:
+        return
+
     story, screenplay = get_writing(infobox)
 
     # Creating the review object
@@ -407,6 +412,9 @@ if __name__=="__main__":
     
     argc = len(sys.argv)
 
+    # Reset clock
+    subprocess.run(["sudo", "hwclock", "-s"])
+
     if argc == 1 or sys.argv[1] == "create_proto":
         if argc > 3 and sys.argv[2] == "redux":
             subprocess()
@@ -472,9 +480,6 @@ if __name__=="__main__":
         review = print_review(proto, filename)
         short_review = print_short_review(proto, filename)
         imdb_review = print_imdb_review(proto, filename)
-
-        # Reset clock
-        subprocess.run(["sudo", "hwclock", "-s"])
 
         # Post to Sheets and Letterboxd
         p_sheets = mp.Process(target=post_to_sheets, args=(proto, review))

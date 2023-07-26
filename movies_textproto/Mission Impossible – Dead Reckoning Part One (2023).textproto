@@ -1,0 +1,92 @@
+title: "Mission: Impossible \342\200\223 Dead Reckoning Part One"
+rating: 8.2
+review {
+  direction {
+    director {
+      name: "Christopher McQuarrie"
+    }
+    comments: "Good Direction (Does a good job in moving the story forward and getting the most out of his actors; does a very good job in the action sequences as they are well choreographed and shot very well)"
+  }
+  acting {
+    actor {
+      name: "Tom Cruise"
+      comments: "Good to Very Good from Tom Cruise (Plays a lot from experience not only in the character but as an action star as he feels like the biggest charisma in all his scenes and works off of the other characters very well)"
+    }
+    actor {
+      name: "Hayley Atwell"
+      comments: "Good to Very Good from Hayley Atwell (Works off of Tom Cruise very well and does a good job at showing a range of emotions being the female lead (while also holding her own in the action sequences))"
+    }
+    actor {
+      name: "Ving Rhames"
+      comments: "Pretty Good to Good from Ving Rhames"
+    }
+    actor {
+      name: "Simon Pegg"
+      comments: "Good from Simon Pegg (Continues where he left off as the comedic relief character)"
+    }
+    actor {
+      name: "Rebecca Ferguson"
+      comments: "Pretty Good from Rebecca Ferguson"
+    }
+    actor {
+      name: "Vanessa Kirby"
+      comments: "Pretty Good from Vanessa Kirby"
+    }
+    actor {
+      name: "Henry Czerny"
+      comments: "Pretty Good from Henry Czerny"
+    }
+    cast: "Pretty Good from the rest of the cast"
+    comments: "Good Acting"
+  }
+  story {
+    writer {
+      name: "Christopher McQuarrie"
+    }
+    writer {
+      name: "Erik Jendresen"
+    }
+    comments: "Good Story (Follows the Mission Impossible Template as it sets up the conflict and has Ethan Hunt and crew try to solve it (though it is a bit more story dense given it is one of two parts); has elements of the story that due build suspense and uses the action sequences well to help with telling the story; the conflict is a bit convoluted (but not that much))"
+  }
+  screenplay {
+    writer {
+      name: "Christopher McQuarrie"
+    }
+    writer {
+      name: "Erik Jendresen"
+    }
+    comments: "Good Screenplay (The dialogue is good and flows well (pretty typical of other Mission Impossible movies (though this makes it a bit corny at times)); the jokes were weaved in very well throughout the movie and hit most of the time; the symbolism was kinda shallow (not really the purpose of the movie); foreshadowing was pretty prevalent and used well in helping build suspense))"
+  }
+  score {
+    composer {
+      name: "Lorne Balfe"
+    }
+    comments: "Good Score (Carried a lot of the traditional Mission Impossible motifs and was used well in the movie to create suspense)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Fraser Taggart"
+    }
+    comments: "Very Good Cinematography (Used very well in establishing the scenery and the fighting scenes (but there is one POV shot they kept on using that felt very out-of-place/amateurish in comparison to the other angles))"
+  }
+  sound: "Very Good Sound"
+  editing {
+    editor {
+      name: "Eddie Hamilton"
+    }
+    comments: "Very Good Editing"
+  }
+  visual_effects: "Great Visual Effects (More about the practical effects and the stunt coordination as they did a great job in going above and beyond (helping continue the legacy of Tom Cruise outdoing his own stunts))"
+  production_design: "Very Good Production Design (More about where they shot but there were some good sets)"
+  plot_structure: "Plot Structure was very typical of it being the first of two parts but they did a good job in separating what the conflict of this movie is and what the conflict of the next movie is; the movie is a bit story dense and could have been cut a little bit as some of the scenes were longer than they needed to be"
+  pacing: "Pacing was a bit on the slower side given that it has a lot of time to play with given its longer runtime and it being one of two parts (The runtime could have been shorter but then some of the action would have been taken away (though some of the scenes definitely could have been shorter))"
+  climax: "Climax was executed very well as it has the best stunts of the movie and is an anxiety rush in adrenaline in what is happening on-screen"
+  tone: "Tone was very similar to other Mission Impossible/Spy-Action/Tom Cruise movies"
+  final_notes: ""
+  overall: "Overall, a very entertaining watch that is fueled by good acting and great action scenes as Tom Cruise delivers another action-packed Mission Impossible movie, though it is a bit story dense given its runtime and it being one of two parts"
+}
+release_year: 2023
+review_date: "07/06/2023"
+redux: false
+id: 356
+imdb_id: "tt9603212"

@@ -1,0 +1,109 @@
+title: "Barbie"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Greta Gerwig"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Margot Robbie"
+      comments: " from Margot Robbie ()"
+    }
+    actor {
+      name: "Ryan Gosling"
+      comments: " from Ryan Gosling ()"
+    }
+    actor {
+      name: "America Ferrera"
+      comments: " from America Ferrera ()"
+    }
+    actor {
+      name: "Kate McKinnon"
+      comments: " from Kate McKinnon ()"
+    }
+    actor {
+      name: "Michael Cera"
+      comments: " from Michael Cera ()"
+    }
+    actor {
+      name: "Ariana Greenblatt"
+      comments: " from Ariana Greenblatt ()"
+    }
+    actor {
+      name: "Simu Liu"
+      comments: " from Simu Liu ()"
+    }
+    actor {
+      name: "Issa Rae"
+      comments: " from Issa Rae ()"
+    }
+    actor {
+      name: "Rhea Perlman"
+      comments: " from Rhea Perlman ()"
+    }
+    actor {
+      name: "Will Ferrell"
+      comments: " from Will Ferrell ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Greta Gerwig"
+    }
+    writer {
+      name: "Noah Baumbach"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Greta Gerwig"
+    }
+    writer {
+      name: "Noah Baumbach"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Mark Ronson"
+    }
+    composer {
+      name: "Andrew Wyatt"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Rodrigo Prieto"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Nick Houy"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "07/24/2023"
+redux: false
+id: 359
+imdb_id: "tt1517268"

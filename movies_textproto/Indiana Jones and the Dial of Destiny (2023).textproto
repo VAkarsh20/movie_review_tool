@@ -1,47 +1,27 @@
 title: "Indiana Jones and the Dial of Destiny"
-rating: 1.0
+rating: 7.1
 review {
   direction {
     director {
       name: "James Mangold"
     }
-    comments: "Direction ()"
+    comments: "Pretty Good Direction (Does a good on the macro-scale as the big chase scenes and adventure sequences are very Indiana Jones-esque, but the more interpersonal scenes do miss the mark at times (especially some of the scenes between Ford and Waller-Bridge))"
   }
   acting {
     actor {
       name: "Harrison Ford"
-      comments: " from Harrison Ford ()"
+      comments: "Pretty Good to Good from Harrison Ford (Pulls a lot from experience as you can tell there are moments were he really does enjoy being Indiana Jones but there are many others where it feels like he is checked out and only doing this for the paycheck)"
     }
     actor {
       name: "Phoebe Waller-Bridge"
-      comments: " from Phoebe Waller-Bridge ()"
-    }
-    actor {
-      name: "Antonio Banderas"
-      comments: " from Antonio Banderas ()"
-    }
-    actor {
-      name: "John Rhys-Davies"
-      comments: " from John Rhys-Davies ()"
-    }
-    actor {
-      name: "Toby Jones"
-      comments: " from Toby Jones ()"
-    }
-    actor {
-      name: "Boyd Holbrook"
-      comments: " from Boyd Holbrook ()"
-    }
-    actor {
-      name: "Ethann Isidore"
-      comments: " from Ethann Isidore ()"
+      comments: "Decent to Pretty Good from Phoebe Waller-Bridge (A lot of her quirk and charm that she is known for was very hit or miss at moments (but I cannot say I did not like it as a whole); though, her chemistry with Ford was very lacking throughout the movie and kinda brought the movie down a bit)"
     }
     actor {
       name: "Mads Mikkelsen"
-      comments: " from Mads Mikkelsen ()"
+      comments: "Good to Very Good from Mads Mikkelsen (It was as if the role was written for him as he uses his signature villian charm to create a very menacing Indiana Jones villian)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Decent from the rest of the cast (It really was on a spectrum as some actors were pretty good and did a good job but some missed the mark by a lot)"
+    comments: "Decent to Pretty Good Acting"
   }
   story {
     writer {
@@ -56,7 +36,7 @@ review {
     writer {
       name: "James Mangold"
     }
-    comments: "Story ()"
+    comments: "Decent Story (The overarching story as a whole was fine as it follows the pretty standard Indiana Jones template (with homages to the previous films), but the ending was very bad to where it felt that neither the movie nor the trilogy was closed off well)"
   }
   screenplay {
     writer {
@@ -71,43 +51,42 @@ review {
     writer {
       name: "James Mangold"
     }
-    comments: "Screenplay ()"
+    comments: "Decent to Pretty Good Screenplay (The dialogue was fine (but did not feel like it had the typical Indiana Jones charm), the humor was decent (with some jokes hitting but others missing), the symbolism was pretty prevelant but pretty surface level in its meaning, the foreshadowing was more predictable then subverting expectations (as if they were trying to make it as more open-ending than closing the story))"
   }
   score {
     composer {
       name: "John Williams"
     }
-    comments: "Score ()"
+    comments: "Very Good to Great Score (The only element of the movie that has the original Indiana Jones charm as it is used very well throughout the movie)"
   }
   cinematography {
     cinematographer {
       name: "Phedon Papamichael"
     }
-    comments: "Cinematography ()"
+    comments: "Very Good Cinematography (Especially in the action sequences)"
   }
-  sound: "Sound ()"
+  sound: "Decent to Pretty Good Sound (Very Good in the action sequences but it felt like the mixing of dialogue was Pretty Bad as it was hard to hear the cast sometimes)"
   editing {
     editor {
-      name: "Michael McCusker[1]"
+      name: "Michael McCusker"
     }
     editor {
-      name: "Andrew Buckland[1]"
+      name: "Andrew Buckland"
     }
     editor {
-      name: "Dirk Westervelt[1]"
+      name: "Dirk Westervelt"
     }
-    comments: "Editing ()"
+    comments: "Good Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  visual_effects: "Pretty Bad to Decent Visual Effects (It was very evident when they were using CGI as none of it felt really embedded into the movie; the Deep-fake scenes were really in the uncanny valley)"
+  production_design: "Good Production Design"
+  costumes: "Good Costumes (Really helped pay homage to the original Indiana Jones costume)"
+  plot_structure: "Plot Structure was fine as it was very formulaic and that of other Indiana Jones movies; the climax was very short though and could have used like 10-15 more minutes (especially in the second half of the climax)"
+  pacing: "Pacing was fine for the most part (not too fast or slow)"
+  climax: "Climax was the worst part of the movie as the first half was fine but the second half was very stupid and not necessary at all (with it dealing with topics/motifs that really playing to more current trends)"
+  tone: "Tone was similiar to that of other Indiana Jones movies (but felt pretty off as it tried to be more humorous than it needed to be)"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a pretty lackluster sendoff for one of the best characters/franchises in cinema history as many moments are entertaining to see (like the action sequences and Harrison Ford being Indiana Jones), but the lack of chemistry between the two leads and the very bad ending do not do Indiana Jones justice in what is his final ride"
 }
 release_year: 2023
 review_date: "06/28/2023"

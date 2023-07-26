@@ -1,0 +1,96 @@
+title: "Oppenheimer"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Christopher Nolan"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Cillian Murphy"
+      comments: " from Cillian Murphy ()"
+    }
+    actor {
+      name: "Emily Blunt"
+      comments: " from Emily Blunt ()"
+    }
+    actor {
+      name: "Matt Damon"
+      comments: " from Matt Damon ()"
+    }
+    actor {
+      name: "Robert Downey Jr."
+      comments: " from Robert Downey Jr. ()"
+    }
+    actor {
+      name: "Florence Pugh"
+      comments: " from Florence Pugh ()"
+    }
+    actor {
+      name: "Josh Hartnett"
+      comments: " from Josh Hartnett ()"
+    }
+    actor {
+      name: "Casey Affleck"
+      comments: " from Casey Affleck ()"
+    }
+    actor {
+      name: "Rami Malek"
+      comments: " from Rami Malek ()"
+    }
+    actor {
+      name: "Kenneth Branagh"
+      comments: " from Kenneth Branagh ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Christopher Nolan"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Christopher Nolan"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Ludwig G\303\266ransson"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Hoyte van Hoytema"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Jennifer Lame"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "07/24/2023"
+redux: false
+id: 358
+imdb_id: "tt1539877"

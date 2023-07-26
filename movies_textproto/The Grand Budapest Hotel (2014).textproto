@@ -1,83 +1,23 @@
 title: "The Grand Budapest Hotel"
-rating: 1.0
+rating: 8.2
 review {
   direction {
     director {
       name: "Wes Anderson"
     }
-    comments: "Direction ()"
+    comments: "Good Direction (Anderson does a very good job carrying out his macro-scale elements as it really feels like a doll-house (with this being meta given how the story is told) and he uses his very low-budget vfx style to give it a unique/cartoony feel; His storytelling is still very unnecessarily convoluted but it is still decent enough to follow; he gets more out of his actors this time but it still feels pretty bland overall)"
   }
   acting {
     actor {
       name: "Ralph Fiennes"
-      comments: " from Ralph Fiennes ()"
-    }
-    actor {
-      name: "F. Murray Abraham"
-      comments: " from F. Murray Abraham ()"
-    }
-    actor {
-      name: "Mathieu Amalric"
-      comments: " from Mathieu Amalric ()"
-    }
-    actor {
-      name: "Adrien Brody"
-      comments: " from Adrien Brody ()"
-    }
-    actor {
-      name: "Willem Dafoe"
-      comments: " from Willem Dafoe ()"
-    }
-    actor {
-      name: "Jeff Goldblum"
-      comments: " from Jeff Goldblum ()"
-    }
-    actor {
-      name: "Harvey Keitel"
-      comments: " from Harvey Keitel ()"
-    }
-    actor {
-      name: "Jude Law"
-      comments: " from Jude Law ()"
-    }
-    actor {
-      name: "Bill Murray"
-      comments: " from Bill Murray ()"
-    }
-    actor {
-      name: "Edward Norton"
-      comments: " from Edward Norton ()"
-    }
-    actor {
-      name: "Saoirse Ronan"
-      comments: " from Saoirse Ronan ()"
-    }
-    actor {
-      name: "Jason Schwartzman"
-      comments: " from Jason Schwartzman ()"
-    }
-    actor {
-      name: "L\303\251a Seydoux"
-      comments: " from L\303\251a Seydoux ()"
-    }
-    actor {
-      name: "Tilda Swinton"
-      comments: " from Tilda Swinton ()"
-    }
-    actor {
-      name: "Tom Wilkinson"
-      comments: " from Tom Wilkinson ()"
-    }
-    actor {
-      name: "Owen Wilson"
-      comments: " from Owen Wilson ()"
+      comments: "Good to Very Good from Ralph Fiennes (The central figure of the movie as he does a good job of playing off the other characters very well)"
     }
     actor {
       name: "Tony Revolori"
-      comments: " from Tony Revolori ()"
+      comments: "Pretty Good from Tony Revolori (Works off of Fiennes well and holds his own throughout the movie)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Pretty Good from the rest of the cast (Bland overall given its very Wes Anderson in style but they hold their own when called upon)"
+    comments: "Pretty Good to Good Acting"
   }
   story {
     writer {
@@ -86,43 +26,40 @@ review {
     writer {
       name: "Hugo Guinness"
     }
-    comments: "Story ()"
+    comments: "Good Story (The layered story-telling was a bit unnecessary but the movie as a whole did have an interesting story that was explained well)"
   }
   screenplay {
     writer {
       name: "Wes Anderson"
     }
-    comments: "Screenplay ()"
+    comments: "Good Screenplay (The dialogue was a bit on the quirky/bland side but overall was pretty interesting and flowed alright, the jokes were very non sequitur and meta (similiar to other Wes Anderson movies) but they did hit sometimes, symbolism was pretty prevelant throughout and foreshadowing was was a nice touch at points)"
   }
   score {
     composer {
       name: "Alexandre Desplat"
     }
-    comments: "Score ()"
+    comments: "Decent to Pretty Good Score (Pretty simple baroque score that is used decently well throughout the movie to establish the Wes Anderson tone)"
   }
   cinematography {
     cinematographer {
       name: "Robert Yeoman"
     }
-    comments: "Cinematography ()"
+    comments: "Good to Very Good Cinematography (Was Wes Anderson to a Tee from the amount of shots/angle changes, though the grand shots were shot well)"
   }
-  sound: "Sound ()"
+  sound: "Pretty Good Sound"
   editing {
     editor {
       name: "Barney Pilling"
     }
-    comments: "Editing ()"
+    comments: "Good Editing (Helped give it a very story-book cartoony feel (especially with the fast cuts between scenes))"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  production_design: "Very Good Production Design (Very Wes Anderson as it made the movie overall feel like it was in a fantasy/story book world)"
+  plot_structure: "Plot Structure was pretty good for the most part as even though there were 4 layers of story they only really used the last two layers progress it (and did a good job overall laying out the different plot elements); this layered approach however felt very uncessary as the top two layers of storytelling were completely irrelevant as they only really have like 5 minutes of total runtime and are used at the beginning and end"
+  pacing: "Pacing was a bit on the fast side as the narration really makes the movie feel faster than it should be (10-15 minutes towards the end could have helped to slow the pace down)"
+  climax: "Climax was executed well and was somewhat entertaining"
+  tone: "Tone was very Wes Anderson as it was quirky with mixes of non-sequitor humor"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, an enjoyable movie with highlights as Wes Anderson really minimizes the flaws in his storytelling to tell a compelling story through the use of production design and cinematography, but is still held back by his signature quirky dialogue and bland action (along with a pretty short runtime)"
 }
 release_year: 2014
 review_date: "06/28/2023"

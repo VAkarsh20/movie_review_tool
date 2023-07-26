@@ -1,99 +1,35 @@
 title: "Asteroid City"
-rating: 1.0
+rating: 5.5
 review {
   direction {
     director {
       name: "Wes Anderson"
     }
-    comments: "Direction ()"
+    comments: "Pretty Bad to Decent Direction (Anderson carries his very unique style from a macro scale as it feels like the set is a part of a stage/doll-house (which is kinda meta given the subject matter); the main issue with the movie is with the storytelling as the very convoluted and meta (which is Anderson's style), coupled with the very dull acting from the rest of the cast (something that Anderson for sure had a hand in))"
   }
   acting {
     actor {
       name: "Jason Schwartzman"
-      comments: " from Jason Schwartzman ()"
+      comments: "Decent from Jason Schwartzman"
     }
     actor {
       name: "Scarlett Johansson"
-      comments: " from Scarlett Johansson ()"
+      comments: "Decent from Scarlett Johansson"
     }
     actor {
       name: "Tom Hanks"
-      comments: " from Tom Hanks ()"
+      comments: "Decent from Tom Hanks"
     }
     actor {
       name: "Jeffrey Wright"
-      comments: " from Jeffrey Wright ()"
-    }
-    actor {
-      name: "Tilda Swinton"
-      comments: " from Tilda Swinton ()"
+      comments: "Decent from Jeffrey Wright"
     }
     actor {
       name: "Bryan Cranston"
-      comments: " from Bryan Cranston ()"
+      comments: "Decent to Pretty Good from Bryan Cranston (Only actor to show some ounce of emotion)"
     }
-    actor {
-      name: "Edward Norton"
-      comments: " from Edward Norton ()"
-    }
-    actor {
-      name: "Adrien Brody"
-      comments: " from Adrien Brody ()"
-    }
-    actor {
-      name: "Liev Schreiber"
-      comments: " from Liev Schreiber ()"
-    }
-    actor {
-      name: "Hope Davis"
-      comments: " from Hope Davis ()"
-    }
-    actor {
-      name: "Stephen Park"
-      comments: " from Stephen Park ()"
-    }
-    actor {
-      name: "Rupert Friend"
-      comments: " from Rupert Friend ()"
-    }
-    actor {
-      name: "Maya Hawke"
-      comments: " from Maya Hawke ()"
-    }
-    actor {
-      name: "Steve Carell"
-      comments: " from Steve Carell ()"
-    }
-    actor {
-      name: "Matt Dillon"
-      comments: " from Matt Dillon ()"
-    }
-    actor {
-      name: "Hong Chau"
-      comments: " from Hong Chau ()"
-    }
-    actor {
-      name: "Willem Dafoe"
-      comments: " from Willem Dafoe ()"
-    }
-    actor {
-      name: "Margot Robbie"
-      comments: " from Margot Robbie ()"
-    }
-    actor {
-      name: "Tony Revolori"
-      comments: " from Tony Revolori ()"
-    }
-    actor {
-      name: "Jake Ryan"
-      comments: " from Jake Ryan ()"
-    }
-    actor {
-      name: "Jeff Goldblum"
-      comments: " from Jeff Goldblum ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Pretty Bad to Decent from the rest of the cast (The entire cast was very bland and it felt like none of the actors were able to work off of each other (which makes me think Wes Anderson really does not get the most out of his actors))"
+    comments: "Pretty Bad to Decent Acting"
   }
   story {
     writer {
@@ -102,43 +38,41 @@ review {
     writer {
       name: "Roman Coppola"
     }
-    comments: "Story ()"
+    comments: "Pretty Bad Story (The actual story elements were somewhat interesting, but the storytelling as a whole was convoluated for no reason and the meta storytelling of weaving the play with the writing of the play made the mode unnecessarly confusing)"
   }
   screenplay {
     writer {
       name: "Wes Anderson"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Bad Screenplay (The dialogue was incrediblely Wes Anderson but was not really interesting at all, the jokes were incredibly meta/non-sequitor, the symbolism was really faint and not really that compelling as a message, the foreshadowing was present but was also predictable)"
   }
   score {
     composer {
       name: "Alexandre Desplat"
     }
-    comments: "Score ()"
+    comments: "Pretty Bad to Decent Score (was barely even present (which made the movie feel dull overall))"
   }
   cinematography {
     cinematographer {
       name: "Robert Yeoman"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography (Was Wes Anderson to a Tee from the amount of shots/angle changes)"
   }
-  sound: "Sound ()"
+  sound: "Decent Sound"
   editing {
     editor {
       name: "Barney Pilling"
     }
-    comments: "Editing ()"
+    comments: "Decent Editing (Felt incredibly choppy when it was cutting between shots, but was pretty good when transitioning between scenes)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  visual_effects: "Pretty Good Visual Effects (The low-budget feel gives makes it seem as if it is a play (which it is trying to do))"
+  production_design: "Good Production Design (Very Wes Anderson with its use of cheap sets and color palletes (something I do enjoy about his movies))"
+  plot_structure: "Plot Structure was a mess as weaving between the top level narration with the play itself made it unnecessarily confusing with it leaving no room for the main story (the play) to actually develop"
+  pacing: "Pacing was on the faster side as it tried to mimic that of a play (but it felt like there could have been 15-20 minutes of more plot to make the story more interesting)"
+  climax: "Climax was incredibly boring as it did not really feel like anything happened"
+  tone: "Tone was very Wes Anderson as it was quirky with mixes of non-sequitor humor"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a very Wes Anderson movie that misses the mark as his typical confusing storytelling and bland dialogue/acting outweighs his strengths in cinematography and produciton design as the movie just feels very boring and not memorable"
 }
 release_year: 2023
 review_date: "06/28/2023"

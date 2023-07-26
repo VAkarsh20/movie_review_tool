@@ -1,35 +1,35 @@
 title: "No Hard Feelings"
-rating: 1.0
+rating: 6.4
 review {
   direction {
     director {
       name: "Gene Stupnitsky"
     }
-    comments: "Direction ()"
+    comments: "Decent Direction (Moves the story forward in a pretty standard 2000s/early-2010s comedic fashion (follows the makeover/she's all that template); gets a lot out of scenes with the two leads, but really faulters in getting the most out of his actors during scenes involving the more minor characters)"
   }
   acting {
     actor {
       name: "Jennifer Lawrence"
-      comments: " from Jennifer Lawrence ()"
+      comments: "Pretty Good from Jennifer Lawrence (Pulls from more of her personality than an actual character, but does a good job being the lead as she pulls from experience in that front; it did feel like there were some timing issues though)"
     }
     actor {
       name: "Andrew Barth Feldman"
-      comments: " from Andrew Barth Feldman ()"
+      comments: "Good to Very Good from Andrew Barth Feldman (The real star of the show as he embodies the socially-anxious teenage trope really well (especially with his timing and delivery of lines); really has the chance to be the next Michael Cera in awkward comedy roles in the future)"
     }
     actor {
       name: "Laura Benanti"
-      comments: " from Laura Benanti ()"
+      comments: "Decent to Pretty Good from Laura Benanti"
     }
     actor {
-      name: "Natalie Morales"
-      comments: " from Natalie Morales ()"
+      name: "Ebon Moss-Bachrach"
+      comments: "Decent to Pretty Good from Ebon Moss-Bachrach"
     }
     actor {
       name: "Matthew Broderick"
-      comments: " from Matthew Broderick ()"
+      comments: "Decent to Pretty Good from Matthew Broderick"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Pretty Bad from the rest of the cast (It just felt like the rest of the adult cast was not able to play off each other well)"
+    comments: "Decent Acting"
   }
   story {
     writer {
@@ -38,7 +38,7 @@ review {
     writer {
       name: "John Phillips"
     }
-    comments: "Story ()"
+    comments: "Pretty Bad to Decent Story (The exposition of the movie was pretty bland and boring; after the exposition, the story is entertaining as it is a retelling of the makeover story similar to She's All That, but does share a lot of the cliches and faults other Sex comedies and Rom-Coms have from movies of the 2000s/2010s (which makes the movie incredibly predictable); despite it being predictable, the ending does land well and makes the movie feel very wholesome)"
   }
   screenplay {
     writer {
@@ -47,7 +47,7 @@ review {
     writer {
       name: "John Phillips"
     }
-    comments: "Screenplay ()"
+    comments: "Decent Screenplay (Pretty funny movie with more raunchier humor than other movies from the trope (even though there are a good amount of misses, it does hit a good amount of the time); dialgoue flowed decently well throughout the movie (except for the exposition) and especially during the scenes between the two leads; symbolism was pretty non-existent; foreshadowing played a little too much in to the trope of the genre so it just became pretty predictable)"
   }
   score {
     composer {
@@ -56,31 +56,27 @@ review {
     composer {
       name: "Jessica Rose Weiss"
     }
-    comments: "Score ()"
+    comments: "Decent Score/Decent to Pretty Good Soundtrack"
   }
   cinematography {
     cinematographer {
       name: "Eigil Bryld"
     }
-    comments: "Cinematography ()"
+    comments: "Decent Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Decent Sound"
   editing {
     editor {
       name: "Brent White"
     }
-    comments: "Editing ()"
+    comments: "Decent Editing"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  plot_structure: "Plot Structure was fine for the most part as it followed the standard template of the makeover movie from the 2000s/2010s; the exposition was a bit problem for the movie as it just is not exectued well as it moves incredibly fast (leaving no room for jokes to settle)"
+  pacing: "Pacing was a bit of an issue as the exposition is very fast but afterwards the movie is stays at a decent pace (I would have liked to have seen a more consistent pace that could have been helped by having 10 minutes added to the exposition to help build what the conflict is)"
+  climax: "Climax was pretty good"
+  tone: "Tone was very similiar to Rom-coms and makeover movies of the 2000s/early-2010s"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a decent watch overall as the chemistry between the two leads make this movie a funny and entertaining watch, though the audience does have to get through a poorly executed exposition and tropes/cliches from movies of the makeover and Rom-Com genre"
 }
 release_year: 2023
 review_date: "06/29/2023"

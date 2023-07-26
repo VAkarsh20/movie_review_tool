@@ -1,0 +1,92 @@
+title: "Cocaine Bear"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Elizabeth Banks"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Keri Russell"
+      comments: " from Keri Russell ()"
+    }
+    actor {
+      name: "O\'Shea Jackson Jr."
+      comments: " from O\'Shea Jackson Jr. ()"
+    }
+    actor {
+      name: "Christian Convery"
+      comments: " from Christian Convery ()"
+    }
+    actor {
+      name: "Alden Ehrenreich"
+      comments: " from Alden Ehrenreich ()"
+    }
+    actor {
+      name: "Brooklynn Prince"
+      comments: " from Brooklynn Prince ()"
+    }
+    actor {
+      name: "Isiah Whitlock Jr."
+      comments: " from Isiah Whitlock Jr. ()"
+    }
+    actor {
+      name: "Margo Martindale"
+      comments: " from Margo Martindale ()"
+    }
+    actor {
+      name: "Ray Liotta"
+      comments: " from Ray Liotta ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Jimmy Warden"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Jimmy Warden"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Mark Mothersbaugh"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "John Guleserian"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Joel Negron"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "07/24/2023"
+redux: false
+id: 357
+imdb_id: "tt1420991"

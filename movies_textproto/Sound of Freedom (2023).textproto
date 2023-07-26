@@ -1,0 +1,81 @@
+title: "Sound of Freedom"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Alejandro Monteverde"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Jim Caviezel"
+      comments: " from Jim Caviezel ()"
+    }
+    actor {
+      name: "Mira Sorvino"
+      comments: " from Mira Sorvino ()"
+    }
+    actor {
+      name: "Bill Camp"
+      comments: " from Bill Camp ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Rod Barr"
+    }
+    writer {
+      name: "Alejandro Monteverde"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Rod Barr"
+    }
+    writer {
+      name: "Alejandro Monteverde"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Javier Navarrete"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Gorka G\303\263mez"
+    }
+    cinematographer {
+      name: "Andreu Aec"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Brian Scofield"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "07/25/2023"
+redux: false
+id: 361
+imdb_id: "tt7599146"

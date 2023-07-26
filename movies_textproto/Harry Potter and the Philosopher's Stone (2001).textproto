@@ -1,0 +1,116 @@
+title: "Harry Potter and the Philosopher\'s Stone"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Chris Columbus"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Daniel Radcliffe"
+      comments: " from Daniel Radcliffe ()"
+    }
+    actor {
+      name: "Rupert Grint"
+      comments: " from Rupert Grint ()"
+    }
+    actor {
+      name: "Emma Watson"
+      comments: " from Emma Watson ()"
+    }
+    actor {
+      name: "John Cleese"
+      comments: " from John Cleese ()"
+    }
+    actor {
+      name: "Robbie Coltrane"
+      comments: " from Robbie Coltrane ()"
+    }
+    actor {
+      name: "Warwick Davis"
+      comments: " from Warwick Davis ()"
+    }
+    actor {
+      name: "Richard Griffiths"
+      comments: " from Richard Griffiths ()"
+    }
+    actor {
+      name: "Richard Harris"
+      comments: " from Richard Harris ()"
+    }
+    actor {
+      name: "Ian Hart"
+      comments: " from Ian Hart ()"
+    }
+    actor {
+      name: "John Hurt"
+      comments: " from John Hurt ()"
+    }
+    actor {
+      name: "Alan Rickman"
+      comments: " from Alan Rickman ()"
+    }
+    actor {
+      name: "Fiona Shaw"
+      comments: " from Fiona Shaw ()"
+    }
+    actor {
+      name: "Maggie Smith"
+      comments: " from Maggie Smith ()"
+    }
+    actor {
+      name: "Julie Walters"
+      comments: " from Julie Walters ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Steve Kloves"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Steve Kloves"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "John Williams"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "John Seale"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Richard Francis-Bruce"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2001
+review_date: "07/24/2023"
+redux: false
+id: 360
+imdb_id: "tt0241527"

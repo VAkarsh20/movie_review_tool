@@ -1,0 +1,79 @@
+title: "The Matrix"
+rating: 9.1
+review {
+  direction {
+    director {
+      name: "The Wachowskis"
+    }
+    comments: "Very Good Direction (Really builds the world well and progresses the story forward in a unique way, gets the most out of their actors in most of the scenes, and choreographs the fight sequences very well (coupled with their use of Visual Effects to pull it off))"
+  }
+  acting {
+    actor {
+      name: "Keanu Reeves"
+      comments: "Pretty Bad to Decent from Keanu Reeves (Does a pretty good job in the action sequences and really plays off The Chosen One role well, but is pretty bad when it comes to the dramatic elements as he barely shows any emotion and hits a ceiling in where he can go dramatically)"
+    }
+    actor {
+      name: "Laurence Fishburne"
+      comments: "Good to Very Good from Laurence Fishburne (Pulls of the mysterious part of the character very well and really helps guide the story forward in making the audience believe in his cause; also, the teaching scenes with Neo really showcase his talent as he embodies the role of Morpheus very well)"
+    }
+    actor {
+      name: "Carrie-Anne Moss"
+      comments: "Pretty Good to Good from Carrie-Anne Moss (Plays the female lead well and holds her own in the fight sequences as she works well with Neo, kinda falters a bit when it comes to being the love interest)"
+    }
+    actor {
+      name: "Hugo Weaving"
+      comments: "Good from Hugo Weaving (Plays the Android/Sentient-AI role very well as he does not have emotion throughout the movie and acts more like a machine than a human)"
+    }
+    actor {
+      name: "Joe Pantoliano"
+      comments: "Good from Joe Pantoliano (Plays the comedic relief character well and shows the most dimensions in the cast)"
+    }
+    cast: "Decent to Pretty Good from the rest of the cast"
+    comments: "Pretty Good Acting"
+  }
+  story {
+    writer {
+      name: "The Wachowskis"
+    }
+    comments: "Great to Incredible Story (Really a unique story on 'AI is taking over' trope as the directors build a world filled with many idiosyncrasies; the character writing is also great as they create characters that are really interesting and installed into pop culture now; the story is a bit stretched out in terms of plot construction (mainly because this was one of three parts and acts as such))"
+  }
+  screenplay {
+    writer {
+      name: "The Wachowskis"
+    }
+    comments: "Very Good Screenplay (The dialogue was well written for a Sci-Fi movie, the symbolism was pretty present throughout the movie as the film in itself is a metaphor in the relationship between humanity and technology (coupled with what it means to be alive), the foreshadowing was pretty good as it helps set up the importance of Neo)"
+  }
+  score {
+    composer {
+      name: "Don Davis"
+    }
+    comments: "Good Score (fit well into the movie)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Bill Pope"
+    }
+    comments: "Great Cinematography (Helped with establishing the uniqueness of the fight scenes)"
+  }
+  sound: "Very Good Sound (Especially in the fight scenes)"
+  editing {
+    editor {
+      name: "Zach Staenberg"
+    }
+    comments: "Great Editing (Though is kinda dated)"
+  }
+  visual_effects: "Incredible Visual Effects (Very Groundbreaking for the time as it was a key element in making the fight scenes and helping propel this movie into pop culture (though it is a bit dated now))"
+  production_design: "Good Production Design"
+  costumes: "Good Costumes (Especially the trench coats (though this did have a bad influence on society))"
+  plot_structure: "Plot Structure was the biggest issue for the movie as it really set up as if it is the first movie of three parts (so the exposition and rising action are a lot longer than they should be, with the ending kinda feeling rushed and not really having any closure); this is not necessarily a bad thing but does have an impact on how this movie is viewed"
+  pacing: "Pacing was a bit on the slower side as the movie is more about building the world and the ideas rather than having the characters fight the conflict (so no time really needs to be added)"
+  climax: "Climax was the best part of the movie as the audience really gets to see the true power of Neo that is helped by the use of groundbreaking cinematography and visual effects"
+  tone: "Tone was very sci-fi esque with a late 90s twist (with the latter kinda hurting the movie cause it makes it feel a bit dated)"
+  final_notes: ""
+  overall: "Overall, a groundbreaking movie for the time as the good writing and direction coupled with the technical elements really helped propel this movie into mainstream pop-culture, though it does suffer from issues of it being the first part of a trilogy as well as feeling dated at times"
+}
+release_year: 1999
+review_date: "07/05/2023"
+redux: false
+id: 355
+imdb_id: "tt0133093"

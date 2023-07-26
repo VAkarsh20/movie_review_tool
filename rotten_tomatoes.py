@@ -7,25 +7,58 @@ import movie_pb2
 import pandas as pd
 import yaml
 import os
-
+import undetected_chromedriver as uc
+import time
+import pickle
 
 class RottenTomatoesBot:
     def __init__(self):
-        self.driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
+        self.driver = uc.Chrome()
+
+
+    def load_cookies(self):
+        cookies = pickle.load(open("rotten_tomatoes_cookies.pkl", "rb"))
+
+        for cookie in cookies:
+            cookie['domain'] = ".rottentomatoes.com"
+            try:
+                self.driver.add_cookie(cookie)
+            except Exception as e:
+                print(e)
+
 
     def wait(self, seconds):
         self.driver.maximize_window()
         self.driver.implicitly_wait(seconds)
 
+
     def login(self):
         
-        self.driver.get("https://www.rottentomatoes.com/?openLoginModal=true")
+        self.driver.get("https://www.rottentomatoes.com/")
         self.wait(10)
-        self.driver.find_element(By.XPATH, "/html/body/overlay-base/overlay-flows/auth-signup-screen/rt-button[2]").click()
+        # pickle.dump(self.driver.get_cookies(), open("rotten_tomatoes_cookies.pkl", "wb"))
+        self.load_cookies()
+
+    def import_review(self, short_review):
+        
         self.wait(10)
-        self.driver.find_element(By.ID, "cognito-email-input").send_keys("vakarsh2000@gmail.com")
+        self.driver.get("https://www.rottentomatoes.com/m/mean_girls")
         self.wait(10)
-        self.driver.find_element(By.XPATH, "/html/body/overlay-base/overlay-flows/auth-signup-screen/button").click()
+        self.driver.find_element(By.XPATH, '//*[@id="rating-widget-desktop"]/div/section/div[2]/div[1]/div[1]/span/span[4]/span[2]').click()
+        self.wait(20)
+        self.driver.find_element(By.XPATH, '//*[@id="rating-root"]/aside[1]/div/div/div[2]/div/div/textarea').send_keys(short_review)
+        self.wait(20)
+        self.driver.find_element(By.XPATH, '/html/body/div[3]/main/div[1]/section/div[2]/section[1]/div[3]/div/div[2]/aside[1]/div/div/div[3]/button').click()
+        time.sleep(30)
+        self.driver.get("https://www.rottentomatoes.com/m/mean_girls")
+        time.sleep(60)
+        # 
+        # 
+#         self.wait(15)
+#         self.driver.find_element(By.ID, "upload-imdb-import").send_keys("/mnt/c/Users/vakar/personal-repos/movies/movie_review_tool/letterboxd_upload.csv")
+        
+#         self.wait(30)
+#         self.driver.find_element(By.XPATH,"/html/body/div[2]/div/div[1]/a[2]").click()
         
 
         

@@ -604,13 +604,15 @@ def filter_values():
 if __name__=="__main__":
 
     argc = len(sys.argv)
-    bulk_export_imdb()
+    # bulk_export_imdb()
 
+    filename = "Mean Girls (2004)"
+    proto = review_tool.read_proto(filename)
+    short_review = review_tool.print_short_review(proto, filename)
 
-
-
-
-    # rotten_tomatoes.RottenTomatoesBot().login()
+    bot = rotten_tomatoes.RottenTomatoesBot()
+    bot.login()
+    bot.import_review(short_review)
 
     # parse("Zoolander (2001).textproto")
 
