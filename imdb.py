@@ -71,6 +71,8 @@ class IMDbBot:
 
         self.wait(10)
         self.driver.find_element(By.XPATH, '/html/body/div[2]/div/div[2]/div[3]/div[1]/div[1]/button').click()
+
+        self.wait(15)
         
     def quit(self):
         self.driver.quit()
@@ -176,6 +178,8 @@ def post_to_imdb(proto, review):
     bot.import_review(proto.imdb_id, proto.rating, review)
     if proto.rating >= 9.5:        
         bot.add_to_cinema_personified_list(proto.imdb_id, proto.title, proto.release_year)
+
+    # bot.quit()
 
 
 

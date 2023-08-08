@@ -1,8 +1,92 @@
 title: "The Disaster Artist"
-rating: 8.9
-review: ""
+rating: 9.2
+review {
+  direction {
+    director {
+      name: "James Franco"
+    }
+    comments: "Very Good Direction (Tells the story well as he does a good job at taking the source material and bringing it to light (though it is more about The Room than the backstory); gets the most out of his actors they all do a good job at mimicking the performances in one of the greatest movies ever made; does a good job using editing and cinematography to help tell the story as well as it gives it a very artsy feel (which juxtaposes the subject matter))"
+  }
+  acting {
+    actor {
+      name: "James Franco"
+      comments: "Incredible from James Franco (Mimics Tommy Wiseau very well as the imitation was on a tee, also acts as the larger than live presence very well while still including Tommy's mysterious charm)"
+    }
+    actor {
+      name: "Dave Franco"
+      comments: "Good to Very Good from Dave Franco (Pulls a lot from his persona but does a good job in holding his own as co-lead of the movie (working well off his brother))"
+    }
+    actor {
+      name: "Seth Rogen"
+      comments: "Good from Seth Rogen"
+    }
+    actor {
+      name: "Alison Brie"
+      comments: "Good from Alison Brie"
+    }
+    actor {
+      name: "Ari Graynor"
+      comments: "Good from Ari Graynor"
+    }
+    actor {
+      name: "Josh Hutcherson"
+      comments: "Good from Josh Hutcherson"
+    }
+    actor {
+      name: "Jacki Weaver"
+      comments: "Good to Very Good from Jacki Weaver"
+    }
+    cast: "Good from the rest of the cast"
+    comments: "Good to Very Good Acting"
+  }
+  story {
+    writer {
+      name: "Scott Neustadter"
+    }
+    writer {
+      name: "Michael H. Weber"
+    }
+    comments: "Great Story (Does a great job at adapting from the source material as it mimics many of the moments from the book; the major issue with the story though is that it is too short and only focuses on The Room aspects of the book (I would have liked to have seen the backstory arc for Greg and Tommy like it is told in the book))"
+  }
+  screenplay {
+    writer {
+      name: "Scott Neustadter"
+    }
+    writer {
+      name: "Michael H. Weber"
+    }
+    comments: "Great Screenplay (The dialogue helps drive the story forward and is very interesting to see it used in the behind-the-scenes moments of The Room (and how it makes callbacks to the original movie); the jokes were funny as it uses these characters that we barely know (from the Room) and gives them these personalities; the symbolism is very present throughout the movie as it shows the dream of an actor (and how it is even hard to get the smallest of successes))"
+  }
+  score {
+    composer {
+      name: "Dave Porter"
+    }
+    comments: "Good Score"
+  }
+  cinematography {
+    cinematographer {
+      name: "Brandon Trost"
+    }
+    comments: "Great Cinematography (Really shot well and helps give it a very artsy feel when it uses the single cam)"
+  }
+  sound: "Good Sound"
+  editing {
+    editor {
+      name: "Stacey Schroeder"
+    }
+    comments: "Great Editing (Especially how it weaves the original movie with the cast remaking it)"
+  }
+  production_design: "Good Production Design (Does a good job in recreating the movie sets of The Room)"
+  makeup: "Great Makeup (Really helped transform James Franco's face into Tommy Wiseau's)"
+  plot_structure: "Plot Structure was pretty linear and simplistic as it goes from Greg and Tommy meeting each other until the premiere of the movie (which is a shame cause the book is less of a non-linear narrative as this made it more of an interesting read)"
+  pacing: "Pacing was a bit on the faster side cause the runtime was a bit short (I would have liked to have seen 20 minutes added just to include more from the book)"
+  climax: "Climax was an important part of the movie as it shows the toll the movie had on so many of the characters and how they have to get through it to witness the finished product (which becomes a silent blessing)"
+  tone: "Tone was very similar to other artsy comedies with some flair from the traditional Seth Rogan blue-print (though not as much as their other collaborations)"
+  final_notes: "One of the only times where I have read the book before the movie came out (and I like the book more to be honest)"
+  overall: "Overall, a great adaptation to an incredible book as we get to see prominent comedic figures of the time come together to make a great movie about one of the worst movies ever made, paying homage to it in a great way as it is carried out by an incredible performance from James Franco as Tommy Wiseau and great writing to show how the Hollywood business is too competitive"
+}
 release_year: 2017
-review_date: "01/21/2018"
-redux: false
-id: 53
+review_date: "07/24/2023"
+redux: true
+id: 361
 imdb_id: "tt3521126"

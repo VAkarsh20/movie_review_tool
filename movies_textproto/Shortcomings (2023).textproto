@@ -1,0 +1,92 @@
+title: "Shortcomings"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Randall Park"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Justin H. Min"
+      comments: " from Justin H. Min ()"
+    }
+    actor {
+      name: "Sherry Cola"
+      comments: " from Sherry Cola ()"
+    }
+    actor {
+      name: "Ally Maki"
+      comments: " from Ally Maki ()"
+    }
+    actor {
+      name: "Tavi Gevinson"
+      comments: " from Tavi Gevinson ()"
+    }
+    actor {
+      name: "Debby Ryan"
+      comments: " from Debby Ryan ()"
+    }
+    actor {
+      name: "Sonoya Mizuno"
+      comments: " from Sonoya Mizuno ()"
+    }
+    actor {
+      name: "Jacob Batalon"
+      comments: " from Jacob Batalon ()"
+    }
+    actor {
+      name: "Timothy Simons"
+      comments: " from Timothy Simons ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Adrian Tomine"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Adrian Tomine"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Gene Back"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Santiago Gonzalez"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Robert Nassau"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "08/07/2023"
+redux: false
+id: 364
+imdb_id: "tt14483774"

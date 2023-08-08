@@ -1,0 +1,96 @@
+title: "Teenage Mutant Ninja Turtles: Mutant Mayhem"
+rating: 5.4
+review {
+  direction {
+    director {
+      name: "Jeff Rowe"
+    }
+    comments: "Pretty Bad Direction (Moves the story in a pretty formulaic way (so decent); does a pretty good job in the action sequences as they are animated well; the interpersonal scenes feel more awkward as there is just a lot of empty space from it being corny and not relatable; the scenes where they try to drive messages and development forward are pretty shallow and not that meaningful; does not feel like he directed the voice actors well)"
+  }
+  acting {
+    actor {
+      name: "Jackie Chan"
+      comments: "Decent from Jackie Chan (The main issue is I have heard Jackie Chan give better vocal performances than this and it just feels like he wasn't given that great of direction)"
+    }
+    actor {
+      name: "Ice Cube"
+      comments: "Decent to Pretty Good from Ice Cube (The best vocal performance in the movie but feels like he was very limited given the direction and the movie being PG (he wanted to go off and be explicit and it shows))"
+    }
+    actor {
+      name: "Ayo Edebiri"
+      comments: "Decent to Pretty Good from Ayo Edebiri (Does a good job in being the awkward side character and shows some depth and range)"
+    }
+    actor {
+      name: "Giancarlo Esposito"
+      comments: "Decent from Giancarlo Esposito"
+    }
+    actor {
+      name: "Seth Rogen"
+      comments: "Decent from Seth Rogen (Really is not given that much to work with but does a decent job)"
+    }
+    actor {
+      name: "Paul Rudd"
+      comments: "Decent from Paul Rudd (Does a decent job at being the comedic relief for the mutants)"
+    }
+    actor {
+      name: "Maya Rudolph"
+      comments: "Decent from Maya Rudolph (Holds her own decently and does a good job at being a separate menacing antagonist)"
+    }
+    cast: "Pretty Bad from the rest of the cast (Does not include the child voice actors; it just feels like there were so many unmemorable performances in the movie that it was hard to keep up with who was even each character and how relevant they were)"
+    comments: "Pretty Bad to Decent Acting"
+  }
+  story {
+    writer {
+      name: "Brendan O\'Brien"
+    }
+    writer {
+      name: "Seth Rogen"
+    }
+    writer {
+      name: "Evan Goldberg"
+    }
+    writer {
+      name: "Jeff Rowe"
+    }
+    comments: "Pretty Bad Story (The story was pretty formulaic and too short overall; there was not any character development for the principal characters (which is a shame cause its supposed to be a pseudo-origin story); does a decent job at tying the story elements together throughout the movie (like referencing parts from the beginning to help drive the end))"
+  }
+  screenplay {
+    writer {
+      name: "Seth Rogen"
+    }
+    writer {
+      name: "Evan Goldberg"
+    }
+    writer {
+      name: "Jeff Rowe"
+    }
+    writer {
+      name: "Dan Hernandez"
+    }
+    writer {
+      name: "Benji Samit"
+    }
+    comments: "Pretty Bad Screenplay (The dialogue was pretty messy overall (I get the kids were doing improv, but I never wanna hear 'rizz' or 'ocky way' in a movie again (this movie will be cringey and dated in years to come); the attempts at humor missed the mark a lot of times as it came off more as corny than relatable for me; the symbolism was kinda shallow (but they did explain and tie things up well); foreshadowing was kinda decent (but a bit overt) as they used different elements from the beginning to tie things up in the climax)"
+  }
+  score {
+    composer {
+      name: "Trent Reznor"
+    }
+    composer {
+      name: "Atticus Ross"
+    }
+    comments: "Decent Score/Pretty Good Soundtrack (though not very well used at times)"
+  }
+  sound: "Decent Sound"
+  visual_effects: "Pretty Good Visual Effects/Animation (The overall style had some charm to it being less polished and more choppy/comic-book based (which was a stylistic choice that I did enjoy, but there were many times where the dialogue scenes felt too cheap as the mouths of the characters did not match their words); the fight scenes were well animated; the cuts with real-world videos felt very tacky and cheap)"
+  plot_structure: "Plot Structure was pretty formulaic and not that well set up as the movie was a bit too short (the rising action of them coming into their powers and rising as a fighting team was just a short montage (ruining their character development)); it would have been nice to have seen 15 minutes used to help give them more scenes where they learn to become better crime fighters"
+  pacing: "Pacing was fine (the issue is the plot was too short and could use a longer runtime)"
+  climax: "Climax was animated well (but felt a bit corny and predictable)"
+  tone: "Tone was pretty similar to other TMNT property (so a bit childish in its humor mixed with action fighting scenes)"
+  overall: "Overall, a miss in my eyes as the animation style does not make up for its poor execution and writing (with its corny use of modern references and poor plot construction making it too short to leave any profound effect), though children/fans of the TMNT franchise may like this movie more than me"
+}
+release_year: 2023
+review_date: "07/31/2023"
+redux: false
+id: 362
+imdb_id: "tt8589698"

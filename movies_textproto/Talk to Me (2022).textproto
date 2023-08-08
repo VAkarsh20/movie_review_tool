@@ -1,0 +1,91 @@
+title: "Talk to Me"
+rating: 6.7
+review {
+  direction {
+    director {
+      name: "Danny Philippou"
+    }
+    director {
+      name: "Michael Philippou"
+    }
+    comments: "Decent to Pretty Good Direction (Moves the story well as they use mystery of the conflict to help build the suspense; get a good amount of pretty inexpereinced/younger actors (does not feel like cheesy horror movie acting))"
+  }
+  acting {
+    actor {
+      name: "Sophie Wilde"
+      comments: "Pretty Good from Sophie Wilde (Holds her own well as the lead and uses fear and paranoia to help drive her perfomance into being something scary)"
+    }
+    actor {
+      name: "Alexandra Jensen"
+      comments: "Decent to Pretty Good from Alexandra Jensen (Plays the cautious foil best friend to the protagonist and does a decent job holding her own)"
+    }
+    actor {
+      name: "Joe Bird"
+      comments: "Decent to Pretty Good from Joe Bird"
+    }
+    actor {
+      name: "Otis Dhanji"
+      comments: "Decent from Otis Dhanji"
+    }
+    actor {
+      name: "Miranda Otto"
+      comments: "Decent to Pretty Good from Miranda Otto (Plays the mom trope well and instills some comedy into the movie early on)"
+    }
+    actor {
+      name: "Zoe Terakes"
+      comments: "Decent to Pretty Good from Zoe Terakes"
+    }
+    cast: "Decent from the rest of the cast (Everyone plays their role and there are no real bad performances throughout the movie)"
+    comments: "Decent to Pretty Good Acting"
+  }
+  story {
+    writer {
+      name: "Danny Philippou"
+    }
+    writer {
+      name: "Bill Hinzman"
+    }
+    comments: "Decent to Pretty Good Story (Interesting concept and story, and this is driven forward by keeping the conflict mysterious (which makes there be no real conflict resolution (which is fine)); the story elements are good as they really do explain the artifact in a way that it is scary and mysterious; the biggest issue is there is just not that much plot (the movie is very short so it is hard to fully develop all the characters))"
+  }
+  screenplay {
+    writer {
+      name: "Danny Philippou"
+    }
+    writer {
+      name: "Bill Hinzman"
+    }
+    comments: "Decent to Pretty Good Screenplay (Pretty tight writing for a horror movie (not really corny at all and has some allusions to the beginning of the movie to help tie things in the end); jokes are decent and help lighten the mood at points; no really symbolism or bigger message; foreshadowing is decent and helps tie elements from the beginning to the end)"
+  }
+  score {
+    composer {
+      name: "Cornel Wilczek"
+    }
+    comments: "Pretty Good Score (Helps with building suspense)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Aaron McLisky"
+    }
+    comments: "Pretty Good to Good Cinematography (Especially for how low budget it was)"
+  }
+  sound: "Good Sound (Helps with building suspense)"
+  editing {
+    editor {
+      name: "Geoff Lamb"
+    }
+    comments: "Good Editing (Helps make the movie more polished)"
+  }
+  visual_effects: "Pretty Good to Good Visual Effects (Pretty Smooth and seamless for a majority of the movie (but it was very obvious when they were using a Rain Machine in one of the scenes))"
+  makeup: "Pretty Good Makeup (A bit low budget, but helps with creating the grime and horror moments of the movie)"
+  plot_structure: "Plot Structure was pretty standard for a horror movie (but the movie ends with an ambigous climax to help keep the conflict mysterious and unresolved); the runtime is pretty short so 15-20 minutes added to the rising action could help make the conflict a bit more mysterious/scary"
+  pacing: "Pacing was good (not too fast or slow)"
+  climax: "Climax (ends on the climax, which is what it should have done)"
+  tone: "Tone was typical to other supernatural horror movies"
+  final_notes: ""
+  overall: "Overall, a decent horror movie that has its fair share of scares with its mysterious conflict/story and pretty good execution, but the movie is a bit too short and does not really go above and beyond in any way to usher it into a higher echelon of horror movies"
+}
+release_year: 2022
+review_date: "08/02/2023"
+redux: false
+id: 363
+imdb_id: "tt10638522"

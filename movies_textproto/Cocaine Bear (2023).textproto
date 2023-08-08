@@ -1,11 +1,11 @@
 title: "Cocaine Bear"
-rating: 1.0
+rating: 3.9
 review {
   direction {
     director {
       name: "Elizabeth Banks"
     }
-    comments: "Very Bad to Bad Direction (The use of storytelling was lackluster as it was very anticlimatic the way the multiple storylines converged; the meta humor felt very childish as it felt more cheap than funny; did not get anything from the actors as it did not feel like they were playing off each other at all)"
+    comments: "Very Bad to Bad Direction (The use of storytelling was lackluster as it was very anti-climatic the way the multiple storylines converged; the meta humor felt very childish as it felt more cheap than funny; did not get anything from the actors as it did not feel like they were playing off each other at all)"
   }
   acting {
     actor {
@@ -14,7 +14,7 @@ review {
     }
     actor {
       name: "O\'Shea Jackson Jr."
-      comments: "Pretty Bad to Decent from O\'Shea Jackson Jr. (Felt like he was playing the similiar character he has been playing since Straight Outta Compton as it is pretty one-dimensional (though does has some charm and humor at times))"
+      comments: "Pretty Bad to Decent from O\'Shea Jackson Jr. (Felt like he was playing the similar character he has been playing since Straight Outta Compton as it is pretty one-dimensional (though does have some charm and humor at times))"
     }
     actor {
       name: "Alden Ehrenreich"
@@ -26,11 +26,11 @@ review {
     }
     actor {
       name: "Margo Martindale"
-      comments: "Pretty Bad from Margo Martindale (A very emotionalless performance from the movie despite her trying very hard to be shocking for humor (which is a shame cause she is actually very talented))"
+      comments: "Pretty Bad from Margo Martindale (A very emotionless performance from the movie despite her trying very hard to be shocking for humor (which is a shame cause she is actually very talented))"
     }
     actor {
       name: "Ray Liotta"
-      comments: "Decent to Pretty Good from Ray Liotta (Pulls a lot from experience as he plays a character that is very similiar to others he has played recently)"
+      comments: "Decent to Pretty Good from Ray Liotta (Pulls a lot from the experience as he plays a character that is very similar to others he has played recently)"
     }
     cast: "Bad from the rest of the cast (Just filled with many performances that don't work off of each other and inexperience overall (this does not include the child actors though))"
     comments: "Bad Pretty Bad Acting"
@@ -39,13 +39,13 @@ review {
     writer {
       name: "Jimmy Warden"
     }
-    comments: "Story ()"
+    comments: "Pretty Bad Story (Uses parallel storytelling to tell three different stories but does a pretty bad job at having them all converge at the end; the conflict was poorly introduced and poorly resolved; the ending is also incredibly predictable)"
   }
   screenplay {
     writer {
       name: "Jimmy Warden"
     }
-    comments: "Screenplay ()"
+    comments: "Very Bad Screenplay (The dialogue felt very forced and corny, the jokes were not that funny at all as it felt more childish and shocking than actually telling something funny, very shallow overall in terms of symbolism and message)"
   }
   score {
     composer {
@@ -57,7 +57,7 @@ review {
     cinematographer {
       name: "John Guleserian"
     }
-    comments: "Pretty Bad Cinematography (Just felt very amatuerish)"
+    comments: "Pretty Bad Cinematography (Just felt very amateurish)"
   }
   sound: "Pretty Bad Sound"
   editing {
@@ -67,18 +67,16 @@ review {
     comments: "Bad Editing (Felt very cheap)"
   }
   visual_effects: "Bad Visual Effects (The CGI of the bear made it feel very much in the uncanny valley (which is a shame given the animal is the whole point of the movie))"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  makeup: "Decent Makeup (Showing the gore and grime of the adventure)"
+  plot_structure: "Plot Structure was pretty simplistic as it just followed the template of having multiple storylines converge to a climax at the end (nothing that hurts or adds to the film)"
+  pacing: "Pacing was pretty fast as it tries to tell three different stories at once (and has a very short runtime to do so)"
+  climax: "Climax was decent (but the dialogue was a bit corny and the ending was pretty predictable)"
+  tone: "Tone was very similar to other horror comedies (though it tries a lot to be more in the realm of comedy as it tries to make so many jokes (its just none of them are that funny))"
+  final_notes: "The best/funniest thing about this movie is the title"
+  overall: "Overall, a movie that has no redeeming qualities at all as it is poorly written, not funny, and not that well directed as the only thing that is memorable about this movie, in the end, is the title"
 }
 release_year: 2023
 review_date: "07/24/2023"
 redux: false
 id: 357
-imdb_id: "tt1420991"
+imdb_id: "tt14209916"

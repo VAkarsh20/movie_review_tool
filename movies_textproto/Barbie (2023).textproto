@@ -1,55 +1,55 @@
 title: "Barbie"
-rating: 1.0
+rating: 8.3
 review {
   direction {
     director {
       name: "Greta Gerwig"
     }
-    comments: "Direction ()"
+    comments: "Good Direction (Although she does stick to her typical style of filmmaking, she uses a more palatable style of storytelling that incorporates meta humor that does not take itself too seriously to tell her messages; she builds both the Barbie World and the Real World very well; she gets a good amount from her actors (even though it is just so stupid at times what she has them do, an aspect that I kinda enjoyed, to be honest))"
   }
   acting {
     actor {
       name: "Margot Robbie"
-      comments: " from Margot Robbie ()"
+      comments: "Good to Very Good from Margot Robbie (Uses more of her experience as an actor and celebrity to play the role as she polls from many aspects of her career to create a multi-dimensional version of a once very shallow character)"
     }
     actor {
       name: "Ryan Gosling"
-      comments: " from Ryan Gosling ()"
+      comments: "Very Good from Ryan Gosling (The real comedic relief of the movie as he steals the show in all his scenes with how silly and stupid he is; he is also a big driver of morality throughout the movie as he shows how the oppressed feel once they gain some ounce of power)"
     }
     actor {
       name: "America Ferrera"
-      comments: " from America Ferrera ()"
+      comments: "Good from America Ferrera (Does well in her scenes and acts as the moral compass throughout the movie (bridging the divide between the Barbies and the Kens))"
     }
     actor {
       name: "Kate McKinnon"
-      comments: " from Kate McKinnon ()"
+      comments: "Pretty Good from Kate McKinnon (Plays the typical role she is used to playing)"
     }
     actor {
       name: "Michael Cera"
-      comments: " from Michael Cera ()"
+      comments: "Pretty Good to Good from Michael Cera (The role of Allan was specifically written for him and he did his best embodying it)"
     }
     actor {
       name: "Ariana Greenblatt"
-      comments: " from Ariana Greenblatt ()"
+      comments: "Pretty Good from Ariana Greenblatt (Plays her role well and acts as the youthful voice in the movie)"
     }
     actor {
       name: "Simu Liu"
-      comments: " from Simu Liu ()"
+      comments: "Pretty Good from Simu Liu"
     }
     actor {
       name: "Issa Rae"
-      comments: " from Issa Rae ()"
+      comments: "Pretty Good from Issa Rae"
     }
     actor {
       name: "Rhea Perlman"
-      comments: " from Rhea Perlman ()"
+      comments: "Pretty Good from Rhea Perlman"
     }
     actor {
       name: "Will Ferrell"
-      comments: " from Will Ferrell ()"
+      comments: "Pretty Good to Good from Will Ferrell (Uses his experience as it is as if the role was written for him)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Pretty Good from the rest of the cast"
+    comments: "Pretty Good to Good Acting"
   }
   story {
     writer {
@@ -58,7 +58,7 @@ review {
     writer {
       name: "Noah Baumbach"
     }
-    comments: "Story ()"
+    comments: "Pretty Good Story (Pretty simplistic overall as it follows a pretty standard template but it pays homage to many different movies and is laid out well; the ending was pretty predictable though (and kinda feels like they didn't close up some of the messages they were trying to present))"
   }
   screenplay {
     writer {
@@ -67,7 +67,7 @@ review {
     writer {
       name: "Noah Baumbach"
     }
-    comments: "Screenplay ()"
+    comments: "Good Screenplay (Dialogue flows well (even though it is a bit on the nose/meta); jokes were surprisingly funny and helped make swallowing the message easier; the symbols and messages of the movie are taught throughout the movie and done so in a very easy way to understand given how overt they were (which is good cause there are surprisingly many nuances to them despite the subject matter/how it is told); foreshadowing was somewhat there but not as good as it could have been)"
   }
   score {
     composer {
@@ -76,31 +76,30 @@ review {
     composer {
       name: "Andrew Wyatt"
     }
-    comments: "Score ()"
+    comments: "Pretty Good Score/Very Good Soundtrack (More of a soundtrack than a score-based movie)"
   }
   cinematography {
     cinematographer {
       name: "Rodrigo Prieto"
     }
-    comments: "Cinematography ()"
+    comments: "Good to Very Good Cinematography (Really enjoyed the shots they used in Barbieland as it helps give it a cartoony yet cheap feel)"
   }
-  sound: "Sound ()"
+  sound: "Good Sound"
   editing {
     editor {
       name: "Nick Houy"
     }
-    comments: "Editing ()"
+    comments: "Very Good Editing (Really enjoyed the assembly line shots in Barbieland as it helped give it a simulation feel)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  visual_effects: "Good Visual Effects"
+  production_design: "Great Production Design (Really what makes the movie as the sets were great to look at with its cheap feel and how pink they were (giving a very big doll-house vibe))"
+  costumes: "Very Good to Great Costumes (Really help give the Barbie feel of the movie as they fit the doll vibe and help bring color and flavor to the movie)"
+  plot_structure: "Plot Structure was pretty simplistic overall as it follows a pretty standard template (similar to that of a coming-of-age/trying to save your village type of movie)"
+  pacing: "Pacing was good as it was not too fast or slow (no need to cut or add any content)"
+  climax: "Climax was decently executed as it shows some resolution in the conflict (but it does not do that great of a job tying up all the loose ends as it feels kinda forced)"
+  tone: "Tone was very cartoony/Barbie as it did a really good job at establishing this throughout the movie; there were also many different flavors of Greta Gerwig's style that were mixed throughout this movie"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a feminist powerhouse of a movie as Greta Gerwig exceeded my expectations to create a very fun movie to watch as it is filled with an enjoyable cast, funny jokes, and memorable production design, costumes, and soundtrack as the movie tells many different messages about self-image and societal power, even though it is very on-the-nose about it and does not tie up all the loose ends"
 }
 release_year: 2023
 review_date: "07/24/2023"

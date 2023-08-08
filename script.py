@@ -15,6 +15,7 @@ import yaml
 import rotten_tomatoes
 import imdb
 import threading
+import re
 
 def get_imdb_id(film):
 
@@ -342,6 +343,7 @@ def parse_review(df, filename):
         text_proto = text_format.MessageToString(proto)
         fd.write(text_proto)
 
+
 def add_id(df, start_idx):
 
     # read_proto(filename)
@@ -601,18 +603,79 @@ def filter_values():
     return files
 
 
+def get_wiki_info():
+
+    # Parse Wikipedia
+    while True:
+        try: 
+            title = input("What is the film title?\n")
+            wiki_title = title.replace(" ", "_")
+            
+            imdb_id = get_imdb_id(wiki_title)
+            infobox = parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
+            
+            # Change the film title if it has a (film) tag end the end of the wikipedia search
+            if title.endswith("film)"):
+                title = title[:title.rfind(' (')]
+            
+            return title, imdb_id, infobox
+        except:
+            print("Film not found. Please try again.")
+            break
+    return None, None, None
+
+def get_imdb_id(film):
+    
+    links = " ".join(wikipedia.WikipediaPage(title=film).references)
+    imdb_id = set(re.findall(pattern = "tt[0-9]+", string=links))
+    # imdb_id = [x.replace("https://www.imdb.com/title/","").partition("/")[0] for x in links if("https://www.imdb.com/title/" in x)]
+
+    # if len(imdb_id) > 1 and len(set(imdb_id)) > 1:
+    if len(imdb_id) > 1:
+        raise Exception("More than one IMDB link for " + film)
+
+    return imdb_id.pop()
+
+def list_of_reviews_changed():
+    df = pd.read_csv("movies.csv")
+    df = df.loc[(df["Rating"] > 1.2) & (df["Rating"] < 9.0)]
+    df.to_csv('movies_temp.csv', index=False) 
+    print(df)
+
+def reduced_rating(val):
+    if val >= 1.5 and val <= 2.0:
+        return val - 0.2
+    elif val >= 2.5 and val <= 3.9:
+        return val - 0.6
+    elif val >= 4.0 and val <= 4.9:
+        return val - 0.5
+    elif val >= 5.0 and val <= 6.4:
+        return val - 0.4
+    elif val >= 6.5 and val <= 7.6:
+        return val - 0.3
+    elif val >= 7.7 and val <= 8.4:
+        return val - 0.2
+    elif val >= 8.5 and val <= 8.9:
+        return val - 0.1
+    else:
+        return val
+    
+
 if __name__=="__main__":
 
     argc = len(sys.argv)
+    list_of_reviews_changed()
+    
     # bulk_export_imdb()
 
-    filename = "Mean Girls (2004)"
-    proto = review_tool.read_proto(filename)
-    short_review = review_tool.print_short_review(proto, filename)
+    # filename = "Mean Girls (2004)"
+    # proto = review_tool.read_proto(filename)
+    # short_review = review_tool.print_short_review(proto, filename)
 
-    bot = rotten_tomatoes.RottenTomatoesBot()
-    bot.login()
-    bot.import_review(short_review)
+    # bot = rotten_tomatoes.RottenTomatoesBot()
+    # bot.login()
+    # bot.import_review(short_review)
+
 
     # parse("Zoolander (2001).textproto")
 

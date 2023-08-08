@@ -16,12 +16,13 @@ from csv import writer
 import multiprocessing as mp
 import subprocess
 import re
+import copy
 
 def get_wiki_info():
-
+    
     # Parse Wikipedia
     while True:
-        try: 
+        try:
             title = input("What is the film title?\n")
             wiki_title = title.replace(" ", "_")
             
@@ -41,7 +42,7 @@ def get_wiki_info():
 def get_imdb_id(film):
     
     links = " ".join(wikipedia.WikipediaPage(title=film).references)
-    imdb_id = set(re.findall(pattern = "tt[0-9]{7}", string=links))
+    imdb_id = set(re.findall(pattern = "tt[0-9]+", string=links))
     # imdb_id = [x.replace("https://www.imdb.com/title/","").partition("/")[0] for x in links if("https://www.imdb.com/title/" in x)]
 
     # if len(imdb_id) > 1 and len(set(imdb_id)) > 1:
@@ -65,7 +66,7 @@ def parse_wiki(url):
     # find all the tags that are keys and values
     keys = object.find_all(class_="infobox-label")
     vals = object.find_all(class_="infobox-data")
-
+    
     # Find all the key value pairs 
     infobox = {}
     for i in range(len(keys)):
@@ -422,7 +423,7 @@ if __name__=="__main__":
             move_redux_reviews("{} ({})".format(movie.title, movie.release_year))
             initialize_to_sheets(movie)
             write_proto(movie)
-        else:    
+        else:
             movie = create_proto()
             initialize_to_sheets(movie)
             write_proto(movie)
@@ -483,8 +484,8 @@ if __name__=="__main__":
 
         # Post to Sheets and Letterboxd
         p_sheets = mp.Process(target=post_to_sheets, args=(proto, review))
-        p_letterboxd = mp.Process(target=post_to_letterboxd, args=(proto, short_review))
-        p_imdb = mp.Process(target=post_to_imdb, args=(proto, imdb_review))
+        p_letterboxd = mp.Process(target=post_to_letterboxd, args=(copy.deepcopy(proto), short_review))
+        p_imdb = mp.Process(target=post_to_imdb, args=(copy.deepcopy(proto), imdb_review))
 
         p_sheets.start()
         p_letterboxd.start()

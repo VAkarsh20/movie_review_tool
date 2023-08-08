@@ -37,7 +37,7 @@ def post_to_csv(proto, review):
     df = pd.read_csv("movies.csv")
 
     # Sees if review already exists, else append
-    if df[df['Id'] == proto.id] is not None:
+    if not df[df['Id'] == proto.id].empty:
         df.at[int(proto.id) - 1, 'Rating'] = proto.rating
         df.at[int(proto.id) - 1, 'Review'] = review
         df.at[int(proto.id) - 1, 'Review Date'] = proto.review_date

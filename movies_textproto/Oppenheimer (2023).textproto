@@ -1,96 +1,115 @@
 title: "Oppenheimer"
-rating: 1.0
+rating: 9.6
 review {
   direction {
     director {
       name: "Christopher Nolan"
     }
-    comments: "Direction ()"
+    comments: "Brilliant Direction (The most mature storytelling Nolan has ever displayed as he weaves and controls all the scenes on both a macro and micro-scale to drive the story forward to show his message; this was the Nolan has ever done in getting the most out of his actors as the acting down the cast is amazing to where there are so many actors that have their best performance with this movie; has a more palatable interpretation of his signature Nolan style as he makes the audience think but in a way that they can understand (even if another viewing is needed to provide more clarity))"
   }
   acting {
     actor {
       name: "Cillian Murphy"
-      comments: " from Cillian Murphy ()"
+      comments: "Incredible to Brilliant from Cillian Murphy (A career-defining performance as he truly embodies the role of Oppenheimer and is the real lightning rod for other actors to work off of as his presence really drives the performance of others and moves the story forward)"
     }
     actor {
       name: "Emily Blunt"
-      comments: " from Emily Blunt ()"
+      comments: "Great to Incredible from Emily Blunt (Plays her role very well as she portrays the trauma and troubled relationship she has with her husband very well, showing the weight of him being passed onto her as the movie goes on)"
     }
     actor {
       name: "Matt Damon"
-      comments: " from Matt Damon ()"
+      comments: "Great from Matt Damon (Plays his role very well and works off of Cillian to help drive the development of the Manhattan Project forward, really acts as the moral bridge between the government and the scientists)"
     }
     actor {
       name: "Robert Downey Jr."
-      comments: " from Robert Downey Jr. ()"
+      comments: "Great to Incredible from Robert Downey Jr. (Plays a very multi-dimensional role very well as his polished performance shows the cunning nature politicians can have as they try to be two-faced)"
     }
     actor {
       name: "Florence Pugh"
-      comments: " from Florence Pugh ()"
+      comments: "Great from Florence Pugh (Does a Great job with the short time she is given as her chemistry with Murphy shows the effort Jean's relationship had on Oppenheimer)"
     }
     actor {
       name: "Josh Hartnett"
-      comments: " from Josh Hartnett ()"
+      comments: "Great from Josh Hartnett (My favorite performance out of the secondary cast as his charm really brings personality into the movie that is filled with monotonous scientists)"
     }
     actor {
       name: "Casey Affleck"
-      comments: " from Casey Affleck ()"
+      comments: "Very Good from Casey Affleck (Given very little screentime but does a very good job in building tension between Murphy in his scenes)"
     }
     actor {
       name: "Rami Malek"
-      comments: " from Rami Malek ()"
+      comments: "Very Good from Rami Malek (A key performance in the movie as he does so much with very little given as he really comes to play in the final moments of the movie)"
     }
     actor {
       name: "Kenneth Branagh"
-      comments: " from Kenneth Branagh ()"
+      comments: "Very Good from Kenneth Branagh (Uses a lot of his experience to play this role as he does well in playing the Dane that has an impact on Oppenheimer's career)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    actor {
+      name: "Benny Safdie"
+      comments: "Good from Benny Safdie (Kinda the most inexperienced performance of the whole movie but he does a good job in holding his own and building a conflicting relationship with Oppenheimer)"
+    }
+    actor {
+      name: "Jason Clarke"
+      comments: "Very Good from Jason Clarke (Plays one of the true antagonists of the movie very well as he is a driving presence in the security hearings)"
+    }
+    actor {
+      name: "David Krumholtz"
+      comments: "Good to Very Good from David Krumholtz (The comedic presence of the movie as he does try to make jokes throughout the movie (the only issue is that the movie is moving so fast there is no time to let the jokes stay and marinate with the audience))"
+    }
+    actor {
+      name: "Tom Conti"
+      comments: "Very Good to Great from Tom Conti (Embodies Albert Einstein very well and it feels like he was perfectly cast as his chemistry with Murphy and his delivery helps show the relationship Oppenheimer had with Einstein)"
+    }
+    actor {
+      name: "Alden Ehrenreich"
+      comments: "Very Good from Alden Ehrenreich (A surprisingly very good performance from a Nolan composite character as his performance is the real moral lense the audience has to look into the whole situation)"
+    }
+    cast: "Very Good from the rest of the cast (This is an understatement with how good the cast was there is no one bad performance in the entire cast, which is incredible given how deep it is)"
+    comments: "Incredible Acting"
   }
   story {
     writer {
       name: "Christopher Nolan"
     }
-    comments: "Story ()"
+    comments: "Incredible Story (An incredibly dense story that crams many moments in Oppenheimer's life into the film, but uses pace and runtime to make it seem like it may be too short at points as all the story points connect and drive the narrative forward; it is also great to see that they not only spend a lot of time on the Manhattan Project but the aftermath too as that is where the real message of the movie lies; The non-linear storytelling was an homage to Nolan's first break Memento as it helps with showing the consequences of the Manhattan Project)"
   }
   screenplay {
     writer {
       name: "Christopher Nolan"
     }
-    comments: "Screenplay ()"
+    comments: "Brilliant Screenplay (One of the best screenplays I have ever witnessed in that the dialogue is so natural yet profound as actors can converse with each other with ease and it is embedded with symbols meant to tell the story; the symbolism is incredibly profound and some of the best I have ever seen in a movie as there are many symbols throughout the movie to help show the message it is trying to present; one of the best uses of foreshadowing I have ever seen as a second watch shows how hesitant the scientists were in creating the bomb given the implications it may have on humanity)"
   }
   score {
     composer {
       name: "Ludwig G\303\266ransson"
     }
-    comments: "Score ()"
+    comments: "Incredible Score (Incredibly complements the movie well and is used very well to build emotion and create pace and tension throughout)"
   }
   cinematography {
     cinematographer {
       name: "Hoyte van Hoytema"
     }
-    comments: "Cinematography ()"
+    comments: "Incredible to Brilliant Cinematography (The mix of IMAX cameras with large format 70 MM cameras shows the grandeur of the operation and how larger than life the project was (as well as the aftermath); the mix of color and black-and-white help show different perspective and lenses throughout the movie)"
   }
-  sound: "Sound ()"
+  sound: "Great Sound (The sound editing was incredible as the sounds they used to create the explosions (and the lack of sounds at some point) help build tensions throughout the movie; the mixing of dialogue was an improvement from the previous Nolan movies but it still is an issue as there are some moments were the dialog is hard to hear)"
   editing {
     editor {
       name: "Jennifer Lame"
     }
-    comments: "Editing ()"
+    comments: "Incredible Editing (The cuts were incredibly fluid and some of the best work I have ever seen as they were so mesmerizing the watch on the big screen)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Incredible to Brilliant Visual Effects (Some of the best effects work I have ever seen as the use of practical effects over CGI show the capabilities filmmakers have without the use of expensive technology)"
+  production_design: "Great Production Design (This is specifically for Los Alamos as they did a great job in building a makeshift town)"
+  costumes: "Very Good Costumes (The costume work for Oppenheimer is iconic and will be a big part of pop culture for years to come)"
+  plot_structure: "Plot Structure was very unique and non-linear as Nolan takes a page out of Memento to use a non-linear structure to tell the narrative (and I am a big fan of this as it helps show the effects the Manhattan project has on the future and implications it has on the scientific and American community)"
+  pacing: "Pacing was incredibly fast as the movie flies by its long runtime to fit in as much story as it can (this is neither really a positive nor a negative as there is nothing that could be cut from the movie)"
+  climax: "Climax was incredible as the movie really culminates to this moment (and this is done very well given how the movie jumps between time periods to help the audience holistically know the bigger picture)"
+  tone: "Tone was a culmination of a war bio-pic/courtroom-drama/grand epic as Nolan uses his signature style to take the best elements of all three to help establish a very unique tone"
+  final_notes: "Saw in IMAX 70 MM and it really is an experience in itself"
+  overall: "Overall, a modern masterpiece that transcends the biopic as Nolan delivers a masterclass in direction, writing, and acting (with Cillian Murphy delivering a career-defining performance) as the movie is breathtaking from top to bottom with how it uses many different elements to help share its true message about the horrors of one's creation (and the implication it may have on the future)"
 }
 release_year: 2023
 review_date: "07/24/2023"
 redux: false
 id: 358
-imdb_id: "tt1539877"
+imdb_id: "tt15398776"
