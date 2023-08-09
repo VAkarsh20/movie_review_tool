@@ -374,7 +374,7 @@ def print_review(proto, filename):
 # Create the review to be put in a format for IMDb
 def print_imdb_review(proto, filename):
     review = print_short_review(proto, filename)
-
+    
     if isinstance(proto, movie_pb2.Movie):
 
         full_review = combine_review_fields(proto, filename)
@@ -383,6 +383,8 @@ def print_imdb_review(proto, filename):
         review_parts.insert(1, "\n\n{}\n\n".format(full_review))
 
         review = "".join(review_parts)
+
+    print(review)
 
     return review.rstrip()
 
@@ -449,9 +451,6 @@ if __name__=="__main__":
         # Get details for post
         proto = read_proto(filename)
         review = print_review(proto, filename)
-
-        # Reset clock
-        subprocess.run(["sudo", "hwclock", "-s"])
         
         post_to_sheets(proto, review)
     elif sys.argv[1] == "post_to_letterboxd":

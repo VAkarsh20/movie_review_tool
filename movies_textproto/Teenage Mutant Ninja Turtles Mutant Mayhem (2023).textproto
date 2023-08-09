@@ -1,5 +1,5 @@
 title: "Teenage Mutant Ninja Turtles: Mutant Mayhem"
-rating: 5.4
+rating: 5.0
 review {
   direction {
     director {
@@ -10,7 +10,7 @@ review {
   acting {
     actor {
       name: "Jackie Chan"
-      comments: "Decent from Jackie Chan (The main issue is I have heard Jackie Chan give better vocal performances than this and it just feels like he wasn't given that great of direction)"
+      comments: "Decent from Jackie Chan (The main issue is I have heard Jackie Chan give better vocal performances than this and it just feels like he wasn\'t given that great of direction)"
     }
     actor {
       name: "Ice Cube"
@@ -70,7 +70,7 @@ review {
     writer {
       name: "Benji Samit"
     }
-    comments: "Pretty Bad Screenplay (The dialogue was pretty messy overall (I get the kids were doing improv, but I never wanna hear 'rizz' or 'ocky way' in a movie again (this movie will be cringey and dated in years to come); the attempts at humor missed the mark a lot of times as it came off more as corny than relatable for me; the symbolism was kinda shallow (but they did explain and tie things up well); foreshadowing was kinda decent (but a bit overt) as they used different elements from the beginning to tie things up in the climax)"
+    comments: "Pretty Bad Screenplay (The dialogue was pretty messy overall (I get the kids were doing improv, but I never wanna hear \'rizz\' or \'ocky way\' in a movie again (this movie will be cringey and dated in years to come); the attempts at humor missed the mark a lot of times as it came off more as corny than relatable for me; the symbolism was kinda shallow (but they did explain and tie things up well); foreshadowing was kinda decent (but a bit overt) as they used different elements from the beginning to tie things up in the climax)"
   }
   score {
     composer {

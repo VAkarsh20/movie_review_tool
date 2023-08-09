@@ -1,11 +1,11 @@
 title: "Asteroid City"
-rating: 5.5
+rating: 5.1
 review {
   direction {
     director {
       name: "Wes Anderson"
     }
-    comments: "Pretty Bad to Decent Direction (Anderson carries his very unique style from a macro scale as it feels like the set is a part of a stage/doll-house (which is kinda meta given the subject matter); the main issue with the movie is with the storytelling as the very convoluted and meta (which is Anderson's style), coupled with the very dull acting from the rest of the cast (something that Anderson for sure had a hand in))"
+    comments: "Pretty Bad to Decent Direction (Anderson carries his very unique style from a macro scale as it feels like the set is a part of a stage/doll-house (which is kinda meta given the subject matter); the main issue with the movie is with the storytelling as the very convoluted and meta (which is Anderson\'s style), coupled with the very dull acting from the rest of the cast (something that Anderson for sure had a hand in))"
   }
   acting {
     actor {

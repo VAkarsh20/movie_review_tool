@@ -1,5 +1,5 @@
 title: "Renfield"
-rating: 5.9
+rating: 5.5
 review {
   direction {
     director {
@@ -14,7 +14,7 @@ review {
     }
     actor {
       name: "Awkwafina"
-      comments: "Pretty Bad to Decent from Awkwafina (While her performance isn't bad, it is just pretty corny overall (which can kinda be a fault of the script and not her))"
+      comments: "Pretty Bad to Decent from Awkwafina (While her performance isn\'t bad, it is just pretty corny overall (which can kinda be a fault of the script and not her))"
     }
     actor {
       name: "Ben Schwartz"

@@ -1,5 +1,5 @@
 title: "The Super Mario Bros Movie"
-rating: 6.5
+rating: 6.2
 review {
   direction {
     director {
@@ -8,7 +8,7 @@ review {
     director {
       name: "Michael Jelenic"
     }
-    comments: "Decent Direction (Was able to build the world really well, but was really capped at how much he could move the story forward and really did not go above and beyond in any way (just followed the generic children's animation template))"
+    comments: "Decent Direction (Was able to build the world really well, but was really capped at how much he could move the story forward and really did not go above and beyond in any way (just followed the generic children\'s animation template))"
   }
   acting {
     actor {
@@ -46,13 +46,13 @@ review {
     writer {
       name: "Matthew Fogel"
     }
-    comments: "Decent Story (Really stayed true to the stories, but was super short as they tried to create a hero's journey but ultimately just gloss over the journey part)"
+    comments: "Decent Story (Really stayed true to the stories, but was super short as they tried to create a hero\'s journey but ultimately just gloss over the journey part)"
   }
   screenplay {
     writer {
       name: "Matthew Fogel"
     }
-    comments: "Decent Screenplay (The dialogue was pretty bland overall as it was typical children's movie dialogue (with there being nothing for adults besides nostalgia)); the humor was a miss most of the time as it was just childish humor (which leaves nothing for adults); the allusions to the games were great as it really paid homage to the franchise (especially with the world building and how they moved in it to symbolize Super Mario Bros and Donkey Kong; symbolism and foreshadowing was about what you would expect from a kids movie (so not that much))"
+    comments: "Decent Screenplay (The dialogue was pretty bland overall as it was typical children\'s movie dialogue (with there being nothing for adults besides nostalgia)); the humor was a miss most of the time as it was just childish humor (which leaves nothing for adults); the allusions to the games were great as it really paid homage to the franchise (especially with the world building and how they moved in it to symbolize Super Mario Bros and Donkey Kong; symbolism and foreshadowing was about what you would expect from a kids movie (so not that much))"
   }
   score {
     composer {
@@ -68,12 +68,12 @@ review {
     comments: "Good Editing"
   }
   visual_effects: "Great Visual Effects (The best part of the movie as it helped provide parallels to the video games with they way they moved throughout the world in a platform style to mimic the original games (and Donkey Kong when during the Mario vs Donkey Kong scene))"
-  plot_structure: "Plot Structure was the biggest issue of the movie as it really has no rising action for the Hero's journey (it more starts the journey, has one scene, then goes to the end of the journey); the movie really needed 30 minutes to help establish this rising action as well as establish Mario and Peach's relationship as it kinda feels like an after thought once it is originally introduced"
+  plot_structure: "Plot Structure was the biggest issue of the movie as it really has no rising action for the Hero\'s journey (it more starts the journey, has one scene, then goes to the end of the journey); the movie really needed 30 minutes to help establish this rising action as well as establish Mario and Peach\'s relationship as it kinda feels like an after thought once it is originally introduced"
   pacing: "Pacing was steady throughout the movie (it just needed more runtime to help fill the void of missing plot)"
   climax: "Climax was very typical of Illumination movies as it is a major battle scene that was pretty predictable (still well animated though)"
-  tone: "Tone was somewhat set throughout the movie as it was obvious it was going to be a children's movie and they did a good job with having the allusions to the games give it Video Game feel; the major issue with the tone is it has a lot of unnecessary fluff (like the soundtrack) that really take away from having an established tone throughout"
+  tone: "Tone was somewhat set throughout the movie as it was obvious it was going to be a children\'s movie and they did a good job with having the allusions to the games give it Video Game feel; the major issue with the tone is it has a lot of unnecessary fluff (like the soundtrack) that really take away from having an established tone throughout"
   final_notes: "The movie does a good job at staying true to the source material with the allusions and writing as there is a nostalgia aspect that helps drive the movie forward"
-  overall: "Overall, a decent children's movie that does a good job in staying very true to the games and is carried by its voice cast, but is limited by it being mostly a children's movie (with only nostalgia keeping adults interested) and a very short runtime as the hero's journey really cannot develop (along with the relationship between Mario and Peach)"
+  overall: "Overall, a decent children\'s movie that does a good job in staying very true to the games and is carried by its voice cast, but is limited by it being mostly a children\'s movie (with only nostalgia keeping adults interested) and a very short runtime as the hero\'s journey really cannot develop (along with the relationship between Mario and Peach)"
 }
 release_year: 2023
 review_date: "04/10/2023"

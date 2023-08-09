@@ -1,5 +1,5 @@
-title: "Tár"
-rating: 8.7
+title: "T\303\241r"
+rating: 8.6
 review {
   direction {
     director {
@@ -19,38 +19,38 @@ review {
     writer {
       name: "Todd Field"
     }
-    comments: "Good Story (The overarching story is Very Good and very captivating as Field does a great job in peeling back different layers of Tár's life to subtly tell more about who her character really is, but there are a lot of unnecessary plot points that definitely drag the story down and make the overall plot feel more bloated then it needs to be)"
+    comments: "Good Story (The overarching story is Very Good and very captivating as Field does a great job in peeling back different layers of T\303\241r\'s life to subtly tell more about who her character really is, but there are a lot of unnecessary plot points that definitely drag the story down and make the overall plot feel more bloated then it needs to be)"
   }
   screenplay {
     writer {
       name: "Todd Field"
     }
-    comments: "Great to Very Good Screenplay (The dialogue is very tight and captivating, and the symbolism and foreshadowing is done very well ax it really helps with showing the true nature of Tár (while also not being overt in what it is trying to show))"
+    comments: "Great to Very Good Screenplay (The dialogue is very tight and captivating, and the symbolism and foreshadowing is done very well ax it really helps with showing the true nature of T\303\241r (while also not being overt in what it is trying to show))"
   }
   score {
     composer {
-      name: "Hildur Guðnadóttir"
+      name: "Hildur Gu\303\260nad\303\263ttir"
     }
-    comments: "Score is very minimal (Really uses sound very well in helping portray the tense and anxious moments of Tár slowly losing her mind)"
+    comments: "Score is very minimal (Really uses sound very well in helping portray the tense and anxious moments of T\303\241r slowly losing her mind)"
   }
   cinematography {
     cinematographer {
       name: "Florian Hoffmeister"
     }
-    comments: "Good to Very Good Cinematography (The overall grand scenes were very well shot as it helps with building the scenes of how big of a figure Tár is; but the walking shots were pretty nauseating and kinda was a predictable juxtaposition to show how anxious Tár really was)"
+    comments: "Good to Very Good Cinematography (The overall grand scenes were very well shot as it helps with building the scenes of how big of a figure T\303\241r is; but the walking shots were pretty nauseating and kinda was a predictable juxtaposition to show how anxious T\303\241r really was)"
   }
-  sound: "Great Sound (Given there was a very minimal score (which is surprising giving the subject matter), the sound really helps with building tension and showing how the downfall of Tár)"
+  sound: "Great Sound (Given there was a very minimal score (which is surprising giving the subject matter), the sound really helps with building tension and showing how the downfall of T\303\241r)"
   editing {
     editor {
       name: "Monika Willi"
     }
     comments: "Good Editing"
   }
-  plot_structure: "Plot Structure was a big issue for the movie as it really overstays its welcome in many of its scenes as many of the scenes really did not need to be there, with the resolution being absolutely unnecessary (30 minutes of the movie could have been cut and it would've been the same movie)"
+  plot_structure: "Plot Structure was a big issue for the movie as it really overstays its welcome in many of its scenes as many of the scenes really did not need to be there, with the resolution being absolutely unnecessary (30 minutes of the movie could have been cut and it would\'ve been the same movie)"
   pacing: "Pacing was on the slower side (but does not really need to be changed to so much as it is more plot that needs to be cut rather than a faster pace)"
   climax: "Climax was a very tense and important part of the movie (definitely making the audience get to the edge of their seats) but it is after the climax where the movie falters"
-  tone: "Tone was established very well throughout the movie (one of the film's highlights) as the subtlety to create a tense atmosphere is experience throughout the whole movie and really gives a very similar feel to Whiplash (but done in the exact opposite way)"
-  overall: "Overall, a masterclass in subtlety as the direction mixed with Blanchett's performance drives forward a very intense movie without doing/saying that much, but the film's potential is ultimately held back by its long runtime and poor plot construction (which is a shame because these reasons will limit its staying power in film history)"
+  tone: "Tone was established very well throughout the movie (one of the film\'s highlights) as the subtlety to create a tense atmosphere is experience throughout the whole movie and really gives a very similar feel to Whiplash (but done in the exact opposite way)"
+  overall: "Overall, a masterclass in subtlety as the direction mixed with Blanchett\'s performance drives forward a very intense movie without doing/saying that much, but the film\'s potential is ultimately held back by its long runtime and poor plot construction (which is a shame because these reasons will limit its staying power in film history)"
 }
 release_year: 2022
 review_date: "02/02/2023"

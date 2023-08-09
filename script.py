@@ -13,9 +13,12 @@ import sheets
 import subprocess
 import yaml
 import rotten_tomatoes
+import letterboxd
 import imdb
 import threading
 import re
+from tqdm import tqdm
+import multiprocessing as mp
 
 def get_imdb_id(film):
 
@@ -638,44 +641,136 @@ def get_imdb_id(film):
 
 def list_of_reviews_changed():
     df = pd.read_csv("movies.csv")
-    df = df.loc[(df["Rating"] > 1.2) & (df["Rating"] < 9.0)]
+    df = df.loc[(df["Rating"] > 1.2) & (df["Rating"] < 9.0)][['Title', 'Rating', 'Release Year', 'Id']].sort_values(by=['Rating'])
     df.to_csv('movies_temp.csv', index=False) 
-    print(df)
+
+
+def change_rating(filename):
+    try:
+        proto = review_tool.read_proto(filename)
+        proto.rating = reduced_rating(proto.rating)
+        review_tool.write_proto(proto)
+    except:
+        print("Issue with {}".format(filename))
+
+
+def change_review_ratings():
+    # df = pd.read_csv("movies_temp.csv")
+    # for i in range(len(df)):
+    #     record = df.iloc[i]
+
+    #     filename = "{} ({})".format(record["Title"], int(record['Release Year']))
+    #     change_rating(filename)
+
+    f = open("issues.txt", "r")
+    filenames = f.read().splitlines()
+    for filename in filenames:
+        change_rating(filename)
+
 
 def reduced_rating(val):
     if val >= 1.5 and val <= 2.0:
-        return val - 0.2
+        return round(val - 0.2,1)
     elif val >= 2.5 and val <= 3.9:
-        return val - 0.6
+        return round(val - 0.6,1)
     elif val >= 4.0 and val <= 4.9:
-        return val - 0.5
+        return round(val - 0.5,1)
     elif val >= 5.0 and val <= 6.4:
-        return val - 0.4
+        return round(val - 0.4,1)
     elif val >= 6.5 and val <= 7.6:
-        return val - 0.3
+        return round(val - 0.3,1)
     elif val >= 7.7 and val <= 8.4:
-        return val - 0.2
+        return round(val - 0.2,1)
     elif val >= 8.5 and val <= 8.9:
-        return val - 0.1
+        return round(val - 0.1,1)
     else:
         return val
+
+
+def create_letterboxd_csv():
+
+    temp_df = pd.read_csv("movies_temp.csv")
+    df = pd.DataFrame(columns=["imdbID", "Title", "Year", "Rating","WatchedDate","Tags","Review"])
+    for i in range(len(temp_df)):
+        temp_record = temp_df.iloc[i]
+
+        filename = "{} ({})".format(temp_record["Title"], int(temp_record['Release Year']))
+        try:
+            proto = review_tool.read_proto(filename)
+            short_review = review_tool.print_short_review(proto, filename)
+        
+            record = [proto.imdb_id, proto.title, proto.release_year, letterboxd.rating_to_stars(proto.rating), letterboxd.change_date_format(proto.review_date), letterboxd.rating_to_tag(proto.rating), short_review]
+            df.loc[i+1] = record
+        except:
+            print("Issue with {}".format(filename))
+            continue
+    
+
+    df.to_csv("letterboxd_upload.csv", index=False)
+
+def export_sheets(files):
+
+    bot = imdb.IMDbBot()
+    bot.login()
+    print()
+
+    for filename in files:
+
+        try:
+            proto = review_tool.read_proto(filename)
+            review = review_tool.print_imdb_review(proto, filename)
+            bot.import_review(proto.imdb_id, proto.rating, review)
+
+            if proto.rating >= 9.5:        
+                bot.add_to_cinema_personified_list(proto.imdb_id, proto.title, proto.release_year)
+        except:
+            raise Exception("Issue with {}".format(filename))
+            continue
+
+def bulk_export_sheets():
+
+    # Accessing API
+    client = sheets.access_api()
+
+    # Accessing Sheet
+    sheet = client.open("Movies").sheet1
+
+    # Post review to local csv file
+    df = pd.read_csv("movies.csv")
+    temp_df = pd.read_csv("movies_temp.csv")
+    for i in tqdm(range(len(temp_df)-30, len(temp_df))):
+        record = temp_df.iloc[i]
+
+        filename = "{} ({})".format(record["Title"], int(record['Release Year'])).replace(":","").replace("/", " ")
+        
+        try:
+            proto = review_tool.read_proto(filename)
+        except:
+            print("Issue with {}".format(filename))
+            continue
+
+        # Sees if review already exists, else append
+        if not df[df['Id'] == proto.id].empty:
+            df.at[int(proto.id) - 1, 'Rating'] = proto.rating
+        else:
+            print("Issue with {}".format(proto.title))
+
+        # Check to see if review already exists, if it does not create a new entry, else replace it
+        cell = sheet.find(proto.imdb_id)
+        if cell is not None:
+            sheet.update_cell(cell.row, 2, proto.rating)
+        else:
+            print("Cannot post review")
+    
+    df.to_csv('movies.csv', index=False) 
+
     
 
 if __name__=="__main__":
 
     argc = len(sys.argv)
-    list_of_reviews_changed()
     
-    # bulk_export_imdb()
-
-    # filename = "Mean Girls (2004)"
-    # proto = review_tool.read_proto(filename)
-    # short_review = review_tool.print_short_review(proto, filename)
-
-    # bot = rotten_tomatoes.RottenTomatoesBot()
-    # bot.login()
-    # bot.import_review(short_review)
-
+    # bulk_export_sheets()
 
     # parse("Zoolander (2001).textproto")
 

@@ -1,5 +1,5 @@
 title: "Guillermo del Toro\'s Pinocchio"
-rating: 7.0
+rating: 6.7
 review {
   direction {
     director {
@@ -8,7 +8,7 @@ review {
     director {
       name: "Mark Gustafson"
     }
-    comments: "Decent Direction (While they are able to move the story forward pretty well, the whole movie just feels very choppy (which to an extent makes sense given it is a stop-motion movie) as many of the connecting story elements feel like they are forced together and the vocal performances don't really flow together)"
+    comments: "Decent Direction (While they are able to move the story forward pretty well, the whole movie just feels very choppy (which to an extent makes sense given it is a stop-motion movie) as many of the connecting story elements feel like they are forced together and the vocal performances don\'t really flow together)"
   }
   acting {
     actor {
@@ -60,7 +60,7 @@ review {
     composer {
       name: "Alexandre Desplat"
     }
-    comments: "Decent Score\Pretty Good Soundtrack (some catchy songs)"
+    comments: "Decent Score\\Pretty Good Soundtrack (some catchy songs)"
   }
   sound: "Pretty Bad Sound (Just felt very amateurish and choppy (leading to a very unpleasant viewing experience))"
   editing {

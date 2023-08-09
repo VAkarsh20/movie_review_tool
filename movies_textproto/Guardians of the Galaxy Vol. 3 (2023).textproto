@@ -1,5 +1,5 @@
 title: "Guardians of the Galaxy Vol. 3"
-rating: 8.2
+rating: 8.0
 review {
   direction {
     director {
@@ -14,7 +14,7 @@ review {
     }
     actor {
       name: "Zoe Saldana"
-      comments: "Pretty Good to Good from Zoe Saldana (Her character is more restricted/rigged this time so she can't really show too much emotion, but she does a good job with what she was given)"
+      comments: "Pretty Good to Good from Zoe Saldana (Her character is more restricted/rigged this time so she can\'t really show too much emotion, but she does a good job with what she was given)"
     }
     actor {
       name: "Dave Bautista"
@@ -50,7 +50,7 @@ review {
     }
     actor {
       name: "Sylvester Stallone"
-      comments: "Good from Sylvester Stallone (That's because he's Sly Stallone, the man)"
+      comments: "Good from Sylvester Stallone (That\'s because he\'s Sly Stallone, the man)"
     }
     cast: "Pretty Good from the rest of the cast"
     comments: "Pretty Good to Good Acting"
@@ -71,7 +71,7 @@ review {
     composer {
       name: "John Murphy"
     }
-    comments: "Good Score/Very Good Soundtrack (while there wasn't a consistent theme as in the other movies, I still liked the song selection (like Creep and Dog Days Are Over))"
+    comments: "Good Score/Very Good Soundtrack (while there wasn\'t a consistent theme as in the other movies, I still liked the song selection (like Creep and Dog Days Are Over))"
   }
   cinematography {
     cinematographer {

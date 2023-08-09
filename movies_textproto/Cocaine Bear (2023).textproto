@@ -1,5 +1,5 @@
 title: "Cocaine Bear"
-rating: 3.9
+rating: 3.3
 review {
   direction {
     director {
@@ -32,7 +32,7 @@ review {
       name: "Ray Liotta"
       comments: "Decent to Pretty Good from Ray Liotta (Pulls a lot from the experience as he plays a character that is very similar to others he has played recently)"
     }
-    cast: "Bad from the rest of the cast (Just filled with many performances that don't work off of each other and inexperience overall (this does not include the child actors though))"
+    cast: "Bad from the rest of the cast (Just filled with many performances that don\'t work off of each other and inexperience overall (this does not include the child actors though))"
     comments: "Bad Pretty Bad Acting"
   }
   story {

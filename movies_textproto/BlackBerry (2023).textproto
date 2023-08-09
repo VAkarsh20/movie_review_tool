@@ -1,5 +1,5 @@
 title: "BlackBerry"
-rating: 8.8
+rating: 8.7
 review {
   direction {
     director {
@@ -10,7 +10,7 @@ review {
   acting {
     actor {
       name: "Glenn Howerton"
-      comments: "Very Good from Glenn Howerton (Really pulls a lot from the psychopathic elements of Dennis in It's Always Sunny as he is a real commanding force in all the scenes he is in as he portrays a real social climber that is really does not know what he is doing)"
+      comments: "Very Good from Glenn Howerton (Really pulls a lot from the psychopathic elements of Dennis in It\'s Always Sunny as he is a real commanding force in all the scenes he is in as he portrays a real social climber that is really does not know what he is doing)"
     }
     actor {
       name: "Jay Baruchel"
@@ -30,7 +30,7 @@ review {
     writer {
       name: "Matthew Miller"
     }
-    comments: "Great Story (Story was laid out very well as it was entertaining to see where the company was going and how far the different character's journeys are taking them; It is uncertain how close this movie was the original source material but as a biopic I think it does a good job in capturing the essence of the rise and fall of Blackberry)"
+    comments: "Great Story (Story was laid out very well as it was entertaining to see where the company was going and how far the different character\'s journeys are taking them; It is uncertain how close this movie was the original source material but as a biopic I think it does a good job in capturing the essence of the rise and fall of Blackberry)"
   }
   screenplay {
     writer {

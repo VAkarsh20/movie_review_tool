@@ -1,5 +1,5 @@
 title: "Air"
-rating: 8.3
+rating: 8.1
 review {
   direction {
     director {
@@ -14,7 +14,7 @@ review {
     }
     actor {
       name: "Ben Affleck"
-      comments: "Good from Ben Affleck (Similar to Matt Damon's performance as it felt he was more pulling from experience than research into the character)"
+      comments: "Good from Ben Affleck (Similar to Matt Damon\'s performance as it felt he was more pulling from experience than research into the character)"
     }
     actor {
       name: "Jason Bateman"
@@ -49,7 +49,7 @@ review {
     writer {
       name: "Alex Convery"
     }
-    comments: "Pretty Good to Good Screenplay (The movie does do a decent job at making the vernacular sound very 1980s; the dialogue is kinda over the top at times as it is pretty obvious when the script is going for the commercial or awards scenes shot; the symbolism is a good as it can get for a biopic (like Sonny analyzing Jordan's jump shot); the foreshadowing is surprisingly present and handled well (like the pink shorts for running))"
+    comments: "Pretty Good to Good Screenplay (The movie does do a decent job at making the vernacular sound very 1980s; the dialogue is kinda over the top at times as it is pretty obvious when the script is going for the commercial or awards scenes shot; the symbolism is a good as it can get for a biopic (like Sonny analyzing Jordan\'s jump shot); the foreshadowing is surprisingly present and handled well (like the pink shorts for running))"
   }
   cinematography {
     cinematographer {
@@ -69,8 +69,8 @@ review {
   pacing: "Pacing was incredibly fast (an intentional thing that I really enjoyed) as it mimics the pressure in Nike trying to sign Jordan"
   climax: "Climax was decent to pretty but felt a little over-the-top and more motivational than it needed to be"
   tone: "Tone was very 80s and the movie does do a good job in helping build this with the vernacular/production design/vibes; the movie also has a bit of a startup/business feel with the quick pace and content"
-  final_notes: "I really respect how they never showed Michael Jordan's face of the movie as that would really take away from the real stars (his mother and the people at Nike) and story (how Nike was able to work with the parents to get Jordan to sign); I also really enjoyed how the movie really never took itself too seriously as it felt like the crew wanted to have fun more than win awards"
-  overall: "Overall, a very fun watch about the story of how Michael Jordan signed with Nike as the all-star cast really propels the story forward to make this movie very enjoyable, though it really does not go above and beyond in any way as it is a pretty straightforward biopic with cliche writing (which is kinda the point as it felt like this movie wasn't taking itself too seriously as it was just a couple of friends having fun on a project)"
+  final_notes: "I really respect how they never showed Michael Jordan\'s face of the movie as that would really take away from the real stars (his mother and the people at Nike) and story (how Nike was able to work with the parents to get Jordan to sign); I also really enjoyed how the movie really never took itself too seriously as it felt like the crew wanted to have fun more than win awards"
+  overall: "Overall, a very fun watch about the story of how Michael Jordan signed with Nike as the all-star cast really propels the story forward to make this movie very enjoyable, though it really does not go above and beyond in any way as it is a pretty straightforward biopic with cliche writing (which is kinda the point as it felt like this movie wasn\'t taking itself too seriously as it was just a couple of friends having fun on a project)"
 }
 release_year: 2023
 review_date: "04/01/2023"

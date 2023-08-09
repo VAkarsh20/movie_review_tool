@@ -1,5 +1,5 @@
 title: "John Wick: Chapter 2"
-rating: 6.1
+rating: 5.7
 review {
   direction {
     director {
@@ -31,7 +31,7 @@ review {
     writer {
       name: "Derek Kolstad"
     }
-    comments: "Pretty Bad Story (The movie just rides off the character's they introduced last time as most of the new elements this time around are not as good and the storytelling is a bit convoluted with the plot itself being more bland and boring)"
+    comments: "Pretty Bad Story (The movie just rides off the character\'s they introduced last time as most of the new elements this time around are not as good and the storytelling is a bit convoluted with the plot itself being more bland and boring)"
   }
   screenplay {
     writer {

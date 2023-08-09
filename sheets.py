@@ -50,18 +50,11 @@ def post_to_csv(proto, review):
 
 def post_to_sheets(proto, review):
 
-    # Reset clock
-    subprocess.run(["sudo", "hwclock", "-s"])
-
     # Accessing API
     client = access_api()
 
     # Accessing Sheet
     sheet = client.open("Movies").sheet1
-    
-    # Finding number of rows
-    data = sheet.get_all_records()
-    rows = len(data)
 
     # Post review to local csv file
     post_to_csv(proto, review)

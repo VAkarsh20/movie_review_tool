@@ -1,5 +1,5 @@
 title: "Barbie"
-rating: 8.3
+rating: 8.1
 review {
   direction {
     director {
@@ -58,7 +58,7 @@ review {
     writer {
       name: "Noah Baumbach"
     }
-    comments: "Pretty Good Story (Pretty simplistic overall as it follows a pretty standard template but it pays homage to many different movies and is laid out well; the ending was pretty predictable though (and kinda feels like they didn't close up some of the messages they were trying to present))"
+    comments: "Pretty Good Story (Pretty simplistic overall as it follows a pretty standard template but it pays homage to many different movies and is laid out well; the ending was pretty predictable though (and kinda feels like they didn\'t close up some of the messages they were trying to present))"
   }
   screenplay {
     writer {
@@ -97,7 +97,7 @@ review {
   plot_structure: "Plot Structure was pretty simplistic overall as it follows a pretty standard template (similar to that of a coming-of-age/trying to save your village type of movie)"
   pacing: "Pacing was good as it was not too fast or slow (no need to cut or add any content)"
   climax: "Climax was decently executed as it shows some resolution in the conflict (but it does not do that great of a job tying up all the loose ends as it feels kinda forced)"
-  tone: "Tone was very cartoony/Barbie as it did a really good job at establishing this throughout the movie; there were also many different flavors of Greta Gerwig's style that were mixed throughout this movie"
+  tone: "Tone was very cartoony/Barbie as it did a really good job at establishing this throughout the movie; there were also many different flavors of Greta Gerwig\'s style that were mixed throughout this movie"
   final_notes: ""
   overall: "Overall, a feminist powerhouse of a movie as Greta Gerwig exceeded my expectations to create a very fun movie to watch as it is filled with an enjoyable cast, funny jokes, and memorable production design, costumes, and soundtrack as the movie tells many different messages about self-image and societal power, even though it is very on-the-nose about it and does not tie up all the loose ends"
 }

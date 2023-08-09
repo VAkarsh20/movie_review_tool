@@ -49,9 +49,11 @@ class IMDbBot:
         title = "{} Movie".format(rating_to_tag(rating))
         if rating >= 9.5:
             title = "Cinema Personified: " + title
+        self.driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div/div[1]/div[5]/div[1]/input').clear()
         self.driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div/div[1]/div[5]/div[1]/input').send_keys(title)
 
         self.wait(10)
+        self.driver.find_element(By.XPATH,'/html/body/div[1]/div/div/div/div[1]/div[5]/div[2]/textarea').clear()
         self.driver.find_element(By.XPATH,'/html/body/div[1]/div/div/div/div[1]/div[5]/div[2]/textarea').send_keys(review)
 
         self.wait(10)
@@ -59,6 +61,9 @@ class IMDbBot:
 
         self.wait(10)
         self.driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div/div[2]/span/span/input').click()
+
+        self.wait(10)
+        self.driver.get("https://www.imdb.com/title/{}".format(imdb_id))
     
     def add_to_cinema_personified_list(self, imdb_id, title, year):
         
@@ -171,15 +176,12 @@ def rating_to_tag(rating):
         return "Terrible"
 
 def post_to_imdb(proto, review):
-
     bot = IMDbBot()
     bot.login()
-
     bot.import_review(proto.imdb_id, proto.rating, review)
     if proto.rating >= 9.5:        
         bot.add_to_cinema_personified_list(proto.imdb_id, proto.title, proto.release_year)
-
-    # bot.quit()
+    bot.quit()
 
 
 

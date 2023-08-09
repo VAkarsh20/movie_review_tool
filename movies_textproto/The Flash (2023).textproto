@@ -1,5 +1,5 @@
 title: "The Flash"
-rating: 6.8
+rating: 6.5
 review {
   direction {
     director {
@@ -10,7 +10,7 @@ review {
   acting {
     actor {
       name: "Ezra Miller"
-      comments: "Pretty Good to Good from Ezra Miller (Holds their own very nicely and plays the double role very well; really embodies Barry's role well and does a pretty good job in the more emotional parts of the movie)"
+      comments: "Pretty Good to Good from Ezra Miller (Holds their own very nicely and plays the double role very well; really embodies Barry\'s role well and does a pretty good job in the more emotional parts of the movie)"
     }
     actor {
       name: "Sasha Calle"

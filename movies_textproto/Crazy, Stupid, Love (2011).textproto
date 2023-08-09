@@ -1,5 +1,5 @@
 title: "Crazy, Stupid, Love"
-rating: 6.3
+rating: 5.9
 review {
   direction {
     director {
@@ -46,7 +46,7 @@ review {
     writer {
       name: "Dan Fogelman"
     }
-    comments: "Pretty Bad to Decent Story (Entertaining story overall as it is a retelling of the makeover story similar Pretty Woman and She's All That, but it does share a lot of the same cliches as well has many of the same faults that Rom-Coms of the time period have (making the movie incredibly predictable); The story does fall apart in the final 30-40 minutes as it becomes incredibly predictable and borderline cringy)"
+    comments: "Pretty Bad to Decent Story (Entertaining story overall as it is a retelling of the makeover story similar Pretty Woman and She\'s All That, but it does share a lot of the same cliches as well has many of the same faults that Rom-Coms of the time period have (making the movie incredibly predictable); The story does fall apart in the final 30-40 minutes as it becomes incredibly predictable and borderline cringy)"
   }
   screenplay {
     writer {
@@ -67,7 +67,7 @@ review {
     cinematographer {
       name: "Andrew Dunn"
     }
-    comments: "Bad Cinematography (I'm not sure if it was just the way I was viewing it but the filter they were using made the movie feel incredibly blurry as it gave this movie a dream-like feel)"
+    comments: "Bad Cinematography (I\'m not sure if it was just the way I was viewing it but the filter they were using made the movie feel incredibly blurry as it gave this movie a dream-like feel)"
   }
   sound: "Decent Sound"
   editing {
@@ -76,8 +76,8 @@ review {
     }
     comments: "Decent Editing"
   }
-  plot_structure: "Plot Structure was pretty boilerplate for a Rom-Com but the final arc (last 30-49) becomes very cliche as it tries to show the 'meaning' of the movie"
-  pacing: "Pacing was decent for the most part but is incredibly rushed in the final 30-40 minutes of the movie (which is kinda sad considering this was where the message of the movie was supposed to be brought out); Runtime was fine (maybe an extra 10 minutes could've helped with the ending)"
+  plot_structure: "Plot Structure was pretty boilerplate for a Rom-Com but the final arc (last 30-49) becomes very cliche as it tries to show the \'meaning\' of the movie"
+  pacing: "Pacing was decent for the most part but is incredibly rushed in the final 30-40 minutes of the movie (which is kinda sad considering this was where the message of the movie was supposed to be brought out); Runtime was fine (maybe an extra 10 minutes could\'ve helped with the ending)"
   climax: "Climax was not executed well as it was very cringy and was incredibly formulaic for a Rom-Com"
   tone: "Tone was very similar to other Rom-Coms of the era"
   final_notes: ""

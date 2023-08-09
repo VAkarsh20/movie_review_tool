@@ -1,5 +1,5 @@
 title: "Blue Bayou"
-rating: 7.3
+rating: 7.0
 review {
   direction {
     director {
@@ -71,4 +71,4 @@ release_year: 2021
 review_date: "08/02/2022"
 redux: false
 id: 285
-imdb_id: "tt2372776"
+imdb_id: "tt11121664"

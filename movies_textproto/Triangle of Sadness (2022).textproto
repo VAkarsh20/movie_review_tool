@@ -1,5 +1,5 @@
 title: "Triangle of Sadness"
-rating: 4.8
+rating: 4.3
 review {
   direction {
     director {
@@ -10,7 +10,7 @@ review {
   acting {
     actor {
       name: "Harris Dickinson"
-      comments: "Decent to Pretty Good from Harris Dickinson (Shows some range, but it's pretty limited)"
+      comments: "Decent to Pretty Good from Harris Dickinson (Shows some range, but it\'s pretty limited)"
     }
     actor {
       name: "Charlbi Dean"
@@ -37,7 +37,7 @@ review {
     writer {
       name: "Ruben \303\226stlund"
     }
-    comments: "Bad Screenplay (It felt like English was the writer’s fourth language as none of the dialogue felt natural or flowed between actors; the symbolism is so overt that its very pretentious in what they are trying to show; the foreshadowing is surprisingly more subtle but there are predictable elements to the plot; The jokes were not that funny as it relies way too much on shock/grotesque humor than anything of substance (though the jokes in the final arc had some good moments)"
+    comments: "Bad Screenplay (It felt like English was the writer\342\200\231s fourth language as none of the dialogue felt natural or flowed between actors; the symbolism is so overt that its very pretentious in what they are trying to show; the foreshadowing is surprisingly more subtle but there are predictable elements to the plot; The jokes were not that funny as it relies way too much on shock/grotesque humor than anything of substance (though the jokes in the final arc had some good moments)"
   }
   score {
     composer {
@@ -66,7 +66,7 @@ review {
   }
   visual_effects: "Decent Visual Effects"
   production_design: "Decent Production Design"
-  plot_structure: "Plot Structure was the worst part of the movie as the first two parts of the movie are so hard to watch for how boring and grotesque it is; but the final arc of the movie is actually pretty good but my perception of the movie is already made at this point that it is too late to save (20-30 minutes of the runtime of the second part could’ve been cut to make the movie a lot better and help put more emphasis on the message of the movie by giving the third part porporationally more time)"
+  plot_structure: "Plot Structure was the worst part of the movie as the first two parts of the movie are so hard to watch for how boring and grotesque it is; but the final arc of the movie is actually pretty good but my perception of the movie is already made at this point that it is too late to save (20-30 minutes of the runtime of the second part could\342\200\231ve been cut to make the movie a lot better and help put more emphasis on the message of the movie by giving the third part porporationally more time)"
   pacing: "Pacing was on the slower side for the third two thirds of the movie but picks up to a good pace in the final part"
   climax: "Climax was decently captivating (but the movie is just so exhausting that its hard to follow by the time we reach it)"
   tone: "Tone follows the black comedy script pretty closely as the director really sets the tone throughout the movie with the dialogue and comedy (which kinda is one of the main issues of the movie as it is way too overt)"
