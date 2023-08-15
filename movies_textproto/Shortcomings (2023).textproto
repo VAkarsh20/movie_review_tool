@@ -1,89 +1,81 @@
 title: "Shortcomings"
-rating: 1.0
+rating: 5.0
 review {
   direction {
     director {
       name: "Randall Park"
     }
-    comments: "Direction ()"
+    comments: "Pretty Bad Direction (Moves the story forward in a decent way, but it just feels like there is a lot of empty space in the interpersonal scenes cause it doesn't feel like the characters have chemistry with each other (They just feel like stock videos); uses the Rom-Com template as a foil as many aspects of the movie steal from the genre's tropes (but makes fun of it in a meta manner))"
   }
   acting {
     actor {
       name: "Justin H. Min"
-      comments: " from Justin H. Min ()"
+      comments: "Pretty Bad to Decent from Justin H. Min (Has some moments where he is pretty good but somewhere he clearly is reaching a dramatic limit (Does not hold his own as the leading character as he does not have good chemistry with the rest of the cast (which could be attributed to how he was written)))"
     }
     actor {
       name: "Sherry Cola"
-      comments: " from Sherry Cola ()"
+      comments: "Decent to Pretty Good from Sherry Cola (The best performance of the movie as plays to her characters strengths well (the comic-relief best friend trope) and gives some range within the confines of what her character is supposed to do (though there is some visible limitation))"
     }
     actor {
       name: "Ally Maki"
-      comments: " from Ally Maki ()"
+      comments: "Pretty Bad from Ally Maki (The performance just feels a bit one-dimension and the scenes with Min do not have any chemistry (which makes their interpersonal scenes very bland))"
     }
     actor {
       name: "Tavi Gevinson"
-      comments: " from Tavi Gevinson ()"
+      comments: "Pretty Bad to Decent from Tavi Gevinson (This is more of how the character is written but she just does not feel that believable in this role (mainly from poor direction))"
     }
     actor {
       name: "Debby Ryan"
-      comments: " from Debby Ryan ()"
+      comments: "Pretty Bad from Debby Ryan (Does not have any chemistry with Min as her performance just feels very bland and stock)"
     }
     actor {
       name: "Sonoya Mizuno"
-      comments: " from Sonoya Mizuno ()"
+      comments: "Decent to Pretty Good from Sonoya Mizuno (The most experienced member of the cast as she does show some range of emotion (the only issue being that she does not have that many times to show it and does not work well off of the other characters))"
     }
     actor {
       name: "Jacob Batalon"
-      comments: " from Jacob Batalon ()"
+      comments: "Decent from Jacob Batalon (The comedic relief character that does a decent job at eliciting laughs from the audience, but does not feel very fluid as some parts of the performance felt off)"
     }
-    actor {
-      name: "Timothy Simons"
-      comments: " from Timothy Simons ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Pretty Bad from the rest of the cast (Just a lot of minor side characters that do not provide anything)"
+    comments: "Pretty Bad to Decent Acting"
   }
   story {
     writer {
       name: "Adrian Tomine"
     }
-    comments: "Story ()"
+    comments: "Pretty Bad Story (The main purpose of the story is to mock the Rom-Com genre, but by doing this it does not develop good story elements as it is more focused on the dialogue and jokes rather than developing an interesting story (everything just feels very stock and safe))"
   }
   screenplay {
     writer {
       name: "Adrian Tomine"
     }
-    comments: "Screenplay ()"
+    comments: "Bad Screenplay (The dialogue feels incredibly simplistic; there were some good jokes but it mostly just felt like the movie was trying to be too Meta to the point that some of the conversations are just hard to listen to for how much back-pedaling there is; the symbolism and message is very shallow as the movie is overt in what it is trying to say but does not do a good job at making the meaning believable)"
   }
   score {
     composer {
       name: "Gene Back"
     }
-    comments: "Score ()"
+    comments: "Decent Score (Pretty generic for a rom-com)"
   }
   cinematography {
     cinematographer {
       name: "Santiago Gonzalez"
     }
-    comments: "Cinematography ()"
+    comments: "Decent Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Decent Sound (The scene where they used the concession microphone in the conversation was a very nice touch, but there were some moments where the mixing felt off)"
   editing {
     editor {
       name: "Robert Nassau"
     }
-    comments: "Editing ()"
+    comments: "Pretty Bad to Decent Editing (Felt incredibly simplistic and choppy (just safe overall so nothing incredibly wrong))"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  plot_structure: "Plot Structure follows a very similar template to that of a Rom-Com (even though the elements are meant to mimic the opposite)"
+  pacing: "Pacing was a bit quicker than I would have liked (maybe adding 10 minutes to help slow the movie down would have been nice)"
+  climax: "Climax was incredibly cliche and predictable as the movie builds up to being an 'anti-climax'; the ending sequence of the movie is just so safe and bland that it feels like a Dhar Mann ending (especially with the narration and montage sequence)"
+  tone: "Tone was incredibly bland as the whole movie felt like it was a stock/fake movie that they would use in a real film (which is ironic given there is one of those in this movie)"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a pretty bland movie that tries way too hard to be meta and 'anti-woke' that it does not do a good job at being realistic as the direction of actors is pretty bad and the writing is bland/predictable, with the ending feeling like a Dhar Mann video"
 }
 release_year: 2023
 review_date: "08/07/2023"

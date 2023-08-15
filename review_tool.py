@@ -384,8 +384,6 @@ def print_imdb_review(proto, filename):
 
         review = "".join(review_parts)
 
-    print(review)
-
     return review.rstrip()
 
 def move_redux_reviews(filename):
