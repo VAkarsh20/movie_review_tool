@@ -1,8 +1,82 @@
 title: "Good Will Hunting"
 rating: 9.6
-review: "Great Acting by top 2 1/2, Brilliant Screenplay, Great Story, Score complements the emotions of the scenes, Great Character development."
+review {
+  direction {
+    director {
+      name: "Gus Van Sant"
+    }
+    comments: "Great Direction (Nothing is above and beyond but he does a great job in moving the story forward (uses the writing to mostly tell the story) as he uses a decently lighthearted storytelling style to help you care about the characters; gets a lot out of the actors in the interpersonal scenes as the conversations they have really make the movie captivating)"
+  }
+  acting {
+    actor {
+      name: "Robin Williams"
+      comments: "Incredible from Robin Williams (The best performance of the movie as he uses both his dramatic and comedic abilities to create a very well-rounded character that acts as the father-figure Will never had)"
+    }
+    actor {
+      name: "Matt Damon"
+      comments: "Incredible from Matt Damon (The most dynamic character of the movie as he drives the story forward with his charm and line delivery (mainly because wrote the script))"
+    }
+    actor {
+      name: "Ben Affleck"
+      comments: "Very Good from Ben Affleck (Plays the complement to Damon very well as their chemistry makes their on-screen relationship very believable)"
+    }
+    actor {
+      name: "Stellan Skarsg\303\245rd"
+      comments: "Very Good from Stellan Skarsg\303\245rd (Works well in his scenes with Williams and Damon as it is very obvious to see when his ego is checked and how much change he has throughout the movie)"
+    }
+    actor {
+      name: "Minnie Driver"
+      comments: "Good to Very Good from Minnie Driver (Plays the female lead well (but feels like kinda out of place given who the rest of the cast is))"
+    }
+    cast: "Very Good from the rest of the cast (All play their part well as it helps with setting the tone and the place of Boston (especially Southie))"
+    comments: "Great Acting"
+  }
+  story {
+    writer {
+      name: "Ben Affleck"
+    }
+    writer {
+      name: "Matt Damon"
+    }
+    comments: "Brilliant Story (A very iconic story that is laid out brilliantly as the directing, performances, and dialogue drive this story forward into being one of the best ever told on the big screen; the story elements build off of each other as each part has its purpose as the ending shows what it was building to the entire time; the character development is great as well as the movie is really about that and it delivers (for more than just one))"
+  }
+  screenplay {
+    writer {
+      name: "Ben Affleck"
+    }
+    writer {
+      name: "Matt Damon"
+    }
+    comments: "Brilliant Screenplay (The best screenplay I have ever seen as the dialogue is so tight/sharp as it is filled with many callbacks and allusions to help drive the story and the message forward; the wit and humor make this movie as it gives it that working-class edge that sets Will and his gang apart from the establishment characters; the symbolism is great as it really helps with showing the message of the movie (Will's genius vs his development); the foreshadowing is prominent as it shows at what they were trying to build the entire time)"
+  }
+  score {
+    composer {
+      name: "Danny Elfman"
+    }
+    comments: "Very Good Score (Pretty safe overall but complements the emotions of the scenes very well)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Jean-Yves Escoffier"
+    }
+    comments: "Good Cinematography (Good for a low-budget movie)"
+  }
+  sound: "Pretty Good Sound"
+  editing {
+    editor {
+      name: "Pietro Scalia"
+    }
+    comments: "Very Good Editing (Especially for how low-budget the movie is, helps with driving the story forward)"
+  }
+  plot_structure: "Plot Structure was laid out incredibly well as the different narrative elements are shown and each individual story element helps with move the movie forward (with the climax and resolution helping with showing the message)"
+  pacing: "Pacing was a bit on the slower side (though this was not a terrible issue) as it felt like this movie wanted to use as much time as it could to have scenes that show off the characters and their personalities; Runtime should be kept the same as there really is no scene I would want to cut"
+  climax: "Climax was executed very well and helps with showing how far Will has come on his journey (and finding out what he wants to do with his life)"
+  tone: "Tone was very feel-good as this light-hearted tone helps with making the audience love the characters more and making the drama overall feel very fun"
+  final_notes: ""
+  overall: "Overall, the best-written movie I have ever seen as this iconic film stands the test of time to show how EQ is just as important as IQ as we go on a journey through Will Hunting's journey, driven by great direction and performances along with its superb writing"
+}
 release_year: 1997
-review_date: "06/13/2017"
-redux: false
+review_date: "08/15/2023"
+redux: true
 id: 29
 imdb_id: "tt0119217"

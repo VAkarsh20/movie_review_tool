@@ -28,7 +28,7 @@ def get_wiki_info():
             
             imdb_id = get_imdb_id(wiki_title)
             infobox = parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
-            
+
             # Change the film title if it has a (film) tag end the end of the wikipedia search
             if title.endswith("film)"):
                 title = title[:title.rfind(' (')]
@@ -190,6 +190,15 @@ def find_review_date():
     today = datetime.now()
     return "{}/{}/{}".format(today.strftime('%m'), today.strftime('%d'), today.strftime('%Y')) 
 
+
+def set_id(imdb_id, redux):
+    if redux:
+        df = pd.read_csv("movies.csv")
+        return int(df[df["imdbID"] == imdb_id]["Id"])
+    else:
+        return len(os.listdir('movies_textproto/'))
+
+
 def create_proto(redux=False):
     
     # Find some of the fields and infobox
@@ -222,12 +231,12 @@ def create_proto(redux=False):
     )
 
     # creating the review object from the fields already initialized
-    return movie_pb2.Movie(title=title, rating=1.0, review=review, release_year = find_release_year(infobox), review_date = find_review_date(), redux=redux, id=len(os.listdir('movies_textproto/')), imdb_id=imdb_id)
-    
+    return movie_pb2.Movie(title=title, rating=1.0, review=review, release_year = find_release_year(infobox), review_date = find_review_date(), redux=redux, id=set_id(imdb_id, redux), imdb_id=imdb_id)
+
 
 def create_proto_free(redux=False):
     title, imdb_id, infobox = get_wiki_info()
-    return movie_pb2.MovieFree(title=title, rating=1.0, review="", release_year = find_release_year(infobox), review_date = find_review_date(), redux=redux, id=len(os.listdir('movies_textproto/')), imdb_id=imdb_id)
+    return movie_pb2.MovieFree(title=title, rating=1.0, review="", release_year = find_release_year(infobox), review_date = find_review_date(), redux=redux, id=set_id(imdb_id, redux), imdb_id=imdb_id)
 
 
 def write_proto(proto):
@@ -388,16 +397,16 @@ def print_imdb_review(proto, filename):
 
 def move_redux_reviews(filename):
     
-    path = "movies_textproto/"
+    path = os.path.join(os.path.dirname(__file__), 'movies_textproto/')
     count = 0
-    while os.path.exists(path + ("reduxed/" * count) + filename):
+    while os.path.exists(path + ("reduxed/" * count) + filename + ".textproto"):
         count += 1
-    
+
     if not os.path.exists(path + ("reduxed/" * count)):
         os.mkdir(path + ("reduxed/" * count))
 
     while count > 0:
-        os.rename(path + ("reduxed/" * (count - 1)) + filename, path + ("reduxed/" * (count)) + filename)
+        os.rename(path + ("reduxed/" * (count - 1)) + filename + ".textproto", path + ("reduxed/" * (count)) + filename + ".textproto")
         count -= 1
 
 def reviews_sorted():
@@ -417,11 +426,9 @@ if __name__=="__main__":
     subprocess.run(["sudo", "hwclock", "-s"])
 
     if argc == 1 or sys.argv[1] == "create_proto":
-        if argc > 3 and sys.argv[2] == "redux":
-            subprocess()
+        if argc > 2 and sys.argv[2] == "redux":
             movie = create_proto(True)
             move_redux_reviews("{} ({})".format(movie.title, movie.release_year))
-            initialize_to_sheets(movie)
             write_proto(movie)
         else:
             movie = create_proto()
@@ -429,7 +436,7 @@ if __name__=="__main__":
             write_proto(movie)
     
     elif sys.argv[1] == "create_proto_free":
-        if argc > 3 and sys.argv[2] == "redux":
+        if argc > 2 and sys.argv[2] == "redux":
             movie = create_proto(True)
             move_redux_reviews("{} ({})".format(movie.title, movie.release_year))
             initialize_to_sheets(movie)

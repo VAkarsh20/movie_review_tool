@@ -58,6 +58,7 @@ class LetterboxdBot:
         # self.wait(10)
         # self.driver.find_element(By.XPATH, '//*[@id="diary-entry-submit-button"]').click()
     
+    # TODO: Check if film is already in the list
     def add_to_cinema_personified_list(self):
         
         self.wait(10)

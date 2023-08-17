@@ -1,8 +1,75 @@
 title: "Moneyball"
-rating: 9.4
-review: "Great Acting, Great Story, Great Screenplay but some lines are questionable, Great Score, Very Relatable Movie, Great Job exploring the demons of every character and how almost everyone has something to prove, Ending was kinda out of place."
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Bennett Miller"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Brad Pitt"
+      comments: " from Brad Pitt ()"
+    }
+    actor {
+      name: "Jonah Hill"
+      comments: " from Jonah Hill ()"
+    }
+    actor {
+      name: "Philip Seymour Hoffman"
+      comments: " from Philip Seymour Hoffman ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Stan Chervin"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Steven Zaillian"
+    }
+    writer {
+      name: "Aaron Sorkin"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Mychael Danna"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Wally Pfister"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Christopher Tellefsen"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
 release_year: 2011
-review_date: "06/13/2017"
-redux: false
+review_date: "08/15/2023"
+redux: true
 id: 28
 imdb_id: "tt1210166"

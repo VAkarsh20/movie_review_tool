@@ -31,66 +31,6 @@ def get_imdb_id(film):
     imdb_id = imdb_id[0]
     return imdb_id
 
-def rating_to_stars(rating):
-
-    rating = int (rating * 10)
-
-    # Mapping rating to its respective star
-    if rating in range(97, 100):
-        return 5
-    elif rating in range(95, 97):
-        return 5
-    elif rating in range(90, 95):
-        return 4.5
-    elif rating in range(85, 90):
-        return 4
-    elif rating in range(80, 85):
-        return 4
-    elif rating in range(75, 80):
-        return 3.5
-    elif rating in range(70, 75):
-        return 3
-    elif rating in range(60, 70):
-        return 2.5
-    elif rating in range(50, 60):
-        return 2
-    elif rating in range(40, 50):
-        return 1.5
-    elif rating in range(30, 40):
-        return 1.0
-    elif rating in range(20, 30):
-        return 0.5
-    else:
-        return 0
-
-def rating_to_tag(rating):
-
-    rating = int (rating * 10)
-
-    # Mapping rating to its respective tag
-    if rating in range(97, 100):
-        return "Brilliant"
-    elif rating in range(95, 97):
-        return "Incredible"
-    elif rating in range(90, 95):
-        return "Great"
-    elif rating in range(85, 90):
-        return "Very Good"
-    elif rating in range(80, 85):
-        return "Good"
-    elif rating in range(75, 80):
-        return "Pretty Good"
-    elif rating in range(70, 75):
-        return "Decent"
-    elif rating in range(60, 70):
-        return "Pretty Bad"
-    elif rating in range(40, 60):
-        return "Bad"
-    elif rating in range(30, 40):
-        return "Very Bad"
-    else:
-        return "Terrible"
-
 def create_df():
 
     # Creating dataframe
@@ -764,11 +704,27 @@ def bulk_export_sheets():
     
     df.to_csv('movies.csv', index=False) 
 
-    
+
+def set_id(imdb_id, redux):
+    movie_id = 0
+    if redux:
+        df = pd.read_csv("movies.csv")
+        movie_id = int(df[df["imdbID"] == imdb_id]["Id"])
+    else:
+        movie_id = len(os.listdir('movies_textproto/'))
+    return movie_id
+
+
+
 
 if __name__=="__main__":
 
     argc = len(sys.argv)
+
+    imdb_id = "tt14483774"
+    redux = True
+
+    print(set_id(imdb_id, redux))
     
     # bulk_export_sheets()
 

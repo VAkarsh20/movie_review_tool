@@ -65,6 +65,7 @@ class IMDbBot:
         self.wait(10)
         self.driver.get("https://www.imdb.com/title/{}".format(imdb_id))
     
+    # TODO: Check if film is already in the list
     def add_to_cinema_personified_list(self, imdb_id, title, year):
         
         self.wait(10)
