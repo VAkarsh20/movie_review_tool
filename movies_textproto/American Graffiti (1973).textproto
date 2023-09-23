@@ -1,0 +1,105 @@
+title: "American Graffiti"
+rating: 7.2
+review {
+  direction {
+    director {
+      name: "George Lucas"
+    }
+    comments: "Pretty Good to Good Direction (Does a Good job in moving the narrative forward and on an overall macro-scale, and does a pretty good job in the more interpersonal scenes and getting the most out of his actors (though it is obvious where he meets his limit for this))"
+  }
+  acting {
+    actor {
+      name: "Richard Dreyfuss"
+      comments: "Pretty Good to Good from Richard Dreyfuss (Holds his own well and helps carry the scenes he is in (it's kinda hard to believe he is a teenager though))"
+    }
+    actor {
+      name: "Ron Howard"
+      comments: "Pretty Good from Ron Howard (Holds his own well throughout the movie)"
+    }
+    actor {
+      name: "Paul Le Mat"
+      comments: "Decent to Pretty Good from Paul Le Mat (Really takes from James Dean with the role (but it borderline becomes copying than paying homage at points))"
+    }
+    actor {
+      name: "Charles Martin Smith"
+      comments: "Decent to Pretty Good from Charles Martin Smith (Takes from the nerdy 60s kid trope)"
+    }
+    actor {
+      name: "Candy Clark"
+      comments: "Decent to Pretty Good from Candy Clark (Holds her own well throughout the movie)"
+    }
+    actor {
+      name: "Mackenzie Phillips"
+      comments: "Decent to Pretty Good from Mackenzie Phillips (Holds her own well throughout the movie)"
+    }
+    actor {
+      name: "Cindy Williams"
+      comments: "Pretty Good from Cindy Williams (Shows some range of emotion and works well off of Ron Howard)"
+    }
+    actor {
+      name: "Wolfman Jack"
+      comments: "Decent to Pretty Good from Wolfman Jack"
+    }
+    cast: "Decent to Pretty Good from the rest of the cast (The ensemble as a whole does its job in portraying the youth of the time (it is just that it's not extraordinary in any way given the inexperience of most of the actors))"
+    comments: "Decent to Pretty Good Acting"
+  }
+  story {
+    writer {
+      name: "George Lucas"
+    }
+    writer {
+      name: "Gloria Katz"
+    }
+    writer {
+      name: "Willard Huyck"
+    }
+    comments: "Good Story (The story construction is good and the vignette style across a single night helped with showing the youth of the time; the story ended very well as all the different storylines converged in the end and story elements/symbols are shown throughout the movie)"
+  }
+  screenplay {
+    writer {
+      name: "George Lucas"
+    }
+    writer {
+      name: "Gloria Katz"
+    }
+    writer {
+      name: "Willard Huyck"
+    }
+    comments: "Pretty Good Screenplay (The dialogue was pretty typical of the time (and sounded a bit more normal than typical George Lucas dialogue (it probably helped that he wasn't the sole screenwriter)); the comedic elements were decent (but a bit dated considering the jokes were tailored for an audience who lived during the 60s); the symbolism was present throughout the movie (like the white car); the foreshadowing was pretty predictable given the genre (though it executed pretty well))"
+  }
+  cinematography {
+    cinematographer {
+      name: "Ron Eveslage"
+    }
+    cinematographer {
+      name: "Jan D\'Alquen"
+    }
+    cinematographer {
+      name: "Haskell Wexler (visual consultant)"
+    }
+    comments: "Good Cinematography (Especially with the car scenes)"
+  }
+  sound: "Pretty Good Sound (Sounded kinda cheap and cartoony at times)"
+  editing {
+    editor {
+      name: "Verna Fields"
+    }
+    editor {
+      name: "Marcia Lucas"
+    }
+    comments: "Pretty Good Editing"
+  }
+  visual_effects: "Pretty Good Visual Effects"
+  production_design: "Good Production Design (Helped with setting the time period)"
+  plot_structure: "Plot Structure was a unique part of the movie as the vignette style of multiple storylines converging to a single conclusion helped with showing the different lives of the ensemble"
+  pacing: "Pacing was fine (did not feel too fast or too slow); Runtime felt just right (maybe deleting about 5-10 minutes of the exposition could have helped with making the movie a bit more tight)"
+  climax: "Climax was decent to pretty good (Did not feel incredibly captivating but did its purpose in helping converge the different storylines)"
+  tone: "Tone was very laid back as this film felt a lot like a 'hang-out' movie with its feel and subject matter"
+  final_notes: ""
+  overall: "Overall, a pretty good hangout movie that helped put George Lucas on the map as we see a young filmmaker take low-budget with a cast of young actors and make an influential movie in cinema history through its story-writing and construction, though there are noticeable limitations in what he can do with his direction of actors and dialogue"
+}
+release_year: 1973
+review_date: "09/04/2023"
+redux: false
+id: 369
+imdb_id: "tt0069704"

@@ -721,11 +721,20 @@ if __name__=="__main__":
 
     argc = len(sys.argv)
 
-    imdb_id = "tt14483774"
-    redux = True
+    filename = "Good Will Hunting (1997)"
+    proto = review_tool.read_proto(filename)
 
-    print(set_id(imdb_id, redux))
-    
+    res = [field == "" for field in proto.review.DESCRIPTOR.fields]
+    print(len(proto.review.DESCRIPTOR.fields_by_name.keys()))
+    print(len(proto.review.DESCRIPTOR.fields_by_name.values()))
+
+    # res = [field == "" for field in proto.review.DESCRIPTOR.fields]
+    # print(res)
+
+    # print(res)
+
+
+
     # bulk_export_sheets()
 
     # parse("Zoolander (2001).textproto")
