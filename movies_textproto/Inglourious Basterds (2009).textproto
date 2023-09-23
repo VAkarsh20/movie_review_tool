@@ -1,8 +1,122 @@
 title: "Inglourious Basterds"
-rating: 9.3
-review: "Incredible acting by Laurent and Waltz, Decent acting by rest of the cast, Incredible Screenplay, Incredible Story, Great violence, great Soundtrack, hard to keep track some of the storylines that all happened at once."
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Quentin Tarantino"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Brad Pitt"
+      comments: " from Brad Pitt ()"
+    }
+    actor {
+      name: "Christoph Waltz"
+      comments: " from Christoph Waltz ()"
+    }
+    actor {
+      name: "Michael Fassbender"
+      comments: " from Michael Fassbender ()"
+    }
+    actor {
+      name: "Eli Roth"
+      comments: " from Eli Roth ()"
+    }
+    actor {
+      name: "Diane Kruger"
+      comments: " from Diane Kruger ()"
+    }
+    actor {
+      name: "Daniel Br\303\274hl"
+      comments: " from Daniel Br\303\274hl ()"
+    }
+    actor {
+      name: "Til Schweiger"
+      comments: " from Til Schweiger ()"
+    }
+    actor {
+      name: "M\303\251lanie Laurent"
+      comments: " from M\303\251lanie Laurent ()"
+    }
+    actor {
+      name: "B. J. Novak"
+      comments: " from B. J. Novak ()"
+    }
+    actor {
+      name: "August Diehl"
+      comments: " from August Diehl ()"
+    }
+    actor {
+      name: "Julie Dreyfus"
+      comments: " from Julie Dreyfus ()"
+    }
+    actor {
+      name: "Sylvester Groth"
+      comments: " from Sylvester Groth ()"
+    }
+    actor {
+      name: "Jacky Ido"
+      comments: " from Jacky Ido ()"
+    }
+    actor {
+      name: "Denis Menochet"
+      comments: " from Denis Menochet ()"
+    }
+    actor {
+      name: "Mike Myers"
+      comments: " from Mike Myers ()"
+    }
+    actor {
+      name: "Rod Taylor"
+      comments: " from Rod Taylor ()"
+    }
+    actor {
+      name: "Martin Wuttke"
+      comments: " from Martin Wuttke ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Quentin Tarantino"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Quentin Tarantino"
+    }
+    comments: "Screenplay ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Robert Richardson"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Sally Menke"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
 release_year: 2009
-review_date: "05/21/2017"
-redux: false
+review_date: "09/22/2023"
+redux: true
 id: 23
 imdb_id: "tt0361748"

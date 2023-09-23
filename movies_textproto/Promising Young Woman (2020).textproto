@@ -1,0 +1,96 @@
+title: "Promising Young Woman"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Emerald Fennell"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Carey Mulligan"
+      comments: " from Carey Mulligan ()"
+    }
+    actor {
+      name: "Bo Burnham"
+      comments: " from Bo Burnham ()"
+    }
+    actor {
+      name: "Alison Brie"
+      comments: " from Alison Brie ()"
+    }
+    actor {
+      name: "Clancy Brown"
+      comments: " from Clancy Brown ()"
+    }
+    actor {
+      name: "Chris Lowell"
+      comments: " from Chris Lowell ()"
+    }
+    actor {
+      name: "Jennifer Coolidge"
+      comments: " from Jennifer Coolidge ()"
+    }
+    actor {
+      name: "Laverne Cox"
+      comments: " from Laverne Cox ()"
+    }
+    actor {
+      name: "Connie Britton"
+      comments: " from Connie Britton ()"
+    }
+    actor {
+      name: "Molly Shannon"
+      comments: " from Molly Shannon ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Emerald Fennell"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Emerald Fennell"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Anthony Willis"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Benjamin Kra\304\215un"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Fr\303\251d\303\251ric Thoraval"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2020
+review_date: "09/22/2023"
+redux: false
+id: 370
+imdb_id: "tt9620292"
