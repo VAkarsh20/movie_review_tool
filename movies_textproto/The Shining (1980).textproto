@@ -1,8 +1,83 @@
 title: "The Shining"
-rating: 8.6
-review: "Good Direction (Great on a Macro scale of the entire shot but not so good on a micro scale when having dialogue between characters), Acting on a spectrum (Incredible by Jack Nicholson, Decent to Good by supporting cast, Decent from Danny Lloyd, and Very Bad from Shelley Duvall (Which in hindsight is a bad thing to say considering how much she was abused on set)), Incredible Story, Good Screenplay (Incredible use of Symbolism and Foreshadowing, good/iconic dialogue from Jack, pretty bad to decent for dialogue from other characters), Incredible Cinematography, Very poor Film Editing (Transitions were bad, a lot of continuity issues, poor/very stiff editing for shot/reverse shot conversations (Which the movie relies on heavily)), Incredible Production Design, Great Pacing as the building of suspense to the climax was incredible, Great to Incredible use of score and sound Editing to convey the mood and establish suspense, a lot of pointless shots in the film that did not add value to the plot. Overall, Jack Nicholson, the story, and the cinematography carry the film on a macro scale to make it a relevant piece of Cinema history to study, but the film fails to be Incredible due to the issues and problems on a micro scale."
+rating: 8.7
+review {
+  direction {
+    director {
+      name: "Stanley Kubrick"
+    }
+    comments: "Very Good Direction (Great on a Macro scale of his entire shots, but pretty bad on a micro-scale during the dialogue-heavy interpersonal scenes; does a great job in moving the narrative forward as well as he uses his experience and signature Kubrick style to tell the story)"
+  }
+  acting {
+    actor {
+      name: "Jack Nicholson"
+      comments: "Very Good from Jack Nicholson (A bit over the top but really shows how demented and possed he is; also really steals all the scenes he is in (especially after the midway point and towards the end))"
+    }
+    actor {
+      name: "Shelley Duvall"
+      comments: "Decent to Pretty Good from Shelley Duvall (A performance that wasn't even that bad; while there were some flaws (that were heavily criticized at the time), she does a pretty good job at being the terrified figure (and this was sadly carried out through the trauma she felt during the filming of the movie))"
+    }
+    actor {
+      name: "Scatman Crothers"
+      comments: "Pretty Good from Scatman Crothers (Acts as a good outside figure looking in (but some of the shocked faces were borderline comical))"
+    }
+    actor {
+      name: "Danny Lloyd"
+      comments: "Pretty Good from Danny Lloyd (Does well with what he is given and has to do)"
+    }
+    cast: "Decent to Pretty Good from the rest of the cast (Does a pretty good with working off of the principal cast as their main role is to show the more mysterious/horror elements of the Overlook Hotel)"
+    comments: "Pretty Good to Good Acting"
+  }
+  story {
+    writer {
+      name: "Stanley Kubrick"
+    }
+    writer {
+      name: "Diane Johnson"
+    }
+    comments: "Incredible Story (Takes an iconic Stephen King book and really brings it to life as Kubrick really incorporates some iconic story elements that really have become iconic in not only his filmography but in cinema history in general; the story is also laid out well and is progressed in a traditional Kubrick fashion)"
+  }
+  screenplay {
+    writer {
+      name: "Stanley Kubrick"
+    }
+    writer {
+      name: "Diane Johnson"
+    }
+    comments: "Very Good Screenplay (The dialogue is very iconic (filled with some of the most memorable lines in all of cinema history), but a lot of the regular dialogue in the movie is pretty bland; great use of symbolism and incredible use of foreshadowing (some of the best in Horror history))"
+  }
+  score {
+    composer {
+      name: "Wendy Carlos"
+    }
+    composer {
+      name: "Rachel Elkind"
+    }
+    comments: "Good Score (Used well to help build anxiety and tension, with it building up faster and faster after the halfway point)"
+  }
+  cinematography {
+    cinematographer {
+      name: "John Alcott"
+    }
+    comments: "Great Cinematography (Very Kubrick)"
+  }
+  sound: "Good Sound (Helped with building tension and anxiety)"
+  editing {
+    editor {
+      name: "Ray Lovejoy"
+    }
+    comments: "Bad Editing (Transitions felt very amateur, a lot of continuity issues, and the shot/reverse-shot editing just feels very stiff (which is a problem cause the movie relies on this technique heavily throughout the movie); overall, felt like the movie was edited from the 60s even though it came out in 1980)"
+  }
+  visual_effects: "Very Good Visual Effects (Helped with showing the possed nature of the hotel)"
+  production_design: "Great Production Design (Iconic and is very Kubrick in how grand it is)"
+  plot_structure: "Plot Structure was good as the movie was laid out well as each part of the plot is hit as it builds to the climax in the end"
+  pacing: "Pacing is great as the suspense building to the climax was incredible (with it building faster and faster throughout the movie); no need to add or cut time (mainly cause this was some of the best exposition I have seen in a Horror movie)"
+  climax: "Climax is executed so well as it delivers given it was built up throughout the entire movie (with it being the most iconic part of the movie)"
+  tone: "Tone was very similar to other Kubrick movies (but with a Stephen King twist); there are a lot of dead moments that make the movie feel more boring"
+  final_notes: ""
+  overall: "Overall, an iconic horror movie that really holds up as the signature Kubrick filmmaking coupled with the performance of Jack Nicholson really makes this one of the most memorable horror movies of all time, though it does have its limitations when it comes to dialogue and acting"
+}
 release_year: 1980
-review_date: "07/19/2020"
-redux: false
+review_date: "10/04/2023"
+redux: true
 id: 147
 imdb_id: "tt0081505"

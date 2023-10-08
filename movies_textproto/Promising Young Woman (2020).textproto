@@ -1,93 +1,88 @@
 title: "Promising Young Woman"
-rating: 1.0
+rating: 6.3
 review {
   direction {
     director {
       name: "Emerald Fennell"
     }
-    comments: "Direction ()"
+    comments: "Pretty Bad Direction (The direction overall felt very amateurish as the acting was pretty still from the entire cast, the narrative progressed in a very forced way, and the macro and micro scenes were not that executed overall with somewhat deadpan editing style; the direction in the final 30 minutes was pretty good to good (with the major climactic scene shot very well) so there is promise and potential with Fennell)"
   }
   acting {
     actor {
       name: "Carey Mulligan"
-      comments: " from Carey Mulligan ()"
+      comments: "Good to Very Good from Carey Mulligan (Takes control of all the scenes she is in and does a good job in some of the more desperation scenes (somewhat being menacing when she needs to be); the fake/drunk scenes feel more ironic than actually good acting because to the common eye its obvious she is faking)"
     }
     actor {
       name: "Bo Burnham"
-      comments: " from Bo Burnham ()"
+      comments: "Pretty Good from Bo Burnham (Really just plays himself, but does a pretty good job in the more dramatic scenes)"
     }
     actor {
       name: "Alison Brie"
-      comments: " from Alison Brie ()"
+      comments: "Decent to Pretty Good from Alison Brie (Plays mostly from experience rather than taking direction, but she does a good job in holding her own and showing some desperation when needed)"
     }
     actor {
       name: "Clancy Brown"
-      comments: " from Clancy Brown ()"
+      comments: "Decent to Pretty Good from Clancy Brown (Does a good job in the father-figure role and holds his own throughout the movie)"
     }
     actor {
       name: "Chris Lowell"
-      comments: " from Chris Lowell ()"
+      comments: "Decent to Pretty Good from Chris Lowell (Isn't given that much screen-time but does a pretty good job at the moment you find out how much of a terrible person he is (despite trying to look and sound reformed))"
     }
     actor {
       name: "Jennifer Coolidge"
-      comments: " from Jennifer Coolidge ()"
+      comments: "Pretty Bad from Jennifer Coolidge (Plays the same character she has been playing the past few years (and I think this is more annoying than funny))"
     }
     actor {
       name: "Laverne Cox"
-      comments: " from Laverne Cox ()"
+      comments: "Decent to Pretty Good from Laverne Cox (Does a good job in the scenes she is in and plays off of the lead well)"
     }
     actor {
       name: "Connie Britton"
-      comments: " from Connie Britton ()"
+      comments: "Bad from Connie Britton (Her performance just feels like it has no emotion and she has no chemistry with Mulligan at all)"
     }
     actor {
-      name: "Molly Shannon"
-      comments: " from Molly Shannon ()"
+      name: "Alfred Molina"
+      comments: "Decent to Pretty Good from Alfred Molina (Plays more from experience than direction here, and even with that he is only so good with how desperate his character is (which feels like it was not given that much to work with))"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Pretty Bad from the rest of the cast (Everyone just felt amateurish as they feel more like parody actors than actual characters)"
+    comments: "Pretty Bad to Decent Acting"
   }
   story {
     writer {
       name: "Emerald Fennell"
     }
-    comments: "Story ()"
+    comments: "Pretty Good Story (The story is very interesting as we get to see Mulligan's character dive deeper and deeper into what caused her trauma; the chapters weren't used that well to help break up the movie and could've probably been omitted; the final 30 minutes of the movie was well written and helps create suspense through the climax and close things off in the resolution)"
   }
   screenplay {
     writer {
       name: "Emerald Fennell"
     }
-    comments: "Screenplay ()"
+    comments: "Pretty Bad Screenplay (The dialogue feels more like a parody than being profound (especially in the more touchy subject scenes) and just feels very amateurish overall; the comedic elements were decently funny (mainly the Bo Burnham parts); the symbolism was more overt and just felt very forced; the foreshadowing was pretty good (especially in the end))"
   }
   score {
     composer {
       name: "Anthony Willis"
     }
-    comments: "Score ()"
+    comments: "Decent to Pretty Good Score (Nothing major but is used well in helping build suspense)"
   }
   cinematography {
     cinematographer {
       name: "Benjamin Kra\304\215un"
     }
-    comments: "Cinematography ()"
+    comments: "Bad Cinematography (The sharp use of shot-reverse shot just felt very amateurish and broke up from the flow of narrative; the other shots overall just reeked of amateurism)"
   }
-  sound: "Sound ()"
+  sound: "Pretty Good Sound (Helped with building suspense)"
   editing {
     editor {
       name: "Fr\303\251d\303\251ric Thoraval"
     }
-    comments: "Editing ()"
+    comments: "Decent Editing (Used well in the more interlude scenes but not that well in the more dialog-heavy scenes)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  plot_structure: "Plot Structure was kinda formulaic as it was obvious what position in the story the movie was in and the use of chapters did not help with breaking up the movie"
+  pacing: "Pacing was a lot slower than it should be given the movie should be a thriller"
+  climax: "Climax was the best part of the movie and was executed very well in giving truth to Mulligan's struggle and showing who the real monsters of the movie are (giving hope for Fennell in the future as a filmmaker)"
+  tone: "Tone was very similar to other female-led thrillers (though the comedic elements did make the movie a bit more unique)"
+  overall: "Overall, a movie that is held back from amateurism as Carey Mulligan's performance can only go so far given the bland writing and pretty bad direction from the first time director, though Fennell does give promise as a filmmaker as the climax and resolution are executed well."
 }
 release_year: 2020
 review_date: "09/22/2023"

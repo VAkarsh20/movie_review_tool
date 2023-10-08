@@ -1,0 +1,97 @@
+title: "The Dark Knight"
+rating: 9.9
+review {
+  direction {
+    director {
+      name: "Christopher Nolan"
+    }
+    comments: "Brilliant Direction (Brilliant from both a macro and a micro point of view as he really controls every scene and drives the narrative forward through multiple elements (but mostly uses the rich writing to tell the story); got the most out of the main cast of actors as he controls every scene and has them work with each other to move the story forward; is not crazy with his signature Nolan style as goes as far as a comic book interpretation can take him (which is farther than most comic book movies))"
+  }
+  acting {
+    actor {
+      name: "Christian Bale"
+      comments: "Incredible from Christian Bale (Really controls the show and gives a wide range of emotions as he uses the experience he gained from the last movie to really show an unselfish multi-dimensional character)"
+    }
+    actor {
+      name: "Michael Caine"
+      comments: "Great from Michael Caine (Acts as the perfect scene partner to Bale as he is the moral truth/father figure that Bruce Wayne needs during his time of crisis in this movie)"
+    }
+    actor {
+      name: "Heath Ledger"
+      comments: "Brilliant from Heath Ledger (The best performance I have ever seen as he steals the show in every scene he is in and does a brilliant job at eliciting fear from not only the audience but the actors he is working with too; the different sides of the Joker are also displayed as he makes you feel for him despite not knowing anything about him (or what is even true))"
+    }
+    actor {
+      name: "Gary Oldman"
+      comments: "Great from Gary Oldman (Really embodies the role of Gordon through demeanor and experience, working well off of Batman to help save Gotham)"
+    }
+    actor {
+      name: "Aaron Eckhart"
+      comments: "Very Good from Aaron Eckhart (Does a very good job as you can see the biggest shift in his character from someone hopeful to someone who is hopeless and has nothing (though is a bit over-the-top at times))"
+    }
+    actor {
+      name: "Maggie Gyllenhaal"
+      comments: "Good to Very Good from Maggie Gyllenhaal (An upgrade from Katie Holmes as she does a good job at working off of the other cast mates, but does not have the strong chemistry that other characters have with each other (and is not super believable as the female lead as well))"
+    }
+    actor {
+      name: "Morgan Freeman"
+      comments: "Very Good from Morgan Freeman (Plays the typical Morgan Freeman role very well)"
+    }
+    cast: "Good from the rest of the cast (It is more of a spectrum as some of the extras were pretty bad but overall it was good from the rest of the cast)"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Christopher Nolan"
+    }
+    writer {
+      name: "David S. Goyer"
+    }
+    comments: "Brilliant Story (One of the best laid-out stories ever as it uses some influence from the comic books to help architect such a unique story that is something more than a Comic Book movie, a movie that is about sacrifice and being something greater than yourself; the story points build off each other throughout the movie as the different story arcs for all the characters progress throughout the movie until the very end)"
+  }
+  screenplay {
+    writer {
+      name: "Jonathan Nolan"
+    }
+    writer {
+      name: "Christopher Nolan"
+    }
+    comments: "Brilliant Screenplay (The dialogue is just perfect as everything flows and it is just filled with so many iconic lines; the jokes (while few) do hit and help lighten the mood; the symbolism is brilliant as the themes of Chaos and Sacrifice play vital roles in the decisions of the characters; the foreshadowing is brilliant as most of the movie is about Batman trying to come to terms with what he knows he has to do)"
+  }
+  score {
+    composer {
+      name: "Hans Zimmer"
+    }
+    composer {
+      name: "James Newton Howard"
+    }
+    comments: "Brilliant Score (One of my favorite scores ever as it is used to provide background into the characters, invoke emotions, and drive the tempo of the movie)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Wally Pfister"
+    }
+    comments: "Incredible Cinematography (Really uses the IMAX cameras and the film well as it shows the grandeur of some of the shows and helps give insight in the scale of the movie (with this best being shown in the opening sequence))"
+  }
+  sound: "Incredible Sound (A small aspect of the movie but is just so memorable as this mixed with the score helps show tension and anxiety in some of the action scenes (like the Joker Motorcycle scene))"
+  editing {
+    editor {
+      name: "Lee Smith"
+    }
+    comments: "Incredible Editing (Just really pieces this movie together and helps show the different angles the characters are seeing and different emotions they are feeling (whether it be lost by slowing down the movie or anxious when it is sped up/cut fast))"
+  }
+  visual_effects: "Incredible Visual Effects (The use of practical effects helps with showing how possible Batman could be, and the use of Pyro shows the simplicity of the Joker's regime)"
+  production_design: "Great Production Design (Some iconic sets such as the Bat Bunker show the makeshift approach he has to after he lost Wayne Manor and the Bat Cave)"
+  makeup: "Incredible Makeup (Mostly the Joker's Makeup and Two-Face as it helps paint how menacing the characters are (even with the simplicity of the former))"
+  costumes: "Incredible Costumes (Mostly just the Bat suit and the Joker suit with how iconic they are)"
+  plot_structure: "Plot Structure was laid out perfectly as each story element builds on itself as the movie goes through the narrative up until its climax; the movie feels like it hits a point where everything shifts and a second movie comes out to show how chaotic Gotham becomes"
+  pacing: "Pacing is on the quicker side but the movie does an amazing job speeding up the tempo to show an anxiety rush or slowing it down to show the loss and depression some of the characters feel"
+  climax: "Climax is executed perfectly as it was built up incredibly and can be seen from two perspectives (both the hero's and the villain's side) as we get to see who really wins and what needs to happen"
+  tone: "Tone had a comic book feel but also a mystery-thriller feel (but ultimately a Christopher Nolan feel in the end)"
+  final_notes: "There is some bias with this movie because Christopher Nolan is my favorite director and this movie has so much personal meaning to me (being from Chicago and hearing about the filming from my Mom as she went to work)"
+  overall: "Overall, a magnum opus in cinema since everything is nearly perfect as we see Christopher Nolan take a comic book source material and go beyond what is possible as he spins it into a movie about Chaos, Loss, and Sacrifice, something that is driven forward and provoked by Heath Ledger's unforgettable performance"
+}
+release_year: 2008
+review_date: "10/01/2023"
+redux: true
+id: 19
+imdb_id: "tt0468569"

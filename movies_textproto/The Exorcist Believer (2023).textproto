@@ -1,0 +1,100 @@
+title: "The Exorcist: Believer"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "David Gordon Green"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Leslie Odom Jr."
+      comments: " from Leslie Odom Jr. ()"
+    }
+    actor {
+      name: "Ann Dowd"
+      comments: " from Ann Dowd ()"
+    }
+    actor {
+      name: "Jennifer Nettles"
+      comments: " from Jennifer Nettles ()"
+    }
+    actor {
+      name: "Norbert Leo Butz"
+      comments: " from Norbert Leo Butz ()"
+    }
+    actor {
+      name: "Lidya Jewett"
+      comments: " from Lidya Jewett ()"
+    }
+    actor {
+      name: "Olivia Marcum"
+      comments: " from Olivia Marcum ()"
+    }
+    actor {
+      name: "Ellen Burstyn"
+      comments: " from Ellen Burstyn ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Scott Teems"
+    }
+    writer {
+      name: "Danny McBride"
+    }
+    writer {
+      name: "David Gordon Green"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Peter Sattler"
+    }
+    writer {
+      name: "David Gordon Green"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "David Wingo"
+    }
+    composer {
+      name: "Amman Abbasi"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Michael Simmonds"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Tim Alverson"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "10/08/2023"
+redux: false
+id: 374
+imdb_id: "tt12921446"
