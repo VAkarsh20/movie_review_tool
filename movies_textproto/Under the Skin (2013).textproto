@@ -1,68 +1,54 @@
-title: "Psycho"
+title: "Under the Skin"
 rating: 1.0
 review {
   direction {
     director {
-      name: "Alfred Hitchcock"
+      name: "Jonathan Glazer"
     }
     comments: "Direction ()"
   }
   acting {
     actor {
-      name: "Anthony Perkins"
-      comments: " from Anthony Perkins ()"
-    }
-    actor {
-      name: "Vera Miles"
-      comments: " from Vera Miles ()"
-    }
-    actor {
-      name: "John Gavin"
-      comments: " from John Gavin ()"
-    }
-    actor {
-      name: "Martin Balsam"
-      comments: " from Martin Balsam ()"
-    }
-    actor {
-      name: "John McIntire"
-      comments: " from John McIntire ()"
-    }
-    actor {
-      name: "Janet Leigh"
-      comments: " from Janet Leigh ()"
+      name: "Scarlett Johansson"
+      comments: " from Scarlett Johansson ()"
     }
     cast: "from the rest of the cast ()"
     comments: " Acting"
   }
   story {
     writer {
-      name: "Joseph Stefano"
+      name: "Walter Campbell"
+    }
+    writer {
+      name: "Jonathan Glazer"
     }
     comments: "Story ()"
   }
   screenplay {
     writer {
-      name: "Joseph Stefano"
+      name: "Walter Campbell"
+    }
+    writer {
+      name: "Jonathan Glazer"
     }
     comments: "Screenplay ()"
   }
   score {
     composer {
-      name: "Bernard Herrmann"
+      name: "Mica Levi"
     }
     comments: "Score ()"
   }
   cinematography {
     cinematographer {
-      name: "John L. Russell"
+      name: "Daniel Landin"
     }
     comments: "Cinematography ()"
   }
   sound: "Sound ()"
   editing {
     editor {
-      name: "George Tomasini"
+      name: "Paul Watts"
     }
     comments: "Editing ()"
   }
@@ -71,14 +57,14 @@ review {
   makeup: "Makeup ()"
   costumes: "Costumes ()"
   plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
+  pacing: "Pacing (incredibly slow)"
+  climax: "Climax (Intense but also anticlimactic)"
   tone: "Tone "
   final_notes: ""
   overall: "Overall, "
 }
-release_year: 1960
+release_year: 2013
 review_date: "10/18/2023"
-redux: true
-id: 224
-imdb_id: "tt0054215"
+redux: false
+id: 375
+imdb_id: "tt1441395"

@@ -26,6 +26,7 @@ def get_wiki_info():
             title = input("What is the film title?\n")
             wiki_title = title.replace(" ", "_")
             
+            # TODO: Fix bug with Psycho (1960)
             imdb_id = get_imdb_id(wiki_title)
             infobox = parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
 
