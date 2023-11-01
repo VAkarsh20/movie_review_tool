@@ -1,0 +1,72 @@
+title: "American Fiction"
+rating: 8.5
+review {
+  direction {
+    director {
+      name: "Cord Jefferson"
+    }
+    comments: "Very Good Direction (Controls everything very well on a macro and micro scale as he uses comedy and social issues to propel the story forward; gets a lot out of his actors as the comedic moments feel very genuine and the dramatic moments feel very meaningful)"
+  }
+  acting {
+    actor {
+      name: "Jeffrey Wright"
+      comments: "Great from Jeffrey Wright (Really controls every scene he is in as he plays the line between Comedy and Drama very well (excelling in both areas as he shows off his experience))"
+    }
+    actor {
+      name: "Tracee Ellis Ross"
+      comments: "Good from Tracee Ellis Ross (Makes an impact with her scenes with Wright as she plays off of him very well to help show the relationship the protagonist has with his family)"
+    }
+    actor {
+      name: "Issa Rae"
+      comments: "Good from Issa Rae (Holds her own well as her comedic timing is good and works well at building tension between her and Wright)"
+    }
+    actor {
+      name: "Sterling K. Brown"
+      comments: "Good to Very Good from Sterling K. Brown (Has a lot of charisma in his performance as he uses his over-the-top comedic style mixed with dramatic experience to make his presence known in the scenes he is in)"
+    }
+    cast: "Good from the rest of the cast (Everyone does their job well and contributes to providing humorous moments and moving the story forward)"
+    comments: "Good to Very Good Acting"
+  }
+  story {
+    writer {
+      name: "Cord Jefferson"
+    }
+    comments: "Very Good Story (Uses the source material very well to create a very contemporary story about how far virtue-signaling has gone in today's culture; uses many different story elements to help play both sides of the comedy-drama; Does a good job at building the character of Monk as you can see the conflict he has with career/family/race; the story progresses very well as each element of the plot is built upon till the very end (with the meta-narrative structure playing a big role throughout to mimic how the original novel was written))"
+  }
+  screenplay {
+    writer {
+      name: "Cord Jefferson"
+    }
+    comments: "Very Good to Great Screenplay (The dialogue is very good as it just feels very natural and helps keep the story interesting; the jokes were very well written as they are appropriate in showing how Monk thinks about the whole experience (with a lot of it coming from the scenes where he is pretending to be the convict); the symbolism is really prevalent as it helps with delivering the message of being against virtue-signaling and pigeon-holding racing into thinking they talk about certain topics; the foreshadowing is very unexpected as it really stems away from the traditional narrative structure to not have that many cliches)"
+  }
+  score {
+    composer {
+      name: "Laura Karpman"
+    }
+    comments: "Pretty Good Score (Very Jazzy and helps set the personality of the protagonist)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Cristina Dunlap"
+    }
+    comments: "Good Cinematography"
+  }
+  sound: "Good Sound"
+  editing {
+    editor {
+      name: "Hilda Rasula"
+    }
+    comments: "Good Editing"
+  }
+  plot_structure: "Plot Structure was well laid out as every element was prevalent and these elements flow between each other; the metanarrative elements do break the plot flow sometimes but in a good way as it helps with showing how the protagonist is really thinking about the situations he is in"
+  pacing: "Pacing was good as it followed the general pacing of a comedy; the runtime was good as there really was nothing that could have been added or cut"
+  climax: "Climax was good as it showed the culmination of how far Monk went with the character (and has some elements that make it not so predictable to enhance the comedy of the moment)"
+  tone: "Tone was more in line with a comedy than a drama (with the dramatic elements feeling being more lighthearted than that it should've been)"
+  final_notes: "Saw a premiere at Austin Film Fest"
+  overall: "Overall, a very good effort in Cord Jefferson's directorial debut as Jeffery Wright's performance and very good comedy writing/direction propel the movie into something very funny yet profound with its social commentary"
+}
+release_year: 2023
+review_date: "10/27/2023"
+redux: false
+id: 378
+imdb_id: "tt23561236"

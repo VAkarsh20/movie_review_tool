@@ -1,0 +1,68 @@
+title: "The Holdovers"
+rating: 8.6
+review {
+  direction {
+    director {
+      name: "Alexander Payne"
+    }
+    comments: "Very Good Direction (Employs a very traditional 70s storytelling style as it feels like he uses works from the time period (and some from the 80s) to influence how the story is told; controls everything well on a macro; really excels in on a micro-scale as the group scenes and especially the one-on-one scenes really drive the movie forward with its emotion and comedic moments)"
+  }
+  acting {
+    actor {
+      name: "Paul Giamatti"
+      comments: "Great from Paul Giamatti (Somewhat of a spiritual successor to his performance in Sideways as he carries off the smug demeanor of someone who suffers from digging their hole further into loneliness)"
+    }
+    actor {
+      name: "Da\'Vine Joy Randolph"
+      comments: "Great from Da\'Vine Joy Randolph (Does a great job working off of Giamatti and Sessa as she acts as the mother-figure for the main cast and embodies someone who is dealing with the trauma of loss; embodies the New England working class)"
+    }
+    actor {
+      name: "Dominic Sessa"
+      comments: "Very Good from Dominic Sessa (Has great chemistry with Giamatti as he embodies someone trying to find his place in the world (and looking for Giamatti to be that unexpecting father figure in his time of loneliness))"
+    }
+    cast: "Good from the rest of the cast (Play their role well (especially the child actors), but the film is mostly the main cast)"
+    comments: "Very Good to Great Acting"
+  }
+  story {
+    writer {
+      name: "David Hemingson"
+    }
+    comments: "Very Good Story (The story is pretty simple and laid out well as it draws from many sources of inspiration to embody something made in the 1970s-80s (which kinda hurts it from being unique and going above and beyond); the character writing is very good to great as you get to learn about who they really are the more you get to know them (to where Giamatti's and Sessa's character are actually a lot more alike than they thought); the story elements are interesting and the flow is pretty similar to that of a Christmas/coming-of-age movie)"
+  }
+  screenplay {
+    writer {
+      name: "David Hemingson"
+    }
+    comments: "Great Screenplay (The dialogue is very of the time and flows very well; the jokes were funny and embody movies from the time period; the symbolism was very prominent as it helps provide the message of finding purpose and the dangers of loneliness; the foreshadowing was pretty typical of movies from the 70s-80s (which made the movie pretty predictable))"
+  }
+  score {
+    composer {
+      name: "Mark Orton"
+    }
+    comments: "Pretty Good Score (Helped establish the time and the Christmas tone)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Eigil Bryld"
+    }
+    comments: "Good Cinematography (Gave the movie a very 70s multi-cam feel)"
+  }
+  sound: "Good Sound (The slapstick feel helped give the movie a 70s-80s feel)"
+  editing {
+    editor {
+      name: "Kevin Tent"
+    }
+    comments: "Good Editing (Felt very 70s and helped with setting the tone and time period)"
+  }
+  plot_structure: "Plot Structure was pretty formulaic as it followed something from the 70s (but it does do a good job at having the plot elements build on each other)"
+  pacing: "Pacing was a bit on the slower side (but this helped with giving the 70s feel); the runtime maybe could have been cut 10-15 minutes when the conflict was introduced to provide more emphasis on the relationship between Giamatti and Sessa's characters"
+  climax: "Climax was executed very well as it is a real epiphany moment for the characters and invokes a lot of feel-good emotions from the audience (was definitely some of the best dramatic moments of the movie)"
+  tone: "Tone was very similar to Christmas movies (like A Christmas Story)/Dead Poet's Society/70s movies as this helped give the movie a throwback feel to the time period it is set"
+  final_notes: "Saw a premiere at Austin Film Fest"
+  overall: "Overall, a profound coming-of-age dramedy that really embodies the time period it is set as the performances (especially Paul Giamatti's) coupled with the writing really shows the impact loneliness has on people at different point's of their lives, although the movie is held back by playing too much into the time-period as it can only do so much with following the 70s Christmas trope"
+}
+release_year: 2023
+review_date: "10/28/2023"
+redux: false
+id: 379
+imdb_id: "tt14849194"

@@ -1,8 +1,88 @@
 title: "Midsommar"
-rating: 8.2
-review: "A great follow up to Hereditary for Ari Aster, Great Acting, Great Story, Great Screenplay, While it is not as layered nor does it have the depth of Hereditary it still does have a fair amount of layers and depth, Incredible Cinematography and visuals, Good pacing and the ending actually makes sense and is good (Unlike Hereditary), More grotesque than scary and there are scenes that are meant to be scary but are just funny instead, Good score, The perfect foil for Hereditary."
+rating: 8.6
+review {
+  direction {
+    director {
+      name: "Ari Aster"
+    }
+    comments: "Very Good Direction (Does everything so well on a grand scale as he builds the pagan community with the macro-style scenes, he helps build tension on a micro-scale as he gets the most out of his actors to build an uneasy environment; some growing pains do limit this from being a great (which is expected for someone's second feature film))"
+  }
+  acting {
+    actor {
+      name: "Florence Pugh"
+      comments: "Very Good from Florence Pugh (Holds her own very well and is the real commanding force in her scenes; a bit over-the-top at times but you really can see her internal struggle through her emotion and facial expressions)"
+    }
+    actor {
+      name: "Jack Reynor"
+      comments: "Good to Very Good from Jack Reynor (Works off of the other characters well and has a scene of charisma to be the lead in some of his scenes; Faulters in the drug-induced scenes as it feels more comical than realistic)"
+    }
+    actor {
+      name: "William Jackson Harper"
+      comments: "Good from William Jackson Harper (Holds his own well and works off of the other actors well)"
+    }
+    actor {
+      name: "Vilhelm Blomgren"
+      comments: "Good from Vilhelm Blomgren (Has a more personal performance as he acts as this calming conduit between the tourists and the natives)"
+    }
+    actor {
+      name: "Ellora Torchia"
+      comments: "Good from Ellora Torchia (Works well off of Madekwe and the other cast in showing some sense of fear)"
+    }
+    actor {
+      name: "Archie Madekwe"
+      comments: "Pretty Good to Good from Archie Madekwe (A bit over-the-top but does do a good job in showing panic)"
+    }
+    actor {
+      name: "Will Poulter"
+      comments: "Good from Will Poulter (Plays the comedic relief character well as his role of the jester plays a significant part in how the community sees him)"
+    }
+    cast: "Good from the rest of the cast (Everyone plays their part well and acts as a cog to help build the mystery and tension in the story)"
+    comments: "Good Acting"
+  }
+  story {
+    writer {
+      name: "Ari Aster"
+    }
+    comments: "Great Story (Builds the world and overarching conflict very well as it is a bit unique in drawing from Swedish pagan traditions to create a horror movie; the internal conflict for the protagonist is also written well as you really see her trying to juggle her trauma with the anxiety currently present; All of the story elements really add to the story and are closed in the end (with some left unanswered intentionally to leave room for interpretation))"
+  }
+  screenplay {
+    writer {
+      name: "Ari Aster"
+    }
+    comments: "Very Good to Great Screenplay (The dialogue flows very well and builds on itself throughout the movie; the comedic relief moments alleviate some of the tension and are not overbearing; the horror elements were very good as it was more anxiety-inducing and tension rather than straight horror (though the director's cut did have more traditional horror elements); the foreshadowing is very good as it emulates traditional pagan storytelling predicting the future)"
+  }
+  score {
+    composer {
+      name: "Bobby Krlic"
+    }
+    comments: "Good Score (Used to help build tension and create anxiety with the audience)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Pawel Pogorzelski"
+    }
+    comments: "Great Cinematography (Really helps paint the scenes and is seamless most of the time (though there are some minor issues))"
+  }
+  sound: "Good Sound (Helps with building tension, was as good as the budget would let it be)"
+  editing {
+    editor {
+      name: "Lucian Johnston"
+    }
+    comments: "Good Editing (Very Good to show hectic nature but was pretty bad when showing the drug effects)"
+  }
+  visual_effects: "Good Visual Effects (Very Good for the budget as it was mostly practical effects; the drug effects felt very tacky and held the movie back a bit)"
+  production_design: "Great Production Design (Really helped with creating the pagan community and setting the scene in rural Sweden)"
+  makeup: "Pretty Good Makeup (Helped with showing some of the demented and brutalized figures (was as good as the budget would let it be))"
+  costumes: "Good Costumes (Helped with creating the world and the citizens of the pagan community)"
+  plot_structure: "Plot Structure was laid out well as each element serves its purpose as the movie continues to build towards its climax"
+  pacing: "Pacing was good and there were no complaints (the director's cut did slow it down a bit but it made the plot make more sense as it brought more insight into what the characters were going through)"
+  climax: "Climax was chaos (which was intentional) as the director lets everything lose and has the audience look at the consequences (in a good way)"
+  tone: "Tone was more similar to a thriller than a horror as the tension building makes the audience feel like they are on their toes the more the story unravels; there is more of an ironic happier tone (in a demented way) than Hereditary (making it be the perfect foil)"
+  final_notes: "This review is for the director's cut"
+  overall: "Overall, the perfect foil to Hereditary as the movie above-the-line executes very well to create a demented pagan story that keeps you on your toes, with the director's cut adding even more depth into this sadistic fever dream"
+}
 release_year: 2019
-review_date: "07/08/2019"
-redux: false
+review_date: "10/26/2023"
+redux: true
 id: 100
 imdb_id: "tt8772262"

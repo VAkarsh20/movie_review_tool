@@ -1,0 +1,76 @@
+title: "All of Us Strangers"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Andrew Haigh"
+    }
+    comments: "Decent to Pretty Good Direction ()"
+  }
+  acting {
+    actor {
+      name: "Andrew Scott"
+      comments: "Very Good from Andrew Scott (The center of the movie, really embodies someone who is dealing with repressed trauma from the loss of his family, dealing with his sexuality in a heteronormaitve culture, and finding love when very few love him back)"
+    }
+    actor {
+      name: "Paul Mescal"
+      comments: "Pretty Good from Paul Mescal (Mumbling the whole movie so its so hard to hear what he is saying)"
+    }
+    actor {
+      name: "Jamie Bell"
+      comments: "Good from Jamie Bell (Plays off of Scott very well (Especially in their one-on-one scenes))"
+    }
+    actor {
+      name: "Claire Foy"
+      comments: "Good from Claire Foy (Shows a lot of emotion when dealing with her son (especially in their one-on-one scenes and their final scene in the movie))"
+    }
+    cast: "Good from the rest of the cast (There really is no other cast besides these four)"
+    comments: "Good Acting"
+  }
+  story {
+    writer {
+      name: "Andrew Haigh"
+    }
+    comments: "Story (Unique story and very suble way of storytelling (to help keep with the mystery and blur what is reality); the storytelling really is miminal and leaves a lot open for interpretation on what actually happened)"
+  }
+  screenplay {
+    writer {
+      name: "Andrew Haigh"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Emilie Levienaise-Farrouch"
+    }
+    comments: "Decent Score (Pretty minimal and just used to set the tone)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Jamie D. Ramsay"
+    }
+    comments: "Very Good Cinematography (Very artsy and helps show how skewed the protagonist's view of reality was)"
+  }
+  sound: "Bad Sound (The dialogue sound mixing was bad because it was muffled and just hard to hear; the aspects of sound just felt like they were cheap (especially in the beginning))"
+  editing {
+    editor {
+      name: "Jonathan Alberts"
+    }
+    comments: "Editing (Artsy for the most part; felt a bit tacky at times (especially the opening shot and the drug scene))"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing was slow (expostion was incredibly slow)"
+  climax: "Climax was both closure and a big twist as it opened the door to interpretation"
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "10/30/2023"
+redux: false
+id: 382
+imdb_id: "tt21192142"

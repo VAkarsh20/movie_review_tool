@@ -36,6 +36,7 @@ def get_wiki_info():
             
             return title, imdb_id, infobox
         except:
+            # TODO: Fix this, breaks the app because it does not retry
             print("Film not found. Please try again.")
             break
     return None, None, None

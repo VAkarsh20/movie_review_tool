@@ -1,0 +1,79 @@
+title: "Finestkind"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Brian Helgeland"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Ben Foster"
+      comments: " from Ben Foster ()"
+    }
+    actor {
+      name: "Toby Wallace"
+      comments: " from Toby Wallace ()"
+    }
+    actor {
+      name: "Jenna Ortega"
+      comments: " from Jenna Ortega ()"
+    }
+    actor {
+      name: "Tommy Lee Jones"
+      comments: " from Tommy Lee Jones ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Brian Helgeland"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Brian Helgeland"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Carter Burwell"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Crille Forsberg"
+    }
+    comments: "Cinematography (Over-use of shot-reverse shot)"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Stuart Levy"
+    }
+    editor {
+      name: "Claudia Castello"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "10/29/2023"
+redux: false
+id: 380
+imdb_id: "tt7991508"

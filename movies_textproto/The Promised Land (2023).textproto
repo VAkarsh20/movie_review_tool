@@ -1,0 +1,64 @@
+title: "The Promised Land"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Nikolaj Arcel"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Mads MikkelsenAmanda CollinSimon Bennebjerg"
+      comments: " from Mads MikkelsenAmanda CollinSimon Bennebjerg ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Nikolaj ArcelAnders Thomas Jensen"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Nikolaj ArcelAnders Thomas Jensen"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Dan Romer"
+    }
+    comments: "Score (Felt really similiar to Joker)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Rasmus Videb\303\246k"
+    }
+    comments: "Cinematography (Really polished and help show the vastness of the world and the emotions of the characters)"
+  }
+  sound: "Very Good Sound (Felt very crisp and helped with building tension)"
+  editing {
+    editor {
+      name: "Olivier Bugge Coutt\303\251"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "10/29/2023"
+redux: false
+id: 381
+imdb_id: "tt20561198"

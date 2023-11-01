@@ -1,0 +1,85 @@
+title: "Aliens"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "James Cameron"
+    }
+    comments: "Very Good Direction (Has a control of the scenes and illicts horror very well; there is an element of 80s camp in the interpersonal scenes)"
+  }
+  acting {
+    actor {
+      name: "Sigourney Weaver"
+      comments: "Very Good from Sigourney Weaver (; does a hit a limit at some points)"
+    }
+    actor {
+      name: "Michael Biehn"
+      comments: "Decent from Michael Biehn ()"
+    }
+    actor {
+      name: "Paul Reiser"
+      comments: "Decent to Pretty Good from Paul Reiser ()"
+    }
+    actor {
+      name: "Lance Henriksen"
+      comments: "Decent to Pretty Good from Lance Henriksen ()"
+    }
+    actor {
+      name: "Carrie Henn"
+      comments: "Pretty Good from Carrie Henn (; does a good job at being representing the emotional vulnerability of the audience)"
+    }
+    cast: "Bad to Pretty Bad from the rest of the cast (Just very 80s and filled with camp)"
+    comments: "Decent to Pretty Good Acting"
+  }
+  story {
+    writer {
+      name: "James Cameron"
+    }
+    writer {
+      name: "David Giler"
+    }
+    writer {
+      name: "Walter Hill"
+    }
+    comments: "Good Story (; very predictable at times and just felt like it played to the time-period it was released)"
+  }
+  screenplay {
+    writer {
+      name: "James Cameron"
+    }
+    comments: "Decent Screenplay (The dialogue did not age well because it is super 80s and campy; the jokes were decently funny (but a bit forced); the horror elements were very good as it used a combination of sound and efects to scare the audience; symbolism is pretty overt; foreshadowing is very overt that it makes the movie predictable (typical of movies from the 80s))"
+  }
+  score {
+    composer {
+      name: "James Horner"
+    }
+    comments: "Good Score (Used well to set the tone and ilict fear/build tension)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Adrian Biddle"
+    }
+    comments: "Very Good Cinematography (Very polished and used well to help build the world (and how scarey it was when dealing with the creatures))"
+  }
+  sound: "Incredible Sound (Used very well to help boost the horror, action, and sci-fi elements and felt very polished)"
+  editing {
+    editor {
+      name: "Ray Lovejoy"
+    }
+    comments: "Very Good Editing (; although felt very typical to other Sci-fi/Action movies of the 80s)"
+  }
+  visual_effects: "Incredible Visual Effects (Was expectional when showing the Aliens and was handled very well when showing the space scenes/machines; the use of pyrotechnics and practical effects was incredible as well as it helped show the chaos building as the movie went on)"
+  production_design: "Great Production Design (Really did a good job at making the movie feel Sci-fi and in Space)"
+  makeup: "Very Good Makeup (Did a good job in showing the impact and byproduct of the aliens)"
+  plot_structure: "Plot Structure was pretty similiar to Sci-fi movies from the 80s (but was mapped out very well and had the right amount of exposition and rising action to leave plenty of time for the climax to take up a significant portion of the movie)"
+  pacing: "Pacing was a good quick pace (a stark difference from the first movie)"
+  climax: "Climax was executed very well as it felt like it was going on for the final 40 minutes (with the audience being kept on its toes as the characters try to escape and fight the aliens)"
+  tone: "Tone was very similiar to other 80s Sci-fi and Action movies (though the tone in the horror moments did help make the movie scarey)"
+  final_notes: "Saw a screening at Austin Film Fest"
+  overall: "Overall, "
+}
+release_year: 1986
+review_date: "10/31/2023"
+redux: false
+id: 383
+imdb_id: "tt0090605"
