@@ -1,57 +1,57 @@
 title: "Finestkind"
-rating: 1.0
+rating: 2.3
 review {
   direction {
     director {
       name: "Brian Helgeland"
     }
-    comments: "Direction ()"
+    comments: "Terrible Direction (Has no control over any part of this movie; the movie is terrible on a macro-scale it feels very formulaic and any other movie from New England (but clashed with a forced drug trafficking storyline); the movie is Terrible on a micro-scale because there is absolutely no chemistry in the entire cast (really does not help his actors in any way) and the scenes just feel forced and choppy; the storytelling is terrible because everything just feels choppy and forced (with nothing feeling like it is happening for a reason))"
   }
   acting {
     actor {
       name: "Ben Foster"
-      comments: " from Ben Foster ()"
+      comments: "Very Bad from Ben Foster (He feels so over-the-top that it is comical and he has no chemistry with any of the other characters (and is just so shelved off))"
     }
     actor {
       name: "Toby Wallace"
-      comments: " from Toby Wallace ()"
+      comments: "Terrible from Toby Wallace (Just terrible all around as he is not convincing as the lead and just forces himself into every conversation and situation somewhat in a Deus Ex Machina way; so over-the-top that he is funny when he is meant to be serious and boring when he is meant to be funny; Has zero chemistry with Ben Foster and somehow negative chemistry with Jenna Ortega)"
     }
     actor {
       name: "Jenna Ortega"
-      comments: " from Jenna Ortega ()"
+      comments: "Very Bad from Jenna Ortega (Incredibly forced and unnecessary as her interjections really have nothing to do with what is going on and she clearly hits a ceiling when it comes to the dramatic points;  the deadpan moments when it comes to the comedic parts does not work with the rest of the cast; has negative chemistry with Toby Wallace because it just feels forced and rushed)"
     }
     actor {
       name: "Tommy Lee Jones"
-      comments: " from Tommy Lee Jones ()"
+      comments: "Bad from Tommy Lee Jones (Plays himself giving no effort as his experience can only take him so far given how bad the script is (and it seems like he knows how bad the movie is and just wants to finish the job); at least elevates the scenes he is in (but by a marginal amount))"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Terrible from the rest of the cast (Just inexperience all around and terrible/unconvincing acting from people in this area/profession; no chemistry in the entire cast whatsoever)"
+    comments: "Terrible to Very Bad Acting"
   }
   story {
     writer {
       name: "Brian Helgeland"
     }
-    comments: "Story ()"
+    comments: "Terrible Story (The concept was somewhat personal to the director but the overall story was horribly constructed as there just feels like there is no vision for what he is going for (just does a terrible job at clashing two different ideas into one); the story construction was poor because the conflict is introduced at the 1-hour 15-minute mark of a 2-hour movie, prioritizing a poorly written exposition that leaves for very little rising action and a rushed climax(could have cut like 20-30 minutes of the exposition and would have gotten the same film); the flow between sequences is just so forced and on a grand scheme makes no sense (especially in the shift in plot for the conflict; the characters are just so shallowly written that you don’t really care for them or what they are going through (and it doesn’t help that they do not have any chemistry, especially the relationship between Wallace and Ortega’s characters as its just so rushed and forced)"
   }
   screenplay {
     writer {
       name: "Brian Helgeland"
     }
-    comments: "Screenplay ()"
+    comments: "Terrible Screenplay (The dialogue just is so unnatural and incredibly stupid that it is very campy (it is impossible to think that people talk this way and the amount they repeat the word ‘Finestkind’ is laughable); the jokes are just so bad and sad at how bad they hit (like when Jenna Ortega’s character calls the main character ‘White Boy’ when no aspects of her race/identity are ever mentioned in the movie; there is practically no symbolism as every metaphor they introduce is forced to the point that the message makes no sense and not believable; there is no foreshadowing (the movie just so shallow that hooks left at the beginning of the movie just make the story so predictable)"
   }
   score {
     composer {
       name: "Carter Burwell"
     }
-    comments: "Score ()"
+    comments: "Decent Score"
   }
   cinematography {
     cinematographer {
       name: "Crille Forsberg"
     }
-    comments: "Cinematography (Over-use of shot-reverse shot)"
+    comments: "Very Bad Cinematography (So bad that it honestly felt nauseating at times; the handy-cam moments were just too shaky and the polished moments cut way too many times that it felt amateurish; over-used the of shot-reverse shot technique that it made me madder than focus on the characters in frame)"
   }
-  sound: "Sound ()"
+  sound: "Decent Sound (Just felt like that of a standard action movie)"
   editing {
     editor {
       name: "Stuart Levy"
@@ -59,18 +59,15 @@ review {
     editor {
       name: "Claudia Castello"
     }
-    comments: "Editing ()"
+    comments: "Very Bad Editing (The sequences are so so sharply edited that it felt like there is no sense of continuity they were going for (and it feels amateurish too))"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Decent Visual Effects (Mostly practical effects)"
+  plot_structure: "Plot Structure was terrible because the movie spends too much time on the exposition (and does a bad job at that too) to where the conflict is introduced so late in the movie that there is no room to develop a rising action (and the climax suffers because of it because it feels rushed and forced)"
+  pacing: "Pacing is a mess because it is incredibly fast in going through plot points (but there is just so much meanless plot that that it somewhat feels slow at the same time)"
+  climax: "Climax is incredibly rushed and feels incredibly out of place (and it just feels like a child directed it)"
+  tone: "Tone feels like a generic Boston 'Dad' movie but making the movie a drug trafficking thriller just completely shifts the tone in a 180 fashion (and nothing prepares for this)"
+  final_notes: "Saw a premiere at Austin Film Fest"
+  overall: "Overall, a complete misfiring on all cylinders as everything in this movie is so bad that is borderline camp on New England culture, making it a must watch to see how something this terrible got made into a movie"
 }
 release_year: 2023
 review_date: "10/29/2023"

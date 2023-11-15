@@ -1,0 +1,115 @@
+title: "The Marvels"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Nia DaCosta"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Brie Larson"
+      comments: " from Brie Larson ()"
+    }
+    actor {
+      name: "Teyonah Parris"
+      comments: " from Teyonah Parris ()"
+    }
+    actor {
+      name: "Iman Vellani"
+      comments: " from Iman Vellani ()"
+    }
+    actor {
+      name: "Zawe Ashton"
+      comments: " from Zawe Ashton ()"
+    }
+    actor {
+      name: "Gary Lewis"
+      comments: " from Gary Lewis ()"
+    }
+    actor {
+      name: "Park Seo-joon"
+      comments: " from Park Seo-joon ()"
+    }
+    actor {
+      name: "Zenobia Shroff"
+      comments: " from Zenobia Shroff ()"
+    }
+    actor {
+      name: "Mohan Kapur"
+      comments: " from Mohan Kapur ()"
+    }
+    actor {
+      name: "Saagar Shaikh"
+      comments: " from Saagar Shaikh ()"
+    }
+    actor {
+      name: "Samuel L. Jackson"
+      comments: " from Samuel L. Jackson ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Nia DaCosta"
+    }
+    writer {
+      name: "Megan McDonnell"
+    }
+    writer {
+      name: "Elissa Karasik"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Nia DaCosta"
+    }
+    writer {
+      name: "Megan McDonnell"
+    }
+    writer {
+      name: "Elissa Karasik"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Laura Karpman"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Sean Bobbitt"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Catrin Hedstr\303\266m"
+    }
+    editor {
+      name: "Evan Schiff"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "11/13/2023"
+redux: false
+id: 387
+imdb_id: "tt10676048"
