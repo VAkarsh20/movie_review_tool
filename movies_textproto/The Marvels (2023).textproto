@@ -1,55 +1,35 @@
 title: "The Marvels"
-rating: 1.0
+rating: 3.8
 review {
   direction {
     director {
       name: "Nia DaCosta"
     }
-    comments: "Direction ()"
+    comments: "Very Bad Direction (The cut was just very bad and felt like the studio had a major say in how they trimmed it; the macro scenes were just very boring and the fight scenes were not engaging at all as she just relied too much on CGI to make it interesting; the interpersonal scenes were lacking in the movie as it never felt like it furthered the conflict or the relationships between the characters (especially The Marvels as there was like only one scene meant for team building), it felt like there were many scenes for character building that were cut; the direction of actors was very bad because it just felt like none of the cast had any chemistry or felt convincing in the emotional moments of the movie)"
   }
   acting {
     actor {
       name: "Brie Larson"
-      comments: " from Brie Larson ()"
+      comments: "Bad from Brie Larson (Very Monotonous with her line delivery and just did not carry the movie the way she should’ve; did not have any chemistry with her castmates)"
     }
     actor {
       name: "Teyonah Parris"
-      comments: " from Teyonah Parris ()"
+      comments: "Pretty Bad from Teyonah Parris (Kinda a forgettable performance cause she felt like an aftermath after the other two Marvels)"
     }
     actor {
       name: "Iman Vellani"
-      comments: " from Iman Vellani ()"
+      comments: "Pretty Bad from Iman Vellani (More of a bad writing issue but felt very forced being the teen archetype for the group (that made it seem more annoying than playful); had some moments where she did shine)"
     }
     actor {
       name: "Zawe Ashton"
-      comments: " from Zawe Ashton ()"
-    }
-    actor {
-      name: "Gary Lewis"
-      comments: " from Gary Lewis ()"
-    }
-    actor {
-      name: "Park Seo-joon"
-      comments: " from Park Seo-joon ()"
-    }
-    actor {
-      name: "Zenobia Shroff"
-      comments: " from Zenobia Shroff ()"
-    }
-    actor {
-      name: "Mohan Kapur"
-      comments: " from Mohan Kapur ()"
-    }
-    actor {
-      name: "Saagar Shaikh"
-      comments: " from Saagar Shaikh ()"
+      comments: "Bad from Zawe Ashton (Such a forgettable performance as she was just a generic villain and not convincing at all)"
     }
     actor {
       name: "Samuel L. Jackson"
-      comments: " from Samuel L. Jackson ()"
+      comments: "Pretty Bad from Samuel L. Jackson (Put like no effort into the performance and just did not feel as good as his other Nick Fury performances (tries to be the comedic relief character and it fails pretty hard))"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Bad from the rest of the cast (Just stiff, forced performances all around and no chemistry in any of the scenes)"
+    comments: "Bad to Pretty Bad Acting"
   }
   story {
     writer {
@@ -61,7 +41,7 @@ review {
     writer {
       name: "Elissa Karasik"
     }
-    comments: "Story ()"
+    comments: "Very Bad Story (One of the biggest issues for the movie as it felt like the conflict was not conveyed well at all (and was not presented as a big issue), the personal conflict between the characters was also not handled well at all; the story construction was very bad as there practically was no rising action or character developing, the conflict introduction was very poor and not good (and does not feel like a really interesting issue), it felt like a lot of scenes were cut that could’ve added depth to the movie as there were a lot of cuts in the story to just move the plot forward (but this created a lot of questions); the character writing was bad for the most part as the characters really aren’t that interesting at all and their conflicts are not really that compelling (though Ms. Marvel’s was the most interesting as it blended the teen-superhero archetype with a South-Asian/American background))"
   }
   screenplay {
     writer {
@@ -73,21 +53,21 @@ review {
     writer {
       name: "Elissa Karasik"
     }
-    comments: "Screenplay ()"
+    comments: "Very Bad Screenplay (The dialogue was incredibly cringey and just not good (felt like it was written by someone who read a synopsis of what a Marvel movie should sound like and wrote that as their first screenplay); the jokes were just very forced and not funny at all (the more dramatic elements were funnier with how cringey they were), tried way too hard for Marvel humor and it rarely hits; the South Asian vernacular was just more stereotypical than funny (and as a result just felt very shallow); the symbolism was just so shallow and the message was overt for what they were going for; the foreshadowing was pretty obvious as the movie was very formulaic)"
   }
   score {
     composer {
       name: "Laura Karpman"
     }
-    comments: "Score ()"
+    comments: "Decent Score (felt very similar to other comic book movies)/ Pretty Bad Soundtrack (so on-the-nose that it was laughable)"
   }
   cinematography {
     cinematographer {
       name: "Sean Bobbitt"
     }
-    comments: "Cinematography ()"
+    comments: "Decent Cinematography"
   }
-  sound: "Sound ()"
+  sound: "Pretty Good Sound (Similar to other Marvel movies, ADR for the singing was so obvious)"
   editing {
     editor {
       name: "Catrin Hedstr\303\266m"
@@ -95,18 +75,18 @@ review {
     editor {
       name: "Evan Schiff"
     }
-    comments: "Editing ()"
+    comments: "Very Bad Editing (Felt super amateur and the cut for the movie was just so bad)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  visual_effects: "Terrible to Very Bad Visual Effects (Felt so cheap and tacky (worse than Thor 4))"
+  production_design: "Pretty Good Production Design (Similar to other Marvel movies)"
+  makeup: "Pretty Good Makeup"
+  costumes: "Pretty Good Costumes"
+  plot_structure: "Plot Structure was a concern as there were issues with lack of rising action (scenes definitely cut) and the climax was so short that it felt anticlimactic"
+  pacing: "Pacing was so fast that there was no time to take in what was going on (the runtime could have definitely been added too to add more depth to the story and slow the pace down)"
+  climax: "Climax was super anticlimactic and like a felt very formulaic Marvel movie"
+  tone: "Tone was incredibly Marvel and really tried to go for that teenage Marvel feel during the Ms. Marvel moments (and both did not hit the mark and dragged the movie down by making it formulaic)"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a complete mess as the movie does not hit on any angles and there are obvious points where the studio interfered with the cut, bringing into question what the direction of Marvel is going forward"
 }
 release_year: 2023
 review_date: "11/13/2023"

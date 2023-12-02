@@ -279,7 +279,6 @@ def print_short_redux_review(redux_proto, filename):
     return redux + original
 
 def print_short_review(proto, filename):
-    
     if proto.redux == True and filename != "":
         return print_short_redux_review(proto, filename)
     

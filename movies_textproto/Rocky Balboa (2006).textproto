@@ -1,0 +1,80 @@
+title: "Rocky Balboa"
+rating: 5.6
+review {
+  direction {
+    director {
+      name: "Sylvester Stallone"
+    }
+    comments: "Pretty Bad Direction (The direction on a macroscale is pretty good as the training/boxing scenes have the signature Rocky charm (even though it is a bit tacky at times) and Stallone builds Philly well as he shows how much it has changed since the original movie; the direction on a microscale is not good as the movie just feels very preachy at times and the interpersonal scenes feel very forced and stiff; direction of actors was pretty bad as so much of the line delivery feels emotionless and inexperienced (and there is no chemistry in the cast); the storytelling is pretty simple (but has some Rocky charm); the use of cinematography and editing appeals a little too much to the 2000s that it feels out of place and tacky in hindsight; uses a lot of fan service in the beginning to where it feels kinda tacky)"
+  }
+  acting {
+    actor {
+      name: "Sylvester Stallone"
+      comments: "Good from Sylvester Stallone (Really feels like he's on his last leg but does show a good amount of emotional range as he bids farewell to Rocky the Boxer, the monologue feels a little too much like he's rambling than being impactful because it feels like he's talking in an eco-chamber)"
+    }
+    actor {
+      name: "Burt Young"
+      comments: "Decent from Burt Young (A real step away from his original performance but does do a decent job at keeping that Paulie charm/comedic relief)"
+    }
+    actor {
+      name: "Antonio Tarver"
+      comments: "Decent from Antonio Tarver (Isn't given that many lines to work with (but does a decent job when given the opportunity))"
+    }
+    actor {
+      name: "Milo Ventimiglia"
+      comments: "Very Bad from Tony Burton (Such a stiff and emotionless performance and has zero chemistry with Stallone (especially when he starts to have more of a relationship with him))"
+    }
+    actor {
+      name: "Geraldine Hughes"
+      comments: "Bad from Tony Burton (A stiff and emotionless performance and but has a little bit of chemistry with Stallone (even though it is a bit forced))"
+    }
+    actor {
+      name: "Tony Burton"
+      comments: "Pretty Good from Tony Burton (The only performance that carried over positively from the previous films as it is still pretty on par))"
+    }
+    cast: "Terrible from the rest of the cast (None of the cast feels like they have ever acted before as their line delivery is so emotionless and inexperienced that it is more laughable than impactful; none of the cast works well off of Stallone)"
+    comments: "Bad Acting"
+  }
+  story {
+    writer {
+      name: "Sylvester Stallone"
+    }
+    comments: "Pretty Good Story (The concept is pretty good as the movie is about giving Rocky a true sendoff as he has to come to terms with loss in his life; the story construction was decent as it follows the Rocky template; storytelling/flow between sequences was pretty good as its evident where the movie is going; character writing for Rocky is good as it shows how he's trying to fill a void left by the passing of Adrian and the distance from his son (but the writing for the rest of the characters is pretty bad with how shallow they are))"
+  }
+  screenplay {
+    writer {
+      name: "Sylvester Stallone"
+    }
+    comments: "Decent Screenplay (The dialogue is decent as it follows the typical Rocky dialogue from the later movies (though there are a lot of questionable lines); the humor was very typical of Rocky (so really hit or miss); the symbolism is somewhat there are as it alludes to themes of loss and finding purpose (but the father-son relationship is poorly written); the foreshadowing was very predictable and a bit forced)"
+  }
+  score {
+    composer {
+      name: "Bill Conti"
+    }
+    comments: "Good Score (Stays true to the Rocky franchise)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Clark Mathis"
+    }
+    comments: "Pretty Good Cinematography (Helps with building the world and making the boxing scenes engaging, the handi-cam moments make it feel very 00s)"
+  }
+  sound: "Pretty Good Sound"
+  editing {
+    editor {
+      name: "Sean Albertson"
+    }
+    comments: "Bad Editing (Very tacky and just reeks of the 00s (did not age well at all), the scenes that are mixed with the flashbacks are more laughable than serious)"
+  }
+  plot_structure: "Plot Structure was simple as it follows the Rocky template (though it does spend a little too much time on the boxing part of the movie and not building Rocky's struggle); the movie could've benefited with 15 more minutes in the exposition to help build Rocky's internal conflict"
+  pacing: "Pacing was slow in the first half (to where it drags) and fast in the second (to where it is moving too quickly)"
+  climax: "Climax was executed pretty well and acts as a good sendoff for Rocky's boxing career (though it doesn't tie loose ends well)"
+  tone: "Tone was very similar to other Rocky movies in how over-the-top it is (but the clash with trying to movie stay true to the 2000s takes away from the signature Rocky charm as it has the '00s coming soon DVD vibe')"
+  final_notes: ""
+  overall: "Overall, a pretty bad movie as the bad performances mixed with the tacky direction limit this movie from being on par with other movies in the franchise, though it is a good sendoff for Rocky the Boxer as the movie is still pretty entertaining despite how campy it is"
+}
+release_year: 2006
+review_date: "12/01/2023"
+redux: false
+id: 389
+imdb_id: "tt0479143"

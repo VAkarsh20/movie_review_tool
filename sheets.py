@@ -35,9 +35,10 @@ def initialize_to_sheets(proto):
 def post_to_csv(proto, review):
 
     df = pd.read_csv("movies.csv")
-
+    # TODO: See if the match should be ID or IMDB ID
     # Sees if review already exists, else append
     if not df[df['Id'] == proto.id].empty:
+        print("HERE")
         df.at[int(proto.id) - 1, 'Rating'] = proto.rating
         df.at[int(proto.id) - 1, 'Review'] = review
         df.at[int(proto.id) - 1, 'Review Date'] = proto.review_date
