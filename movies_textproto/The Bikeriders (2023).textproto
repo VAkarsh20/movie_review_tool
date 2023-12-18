@@ -14,7 +14,7 @@ review {
     }
     actor {
       name: "Austin Butler"
-      comments: "Pretty Good to Good from Austin Butler (Was as good as he could be given his character isn't given that much to work with because of how mysterious and quiet he is)"
+      comments: "Pretty Good to Good from Austin Butler (Was as good as he could be given his character isn\'t given that much to work with because of how mysterious and quiet he is)"
     }
     actor {
       name: "Tom Hardy"
@@ -22,7 +22,7 @@ review {
     }
     actor {
       name: "Michael Shannon"
-      comments: "Pretty Good to Good from Michael Shannon (Isn't given that much screentime but makes the most of what he is given)"
+      comments: "Pretty Good to Good from Michael Shannon (Isn\'t given that much screentime but makes the most of what he is given)"
     }
     cast: "Pretty Good from the rest of the cast (Feels as if they are midwestern versions of Goodfellas or in the mob)"
     comments: "Good Acting"
@@ -31,7 +31,7 @@ review {
     writer {
       name: "Jeff Nichols"
     }
-    comments: "Good Story (The concept was very interesting as Nichols uses the source material well to create a very engaging story; The story construction felt very slice of life as the first hour was really about getting to know the people in the gang (which put a lot of emphasis on the end to show the downfall), but this presented some issues as not all the characters were that interesting so it dragged down the movie; the flow between sequences was not the best as the slice of life moments really don't build to anything and the flow in the second half feels kinda forced and rough; the character writing was very good as he wrote Kathy very well in being a caring partner trying to leave the culture and Benny as this ominous figure that has a sense of charisma))"
+    comments: "Good Story (The concept was very interesting as Nichols uses the source material well to create a very engaging story; The story construction felt very slice of life as the first hour was really about getting to know the people in the gang (which put a lot of emphasis on the end to show the downfall), but this presented some issues as not all the characters were that interesting so it dragged down the movie; the flow between sequences was not the best as the slice of life moments really don\'t build to anything and the flow in the second half feels kinda forced and rough; the character writing was very good as he wrote Kathy very well in being a caring partner trying to leave the culture and Benny as this ominous figure that has a sense of charisma))"
   }
   screenplay {
     writer {
@@ -58,17 +58,17 @@ review {
     }
     comments: "Good Editing"
   }
-  production_design: "Pretty Good Production Design (Did a Pretty Good job at emulating the Midwest in that time period but did do that much research at emulating 'Chicago')"
+  production_design: "Pretty Good Production Design (Did a Pretty Good job at emulating the Midwest in that time period but did do that much research at emulating \'Chicago\')"
   costumes: "Good Costumes (Enjoyed the biker jackets and the idea of colors as it is used as a good plot point)"
-  plot_structure: "Plot Structure was very similar to Goodfellas as the first hour is meant to act as a 'slice of life' into the biker gang and the second half is really about the downfall of the gang (but because of this the movie feels like it is dragging from the first half); about 10-15 minutes of the first half could have probably have been cut because of how repetitive it is"
+  plot_structure: "Plot Structure was very similar to Goodfellas as the first hour is meant to act as a \'slice of life\' into the biker gang and the second half is really about the downfall of the gang (but because of this the movie feels like it is dragging from the first half); about 10-15 minutes of the first half could have probably have been cut because of how repetitive it is"
   pacing: "Pacing was different for each part of the movie (the first half was pretty slow in establishing the characters and a bit too fast in the second half)"
   climax: "Climax was executed pretty well and shows the downfall of the golden generation in the gang (with it being engaging in certain scenes); the exposition does not do the best in carrying the momentum created from the climax but does a decent job at ending the movie"
-  tone: "Tone was a lot more comedic than I thought it would be (would've liked to have seen more of the grit and dark nature of what it meant to be a Vandal during that time); emulates the tone of Goodfellas (which was a stylistic choice from the director)"
+  tone: "Tone was a lot more comedic than I thought it would be (would\'ve liked to have seen more of the grit and dark nature of what it meant to be a Vandal during that time); emulates the tone of Goodfellas (which was a stylistic choice from the director)"
   final_notes: "Saw a premiere at Austin Film Fest"
-  overall: "Overall, a pretty good movie into the life of the golden era of midwest biker gangs as the performances (especially Jodie Comer's) and the technicals make this an engaging and interesting movie, though the slice of life nature drags it down the first half and rushes the overall conflict"
+  overall: "Overall, a pretty good movie into the life of the golden era of midwest biker gangs as the performances (especially Jodie Comer\'s) and the technicals make this an engaging and interesting movie, though the slice of life nature drags it down the first half and rushes the overall conflict"
 }
 release_year: 2023
 review_date: "11/01/2023"
 redux: false
-id: 384
+id: 382
 imdb_id: "tt21454134"

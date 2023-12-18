@@ -38,7 +38,7 @@ review {
     writer {
       name: "Josh Stolberg"
     }
-    comments: "Good Story (Not laid out well but the movie is somewhat fresh in having more of a narrative and the climax being written well (having its signature Saw twist); incorporates many of the traditional Saw elements well and does a good job in having the traps emulate themes in Kramer's treatment; the writing in the exposition was good as it helped paint the backstory well (though was a bit longer than it needed to be))"
+    comments: "Good Story (Not laid out well but the movie is somewhat fresh in having more of a narrative and the climax being written well (having its signature Saw twist); incorporates many of the traditional Saw elements well and does a good job in having the traps emulate themes in Kramer\'s treatment; the writing in the exposition was good as it helped paint the backstory well (though was a bit longer than it needed to be))"
   }
   screenplay {
     writer {
@@ -81,5 +81,5 @@ review {
 release_year: 2023
 review_date: "10/06/2023"
 redux: false
-id: 373
+id: 371
 imdb_id: "tt21807222"

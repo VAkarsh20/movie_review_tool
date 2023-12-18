@@ -23,10 +23,10 @@ class LetterboxdBot:
         
         self.driver.get("https://letterboxd.com/import/")
 
-        self.wait(10)
+        self.wait(15)
         self.driver.find_element(By.NAME, "username").send_keys(username)
         self.driver.find_element(By.NAME, "password").send_keys(password)
-        self.driver.find_element(By.XPATH,"/html/body/div[1]/div/div/form/fieldset/div[4]/div/input").click()
+        self.driver.find_element(By.XPATH,"/html/body/div[1]/div/form/div/div[3]/button").click()
     
     def import_review(self):
         

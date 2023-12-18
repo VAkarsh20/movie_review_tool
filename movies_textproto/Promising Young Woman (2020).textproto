@@ -26,7 +26,7 @@ review {
     }
     actor {
       name: "Chris Lowell"
-      comments: "Decent to Pretty Good from Chris Lowell (Isn't given that much screen-time but does a pretty good job at the moment you find out how much of a terrible person he is (despite trying to look and sound reformed))"
+      comments: "Decent to Pretty Good from Chris Lowell (Isn\'t given that much screen-time but does a pretty good job at the moment you find out how much of a terrible person he is (despite trying to look and sound reformed))"
     }
     actor {
       name: "Jennifer Coolidge"
@@ -51,7 +51,7 @@ review {
     writer {
       name: "Emerald Fennell"
     }
-    comments: "Pretty Good Story (The story is very interesting as we get to see Mulligan's character dive deeper and deeper into what caused her trauma; the chapters weren't used that well to help break up the movie and could've probably been omitted; the final 30 minutes of the movie was well written and helps create suspense through the climax and close things off in the resolution)"
+    comments: "Pretty Good Story (The story is very interesting as we get to see Mulligan\'s character dive deeper and deeper into what caused her trauma; the chapters weren\'t used that well to help break up the movie and could\'ve probably been omitted; the final 30 minutes of the movie was well written and helps create suspense through the climax and close things off in the resolution)"
   }
   screenplay {
     writer {
@@ -80,12 +80,12 @@ review {
   }
   plot_structure: "Plot Structure was kinda formulaic as it was obvious what position in the story the movie was in and the use of chapters did not help with breaking up the movie"
   pacing: "Pacing was a lot slower than it should be given the movie should be a thriller"
-  climax: "Climax was the best part of the movie and was executed very well in giving truth to Mulligan's struggle and showing who the real monsters of the movie are (giving hope for Fennell in the future as a filmmaker)"
+  climax: "Climax was the best part of the movie and was executed very well in giving truth to Mulligan\'s struggle and showing who the real monsters of the movie are (giving hope for Fennell in the future as a filmmaker)"
   tone: "Tone was very similar to other female-led thrillers (though the comedic elements did make the movie a bit more unique)"
-  overall: "Overall, a movie that is held back from amateurism as Carey Mulligan's performance can only go so far given the bland writing and pretty bad direction from the first time director, though Fennell does give promise as a filmmaker as the climax and resolution are executed well."
+  overall: "Overall, a movie that is held back from amateurism as Carey Mulligan\'s performance can only go so far given the bland writing and pretty bad direction from the first time director, though Fennell does give promise as a filmmaker as the climax and resolution are executed well."
 }
 release_year: 2020
 review_date: "09/22/2023"
 redux: false
-id: 370
+id: 368
 imdb_id: "tt9620292"

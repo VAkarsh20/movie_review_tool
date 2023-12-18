@@ -85,7 +85,7 @@ review {
     comments: "Pretty Good Editing (Really feels like something Internet Historian would make)"
   }
   plot_structure: "Plot Structure was pretty good as it was a main storyline of what happened and multiple composite storylines that all follow the main storyline (with all of them having their narrative journey); one of these composite storylines could have been cut to make the movie a bit tighter as one main storyline and three composite storylines is a lot for a runtime of this size"
-  pacing: "Pacing was pretty good as it wasn't too short or fast"
+  pacing: "Pacing was pretty good as it wasn\'t too short or fast"
   climax: "Climax was executed pretty well as it just follows what happened (presenting some of its movie magic interjecting the actual events that happened)"
   tone: "Tone felt like something Internet Historian would make (at least when trying to emulate Wall Street Bets); the more dramatic elements felt like something from a Comedy-Drama"
   final_notes: "I understand that The Social Network (who is the same author of the material) was made right after the events but it just feels like this movie came out way too early"
@@ -94,5 +94,5 @@ review {
 release_year: 2023
 review_date: "10/04/2023"
 redux: false
-id: 372
+id: 370
 imdb_id: "tt13957560"

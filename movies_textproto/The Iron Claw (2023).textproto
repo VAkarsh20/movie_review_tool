@@ -1,0 +1,82 @@
+title: "The Iron Claw"
+rating: 7.9
+review {
+  direction {
+    director {
+      name: "Sean Durkin"
+    }
+    comments: "Decent Direction (Good on a Macroscale as it helps build the wrestling world; not the best on a microscale as the interpersonal 1-on-1 scenes had a lot of stiffness; The storytelling was good as it really is entertaining/captivating to see what happens next the way the director builds up the story; the direction of actors was really dependent on the scenes (it was good in solo scenes but hit some limits and felt rough when it came to scenes that required more than one person as each character felt like they were acting in a silo))"
+  }
+  acting {
+    actor {
+      name: "Zac Efron"
+      comments: "Very Good from Zac Efron (Really holds his own as his transformative performance commands the movie as he carries the weight of this traumatic story on his shoulders (though there are some limitations when it comes to working with the other actors))"
+    }
+    actor {
+      name: "Jeremy Allen White"
+      comments: "Good from Jeremy Allen White (Really brings his energy to the performance and works well with other actors in the cast (though there are moments where he is stiff))"
+    }
+    actor {
+      name: "Harris Dickinson"
+      comments: "Pretty Good to Good from Harris Dickinson (Does a good job in the wrestling moments but is not given that much to shine outside of it)"
+    }
+    actor {
+      name: "Maura Tierney"
+      comments: "Pretty Good from Maura Tierney (Does well with what she was given but does not have that much time to show off)"
+    }
+    actor {
+      name: "Holt McCallany"
+      comments: "Good from Holt McCallany (Carries out this one-dimensional character very well as he embodies what it means to be a father that pushes his family to the limit (though there is some stiffness when it came to working with the other actors)"
+    }
+    actor {
+      name: "Lily James"
+      comments: "Pretty Bad from Lily James (Really is stiff in the beginning and not the best scene partner to Zac Efron (though does get better as the movie goes on), not her best performance as I\342\200\231ve seen her perform better)"
+    }
+    cast: "Decent from the rest of the cast (There were some performances that were better than others, but there just felt like a lot of stiffness and lack of chemistry in the cast (except for the brothers))"
+    comments: "Pretty Good Acting"
+  }
+  story {
+    writer {
+      name: "Sean Durkin"
+    }
+    comments: "Very Good Story (The concept was really good as it was really interesting to see the different characters in the family and how wrestling (and their father) pushed them to the limit; the movie was mostly factual as they did a good job in highlighting most of the main points while subtly glossing over some of the minor details (there is more an issue that there is just so much that happened in real life that they had to cut stuff out (like how there was another brother who took his own life); The story construction was really good as the movie was very entertaining for the most part since each element of the story helped build the overall narrative (though it does kinda falter a bit in the final 20 minutes); the flow between sequences is good as the movie does a good job at building scenes on each other to keep the story going; the character writing was pretty good as you get a good sense of each character, but besides Kevin, you don\342\200\231t know the depth of each character\342\200\231s struggle (and even though it is handled well, I would have liked to have seen more about how tainted the boys\342\200\231 relationship was with their father))"
+  }
+  screenplay {
+    writer {
+      name: "Sean Durkin"
+    }
+    comments: "Very Good Screenplay (The dialogue was pretty simple (which was intentional given the subject matter and the characters); the use of humor was pretty good as it made the brothers\342\200\231 bond feel more realistic; the movie builds tension well as the use of different techniques coupled with the writing brings the audience on the edge of their seats; the symbolism is somewhat there (but as much as you would most likely see from a biopic); the foreshadowing was really good as there were many callbacks throughout the movie as the writing laid the groundwork for what was going to unravel towards the end)"
+  }
+  score {
+    composer {
+      name: "Richard Reed Parry"
+    }
+    comments: "Good Score (Used well to create tension)/ Very Good (Used very well to help set the tone/time period)"
+  }
+  cinematography {
+    cinematographer {
+      name: "M\303\241ty\303\241s Erd\303\251ly"
+    }
+    comments: "Good Cinematography (Used very well as it felt polished in the more dramatic scenes, but felt gritty with its one take single cam shots used for the wrestling scenes)"
+  }
+  sound: "Pretty Good to Good Sound (Good for the most part as it helped bring to life the wrestling scenes and building tension (though there were some hiccups in the movie))"
+  editing {
+    editor {
+      name: "Matthew Hannam"
+    }
+    comments: "Great Editing (A lot of the scenes were edited so seamlessly it helped with telling the story and keeping the movie captivating (with the best being the coin-flip shot and the Tom Sawyer wrestling montage))"
+  }
+  makeup: "Great Makeup (Their hairstyles were a  focal point for many of the character\342\200\231s looks as it helped them look more like their real counterpart)"
+  costumes: "Good to Very Good Costumes (Helped set the time period and illustrate the wrestling scenes)"
+  plot_structure: "Plot Structure was laid out well as there is ample time in both the exposition and the rising action to build the story forward and tell the tale of the Von Erichs (but the climax and resolution were not the best)"
+  pacing: "Pacing was good as it kept a steady pace for the most part (though it slows down a good amount towards the end)"
+  climax: "Climax was pretty anticlimactic (especially with one specific scene that felt out of place) as the movie kinda falls off with 20 minutes to go; the runtime could have been shorter if the ending was cut a bit"
+  tone: "Tone was a mix of the obsessed artist trope (Black Swan, Whiplash, and The Wrestler) with the tone of The Bikeriders to set the time period and feel"
+  final_notes: ""
+  overall: "Overall, a captivating story that is told through very good writing and great editing as the audience witnesses the rise and fall of the Von Erich family, but it is held back from being a must-watch by its stiff direction and lack of chemistry within the cast (though the singular performances of Zac Efron, Jeremy Allen White, and Holt McCallany did make the movie entertaining)"
+}
+release_year: 2023
+review_date: "12/14/2023"
+redux: false
+id: 392
+imdb_id: "tt21064584"

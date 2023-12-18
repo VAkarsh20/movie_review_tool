@@ -5,7 +5,7 @@ review {
     director {
       name: "Park Chan-wook"
     }
-    comments: "Incredible Direction (Some of the best storytelling in cinema history as Park drives the narrative forward (on both a macro and micro scale) through the protagonist's view as the audience gets to see the twisted and skewed world he lives in, the fight choreography is incredible as the hallway scene is one of the best fight scenes I have ever seen on the big screen; has its own unique style as it blends violent thriller elements with black comedy elements)"
+    comments: "Incredible Direction (Some of the best storytelling in cinema history as Park drives the narrative forward (on both a macro and micro scale) through the protagonist\'s view as the audience gets to see the twisted and skewed world he lives in, the fight choreography is incredible as the hallway scene is one of the best fight scenes I have ever seen on the big screen; has its own unique style as it blends violent thriller elements with black comedy elements)"
   }
   acting {
     actor {
@@ -57,7 +57,7 @@ review {
     cinematographer {
       name: "Chung Chung-hoon"
     }
-    comments: "Great Cinematography (Especially in the fight scenes (with the standout being the one-take hallway scene); the facial shots help with showing how lost the protagonist's mind really is)"
+    comments: "Great Cinematography (Especially in the fight scenes (with the standout being the one-take hallway scene); the facial shots help with showing how lost the protagonist\'s mind really is)"
   }
   sound: "Good Sound"
   editing {
@@ -72,10 +72,10 @@ review {
   climax: "Climax was incredibly shot as the plot twist was unexpected and the reactions of the characters were caught very well; the come-down to the resolution was shot very well as it helps bring the movie full circle"
   tone: "Tone was a major reason this movie is so iconic/unique as it blends mystery/thriller/action/comedy all into one"
   final_notes: "Some of the best fight choreography I have ever scene (which helps bring the action elements to this low-budget movie)"
-  overall: "Overall, a groundbreaking movie that helped give recognition to Asian cinema in the Western world as Park Chan Wook's incredible direction and writing makes this movie unique in so many ways that the audience has no idea what to expect next, especially when it comes to the ending"
+  overall: "Overall, a groundbreaking movie that helped give recognition to Asian cinema in the Western world as Park Chan Wook\'s incredible direction and writing makes this movie unique in so many ways that the audience has no idea what to expect next, especially when it comes to the ending"
 }
 release_year: 2003
 review_date: "08/18/2023"
 redux: false
-id: 367
+id: 365
 imdb_id: "tt0364569"

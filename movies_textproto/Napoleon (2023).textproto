@@ -1,0 +1,70 @@
+title: "Napoleon"
+rating: 4.5
+review {
+  direction {
+    director {
+      name: "Ridley Scott"
+    }
+    comments: "Bad Direction (Ridley Scott has officially lost the plot; the microscale elements were very bad and just very choppy (especially the scenes with Napoleon as he does not work well with any of the cast), there are also just a lot of pointless scenes that are interjected for no reason; the storytelling is nonexistent because the movie expects the audience to know the history behind Napoleon with how fast it is going through major elements of the plot (even though the movie is very factually inaccurate), there are some moments of storytelling towards the end there were good (but it just feels too late at this point to save the movie); the direction of actors was pretty bad (it starts off very rough but gets to a decent point towards the end as it just follows the typical period drama template), but the relationship building was very bad as Phoniex cannot work off of any of the other characters); the macroscale elements were the only piece of direction that was actually good as they were well choreographed and shot (which makes me believe that these parts of the movie were the only things motivating Ridley Scott to make this movie))"
+  }
+  acting {
+    actor {
+      name: "Joaquin Phoenix"
+      comments: "Bad from Joaquin Phoenix (Gives no effort at all as he uses his own accent and puts on no emotion (and when he does it is so over-the-top that it\'s laughable as there are these drastic changes that are unexpected), he has so many dumb acting scenes that it makes Napoleon feel like this caricature of a character that is modeled off of Paul Giamatti in The Holdovers, he does not work off of any of the other actors (especially Vanessa Kirby in the more romantic one-on-one scenes))"
+    }
+    actor {
+      name: "Vanessa Kirby"
+      comments: "Pretty Good from Vanessa Kirby (Probably the best performance in the movie as she actually puts in effort and has some range of emotion (but she cannot save this movie with how terrible the chemistry between her and the title character is))"
+    }
+    cast: "Pretty Bad from the rest of the cast (Starts pretty rough but just molds into the typical period drama style of acting (though the accents do not feel of the time))"
+    comments: "Pretty Bad Acting"
+  }
+  story {
+    writer {
+      name: "David Scarpa"
+    }
+    comments: "Bad Story (One of the biggest issues for the movie; the concept itself is fine because Napoleon is such a significant figure in history, it\'s just they do such a bad job in displaying it cause of the poor storytelling and factual inaccuracies; the story construction was very bad as it just has all these interjected scenes that provide nothing to the story and the overall plot just feels like a perpetual rising action (that eventually just falls apart towards the end); character writing was terrible as they wrote Napoleon to be this slapstick character that has no depth at all, the worst part of the character writing is the relationship building elements as they just force this love story that feels like it never actually happened)"
+  }
+  screenplay {
+    writer {
+      name: "David Scarpa"
+    }
+    comments: "Very Bad Screenplay (The worst part of the movie because the dialogue was so stupid and laughably bad (it does not feel like it is modern and is filled with all these zingers like, \'You think you\'re so great because you have boats\'); the humor was actually not that bad if you look at this movie from the angle of being a comedy and not a serious period drama; the tension building was stale as you don\'t feel that involved with the battle scenes (even though they are well shot); the symbolism and messages from the movie are nonexistent with how shallow the writing is; there isn\'t that much foreshadowing with the movie because it\'s a period piece))"
+  }
+  score {
+    composer {
+      name: "Martin Phipps"
+    }
+    comments: "Pretty Good Score (Helped with setting the time period)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Dariusz Wolski"
+    }
+    comments: "Good Cinematography (Good and well shot (especially in the battle sequences), helped with making the world feel grand)"
+  }
+  sound: "Good Sound (Especially in the battle sequences)"
+  editing {
+    editor {
+      name: "Claire Simpson"
+    }
+    editor {
+      name: "Sam Restivo"
+    }
+    comments: "Pretty Bad Editing (Scenes could have been tighter but was decent for the most part; the cut for this movie was pretty bad overall cause of the number of useless scenes in this movie)"
+  }
+  visual_effects: "Pretty Good Visual Effects (Used well in the battle scenes but felt out of place when trying to make the big cities (Especially in Russia))"
+  production_design: "Good Production Design (Helped make the movie feel of the time)"
+  costumes: "Good Costumes (Helped make the movie of the time and helped with portraying the importance of Napoleon)"
+  plot_structure: "Plot Structure was a mess as there is practically no exposition and the movie feels like a perpetual rising action (with the ending just feeling anti-climatic); 30-40 minutes of the movie could have been cut or reverted into necessary exposition"
+  pacing: "Pacing was pretty fast but it just feels like nothing is going on"
+  climax: "Climax was well short and entertaining (but anti-climatic from a plot standpoint)"
+  tone: "Tone was very typical to other period dramas"
+  final_notes: "This movie feels like it is what would\'ve happened if Oppenheimer was bad"
+  overall: "Overall, a complete misfire from such a legendary director as the bad direction, very bad writing, and laughable performance from Joquan Phoneix make this movie such a fun watch from how bad it is, as it seems that that Ridley Scott has officially lost the plot"
+}
+release_year: 2023
+review_date: "12/06/2023"
+redux: false
+id: 388
+imdb_id: "tt13287846"

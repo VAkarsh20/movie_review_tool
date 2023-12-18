@@ -1,0 +1,79 @@
+title: "The Boy and the Heron"
+rating: 7.2
+review {
+  direction {
+    director {
+      name: "Hayao Miyazaki"
+    }
+    comments: "Pretty Good Direction (Does a very good job on a grand scale as he builds these vast mystical worlds that are worth exploring; the direction of actors is very good as he does a good job in creating both animated and grounded characters; the storytelling for this movie is pretty lacking as the first half slice-of-life style clashes with the very plot-heavy style in the second half to where it is a bit confusing on what is actually going on)"
+  }
+  acting {
+    actor {
+      name: "Soma Santoki"
+      comments: "Very Good from Soma Santoki (Really embodies the character and carries the movie on both an innocent and ambitious level)"
+    }
+    actor {
+      name: "Masaki Suda"
+      comments: "Great from Masaki Suda (Really brings to life this animated, yet important character)"
+    }
+    actor {
+      name: "Aimyon"
+      comments: "Good from Aimyon"
+    }
+    actor {
+      name: "Yoshino Kimura"
+      comments: "Good from Yoshino Kimura"
+    }
+    actor {
+      name: "Sh\305\215hei Hino"
+      comments: "Good from Sh\305\215hei Hino"
+    }
+    actor {
+      name: "Ko Shibasaki"
+      comments: "Good from Ko Shibasaki"
+    }
+    actor {
+      name: "Takuya Kimura"
+      comments: "Good from Takuya Kimura"
+    }
+    cast: "Good from the rest of the cast (Everyone plays their role well as they help bring to life such an animated, mysterious world through their characters)"
+    comments: "Good to Very Good Voice Acting"
+  }
+  story {
+    writer {
+      name: "Hayao Miyazaki"
+    }
+    comments: "Pretty Bad to Decent Story (The concept is decent (but just feels very similar to Spirited Away to where it doesn\'t feel that unique); the story construction is bad because the second half crams in too much plot since the first half is very slice of life, and this makes it hard to follow what\'s going on and what is actually important; the storytelling is pretty bad because there isn\'t any flow between the scenes (especially in the second half); the character writing is good as we do get to see the internal conflict of the main character as he uses this journey to get over the loss of his mother, and the minor characters do their job in buttressing this journey)"
+  }
+  screenplay {
+    writer {
+      name: "Hayao Miyazaki"
+    }
+    comments: "Good Screenplay (The dialogue flows very nicely and is typical in style to other Studio Ghibli movies; the attempts at humor were good and did a good job at lightening the mood; symbolism is pretty prevalent (with themes about a post-WWII Japan and dealing with loss handled well); the foreshadowing was pretty standard)"
+  }
+  score {
+    composer {
+      name: "Joe Hisaishi"
+    }
+    comments: "Very Good to Great Score (Used very well throughout the movie to help establish the tone and feel (feels very similar in style to Hisaishi and Miyazaki\'s other collaborations))"
+  }
+  sound: "Good Sound (Helped create this magical and mysterious world)"
+  editing {
+    editor {
+      name: "Takeshi Seyama"
+    }
+    comments: "Good Editing"
+  }
+  visual_effects: "Great Animation (The best part of the movie as Miyazaki does an amazing job at creating these beautiful worlds as the movie is more of an art piece than a story)"
+  plot_structure: "Plot Structure was the biggest issue for the movie as the exposition takes up too much time to where the rising action is incredibly rushed and there is practically no climax; the runtime should\'ve stayed the same but some of the exposition should have been redistributed to the rising action to help strengthen the conflict and the storytelling"
+  pacing: "Pacing was very slow in the first half (because it is very slice of life) and very fast in the second half (as it tries to make up for time lost)"
+  climax: "Climax was incredibly disappointing as it just feels very anticlimactic and rushed (more of an afterthought than a pivotal scene)"
+  tone: "Tone was very similar to Spirited Away (sharing themes with other Japanese animated films with also having coming-of-age/supernatural themes)"
+  final_notes: ""
+  overall: "Overall, a very beautiful movie with its animation and score as it feels more like an art piece than an actual story, which is telling given how poorly constructed the plot is with its slice of life first half and plot-heavy/rushed second half"
+}
+release_year: 2023
+review_date: "12/11/2023"
+redux: false
+id: 390
+imdb_id: "tt6587046"

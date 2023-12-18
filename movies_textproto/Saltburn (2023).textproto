@@ -26,7 +26,7 @@ review {
     }
     actor {
       name: "Alison Oliver"
-      comments: "Good from Alison Oliver (Has a lot of moments that are good as her character's emotional instability helps portray a young adolescent)"
+      comments: "Good from Alison Oliver (Has a lot of moments that are good as her character\'s emotional instability helps portray a young adolescent)"
     }
     actor {
       name: "Archie Madekwe"
@@ -76,10 +76,10 @@ review {
   climax: "Climax was decently executed as it is presented in a very shocking way (but the more you think about it the more holes you see in the continuity)"
   tone: "Tone was very similar to a coming-of-age mixed with a thriller and High-class British themes as this helps show the world the main character is living in"
   final_notes: "Saw a premiere at Austin Film Festival; the grotesque scenes were a bold choice but it does not pay off that well as it just makes the audience feel uneasy than actually showing how deranged some of the actions and characters were"
-  overall: "Overall, a bold attempt at a grand movie in Emerald Fennell's sophomore effort as she really builds the grand world of Saltburn through cinematography and production design and gets a lot out of her actors (especially Barry Keoghan and Jacob Elordi), but, in the end, is held back by having too many continuity issues/loose ends and going overboard with the more grotesque scenes"
+  overall: "Overall, a bold attempt at a grand movie in Emerald Fennell\'s sophomore effort as she really builds the grand world of Saltburn through cinematography and production design and gets a lot out of her actors (especially Barry Keoghan and Jacob Elordi), but, in the end, is held back by having too many continuity issues/loose ends and going overboard with the more grotesque scenes"
 }
 release_year: 2023
 review_date: "10/27/2023"
 redux: false
-id: 377
+id: 375
 imdb_id: "tt17351924"

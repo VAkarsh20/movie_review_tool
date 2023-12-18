@@ -37,7 +37,7 @@ review {
     writer {
       name: "John Lee Hancock"
     }
-    comments: "Bad Screenplay (The dialogue is just so cringey and cliche that so many lines were predictable (it's like it was written by someone who writes for the Lifetime channel); there were some jokes that were somewhat funny but it is just very cringey for the most part; the symbolism is incredibly shallow and pretty overt; the foreshadowing is pretty nonexistent as the movie is just very linear and predictable about what is gonna happen next)"
+    comments: "Bad Screenplay (The dialogue is just so cringey and cliche that so many lines were predictable (it\'s like it was written by someone who writes for the Lifetime channel); there were some jokes that were somewhat funny but it is just very cringey for the most part; the symbolism is incredibly shallow and pretty overt; the foreshadowing is pretty nonexistent as the movie is just very linear and predictable about what is gonna happen next)"
   }
   score {
     composer {
@@ -63,10 +63,10 @@ review {
   climax: "Climax was poorly executed as it just felt unnecessary and dramatized"
   tone: "Tone was incredibly feel-good and plays like a Hallmark movie"
   final_notes: ""
-  overall: "Overall, a movie that's only saving grace is a memorable performance from Sandra Bullock as it is poorly acted, directed, and written with it overall playing like a Hallmark movie, and this is without taking into consideration the allegations about how truthful the story is"
+  overall: "Overall, a movie that\'s only saving grace is a memorable performance from Sandra Bullock as it is poorly acted, directed, and written with it overall playing like a Hallmark movie, and this is without taking into consideration the allegations about how truthful the story is"
 }
 release_year: 2009
 review_date: "08/18/2023"
 redux: false
-id: 368
+id: 366
 imdb_id: "tt0878804"

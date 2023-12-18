@@ -14,11 +14,11 @@ review {
     }
     actor {
       name: "Nicolette Robinson"
-      comments: "Decent to Pretty Good from Nicolette Robinson (Holds her own well and has somewhat chemistry with Pitt in their scenes together (which still isn't a lot))"
+      comments: "Decent to Pretty Good from Nicolette Robinson (Holds her own well and has somewhat chemistry with Pitt in their scenes together (which still isn\'t a lot))"
     }
     actor {
       name: "Joe Pesci"
-      comments: "Decent to from Joe Pesci (Really feels like he is in the movie to be in the movie as he isn't allowed to show his Joe Pesci charm/experience)"
+      comments: "Decent to from Joe Pesci (Really feels like he is in the movie to be in the movie as he isn\'t allowed to show his Joe Pesci charm/experience)"
     }
     actor {
       name: "John Magaro"
@@ -30,7 +30,7 @@ review {
     }
     actor {
       name: "Steve Buscemi"
-      comments: "Decent from Steve Buscemi (Is barely in the movie and isn't given that much to work with)"
+      comments: "Decent from Steve Buscemi (Is barely in the movie and isn\'t given that much to work with)"
     }
     cast: "Bad from the rest of the cast (Just a lot of inexperience and really no chemistry with the cast (this does not include the child actors))"
     comments: "Pretty Bad to Decent Acting"
@@ -70,5 +70,5 @@ review {
 release_year: 2023
 review_date: "11/05/2023"
 redux: false
-id: 386
+id: 384
 imdb_id: "tt21987878"

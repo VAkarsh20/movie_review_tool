@@ -49,7 +49,7 @@ review {
     cinematographer {
       name: "Jamie D. Ramsay"
     }
-    comments: "Very Good Cinematography (Very artsy and helps show how skewed the protagonist's view of reality was)"
+    comments: "Very Good Cinematography (Very artsy and helps show how skewed the protagonist\'s view of reality was)"
   }
   sound: "Bad Sound (The dialogue sound mixing was bad because it was muffled and just hard to hear; the aspects of sound just felt like they were cheap (especially in the beginning))"
   editing {
@@ -63,10 +63,10 @@ review {
   climax: "Climax was executed very well as it was both closure for the protagonist and a big twist as it opened the door for interpretation"
   tone: "Tone felt a bit sci-fi with its blur in reality (and felt like a really stripped down Eternal Sunshine with it favoring more of a dramatic tone)"
   final_notes: "Saw a premiere at Austin Film Fest"
-  overall: "Overall, a well-written movie that is carried out by its good performances (especially Andrew Scott's) as the blurred perception of reality creates a unique movie about dealing with trauma and identity, though it is very slow and a victim of its own convoluted storytelling at times"
+  overall: "Overall, a well-written movie that is carried out by its good performances (especially Andrew Scott\'s) as the blurred perception of reality creates a unique movie about dealing with trauma and identity, though it is very slow and a victim of its own convoluted storytelling at times"
 }
 release_year: 2023
 review_date: "10/30/2023"
 redux: false
-id: 382
+id: 380
 imdb_id: "tt21192142"

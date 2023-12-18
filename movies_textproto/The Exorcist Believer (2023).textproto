@@ -58,7 +58,7 @@ review {
     writer {
       name: "David Gordon Green"
     }
-    comments: "Very Bad Screenplay (Some of the dialogue is just so bad that it is laughable; the horror elements mostly used cheap tactics (with it relying heavily on fast cuts and jump scares); the symbolism is so overt (and does an injustice to the original film's message), and the message of the film is just forced and not explained well at all (which does the film a massive disserve given how controversial it is); foreshadowing was about as present as any horror movie was)"
+    comments: "Very Bad Screenplay (Some of the dialogue is just so bad that it is laughable; the horror elements mostly used cheap tactics (with it relying heavily on fast cuts and jump scares); the symbolism is so overt (and does an injustice to the original film\'s message), and the message of the film is just forced and not explained well at all (which does the film a massive disserve given how controversial it is); foreshadowing was about as present as any horror movie was)"
   }
   score {
     composer {
@@ -82,17 +82,17 @@ review {
     }
     comments: "Very Bad Editing (Just tries to do way too much (and it makes the movie more questionable than scary); relies way too much on fast cuts to illicit horror)"
   }
-  visual_effects: "Bad Visual Effects (The actual sequences were not poorly animated, it was just they tried way too hard to incorporate CGI and visuals when they didn't need to)"
+  visual_effects: "Bad Visual Effects (The actual sequences were not poorly animated, it was just they tried way too hard to incorporate CGI and visuals when they didn\'t need to)"
   makeup: "Decent Makeup (Does not feel that realistic and feels like they did a lot more than they needed to)"
-  plot_structure: "Plot Structure was not that well managed as they try hard to incorporate way too much and cannot resolve any of what they introduce (they have the main storyline, the second family's storyline, and elements from the original Exorcist movie)"
-  pacing: "Pacing was a bit on the faster side (because they just try to do way too much and go over as much as they can); the runtime could've been shortened to remove some plot points (but honestly I don't even think it would've helped that much)"
+  plot_structure: "Plot Structure was not that well managed as they try hard to incorporate way too much and cannot resolve any of what they introduce (they have the main storyline, the second family\'s storyline, and elements from the original Exorcist movie)"
+  pacing: "Pacing was a bit on the faster side (because they just try to do way too much and go over as much as they can); the runtime could\'ve been shortened to remove some plot points (but honestly I don\'t even think it would\'ve helped that much)"
   climax: "Climax was terribly executed as they have like way too many things going on at once (it is as if 3 different exorcisms are happening at the same time, and the twist is just so stupid and forced)"
   tone: "Tone was way too much like other horror movies that it did not feel unique at all (which is was not what the original Exorcist movie was)"
-  final_notes: "The exact opposite of what the original movie was because it does way too much with its horror and is so overt with its message (while the original does not try terribly hard to be scary and its message is subtle about the characters' crisis of faith)"
+  final_notes: "The exact opposite of what the original movie was because it does way too much with its horror and is so overt with its message (while the original does not try terribly hard to be scary and its message is subtle about the characters\' crisis of faith)"
   overall: "Overall, a complete disservice to the original movie as the very bad direction, overt/unnatural writing, and cheap horror tactics are the exact opposite of what the original was going for as nothing can save this mess from being watchable"
 }
 release_year: 2023
 review_date: "10/08/2023"
 redux: false
-id: 374
+id: 372
 imdb_id: "tt12921446"

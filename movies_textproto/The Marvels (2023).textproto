@@ -10,7 +10,7 @@ review {
   acting {
     actor {
       name: "Brie Larson"
-      comments: "Bad from Brie Larson (Very Monotonous with her line delivery and just did not carry the movie the way she should’ve; did not have any chemistry with her castmates)"
+      comments: "Bad from Brie Larson (Very Monotonous with her line delivery and just did not carry the movie the way she should\342\200\231ve; did not have any chemistry with her castmates)"
     }
     actor {
       name: "Teyonah Parris"
@@ -41,7 +41,7 @@ review {
     writer {
       name: "Elissa Karasik"
     }
-    comments: "Very Bad Story (One of the biggest issues for the movie as it felt like the conflict was not conveyed well at all (and was not presented as a big issue), the personal conflict between the characters was also not handled well at all; the story construction was very bad as there practically was no rising action or character developing, the conflict introduction was very poor and not good (and does not feel like a really interesting issue), it felt like a lot of scenes were cut that could’ve added depth to the movie as there were a lot of cuts in the story to just move the plot forward (but this created a lot of questions); the character writing was bad for the most part as the characters really aren’t that interesting at all and their conflicts are not really that compelling (though Ms. Marvel’s was the most interesting as it blended the teen-superhero archetype with a South-Asian/American background))"
+    comments: "Very Bad Story (One of the biggest issues for the movie as it felt like the conflict was not conveyed well at all (and was not presented as a big issue), the personal conflict between the characters was also not handled well at all; the story construction was very bad as there practically was no rising action or character developing, the conflict introduction was very poor and not good (and does not feel like a really interesting issue), it felt like a lot of scenes were cut that could\342\200\231ve added depth to the movie as there were a lot of cuts in the story to just move the plot forward (but this created a lot of questions); the character writing was bad for the most part as the characters really aren\342\200\231t that interesting at all and their conflicts are not really that compelling (though Ms. Marvel\342\200\231s was the most interesting as it blended the teen-superhero archetype with a South-Asian/American background))"
   }
   screenplay {
     writer {
@@ -91,5 +91,5 @@ review {
 release_year: 2023
 review_date: "11/13/2023"
 redux: false
-id: 387
+id: 385
 imdb_id: "tt10676048"

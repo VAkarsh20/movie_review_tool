@@ -10,7 +10,7 @@ review {
   acting {
     actor {
       name: "Richard Dreyfuss"
-      comments: "Pretty Good to Good from Richard Dreyfuss (Holds his own well and helps carry the scenes he is in (it's kinda hard to believe he is a teenager though))"
+      comments: "Pretty Good to Good from Richard Dreyfuss (Holds his own well and helps carry the scenes he is in (it\'s kinda hard to believe he is a teenager though))"
     }
     actor {
       name: "Ron Howard"
@@ -40,7 +40,7 @@ review {
       name: "Wolfman Jack"
       comments: "Decent to Pretty Good from Wolfman Jack"
     }
-    cast: "Decent to Pretty Good from the rest of the cast (The ensemble as a whole does its job in portraying the youth of the time (it is just that it's not extraordinary in any way given the inexperience of most of the actors))"
+    cast: "Decent to Pretty Good from the rest of the cast (The ensemble as a whole does its job in portraying the youth of the time (it is just that it\'s not extraordinary in any way given the inexperience of most of the actors))"
     comments: "Decent to Pretty Good Acting"
   }
   story {
@@ -65,7 +65,7 @@ review {
     writer {
       name: "Willard Huyck"
     }
-    comments: "Pretty Good Screenplay (The dialogue was pretty typical of the time (and sounded a bit more normal than typical George Lucas dialogue (it probably helped that he wasn't the sole screenwriter)); the comedic elements were decent (but a bit dated considering the jokes were tailored for an audience who lived during the 60s); the symbolism was present throughout the movie (like the white car); the foreshadowing was pretty predictable given the genre (though it executed pretty well))"
+    comments: "Pretty Good Screenplay (The dialogue was pretty typical of the time (and sounded a bit more normal than typical George Lucas dialogue (it probably helped that he wasn\'t the sole screenwriter)); the comedic elements were decent (but a bit dated considering the jokes were tailored for an audience who lived during the 60s); the symbolism was present throughout the movie (like the white car); the foreshadowing was pretty predictable given the genre (though it executed pretty well))"
   }
   cinematography {
     cinematographer {
@@ -94,12 +94,12 @@ review {
   plot_structure: "Plot Structure was a unique part of the movie as the vignette style of multiple storylines converging to a single conclusion helped with showing the different lives of the ensemble"
   pacing: "Pacing was fine (did not feel too fast or too slow); Runtime felt just right (maybe deleting about 5-10 minutes of the exposition could have helped with making the movie a bit more tight)"
   climax: "Climax was decent to pretty good (Did not feel incredibly captivating but did its purpose in helping converge the different storylines)"
-  tone: "Tone was very laid back as this film felt a lot like a 'hang-out' movie with its feel and subject matter"
+  tone: "Tone was very laid back as this film felt a lot like a \'hang-out\' movie with its feel and subject matter"
   final_notes: ""
   overall: "Overall, a pretty good hangout movie that helped put George Lucas on the map as we see a young filmmaker take low-budget with a cast of young actors and make an influential movie in cinema history through its story-writing and construction, though there are noticeable limitations in what he can do with his direction of actors and dialogue"
 }
 release_year: 1973
 review_date: "09/04/2023"
 redux: false
-id: 369
+id: 367
 imdb_id: "tt0069704"

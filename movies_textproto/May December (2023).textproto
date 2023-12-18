@@ -1,0 +1,75 @@
+title: "May December"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Todd Haynes"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Natalie Portman"
+      comments: " from Natalie Portman ()"
+    }
+    actor {
+      name: "Julianne Moore"
+      comments: " from Julianne Moore ()"
+    }
+    actor {
+      name: "Charles Melton"
+      comments: " from Charles Melton ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Samy Burch"
+    }
+    writer {
+      name: "Alex Mechanik"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Samy Burch"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Marcelo Zarvos"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Christopher Blauvelt"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Affonso Gon\303\247alves"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2023
+review_date: "12/17/2023"
+redux: false
+id: 397
+imdb_id: "tt13651794"

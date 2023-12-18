@@ -26,14 +26,13 @@ def get_wiki_info():
             title = input("What is the film title?\n")
             wiki_title = title.replace(" ", "_")
             
-            # TODO: Fix bug with Psycho (1960)
+            # TODO: Fix bug with Psycho (1960), Die Hard (1988)
             imdb_id = get_imdb_id(wiki_title)
             infobox = parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
 
             # Change the film title if it has a (film) tag end the end of the wikipedia search
             if title.endswith("film)"):
-                title = title[:title.rfind(' (')]
-            
+                title = title[:title.rfind(' (')]            
             return title, imdb_id, infobox
         except:
             # TODO: Fix this, breaks the app because it does not retry

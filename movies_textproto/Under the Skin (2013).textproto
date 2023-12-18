@@ -5,7 +5,7 @@ review {
     director {
       name: "Jonathan Glazer"
     }
-    comments: "Pretty Bad Direction (Good on a macro scale, bad on a micro-scale (especially with directing actors who weren't ScarJo), does a pretty bad job at moving the story forward as the style is just too subtle that the movie is not engaging at all)"
+    comments: "Pretty Bad Direction (Good on a macro scale, bad on a micro-scale (especially with directing actors who weren\'t ScarJo), does a pretty bad job at moving the story forward as the style is just too subtle that the movie is not engaging at all)"
   }
   acting {
     actor {
@@ -43,26 +43,26 @@ review {
     cinematographer {
       name: "Daniel Landin"
     }
-    comments: "Decent to Pretty Good Cinematography (Good in a lot of the macro shots showing the world (or the protagonist's world/viewpoint), the micro shots were decent; the lighting was pretty bad as it was hard to see any of the images on scene sometimes)"
+    comments: "Decent to Pretty Good Cinematography (Good in a lot of the macro shots showing the world (or the protagonist\'s world/viewpoint), the micro shots were decent; the lighting was pretty bad as it was hard to see any of the images on scene sometimes)"
   }
-  sound: "Decent Sound (A bit cheap but the movie's amplified sound during moments without score helps with building tension, the sound mixing of dialogue was very bad cause it was so hard to hear what anyone was saying (which may be because they were Scottish))"
+  sound: "Decent Sound (A bit cheap but the movie\'s amplified sound during moments without score helps with building tension, the sound mixing of dialogue was very bad cause it was so hard to hear what anyone was saying (which may be because they were Scottish))"
   editing {
     editor {
       name: "Paul Watts"
     }
-    comments: "Pretty Good Editing (Good when it used in the more tense and artsy scenes; the cut could've been tighter as some of the scenes were way longer than it should've been)"
+    comments: "Pretty Good Editing (Good when it used in the more tense and artsy scenes; the cut could\'ve been tighter as some of the scenes were way longer than it should\'ve been)"
   }
   visual_effects: "Pretty Good Visual Effects (Given how low the budget was)"
-  makeup: "Decent Makeup (Especially during the 'Under the Skin' scenes)"
+  makeup: "Decent Makeup (Especially during the \'Under the Skin\' scenes)"
   plot_structure: "Plot Structure was a big issue because it felt like nothing was going on (it was just the protagonist experiencing the world)"
-  pacing: "Pacing was incredibly slow as the movie was very experimental in storytelling (so there was no dialogue or actions that help move the story at a reasonable pace); the runtime really could've been cut by 20-30 minutes (but then that would've taken away from the experimental nature of the movie)"
+  pacing: "Pacing was incredibly slow as the movie was very experimental in storytelling (so there was no dialogue or actions that help move the story at a reasonable pace); the runtime really could\'ve been cut by 20-30 minutes (but then that would\'ve taken away from the experimental nature of the movie)"
   climax: "Climax was intense but also anticlimactic as the scene was serious but the movie just abruptly ends"
   tone: "Tone was very ominous and sci-fi (as it helps add the mystery and experimental nature of the movie)"
   final_notes: "The movie is more of an experimental art piece about humanity than it was a narrative film"
-  overall: "Overall, a very experimental movie that is an art piece about humanity and temptation told through the eyes of Scarlett Johansson's performance, although trading in the narrative format sacrificed the movie being engaging as there are no plot elements to drive the story forward because the movie is way too open for interpretation (and it does not help that all the performances besides the lead's were very bad)"
+  overall: "Overall, a very experimental movie that is an art piece about humanity and temptation told through the eyes of Scarlett Johansson\'s performance, although trading in the narrative format sacrificed the movie being engaging as there are no plot elements to drive the story forward because the movie is way too open for interpretation (and it does not help that all the performances besides the lead\'s were very bad)"
 }
 release_year: 2013
 review_date: "10/18/2023"
 redux: false
-id: 375
+id: 373
 imdb_id: "tt1441395"

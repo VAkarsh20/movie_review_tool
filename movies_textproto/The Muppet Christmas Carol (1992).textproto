@@ -1,0 +1,80 @@
+title: "The Muppet Christmas Carol"
+rating: 1.0
+review {
+  direction {
+    director {
+      name: "Brian Henson"
+    }
+    comments: "Direction ()"
+  }
+  acting {
+    actor {
+      name: "Michael Caine"
+      comments: " from Michael Caine ()"
+    }
+    actor {
+      name: "Dave Goelz"
+      comments: " from Dave Goelz ()"
+    }
+    actor {
+      name: "Steve Whitmire"
+      comments: " from Steve Whitmire ()"
+    }
+    actor {
+      name: "Jerry Nelson"
+      comments: " from Jerry Nelson ()"
+    }
+    actor {
+      name: "Frank Oz"
+      comments: " from Frank Oz ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Jerry Juhl"
+    }
+    comments: "Story ()"
+  }
+  screenplay {
+    writer {
+      name: "Jerry Juhl"
+    }
+    comments: "Screenplay ()"
+  }
+  score {
+    composer {
+      name: "Miles Goodman"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "John Fenner"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Michael Jablow"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  plot_structure: "Plot Structure "
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1992
+review_date: "12/17/2023"
+redux: false
+id: 396
+imdb_id: "tt0104940"

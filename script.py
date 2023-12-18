@@ -721,12 +721,24 @@ if __name__=="__main__":
 
     argc = len(sys.argv)
 
-    filename = "Good Will Hunting (1997)"
-    proto = review_tool.read_proto(filename)
+    df = pd.read_csv("movies.csv")
 
-    res = [field == "" for field in proto.review.DESCRIPTOR.fields]
-    print(len(proto.review.DESCRIPTOR.fields_by_name.keys()))
-    print(len(proto.review.DESCRIPTOR.fields_by_name.values()))
+    # df.loc[df["Id"] >= 367, "Id"] = df["Id"] - 2.0
+
+    # values = df.loc[364:][["Title", "Release Year", "Id"]]
+
+    # for index, row in values.iterrows():
+    #     title, year, id = row["Title"], int(row["Release Year"]), int(row["Id"])
+    #     title = title.replace(":","").replace("/", " ")
+    #     proto = review_tool.read_proto("{} ({})".format(title, year))
+    #     proto.id = id
+    #     review_tool.write_proto(proto)
+        
+
+
+    
+
+
 
     # res = [field == "" for field in proto.review.DESCRIPTOR.fields]
     # print(res)
