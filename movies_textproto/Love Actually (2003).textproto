@@ -1,0 +1,99 @@
+title: "Love Actually"
+rating: 7.7
+review {
+  direction {
+    director {
+      name: "Richard Curtis"
+    }
+    comments: "Pretty Good Direction (The direction on a macroscale is pretty good as he connects the different storylines into one overarching plot (though the world-building felt very typical to other Rom-Coms); the direction on a microscale was pretty typical to other Rom-Coms (though executed well); the direction of actors was good as it felt like everyone was connected and gave a performance that helped move the movie forward;  the storytelling was pretty unique as it juggles multiple different subplots that converge to a giant ending)"
+  }
+  acting {
+    actor {
+      name: "Hugh Grant"
+      comments: "Good from Hugh Grant (Uses his charm, charisma, and experience in romantic movies to aid his performance)"
+    }
+    actor {
+      name: "Liam Neeson"
+      comments: "Good from Liam Neeson (My favorite performance in the cast as he develops a strong chemistry with his son and effectively displays grief from the loss of his wife)"
+    }
+    actor {
+      name: "Colin Firth"
+      comments: "Pretty Good from Colin Firth (Uses his experience in romantic movies to propel this performance forward)"
+    }
+    actor {
+      name: "Laura Linney"
+      comments: "Pretty Good from Laura Linney (Felt a bit out of place, but does well in the scenes she is in)"
+    }
+    actor {
+      name: "Emma Thompson"
+      comments: "Good from Emma Thompson (Shows betrayal well and has a good range of emotion throughout the movie)"
+    }
+    actor {
+      name: "Alan Rickman"
+      comments: "Pretty Good to Good from Alan Rickman (A surprisingly comedic performance from Rickman, but he holds his own well and shows some range of emotion (at least however much he can with his mundane voice))"
+    }
+    actor {
+      name: "Keira Knightley"
+      comments: "Pretty Good from Keira Knightley (Really just a name as she isn't given that much screen time (but still does a pretty good job with the scenes she is in))"
+    }
+    actor {
+      name: "Martine McCutcheon"
+      comments: "Pretty Good from Martine McCutcheon (Works well off of Grant)"
+    }
+    actor {
+      name: "Bill Nighy"
+      comments: "Pretty Good from Bill Nighy (A very over-the-top performance that provides humor in his non-sequitur scenes)"
+    }
+    actor {
+      name: "Rowan Atkinson"
+      comments: "Pretty Good from Rowan Atkinson (Mr Bean)"
+    }
+    actor {
+      name: "L\303\272cia Moniz"
+      comments: "Pretty Good from L\303\272cia Moniz (Has chemistry with Colin Firth)"
+    }
+    cast: "Pretty Good from the rest of the cast (Everyone plays their role well as this movie is more about an ensemble cast than a singular performance)"
+    comments: "Pretty Good to Good Acting"
+  }
+  story {
+    writer {
+      name: "Richard Curtis"
+    }
+    comments: "Good Story (The concept was very unique as the different storylines converging to one was a pretty new idea at the time (though it was heavily exploited after), there are a little too many stories (maybe could have cut the 1-2 of them to make the movie a bit tighter); the plot structure was very unique as it was multiple storylines converging to one climax (though there are some other climaxes as not all the storylines converge to the same point); flow between sequences was surprisingly good as the transitions between the different stories were seamless at times (using music and characters); character writing was good as you get a sense of what each character's struggle was and what they are looking for during the holiday season)"
+  }
+  screenplay {
+    writer {
+      name: "Richard Curtis"
+    }
+    comments: "Good Screenplay (The dialogue was pretty good and flowed well (but did have cliche Rom-Com lines); the movie has some very iconic scenes that were parodied/referenced in other forms of media; the humor was good (though did feel very 00s); the symbolism was kinda light (but its a Rom-Com so I cannot complain that much); the foreshadowing was very good as it was used effectively to help connect the different storylines together)"
+  }
+  score {
+    composer {
+      name: "Craig Armstrong"
+    }
+    comments: "Pretty Good Score/Pretty Good Soundtrack (Helps set the Christmas tone)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Michael Coulter"
+    }
+    comments: "Decent Cinematography"
+  }
+  sound: "Decent Sound"
+  editing {
+    editor {
+      name: "Nick Moore"
+    }
+    comments: "Good Editing (Helps with transitioning between the different stories)"
+  }
+  pacing: "Pacing was pretty good as it did not feel very slow or fast"
+  climax: "Climax was executed well as it converges many of the storylines to one singular event (and the climaxes of the other storylines were also handled well)"
+  tone: "Tone felt exactly was the genre was (A Christmas, Rom-Com)"
+  final_notes: ""
+  overall: "Overall, an enjoyable Christmas movie that is carried by its writing and performances as we get to see the unique concept of multiple storylines happening in parallel with their common goal of finding love, though it is a bit bloated from having too many subplots and suffers from many Rom-Com and early 2000s cliches"
+}
+release_year: 2003
+review_date: "12/24/2023"
+redux: false
+id: 399
+imdb_id: "tt0314331"

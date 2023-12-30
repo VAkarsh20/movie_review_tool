@@ -37,7 +37,7 @@ class IMDbBot:
     
     def import_review(self, imdb_id, rating, review):
 
-        self.wait(10)
+        self.wait(5)
         self.driver.get("https://contribute.imdb.com/review/{}/add?".format(imdb_id))
 
         self.wait(10)

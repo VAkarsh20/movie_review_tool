@@ -1,0 +1,71 @@
+title: "Maestro"
+rating: 6.2
+review {
+  direction {
+    director {
+      name: "Bradley Cooper"
+    }
+    comments: "Decent Direction (The direction on a macroscale is good as the exposition pays homage to the 1950s Golden Age of Hollywood, and the scenes afterward feel very polished and grand to show how larger than life Leonard Bernstein was; the direction on a microscale was a mess as a lot of the interpersonal scenes felt discombobulated as everyone was talking at the same time and the desired emotions were not achieved; the direction of actors was good as the performances were elevated and there was a sense of chemistry (it is just the scenes where the characters interact are not that well executed); the storytelling was not good as you do not know what the purpose of this movie is (you do not really learn anything about Leonard Bernstein or his relationship with his Felicia))"
+  }
+  acting {
+    actor {
+      name: "Carey Mulligan"
+      comments: "Good to Very Good from Carey Mulligan (Shows emotion and the impact her relationship with Bernstein had on her, feels very limited by where she can go due to the material)"
+    }
+    actor {
+      name: "Bradley Cooper"
+      comments: "Very Good from Bradley Cooper (Really transforms into Bernstein and does a very good job at showing the different sides of him (both in his youth and when he is old))"
+    }
+    cast: "Good from the rest of the cast (Do a good job in portraying the time and making the two leads look good)"
+    comments: "Good to Very Good Acting"
+  }
+  story {
+    writer {
+      name: "Bradley Cooper"
+    }
+    writer {
+      name: "Josh Singer"
+    }
+    comments: "Bad Story (The concept is ultimately the worst part of the movie because there is a lack of focus on what they want to portray (the intent was to show the relationship between Leonard and Felicia, but you don't really learn anything about the two as it spends more time on how he is cheating on her with men; you don't learn anything about Leonard Bernstein as it just crams in so much information about his life); the plot structure was bad as the movie spends too much time on the exposition (and how great of a relationship the two main characters had) that it does not leave any time to show the turmoil they have (the movie also just focus on unnecessary parts that the conflict is never really introduced, explained, or dealt with), the movie also has a very anticlimatic ending; flow between sequences was good as the movie does flow well (it is just its storytelling that makes it feel like nothing is happening); character writing is very poor as the movie just focuses on the wrong parts of each of the characters (the movie cares more about sharing how Leonard Berstein was gay and cheating on his wife with men than to actually show the relationship he had with Felicia or how important of a figure Berstein was for 20th century American music, and the movie does not really show how much Felicia cared for Berstein (only showing some scenes where she felt trapped)))"
+  }
+  screenplay {
+    writer {
+      name: "Bradley Cooper"
+    }
+    writer {
+      name: "Josh Singer"
+    }
+    comments: "Pretty Bad Screenplay (The dialogue was well written and mimicked the time it was portraying (though it does not feel very profound at all, especially in moments where it should be); the humor was very corny and slapstick; tension is not built up well as there isn't any moment I felt engaged with what was going on; the symbolism felt very forced for a biopic and did not do a good job with helping portray the messages of the movie (if there are any); the foreshadowing was pretty non-existent)"
+  }
+  score {
+    composer {
+      name: "Leonard Bernstein"
+    }
+    comments: "Pretty Good Score (Pays homage to the work of Leonard Bernstein and incorporated decently well into the movie)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Matthew Libatique"
+    }
+    comments: "Very Good Cinematography (The first half does a great job in emulating the Golden Age of Hollywood, the second half feels polished and more contemporary (the Mahler scene was shot very well))"
+  }
+  sound: "Pretty Bad Sound (The music was too loud and not properly mixed with the dialogue)"
+  editing {
+    editor {
+      name: "Michelle Tesoro"
+    }
+    comments: "Good to Very Good Editing (The editing in the first half of the movie is so seamless and does a great job at paying homage to the Golden Age of Hollywood, the second half just feels very generic (but still polished))"
+  }
+  production_design: "Good Production Design (Helps with portraying the time period, the places where Berstein worked, and his private life)"
+  makeup: "Incredible Makeup (Used incredibly well to transform Bradley Cooper into Leonard Berstein across his entire life (with them looking identical in the composer's later years))"
+  pacing: "Pacing was all over the place as the beginning felt a bit slow (but fine) and the second half felt incredibly fast that nothing was going on; the movie could have benefited from 30-40 minutes of runtime to emphasize the relationship between Leonard and Felicia because it did not feel like it spent any time on this (when it was the main focus of the movie)"
+  climax: "Climax was nonexistent because the movie ends with somewhat of a cliffhanger (at least it feels like that); there are 12 minutes of credits and all of these twelve minutes could have been used to help buttress the ending"
+  tone: "Tone emulated the time period they were portraying (the 50s in the beginning and the 70s towards the end)"
+  final_notes: "This was the most Oscar-bait movie of the year and it really shows; Tár honestly does a better job at what this movie was going for"
+  overall: "Overall, a disappointing sophomore effort by Bradley Cooper as his performance cannot save his movie as it falters from a lack of focus on what it wants to portray as you do not really learn anything about Leonard Bernstein or his relationship with Felicia Montealegre"
+}
+release_year: 2023
+review_date: "12/24/2023"
+redux: false
+id: 398
+imdb_id: "tt5535276"

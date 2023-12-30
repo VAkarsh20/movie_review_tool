@@ -1,0 +1,69 @@
+title: "Ferrari"
+rating: 6.4
+review {
+  direction {
+    director {
+      name: "Michael Mann"
+    }
+    comments: "Decent Direction (The  macroscale was pretty good as he does do a good job at showing how grand racing is in Italy as they go throughout the country (though he does not use cinematography well to show this as it comes off as very goofy); the direction on a microscale is very choppy as a lot of the interpersonal scenes feel like the actors are taking turns speaking or overly dramatic; direction of actors was decent as the performances are not bad (they just feel overly dramatic); storytelling was decent as it the story is kept simple (only really 3 storylines in total)"
+  }
+  acting {
+    actor {
+      name: "Adam Driver"
+      comments: "Pretty Good from Adam Driver (Has moments that are good and moments that are pretty bad (but I think it is time for Adam Driver to stop playing Italians))"
+    }
+    actor {
+      name: "Pen\303\251lope Cruz"
+      comments: "Good to Very Good from Pen\303\251lope Cruz (The best performance of the movie as she transforms into the character and shows a wide range of emotions (as it helps display her grief), the performance is held back by the direction on writing so she can only show so much)"
+    }
+    actor {
+      name: "Shailene Woodley"
+      comments: "Pretty Good from Shailene Woodley (Really isn't given that much to work with but does have some good scenes/chemistry with Adam Driver)"
+    }
+    cast: "Decent from the rest of the cast (A lot of exaggerated Italian performances)"
+    comments: "Decent to Pretty Good  Acting"
+  }
+  story {
+    writer {
+      name: "Troy Kennedy Martin"
+    }
+    comments: "Decent Story (The concept was simple as there are only three main storylines (and two of the storylines feel very connected); the plot structure was simple as there is an A story and a B story and both follow the standard plot structure; flow between sequences felt very choppy; character writing was pretty good as you get a good sense of what each character wants and is fighting against)"
+  }
+  screenplay {
+    writer {
+      name: "Troy Kennedy Martin"
+    }
+    comments: "Decent Screenplay (The dialogue is incredibly dramatic (does not feel natural at all), but it does have some good lines; the humor was used a good amount and lightened the mood at the right times; the tension is built well (especially during the climax); the symbolism was simple (but there); the foreshadowing was decent and helped bring closure to the character's struggles)"
+  }
+  score {
+    composer {
+      name: "Daniel Pemberton"
+    }
+    comments: "Decent Score (The score itself was pretty light (it just was not mixed in well at times); the score is used to create tension)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Erik Messerschmidt"
+    }
+    comments: "Pretty Bad Cinematography (While there are some good shows (especially the scenic ones), there are just so many goofy angles that make the movie feel very amateurish (especially the frontal shots when during the racing scenes))"
+  }
+  sound: "Decent Sound (While the Editing is good to create the car and engine sound effects, the mixing with the music feels very off)"
+  editing {
+    editor {
+      name: "Pietro Scalia"
+    }
+    comments: "Pretty Bad Editing (Feels very amateurish and choppy)"
+  }
+  visual_effects: "Very Bad Visual Effects (It is so obvious when they are using CGI and it just feels very unnatural)"
+  production_design: "Pretty Good Production Design (Helped with setting the time period)"
+  pacing: "Pacing was pretty good as it kept a consistent pace throughout (and sped up during the race scenes to create tension)"
+  climax: "Climax was executed well as it creates a lot of tension and shock"
+  tone: "Tone felt like an overly dramatic 'Ford v. Ferrari' (a drama mixed with high-octane racing moments)"
+  final_notes: "This movie is basically if we had 'Ford v. Ferrari' at home"
+  overall: "Overall, a decent watch with a simple story into a troubling period in Ferrari's history that has a very memorable performance from Penelope Cruz, but is held back by its choppy direction, editing, and technicals"
+}
+release_year: 2023
+review_date: "12/28/2023"
+redux: false
+id: 400
+imdb_id: "tt3758542"

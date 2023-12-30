@@ -721,7 +721,9 @@ if __name__=="__main__":
 
     argc = len(sys.argv)
 
-    df = pd.read_csv("movies.csv")
+    print(wikipedia.WikipediaPage(title="Home_Alone").references)
+
+    # df = pd.read_csv("movies.csv")
 
     # df.loc[df["Id"] >= 367, "Id"] = df["Id"] - 2.0
 
@@ -733,6 +735,11 @@ if __name__=="__main__":
     #     proto = review_tool.read_proto("{} ({})".format(title, year))
     #     proto.id = id
     #     review_tool.write_proto(proto)
+    # bot = letterboxd.LetterboxdBot()
+    # bot.liked_film("The Dark Knight")
+    # bot.add_to_cinema_personified_list()
+    # bot.quit()
+
         
 
 

@@ -1,0 +1,92 @@
+title: "Anyone But You"
+rating: 4.4
+review {
+  direction {
+    director {
+      name: "Will Gluck"
+    }
+    comments: "Bad Direction (The whole movie just feels like the studio shelled out something to tick boxes rather than make a well thought-out comedy (this included plot concepts, wardrobing, and jokes) because that's what they think the audience 'wants' as they try too hard to be 'modern,' meaning the director couldn't make any creative decisions; the direction on both a macro and microscale feels very formulaic to other Rom-Coms; the direction of actors is very bad as he does not establish any chemistry for the cast as all the performances feel mundane and toneless; the storytelling is a formulaic and predictable Rom-Com)"
+  }
+  acting {
+    actor {
+      name: "Sydney Sweeney"
+      comments: "Bad to Pretty Bad from Sydney Sweeney (The overall performance feels mundane and toneless and she fails to establish any chemistry with Glen Powell, but she does have some moments where she does a decent to pretty good job)"
+    }
+    actor {
+      name: "Glen Powell"
+      comments: "Decent to Pretty Good from Glen Powell (The only positive performance in the movie as he holds his own and leads the movie well as a Rom-Com lead (it's just the material is so bad he can only do so much))"
+    }
+    actor {
+      name: "Alexandra Shipp"
+      comments: "Decent from Alexandra Shipp (Actually holds her own well and shows some a little range (which is a lot given this movie))"
+    }
+    actor {
+      name: "GaTa"
+      comments: "Bad from GaTa (Cannot match the levels of any of the other actors and feels very toneless with little effort)"
+    }
+    actor {
+      name: "Hadley Robinson"
+      comments: "Pretty Bad from Hadley Robinson (Just doesn't offer anything)"
+    }
+    actor {
+      name: "Michelle Hurd"
+      comments: "Decent from Michelle Hurd (Shows some experience and decent timing)"
+    }
+    actor {
+      name: "Dermot Mulroney"
+      comments: "Decent from Dermot Mulroney (Has some charisma and timing)"
+    }
+    actor {
+      name: "Charlee Fraser"
+      comments: "Decent from Charlee Fraser (The most surprising performance of the movie as she holds her own fairly well and establishes some charm and chemistry with Glen Powell)"
+    }
+    cast: "Very Bad from the rest of the cast (Just a lot of toneless and stereotypical Rom-Com performances; there is no chemistry in the entire cast)"
+    comments: "Bad Acting"
+  }
+  story {
+    writer {
+      name: "Ilana Wolpert"
+    }
+    comments: "Very Bad Story (The concept is a modern retelling of Shakespeare's 'Much Ado About Nothing,' but it does not do anything to be unique as it just follows the cookie cutter Rom-Com plot (mixed with forced modern references); the story construction is incredibly formulaic as each scene is incredibly predictable on what is going to happen and where it is going to go; because the movie is so predictable, there is a flow because it just follows this boilerplate to a tea; the character writing is terrible as all the characters as so shallow and stereotypical to Rom-Coms (and things are brought up for characters that never get addressed or add more depth to the characters))"
+  }
+  screenplay {
+    writer {
+      name: "Ilana Wolpert"
+    }
+    writer {
+      name: "Will Gluck"
+    }
+    comments: "Very Bad Screenplay (The dialogue is atrocious and very predictable (the movie forces in so many modern references that it just feels like they are pandering to the youth rather than writing realistic dialogue); the joke hit rate is probably 1 out of every 5 jokes (and some of the jokes are just so stupid that its cringe at how they even made this movie); the symbolism is incredibly overt (with the quotes from the source material and the messages of the story being overlaid onto the screen); the foreshadowing is incredibly overt that it makes the movie incredibly predictable)"
+  }
+  score {
+    composer {
+      name: "Este HaimChris Stracey"
+    }
+    comments: "Decent Score; Decent Soundtrack (Did enjoy the songs they chose)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Danny Ruhlmann"
+    }
+    comments: "Pretty Good Cinematography (Very polished as you could tell the studio put in a lot of money to make this movie)"
+  }
+  sound: "Pretty Bad Sound (Some of the sound effects are just off from what happened)"
+  editing {
+    editor {
+      name: "Tia Nolan"
+    }
+    comments: "Decent Editing (The actual edit was very polished and felt like it had a big budget; the cut for the movie just feels weird as it is obvious where they did reshoots and what was originally shot)"
+  }
+  costumes: "Good Costumes (They made a very conscious decision with what each character was wearing to get people to watch this movie (and I respect that))"
+  plot_structure: "Plot Structure followed the source material's and Rom-Com template to a tee (which made the movie incredibly formulaic and predictable)"
+  pacing: "Pacing was decent (as it kept the Rom-Com pace)"
+  climax: "Climax was so forced and incredibly formulaic (which made me cringe very hard when watching this movie)"
+  tone: "Tone was very similar to other Rom-Coms (especially from the early 2010s)"
+  final_notes: "It was so obvious where there were reshoots for this movie as some of the scenes were so bad and some were more tolerable"
+  overall: "Overall, an incredibly formulaic Rom-Com that tries way too hard to capitalize on the popularity and looks of Glen Powell and Sydney Sweeney, but fails hard as it is so predictable and barely funny"
+}
+release_year: 2023
+review_date: "12/20/2023"
+redux: false
+id: 396
+imdb_id: "tt26047818"

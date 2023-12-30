@@ -11,6 +11,11 @@ import os
 # export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
 # LIBGL_ALWAYS_INDIRECT=1
 
+# TODO: See why You always have to run this file twice cause there is this error - OSError: [Errno 26] Text file busy: '/home/akarsh/.wdm/drivers/geckodriver/linux64/0.33/geckodriver'
+# TODO: EOFError: Compressed file ended before the end-of-stream marker was reached
+# TODO: Issues when clicking Import File 
+# Stacktrace:
+# RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 class LetterboxdBot:
     def __init__(self):
         self.driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
@@ -20,7 +25,6 @@ class LetterboxdBot:
         self.driver.implicitly_wait(seconds)
 
     def login(self, username, password):
-        
         self.driver.get("https://letterboxd.com/import/")
 
         self.wait(15)
@@ -29,16 +33,13 @@ class LetterboxdBot:
         self.driver.find_element(By.XPATH,"/html/body/div[1]/div/form/div/div[3]/button").click()
     
     def import_review(self):
-        
         self.wait(15)
         self.driver.find_element(By.ID, "upload-imdb-import").send_keys("/mnt/c/Users/vakar/personal-repos/movies/movie_review_tool/letterboxd_upload.csv")
         
         self.wait(30)
         self.driver.find_element(By.XPATH,"/html/body/div[2]/div/div[1]/a[2]").click()
 
-    # TODO: Fix Bug where it removes like
     def liked_film(self, title):
-        
         self.wait(10)
         self.driver.get("https://letterboxd.com/akarshv/")
 
@@ -46,7 +47,8 @@ class LetterboxdBot:
         self.driver.find_element("link text", title).click()
 
         self.wait(10)
-        self.driver.find_element(By.XPATH, "/html/body/div[2]/div/div/aside/section[1]/ul/li[1]/span[2]/span/span/span").click()
+        if self.driver.find_element(By.XPATH, '//*[@id="userpanel"]/ul/li[1]/span[2]/span/span/span').text == "Like":
+            self.driver.find_element(By.XPATH, "/html/body/div[2]/div/div/aside/section[1]/ul/li[1]/span[2]/span/span/span").click()
 
         # Deprecated way
         # self.wait(10)
@@ -60,7 +62,6 @@ class LetterboxdBot:
     
     # TODO: Check if film is already in the list
     def add_to_cinema_personified_list(self):
-        
         self.wait(10)
         self.driver.find_element("link text", "Add this film to lists…").click()
 
@@ -75,7 +76,6 @@ class LetterboxdBot:
 
 
 def rating_to_stars(rating):
-
     rating = int (rating * 10)
 
     # Mapping rating to its respective star
@@ -103,7 +103,6 @@ def rating_to_stars(rating):
         return 0
 
 def rating_to_tag(rating):
-
     rating = int (rating * 10)
 
     # Mapping rating to its respective tag
@@ -135,7 +134,6 @@ def change_date_format(date):
     return "{}-{}-{}".format(year, month, day)
 
 def create_letterboxd_csv(proto, short_review):
-    
     df = pd.DataFrame(columns=["imdbID", "Title", "Year", "Rating","WatchedDate","Tags","Review"])
 
     record = [proto.imdb_id, proto.title, proto.release_year, rating_to_stars(proto.rating), change_date_format(proto.review_date), rating_to_tag(proto.rating), short_review]
@@ -144,7 +142,6 @@ def create_letterboxd_csv(proto, short_review):
     df.to_csv("letterboxd_upload.csv", index=False)
 
 def post_to_letterboxd(proto, short_review):
-    
     yml = yaml.safe_load(open('login_details.yml'))
     username = yml['letterboxd']['username']
     password = yml['letterboxd']['password']

@@ -21,12 +21,12 @@ import copy
 def get_wiki_info():
     
     # Parse Wikipedia
-    while True:
+    tries = 3
+    while tries > 0:
         try:
             title = input("What is the film title?\n")
             wiki_title = title.replace(" ", "_")
             
-            # TODO: Fix bug with Psycho (1960), Die Hard (1988)
             imdb_id = get_imdb_id(wiki_title)
             infobox = parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
 
@@ -35,11 +35,12 @@ def get_wiki_info():
                 title = title[:title.rfind(' (')]            
             return title, imdb_id, infobox
         except:
-            # TODO: Fix this, breaks the app because it does not retry
+            tries -= 1
             print("Film not found. Please try again.")
-            break
+    print("Unable to find movie. Please restart app.")
     return None, None, None
 
+# TODO: Replace this function with a better way to get imdb id (somethings returns two different)
 def get_imdb_id(film):
     
     links = " ".join(wikipedia.WikipediaPage(title=film).references)
@@ -48,7 +49,7 @@ def get_imdb_id(film):
 
     # if len(imdb_id) > 1 and len(set(imdb_id)) > 1:
     if len(imdb_id) > 1:
-        raise Exception("More than one IMDB link for " + film)
+        return input("There are two imdb ids: {}. Please input imdb id for {}.".format(imdb_id, film))
 
     return imdb_id.pop()
 
@@ -95,7 +96,7 @@ def get_field(infobox, key):
     if key == "Directed by":
         direction = movie_pb2.Movie.Review.Direction()
         direction.director.extend(person_list)
-        direction.comments = "Direction ()"
+        direction.comments = "Direction (macroscale; microscale; direction of actors; storytelling)"
         return direction
     elif key == "Music by":
         score = movie_pb2.Movie.Review.Score()
@@ -172,8 +173,8 @@ def get_writing(infobox):
 
     # Add comments for the writing
     if story != None and screenplay != None:
-        story.comments = "Story ()"
-        screenplay.comments = "Screenplay ()"
+        story.comments = "Story (The concept; the plot structure; flow between sequences; character writing)"
+        screenplay.comments = "Screenplay (The dialogue; the humor; the horror/tension; the symbolism; the foreshadowing)"
 
     return story, screenplay
 
@@ -192,7 +193,7 @@ def find_review_date():
     return "{}/{}/{}".format(today.strftime('%m'), today.strftime('%d'), today.strftime('%Y')) 
 
 
-def set_id(imdb_id, redux):
+def set_id(imdb_id=None, redux=False):
     if redux:
         df = pd.read_csv("movies.csv")
         return int(df[df["imdbID"] == imdb_id]["Id"])
@@ -223,7 +224,6 @@ def create_proto(redux=False):
         production_design = "Production Design ()",
         makeup = "Makeup ()",
         costumes = "Costumes ()",
-        plot_structure= "Plot Structure ",
         pacing = "Pacing ",
         climax = "Climax ",
         tone = "Tone ",
@@ -232,12 +232,12 @@ def create_proto(redux=False):
     )
 
     # creating the review object from the fields already initialized
-    return movie_pb2.Movie(title=title, rating=1.0, review=review, release_year = find_release_year(infobox), review_date = find_review_date(), redux=redux, id=set_id(imdb_id, redux), imdb_id=imdb_id)
+    return movie_pb2.Movie(title=title, rating=0.1, review=review, release_year = find_release_year(infobox), review_date = find_review_date(), redux=redux, id=set_id(imdb_id, redux), imdb_id=imdb_id)
 
 
 def create_proto_free(redux=False):
     title, imdb_id, infobox = get_wiki_info()
-    return movie_pb2.MovieFree(title=title, rating=1.0, review="", release_year = find_release_year(infobox), review_date = find_review_date(), redux=redux, id=set_id(imdb_id, redux), imdb_id=imdb_id)
+    return movie_pb2.MovieFree(title=title, rating=0.1, review="", release_year = find_release_year(infobox), review_date = find_review_date(), redux=redux, id=set_id(imdb_id, redux), imdb_id=imdb_id)
 
 
 def write_proto(proto):
@@ -395,8 +395,8 @@ def print_imdb_review(proto, filename):
 
     return review.rstrip()
 
+# TODO: Redux is not created for Home Alone 2
 def move_redux_reviews(filename):
-    
     path = os.path.join(os.path.dirname(__file__), 'movies_textproto/')
     count = 0
     while os.path.exists(path + ("reduxed/" * count) + filename + ".textproto"):
@@ -455,6 +455,9 @@ if __name__=="__main__":
 
         # Get details for post
         proto = read_proto(filename)
+        if proto.rating == 0.1:
+            print("Cannot post a review with a 0.1/10.0. Please fix rating.")
+            sys.exit(0)
         review = print_review(proto, filename)
         
         post_to_sheets(proto, review)
@@ -464,6 +467,9 @@ if __name__=="__main__":
 
         # Get details for post
         proto = read_proto(filename)
+        if proto.rating == 0.0:
+            print("Cannot post a review with a 0.0/10.0. Please fix rating.")
+            sys.exit(0)
         short_review = print_short_review(proto, filename)
 
         post_to_letterboxd(proto, short_review)
@@ -473,6 +479,9 @@ if __name__=="__main__":
 
         # Get details for post
         proto = read_proto(filename)
+        if proto.rating == 0.0:
+            print("Cannot post a review with a 0.0/10.0. Please fix rating.")
+            sys.exit(0)
         imdb_review = print_imdb_review(proto, filename)
 
         post_to_imdb(proto, imdb_review)
@@ -482,6 +491,9 @@ if __name__=="__main__":
 
         # Get details for post
         proto = read_proto(filename)
+        if proto.rating == 0.0:
+            print("Cannot post a review with a 0.0/10.0. Please fix rating.")
+            sys.exit(0)
         review = print_review(proto, filename)
         short_review = print_short_review(proto, filename)
         imdb_review = print_imdb_review(proto, filename)

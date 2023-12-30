@@ -1,27 +1,27 @@
 title: "May December"
-rating: 1.0
+rating: 7.6
 review {
   direction {
     director {
       name: "Todd Haynes"
     }
-    comments: "Direction ()"
+    comments: "Pretty Good Direction (The direction on a macroscale was pretty bad because it just felt like a lazy imitation of The Room's panning shots; the direction on a microscale was good as this is the focal point of the movie as he lets the interpersonal scenes move the story forward; the direction of actors is very good as you see well-executed performances from the principal cast as they tackle the trauma from such a heavy topic; the storytelling for this movie is a huge highlight as he really 'tells' the story through interviews rather than showing it (which I respect because it mimics how someone would actually learn about the events if they went searching it))"
   }
   acting {
     actor {
       name: "Natalie Portman"
-      comments: " from Natalie Portman ()"
+      comments: "Very Good from Natalie Portman (Acts as the outsider looking into the situation and shows the effect researching the situation has on her character)"
     }
     actor {
       name: "Julianne Moore"
-      comments: " from Julianne Moore ()"
+      comments: "Very Good from Julianne Moore (A real shape-shifting performance as she manipulates her narcissistic personality well to always paint herself in a good light)"
     }
     actor {
       name: "Charles Melton"
-      comments: " from Charles Melton ()"
+      comments: "Very Good from Charles Melton (Acts as the emotional vulnerability in the movie as you can see how the trauma from the situation has caused him to be sheltered without any growth as he still feels like he hasn’t grown up since the incident)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Good from the rest of the cast (Generic acting (but they are all minor characters))"
+    comments: "Very Good Acting"
   }
   story {
     writer {
@@ -30,46 +30,42 @@ review {
     writer {
       name: "Alex Mechanik"
     }
-    comments: "Story ()"
+    comments: "Pretty Good to Good Story (The concept is something that I have always wanted to see addressed on the big screen (and the way the address is very unique); the story construction is kind of an issue because it just feels like it is building the entire time, and then falls off a cliff when the movie ends; the flow between sequences is very rigid as the non-sequitur panning shots disrupt what they are building (even though it may make it more artistic); the character writing is very good as you get to see the depth of all the characters' traumas (and how it affects them))"
   }
   screenplay {
     writer {
       name: "Samy Burch"
     }
-    comments: "Screenplay ()"
+    comments: "Decent Screenplay (The dialogue is decent but does not have anything profound; there is barely any humor (so how it got categorized as a 'Comedy' for the Golden Globes baffles me); they do a decent job building tension; the symbolism is a little too overt (the caterpillar to butterfly); there isn’t that much foreshadowing as the movie doesn’t have an ending)"
   }
   score {
     composer {
       name: "Marcelo Zarvos"
     }
-    comments: "Score ()"
+    comments: "Bad Score (It is literally The Room (and is way too forced throughout the movie))"
   }
   cinematography {
     cinematographer {
       name: "Christopher Blauvelt"
     }
-    comments: "Cinematography ()"
+    comments: "Bad Cinematography (Feels super amateur and uses the same shot way too many times; the nature, scenic shots just felt way too much like The Room)"
   }
-  sound: "Sound ()"
+  sound: "Decent Sound"
   editing {
     editor {
       name: "Affonso Gon\303\247alves"
     }
-    comments: "Editing ()"
+    comments: "Decent Editing (Felt kinda amateur)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  plot_structure: "Plot Structure is a huge issue because the movie mostly focuses on its exposition and rising action (to investigate the relationship) that there is barely a climax and no resolution"
+  pacing: "Pacing is really slow (the movie overall is a slow burn)"
+  climax: "Climax is super anti-climatic as it just brings up more questions than tying up any loose ends (with more introduced to the conflict in the final 20-30 minutes)"
+  tone: "Tone felt pretty similar to Spotlight and other journalist movies as most of it is investigating the scandal through interviews (though there are many forced artistic elements that muddle this tone a bit)"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a movie that is carried by its performances and interesting story as Natalie Portman, Julianne Moore, and Charles Melton act as powerful storytellers for such an uncomfortable, traumatic scandal, though the movie just feels a bit too amateur with its forced artistic vision (imitating The Room at times) and leaves with so many questions that are left unanswered"
 }
 release_year: 2023
 review_date: "12/17/2023"
 redux: false
-id: 397
+id: 395
 imdb_id: "tt13651794"

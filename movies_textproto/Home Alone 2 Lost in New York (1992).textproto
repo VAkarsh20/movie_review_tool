@@ -1,8 +1,76 @@
 title: "Home Alone 2: Lost in New York"
-rating: 9.0
-review: "Great Acting By Culkin and Pesci, Very Funny, Iconic, Very Fun Movie to watch, Great Score, Great Screenplay, Great Story, Great Sequel."
+rating: 9.2
+review {
+  direction {
+    director {
+      name: "Chris Columbus"
+    }
+    comments: "Great Direction (the direction on a macroscale is grander this time around as there is a higher production budget and the movie makes an effort to show how large New York is in comparison to Kevin; the direction microscale is pretty generic to 80s family comedies; the direction of actors is great as he can bring out the humor and joy in many moments, helps set the lighthearted tone that Kevin brings throughout the movie; storytelling is very similar to other John Hughes movies)"
+  }
+  acting {
+    actor {
+      name: "Macaulay Culkin"
+      comments: "Great from Macaulay Culkin (Continues to bring the youthful charm the movie is known for"
+    }
+    actor {
+      name: "Joe Pesci"
+      comments: "Great from Joe Pesci (Continues to bring the comedic charm the movie is known for)"
+    }
+    actor {
+      name: "Daniel Stern"
+      comments: "Very Good from Daniel Stern (Continues to be the good comedic relief partner that plays off of Joe Pesci)"
+    }
+    actor {
+      name: "Tim Curry"
+      comments: "Good to Very Good from Tim Curry"
+    }
+    actor {
+      name: "Catherine O\'Hara"
+      comments: "Good to Very Good  from Catherine O\'Hara"
+    }
+    cast: "Pretty Good from the rest of the cast"
+    comments: "Good Acting"
+  }
+  story {
+    writer {
+      name: "John Hughes"
+    }
+    comments: "Incredible Story (The concept is very satirical because the movie makes an effort to show that the story is the same one as the first (just grander); the plot structure follows the same plot structure as the first movie; flow between sequences is like the first in that its the standard John Hughes movie; character writing was very similar to the first movie as it replicates what the characters are going through this time around)"
+  }
+  screenplay {
+    writer {
+      name: "John Hughes"
+    }
+    comments: "Great Screenplay (The dialogue is pretty simple as its a family movie (but it is filled with iconic lines), the movie also uses dialogue to show how this movie is the same as the first; the humor was very good and iconic (also pokes fun at how this is the same movie as the first); the foreshadowing is good as it helps with showing the message of Kevin nothing being afraid)"
+  }
+  score {
+    composer {
+      name: "John Williams"
+    }
+    comments: "Great Score (Continues one of John Williams's most iconic scores)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Julio Macat"
+    }
+    comments: "Good Cinematography"
+  }
+  sound: "Good Sound"
+  editing {
+    editor {
+      name: "Raja Gosnell"
+    }
+    comments: "Good Editing"
+  }
+  production_design: "Good Production Design (Makes an effort to show how grand and regal all the places Kevin stays at in NYC)"
+  pacing: "Pacing was great as it was a steady pace that used its runtime very nicely"
+  climax: "Build to the climax was great as it helped tie loose ends in Kevin\'s fears of being alone and with the old man; the climax is the most iconic part of the movie as it shows Kevin against the Sticky Bandits as he lays the house out with traps to defend himself and show how he is not afraid anymore"
+  tone: "Tone was very similar to other John Hughes movies (mixed with Christmas elements)"
+  final_notes: "This movie has more of a nostalgic factor for me because I watched it more as a child"
+  overall: "Overall, my favorite Christmas movie as this sequel builds on the iconic elements from the first movie, in a borderline satirical way, to show how Kevin can still outsmart the Sticky Bandits on an even larger scale"
+}
 release_year: 1992
-review_date: "01/05/2020"
-redux: false
+review_date: "12/29/2023"
+redux: true
 id: 124
 imdb_id: "tt0104431"

@@ -1,49 +1,49 @@
 title: "Home Alone"
-rating: 8.8
+rating: 9.0
 review {
   direction {
     director {
       name: "Chris Columbus"
     }
-    comments: "Very Good to Great Direction (able to bring out the humor and joy in many moments, helps set the lighthearted tone that Kevin brings throughout the movie)"
+    comments: "Very Good to Great Direction (the direction on a macro and microscale is pretty generic to 80s family comedies; the direction of actors is great as he can bring out the humor and joy in many moments, helps set the lighthearted tone that Kevin brings throughout the movie; storytelling is very similar to other John Hughes movies)"
   }
   acting {
     actor {
       name: "Macaulay Culkin"
-      comments: "Great from Macaulay Culkin (able to bring the charm the movie is known for)"
+      comments: "Great from Macaulay Culkin (Able to bring the youthful charm the movie is known for)"
     }
     actor {
       name: "Joe Pesci"
-      comments: "Great from Joe Pesci (able to bring the charm the movie is known for)"
+      comments: "Great from Joe Pesci (Able to bring the comedic charm the movie is known for)"
     }
     actor {
       name: "Daniel Stern"
-      comments: "Very Good from Daniel Stern (the good comedic relief to the comedic relief from Joe Pesci)"
+      comments: "Very Good from Daniel Stern (The good comedic relief partner that plays off of Joe Pesci)"
     }
     actor {
       name: "Catherine O\'Hara"
       comments: "Good to Very Good from Catherine O\'Hara"
     }
-    cast: "Decent to Pretty Good from the rest of the cast"
-    comments: "Pretty Good to Good Acting"
+    cast: "Decent to Pretty Good from the rest of the cast "
+    comments: "Decent to Pretty Good Acting"
   }
   story {
     writer {
       name: "John Hughes"
     }
-    comments: "Great to Incredible Story (Something that was very unique and iconic for the time as it takes the Christmas movie genre to new heights)"
+    comments: "Incredible Story (The concept was unique and iconic for the time as it took the Christmas movie genre to new heights; the plot structure was very nicely laid out as there are no real wasted scenes in developing the story; flow between sequences is pretty standard to other John Hughes movies; character writing was great as you see the relationships Kevin has with the people around him (and how his mother cares about her son))"
   }
   screenplay {
     writer {
       name: "John Hughes"
     }
-    comments: "Very Good to Great Screenplay (Filled with iconic lines but the actual dialogue is pretty simple (mostly due to the movie staring a child and it being a family movie))"
+    comments: "Great Screenplay (The dialogue is pretty simple as its a family movie (but it is filled with iconic lines); the humor was very good and iconic; the foreshadowing is good as it helps with showing the message of Kevin nothing being afraid)"
   }
   score {
     composer {
       name: "John Williams"
     }
-    comments: "Incredible Score (One of John Williams most iconic works)"
+    comments: "Incredible Score (One of John Williams's most iconic works)"
   }
   cinematography {
     cinematographer {
@@ -52,13 +52,21 @@ review {
     comments: "Good Cinematography"
   }
   sound: "Good Sound"
-  plot_structure: "Plot Structure was very nicely laid out as there are no real wasted scenes in developing the story"
+  editing {
+    editor {
+      name: "Raja Gosnell"
+    }
+    comments: "Good Editing"
+  }
+  production_design: "Very Good Production Design (The house is very iconic and the traps laid out throughout it give the movie its iconic charm)"
   pacing: "Pacing was great as it was a steady pace that used its runtime very nicely"
-  climax: "Build to the climax was great as it helped tie loose ends in Kevin\'s fears of being alone and with the old man; climax is the most iconic part of the movie as it shows Kevin against the Wet Bandits as he lays the house out with traps to defend himself and show how he is not afraid anymore"
-  overall: "Overall, one of the best christmas movies ever made as we get to see the iconic elements carried out by Culkin and the wet bandits as they navigate through the different traps and high jinks, and I would rate this movie higher but I personally prefer the sequel more due to personal reasons"
+  climax: "Build to the climax was great as it helped tie loose ends in Kevin\'s fears of being alone and with the old man; the climax is the most iconic part of the movie as it shows Kevin against the Wet Bandits as he lays the house out with traps to defend himself and show how he is not afraid anymore"
+  tone: "Tone was very similar to other John Hughes movies (mixed with Christmas elements)"
+  final_notes: ""
+  overall: "Overall, one of the best Christmas movies ever made as we get to see the iconic elements carried out by Culkin and the Wet Bandits as they navigate through the different traps and high jinks"
 }
 release_year: 1990
-review_date: "12/25/2021"
-redux: false
+review_date: "12/26/2023"
+redux: true
 id: 234
 imdb_id: "tt0099785"

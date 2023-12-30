@@ -1,80 +1,62 @@
 title: "The Muppet Christmas Carol"
-rating: 1.0
+rating: 7.0
 review {
   direction {
     director {
       name: "Brian Henson"
     }
-    comments: "Direction ()"
+    comments: "Pretty Good Direction (The direction of a macroscale feels very polished for a Muppets movie as the use of cinematography and the execution of musical numbers is good; the direction on a microscale is pretty standard; the direction of actors and voice actors is pretty similar to other Muppets movies; the storytelling is very similar to other retellings of A Christmas Carol (but with a Muppets twist))"
   }
   acting {
     actor {
       name: "Michael Caine"
-      comments: " from Michael Caine ()"
+      comments: "Pretty Good from Michael Caine (I have no idea what he's doing in this movie but he does a pretty good job in both being Scrooge and singing)"
     }
-    actor {
-      name: "Dave Goelz"
-      comments: " from Dave Goelz ()"
-    }
-    actor {
-      name: "Steve Whitmire"
-      comments: " from Steve Whitmire ()"
-    }
-    actor {
-      name: "Jerry Nelson"
-      comments: " from Jerry Nelson ()"
-    }
-    actor {
-      name: "Frank Oz"
-      comments: " from Frank Oz ()"
-    }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Pretty Good from the rest of the cast (Pretty good singing and the puppeteering and voice acting is similar to other Muppets movies)"
+    comments: "Pretty Good Acting"
   }
   story {
     writer {
       name: "Jerry Juhl"
     }
-    comments: "Story ()"
+    comments: "Decent to Pretty Good Story (The concept is just the Muppets telling 'A Christmas Carol'; the story construction just follows 'A Christmas Carol'; the flow between sequences is very meta/interjected a lot to talk to the audience (very typical of other Muppets movies); the character writing is just portraying the Muppets and Scrooge)"
   }
   screenplay {
     writer {
       name: "Jerry Juhl"
     }
-    comments: "Screenplay ()"
+    comments: "Decent to Pretty Good Screenplay (The dialogue is just 'A Christmas Carol' mixed with Muppets-esque dialogue; the humor is very Muppets-esque; the symbolism is just the symbolism of 'A Christmas Carol'; The foreshadowing is just the foreshadowing of 'A Christmas Carol')"
   }
   score {
     composer {
       name: "Miles Goodman"
     }
-    comments: "Score ()"
+    comments: "Pretty Good Score (Used pretty well to set the tone)/ Pretty Good Soundtrack (The musical numbers were pretty good and pretty funny)"
   }
   cinematography {
     cinematographer {
       name: "John Fenner"
     }
-    comments: "Cinematography ()"
+    comments: "Good Cinematography (Very polished and used well)"
   }
-  sound: "Sound ()"
+  sound: "Pretty Good Sound"
   editing {
     editor {
       name: "Michael Jablow"
     }
-    comments: "Editing ()"
+    comments: "Good Editing (Very Polished)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  plot_structure: "Plot Structure "
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  visual_effects: "Good Visual Effects (The use of puppeteering was really good as it showed the experience of The Muppets, the use of green screen was pretty obvious)"
+  costumes: "Good Costumes (Helped set the scene for 'A Christmas Carol')"
+  plot_structure: "Plot Structure followed the Christmas Carol template (but done well)"
+  pacing: "Pacing was pretty fast (there isn't that much plot to go through and the runtime is pretty short)"
+  climax: "Climax was executed pretty well and brought everything together"
+  tone: "Tone was a mix of 'A Christmas Carol' with The Muppets"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, it's The Muppets telling 'A Christmas Carol' (with some pretty good musical numbers)"
 }
 release_year: 1992
 review_date: "12/17/2023"
 redux: false
-id: 396
+id: 394
 imdb_id: "tt0104940"
