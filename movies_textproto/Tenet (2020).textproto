@@ -1,8 +1,84 @@
 title: "Tenet"
-rating: 8.5
-review: "Good Direction (Incredible during action scenes and coordinating stunts and introducing scenes but poor during moments of conducting dialogue and the more personal scenes), decent acting (Very good from Robert Pattinson, Pretty good from John David Washington (Very emotionless in the first half though), Kenneth Branagh was pretty good to good but over-the-top at times, and the rest of the cast was bad to pretty bad), Great to Incredible Story and Idea (Though I think the middle chunk of the movie was kinda a waste, and the ideas were not executed that well), Pretty Bad Screenplay (The dialogue was very stiff and not well executed to show what the ideas of the movie were), Great Cinematography, Incredible Score, Great to Incredible Effects, Bad Sound Mixing but Great Sound editing, Incredible Film Editing to coordinate backwards and forwards movement, The movie is very confusing in the first half but make more sense and come full circle once the halfway point is met, All the action scenes are incredible intense and pulled off very well in terms of the suspense they create (Especially the first scene and the climax), A movie that makes more sense the more you think about it, The pacing was way too fast and this played a major issue in presenting ideas and having dialogue cause it made things very unnatural and made things very confusing, A lot of the concepts on time did not make any sense and time travel is just a subject in film to stay away from overall (Even if you are Christopher Nolan). Overall, this was Christopher Nolan\'s worst movie (Hard for me to say it as it is) given the fact he is a seasoned director at this point and could not execute a movie of this magnitude off, but it is still a Good movie and would still recommend people to watch."
+rating: 7.4
+review {
+  direction {
+    director {
+      name: "Christopher Nolan"
+    }
+    comments: "Pretty Good to Good Direction (The direction on a macroscale is incredible as he does an amazing job coordinating the action sequences as is mixes both forwards and backwards motion seamlessly; the direction on a microscale is fine as each interpersonal scene felt like it served its purpose, but it just felt like many of the actors were hitting their limit; the direction of actors is pretty bad as the movie is filled with many monotonous performances with bad line delivery; the storytelling feels like an imitation of 'Inception' with its face-paced, convoluted nature, but this feels like this is done to bypass flaws in the plot; he builds tension very well in the action sequences, but the tension feels kinda forced in the interpersonal sequences because the conflict is not that believable)"
+  }
+  acting {
+    actor {
+      name: "John David Washington"
+      comments: "Pretty Bad from John David Washington (Very monotonous and hard to believe him as the lead as he hits an obvious limit in many of the interpersonal scenes)"
+    }
+    actor {
+      name: "Robert Pattinson"
+      comments: "Good from Robert Pattinson (Portrays a range of emotions and a lot of charisma as he really steals the show in his scenes with Washington)"
+    }
+    actor {
+      name: "Elizabeth Debicki"
+      comments: "Pretty Good from Elizabeth Debicki (Shows some range of emotion, but lacks chemistry with Washington)"
+    }
+    actor {
+      name: "Dimple Kapadia"
+      comments: "Decent from Dimple Kapadia (Hits a limit in many of her scenes, but does a decent job in playing off of Washington)"
+    }
+    actor {
+      name: "Michael Caine"
+      comments: "Pretty Good from Michael Caine (Typical Nolan Michael Caine performance)"
+    }
+    actor {
+      name: "Aaron Taylor-Johnson"
+      comments: "Pretty Good from Aaron Taylor-Johnson (Shows charisma in his scenes and works off of Washington and Pattinson well)"
+    }
+    actor {
+      name: "Kenneth Branagh"
+      comments: "Good from Kenneth Branagh (The only actor (besides Pattinson) that felt like he did his homework as you see him get fully immersed into the role, though there are some questionable over-the-top moments)"
+    }
+    cast: "Pretty Bad from the rest of the cast (A lot of monotonous performances that do not support the main cast)"
+    comments: "Pretty Bad to Decent Acting"
+  }
+  story {
+    writer {
+      name: "Christopher Nolan"
+    }
+    comments: "Pretty Bad Story (The concept on a macroscale is pretty interesting with how they tackle reversing entropy and nuclear warfare, but this concept is unnecessarily more convoluted than it needs to be as they do a pretty poor job at explaining the conflict and why its important; the plot structure was kinda an issue because the lack of an exposition makes it hard to believe how much of an impact the conflict is to the world; the flow between sequences is pretty mismanaged because it just feels like many of scenes are just forced together; the character writing is intentionally void as it helps present a sense of mystery on who these people are, but this has an impact on how much your care for the characters because you really don't know what they are fighting for (especially The Protagonist))"
+  }
+  screenplay {
+    writer {
+      name: "Christopher Nolan"
+    }
+    comments: "Decent Screenplay (The dialogue is pretty bad because none of the lines feel natural or realistic; the humor is pretty typical to other Nolan movies; the symbolism is decent as the movie tackles nuclear warfare and physics/time decently well (but this is presented in a bit more of a convoluted way than it needed to be); the foreshadowing is very good as it helped plant seeds that help make the movie feel very full circle by the time you get to the end)"
+  }
+  score {
+    composer {
+      name: "Ludwig G\303\266ransson"
+    }
+    comments: "Great Score (The score itself is well written and filled with great pieces that have aged well, but the main issue is that it is not used well in a lot of the scenes as it blares over the dialogue to create forced tension)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Hoyte van Hoytema"
+    }
+    comments: "Great Cinematography (Felt incredibly polished in the action sequences and world build scenes, and was an instrumental part in showing how time was reversed for some of the characters)"
+  }
+  sound: "Very Bad Sound (The sound editing was good, but the sound mixing was terrible because it was so hard to hear what people were saying with how the score and gunshots/explosions were mixed into the film)"
+  editing {
+    editor {
+      name: "Jennifer Lame"
+    }
+    comments: "Great Editing (Did an amazing job in mixing reversed objects with forward moving ones)"
+  }
+  visual_effects: "Incredible Visual Effects (Helps with showing this idea of backward moving elements in a forward moving world, and helps with showing the action sequences (especially in the climax))"
+  pacing: "Pacing was incredibly fast as it leaves little time for the audience to internalize what is happening on screen"
+  climax: "Climax is executed well from a technical sense as it is action-packed, but in a story sense it is very convoluted as you don't really know if they solved the conflict until the very end"
+  tone: "Tone is very similar to 'Inception' with its espionage style mixed with physics/time-reversal"
+  final_notes: "This movie really is if we had 'Inception' at home; this movie really suffered from having its post-production in Covid"
+  overall: "Overall, an interesting concept that is carried out well on a technical level, but this movie is held back by its monotonous performances and unnecessarily convoluted writing as it ultimately feels like if we had 'Inception' at home"
+}
 release_year: 2020
-review_date: "09/15/2020"
-redux: false
+review_date: "02/24/2024"
+redux: true
 id: 164
 imdb_id: "tt6723592"

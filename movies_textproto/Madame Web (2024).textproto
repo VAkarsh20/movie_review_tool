@@ -1,0 +1,103 @@
+title: "Madame Web"
+rating: 2.1
+review {
+  direction {
+    director {
+      name: "S. J. Clarkson"
+    }
+    comments: "Terrible Direction (The direction on a macroscale was terrible because they did such a bad job at building the world and establishing the conflict (they just forced what time period the movie took place); the direction on a microscale was atrocious as the whole movie was incredibly monotonous and all of the interpersonal scenes were just laughable bad (especially towards the end); the direction of actors was terrible because all the performances were incredibly monotonous and there was no chemistry in the entire cast; the storytelling was unfocused as she had no idea where she wanted to take this movie, it felt like they were telling the story while the script was still being made; she forces the tension so much that you don't care what happens to the characters; the cut for this movie was incredibly bad because it felt like they tried to Frankenstein a film on bad footage)"
+  }
+  acting {
+    actor {
+      name: "Dakota Johnson"
+      comments: "Very Bad from Dakota Johnson (Shows that she is nepotism personified as I have never seen someone put as little effort into a lead performance as her; her whole character is incredibly monotonous that it rubs off on all the other actors; she is so useless in the action scenes that it makes me wonder why even make a movie on Madame Web; she has no chemistry with the rest of the cast; her performance wasn't terrible because she does have some moments that were fine, but most of these are in the exposition)"
+    }
+    actor {
+      name: "Sydney Sweeney"
+      comments: "Bad to Pretty Bad from Sydney Sweeney (Her character is given nothing to work with as it is obvious she is trying to make something with what she has, but in the end, it is clear that the script is just too bad to put in a decent performance)"
+    }
+    actor {
+      name: "Isabela Merced"
+      comments: "Pretty Bad to Decent from Isabela Merced (She shows as much charisma and timing that the writing can let her)"
+    }
+    actor {
+      name: "Celeste O\'Connor"
+      comments: "Very Bad to Bad from Celeste O\'Connor (Mostly just annoying because her performance just felt so forced)"
+    }
+    actor {
+      name: "Tahar Rahim"
+      comments: "Terrible from Tahar Rahim (Might be one of the worst performances in a big budget movie I have ever seen as his accent and tone were just so off that it made me cringe whenever he was on screen; not menacing at all because his character is just so poorly written; has no chemistry with any of the cast (especially Dakota Johnson))"
+    }
+    actor {
+      name: "Mike Epps"
+      comments: "Pretty Bad from Mike Epps (Comedic relief for like 5 minutes)"
+    }
+    actor {
+      name: "Emma Roberts"
+      comments: "Pretty Bad from Emma Roberts (Just plays herself for like 5 minutes)"
+    }
+    actor {
+      name: "Adam Scott"
+      comments: "Pretty Bad to Decent from Adam Scott (Feels like Robin Williams compared to the rest of the cast as he has decent comedic timing and tries to establish as much chemistry with Dakota Johnson as he can)"
+    }
+    cast: "Very Bad from the rest of the cast (All the extras/side-characters feel like this was their first job)"
+    comments: "Very Bad Acting"
+  }
+  story {
+    writer {
+      name: "Kerem Sanga"
+    }
+    writer {
+      name: "Matt Sazama"
+    }
+    writer {
+      name: "Burk Sharpless"
+    }
+    comments: "Terrible Story (The concept is just so stupid because none of what was going on felt interesting, and the conflict makes no sense because it feels forced; the plot structure was pretty formulaic, but the main issue is that the plot elements make no sense and are incredibly forced; there are many plot holes and continuity issues; flow between sequences is terrible because it feels like they forcing are where the plot is going to go; the character writing is some of the worst I have ever seen for a comic book as Madame Web is the most boring/uninteresting superhero I have ever seen, and the villain is so poorly written because his origin makes no sense and his conflict just feels so forced; the movie has this weird relationship with the Spider-man franchise because they tried so hard to show that it's in the universe, but as the same time subvert any reference they try to make)"
+  }
+  screenplay {
+    writer {
+      name: "Matt Sazama Burk Sharpless"
+    }
+    writer {
+      name: "Claire Parker"
+    }
+    writer {
+      name: "S. J. Clarkson"
+    }
+    comments: "Terrible Screenplay (The dialogue is atrocious as none of what was said made sense (it felt like the script was written by an 8th grader whose homework was to write a superhero script), notable lines being 'you did it, you did it' and 'every day that goes by, my appointment with death comes closer'; the humor is so dry and forced that it was funnier when they were trying to be serious (making this a contender to be a fun bad movie); the symbolism is so overt because they try to push this concept of the family so hard, but the movie is just so bad that you don't care; foreshadowing is a key plot element for this movie as the visions help predict what was going to happen, but the issue is this element is saturated throughout the movie and it is sometimes not clear what is a vision and what is actually happening)"
+  }
+  score {
+    composer {
+      name: "Johan S\303\266derqvist"
+    }
+    comments: "Bad Score (The score was pretty formulaic and was just so poorly used/mixed in)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Mauro Fiore"
+    }
+    comments: "Bad Cinematography (More polished than Morbious, but is still very bad in the fight scenes as they try to do so much)"
+  }
+  sound: "Terrible Sound (The ADR was atrocious as there were moments where dialogue was said without mouths moving; I genuinely feel that they hated all the footage they shot, but it was so expensive to reshoot that they tried to make the most with what they could)"
+  editing {
+    editor {
+      name: "Leigh Folsom Boyd"
+    }
+    comments: "Terrible Editing (The number of fast cuts is nauseating as it made the movie not coherent; the way they only sometimes differentiated what was a vision and what was the present made the movie unnecessarily confusing)"
+  }
+  visual_effects: "Very Bad Visual Effects (Over-saturated and looks incredibly fake)"
+  production_design: "Very Bad Production Design (Everything looks like it's on a blue-screen)"
+  makeup: "Decent Makeup"
+  costumes: "Decent Costumes (They have costumes for less than a minute just so they could use it in the promos)"
+  pacing: "Pacing is pretty slow as they try so hard to make it feel longer than it needed to be (and the visions/sharp edits disrupted this flow so much that it was a chore to get through this movie); the runtime could have been cut 30 minutes and the movie still would have been a nightmare"
+  climax: "Climax is so poorly constructed because it felt like it was directed by Michael Bay from Temu with how they excessively used visual effects (and felt so forced with its character revelations)"
+  tone: "Tone is a big issue for this movie because they tried to make a fun superhero movie (but everyone's tone is just so monotonous that this never comes into fruition)"
+  final_notes: "The old man obnoxiously snoring next to me showed more emotion than the entire cast of this movie"
+  overall: "Overall, a terrible movie that makes Argylle seem like Citizen Kane as it feels like they tried to make a watchable movie out of terrible footage, but I got more enjoyment from the man snoring next to me because he showed more emotion than the entire cast"
+}
+release_year: 2024
+review_date: "02/16/2024"
+redux: false
+id: 415
+imdb_id: "tt11057302"

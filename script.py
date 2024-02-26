@@ -20,17 +20,6 @@ import re
 from tqdm import tqdm
 import multiprocessing as mp
 
-def get_imdb_id(film):
-
-    links = wikipedia.WikipediaPage(title=film).references
-    imdb_id = [x.replace("https://www.imdb.com/title/","").partition("/")[0] for x in links if("https://www.imdb.com/title/" in x)]
-
-    if len(imdb_id) > 1 and len(set(imdb_id)) > 1:
-        raise Exception("More than one IMDB link for " + film)
-
-    imdb_id = imdb_id[0]
-    return imdb_id
-
 def create_df():
 
     # Creating dataframe
@@ -43,16 +32,6 @@ def create_df():
     df['Stars'] = df['Rating'].map(lambda x: rating_to_stars(x))
 
     return df
-
-# def create_protos_from_csv(df):
-#     titles = df['Title'].to_list()
-
-#     for title in titles:
-#         proto = review_tool.create_proto(title)
-#         filename = ("movies_textproto/" + proto.title + " ({})".format(proto.release_year) + ".textproto").replace(":","")
-
-#         if not os.path.exists(filename): 
-#             review_tool.write_proto(proto)
 
 # Fix issue with protos not having rating and reviews
 def add_rating_and_review_date(df):
@@ -288,12 +267,6 @@ def parse_review(df, filename):
 
 
 def add_id(df, start_idx):
-
-    # read_proto(filename)
-    # with open("movies_textproto/" + filename + ".textproto", "r") as fd:
-    #     text_proto = fd.read()
-
-    # return text_format.Parse(text_proto, movie_pb2.Movie())
 
     title = ""
     new_df = df.copy()
@@ -714,14 +687,26 @@ def set_id(imdb_id, redux):
         movie_id = len(os.listdir('movies_textproto/'))
     return movie_id
 
-
-
+import wptools
+import wikipediaapi
 
 if __name__=="__main__":
 
     argc = len(sys.argv)
 
-    print(wikipedia.WikipediaPage(title="Home_Alone").references)
+    # print(wikipedia.WikipediaPage(title="Home_Alone").references)
+    wiki_en = wikipediaapi.Wikipedia('Review Tool', 'en')
+    page = wiki_en.page('Home Alone')
+
+    def print_infobox(page):
+        templates = page.templates
+        for title in sorted(templates.keys()):
+            if "Infobox" in title:
+                print(title, templates[title])
+
+    print_infobox(page)
+    # infobox = so.data['infobox']
+    # print(infobox)
 
     # df = pd.read_csv("movies.csv")
 

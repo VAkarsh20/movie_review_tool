@@ -1,0 +1,91 @@
+title: "Mean Girls"
+rating: 5.8
+review {
+  direction {
+    director {
+      name: "Samantha Jayne"
+    }
+    director {
+      name: "Arturo Perez Jr."
+    }
+    comments: "Pretty Bad Direction (The direction macroscale was kinda poor because the musical numbers were not the best choreographed and the world wasn't built well; the direction on a microscale felt like an imitation of the original 'Mean Girls' movie but with a modern twist; the direction of actors was decent as most of the performances stayed true to the course (though just not as good as the original); the storytelling was decent as they used the audience's knowledge of the previous story and coupled with musical numbers to move to plot forward (which ultimately replaces the narration and straightforward style of the original))"
+  }
+  acting {
+    actor {
+      name: "Angourie Rice"
+      comments: "Pretty Good from Angourie Rice (Holds her own and shows some promise as a singer (but does not have the same charm as Lindsay Lohan))"
+    }
+    actor {
+      name: "Rene\303\251 Rapp"
+      comments: "Pretty Good from Rene\303\251 Rapp (Embodies the character well and has a good singing voice (but just does not stand out as Rachel McAdams iconic performance))"
+    }
+    actor {
+      name: "Auli\312\273i Cravalho"
+      comments: "Good from Auli\312\273i Cravalho (Mostly on par with Lizzy Caplan's performance and has the best vocal performance in the entire cast)"
+    }
+    actor {
+      name: "Christopher Briney"
+      comments: "Decent from Christopher Briney (Not as good as the original character but holds his own well)"
+    }
+    actor {
+      name: "Tina Fey"
+      comments: "Pretty Good to Good from Tina Fey (Continues to pretty much play herself and other characters she's played)"
+    }
+    actor {
+      name: "Tim Meadows"
+      comments: "Pretty Good to Good from Tim Meadows (Feels like he is doing an impersonation of his previous performance (though he still is memorable in his own right))"
+    }
+    actor {
+      name: "Jaquel Spivey"
+      comments: "Good from Jaquel Spivey (The only performance that was truly better than the original as he has a great sense of comedic timing and a good vocal performance (when he's given the chance))"
+    }
+    actor {
+      name: "Jenna Fischer "
+      comments: "Pretty Bad from Jenna Fischer (Just feels off and not in time with Angourie Rice)"
+    }
+    cast: "Decent from the rest of the cast (While the performances are not as good as the original, everyone holds their own as there is no real sour performance that stands out)"
+    comments: "Decent to Pretty Good Acting"
+  }
+  story {
+    writer {
+      name: "Tina Fey"
+    }
+    comments: "Decent to Pretty Good Story (The story is basically a musically modern retelling of 'Mean Girls' as there are no deviations from the original plot; the plot structure was actually better as they cut out some of the unnecessary exposition and put more emphasis on the climax; flow between sequences was decent; the character writing was the same as the original (providing nothing new))"
+  }
+  screenplay {
+    writer {
+      name: "Tina Fey"
+    }
+    comments: "Pretty Good Screenplay (The dialogue was basically a modern version of the original (with them putting more emphasis on the iconic lines); the humor was decently on par with the original (but there is less charm because it reuses a lot of the same jokes), the movie has the best joke if you combine both of the movies; the symbolism is pretty shallow and the message is pretty predictable (the movie is pretty simple in itself, so it really shouldn't be taken that seriously); the foreshadowing is nonexistent because the songs make reference to key points from the end (with the overall movie being just fan service))"
+  }
+  score {
+    composer {
+      name: "Jeff Richmond"
+    }
+    comments: "Decent Score/Pretty Bad Soundtrack (A lot of the songs were just stupid and tried to force in references from the original movie, though there are some songs I did like)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Bill Kirstein"
+    }
+    comments: "Bad Cinematography (Incredibly nauseating and just felt very cheap (seen in the musical numbers) and amateurish (especially when they would cut between full and widescreen))"
+  }
+  sound: "Pretty Bad Sound (Felt kinda cheap and felt similar to how other musicals mix in sound)"
+  editing {
+    editor {
+      name: "Andrew Marcus"
+    }
+    comments: "Bad Editing (Tacky and cheap as it tries to emulate the 2020s social media era)"
+  }
+  production_design: "Decent Production Design (Tried to emulate the original movie)"
+  pacing: "Pacing was a good pace for the whole movie (this time they fixed the pacing issues towards the end)"
+  climax: "Climax was executed better this time around as they had more time to play with and had a good build-up (felt more balanced overall and ended where it should)"
+  tone: "Tone is very different from the original (and this is mostly seen with them replacing the narration with musical numbers)"
+  final_notes: "The marketing for this movie was a big issue because they made Regina act like the main character and barely included Cady (even though Cady still is the protagonist)"
+  overall: "Overall, a mediocre retelling of an iconic movie as it feels like a musically modern imitation rather than a remake, and it does not help that the musical numbers are not that well executed"
+}
+release_year: 2024
+review_date: "01/09/2024"
+redux: false
+id: 404
+imdb_id: "tt11762114"

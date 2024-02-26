@@ -9,6 +9,7 @@ import yaml
 import os
 import requests
 import pickle
+import tqdm
 from google.protobuf import text_format
 
 class IMDbBot:
@@ -22,7 +23,7 @@ class IMDbBot:
     def load_cookies(self):
         cookies = pickle.load(open("imdb_cookies.pkl", "rb"))
 
-        for cookie in cookies:
+        for cookie in tqdm.tqdm(cookies):
             cookie['domain'] = ".imdb.com"
             try:
                 self.driver.add_cookie(cookie)

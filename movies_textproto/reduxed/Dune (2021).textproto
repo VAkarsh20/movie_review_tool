@@ -1,0 +1,96 @@
+title: "Dune"
+rating: 7.8
+review {
+  direction {
+    director {
+      name: "Denis Villeneuve"
+    }
+    comments: "Good to Very Good Direction (Was able to manage the grand scenes very well and did a decent job with the interpersonal scenes)"
+  }
+  acting {
+    actor {
+      name: "Timoth\303\251e Chalamet"
+      comments: "Pretty Good from Timoth\303\251e Chalamet"
+    }
+    actor {
+      name: "Rebecca Ferguson"
+      comments: "Pretty Bad to Decent from Rebecca Ferguson"
+    }
+    actor {
+      name: "Oscar Isaac"
+      comments: "Good from Oscar Isaac"
+    }
+    actor {
+      name: "Josh Brolin"
+      comments: "Good from Josh Brolin"
+    }
+    actor {
+      name: "Stellan Skarsg\303\245rd"
+      comments: "Good from Stellan Skarsg\303\245rd"
+    }
+    actor {
+      name: "Jason Momoa"
+      comments: "Good from Jason Momoa"
+    }
+    actor {
+      name: "Javier Bardem"
+      comments: "Good from Javier Bardem"
+    }
+    cast: ""
+    comments: "Pretty Good to Good Acting"
+  }
+  story {
+    writer {
+      name: "Jon Spaihts"
+    }
+    writer {
+      name: "Denis Villeneuve"
+    }
+    writer {
+      name: "Eric Roth"
+    }
+    comments: "Bad Story (Bad Storytelling as the exposition does a very poor job of explaining the backstory)"
+  }
+  screenplay {
+    writer {
+      name: "Jon Spaihts"
+    }
+    writer {
+      name: "Denis Villeneuve"
+    }
+    writer {
+      name: "Eric Roth"
+    }
+    comments: "Pretty Good to Good Screenplay that is less awkward than most Sci-Fi movies but forces jargon that is not explained"
+  }
+  score {
+    composer {
+      name: "Hans Zimmer"
+    }
+    comments: "Great Score"
+  }
+  cinematography {
+    cinematographer {
+      name: "Greig Fraser"
+    }
+    comments: "Great Cinematography"
+  }
+  sound: "Great Sound"
+  editing {
+    editor {
+      name: "Joe Walker"
+    }
+    comments: "Good Editing (Though it made the movie more confusing when it cut between dreams and reality)"
+  }
+  visual_effects: "Great Visual Effects"
+  production_design: "Good Production Design"
+  plot_structure: "Plot Structure very skewed because this is one part of a two part movie (First half is the exposition and second half is rising action)"
+  pacing: "Pacing was Very Slow (The first half is incredibly slow while the second half is pretty slow)"
+  climax: "Climax for this movie is not that significant because it is meant to be a rise in the conflict for the next movie"
+  overall: "Overall, a movie with great visuals and the presentations of a great space epic that acts as more of a prologue and beginning of a story than a full movie, though it does suffer from bad storytelling that makes the movie hard to follow; hopefully, this means that this part one sets up part two to be a better movie"
+}
+release_year: 2021
+review_date: "10/31/2021"
+redux: false
+id: 223
+imdb_id: "tt1160419"

@@ -1,0 +1,80 @@
+title: "The Killer"
+rating: 4.5
+review {
+  direction {
+    director {
+      name: "David Fincher"
+    }
+    comments: "Bad Direction (This movie carries David Fincher's signature directing style as he uses a lot of the same shots, lighting, and edits that made him the modern auteur he is (especially on a macroscale); the direction on a microscale was kinda annoying because it was very repetitive as you kept hearing the protagonist's psychopathic inner monologue while he was going about his job; the direction of actors was very bad as no performance felt elevated at all and there was no chemistry in the cast (which does make sense considering how the protagonist interacts with people); the storytelling was very bad as it was just so boring (there are only 6 plot points and the story progresses in such a slow way as every little detail is narrated by the protagonist)"
+  }
+  acting {
+    actor {
+      name: "Michael Fassbender"
+      comments: "Decent to Pretty Good from Michael Fassbender (Is the real focal point of the movie and does not do anything bad (He's just not that convincing as an assassin))"
+    }
+    actor {
+      name: "Arliss Howard"
+      comments: "Decent from Arliss Howard"
+    }
+    actor {
+      name: "Charles Parnell"
+      comments: "Decent from Charles Parnell (Pretty monotonous but does have good chemistry with Fassbender)"
+    }
+    actor {
+      name: "Kerry O\'Malley"
+      comments: "Decent to Pretty Good from Kerry O\'Malley (Shows some range and fear)"
+    }
+    actor {
+      name: "Tilda Swinton"
+      comments: "Decent to Pretty Good from Tilda Swinton (An experienced actor who works well off others)"
+    }
+    cast: "Very Bad from the rest of the cast (Just a lot of inexperience and no chemistry)"
+    comments: "Pretty Bad Acting"
+  }
+  story {
+    writer {
+      name: "Andrew Kevin Walker"
+    }
+    comments: "Bad Story (The concept is practically nonexistent as there isn't any plot (There is an assassin going through 6 chapters in his life); the plot structure was decent as it was laid out in chapters and each chapter leads to the next; flow between sequences is so slow was every detail has to be narrated (with it giving very repetitive at times); the character writing was terrible because you do not care for the protagonist at all (his backstory is so generic and you do not learn anything about him as a character, he also really sucks at his job))"
+  }
+  screenplay {
+    writer {
+      name: "Andrew Kevin Walker"
+    }
+    comments: "Very Bad Screenplay (The narration felt like something out of a serial killer's manifesto as the psychopathic internal dialogue was just so hard to get through with how repetitive and boring it was; the dialogue was pretty bad as it did not feel natural at all; the humor was present from just how bad the protagonist is at his job; the tension is built well as this is something Fincher had a say in; the symbolism was nonexistent (or if it was there I did not really care for it); the foreshadowing was present and helped with laying the story out (but did make it a bit predictable))"
+  }
+  score {
+    composer {
+      name: "Trent Reznor"
+    }
+    composer {
+      name: "Atticus Ross"
+    }
+    comments: "Pretty Good Score (Helped with setting the tone)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Erik Messerschmidt"
+    }
+    comments: "Good Cinematography (Felt very similar to Fincher's other movies, but did feel amateurish at times)"
+  }
+  sound: "Pretty Bad Sound (Felt kinda tacky)"
+  editing {
+    editor {
+      name: "Kirk Baxter"
+    }
+    comments: "Bad Editing (Was so tacky and amateurish (which is surprising for a Fincher movie considering how many takes he does and the attention to detail he has; the editing felt like it was edited by a guy who likes David Fincher movies and wanted to make his own))"
+  }
+  visual_effects: "Pretty Bad Visual Effects (The CGI shots felt very tacky (though the practical effects did feel fine))"
+  production_design: "Pretty Bad Production Design (It was so obvious what they filmed in Chicago becasue they reused the same spot for two seperate locations)"
+  pacing: "Pacing was incredibly slow as each detail has to be narrated (with the movie feeling like a chore to finish)"
+  climax: "Climax was so anti-climatic and not executed well at all (with you questioning this is how the movie ends?)"
+  tone: "Tone felt very similar to other David Fincher thrillers"
+  final_notes: ""
+  overall: "Overall, a very boring movie that is not executed well as it feels like an amatuer director was doing his best David Fincher impression making this"
+}
+release_year: 2023
+review_date: "01/04/2024"
+redux: false
+id: 402
+imdb_id: "tt1136617"

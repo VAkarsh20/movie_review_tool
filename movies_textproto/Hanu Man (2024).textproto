@@ -1,0 +1,79 @@
+title: "Hanu Man"
+rating: 7.1
+review {
+  direction {
+    director {
+      name: "Prasanth Varma"
+    }
+    comments: "Decent to Pretty Good Direction (The direction on a macroscale was decent to pretty good as they did a good job at building this mythical world that emulates Hindu literature and Indian village culture (though there are some over-the-top flaws typical to other Telugu blockbuster movies); the direction on a microscale was decent as it was pretty typical to other Telugu movies (which means there were moments with overaction and exaggerated expressions); the direction of actors was very typical to other Telugu movies; the storytelling was a bit confusing at first but then became pretty typical to other Telugu epics; the director builds tension in the more dramatic moments to show what the protagonist is fighting for)"
+  }
+  acting {
+    actor {
+      name: "Teja Sajja"
+      comments: "Pretty Good from Teja Sajja (Plays the typical Telugu lead, but does show a range of emotions in both the comedic and dramatic sense)"
+    }
+    actor {
+      name: "Amritha Aiyer"
+      comments: "Decent from Amritha Aiyer (The typical woman who comes back to her village then becomes the female love interest trope)"
+    }
+    actor {
+      name: "Varalaxmi Sarathkumar"
+      comments: "Pretty Good from Varalaxmi Sarathkumar (Has a command of the scenes she is in and works well off of Sajja to show to big sister, little brother power dynamic)"
+    }
+    actor {
+      name: "Vinay Rai"
+      comments: "Decent from Vinay Rai (Typical dubbed villain)"
+    }
+    cast: "Decent from the rest of the cast (Everyone plays their part as the movie has many stereotypical Telugu tropes)"
+    comments: "Decent to Pretty Good Acting"
+  }
+  story {
+    writer {
+      name: "Prasanth Varma"
+    }
+    comments: "Decent Story (The concept was a bit weird but interesting as they tried to superhero-ify Hanuman (but as a superhero movie it feels like it's from a boilerplate and takes a lot of inspiration from the MCU); the plot structure was pretty boilerplate for both a Telugu movie and a superhero movie (though the exposition was way too long because the opening credits come in at the 45-minute mark); flow between sequences was pretty typical to other Telugu movies (Dramatic scenes to quicken the pace and create tension and comedic scenes to slow the pace and incite laughter); the character writing was pretty standard to Telugu movies and Superhero movies as this movie uses a lot of tropes (especially for the principle cast))"
+  }
+  screenplay {
+    writer {
+      name: "Scriptsville"
+    }
+    comments: "Pretty Good Screenplay (The dialogue was pretty standard to other Telugu movies (but did have some good lines); the humor was very funny as it uses a lot of physical comedy and references you would see in other Telugu movies; the symbolism is pretty good as it uses allusions to Hinduism to how Hanu Man's power is created and his purpose in helping people; the foreshadowing was pretty good as it does lay roots that come out towards the end of the movie)"
+  }
+  score {
+    composer {
+      name: "Anudeep Dev"
+    }
+    composer {
+      name: "GowraHari"
+    }
+    composer {
+      name: "Krishna Saurabh"
+    }
+    comments: "Pretty Good Score/ Pretty Good Soundtrack (Songs were well choreographed and used well throughout the movie)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Dasaradhi Sivendra"
+    }
+    comments: "Pretty Good Cinematography (Helped with the fighting scenes and showing the world (but did feel a bit tacky at times))"
+  }
+  sound: "Pretty Good Sound (Uses a lot of exaggerated sounds you would see in other Telugu movies (but I wouldn't have wanted it any other way))"
+  editing {
+    editor {
+      name: "Sai Babu Talari"
+    }
+    comments: "Decent Editing (The typical fast cuts you would see in other Telugu movies to create tension (but I wouldn't have wanted it any other way))"
+  }
+  visual_effects: "Pretty Good Visual Effects (Even though it is tacky at times, for a pretty low budget movie it is actually pretty good with its CGI (it's just the Green Screen that was pretty obvious))"
+  production_design: "Decent Production Design (Helped display this village in the jungle)"
+  pacing: "Pacing was kinda on the slower side because there was a lot of plot (especially in the beginning)"
+  climax: "Climax was executed well as the movie's final fight is similar to what you would expect from other Super Hero movies (and is really on par with Marvel climaxes you'd see today)"
+  tone: "Tone was a mix of both Telugu action movies and superhero movies (which helps because it provides a good blend of dramatic and comedic moments)"
+  final_notes: ""
+  overall: "Overall, a pretty good Telugu movie that blends comedy and drama well to create a superhero epic that alludes to Hindhu literature, though the movie borrows a lot of tropes and filmmaking techniques from both Telugu cinema and superhero movies"
+}
+release_year: 2024
+review_date: "01/22/2024"
+redux: false
+id: 407
+imdb_id: "tt15433956"

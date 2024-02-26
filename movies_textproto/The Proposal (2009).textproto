@@ -1,0 +1,91 @@
+title: "The Proposal"
+rating: 4.8
+review {
+  direction {
+    director {
+      name: "Anne Fletcher"
+    }
+    comments: "Bad to Pretty Bad Direction (the direction on a macroscale was pretty typical of other Rom-Coms from the era; the direction on a microscale was pretty typical to other Rom-Coms of the era (but honestly worse because a lot of the scenes feel extremely mismanaged with a lack of intent); the direction of actors was pretty bad as everyone who was not in the principal cast feels tone deaf; the storytelling was very typical to other Rom-Coms from the era; she built tension towards the end in the most stereotypical Rom-Com way)"
+  }
+  acting {
+    actor {
+      name: "Sandra Bullock"
+      comments: "Decent to Pretty Good from Sandra Bullock (Uses her experience as a leading lady to get through this performance and has decent chemistry with Ryan Reynolds)"
+    }
+    actor {
+      name: "Ryan Reynolds"
+      comments: "Pretty Good from Ryan Reynolds (Has good comedic timing and has decent chemistry with Sandra Bullock)"
+    }
+    actor {
+      name: "Malin \303\205kerman"
+      comments: "Decent from Malin \303\205kerman"
+    }
+    actor {
+      name: "Craig T. Nelson"
+      comments: "Decent from Craig T. Nelson"
+    }
+    actor {
+      name: "Mary Steenburgen"
+      comments: "Decent to Pretty Good from Mary Steenburgen (Uses her experience as a veteran in this category to carry her performance)"
+    }
+    actor {
+      name: "Betty White"
+      comments: "Decent from Betty White (Basically just plays Betty White)"
+    }
+    cast: "Bad from the rest of the cast (Everyone just feels tone-deaf or got hired the day of the shoot)"
+    comments: "Decent Acting"
+  }
+  story {
+    writer {
+      name: "Peter Chiarelli"
+    }
+    writer {
+      name: "Roberto Orci (uncredited)"
+    }
+    writer {
+      name: "Alex Kurtzman (uncredited)"
+    }
+    comments: "Bad to Pretty Bad Story (The concept is kinda dumb and filled with Rom-Com cliches; the plot structure is the Rom-Com template (which they follow to a tee); flow between sequences is very similar to other Rom-Coms as it follows the boilerplate; character writing was decent as you do get to learn a lot about the main characters the more they begin to open themselves up)"
+  }
+  screenplay {
+    writer {
+      name: "Peter Chiarelli"
+    }
+    writer {
+      name: "Roberto Orci (uncredited)"
+    }
+    writer {
+      name: "Alex Kurtzman (uncredited)"
+    }
+    comments: "Bad to Pretty Bad Screenplay (The dialogue was not good and felt forced; the humor was somewhat present as I did laugh at some moments; the foreshadowing was present just because it is a stereotypical Rom-Com (so the whole movie just becomes predictable))"
+  }
+  score {
+    composer {
+      name: "Aaron Zigman"
+    }
+    comments: "Decent Score"
+  }
+  cinematography {
+    cinematographer {
+      name: "Oliver Stapleton"
+    }
+    comments: "Decent Cinematography"
+  }
+  sound: "Decent Sound"
+  editing {
+    editor {
+      name: "Priscilla Nedd-Friendly"
+    }
+    comments: "Decent Editing"
+  }
+  pacing: "Pacing was good as it just followed the typical Rom-Com pacing"
+  climax: "Climax was incredibly forced and felt so out of place (and it was filled with so many Rom-Com cliches that it was laughable)"
+  tone: "Tone was typical to other Rom-Coms from the era"
+  final_notes: "This movie is if we had 'The Devil Wear Prada' at home"
+  overall: "Overall, even though the movie has decent chemistry between the leads and some jokes that do hit, it feels like a forgettable 2000s Rom-Com as it follows the genre's template to a tee and is saturated with cliches from the era"
+}
+release_year: 2009
+review_date: "01/28/2024"
+redux: false
+id: 410
+imdb_id: "tt1041829"

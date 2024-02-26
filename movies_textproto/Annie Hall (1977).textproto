@@ -1,0 +1,70 @@
+title: "Annie Hall"
+rating: 9.2
+review {
+  direction {
+    director {
+      name: "Woody Allen"
+    }
+    comments: "Great Direction (The direction on a macroscale is pretty standard to other comedies from the 1970s; the direction on a microscale is incredible because it uses a lot of groundbreaking techniques (especially when breaking the fourth, inserting the current protagonists into the past, and having the characters have outta body experiences), the interpersonal scenes were incredible because you feel the connection and chemistry that Woody Allen and Diane Keaton have as they try to work through their relationship; the direction of actors is great because it felt like every performance had a strong impact (especially Woody Allen and Diane Keaton); the storytelling is incredibly unique as using the fourth wall made it feel like Woody Allen is talking to the audience, also his use of a non-linear narrative structure emphasized the ebbs and flows of Alvy's relationship with Annie Hall)"
+  }
+  acting {
+    actor {
+      name: "Woody Allen"
+      comments: "Great from Woody Allen (Was mostly playing himself but his comedic timing and his incredible chemistry with Diane Keaton made this such an iconic performance)"
+    }
+    actor {
+      name: "Diane Keaton"
+      comments: "Great to Incredible From from Diane Keaton (A truly iconic performance as she shows a lot of character growth throughout the movie as she learns to have an independent mind and take control of her emotions; has incredible chemistry with Woody Allen)"
+    }
+    actor {
+      name: "Tony Roberts"
+      comments: "Good to Very Good from Tony Roberts (Good chemistry with Woody Allen and helps provide comedic relief when he can)"
+    }
+    cast: "Good from the rest of the cast (Felt polished and helped buttress the two leads, but all of them are just side characters)"
+    comments: "Very Good to Great Acting"
+  }
+  story {
+    writer {
+      name: "Woody Allen"
+    }
+    writer {
+      name: "Marshall Brickman"
+    }
+    comments: "Very Good Story (The concept is very simple yet profound because on a surface level, it is just a semi-autobiographical account of Woody Allen and Diane Keaton's relationship, but on a deeper level, it is a holistic image of what a relationship actually looks like; the plot structure is very good because the way they set up the story helped emphasize the history of the relationship (especially with how they used the whole middle of the movie to show its history), the runtime feels just right because there wasn't that much that could've been added; flow between sequences was very good; the character writing is great because it gives a comprehensive look at who Alfy and Annie Hall really are (and how their relationship effects them at different parts of their life))"
+  }
+  screenplay {
+    writer {
+      name: "Woody Allen"
+    }
+    writer {
+      name: "Marshall Brickman"
+    }
+    comments: "Great Screenplay (The dialogue is great as it flowed very well and is profound; the humor is great because it is seamlessly embedded into the dialogue (and it is actually funny); the symbolism is profound as the movie tackles so many themes that were not talked about when the film came out (like identity being tied to location, mental illness and therapy, and love/relationships); the foreshadowing is kinda inferred because the way the movie was set up from the beginning, the audience knew where it was heading)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Gordon Willis"
+    }
+    comments: "Very Good Cinematography (Uses a lot of groundbreaking techniques (like the therapy scene and the flashback scenes) and helped with giving that fourth-wall illusion that Woody Allen is directly talking to the audience)"
+  }
+  sound: "Decent Sound (Pretty Typical 70s sound effects)"
+  editing {
+    editor {
+      name: "Ralph Rosenblum"
+    }
+    editor {
+      name: "Wendy Greene Bricmont"
+    }
+    comments: "Great Editing (Felt very groundbreaking for the time as it helped plant characters are different times/spaces in the narrative and helped create some iconic shots (like the therapy scene))"
+  }
+  pacing: "Pacing is just right as it didn't feel too fast or too slow (just the right pace)"
+  climax: "Climax was executed very well as it brought the narrative to a close as we learned how the story for all the characters ended (and it was in a way that was the most realistic)"
+  tone: "Tone is very satirical with the way it uses the fourth wall and meta humor (but does have a lot of flavors of 70s comedies)"
+  final_notes: "A lot of the lines did not age well (especially with some of the allegations through towards Woody Allen)"
+  overall: "Overall, a groundbreaking romantic comedy that uses a lot of groundbreaking techniques and themes to paint an accurate portayal of what a relationship looks like"
+}
+release_year: 1977
+review_date: "02/08/2024"
+redux: false
+id: 413
+imdb_id: "tt0075686"

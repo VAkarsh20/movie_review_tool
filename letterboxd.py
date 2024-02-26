@@ -7,6 +7,7 @@ import movie_pb2
 import pandas as pd
 import yaml
 import os
+import time
 
 # export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
 # LIBGL_ALWAYS_INDIRECT=1
@@ -149,6 +150,7 @@ def post_to_letterboxd(proto, short_review):
     create_letterboxd_csv(proto, short_review)
 
     letterboxd_bot = LetterboxdBot()
+
     letterboxd_bot.login(username, password)
     letterboxd_bot.import_review()
 
@@ -158,6 +160,31 @@ def post_to_letterboxd(proto, short_review):
 
     if proto.rating >= 9.5:
         letterboxd_bot.add_to_cinema_personified_list()
+
+
+    # TODO: Stuck on There was an OSError: [Errno 2] No such file or directory: 'letterboxd_upload.csv' after done.
+    # tries = 5
+    # import_check, liked_check, list_check = False, False, False
+    # while tries > 0:
+    #     try:
+    #         if not import_check:
+    #             letterboxd_bot.login(username, password)
+    #             letterboxd_bot.import_review()
+    #             import_check = True
+
+    #         if proto.rating >= 8.5 and not liked_check:
+    #             letterboxd_bot.liked_film(proto.title)
+    #             liked_check = True
+    #         os.remove("letterboxd_upload.csv")
+
+    #         if proto.rating >= 9.5 and not list_check:
+    #             letterboxd_bot.add_to_cinema_personified_list()
+    #             list_check = True
+    #     except OSError as e:
+    #         print("There was an OSError: {}".format(e))
+    #         time.sleep(3)
+    #     except EOFError as e:
+    #         print("There was an EOFError: {}".format(e))
 
     letterboxd_bot.quit()
 

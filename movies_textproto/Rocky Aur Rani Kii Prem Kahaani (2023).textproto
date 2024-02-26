@@ -1,0 +1,88 @@
+title: "Rocky Aur Rani Kii Prem Kahaani"
+rating: 8.3
+review {
+  direction {
+    director {
+      name: "Karan Johar"
+    }
+    comments: "Direction (The macroscale was an homage to Hindi movies from the 60s and 70s (and he does a good job at showing this); the direction on a microscale was pretty typical to his other romantic movies as he uses a lot of dramatic scenes to build either tension or connection in relationships; the  direction of actors was good as you felt every performance was elevated; the storytelling was similar to both old Hindi movies and his style as it respectively created a colorful Bollywood atmosphere and used conflict/trauma as a major storytelling device; he built tension similar to his other movies (with a lot of sound effects and sad music))"
+  }
+  acting {
+    actor {
+      name: "Ranveer Singh"
+      comments: "Good from Ranveer Singh (Really controls the scenes he is in and has a true sense of personality for the film (the jester who does have feelings and wants to be heard); has very good chemistry with Alia Bhatt)"
+    }
+    actor {
+      name: "Alia Bhatt"
+      comments: "Good from Alia Bhatt (Has a command of the scenes she is in and has a strong charisma by showing her perspective of the world; has very good chemistry with Ranveer Singh)"
+    }
+    actor {
+      name: "Shabana Azmi"
+      comments: "Pretty Good from Shabana Azmi (Plays the motherly figure well)"
+    }
+    actor {
+      name: "Jaya Bachchan"
+      comments: "Pretty Good to Good from Jaya Bachchan (Plays the antagonistic, traditional motherly figure well)"
+    }
+    actor {
+      name: "Dharmendra"
+      comments: "Prety Good from Dharmendra"
+    }
+    cast: "Pretty Good from the rest of the cast (No performance feels off as everyone plays their purpose and elevates the two leads)"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Ishita Moitra"
+    }
+    writer {
+      name: "Shashank Khaitan"
+    }
+    writer {
+      name: "Sumit Roy"
+    }
+    comments: "Good Story (The concept is good as it is an homage to Romantic Hindi movies from the 60s and 70s (with a modern twist); the plot structure is pretty boilerplate for romantic Hindi movies; flow between sequences was good; the character writing was good as they have the older generation be from the time the movie is paying homage to and the newer generation (especially the two leads) be more modern by having a different viewpoint in life)"
+  }
+  screenplay {
+    writer {
+      name: "Ishita Moitra"
+    }
+    writer {
+      name: "Shashank Khaitan"
+    }
+    writer {
+      name: "Sumit Roy"
+    }
+    comments: "Good Screenplay (The dialogue was good as it was filled with many well-written lines (especially in the more dramatic moments); the humor was good as it helped lighten the mood and paint who the characters were (especially Rocky); the symbolism was pretty standard to other Hindi movies; the foreshadowing was good as it planted roots that were brought up in the end)"
+  }  score {
+    composer {
+      name: "Pritam"
+    }
+    comments: "Good Score (Used well to set the tone and create tension)/ Good Soundtrack (The songs were good and the musical numbers were choreographed very well)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Manush Nandan"
+    }
+    comments: "Good Cinematography"
+  }
+  sound: "Pretty Good Sound (Typical to other Hindi movies)"
+  editing {
+    editor {
+      name: "Nitin Baid"
+    }
+    comments: "Pretty Good Editing"
+  }
+  production_design: "Pretty Good Production Design (Used well to show the class of the respective families and how their lifestyles are very different)"
+  costumes: "Pretty Good Costumes (Helped with showing wealth and the separation between traditional and modern values)"
+  pacing: "Pacing was pretty good as it did not feel too fast or too quick (the long runtime felt justified with the number of musical numbers included)"
+  climax: "Climax was executed well as it shows the two leads confronting their internal conflict (though feels pretty typical to other Hindi movies)"
+  tone: "Tone was similar to Romantic Hindi movies from the 60s and 70s (with some Karan Johar flavors)"
+  final_notes: ""
+  overall: "Overall, a good Bollywood that both pays homage to Hindi films from the 60s and 70s and shows Karan Johan is going back to his filmmaking roots as the direction, writing, musical numbers, and chemistry between the two leads make this a memorable movie"
+}
+release_year: 2023
+review_date: "01/22/2024"
+redux: false
+id: 408
+imdb_id: "tt14993250"

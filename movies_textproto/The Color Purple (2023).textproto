@@ -1,0 +1,90 @@
+title: "The Color Purple"
+rating: 7.5
+review {
+  direction {
+    director {
+      name: "Blitz Bazawule"
+    }
+    comments: "Pretty Good to Good Direction (The direction on a macroscale is good as the musical numbers are well choreographed and the world is set well; the direction on a microscale is good; the direction of actors is good as every performance feels elevated; the storytelling is kinda a messy as it does not feel like time is passing (despite there being indications on screen), the style also feels very typical to other musicals (as if they just took what they did on stage and put it on the screen); builds tension decently well)"
+  }
+  acting {
+    actor {
+      name: "Taraji P. Henson"
+      comments: "Good to Very Good from Taraji P. Henson (Plays the extravagant socialite character well (but isn't given that much screentime))"
+    }
+    actor {
+      name: "Danielle Brooks"
+      comments: "Good to Very Good from Danielle Brooks (Shows a good range of emotions while simultaneously being the comedic relief character (though isn't given that much screentime))"
+    }
+    actor {
+      name: "Colman Domingo"
+      comments: "Good to Very Good from Colman Domingo (Plays the villain well and feels very polished)"
+    }
+    actor {
+      name: "Corey Hawkins"
+      comments: "Good from Corey Hawkins"
+    }
+    actor {
+      name: "H.E.R."
+      comments: "Good from H.E.R."
+    }
+    actor {
+      name: "Halle Bailey"
+      comments: "Good from Halle Bailey"
+    }
+    actor {
+      name: "Phylicia Pearl Mpasi"
+      comments: "Good from Phylicia Pearl Mpasi"
+    }
+    actor {
+      name: "Fantasia Barrino"
+      comments: "Good from Fantasia Barrino (Holds her own well and does a good job at being the storyteller)"
+    }
+    cast: "Good from the rest of the cast (Everyone plays their role well and works well off the principal cast (especially in the music numbers))"
+    comments: "Good to Very Good Acting"
+  }
+  story {
+    writer {
+      name: "Marcus Gardley"
+    }
+    comments: "Decent Story (The concept is pretty true to the source material (but I do have problems with it because it perpetuates bad stereotypes), the movie is also hurt by its PG-13 rating because it feels very censored; the plot structure is kinda a mess as it doesn't feel like the movie is going forward (most likely because the passage of time is not believable, the movie also falls apart in the climax as it feels very forced; the character writing is pretty bad as each character's growth progression feels very forced (especially for the male characters))"
+  }
+  screenplay {
+    writer {
+      name: "Marcus Gardley"
+    }
+    comments: "Pretty Good Screenplay (The dialogue stays true to the time period (though does hurt with perpetuating bad stereotypes); the humor was pretty good; the symbolism was present (but felt kinda forced); the foreshadowing was present (but forced))"
+  }
+  score {
+    composer {
+      name: "Kris Bowers"
+    }
+    comments: "Good Score/Good Soundtrack"
+  }
+  cinematography {
+    cinematographer {
+      name: "Dan Laustsen"
+    }
+    comments: "Pretty Good Cinematography"
+  }
+  sound: "Pretty Bad Sound (Used well in the musical sequences but so off when it comes to the sound editing (especially with the slaps and hits))"
+  editing {
+    editor {
+      name: "Jon Poll"
+    }
+    comments: "Bad Editing (There were a lot of continuity issues and noticeably bad cuts)"
+  }
+  production_design: "Good Production Design"
+  makeup: "Pretty Bad Makeup (Does not do a good job at showing the characters aging)"
+  costumes: "Good Costumes"
+  pacing: "Pacing was a bit on the slower side (and this made the movie drag for the final 40 minutes)"
+  climax: "Climax did not feel like it ended the movie well as it was kinda forced and not left to breathe"
+  tone: "Tone was similar to both the genre and musicals (especially for the latter)"
+  final_notes: "The movie feels very censored by its PG-13 rating (so it cannot be as profound as it could be)"
+  overall: "Overall, a pretty good musical filled with memorable performances by the whole cast, but is hurt by its storytelling and writing"
+}
+release_year: 2023
+review_date: "01/06/2024"
+redux: false
+id: 403
+imdb_id: "tt1200263"

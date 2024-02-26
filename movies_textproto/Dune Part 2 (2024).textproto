@@ -1,0 +1,113 @@
+title: "Dune: Part 2"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Denis Villeneuve"
+    }
+    comments: "Direction (macroscale; microscale; direction of actors; storytelling; tension)"
+  }
+  acting {
+    actor {
+      name: "Timoth\303\251e Chalamet"
+      comments: " from Timoth\303\251e Chalamet ()"
+    }
+    actor {
+      name: "Zendaya"
+      comments: " from Zendaya ()"
+    }
+    actor {
+      name: "Rebecca Ferguson"
+      comments: " from Rebecca Ferguson ()"
+    }
+    actor {
+      name: "Josh Brolin"
+      comments: " from Josh Brolin ()"
+    }
+    actor {
+      name: "Austin Butler"
+      comments: " from Austin Butler ()"
+    }
+    actor {
+      name: "Florence Pugh"
+      comments: " from Florence Pugh ()"
+    }
+    actor {
+      name: "Dave Bautista"
+      comments: " from Dave Bautista ()"
+    }
+    actor {
+      name: "Christopher Walken"
+      comments: " from Christopher Walken ()"
+    }
+    actor {
+      name: "L\303\251a Seydoux"
+      comments: " from L\303\251a Seydoux ()"
+    }
+    actor {
+      name: "Stellan Skarsg\303\245rd"
+      comments: " from Stellan Skarsg\303\245rd ()"
+    }
+    actor {
+      name: "Charlotte Rampling"
+      comments: " from Charlotte Rampling ()"
+    }
+    actor {
+      name: "Javier Bardem"
+      comments: " from Javier Bardem ()"
+    }
+    cast: "from the rest of the cast ()"
+    comments: " Acting"
+  }
+  story {
+    writer {
+      name: "Denis Villeneuve"
+    }
+    writer {
+      name: "Jon Spaihts"
+    }
+    comments: "Story (The concept; the plot structure; flow between sequences; character writing)"
+  }
+  screenplay {
+    writer {
+      name: "Denis Villeneuve"
+    }
+    writer {
+      name: "Jon Spaihts"
+    }
+    comments: "Screenplay (The dialogue; the humor; the symbolism; the foreshadowing)"
+  }
+  score {
+    composer {
+      name: "Hans Zimmer"
+    }
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Greig Fraser"
+    }
+    comments: "Cinematography ()"
+  }
+  sound: "Sound ()"
+  editing {
+    editor {
+      name: "Joe Walker"
+    }
+    comments: "Editing ()"
+  }
+  visual_effects: "Visual Effects ()"
+  production_design: "Production Design ()"
+  makeup: "Makeup ()"
+  costumes: "Costumes ()"
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2024
+review_date: "02/25/2024"
+redux: false
+id: 417
+imdb_id: "tt15239678"

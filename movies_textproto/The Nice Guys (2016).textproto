@@ -1,0 +1,87 @@
+title: "The Nice Guys"
+rating: 8.3
+review {
+  direction {
+    director {
+      name: "Shane Black"
+    }
+    comments: "Good Direction (The direction on a macroscale was good as the action scenes were well choreographed and he built 70s LA well; the direction on a microscale was good as these scenes were the most enjoyable since they brought the comedy out; the direction of actors was good as the entire cast felt like they had chemistry (especially Crowe and Gosling) as you can tell everyone had fun making this movie; the storytelling was good as it paid homage to the 70s Neo-Noir style (but with a satirical take))"
+  }
+  acting {
+    actor {
+      name: "Russell Crowe"
+      comments: "Good from Russell Crowe (Used a lot of his experience playing Noirs and developed a good chemistry with Gosling to propel this performance forward)"
+    }
+    actor {
+      name: "Ryan Gosling"
+      comments: "Good from Ryan Gosling (Used his signature over-the-top comedy to be more of a comedic relief character, and this helps when he plays off of Crowe)"
+    }
+    actor {
+      name: "Angourie Rice"
+      comments: "Good from Angourie Rice (Held her own well as she was able to play off the two leads well while simultaneously standing out on her own with her charm)"
+    }
+    actor {
+      name: "Margaret Qualley"
+      comments: "Good from Margaret Qualley (Plays her role well (though isn't given that much to work with))"
+    }
+    actor {
+      name: "Kim Basinger"
+      comments: "Good from Kim Basinger (Barely in the movie but holds her own well (considering it is a return to the Noir style that made her an established actress))"
+    }
+    cast: "Good from the rest of the cast (Everyone plays their role well and makes the principal cast look good in a comedic way)"
+    comments: "Good Acting"
+  }
+  story {
+    writer {
+      name: "Shane Black"
+    }
+    writer {
+      name: "Anthony Bagarozzi"
+    }
+    comments: "Pretty Good to Good Story (The concept was good as it was a satirical take on the Neo-Noir style from the 70s (though it did use a good amount of cliche aspects from action-comedies); the plot structure was fine as it followed the typical action-comedy template; flow between sequences was decent (though its raw-style did move scenes less fluid); the character writing was very good as you care about the two leads and the little girl (so much that you want to see more of them))"
+  }
+  screenplay {
+    writer {
+      name: "Shane Black"
+    }
+    writer {
+      name: "Anthony Bagarozzi"
+    }
+    comments: "Pretty Good to Good Screenplay (The dialogue was very enjoyable as it was filled with humor while still feeling true to the time; the comedic parts of the movie were funny and a major highlight (especially when it broke the flow of the movie); the tension felt very typical to other action-comedies; the symbolism was somewhat there; the foreshadowing was used decently well (though was kinda predictable and pretty typical to other action-comedies))"
+  }
+  score {
+    composer {
+      name: "John Ottman"
+    }
+    composer {
+      name: "David Buckley"
+    }
+    comments: "Pretty Good Score (Helped with establishing the time period)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Philippe Rousselot"
+    }
+    comments: "Pretty Good Cinematography (Polished and felt typical to other action comedies)"
+  }
+  sound: "Good Sound"
+  editing {
+    editor {
+      name: "Joel Negron"
+    }
+    comments: "Good Editing"
+  }
+  visual_effects: "Pretty Good Visual Effects (Came out during the action scenes)"
+  production_design: "Pretty Good Production Design (Helped with setting the time period)"
+  costumes: "Pretty Good Costumes (Helped with setting the time period)"
+  pacing: "Pacing was good as it kept the typical pace of an action-comedy"
+  climax: "Climax was executed well and was mixed with the right blend of action and comedy"
+  tone: "Tone was pretty unique as it was a satirical take on the 70s Neo-Noir (while combining aspects of modern action-comedies)"
+  final_notes: ""
+  overall: "Overall, a well-executed action-comedy that is led by Ryan Gosling and Russell Crowe's chemistry and comedic timing, though suffers a lot from typical action-comedy cliches"
+}
+release_year: 2016
+review_date: "12/31/2023"
+redux: false
+id: 401
+imdb_id: "tt3799694"

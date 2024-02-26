@@ -26,13 +26,13 @@ def get_wiki_info():
         try:
             title = input("What is the film title?\n")
             wiki_title = title.replace(" ", "_")
-            
             imdb_id = get_imdb_id(wiki_title)
             infobox = parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
 
             # Change the film title if it has a (film) tag end the end of the wikipedia search
             if title.endswith("film)"):
-                title = title[:title.rfind(' (')]            
+                title = title[:title.rfind(' (')]
+            tries = 0            
             return title, imdb_id, infobox
         except:
             tries -= 1
@@ -49,7 +49,7 @@ def get_imdb_id(film):
 
     # if len(imdb_id) > 1 and len(set(imdb_id)) > 1:
     if len(imdb_id) > 1:
-        return input("There are two imdb ids: {}. Please input imdb id for {}.".format(imdb_id, film))
+        return input("There are two imdb ids: {}. Please input imdb id for {}.\n".format(imdb_id, film))
 
     return imdb_id.pop()
 
@@ -96,7 +96,7 @@ def get_field(infobox, key):
     if key == "Directed by":
         direction = movie_pb2.Movie.Review.Direction()
         direction.director.extend(person_list)
-        direction.comments = "Direction (macroscale; microscale; direction of actors; storytelling)"
+        direction.comments = "Direction (macroscale; microscale; direction of actors; storytelling; tension)"
         return direction
     elif key == "Music by":
         score = movie_pb2.Movie.Review.Score()
@@ -174,7 +174,7 @@ def get_writing(infobox):
     # Add comments for the writing
     if story != None and screenplay != None:
         story.comments = "Story (The concept; the plot structure; flow between sequences; character writing)"
-        screenplay.comments = "Screenplay (The dialogue; the humor; the horror/tension; the symbolism; the foreshadowing)"
+        screenplay.comments = "Screenplay (The dialogue; the humor; the symbolism; the foreshadowing)"
 
     return story, screenplay
 
@@ -242,7 +242,7 @@ def create_proto_free(redux=False):
 
 def write_proto(proto):
 
-    filename = (proto.title + " ({})".format(proto.release_year) + ".textproto").replace(":","").replace("/", " ")
+    filename = (proto.title + " ({})".format(proto.release_year) + ".textproto").replace(":","").replace("/", " ").replace("?", "")
     path = ("movies_textproto/" + filename)
     if not os.path.exists(filename):
         with open(path, "w") as fd:
@@ -418,6 +418,46 @@ def reviews_sorted():
     df = df.sort_values(by=['Rating'], ascending=False)
     return df.to_string(index=False)
 
+def sanity_check(proto):
+    # Checking if tiers are finished
+    if proto.review.direction.comments.startswith("Direction"):
+        raise ValueError("Direction needs to be given a tier")
+    acting = proto.review.acting
+    for actor in proto.review.acting.actor:
+        if actor.comments.startswith("from {}".format(actor.name)):
+            raise ValueError("{} needs to be given a tier".format(actor.name))
+    if acting.comments.startswith("from the rest of the cast"):
+        raise ValueError("Acting cast needs to be given a tier")
+    if proto.review.story.comments.startswith("Story"):
+        raise ValueError("Story needs to be given a tier")
+    if proto.review.screenplay.comments.startswith("Screenplay"):
+        raise ValueError("Screenplay needs to be given a tier")
+    if proto.review.score.comments.startswith("Score"):
+        raise ValueError("Score needs to be given a tier")
+    if proto.review.cinematography.comments.startswith("Cinematography"):
+        raise ValueError("Cinematography needs to be given a tier")
+    if proto.review.sound.startswith("Sound"):
+        raise ValueError("Sound needs to be given a tier")
+    if proto.review.editing.comments.startswith("Editing"):
+        raise ValueError("Editing needs to be given a tier")
+    if proto.review.production_design.startswith("Production Design"):
+        raise ValueError("Production Design needs to be given a tier")
+    if proto.review.makeup.startswith("Makeup"):
+        raise ValueError("Makeup needs to be given a tier")
+    if proto.review.costumes.startswith("Costumes"):
+        raise ValueError("Costumes needs to be given a tier")
+    
+    # Checking if notes are complete
+    if proto.review.pacing == "Pacing ":
+        raise ValueError("Pacing notes are incomplete")
+    if proto.review.climax == "Climax ":
+        raise ValueError("Climax notes are incomplete")
+    if proto.review.climax == "Tone ":
+        raise ValueError("Tone notes are incomplete")
+    if proto.review.overall == ("Overall, "):
+        raise ValueError("Overall notes are incomplete")
+
+
 if __name__=="__main__":
     
     argc = len(sys.argv)
@@ -426,25 +466,25 @@ if __name__=="__main__":
     subprocess.run(["sudo", "hwclock", "-s"])
 
     if argc == 1 or sys.argv[1] == "create_proto":
+        # TODO: Deletes original version of the file
         if argc > 2 and sys.argv[2] == "redux":
             movie = create_proto(True)
             move_redux_reviews("{} ({})".format(movie.title, movie.release_year))
-            write_proto(movie)
         else:
             movie = create_proto()
             initialize_to_sheets(movie)
-            write_proto(movie)
+        write_proto(movie)
     
     elif sys.argv[1] == "create_proto_free":
+        # TODO: Deletes original version of the file
         if argc > 2 and sys.argv[2] == "redux":
             movie = create_proto(True)
             move_redux_reviews("{} ({})".format(movie.title, movie.release_year))
             initialize_to_sheets(movie)
-            write_proto(movie)
         else:
             movie = create_proto_free()
             initialize_to_sheets(movie)
-            write_proto(movie)
+        write_proto(movie)
 
     elif sys.argv[1] == "reviews_sorted":
         print(reviews_sorted())   
@@ -455,6 +495,7 @@ if __name__=="__main__":
 
         # Get details for post
         proto = read_proto(filename)
+        sanity_check(proto)
         if proto.rating == 0.1:
             print("Cannot post a review with a 0.1/10.0. Please fix rating.")
             sys.exit(0)
@@ -467,8 +508,9 @@ if __name__=="__main__":
 
         # Get details for post
         proto = read_proto(filename)
-        if proto.rating == 0.0:
-            print("Cannot post a review with a 0.0/10.0. Please fix rating.")
+        sanity_check(proto)
+        if proto.rating == 0.1:
+            print("Cannot post a review with a 0.1/10.0. Please fix rating.")
             sys.exit(0)
         short_review = print_short_review(proto, filename)
 
@@ -479,8 +521,9 @@ if __name__=="__main__":
 
         # Get details for post
         proto = read_proto(filename)
-        if proto.rating == 0.0:
-            print("Cannot post a review with a 0.0/10.0. Please fix rating.")
+        sanity_check(proto)
+        if proto.rating == 0.1:
+            print("Cannot post a review with a 0.1/10.0. Please fix rating.")
             sys.exit(0)
         imdb_review = print_imdb_review(proto, filename)
 
@@ -491,8 +534,9 @@ if __name__=="__main__":
 
         # Get details for post
         proto = read_proto(filename)
-        if proto.rating == 0.0:
-            print("Cannot post a review with a 0.0/10.0. Please fix rating.")
+        sanity_check(proto)
+        if proto.rating == 0.1:
+            print("Cannot post a review with a 0.1/10.0. Please fix rating.")
             sys.exit(0)
         review = print_review(proto, filename)
         short_review = print_short_review(proto, filename)
@@ -505,10 +549,9 @@ if __name__=="__main__":
 
         p_sheets.start()
         p_letterboxd.start()
-        p_imdb.start()
-
         p_sheets.join()
         p_letterboxd.join()
+        p_imdb.start()
         p_imdb.join()
     else:
         print("Invalid input. Please try again.")
