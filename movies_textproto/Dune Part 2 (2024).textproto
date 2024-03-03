@@ -1,63 +1,59 @@
 title: "Dune: Part 2"
-rating: 0.1
+rating: 9.4
 review {
   direction {
     director {
       name: "Denis Villeneuve"
     }
-    comments: "Direction (macroscale; microscale; direction of actors; storytelling; tension)"
+    comments: "Incredible Direction (The film is brilliant on a macroscale as it provides something more epic than the first, with its vast dunes, gigantic crowds, and colossal battle scenes; the direction on a microscale is great because it is less Sci-fi/formulaic this time as the scenes touch on more messiah/prophecy-like meanings and how this power leads to corruption; the direction of actors is better this time as you really see every performance get elevated as each actor truly feels like they are serving their purpose; the storytelling has tones to both sci-fi epics as well as messiah/prophecy-like stories, and Villeneuve tells these tones on a grand scale; Villeneuve builds tension very well as he uses sound, action, scale, and story to showcase how epic this sequel is, building on everything the first film established)"
   }
   acting {
     actor {
       name: "Timoth\303\251e Chalamet"
-      comments: " from Timoth\303\251e Chalamet ()"
+      comments: "Very Good from Timoth\303\251e Chalamet (For the first half of the movie, it was hard to believe him as Paul Atredies, but after one scene, there is a full 180-degree switch where he fully immerses himself as the Lisan al Gaib and carries the movie to the finish line)"
     }
     actor {
       name: "Zendaya"
-      comments: " from Zendaya ()"
+      comments: "Good to Very Good from Zendaya (Plays an integral part in buttressing Chalamet's performance in becoming one with the Freman, and does so by establishing good chemistry between the two; in her solo moments, she shows off in portraying her disbelief in the messiah as she as her character is more of a realist)"
     }
     actor {
       name: "Rebecca Ferguson"
-      comments: " from Rebecca Ferguson ()"
+      comments: "Very Good from Rebecca Ferguson (Has both motherly and antagonistic characteristics throughout the movie as her character is someone who can simultaneously help and hurt the protagonist, and by the end, she fully immerses herself in her role)"
     }
     actor {
       name: "Josh Brolin"
-      comments: " from Josh Brolin ()"
+      comments: "Good to Very Good from Josh Brolin (Plays a fatherly figure to Chalamet 's character well and still shows how he is a loyal solider to the House of Atreides)"
     }
     actor {
       name: "Austin Butler"
-      comments: " from Austin Butler ()"
+      comments: "Good to Very Good from Austin Butler (Really embodies that his character is the heir to the Harkonnen throne as he does a good job at being a sociopathic antagonist)"
     }
     actor {
       name: "Florence Pugh"
-      comments: " from Florence Pugh ()"
+      comments: "Good from Florence Pugh (Really isn't given that much to work with but does a good job at being a central figure in her scenes)"
     }
     actor {
       name: "Dave Bautista"
-      comments: " from Dave Bautista ()"
+      comments: "Pretty Good from Dave Bautista (Shows status in a lot of his scenes, but he is very over-the-top in a lot of moments, and he isn't given much to work with by the time the climax arrives)"
     }
     actor {
       name: "Christopher Walken"
-      comments: " from Christopher Walken ()"
+      comments: "Good from Christopher Walken (Literally just plays Christopher Walken)"
     }
     actor {
       name: "L\303\251a Seydoux"
-      comments: " from L\303\251a Seydoux ()"
+      comments: "Pretty Good from L\303\251a Seydoux (She's in the movie for like 2 scenes)"
     }
     actor {
       name: "Stellan Skarsg\303\245rd"
-      comments: " from Stellan Skarsg\303\245rd ()"
-    }
-    actor {
-      name: "Charlotte Rampling"
-      comments: " from Charlotte Rampling ()"
+      comments: "Good to Very Good from Stellan Skarsg\303\245rd (Carries over where he left off in the last film as he does a good job in showing the greed of the House of Harkonnen)"
     }
     actor {
       name: "Javier Bardem"
-      comments: " from Javier Bardem ()"
+      comments: "Very Good to Great from Javier Bardem (The best performance in the movie as you really believe that he is a believer in the Lisan al Gaib prophecy and will do everything he can to help Paul achieve that potential, filling the void Duncan, Leto, and Gurney left in the first film; shows a wide range of emotions and can seamlessly transition from humorous to anger to infatuated in a second)"
     }
-    cast: "from the rest of the cast ()"
-    comments: " Acting"
+    cast: "Pretty Good to Good from the rest of the cast (Everyone does their job as you can see different sides of the spectrum on the belief of Paul as the Lisan al Gaib/Heir to the Atredies throne)"
+    comments: "Good to Very Good Acting"
   }
   story {
     writer {
@@ -66,7 +62,7 @@ review {
     writer {
       name: "Jon Spaihts"
     }
-    comments: "Story (The concept; the plot structure; flow between sequences; character writing)"
+    comments: "Very Good to Great Story (The concept carries out the intended purpose of the second half of the book as it follows Paul's journey in becoming the Lisan al Gaib (and does so in a way that mixes Sci-Fi elements with religious elements), and the film stays pretty true to the source material and only deviates to better fit the narrative that Villeneuve crafted; the plot structure is great for the most part as the movie itself has its own plot, but also benefits from having there be little needed exposition as that was the intent of the first film (this film picks up right where it's predecessor left off); the main issue with the plot structure/runtime is that the film felt too short as 20-30 minutes could have been added to help slow scenes down and show how epic this movie is (especially in the climax as it feels shorter than it needed to be); flow between sequences is very good as each sequence feels connected to the last (though these sequences could have been slowed down to emphasize the sequence's importance to the story); the character writing is great as you see the impact the conflict has on the characters and how they react (with character's blindly following this prophecy and some even being corrupted by it by taking advantage of this new found power))"
   }
   screenplay {
     writer {
@@ -75,36 +71,36 @@ review {
     writer {
       name: "Jon Spaihts"
     }
-    comments: "Screenplay (The dialogue; the humor; the symbolism; the foreshadowing)"
+    comments: "Great Screenplay (The dialogue is a lot more polished this time around as it sounds less Sci-Fi heavy and more realistic; the humor is used well throughout the movie (and this is mainly from Stilgar/Javier Bardem's character); the symbolism is incredibly profound as you can see the metaphors to Biblical/Prophecy-like Messiahs aiming to free people, and this movie goes one step further by showing how this power can lead to corruption and losing morals; the foreshadowing is executed well as it helps show this concept of the corruption of power as Paul is scared to be the Lisan al Gaib because of what it might do to his morals, and this also shows the relationship Paul will have with the Freman and the other houses)"
   }
   score {
     composer {
       name: "Hans Zimmer"
     }
-    comments: "Score ()"
+    comments: "Great Score (Used very well to build the world and used more to build tension than last time, but it just feels like he reused a lot of the same themes as last time)"
   }
   cinematography {
     cinematographer {
       name: "Greig Fraser"
     }
-    comments: "Cinematography ()"
+    comments: "Brilliant Cinematography (A technical benchmark as the movie is shot entirely in the IMAX, and they use this effectively as it helps show how grand of an epic this movie is, especially in the large crowd scenes and the colossal battles; the coloring/lighting they used in many of the scenes were stunning and rival some of the shots from Blade Runner 2049 (especially in the Gladiator scene and the final fight))"
   }
-  sound: "Sound ()"
+  sound: "Incredible Sound (Does an amazing job in setting the tone, showing how grand this epic is, and displaying the weight power has on followers (especially from Paul's perspective))"
   editing {
     editor {
       name: "Joe Walker"
     }
-    comments: "Editing ()"
+    comments: "Incredible Editing (Carries off where the previous film left off as it helps show how so many small pieces come together to make this grand epic; Used effectively well in the interpersonal scenes to show how the visions of grandeur affect the characters)"
   }
-  visual_effects: "Visual Effects ()"
-  production_design: "Production Design ()"
-  makeup: "Makeup ()"
-  costumes: "Costumes ()"
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  visual_effects: "Incredible Visual Effects (Helps show how grand the epic is and is seamlessly used amongst the real world, making it feel like you are transported to Arrakis)"
+  production_design: "Great to Incredible Production Design (Continues where it left off as it helps portray the vastness of Arrakis and how grand this movie is with its sets and design; pulls a lot from Ancient Middle Eastern/Egyptian culture to show the beliefs of the characters and how they are waiting for the Lisan al Gaib to save them)"
+  makeup: "Great Makeup (Improves from the last film in helping showcase traditional Sci-Fi elements (like with the blue eyes and the Harkonnen), but feels even more polished this time)"
+  costumes: "Very Good Costumes (Continued where it left off last time)"
+  pacing: "Pacing is a bit too fast as the movie breezes through its runtime by going through as much plot as it can, and this leaves you wanting more because it does not give you enough time to sit with what was going on (I would have liked 20-30 minutes to help slow the pace down)"
+  climax: "Climax is incredibly grand and the best part of the movie as the whole final hour of the movie feels like everything was clicking as we got to see how grand this epic was with its large-scale fights and sets, but it feels a bit too short and could've benefited from a longer runtime to elongate come of the abrupt fight scenes"
+  tone: "Tone is more biblical in nature this time around as you saw the impact the prophecy of the Lisan al Gaib had on the characters, but there are still many scenes where it still has Sci-Fi tones"
+  final_notes: "This movie improved on almost every aspect from the previous film and is setting the groundwork for 'Dune: Messiah' to be even more grand and epic, but even if this was the last movie, I would have been satisfied where they left the movie off; the film being shot in IMAX truly is an achievement in itself and will set the trend for more films to follow; With Oppenheimer, this movie is now making going to the movies in IMAX a true spectacle (as if you were going to a concert)"
+  overall: "Overall, a technical masterpiece that is led by Villeneuve's vision and groundbreaking technicals because this film sets a new benchmark in cinema as it builds on the trend in making large-scale, IMAX movies an event, but the film is held back from being perfect by its fast pace and too short runtime as you are left wanting more"
 }
 release_year: 2024
 review_date: "02/25/2024"

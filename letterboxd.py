@@ -40,6 +40,7 @@ class LetterboxdBot:
         self.wait(30)
         self.driver.find_element(By.XPATH,"/html/body/div[2]/div/div[1]/a[2]").click()
 
+    # TODO: Edge Case, movie that was originally a like but after redux is not
     def liked_film(self, title):
         self.wait(10)
         self.driver.get("https://letterboxd.com/akarshv/")
