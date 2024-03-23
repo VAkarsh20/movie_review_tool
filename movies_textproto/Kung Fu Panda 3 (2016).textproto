@@ -1,0 +1,115 @@
+title: "Kung Fu Panda 3"
+rating: 8.2
+review {
+  direction {
+    director {
+      name: "Jennifer Yuh Nelson"
+    }
+    director {
+      name: "Alessandro Carloni"
+    }
+    rating: "Good"
+    comments: "Direction (The macroscale is very good as they once again take a simple plot and make the most out of it, going above and beyond with more polished visuals and grand fighting scenes; the direction on a microscale is good as the movie goes a bit deeper in its interpersonal scenes with Po learning more about his roots and his connection to both his fathers, and the movie is better executed in the comedic moments; the direction of actors is the better than the previous two films as it feels like dialogue is more spread out this time and each character has a say in moving the story; the storytelling is still pretty formulaic for a children's movie, and there are some gaps in the story that aren't resolved)"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Jack Black"
+      }
+      rating: "Great"
+      comments: "from Jack Black (Carries off where he left last time as it still feels like they wrote this character for Jack Black)"
+    }
+    performance {
+      actor {
+        name: "Bryan Cranston"
+      }
+      rating: "Good"
+      comments: "from Bryan Cranston (Shows why he is an experienced actor as he develops good chemistry with Jack Black in showing that father-son dynamic)"
+    }
+    performance {
+      actor {
+        name: "Dustin Hoffman"
+      }
+      rating: "Good"
+      comments: "from Dustin Hoffman (Continues his performance from the previous movies, but his talent is still used a lot less this time around)"
+    }
+    performance {
+      actor {
+        name: "Angelina Jolie"
+      }
+      rating: "Pretty Good"
+      comments: "from Angelina Jolie (Carries off where she left off as she still is given the biggest role out of the Furious Five, and does a good job in showing the connection Tigress has with Po)"
+    }
+    performance {
+      actor {
+        name: "J.K. Simmons"
+      }
+      rating: "Good"
+      comments: "from J.K. Simmons (Uses his experience as a voice actor as he brings life to the villain and makes him very interesting)"
+    }
+    performance {
+      actor {
+        name: "James Hong"
+      }
+      rating: "Great"
+      comments: "from James Hong (His best performance in the series as you see how much Ping loves Po and shows how much he doesn't want to lose his son)"
+    }
+    cast {
+      rating: "Pretty Good"
+      comments: "from the rest of the cast (It feels like everyone this time around got more screentime to show off their strengths (especially Seth Rogen, David Cross, and Jackie Chan))"
+    }
+    comments: "Good Acting"
+  }
+  story {
+    writer {
+      name: "Jonathan Aibel"
+    }
+    writer {
+      name: "Glenn Berger"
+    }
+    rating: "Pretty Good to Good "
+    comments: "Story (The concept is pretty interesting as it's more about Po's relationship with his family and learning more about his identity outside of being the Dragon Warrior; the plot structure is laid decently as the movie uses its short runtime mostly well, but this is the first time where 10-15 minutes could have been added because there are some plot elements that are introduced that are not resolved; flow between sequences is fine; character writing is more about Po this time as he tries to learn more about his identity, and the villain writing is better this time around as you understand his conflict more)"
+  }
+  screenplay {
+    writer {
+      name: "Jonathan Aibel"
+    }
+    writer {
+      name: "Glenn Berger"
+    }
+    rating: "Good"
+    comments: "Screenplay (The dialogue is pretty similar to the other movies, so pretty good overall; the humor is the best it has been in the series as there are many jokes that are genuinely funny; the symbolism is less important this time around as the movie tries to focus more on identity rather than Po finding his potential/peace, which is still pretty important; the foreshadowing is pretty standard for a children's movie)"
+  }
+  score {
+    composer {
+      name: "Hans Zimmer"
+    }
+    rating: "Good"
+    comments: "Score (Continues where the last two left off)"
+  }
+  editing {
+    editor {
+      name: "Clare Knight"
+    }
+    rating: "Good to Very Good"
+    comments: "Editing (Really shines in the scenes where they mix animation styles as well as the fighting scenes; a good amount of the cuts felt seamless)"
+  }
+  sound {
+    rating: "Good"
+    comments: "Sound"
+  }
+  visual_effects {
+    rating: "Great"
+    comments: "Animation (The animation felt more polished this time around as they seamlessly incorporated many styles; the action sequences were well animated and some of the most vibrant the series has ever been)"
+  }
+  pacing: "Pacing is the same pace as the previous movies, but this is not a good thing this time around as it rushes some of the scenes and does not close plot elements introduced"
+  climax: "Climax is executed well as it shows off the film's great animation, but has less to do with Po discovering a revelation"
+  tone: "Tone is pretty similar to the first movie as it shares a lot of tones with other children's animated/Dreamworks films (but this is different this time around as it is less about marital arts and more about the father-son dynamic)"
+  final_notes: ""
+  overall: "Overall, a good follow-up in the series because the movie has improved voice acting performances, great animation, and tackles a more grounded topic in Po's relationship to his fathers, but the movie is held back by its story not being as tight this time around"
+}
+release_year: 2016
+review_date: "03/04/2024"
+redux: false
+id: 420
+imdb_id: "tt2267968"

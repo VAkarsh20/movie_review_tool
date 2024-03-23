@@ -1,0 +1,98 @@
+title: "Sew Torn"
+rating: 7.7
+review {
+  direction {
+    director {
+      name: "Freddy Macdonald"
+    }
+    rating: "Pretty Good to Good"
+    comments: "Direction (The direction on a macroscale is good to very good as he has a distinct fast-paced style that helps make this movie feel sharp and well executed (especially in the action-based scenes); the direction on a microscale is not the best as the performances felt a bit rigid, but you did get a sense of what the personal conflicts for the characters are; the storytelling is pretty unique as it is fast-paced, action-packed, and filled with a lot of action to make the movie feel like a thrill-ride; he builds tension well through the action-based scenes)"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Eve Connolly"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "from Eve Connolly (Not given a lot in terms of dialogue, but she carries out the character well through her mannerisms and holds her own in the action-packed scenes)"
+    }
+    performance {
+      actor {
+        name: "Calum Worthy"
+      }
+      rating: "Decent"
+      comments: "from Calum Worthy"
+    }
+    performance {
+      actor {
+        name: "John Lynch"
+      }
+      rating: "Pretty Bad to Decent"
+      comments: "from John Lynch (Is fine as a villain but there are noticeable moments where there is a lack of chemistry between him and the rest of the cast)"
+    }
+    performance {
+      actor {
+        name: "K Callan"
+      }
+      rating: "Pretty Bad to Decent"
+      comments: "from K Callan (Feels just a bit out of place)"
+    }
+    cast {
+      rating: "Decent"
+      comments: "from the rest of the cast (Just minor characters)"
+    }
+    comments: "Decent Acting"
+  }
+  story {
+    writer {
+      name: "Fred Macdonald"
+    }
+    writer {
+      name: "Freddy Macdonald"
+    }
+    rating: "Pretty Good to Good"
+    comments: "Story (The concept is unique as it visits the conflict in three different scenarios, and it does a good job at making the scenes feel fast-paced and filled with action; the plot structure is very overt as the movie is structured out into three different vignettes; the flow between sequences is decent, but the flow between storylines is a bit forced; the character writing is pretty void)"
+  }
+  screenplay {
+    writer {
+      name: "Fred Macdonald"
+    }
+    writer {
+      name: "Freddy Macdonald"
+    }
+    rating: "Pretty Bad"
+    comments: "Screenplay (The dialogue is pretty bland and rigid as it doesn't feel natural, and it is pretty overt in some places; the symbolism is somewhat present (but not a key point for the movie); the foreshadowing is somewhat there (but the movie is just 3 vignettes from multiple angles))"
+  }
+  cinematography {
+    cinematographer {
+      name: "Sebastian Klinger"
+    }
+    rating: "Good to Very Good"
+    comments: "Cinematography (Really helped show how fast-paced the movie/editing was; used well in the action-based scenes (especially with the fast cuts))"
+  }
+  editing {
+    editor {
+      name: "Freddy Macdonald"
+    }
+    rating: "Very Good"
+    comments: "Editing (The editing style is very fast-paced, borderline emulating Hip-Hop montages, as this helps build tension and make the thriller very engaging)"
+  }
+  sound {
+    rating: "Good"
+    comments: "Sound (Feels crisp and aids the action-scenes)"
+  }
+  visual_effects {
+    rating: "Good"
+    comments: "Visual Effects"
+  }
+  pacing: "Pacing is pretty fast as it goes through 3 different scenarios (but this was intentional as the editing style helped make it more of a thriller)"
+  climax: "Climax in each of the three scenarios is carried out well and shows what would happen if the story played out that way"
+  tone: "Tone is very similar to other action-thrillers (sometimes even feeling like a shootout movie like John Wick)"
+  final_notes: "Saw the world premiere at SXSW"
+  overall: "Overall, a very unique movie that uses sharp technicals, especially editing and cinematography, and fast-paced direction to create an engaging thriller as we see the same story told in three different perspectives"
+}
+release_year: 2024
+review_date: "03/11/2024"
+redux: false
+id: 427
+imdb_id: "tt23157384"

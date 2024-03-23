@@ -1,0 +1,135 @@
+title: "Kung Fu Panda 4"
+rating: 7.3
+review {
+  direction {
+    director {
+      name: "Mike Mitchell"
+    }
+    rating: "Pretty Good"
+    comments: "Direction (The macroscale is very good as they once again take a simple plot and make the most out of it, going above and beyond with more advanced visuals and grand fighting scenes; the microscale is pretty good as the interpersonal momenets felt very similiar to the other movies in the franchise, but the movie is less deep this time around as they try more to entertain rather than finding personal messages; the storytelling is very similiar to other children's movies, and while it is different this time around by have multiple storylines, this makes the movie more shallow)"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Jack Black"
+      }
+      rating: "Very Good"
+      comments: "from Jack Black (Carries where he left off as he continues to show how Po was tailored to his real-life personality)"
+    }
+    performance {
+      actor {
+        name: "Awkwafina"
+      }
+      rating: "Good to Very Good"
+      comments: "from Awkwafina (Does a good job in portraying a holistic character and really embodies the character as it seems like it is really tailored to her personality/mannerisms)"
+    }
+    performance {
+      actor {
+        name: "Viola Davis"
+      }
+      rating: "Good to Very Good"
+      comments: "from Viola Davis (Does a good job in using her experience playing villians to bring this one to life as this was probably the best villian in the whole series)"
+    }
+    performance {
+      actor {
+        name: "Dustin Hoffman"
+      }
+      rating: "Good"
+      comments: "from Dustin Hoffman (Continues his performance from the previous movies, and while he is given more screentime this time around, it is pretty noticable that he has aged since the last movie)"
+    }
+    performance {
+      actor {
+        name: "James Hong"
+      }
+      rating: "Good to Very Good"
+      comments: "from James Hong (Continues to give the character life and has really good chemistry with Jack Black and Bryan Cranston, but its noticable he has aged since the last one as he does not have the same energy as the last film (but he's 95 so I give him a big pass on this one))"
+    }
+    performance {
+      actor {
+        name: "Bryan Cranston"
+      }
+      rating: "Very Good"
+      comments: "from Bryan Cranston (An improved performance this time around as it feels like he's tailored the performance more to his comedic style and is given more to work with)"
+    }
+    performance {
+      actor {
+        name: "Ian McShane"
+      }
+      rating: "Pretty Good"
+      comments: "from Ian McShane (Continues where he left off in the first film)"
+    }
+    performance {
+      actor {
+        name: "Ke Huy Quan"
+      }
+      rating: "Good"
+      comments: "from Ke Huy Quan (Does well in the screentime he is given)"
+    }
+    cast {
+      rating: "Pretty Good"
+      comments: "from the rest of the cast (All the supporting performances really feel like they are buttressing the main cast)"
+    }
+    comments: "Good Acting"
+  }
+  story {
+    writer {
+      name: "Jonathan Aibel"
+    }
+    writer {
+      name: "Glenn Berger"
+    }
+    writer {
+      name: "Darren Lemke"
+    }
+    rating: "Pretty Good"
+    comments: "Story (The concept is kinda forced this time around as it feels like an unnecessary story (even though they do carry it out well); the plot structure is laid out well as it does not try to overcomplicate the story (has one simple conflict and uses its short runtime to resolve this); flow between sequences is good; character writing is pretty good as they do a good job in showing the dimensions of the other characters, but it really feels like they did not give Po as much depth this time around)"
+  }
+  screenplay {
+    writer {
+      name: "Jonathan Aibel"
+    }
+    writer {
+      name: "Glenn Berger"
+    }
+    writer {
+      name: "Darren Lemke"
+    }
+    rating: "Good"
+    comments: "Screenplay (The dialogue is pretty sharp for a children's movie, but there are some forced lines; the humor is good for the most part, but is really geared towards children more this time around; the symbolism is more forced than present as the movie is pretty shallow in its message; the foreshadowing is more predictable this time around as you know where the movie is going within the first 10 minutes)"
+  }
+  score {
+    composer {
+      name: "Hans Zimmer"
+    }
+    composer {
+      name: "Steve Mazzaro"
+    }
+    rating: "Pretty Good to Good"
+    comments: "Score (Used well throughout the movie and still incorporates many Chinese tones, but does not feel as strong as the previous three films)"
+  }
+  editing {
+    editor {
+      name: "Christopher Knights"
+    }
+    rating: "Very Good"
+    comments: "Editing (Really shines in the scenes where they mix animation styles as well as the fighting scenes; a good amount of the cuts felt seamless; probably the best in the series)"
+  }
+  sound {
+    rating: "Good"
+    comments: "Sound"
+  }
+  visual_effects {
+    rating: "Very Good to Great"
+    comments: "Visual Effects (The most polished film in the franchise as they seamlessly incorporate different animation styles and do a great job in bringing to life the world and the fighting scenes; the visual effects are held back a bit because a lot of the new character designs feel very similiar to 'Zootopia')"
+  }
+  pacing: "Pacing was very good for its short runtime as every scene felt intended and the right length"
+  climax: "Climax is executed well as it shows off the film's animation excellence as well as the display the message/ close the storyline they intended to have in this movie"
+  tone: "Tone feels more like a children's movie this time around as they really try to force laughs and please the younger audience"
+  final_notes: "The movie just feels unnecessary and does not really provide anything worth towards Po's character arc"
+  overall: "Overall, a pretty good installment in the franchise as the film is animated very well and has noticable voice acting performances, but the movie is not as strong as the first three because its tailored more towards children and feels like a cash grab"
+}
+release_year: 2024
+review_date: "03/05/2024"
+redux: false
+id: 421
+imdb_id: "tt21692408"

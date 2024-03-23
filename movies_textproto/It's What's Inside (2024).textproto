@@ -1,0 +1,85 @@
+title: "It\'s What\'s Inside"
+rating: 7.8
+review {
+  direction {
+    director {
+      name: "Greg Jardin"
+    }
+    rating: "Pretty Good to Good"
+    comments: "Direction (The movie is good on a macroscale as they do a good job in building the world, setting the conflict, and integrating humor throughout (and the movie feels really unique on technical scale with its cinematography and editing); the direction on a microscale is pretty good as the interpersonal scenes are well executed and bring out the internal conflict in all the characters (and how these are pieces for the overarching issue); the direction of actors is good to very good as every performance feels elevated, and the cast has very good chemistry (especially when working with the conflict); the storytelling is very millennial (and this kinda makes the movie a bit convoluted and messy at times as they prioritize humor/influence over clarity); he builds tension very well to incorporate the horror elements of the film (especially towards the end))"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Brittany O\'Grady"
+      }
+      rating: "Good"
+      comments: "from Brittany O\'Grady (Established herself as the true lead in the movie as she had a range of emotions and delivers some powerful scenes)"
+    }
+    performance {
+      actor {
+        name: "Alycia Debnam-Carey"
+      }
+      rating: "Pretty Good to Good"
+      comments: "from Alycia Debnam-Carey (Does a good job at establishing status with the rest of the cast as she shows the real influence she has (and does a good job acting when working with the conflict))"
+    }
+    cast {
+      rating: "Pretty Good"
+      comments: "from the rest of the cast (Everyone does a pretty good job working with each other and establishing chemistry, and everyone does a pretty good job acting during the conflict)"
+    }
+    comments: "Pretty Good to Good Acting"
+  }
+  story {
+    writer {
+      name: "Greg Jardin"
+    }
+    rating: "Pretty Good to Good"
+    comments: "Story (The concept is very unique and handled well (though it does get a bit convoluted at times, especially in the ending); the plot structure is laid out pretty well, but the ending is a bit of a mess in how chaotic it is; character writing is very good as you really get a sense of who all these characters are, especially the protagonist, and their true relationships amongst each other)"
+  }
+  screenplay {
+    writer {
+      name: "Greg Jardin"
+    }
+    rating: "Pretty Good to Good"
+    comments: "Screenplay (The dialogue is forcibly millennial/gen-z, but it is pretty accurate in capturing the generation/target audience; the humor is pretty good as it lightens the mood and makes the movie more enjoyable; the symbolism is pretty prevalent as the movie deals with jealousy, relationships, and trust; the foreshadowing is somewhat prevalent (though it could be better at times because movie is really messy))"
+  }
+  score {
+    composer {
+      name: "Andrew Hewitt"
+    }
+    rating: "Pretty Good"
+    comments: "Score (Helped with establishing the tone)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Kevin Fletcher"
+    }
+    rating: "Good to Very Good"
+    comments: "Cinematography (A lot of unique shots that are very interesting; they use light very well to help tell the story)"
+  }
+  editing {
+    editor {
+      name: "Greg Jardin"
+    }
+    rating: "Good to Very Good"
+    comments: "Editing (Had a lot of cool edits that gave the movie a unique feel)"
+  }
+  sound {
+    rating: "Pretty Good"
+    comments: "Sound (Helps in more of the thriller moments)"
+  }
+  production_design {
+    rating: "Pretty Good to Good"
+    comments: "Production Design (They use the singular location well)"
+  }
+  pacing: "Pacing is very fast (and this hurts the movie a bit because it makes the movie more convoluted and a bit messy)"
+  climax: "Climax is a bit hectic and messy (but still enjoyable)"
+  tone: "Tone is a Millennial/Gen-z Comedy-Thriller (and really plays to this throughout the movie as it does a pretty good job at tethering the line between comedy and thriller)"
+  final_notes: "Saw the Texas Premiere at SXSW"
+  overall: "Overall, a very entertaining comedy thriller that is funny, has good chemistry within the cast, and is well directed/shot on a macro-scale, but the movie is very millennial and a bit messy in its presentation"
+}
+release_year: 2024
+review_date: "03/15/2024"
+redux: false
+id: 432
+imdb_id: "tt14577874"

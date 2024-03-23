@@ -37,8 +37,8 @@ class LetterboxdBot:
         self.wait(15)
         self.driver.find_element(By.ID, "upload-imdb-import").send_keys("/mnt/c/Users/vakar/personal-repos/movies/movie_review_tool/letterboxd_upload.csv")
         
-        self.wait(30)
-        self.driver.find_element(By.XPATH,"/html/body/div[2]/div/div[1]/a[2]").click()
+        self.wait(45)
+        self.driver.find_element(By.XPATH,'//*[@id="content"]/div/div[1]/a[2]').click()
 
     # TODO: Edge Case, movie that was originally a like but after redux is not
     def liked_film(self, title):

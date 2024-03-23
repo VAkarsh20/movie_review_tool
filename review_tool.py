@@ -96,26 +96,33 @@ def get_field(infobox, key):
     if key == "Directed by":
         direction = movie_pb2.Movie.Review.Direction()
         direction.director.extend(person_list)
-        direction.comments = "Direction (macroscale; microscale; direction of actors; storytelling; tension)"
+        direction.rating = "TODO"
+        direction.comments = "Direction (macroscale is; microscale is; direction of actors is; storytelling is; tension is)"
         return direction
     elif key == "Music by":
         score = movie_pb2.Movie.Review.Score()
         score.composer.extend(person_list)
+        score.rating = "TODO"
         score.comments = "Score ()"
         return score
     elif key == "Cinematography":
         cinematography = movie_pb2.Movie.Review.Cinematography()
         cinematography.cinematographer.extend(person_list)
+        cinematography.rating = "TODO"
         cinematography.comments = "Cinematography ()"
         return cinematography
     elif key == "Edited by":
         editing = movie_pb2.Movie.Review.Editing()
         editing.editor.extend(person_list)
+        editing.rating = "TODO"
         editing.comments = "Editing ()"
         return editing
 
     return None  
 
+def get_generic(category):
+    # Create generic object
+    return movie_pb2.Movie.Review.GenericCategory(rating="TODO", comments = "{} ()".format(category))
 
 def get_acting(infobox):
     
@@ -124,13 +131,13 @@ def get_acting(infobox):
 
     # Parse all of the possible actors (with their comments) and append them to the object
     for name in infobox["Starring"]:
-        actor = movie_pb2.Movie.Review.Person()
-        actor.name = name
-        actor.comments = " from " + name + " ()"
-        acting.actor.append(actor)
+        performance = movie_pb2.Movie.Review.Acting.Performance(actor = movie_pb2.Movie.Review.Person(name = name))
+        performance.rating = "TODO"
+        performance.comments = "from " + name + " ()"
+        acting.performance.append(performance)
 
     # Add comments on the overall cast
-    acting.cast = "from the rest of the cast ()"
+    acting.cast.CopyFrom(get_generic("from the rest of the cast ()"))
 
     # Overall Comments on Acting
     acting.comments = " Acting"
@@ -173,8 +180,10 @@ def get_writing(infobox):
 
     # Add comments for the writing
     if story != None and screenplay != None:
-        story.comments = "Story (The concept; the plot structure; flow between sequences; character writing)"
-        screenplay.comments = "Screenplay (The dialogue; the humor; the symbolism; the foreshadowing)"
+        story.rating = "TODO"
+        story.comments = "Story (The concept is; the plot structure is; flow between sequences is; character writing is)"
+        screenplay.rating = "TODO"
+        screenplay.comments = "Screenplay (The dialogue is; the humor is; the symbolism is; the foreshadowing is)"
 
     return story, screenplay
 
@@ -218,12 +227,12 @@ def create_proto(redux=False):
         screenplay=screenplay,
         score = get_field(infobox, "Music by"), # parse_score(infobox),
         cinematography = get_field(infobox, "Cinematography"), # parse_cinematography(infobox),
-        sound = "Sound ()",
         editing = get_field(infobox, "Edited by"), # parse_editing(infobox),
-        visual_effects = "Visual Effects ()",
-        production_design = "Production Design ()",
-        makeup = "Makeup ()",
-        costumes = "Costumes ()",
+        sound = get_generic(category="Sound"), # "Sound ()",
+        visual_effects = get_generic(category="Visual Effects"), # "Visual Effects ()",
+        production_design = get_generic(category="Production Design"), # "Production Design ()",
+        makeup = get_generic(category="Makeup"), # "Makeup ()",
+        costumes = get_generic(category="Costumes"), # "Costumes ()",
         pacing = "Pacing ",
         climax = "Climax ",
         tone = "Tone ",
@@ -259,6 +268,7 @@ def read_proto(filename):
         if len(fd.readlines()) <= 8:
             return text_format.Parse(text_proto, movie_pb2.MovieFree())
         else: 
+            # TODO: Try Catch for old Proto Format
             return text_format.Parse(text_proto, movie_pb2.Movie())
 
 def print_redux_review(redux_proto, filename):
@@ -285,6 +295,9 @@ def print_short_review(proto, filename):
         return "Rating: {}\n{}".format(proto.rating, proto.review)
     else:
         return "Rating: {}\n{}.".format(proto.rating, proto.review.overall)
+    
+def combine_rating_and_comments(field):
+    return "{} {}".format(field.rating, field.comments)
 
 def combine_review_fields(proto, filename):
     
@@ -292,55 +305,57 @@ def combine_review_fields(proto, filename):
     
     # Direction
     if proto.review.direction != "":
-        review.append(proto.review.direction.comments)
+        review.append(combine_rating_and_comments(proto.review.direction))
     
     # Acting
     if proto.review.acting != "":
         acting = proto.review.acting.comments + " ("
-        for actor in proto.review.acting.actor:
-            acting += actor.comments + ", "
-        acting += proto.review.acting.cast + ")"
+        for actor in proto.review.acting.performance:
+            acting += "{}, ".format(combine_rating_and_comments(actor))
+        acting += combine_rating_and_comments(proto.review.acting.cast) + ")"
         review.append(acting)
 
     # Story
     if proto.review.story.comments != "":
-        review.append(proto.review.story.comments)
+        review.append(combine_rating_and_comments(proto.review.story))
 
     # Screenplay
     if proto.review.screenplay.comments != "":
-        review.append(proto.review.screenplay.comments)
+        review.append(combine_rating_and_comments(proto.review.screenplay))
 
     # Score
     if proto.review.score.comments != "":
-        review.append(proto.review.score.comments)
+        review.append(combine_rating_and_comments(proto.review.score))
     
     # Cinematography
     if proto.review.cinematography.comments != "":
-        review.append(proto.review.cinematography.comments)
-
-    # Sound
-    if proto.review.sound != "":
-        review.append(proto.review.sound)
+        review.append(combine_rating_and_comments(proto.review.cinematography))
 
     # Editing
     if proto.review.editing.comments != "":
-        review.append(proto.review.editing.comments)
+        review.append(combine_rating_and_comments(proto.review.editing))
+
+    # Sound
+    if proto.review.sound.comments != "":
+        review.append(combine_rating_and_comments(proto.review.sound))
     
     # Visual Effects
-    if proto.review.visual_effects != "":
-        review.append(proto.review.visual_effects)
+    if proto.review.visual_effects.comments != "":
+        review.append(combine_rating_and_comments(proto.review.visual_effects))
     
     # Production Design
-    if proto.review.production_design != "":
-        review.append(proto.review.production_design)
+    if proto.review.production_design.rating != "":
+        review.append(combine_rating_and_comments(proto.review.production_design))
 
     # Makeup
-    if proto.review.makeup != "":
-        review.append(proto.review.makeup)
+    if proto.review.makeup.rating != "":
+        review.append(combine_rating_and_comments(proto.review.makeup))
+        review.append(proto.review.makeup.comments)
 
     # Costumes
-    if proto.review.costumes != "":
-        review.append(proto.review.costumes)
+    if proto.review.costumes.rating != "":
+        review.append(combine_rating_and_comments(proto.review.costumes))
+        review.append(proto.review.costumes.comments)
 
     # Plot Structure
     if proto.review.plot_structure != "":
@@ -419,32 +434,37 @@ def reviews_sorted():
     return df.to_string(index=False)
 
 def sanity_check(proto):
+    if isinstance(proto, movie_pb2.MovieFree):
+        if proto.review == "":
+            raise ValueError("Free format needs to have text")
+        return
+
     # Checking if tiers are finished
-    if proto.review.direction.comments.startswith("Direction"):
+    if proto.review.direction.rating == "TODO":
         raise ValueError("Direction needs to be given a tier")
     acting = proto.review.acting
-    for actor in proto.review.acting.actor:
-        if actor.comments.startswith("from {}".format(actor.name)):
-            raise ValueError("{} needs to be given a tier".format(actor.name))
-    if acting.comments.startswith("from the rest of the cast"):
+    for performance in proto.review.acting.performance:
+        if performance.rating == "TODO":
+            raise ValueError("{} needs to be given a tier".format(performance.actor.name))
+    if acting.cast.rating == "TODO":
         raise ValueError("Acting cast needs to be given a tier")
-    if proto.review.story.comments.startswith("Story"):
+    if proto.review.story.rating == "TODO":
         raise ValueError("Story needs to be given a tier")
-    if proto.review.screenplay.comments.startswith("Screenplay"):
+    if proto.review.screenplay.rating == "TODO":
         raise ValueError("Screenplay needs to be given a tier")
-    if proto.review.score.comments.startswith("Score"):
+    if proto.review.score.rating == "TODO":
         raise ValueError("Score needs to be given a tier")
-    if proto.review.cinematography.comments.startswith("Cinematography"):
+    if proto.review.cinematography.rating == "TODO":
         raise ValueError("Cinematography needs to be given a tier")
-    if proto.review.sound.startswith("Sound"):
-        raise ValueError("Sound needs to be given a tier")
-    if proto.review.editing.comments.startswith("Editing"):
+    if proto.review.editing.rating == "TODO":
         raise ValueError("Editing needs to be given a tier")
-    if proto.review.production_design.startswith("Production Design"):
+    if proto.review.sound.rating == "TODO":
+        raise ValueError("Sound needs to be given a tier")
+    if proto.review.production_design.rating == "TODO":
         raise ValueError("Production Design needs to be given a tier")
-    if proto.review.makeup.startswith("Makeup"):
+    if proto.review.makeup.rating == "TODO":
         raise ValueError("Makeup needs to be given a tier")
-    if proto.review.costumes.startswith("Costumes"):
+    if proto.review.costumes.rating == "TODO":
         raise ValueError("Costumes needs to be given a tier")
     
     # Checking if notes are complete

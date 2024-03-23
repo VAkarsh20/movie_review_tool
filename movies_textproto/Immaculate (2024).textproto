@@ -1,0 +1,93 @@
+title: "Immaculate"
+rating: 7.2
+review {
+  direction {
+    director {
+      name: "Michael Mohan"
+    }
+    rating: "Pretty Good to Good"
+    comments: "Direction (The direction on a macroscale is good as they set the setting well (especially in the covenant and the countryside) and illicit engaging horror; the direction on a  microscale is pretty good as you see how the conflict is unraveling and how it affects the characters (though some of the direction of actors was a bit monotonous at times); storytelling is pretty good as they slowly unravel what is going wrong and why it is happening; he builds tension well as the horror moments are executed very well, especially towards the end, but the movie does heavily rely on jump scares)"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Sydney Sweeney"
+      }
+      rating: "Pretty Good"
+      comments: "from Sydney Sweeney (Even though she is pretty monotonous in the first half of the movie, clearly hitting an acting limit at times, she really comes into her own as a scream queen in the second half and opens up her toolbelt with the emotions she can convey (especially in the final sequence))"
+    }
+    performance {
+      actor {
+        name: "\303\201lvaro Morte"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "from \303\201lvaro Morte (Has a good dynamic with Sweeney throughout the movie, even when their relationship is changing)"
+    }
+    cast {
+      rating: "Decent to Pretty Good"
+      comments: "from the rest of the cast (Everyone plays their role well as they really buttress Sweeney in showing her importance in the covenant)"
+    }
+    comments: "Decent to Pretty Good Acting"
+  }
+  story {
+    writer {
+      name: "Andrew Lobel"
+    }
+    rating: "Pretty Good"
+    comments: "Story (The concept is decent for a horror movie as it uses biblical tones to set up the conflict; the plot structure is laid out well; the flow between sequences is good; character writing is as good as it could get with its short runtime because it mainly focuses on Sweeney's character and how her opinion of the covenant is changing the longer she's in it, but the writing for Morte's character is decent even though it is formulaic)"
+  }
+  screenplay {
+    writer {
+      name: "Andrew Lobel"
+    }
+    rating: "Decent"
+    comments: "Screenplay (The dialogue is decent; the symbolism is about as much as you're gonna get for the subject matter; the foreshadowing is decent (but kinda uses your knowledge that the movie is a horror movie to lay down these roots))"
+  }
+  score {
+    composer {
+      name: "Will Bates"
+    }
+    rating: "Pretty Good"
+    comments: "Score (Has both horror and catholic tones to help set the mood and drive the horror)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Elisha Christian"
+    }
+    rating: "Good"
+    comments: "Cinematography (Felt polished and used well in setting the scene and eliciting horror)"
+  }
+  editing {
+    editor {
+      name: "Christian Masini"
+    }
+    rating: "Pretty Good"
+    comments: "Editing (Used well in the horror sequences)"
+  }
+  sound {
+    rating: "Good"
+    comments: "Sound (A key driving factor in helped illicit horror as the movie heavily relies on jump scares, and the absence of sound really helps amplify this effect)"
+  }
+  visual_effects {
+    rating: "Pretty Good"
+    comments: "Visual Effects"
+  }
+  production_design {
+    rating: "Pretty Good"
+    comments: "Production Design (Helped establish the covenant)"
+  }
+  costumes {
+    rating: "Pretty Good"
+    comments: "Costumes (Helped establish the covenant)"
+  }
+  pacing: "Pacing is pretty good as the movie does not go through that much plot in its short runtime"
+  climax: "Climax is executed very well as the movie uses more horror techniques besides jump-scares to illicit fear from the audience (with the final sequence being very chilling)"
+  tone: "Tone is very similar to other catholic horror movies"
+  final_notes: "Saw the World Premiere at SXSW"
+  overall: "Overall, a pretty good catholic horror movie that is carried out by a pretty good performance from Sydney Sweeney and a well-executed climax, but the movie heavily relies on jump-scares to illicit fear"
+}
+release_year: 2024
+review_date: "03/12/2024"
+redux: false
+id: 428
+imdb_id: "tt23137390"

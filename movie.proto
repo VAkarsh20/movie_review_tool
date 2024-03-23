@@ -17,6 +17,109 @@ message Movie {
         message Person {
             string name = 1;
             optional string imdb_id = 2;
+            optional string comments = 3; // Deprecated
+        }
+
+        message GenericCategory {
+            optional string rating = 1;
+            optional string comments = 2;
+        }
+
+        message Direction {
+            repeated Person director = 1;
+            optional string rating = 2;
+            optional string comments = 3;
+        }
+        
+        message Acting {
+            message Performance {
+                Person actor = 1;
+                string rating = 2;
+                string comments = 3;
+            }
+            repeated Performance performance = 1;
+            optional GenericCategory cast = 2;
+            optional string comments = 3;
+        }
+        
+        message Story {
+            repeated Person writer = 1;
+            optional string rating = 2;
+            optional string comments = 3;
+        }
+
+        message Screenplay {
+            repeated Person writer = 1;
+            optional string rating = 2;
+            optional string comments = 3;
+        }
+
+        message Score {
+            repeated Person composer = 1;
+            optional string rating = 2;
+            optional string comments = 3;
+        }
+
+        message Cinematography {
+            repeated Person cinematographer = 1;
+            optional string rating = 2;
+            optional string comments = 3;
+        }
+
+        message Editing {
+            repeated Person editor = 1;
+            optional string rating = 2;
+            optional string comments = 3;
+        }
+
+        optional Direction direction = 1;
+        optional Acting acting = 2;
+        optional Story story = 3;
+        optional Screenplay screenplay = 4;
+        optional Score score = 5;
+        optional Cinematography cinematography = 6;
+        optional Editing editing = 7;
+        optional GenericCategory sound = 8;
+        optional GenericCategory visual_effects = 9;
+        optional GenericCategory production_design = 10;
+        optional GenericCategory makeup = 11;
+        optional GenericCategory costumes = 12;
+        optional string plot_structure = 13;
+        optional string pacing = 14;
+        optional string climax = 15;
+        optional string tone = 16;
+        optional string final_notes = 17;
+        optional string overall = 18;
+    }
+}
+
+// Free Format
+message MovieFree {
+    string title = 1;
+    double rating = 2;
+    optional string review = 3;
+    int32 release_year = 4;
+    optional string review_date = 5;
+    optional bool redux = 6;
+    int32 id = 7;
+    string imdb_id = 8;
+}
+
+message MovieOldFormat {
+    string title = 1;
+    double rating = 2;
+    optional Review review = 3;
+    int32 release_year = 4;
+    optional string review_date = 5;
+    optional bool redux = 6;
+    int32 id = 7;
+    string imdb_id = 8;
+
+    message Review {
+        
+        message Person {
+            string name = 1;
+            optional string imdb_id = 2;
             optional string comments = 3;
         }
 
@@ -76,16 +179,3 @@ message Movie {
         optional string overall = 18;
     }
 }
-
-// Free Format
-message MovieFree {
-    string title = 1;
-    double rating = 2;
-    optional string review = 3;
-    int32 release_year = 4;
-    optional string review_date = 5;
-    optional bool redux = 6;
-    int32 id = 7;
-    string imdb_id = 8;
-}
-

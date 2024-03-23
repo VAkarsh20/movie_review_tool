@@ -1,0 +1,92 @@
+title: "Sasquatch Sunset"
+rating: 6.1
+review {
+  direction {
+    director {
+      name: "Nathan Zellner"
+    }
+    director {
+      name: "David Zellner"
+    }
+    rating: "Decent to Pretty Good"
+    comments: "Direction (The direction on a macroscale is pretty good as they set the scenic shots well and show the beauty in secluded nature; the direction on a microscale is decent as they get a lot out of their actors through action-based acting (because there’s no dialogue); storytelling is very slice-of-life (making it feel somewhat like a documentary), but there are some moments where they try to move the story forward))"
+  }
+  acting {
+    cast {
+      rating: "Pretty Good"
+      comments: "from the cast (The whole cast acted as a unit to portray Sasquatches going about their day, and showed how they do have a good amount of humanity to them)"
+    }
+    comments: "Pretty Good Acting"
+  }
+  story {
+    writer {
+      name: "David Zellner"
+    }
+    rating: "Decent to Pretty Good"
+    comments: "Story (The concept is interesting as it’s a slice of life look into sasquatches (which helps give them humanity and show parallels to humans); the plot structure is not really present as the movie tries to be mostly slice of life, while also shoving in shock and grotesque humor; flow between sequences is pretty bad as lot of the movie feels disjointed; character writing is decent as it helps show the parallels between humans and sasquatches)"
+  }
+  screenplay {
+    writer {
+      name: "David Zellner"
+    }
+    rating: "Decent"
+    comments: "Screenplay (the humor is pretty overt as they try super hard to shock and show grotesque subjects (with this sometimes hitting and sometimes not); the symbolism is decent as it’s about looking at humanity from the lens of Sasquatch; the foreshadowing is nonexistent)"
+  }
+  score {
+    composer {
+      name: "The Octopus Project"
+    }
+    rating: "Pretty Good"
+    comments: "Score (Used well in the establishing shots)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Mike Gioulakis"
+    }
+    rating: "Pretty Good to Good"
+    comments: "Cinematography (Used well in the scenic/nature shots as it helped make the movie seem like a documentary)"
+  }
+  editing {
+    editor {
+      name: "Nathan Zellner"
+    }
+    editor {
+      name: "David Zellner"
+    }
+    editor {
+      name: "Daniel Tarr"
+    }
+    rating: "Pretty Good"
+    comments: "Editing (The way they cut the movie gave it a nature doc feel)"
+  }
+  sound {
+    rating: "Pretty Good"
+    comments: "Sound (Helped show the actions of the characters)"
+  }
+  visual_effects {
+    rating: "Decent"
+    comments: "Visual Effects (Uses Practice effects well)"
+  }
+  production_design {
+    rating: "Pretty Good"
+    comments: "Production Design (The nature setting is nice and helps show the wilderness)"
+  }
+  makeup {
+    rating: "Very Good"
+    comments: "Makeup (Good use of full body makeup)"
+  }
+  costumes {
+    rating: "Very Good"
+    comments: "Costumes (Good use of costumes to make the actors look like sasquatches)"
+  }
+  pacing: "Pacing is very slow as a lot of the movie drags with its elongated/repetitive scenes"
+  climax: "Climax is decent but just feels like a continuation of the rest of the movie"
+  tone: "Tone is very similar to nature documentaries (with some comedic flavors)"
+  final_notes: "This movie was really not for me with the excessive bodily fluids and grotesque scenes; saw the Texas Premiere at SXSW"
+  overall: "Overall, a decent film that mimics a nature documentary as we use to lens of the camera to look into the lives of sasquatches and how they parallel humans, but this movie was not really for me because of the excessive use of bodily fluids and grotesque comedy"
+}
+release_year: 2024
+review_date: "03/11/2024"
+redux: false
+id: 426
+imdb_id: "tt30180830"

@@ -1,0 +1,95 @@
+title: "Cuckoo"
+rating: 5.7
+review {
+  direction {
+    director {
+      name: "Tilman Singer"
+    }
+    rating: "Decent"
+    comments: "Direction (The direction on a macroscale is good as the horror elements are laid out well (even though there are moments where he tries to do a lot); the direction on a microscale is Bad as a lot of the performances do not feel that elevated, and some of the interpersonal scenes feel kinda off/forced; the storytelling is not the best as the conflict is not really explained that well (even though they try to explain it); he builds tension well as the movie is pretty good on a horror/action scale)"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Hunter Schafer"
+      }
+      rating: "Pretty Bad"
+      comments: "from Hunter Schafer (Shows she has some tools to make her a good actress, but it feels like she hits an acting limit in a lot of the interpersonal/emotional scenes because her energy is off from what is needed)"
+    }
+    performance {
+      actor {
+        name: "Dan Stevens"
+      }
+      rating: "Decent"
+      comments: "from Dan Stevens (Plays the antagonist well and holds his demeanor in a very sinister, yet calm way)"
+    }
+    performance {
+      actor {
+        name: "Jessica Henwick"
+      }
+      rating: "Decent"
+      comments: "from Jessica Henwick (She's really just there in this movie)"
+    }
+    cast {
+      rating: "Pretty Bad to Decent"
+      comments: "from the rest of the cast (Some actors do have a significant impact on the movie, but some show inexperience and a lack of chemistry; the child actor does a pretty good job with what she is given)"
+    }
+    comments: "Pretty Bad to Decent Acting"
+  }
+  story {
+    writer {
+      name: "Tilman Singer"
+    }
+    rating: "Decent"
+    comments: "Story (The concept is interesting but a bit convoluted as they try to explain the conflict, but its not done is a coherent way; the plot structure is decent; flow between sequences is not the best in the beginning but gets better towards the halfway point; the character writing is good as they do a good job at showing the different conflicts the protagonist are going through, as well as giving different dimensions to the antagonist and minor characters))"
+  }
+  screenplay {
+    writer {
+      name: "Tilman Singer"
+    }
+    rating: "Pretty Bad"
+    comments: "Screenplay (The dialogue is a little off and not that natural, but overall is decent; the humor is a bit forced, but it is fine for the most part; the symbolism is somewhat there; the foreshadowing is somewhat there, but could be better)"
+  }
+  score {
+    composer {
+      name: "Simon Waskow"
+    }
+    rating: "Decent"
+    comments: "Score (Used well to establish the tone and build tension in the horror moments)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Paul Faltz"
+    }
+    rating: "Decent"
+    comments: "Cinematography"
+  }
+  editing {
+    editor {
+      name: "Terel Gibson"
+    }
+    editor {
+      name: "Philipp Thomas"
+    }
+    rating: "Pretty Bad"
+    comments: "Editing (I was not really a fan of how they used the ripple effects to show supernatural powers because I felt it was pretty tacky)"
+  }
+  sound {
+    rating: "Pretty Good"
+    comments: "Sound (Helps emphasize the horror and supernatural elements)"
+  }
+  visual_effects {
+    rating: "Pretty Bad"
+    comments: "Visual Effects (Feels kinda tacky and low-budget, especially during the supernatural moments)"
+  }
+  pacing: "Pacing is a bit on the slower side for most of the movie (but the movie does find a good pace towards the end)"
+  climax: "Climax is executed well as it definitely was the scariest part (and it felt like all the elements were finally coming together)"
+  tone: "Tone was very similar to other supernatural horror movies"
+  final_notes: "Saw the International Premiere at SXSW; This movie does have tools to be a good horror movie (but it just feels like this was a test run for a very new director, I would love to see him do a follow-up where he learns from this experience)"
+  overall: "Overall, a film that has the elements to be a good horror movie as everything begins to click by the climax, but the movie is held back by its convoluted concept/storytelling and mediocre performances"
+}
+release_year: 2024
+review_date: "03/14/2024"
+redux: false
+id: 431
+imdb_id: "tt12349832"

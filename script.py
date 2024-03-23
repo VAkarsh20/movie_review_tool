@@ -102,7 +102,8 @@ def fill_in_acting(comments):
 
     def fill_in_acting_comments(actors_dict, comment):
         if "from the rest of the cast" in comment:
-            proto.review.acting.cast = comment
+            cast = movie_pb2.Movie.Review.GenericCategory(rating = "TODO", comments=comment)
+            proto.review.acting.cast = cast
             return True
         else:
             name = comment.partition("from ")[-1]
@@ -694,17 +695,24 @@ if __name__=="__main__":
 
     argc = len(sys.argv)
 
+    movie = review_tool.create_proto()
+    review_tool.write_proto(movie)
+    movie = review_tool.read_proto("Dune Part 2 (2024)")
+    print(review_tool.print_review(movie, "Dune Part 2 (2024)"))
+
+    print(review_tool.sanity_check(movie))
+
     # print(wikipedia.WikipediaPage(title="Home_Alone").references)
-    wiki_en = wikipediaapi.Wikipedia('Review Tool', 'en')
-    page = wiki_en.page('Home Alone')
+    # wiki_en = wikipediaapi.Wikipedia('Review Tool', 'en')
+    # page = wiki_en.page('Home Alone')
 
-    def print_infobox(page):
-        templates = page.templates
-        for title in sorted(templates.keys()):
-            if "Infobox" in title:
-                print(title, templates[title])
+    # def print_infobox(page):
+    #     templates = page.templates
+    #     for title in sorted(templates.keys()):
+    #         if "Infobox" in title:
+    #             print(title, templates[title])
 
-    print_infobox(page)
+    # print_infobox(page)
     # infobox = so.data['infobox']
     # print(infobox)
 
