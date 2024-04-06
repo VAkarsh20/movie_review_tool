@@ -17,6 +17,8 @@ import multiprocessing as mp
 import subprocess
 import re
 import copy
+from utils.proto_utils import *
+from utils.print_utils import *
 
 def get_wiki_info():
     
@@ -140,7 +142,7 @@ def get_acting(infobox):
     acting.cast.CopyFrom(get_generic("from the rest of the cast ()"))
 
     # Overall Comments on Acting
-    acting.comments = " Acting"
+    acting.comments = ""
 
     return acting
 
@@ -247,168 +249,6 @@ def create_proto(redux=False):
 def create_proto_free(redux=False):
     title, imdb_id, infobox = get_wiki_info()
     return movie_pb2.MovieFree(title=title, rating=0.1, review="", release_year = find_release_year(infobox), review_date = find_review_date(), redux=redux, id=set_id(imdb_id, redux), imdb_id=imdb_id)
-
-
-def write_proto(proto):
-
-    filename = (proto.title + " ({})".format(proto.release_year) + ".textproto").replace(":","").replace("/", " ").replace("?", "")
-    path = ("movies_textproto/" + filename)
-    if not os.path.exists(filename):
-        with open(path, "w") as fd:
-            text_proto = text_format.MessageToString(proto)
-            fd.write(text_proto)
-    else:
-        print("File already exists! Either choose different file or move current to redux.")
-
-def read_proto(filename):
-    with open("movies_textproto/" + filename + ".textproto", "r") as fd:
-        text_proto = fd.read()
-        
-        fd.seek(0)
-        if len(fd.readlines()) <= 8:
-            return text_format.Parse(text_proto, movie_pb2.MovieFree())
-        else: 
-            # TODO: Try Catch for old Proto Format
-            return text_format.Parse(text_proto, movie_pb2.Movie())
-
-def print_redux_review(redux_proto, filename):
-    
-    #Format is REDUX (YEAR): <Review>. ORIGINAL (RATING, YEAR): <Review>. 
-    redux = "REDUX {}: ".format(redux_proto.review_date) + print_review(redux_proto, "")
-    original_proto = read_proto("reduxed/" + filename)
-    original = " ORIGINAL ({}, {}): ".format(original_proto.rating, original_proto.review_date) + print_review(original_proto, "")    
-    return redux + original
-
-def print_short_redux_review(redux_proto, filename):
-    
-    #Format is REDUX (YEAR): <Review>. ORIGINAL (RATING, YEAR): <Review>. 
-    redux = "REDUX ({})\n{}\n\n".format(redux_proto.review_date, print_short_review(redux_proto, ""))
-    original_proto = read_proto("reduxed/" + filename)
-    original = "ORIGINAL ({})\n{}".format(original_proto.review_date, print_short_review(original_proto, ""))  
-    return redux + original
-
-def print_short_review(proto, filename):
-    if proto.redux == True and filename != "":
-        return print_short_redux_review(proto, filename)
-    
-    if isinstance(proto, movie_pb2.MovieFree):
-        return "Rating: {}\n{}".format(proto.rating, proto.review)
-    else:
-        return "Rating: {}\n{}.".format(proto.rating, proto.review.overall)
-    
-def combine_rating_and_comments(field):
-    return "{} {}".format(field.rating, field.comments)
-
-def combine_review_fields(proto, filename):
-    
-    review = []
-    
-    # Direction
-    if proto.review.direction != "":
-        review.append(combine_rating_and_comments(proto.review.direction))
-    
-    # Acting
-    if proto.review.acting != "":
-        acting = proto.review.acting.comments + " ("
-        for actor in proto.review.acting.performance:
-            acting += "{}, ".format(combine_rating_and_comments(actor))
-        acting += combine_rating_and_comments(proto.review.acting.cast) + ")"
-        review.append(acting)
-
-    # Story
-    if proto.review.story.comments != "":
-        review.append(combine_rating_and_comments(proto.review.story))
-
-    # Screenplay
-    if proto.review.screenplay.comments != "":
-        review.append(combine_rating_and_comments(proto.review.screenplay))
-
-    # Score
-    if proto.review.score.comments != "":
-        review.append(combine_rating_and_comments(proto.review.score))
-    
-    # Cinematography
-    if proto.review.cinematography.comments != "":
-        review.append(combine_rating_and_comments(proto.review.cinematography))
-
-    # Editing
-    if proto.review.editing.comments != "":
-        review.append(combine_rating_and_comments(proto.review.editing))
-
-    # Sound
-    if proto.review.sound.comments != "":
-        review.append(combine_rating_and_comments(proto.review.sound))
-    
-    # Visual Effects
-    if proto.review.visual_effects.comments != "":
-        review.append(combine_rating_and_comments(proto.review.visual_effects))
-    
-    # Production Design
-    if proto.review.production_design.rating != "":
-        review.append(combine_rating_and_comments(proto.review.production_design))
-
-    # Makeup
-    if proto.review.makeup.rating != "":
-        review.append(combine_rating_and_comments(proto.review.makeup))
-        review.append(proto.review.makeup.comments)
-
-    # Costumes
-    if proto.review.costumes.rating != "":
-        review.append(combine_rating_and_comments(proto.review.costumes))
-        review.append(proto.review.costumes.comments)
-
-    # Plot Structure
-    if proto.review.plot_structure != "":
-        review.append(proto.review.plot_structure)
-    
-    # Pacing
-    if proto.review.pacing != "":
-        review.append(proto.review.pacing)
-
-    # Climax
-    if proto.review.climax != "":
-        review.append(proto.review.climax)
-
-    # Tone
-    if proto.review.tone != "":
-        review.append(proto.review.tone)
-    
-    # Final Notes
-    if proto.review.final_notes != "":
-        review.append(proto.review.final_notes)
-
-    review = ", ".join(review)
-    return review
-
-def print_review(proto, filename):
-
-    if proto.redux == True and filename != "":
-        return print_redux_review(proto, filename)
-
-    if isinstance(proto, movie_pb2.MovieFree):
-        return proto.review
-
-    review = combine_review_fields(proto, filename)
-    review += ". "
-
-    review += proto.review.overall + "."
-
-    return review
-
-# Create the review to be put in a format for IMDb
-def print_imdb_review(proto, filename):
-    review = print_short_review(proto, filename)
-    
-    if isinstance(proto, movie_pb2.Movie):
-
-        full_review = combine_review_fields(proto, filename)
-
-        review_parts = review.split("\n\n")
-        review_parts.insert(1, "\n\n{}\n\n".format(full_review))
-
-        review = "".join(review_parts)
-
-    return review.rstrip()
 
 # TODO: Redux is not created for Home Alone 2
 def move_redux_reviews(filename):

@@ -1,0 +1,114 @@
+title: "Godzilla x Kong: The New Empire"
+rating: 5.5
+review {
+  direction {
+    director {
+      name: "Adam Wingard"
+    }
+    rating: "Pretty Bad"
+    comments: "Direction (The direction is only good on a macroscale because the movie is only about building this vast mythical world and the massive fight scenes; the direction on a microscale is pretty formulaic and bland as many of the performances just feel like they fill time; the storytelling is not good as the movie does not create a coherent story, it just feels like they force a bunch of plot points together)"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Rebecca Hall"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "from Rebecca Hall (Plays the lead decently well and holds her own in getting the most out of the rest of the cast)"
+    }
+    performance {
+      actor {
+        name: "Brian Tyree Henry"
+      }
+      rating: "Decent"
+      comments: "from Brian Tyree Henry (Really tries his best to be the comedic relief character, but he just isn't given good material to work with so he misses his jokes a lot)"
+    }
+    performance {
+      actor {
+        name: "Dan Stevens"
+      }
+      rating: "Decent"
+      comments: "from Dan Stevens (Has charisma that makes his character likable)"
+    }
+    performance {
+      actor {
+        name: "Kaylee Hottle"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "from Kaylee Hottle (Does a pretty good job at being the emotional vulnerability in the movie and how she is a conduit between different groups)"
+    }
+    cast {
+      rating: "Pretty Bad"
+      comments: "from the rest of the cast (Just a bunch of formulaic, tent-pole performances)"
+    }
+    comments: "Decent Acting"
+  }
+  story {
+    writer {
+      name: "Terry Rossio"
+    }
+    writer {
+      name: "Adam Wingard"
+    }
+    writer {
+      name: "Simon Barrett"
+    }
+    rating: "Bad"
+    comments: "Story (The concept is so stupid because it just has dumb plot points, like the first 20 minutes of the movie is about how Kong has a toothache; the plot structure is a complete mess as they focus way too much on Kong that this movie feels like Kong ft Godzilla; the character writing for the humans is very shallow and formulaic, the character writing for Godzilla is very shallow as he's just there, the character writing for Kong and the apes is pretty good as its all about finding a home)"
+  }
+  screenplay {
+    writer {
+      name: "Terry Rossio"
+    }
+    writer {
+      name: "Simon Barrett"
+    }
+    writer {
+      name: "Jeremy Slater"
+    }
+    rating: "Bad"
+    comments: "Screenplay (The dialogue is very stupid; the humor is pretty bad because it has a high miss rate; the symbolism is kinda forced, but surprising present despite how shallow it is; the foreshadowing makes the movie predictable)"
+  }
+  score {
+    composer {
+      name: "Tom Holkenborg"
+    }
+    composer {
+      name: "Antonio Di Iorio"
+    }
+    rating: "Decent"
+    comments: "Score"
+  }
+  cinematography {
+    cinematographer {
+      name: "Ben Seresin"
+    }
+    rating: "Good"
+    comments: "Cinematography (I don't know why they used IMAX cameras but they used it well and helped show this mythical world)"
+  }
+  editing {
+    editor {
+      name: "Josh Schaeffer"
+    }
+    rating: "Good"
+    comments: "Editing"
+  }
+  sound {
+    rating: "Very Good"
+    comments: "Sound (Really helped bring to life the monsters and titans (especially Godzilla and Kong))"
+  }
+  visual_effects {
+    rating: "Good to Very Good"
+    comments: "Visual Effects (This movie is really about the visual effects as it helps bring to life the world, the monsters, and their fight scenes)"
+  }
+  pacing: "Pacing is incredibly slow as this movie feels like it drags (the first hour just feels like exposition); the runtime could've been 20 minutes longer to help show the relationship between Godzilla and Kong because it is very forced"
+  climax: "Climax is very short even though it is well executed (Godzilla and Kong are only in the movie for like 20 minutes together)"
+  tone: "Tone is just a stereotypical action monster movie (very Michael Bay-like)"
+  final_notes: "This movie is Kong ft Godzilla because the two are only on-screen together for like 20 minutes and their relationship is super forced"
+  overall: "Overall, a very stupid movie that has a dumb plot because the movie just feels like Kong ft Godzilla, but has some merit in watching with its visual effects, cinematography, and grand monster-filled fight scenes"
+}
+release_year: 2024
+review_date: "03/30/2024"
+redux: false
+id: 436
+imdb_id: "tt14539740"

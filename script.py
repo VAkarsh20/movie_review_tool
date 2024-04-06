@@ -19,6 +19,8 @@ import threading
 import re
 from tqdm import tqdm
 import multiprocessing as mp
+from utils.proto_utils import *
+from utils.print_utils import *
 
 def create_df():
 
