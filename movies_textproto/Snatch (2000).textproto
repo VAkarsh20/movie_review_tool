@@ -5,42 +5,53 @@ review {
     director {
       name: "Guy Ritchie"
     }
-    comments: "Decent Direction (Able to progress the story forward and cuts the film very well, but pretty inconsistent in terms of setting tone and getting the most from his actors)"
+    rating: "Decent"
+    comments: "Able to progress the story forward and cuts the film very well, but pretty inconsistent in terms of setting tone and getting the most from his actors"
   }
   acting {
-    cast: "Decent to Pretty Good from the rest of the cast (The cast as a whole is judged as it was more of an ensemble effort for the characters to help progress the story forward (Some performances to highlight were Brad Pitt in his ability to play a Pikey very well and Jason Statham who is not his typical tough guy character (though he does show a bit of inexperience with his acting)))"
-    comments: "Decent to Pretty Good Acting"
+    cast {
+      rating: "Decent to Pretty Good"
+      comments: "The cast as a whole is judged as it was more of an ensemble effort for the characters to help progress the story forward (Some performances to highlight were Brad Pitt in his ability to play a Pikey very well and Jason Statham who is not his typical tough guy character (though he does show a bit of inexperience with his acting))"
+    }
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
       name: "Guy Ritchie"
     }
-    comments: "Good to Very Good Story (Does a good job in having the different parallel story lines converge at different points to show how they were all going after the same goal but in different ways)"
+    rating: "Good to Very Good"
+    comments: "Does a good job in having the different parallel story lines converge at different points to show how they were all going after the same goal but in different ways"
   }
   screenplay {
     writer {
       name: "Guy Ritchie"
     }
-    comments: "Good Screenplay (A bit repetitive at times but there were some good foreshadowing and symbolism that was surprising for a movie like this; also the jokes and dialogue were a bit simple, but it was overall pretty enjoyable)"
+    rating: "Good"
+    comments: "A bit repetitive at times but there were some good foreshadowing and symbolism that was surprising for a movie like this; also the jokes and dialogue were a bit simple, but it was overall pretty enjoyable"
   }
   score {
     composer {
       name: "John Murphy"
     }
-    comments: "Good Score (really helped fit and set the tone for the movie)"
+    rating: "Good"
+    comments: "Really helped fit and set the tone for the movie"
   }
   cinematography {
     cinematographer {
       name: "Tim Maurice-Jones"
     }
-    comments: "Good Cinematography (helped in setting the distinctive editing sequences, though the filter made it a bit hard to see the film)"
+    rating: "Good"
+    comments: "Helped in setting the distinctive editing sequences, though the filter made it a bit hard to see the film"
   }
-  sound: "Pretty Good Sound"
   editing {
     editor {
       name: "Jon Harris"
     }
-    comments: "Great Editing (was a bit amateur at first but really helped in showing why the fast-cutting/hip-hop montage were a main-stay in the early 00s)"
+    rating: "Great"
+    comments: "Was a bit amateur at first but really helped in showing why the fast-cutting/hip-hop montage were a main-stay in the early 00s"
+  }
+  sound {
+    rating: "Pretty Good"
   }
   plot_structure: "Plot Structure was unique as it was different parallel story-lines converging at different points in the story with each having their own plot structure"
   pacing: "Pacing was incredibly fast so it was a bit hard to keep up (though this was the point of the movie so it is fine with me)"

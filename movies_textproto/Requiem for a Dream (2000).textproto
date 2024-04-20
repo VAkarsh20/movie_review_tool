@@ -5,27 +5,42 @@ review {
     director {
       name: "Darren Aronofsky"
     }
-    comments: "Great to Incredible Direction (Aronofsky is able to get memorable performances out of his actors as they are elevated through is script, use of symbolism, and unique editing and cinematography)"
+    rating: "Great to Incredible"
+    comments: "Aronofsky is able to get memorable performances out of his actors as they are elevated through is script, use of symbolism, and unique editing and cinematography"
   }
   acting {
-    actor {
-      name: "Ellen Burstyn"
-      comments: "Brilliant from Ellen Burstyn (Delivers a career rebirth through this performance as she is able to completely transform herself into a fractured mother still looking to keep hold of her family that is fading away from her)"
+    performance {
+      actor {
+        name: "Ellen Burstyn"
+      }
+      rating: "Brilliant"
+      comments: "Delivers a career rebirth through this performance as she is able to completely transform herself into a fractured mother still looking to keep hold of her family that is fading away from her"
     }
-    actor {
-      name: "Jared Leto"
-      comments: "Very Good from Jared Leto (Shows promise throughout the movie as he was able to handle the emotional moments very well (though does falter at times for a bit of a newer actor))"
+    performance {
+      actor {
+        name: "Jared Leto"
+      }
+      rating: "Very Good"
+      comments: "Shows promise throughout the movie as he was able to handle the emotional moments very well (though does falter at times for a bit of a newer actor)"
     }
-    actor {
-      name: "Jennifer Connelly"
-      comments: "Very Good to Great from Jennifer Connelly (A performance that really helped shift her career in a different direction as she embodies an individual who is slowly becoming numb as she succumbs to her addictions)"
+    performance {
+      actor {
+        name: "Jennifer Connelly"
+      }
+      rating: "Very Good to Great"
+      comments: "A performance that really helped shift her career in a different direction as she embodies an individual who is slowly becoming numb as she succumbs to her addictions"
     }
-    actor {
-      name: "Marlon Wayans"
-      comments: "Good to Very Good from Marlon Waynes (A surprisingly good performance from the known comedic actor as he steps out of his comfort zone to play his character very well)"
+    performance {
+      actor {
+        name: "Marlon Wayans"
+      }
+      rating: "Good to Very Good"
+      comments: "A surprisingly good performance from the known comedic actor as he steps out of his comfort zone to play his character very well"
     }
-    cast: "Pretty Bad to Decent from the rest of the cast"
-    comments: "Great Acting"
+    cast {
+      rating: "Pretty Bad to Decent"
+    }
+    rating: "Great"
   }
   story {
     writer {
@@ -34,7 +49,8 @@ review {
     writer {
       name: "Darren Aronofsky"
     }
-    comments: "Incredible Story (Very well structured as we get to see how the characters slowly decline and succumb to their addictions)"
+    rating: "Incredible"
+    comments: "Very well structured as we get to see how the characters slowly decline and succumb to their addictions"
   }
   screenplay {
     writer {
@@ -43,26 +59,33 @@ review {
     writer {
       name: "Darren Aronofsky"
     }
-    comments: "Great to Incredible Screenplay (Filled with great symbolism and imagery as well as great dialogue for the most part, there are some very questionable moments however)"
+    rating: "Great to Incredible"
+    comments: "Filled with great symbolism and imagery as well as great dialogue for the most part, there are some very questionable moments however"
   }
   score {
     composer {
       name: "Clint Mansell"
     }
-    comments: "Incredible to Brilliant Score (really helped set the tone of the movie and is very iconic in its own-right)"
+    rating: "Incredible to Brilliant"
+    comments: "Really helped set the tone of the movie and is very iconic in its own-right"
   }
   cinematography {
     cinematographer {
       name: "Matthew Libatique"
     }
-    comments: "Incredible Cinematography (For the most part, as we get to see the camera help give perspective to the characters, though it can be very nauseating at times)"
+    rating: "Incredible"
+    comments: "For the most part, as we get to see the camera help give perspective to the characters, though it can be very nauseating at times"
   }
-  sound: "Very Good Sound (Helped show the routine the characters went through as using the drugs just became a habit for them, though some of the sound choices were a bit cartoony and out of place)"
   editing {
     editor {
       name: "Jay Rabinowitz"
     }
-    comments: "Incredible Editing (For the most part, the jump cuts and the scenes where the characters are getting high are very well conducted and helped create an artsy genre for the public to see, though some of the editing choices were questionable)"
+    rating: "Incredible"
+    comments: "For the most part, the jump cuts and the scenes where the characters are getting high are very well conducted and helped create an artsy genre for the public to see, though some of the editing choices were questionable"
+  }
+  sound {
+    rating: "Very Good"
+    comments: "Helped show the routine the characters went through as using the drugs just became a habit for them, though some of the sound choices were a bit cartoony and out of place"
   }
   plot_structure: "Plot Structure was great as the movie is just a constant build to the climax with no resolution (something that was an intended message for the characters)"
   pacing: "Pacing was extremely fast (and while this was an intention, it still kinda made it a bit hard to follow)"

@@ -5,53 +5,74 @@ review {
     director {
       name: "Steven Spielberg"
     }
-    comments: "Incredible to Brilliant Direction (The way he was able to conduct shots and scenes on a mass scale was a masterclass as it was truly a spectacle to watch the grotesque nature of war as it places its subjects into mass trauma; the interpersonal scenes were also well carried out as he is able to capture the trauma the characters are experiencing through World War II)"
+    rating: "Incredible to Brilliant"
+    comments: "The way he was able to conduct shots and scenes on a mass scale was a masterclass as it was truly a spectacle to watch the grotesque nature of war as it places its subjects into mass trauma; the interpersonal scenes were also well carried out as he is able to capture the trauma the characters are experiencing through World War II"
   }
   acting {
-    actor {
-      name: "Tom Hanks"
-      comments: "Great from Tom Hanks (does a great job in portraying the leader who has to move past his present trauma to lead his men (really commands all the scenes he is in))"
+    performance {
+      actor {
+        name: "Tom Hanks"
+      }
+      rating: "Great"
+      comments: "Does a great job in portraying the leader who has to move past his present trauma to lead his men (really commands all the scenes he is in)"
     }
-    actor {
-      name: "Matt Damon"
-      comments: "Very Good to Great from Matt Damon (Although he is not in the movie for long, he really does a good job in portraying the emotion of someone who has so much to live for yet has already lost so much)"
+    performance {
+      actor {
+        name: "Matt Damon"
+      }
+      rating: "Very Good to Great"
+      comments: "Although he is not in the movie for long, he really does a good job in portraying the emotion of someone who has so much to live for yet has already lost so much"
     }
-    cast: "Very Good to Great from the rest of the cast (everyone (even Vin Diesel) plays their part very well no matter how big or small it is)"
-    comments: "Very Good to Great Acting"
+    cast {
+      rating: "Very Good to Great"
+      comments: "Everyone (even Vin Diesel) plays their part very well no matter how big or small it is"
+    }
+    rating: "Very Good to Great"
   }
   story {
     writer {
       name: "Robert Rodat"
     }
-    comments: "Good Story (At its core it is pretty simple as it is just the characters going on a mission that they do not want to go on (but have to to serve their country); but the different elements of the character\'s journey was a good touch to see)"
+    rating: "Good"
+    comments: "At its core it is pretty simple as it is just the characters going on a mission that they do not want to go on (but have to to serve their country); but the different elements of the character\'s journey was a good touch to see"
   }
   screenplay {
     writer {
       name: "Robert Rodat"
     }
-    comments: "Great Screenplay (The dialogue was very well written and naturally flowed from the characters and the use of symbolism in trying to find purpose greater than one\'s self as well as dealing with trauma was very well written)"
+    rating: "Great"
+    comments: "The dialogue was very well written and naturally flowed from the characters and the use of symbolism in trying to find purpose greater than one\'s self as well as dealing with trauma was very well written"
   }
   score {
     composer {
       name: "John Williams"
     }
-    comments: "Very Good Score"
+    rating: "Very Good"
   }
   cinematography {
     cinematographer {
       name: "Janusz Kami\305\204ski"
     }
-    comments: "Incredible Cinematography (And this shows during the war scenes (especially D-Day))"
+    rating: "Incredible"
+    comments: "And this shows during the war scenes (especially D-Day)"
   }
-  sound: "Incredible Sound"
   editing {
     editor {
       name: "Michael Kahn"
     }
-    comments: "Great Editing"
+    rating: "Great"
   }
-  visual_effects: "Brilliant Visual Effects (Especially the ability to capture the gore of war)"
-  makeup: "Great Makeup (In helping show the dirt and gore of war)"
+  sound {
+    rating: "Incredible"
+  }
+  visual_effects {
+    rating: "Brilliant"
+    comments: "Especially the ability to capture the gore of war"
+  }
+  makeup {
+    rating: "Great"
+    comments: "In helping show the dirt and gore of war"
+  }
   plot_structure: "Plot Structure was managed well as the movie really starts with a 30 minute prologue of D-Day followed by the actual movie (which is well structured)"
   pacing: "Pacing was good for the most part (though some of the middle conflict could have been cut by like 10-15 minutes to help with length)"
   climax: "Build to climax was incredible as it shows the mission coming to a close (but not fully completed); climax was well executed as it really symbolizes the scarifies the characters make for the country and those who are and are not willing to put their body on the line to defend it"

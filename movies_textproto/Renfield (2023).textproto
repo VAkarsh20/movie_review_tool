@@ -5,53 +5,70 @@ review {
     director {
       name: "Chris McKay"
     }
-    comments: "Decent Direction (Pretty safe and formulaic in its storytelling and direction of actors, but does a good job in the action sequences)"
+    rating: "Decent"
+    comments: "Pretty safe and formulaic in its storytelling and direction of actors, but does a good job in the action sequences"
   }
   acting {
-    actor {
-      name: "Nicholas Hoult"
-      comments: "Pretty Good from Nicholas Hoult (Plays the anxious protagonist pretty well and commands the scenes he is in with a sense of charm)"
+    performance {
+      actor {
+        name: "Nicholas Hoult"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the anxious protagonist pretty well and commands the scenes he is in with a sense of charm"
     }
-    actor {
-      name: "Awkwafina"
-      comments: "Pretty Bad to Decent from Awkwafina (While her performance isn\'t bad, it is just pretty corny overall (which can kinda be a fault of the script and not her))"
+    performance {
+      actor {
+        name: "Awkwafina"
+      }
+      rating: "Pretty Bad to Decent"
+      comments: "While her performance isn\'t bad, it is just pretty corny overall (which can kinda be a fault of the script and not her)"
     }
-    actor {
-      name: "Ben Schwartz"
-      comments: "Pretty Bad to Decent from Ben Schwartz (It was just hard to believe him as the villain)"
+    performance {
+      actor {
+        name: "Ben Schwartz"
+      }
+      rating: "Pretty Bad to Decent"
+      comments: "It was just hard to believe him as the villain"
     }
-    actor {
-      name: "Nicolas Cage"
-      comments: "Good from Nicolas Cage (Really brings to life the character as it seems like this version of Dracula was written for him)"
+    performance {
+      actor {
+        name: "Nicolas Cage"
+      }
+      rating: "Good"
+      comments: "Really brings to life the character as it seems like this version of Dracula was written for him"
     }
-    cast: "Pretty Bad from the rest of the cast"
-    comments: "Pretty Bad to Decent Acting"
+    cast {
+      rating: "Pretty Bad"
+    }
+    rating: "Pretty Bad to Decent"
   }
   story {
     writer {
       name: "Robert Kirkman"
     }
-    comments: "Decent to Pretty Good Story (Even with a short runtime, it feels like most of the narrative was introduced and wrapped up in a succinct manner; the story was a bit predictable however)"
+    rating: "Decent to Pretty Good"
+    comments: "Even with a short runtime, it feels like most of the narrative was introduced and wrapped up in a succinct manner; the story was a bit predictable however"
   }
   screenplay {
     writer {
       name: "Ryan Ridley"
     }
-    comments: "Pretty Bad Screenplay (The dialogue was incredibly corny and very predictable at parts; the symbolism and message of the movie was kinda shallow and not really that compelling; foreshadowing was pretty standard)"
+    rating: "Pretty Bad"
+    comments: "The dialogue was incredibly corny and very predictable at parts; the symbolism and message of the movie was kinda shallow and not really that compelling; foreshadowing was pretty standard"
   }
   score {
     composer {
       name: "Marco Beltrami"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
   cinematography {
     cinematographer {
       name: "Mitchell Amundsen"
     }
-    comments: "Good Cinematography (Especially in the fight scenes)"
+    rating: "Good"
+    comments: "Especially in the fight scenes"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Ryan Folsey"
@@ -62,9 +79,15 @@ review {
     editor {
       name: "Zene Baker"
     }
-    comments: "Pretty Good Editing"
+    rating: "Pretty Good"
   }
-  visual_effects: "Good Visual Effects (Kinda cartoony/Video Game-esque but I enjoyed it)"
+  sound {
+    rating: "Good"
+  }
+  visual_effects {
+    rating: "Good"
+    comments: "Kinda cartoony/Video Game-esque but I enjoyed it"
+  }
   plot_structure: "Plot Structure was pretty standard and formulaic; the short runtime forces the movie to really follow a boilerplate to progress the story forward"
   pacing: "Pacing was incredibly fast because of the short runtime (this then becomes an issue because it does not have time to explore relationships they introduced (like the main love interest); it would have been nice to see 15 minutes added to just slow down the pace)"
   climax: "Climax was decent as it was a typical fight scene (but executed well)"

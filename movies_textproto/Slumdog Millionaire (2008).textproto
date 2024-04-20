@@ -8,61 +8,81 @@ review {
     director {
       name: "Loveleen Tandan"
     }
-    comments: "Incredible to Brilliant Direction"
+    rating: "Incredible to Brilliant"
   }
   acting {
-    actor {
-      name: "Dev Patel"
-      comments: "Great from Dev Patel"
+    performance {
+      actor {
+        name: "Dev Patel"
+      }
+      rating: "Great"
     }
-    actor {
-      name: "Freida Pinto"
-      comments: "Good from Freida Pinto"
+    performance {
+      actor {
+        name: "Freida Pinto"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Anil Kapoor"
-      comments: "Great from Anil Kapoor"
+    performance {
+      actor {
+        name: "Anil Kapoor"
+      }
+      rating: "Great"
     }
-    actor {
-      name: "Irrfan Khan"
-      comments: "Great from Irrfan Khan"
+    performance {
+      actor {
+        name: "Irrfan Khan"
+      }
+      rating: "Great"
     }
-    cast: "Pretty Good from the rest of the cast (Great from Kids, Good from adults, Decent from teenagers)"
-    comments: "Very Good Acting"
+    cast {
+      rating: "Pretty Good"
+      comments: "Great from Kids, Good from adults, Decent from teenagers"
+    }
+    rating: "Very Good"
   }
   story {
     writer {
       name: "Simon Beaufoy"
     }
-    comments: "Incredible Story (A mix of bollywood with hollywood in a telling of \'Indian\' Forrest Gump; also, the narrative and the story points molding together was extremely well done)"
+    rating: "Incredible"
+    comments: "A mix of bollywood with hollywood in a telling of \'Indian\' Forrest Gump; also, the narrative and the story points molding together was extremely well done"
   }
   screenplay {
     writer {
       name: "Simon Beaufoy"
     }
-    comments: "Great to Incredible Screenplay (The dialogue during the non-romantic parts were incredible while the romantic parts were not as well done; the symbolism of how Jamal was able to use life experiences to be a true rags to riches was incredible)"
+    rating: "Great to Incredible"
+    comments: "The dialogue during the non-romantic parts were incredible while the romantic parts were not as well done; the symbolism of how Jamal was able to use life experiences to be a true rags to riches was incredible"
   }
   score {
     composer {
       name: "A. R. Rahman"
     }
-    comments: "Great Score"
+    rating: "Great"
   }
-  soundtrack: "Incredible Soundtrack"
+  soundtrack {
+    rating: "Incredible"
+  }
   cinematography {
     cinematographer {
       name: "Anthony Dod Mantle"
     }
-    comments: "Great Cinematography"
+    rating: "Great"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Chris Dickens"
     }
-    comments: "Incredible Editing"
+    rating: "Incredible"
   }
-  production_design: "Great Production Design (shows the poorer parts of india (rest was also good))"
+  sound {
+    rating: "Good"
+  }
+  production_design {
+    rating: "Great"
+    comments: "Shows the poorer parts of india (rest was also good)"
+  }
   pacing: "Pacing was good but a bit inconsistent (slow during the childhood, extremely fast during the teenage years, decently fast during the adult years); runtime was a bit long but not terrible (probably could have cut out a few sequences)"
   climax: "The build to the climax was incredible with the actual climax being extremely tense and modeling how bollywood climaxes are usually; the resolution was a bit poor in its execution and the movie could have ended with the climax (though the bollywood sequence at the end was a nice touch)"
   final_notes: "The incredible nature of the movie is how the plot points throughout the movie connect at the end and during the competition (even though there aren\'t any deeper meanings in the movie); it is important to note that many of the elements of the movie is incredibly unlikely to happen (like people from the slums learning fluent English)"

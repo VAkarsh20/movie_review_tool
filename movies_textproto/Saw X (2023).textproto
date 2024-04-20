@@ -5,31 +5,49 @@ review {
     director {
       name: "Kevin Greutert"
     }
-    comments: "Decent Direction (Uses a more narrative style of direction to tell the story; does a pretty good job at directing the trap scenes as he elicits fear from their grotesque nature; does a decent job in the more interpersonal parts of the movie as the scenes in the exposition are pretty good, but the scenes after the halfway mark are kinda poor; gets a decent amount out of his actors as this was some of the best acting I have seen in a saw movie (though it still is far from being spectacular))"
+    rating: "Decent"
+    comments: "Uses a more narrative style of direction to tell the story; does a pretty good job at directing the trap scenes as he elicits fear from their grotesque nature; does a decent job in the more interpersonal parts of the movie as the scenes in the exposition are pretty good, but the scenes after the halfway mark are kinda poor; gets a decent amount out of his actors as this was some of the best acting I have seen in a saw movie (though it still is far from being spectacular)"
   }
   acting {
-    actor {
-      name: "Tobin Bell"
-      comments: "Good from Tobin Bell (Feels like he knows all the ins and outs of the character as he uses his experience to carry the performance as there are multiple directions to the point that the audience feels sympathetic for John Kramer)"
+    performance {
+      actor {
+        name: "Tobin Bell"
+      }
+      rating: "Good"
+      comments: "Feels like he knows all the ins and outs of the character as he uses his experience to carry the performance as there are multiple directions to the point that the audience feels sympathetic for John Kramer"
     }
-    actor {
-      name: "Shawnee Smith"
-      comments: "Bad from Shawnee Smith (Felt so forced and unnatural; there was no chemistry between her and Bell)"
+    performance {
+      actor {
+        name: "Shawnee Smith"
+      }
+      rating: "Bad"
+      comments: "Felt so forced and unnatural; there was no chemistry between her and Bell"
     }
-    actor {
-      name: "Synn\303\270ve Macody Lund"
-      comments: "Pretty Good from Synn\303\270ve Macody Lund (Really showed some dimensions (but did have some hiccups); gets the ability to show off in the scenes that paint her to be a villain)"
+    performance {
+      actor {
+        name: "Synn\303\270ve Macody Lund"
+      }
+      rating: "Pretty Good"
+      comments: "Really showed some dimensions (but did have some hiccups); gets the ability to show off in the scenes that paint her to be a villain"
     }
-    actor {
-      name: "Steven Brand"
-      comments: "Decent from Steven Brand (Cringey at times (but that was more from the dialogue); holds his own when working off of the other actors)"
+    performance {
+      actor {
+        name: "Steven Brand"
+      }
+      rating: "Decent"
+      comments: "Cringey at times (but that was more from the dialogue); holds his own when working off of the other actors"
     }
-    actor {
-      name: "Renata Vaca"
-      comments: "Decent from Renata Vaca"
+    performance {
+      actor {
+        name: "Renata Vaca"
+      }
+      rating: "Decent"
     }
-    cast: "Pretty Bad to Decent from the rest of the cast (Just feels like a lot of inexperience and typical Saw-level acting (though it is better than most of its predecessors))"
-    comments: "Decent Acting"
+    cast {
+      rating: "Pretty Bad to Decent"
+      comments: "Just feels like a lot of inexperience and typical Saw-level acting (though it is better than most of its predecessors)"
+    }
+    rating: "Decent"
   }
   story {
     writer {
@@ -38,7 +56,8 @@ review {
     writer {
       name: "Josh Stolberg"
     }
-    comments: "Good Story (Not laid out well but the movie is somewhat fresh in having more of a narrative and the climax being written well (having its signature Saw twist); incorporates many of the traditional Saw elements well and does a good job in having the traps emulate themes in Kramer\'s treatment; the writing in the exposition was good as it helped paint the backstory well (though was a bit longer than it needed to be))"
+    rating: "Good"
+    comments: "Not laid out well but the movie is somewhat fresh in having more of a narrative and the climax being written well (having its signature Saw twist); incorporates many of the traditional Saw elements well and does a good job in having the traps emulate themes in Kramer\'s treatment; the writing in the exposition was good as it helped paint the backstory well (though was a bit longer than it needed to be)"
   }
   screenplay {
     writer {
@@ -47,30 +66,45 @@ review {
     writer {
       name: "Josh Stolberg"
     }
-    comments: "Decent Screenplay (Did have some bad dialogue but was overall fine and flowed decently (had some allusions to the original movie and does a good job in being very Saw-esque); the horror writing was good as it plays strong into what makes Saw iconic; the symbolism was present as Kramer uses the traps to be metaphors in his experience with Cancer; the foreshadowing was good as it helped lead to the twist in the end)"
+    rating: "Decent"
+    comments: "Did have some bad dialogue but was overall fine and flowed decently (had some allusions to the original movie and does a good job in being very Saw-esque); the horror writing was good as it plays strong into what makes Saw iconic; the symbolism was present as Kramer uses the traps to be metaphors in his experience with Cancer; the foreshadowing was good as it helped lead to the twist in the end"
   }
   score {
     composer {
       name: "Charlie Clouser"
     }
-    comments: "Good Score (Has the signature Saw theme interpolated throughout the movie and helps build tension and anxiety in the horror parts)"
+    rating: "Good"
+    comments: "Has the signature Saw theme interpolated throughout the movie and helps build tension and anxiety in the horror parts"
   }
   cinematography {
     cinematographer {
       name: "Nick Matthews"
     }
-    comments: "Bad Cinematography (Felt very amateur and the frame rate felt like something from the 2000s)"
+    rating: "Bad"
+    comments: "Felt very amateur and the frame rate felt like something from the 2000s"
   }
-  sound: "Pretty Good Sound (Helps with giving the traps life and building tension in the more anxiety-inducing moments)"
   editing {
     editor {
       name: "Kevin Greutert"
     }
-    comments: "Pretty Good Editing"
+    rating: "Pretty Good"
   }
-  visual_effects: "Good Visual Effects (Especially with how low-budget the movie is, gives the horror moments life and makes them more scary)"
-  production_design: "Pretty Good Production Design (Helped show the grimy nature of the traps and where they are kept hostage)"
-  makeup: "Pretty Good Makeup (Good uses of blood and gore to help give it the signature Saw charm)"
+  sound {
+    rating: "Pretty Good"
+    comments: "Helps with giving the traps life and building tension in the more anxiety-inducing moments"
+  }
+  visual_effects {
+    rating: "Good"
+    comments: "Especially with how low-budget the movie is, gives the horror moments life and makes them more scary"
+  }
+  production_design {
+    rating: "Pretty Good"
+    comments: "Helped show the grimy nature of the traps and where they are kept hostage"
+  }
+  makeup {
+    rating: "Pretty Good"
+    comments: "Good uses of blood and gore to help give it the signature Saw charm"
+  }
   plot_structure: "Plot Structure biggest issue because it spends too much time in the exposition (as it could be cut by 20-30 minutes; after the halfway point the movie does a good in laying out the rest of the plot elements"
   pacing: "Pacing was decent (slower in the first half and then a bit quicker in the second (with the final 30 minutes being a good pace to help illicit fear))"
   climax: "Climax was executed pretty well (with the actual twist being displayed very well)"

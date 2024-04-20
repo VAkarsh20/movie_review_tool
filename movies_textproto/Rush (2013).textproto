@@ -5,29 +5,33 @@ review {
     director {
       name: "Ron Howard"
     }
-    comments: "Good Direction"
+    rating: "Good"
   }
   acting {
-    actor {
-      name: "Daniel Br\303\274hl"
-      comments: "Great from Daniel Br\303\274hl"
+    performance {
+      actor {
+        name: "Daniel Br\303\274hl"
+      }
+      rating: "Great"
     }
-    cast: "Good from the rest of the cast"
-    comments: "Good to Very Good Acting"
+    cast {
+      rating: "Good"
+    }
+    rating: "Good to Very Good"
   }
   story {
     writer {
       name: "Peter Morgan"
     }
-    comments: "Good to Very Good Story (Pretty true to the story)"
+    rating: "Good to Very Good"
+    comments: "Pretty true to the story"
   }
   cinematography {
     cinematographer {
       name: "Anthony Dod Mantle"
     }
-    comments: "Good Cinematography"
+    rating: "Good"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Daniel Hanley"
@@ -35,7 +39,11 @@ review {
     editor {
       name: "Mike Hill"
     }
-    comments: "Good Editing (Very unique editing sequences that were good at times and very extra at others)"
+    rating: "Good"
+    comments: "Very unique editing sequences that were good at times and very extra at others"
+  }
+  sound {
+    rating: "Good"
   }
   final_notes: "The movie felt very short and rushed a lot in terms of the plot (no pun intended)"
   overall: "Overall, a good movie that I will compare a lot to Ford v. Ferrari where this movie had a better story and was more serious while the other movie is more of a fun watch with better technicals"

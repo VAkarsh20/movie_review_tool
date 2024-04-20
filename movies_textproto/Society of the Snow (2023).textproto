@@ -5,15 +5,22 @@ review {
     director {
       name: "J. A. Bayona"
     }
-    comments: "Good to Very Good Direction (The direction on a macroscale was very good as he built the harshness of the Andes as well as how vast and empty it was; the direction on a microscale was good as you can saw the desperation and the internal conflict all the characters were feeling the longer they had to withstand being stranded; the direction of actors was good as all the performances felt elevated and there was a good sense of a chemistry; the storytelling was pretty good as he used the deterioration of both the survivor's bodies and psyche to show how taxing the events were to the characters (though the narration did kinda drag the movie down a bit and kinda forced its messages); built tension very well as he created a sense of anxiety as you saw how the characters survived through the worst of the Andes (especially as more got sent their way))"
+    rating: "Good to Very Good"
+    comments: "The direction on a macroscale was very good as he built the harshness of the Andes as well as how vast and empty it was; the direction on a microscale was good as you can saw the desperation and the internal conflict all the characters were feeling the longer they had to withstand being stranded; the direction of actors was good as all the performances felt elevated and there was a good sense of a chemistry; the storytelling was pretty good as he used the deterioration of both the survivor\'s bodies and psyche to show how taxing the events were to the characters (though the narration did kinda drag the movie down a bit and kinda forced its messages); built tension very well as he created a sense of anxiety as you saw how the characters survived through the worst of the Andes (especially as more got sent their way)"
   }
   acting {
-    actor {
-      name: "Enzo Vogrincic"
-      comments: "Good from Enzo Vogrincic (Did a good job at showing how the morality of the survivors was affected by the tragedy and how even the innocent had to put aside their morals to survive)"
+    performance {
+      actor {
+        name: "Enzo Vogrincic"
+      }
+      rating: "Good"
+      comments: "Did a good job at showing how the morality of the survivors was affected by the tragedy and how even the innocent had to put aside their morals to survive"
     }
-    cast: "Good from the rest of the cast (Everyone played their role as the audience could see the trauma the characters were facing as they had to put aside their morals to live (a true conduit for the crisis of faith in a situation where there is little hope))"
-    comments: "Good Acting"
+    cast {
+      rating: "Good"
+      comments: "Everyone played their role as the audience could see the trauma the characters were facing as they had to put aside their morals to live (a true conduit for the crisis of faith in a situation where there is little hope)"
+    }
+    rating: "Good"
   }
   story {
     writer {
@@ -28,7 +35,8 @@ review {
     writer {
       name: "Nicol\303\241s Casariego"
     }
-    comments: "Good Story (The movie stayed pretty true to the events and did a good job depicting what happened; the plot structure was kinda an issue as it felt a bit mismanaged (the exposition was too short, the rising action felt like dragged at times because of how much plot there was, and the resolution was too long); flow between sequences was good as the movie uses tension well to build this sense of anxiety as each day moves on (and as their attempts at survival become less and less the longer they stayed stranded); the character writing was kinda an issue because you do not feel that much of a connection with the characters and what they are fighting for (except Numa) as there is no exposition to build up who they were (though it could be argued this was intentional because Numa didn't know any of them))"
+    rating: "Good"
+    comments: "The movie stayed pretty true to the events and did a good job depicting what happened; the plot structure was kinda an issue as it felt a bit mismanaged (the exposition was too short, the rising action felt like dragged at times because of how much plot there was, and the resolution was too long); flow between sequences was good as the movie uses tension well to build this sense of anxiety as each day moves on (and as their attempts at survival become less and less the longer they stayed stranded); the character writing was kinda an issue because you do not feel that much of a connection with the characters and what they are fighting for (except Numa) as there is no exposition to build up who they were (though it could be argued this was intentional because Numa didn\'t know any of them)"
   }
   screenplay {
     writer {
@@ -43,21 +51,23 @@ review {
     writer {
       name: "Nicol\303\241s Casariego"
     }
-    comments: "Good to Very Good Screenplay (The dialogue was very good as it helped capture the emotions the characters were facing; the symbolism is good for a true story as its main themes of a crisis of faith play a role in the character's decisions (and how far they'll go in breaking their morals to survive))"
+    rating: "Good to Very Good"
+    comments: "The dialogue was very good as it helped capture the emotions the characters were facing; the symbolism is good for a true story as its main themes of a crisis of faith play a role in the character\'s decisions (and how far they\'ll go in breaking their morals to survive)"
   }
   score {
     composer {
       name: "Michael Giacchino"
     }
-    comments: "Pretty Good to Good Score (Used to help build tension and build the world, but felt kinda shoddy at times)"
+    rating: "Pretty Good to Good"
+    comments: "Used to help build tension and build the world, but felt kinda shoddy at times"
   }
   cinematography {
     cinematographer {
       name: "Pedro Luque"
     }
-    comments: "Very Good Cinematography (Used well to both build the vast and emptiness of the world and the anxiety and weight of the conflict)"
+    rating: "Very Good"
+    comments: "Used well to both build the vast and emptiness of the world and the anxiety and weight of the conflict"
   }
-  sound: "Very Good Sound (Used well to show how quiet the Andes were and how their cries got drowned out by the mountain's emptiness)"
   editing {
     editor {
       name: "Jaume Mart\303\255"
@@ -65,11 +75,25 @@ review {
     editor {
       name: "Andr\303\251s Gil"
     }
-    comments: "Good Editing (Used well to build tension and show the passage of time and lives)"
+    rating: "Good"
+    comments: "Used well to build tension and show the passage of time and lives"
   }
-  visual_effects: "Good to Very Good Visual Effects (Helped depict the colossal nature of all the tragic events they faced)"
-  production_design: "Good Production Design (Did a good job in replicating the actual site of the crash)"
-  makeup: "Good to Very Good Makeup (Helped with showing the grime and grit the characters' bodies endured by being the in snow)"
+  sound {
+    rating: "Very Good"
+    comments: "Used well to show how quiet the Andes were and how their cries got drowned out by the mountain\'s emptiness"
+  }
+  visual_effects {
+    rating: "Good to Very Good"
+    comments: "Helped depict the colossal nature of all the tragic events they faced"
+  }
+  production_design {
+    rating: "Good"
+    comments: "Did a good job in replicating the actual site of the crash"
+  }
+  makeup {
+    rating: "Good to Very Good"
+    comments: "Helped with showing the grime and grit the characters\' bodies endured by being the in snow"
+  }
   pacing: "Pacing was a big issue as it felt very slow because of the narration and how much plot the rising action had to go through"
   climax: "Climax was good as it helped capture the rush of emotions the characters experienced from finally being rescued"
   tone: "Tone was very similar to other survival movies"

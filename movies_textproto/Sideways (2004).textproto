@@ -5,27 +5,36 @@ review {
     director {
       name: "Alexander Payne"
     }
-    comments: "Great Direction"
+    rating: "Great"
   }
   acting {
-    actor {
-      name: "Paul Giamatti"
-      comments: "Incredible to Brilliant from Paul Giamatti (especially how he was able to embody someone with extreme anxiety and depression; Paul Giamatti is the focal point while all the others were great supporting elements to aspects of his character)"
+    performance {
+      actor {
+        name: "Paul Giamatti"
+      }
+      rating: "Incredible to Brilliant"
+      comments: "Especially how he was able to embody someone with extreme anxiety and depression; Paul Giamatti is the focal point while all the others were great supporting elements to aspects of his character"
     }
-    actor {
-      name: "Thomas Haden Church"
-      comments: "Great from Thomas Haden Church (though it started out a bit rough)"
+    performance {
+      actor {
+        name: "Thomas Haden Church"
+      }
+      rating: "Great"
+      comments: "Though it started out a bit rough"
     }
-    actor {
-      name: "Virginia Madsen"
-      comments: "Very Good to Great from Virginia Madsen"
+    performance {
+      actor {
+        name: "Virginia Madsen"
+      }
+      rating: "Very Good to Great"
     }
-    actor {
-      name: "Sandra Oh"
-      comments: "Very Good from Sandra Oh"
+    performance {
+      actor {
+        name: "Sandra Oh"
+      }
+      rating: "Very Good"
     }
-    cast: ""
-    comments: "Great Acting"
+    rating: "Great"
   }
   story {
     writer {
@@ -34,7 +43,8 @@ review {
     writer {
       name: "Jim Taylor"
     }
-    comments: "Great Story (A bit rough at first as the plot as the first 1/4, exposition of the movie was very dry in its details but the plot/story really begins to hit its stride and start running afterwards)"
+    rating: "Great"
+    comments: "A bit rough at first as the plot as the first 1/4, exposition of the movie was very dry in its details but the plot/story really begins to hit its stride and start running afterwards"
   }
   screenplay {
     writer {
@@ -43,25 +53,26 @@ review {
     writer {
       name: "Jim Taylor"
     }
-    comments: "Incredible Screenplay (The dialogue was both very conversational and elegant at times as it does a great job knowing when to shift from conversations to monologues throughout the movie (incorporating both the scholarly personality of Giamatti\'s character and the \'valley dude, player\' in Haden Church\'s character))"
+    rating: "Incredible"
+    comments: "The dialogue was both very conversational and elegant at times as it does a great job knowing when to shift from conversations to monologues throughout the movie (incorporating both the scholarly personality of Giamatti\'s character and the \'valley dude, player\' in Haden Church\'s character)"
   }
   score {
     composer {
       name: "Rolfe Kent"
     }
-    comments: "Pretty Good Score"
+    rating: "Pretty Good"
   }
   cinematography {
     cinematographer {
       name: "Phedon Papamichael"
     }
-    comments: "Decent Cinematography"
+    rating: "Decent"
   }
   editing {
     editor {
       name: "Kevin Tent"
     }
-    comments: "Good to Very Good Editing"
+    rating: "Good to Very Good"
   }
   pacing: "Pacing was a bit on the slower side throughout the whole movie (with the first 1/4 being extremely slow and the final 3/4 being a bit slow); Runtime was decent but could have been a bit more optimal if 10-15 minutes was cut from the beginning of the movie"
   climax: "There really was no build to the climax but the ending was very well done as Giamatti\'s character really comes to terms with who is and what he wants"

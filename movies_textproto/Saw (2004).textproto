@@ -5,11 +5,11 @@ review {
     director {
       name: "James Wan"
     }
-    comments: "Pretty Bad Direction (Direction for traps and plot elements was good but was horrible besides that (especially with dialogue and interpersonal scenes))"
+    rating: "Pretty Bad"
+    comments: "Direction for traps and plot elements was good but was horrible besides that (especially with dialogue and interpersonal scenes)"
   }
   acting {
-    cast: ""
-    comments: "Terrible Acting"
+    rating: "Terrible"
   }
   story {
     writer {
@@ -18,21 +18,27 @@ review {
     writer {
       name: "Leigh Whannell"
     }
-    comments: "Great Story (has very iconic elements to it that are filled with twists and turns that are not expected)"
+    rating: "Great"
+    comments: "Has very iconic elements to it that are filled with twists and turns that are not expected"
   }
   screenplay {
     writer {
       name: "Leigh Whannell"
     }
-    comments: "Very Bad Screenplay (Though it does had iconic lines and moments at times)"
+    rating: "Very Bad"
+    comments: "Though it does had iconic lines and moments at times"
   }
   score {
     composer {
       name: "Charlie Clouser"
     }
-    comments: "Great Score (Iconic score with an iconic theme)"
+    rating: "Great"
+    comments: "Iconic score with an iconic theme"
   }
-  production_design: "Great Production Design (Captures a dark, dirty, and scary environment)"
+  production_design {
+    rating: "Great"
+    comments: "Captures a dark, dirty, and scary environment"
+  }
   climax: "The buildup to the climax was gradual and fine but the actual climax really was not carried out well (Though post climax/ending was very well carried out and iconic in showing the twists of the story)"
   final_notes: "The trap scenes were very well executed to show the fear in the characters"
   overall: "Overall, for a movie with such a low budget, the creators were able to develop the most from what they could as they created an iconic story line that is a mainstay in the horror franchise, even though it may not be the best in its presentation"

@@ -5,19 +5,28 @@ review {
     director {
       name: "Edgar Wright"
     }
-    comments: "Very Good Direction (Was able to help progress the movie forward in a very distinct style that is satire of the Zombie genre, also is able to use different editing techniques to make the movie very 00s)"
+    rating: "Very Good"
+    comments: "Was able to help progress the movie forward in a very distinct style that is satire of the Zombie genre, also is able to use different editing techniques to make the movie very 00s"
   }
   acting {
-    actor {
-      name: "Simon Pegg"
-      comments: "Good to Very Good from Simon Pegg (Played the titular character very well and is able to have other characters bounce off of him to help build jokes; also is able to show different ranges of emotion pretty well)"
+    performance {
+      actor {
+        name: "Simon Pegg"
+      }
+      rating: "Good to Very Good"
+      comments: "Played the titular character very well and is able to have other characters bounce off of him to help build jokes; also is able to show different ranges of emotion pretty well"
     }
-    actor {
-      name: "Nick Frost"
-      comments: "Good from Nick Frost (Plays the comic relief character pretty well)"
+    performance {
+      actor {
+        name: "Nick Frost"
+      }
+      rating: "Good"
+      comments: "Plays the comic relief character pretty well"
     }
-    cast: "Pretty Good to Good from the rest of the cast"
-    comments: "Good Acting"
+    cast {
+      rating: "Pretty Good to Good"
+    }
+    rating: "Good"
   }
   story {
     writer {
@@ -26,7 +35,8 @@ review {
     writer {
       name: "Edgar Wright"
     }
-    comments: "Very Good Story (A nice satire of the zombie genre but is a bit too safe at times (especially the end))"
+    rating: "Very Good"
+    comments: "A nice satire of the zombie genre but is a bit too safe at times (especially the end)"
   }
   screenplay {
     writer {
@@ -35,7 +45,8 @@ review {
     writer {
       name: "Edgar Wright"
     }
-    comments: "Very Good Screenplay (the different movements and dialogue help move the satire forward and makes it for a very overall funny movie (though it is pretty simplistic in what it is))"
+    rating: "Very Good"
+    comments: "The different movements and dialogue help move the satire forward and makes it for a very overall funny movie (though it is pretty simplistic in what it is)"
   }
   score {
     composer {
@@ -44,27 +55,38 @@ review {
     composer {
       name: "Daniel Mudford"
     }
-    comments: "Pretty Good Score"
+    rating: "Pretty Good"
   }
   cinematography {
     cinematographer {
       name: "David M. Dunlap"
     }
-    comments: "Good Cinematography (Helps with the different fast-cuts and the side-panning helps it mock the zombie genre with the staple shot)"
+    rating: "Good"
+    comments: "Helps with the different fast-cuts and the side-panning helps it mock the zombie genre with the staple shot"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Chris Dickens"
     }
-    comments: "Great Editing (a very polished rendition that helped in showing why the fast-cutting/hip-hop montage were a main-stay in the early 00s)"
+    rating: "Great"
+    comments: "A very polished rendition that helped in showing why the fast-cutting/hip-hop montage were a main-stay in the early 00s"
   }
-  visual_effects: "Pretty Bad Visual Effects (Felt very low budget and not well done)"
-  makeup: "Pretty Bad Makeup (Felt pretty amateur and low budget when trying to convey the zombies)"
+  sound {
+    rating: "Good"
+  }
+  visual_effects {
+    rating: "Pretty Bad"
+    comments: "Felt very low budget and not well done"
+  }
+  makeup {
+    rating: "Pretty Bad"
+    comments: "Felt pretty amateur and low budget when trying to convey the zombies"
+  }
   plot_structure: "Plot Structure was pretty simplistic and formulaic (though there really was not anything to add or cut)"
   pacing: "Pacing was consistent and steady"
   climax: "Build to climax was there and a pivotal part in how the character dealt with the apocalypse; climax was fine but felt very safe and 00s in how it ended"
   tone: "Tone was very similar to that of satires as is very light-hearted while taking elements of the zombie genre"
+  final_notes: ""
   overall: "Overall, a very good satire that is a fun laugh as it pokes at the zombie genre in a very unique way, though it can be very simplistic and safe at times"
 }
 release_year: 2004

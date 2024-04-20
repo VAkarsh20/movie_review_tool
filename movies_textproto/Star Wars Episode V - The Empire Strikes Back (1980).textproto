@@ -5,53 +5,85 @@ review {
     director {
       name: "Irvin Kershner"
     }
-    comments: "Great Direction (The actual moving of the story and making sure all pieces come together is incredible managed and executed, and this movie is a definite improvement in directing people than its predecessor as the director was really able to get more out of his actors in their performances for this time around)"
+    rating: "Great"
+    comments: "The actual moving of the story and making sure all pieces come together is incredible managed and executed, and this movie is a definite improvement in directing people than its predecessor as the director was really able to get more out of his actors in their performances for this time around"
   }
   acting {
-    actor {
-      name: "Mark Hamill"
-      comments: "Very Good from Mark Hamill (showed the progress he has made from being a naive/hopeful kid to someone more cognizant of the present and the work he needs to put in to be a better Jedi)"
+    performance {
+      actor {
+        name: "Mark Hamill"
+      }
+      rating: "Very Good"
+      comments: "Showed the progress he has made from being a naive/hopeful kid to someone more cognizant of the present and the work he needs to put in to be a better Jedi"
     }
-    actor {
-      name: "Harrison Ford"
-      comments: "Great from Harrison Ford (the real star of the show in all his scenes as he smooth/cool nature really helps show how great of a character Han Solo really is (and he really cleaned up the delivery of his lines in this movie as there are not any awkward pauses as there were last time))"
+    performance {
+      actor {
+        name: "Harrison Ford"
+      }
+      rating: "Great"
+      comments: "The real star of the show in all his scenes as he smooth/cool nature really helps show how great of a character Han Solo really is (and he really cleaned up the delivery of his lines in this movie as there are not any awkward pauses as there were last time)"
     }
-    actor {
-      name: "Carrie Fisher"
-      comments: "Good to Very Good from Carrie Fisher (She really improves this time around as she is given more freedom to play as opposed to last time; she also really grows as a character from being the damsel in distress to being a loving leader)"
+    performance {
+      actor {
+        name: "Carrie Fisher"
+      }
+      rating: "Good to Very Good"
+      comments: "She really improves this time around as she is given more freedom to play as opposed to last time; she also really grows as a character from being the damsel in distress to being a loving leader"
     }
-    actor {
-      name: "Billy Dee Williams"
-      comments: "Good to Very Good from Billy Dee Williams (Really becomes a memorable presence in all the scenes he is in with his cool nature that conflicts/competes with Han, though there is some hiccups in delivery as he is still getting used to the Star Wars universe as opposed to the other members of the cast)"
+    performance {
+      actor {
+        name: "Billy Dee Williams"
+      }
+      rating: "Good to Very Good"
+      comments: "Really becomes a memorable presence in all the scenes he is in with his cool nature that conflicts/competes with Han, though there is some hiccups in delivery as he is still getting used to the Star Wars universe as opposed to the other members of the cast"
     }
-    actor {
-      name: "Anthony Daniels"
-      comments: "Very Good from Anthony Daniels (really brings C-3PO to life as he tries to help but panics in not knowing how much he can (the anxious nerd-savior trope); also, plays a great role in helping vocalize the relationship and friendship he has with R2-D2)"
+    performance {
+      actor {
+        name: "Anthony Daniels"
+      }
+      rating: "Very Good"
+      comments: "Really brings C-3PO to life as he tries to help but panics in not knowing how much he can (the anxious nerd-savior trope); also, plays a great role in helping vocalize the relationship and friendship he has with R2-D2"
     }
-    actor {
-      name: "James Earl Jones/David Prowse"
-      comments: "Incredible from James Earl Jones/David Prowse (created one of the most iconic voices in pop-culture as his menacing voice and performance showed why Darth Vader is a villain to be scared of)"
+    performance {
+      actor {
+        name: "James Earl Jones/David Prowse"
+      }
+      rating: "Incredible"
+      comments: "Created one of the most iconic voices in pop-culture as his menacing voice and performance showed why Darth Vader is a villain to be scared of"
     }
-    actor {
-      name: "Kenny Baker"
-      comments: "Incredible from Kenny Baker (Really brings R2 to life through the difference mannerisms the character has in sort of a comedic relief yet important way (making R2 one of the best characters in all of Star Wars); also, helps bring the flare that makes the character\'s friendship with C-3PO one of the best in pop-culture)"
+    performance {
+      actor {
+        name: "Kenny Baker"
+      }
+      rating: "Incredible"
+      comments: "Really brings R2 to life through the difference mannerisms the character has in sort of a comedic relief yet important way (making R2 one of the best characters in all of Star Wars); also, helps bring the flare that makes the character\'s friendship with C-3PO one of the best in pop-culture"
     }
-    actor {
-      name: "Peter Mayhew"
-      comments: "Very Good from Peter Mayhew (Played the adorable, yet extremely dangerous Chewie and played off his co-star very nicely, similar to the R2/C-3PO relationship; and really grows the character to show how loving he is towards his new friends)"
+    performance {
+      actor {
+        name: "Peter Mayhew"
+      }
+      rating: "Very Good"
+      comments: "Played the adorable, yet extremely dangerous Chewie and played off his co-star very nicely, similar to the R2/C-3PO relationship; and really grows the character to show how loving he is towards his new friends"
     }
-    actor {
-      name: "Frank Oz"
-      comments: "Great to Incredible from Frank Oz (Really brought the character of Yoda to life with the puppeteering and the vocal performance)"
+    performance {
+      actor {
+        name: "Frank Oz"
+      }
+      rating: "Great to Incredible"
+      comments: "Really brought the character of Yoda to life with the puppeteering and the vocal performance"
     }
-    cast: "Very Good from the rest of the cast (Good to Very Good from the rest of the Live-Action cast; Very Good from the rest of the Vocal/Costumed-Characters cast)"
-    comments: "Very Good to Great Acting (Very Good from the Live-Action Cast; Great from the Vocal/Costumed-Characters)"
+    cast {
+      rating: "Very Good"
+      comments: "Good to Very Good from the rest of the Live-Action cast; Very Good from the rest of the Vocal/Costumed-Characters cast"
+    }
+    rating: "Very Good to Great"
   }
   story {
     writer {
       name: "George Lucas"
     }
-    comments: "Incredible Story (Really sets up different elements of the universe very nicely and uses the concept of parallel storylines very well; also has some of the most iconic moments of the series and does a good job in building the downfall of the characters; the only issue this time around is that it does not have the ability to build worlds like the previous film could)"
+    rating: "Incredible"
+    comments: "Really sets up different elements of the universe very nicely and uses the concept of parallel storylines very well; also has some of the most iconic moments of the series and does a good job in building the downfall of the characters; the only issue this time around is that it does not have the ability to build worlds like the previous film could"
   }
   screenplay {
     writer {
@@ -60,31 +92,49 @@ review {
     writer {
       name: "Lawrence Kasdan"
     }
-    comments: "Great Screenplay (The dialogue this time around felt way more natural and was better written; the screenplay still shines is the foreshadowing to future Star Wars events, symbolism, iconic lines (with it having one of the most iconic lines/plot twists in cinema (or even narrative) history))"
+    rating: "Great"
+    comments: "The dialogue this time around felt way more natural and was better written; the screenplay still shines is the foreshadowing to future Star Wars events, symbolism, iconic lines (with it having one of the most iconic lines/plot twists in cinema (or even narrative) history)"
   }
   score {
     composer {
       name: "John Williams"
     }
-    comments: "Brilliant Score (Takes what was great from the previous film and adds some new themes that really make this score stand out as well)"
+    rating: "Brilliant"
+    comments: "Takes what was great from the previous film and adds some new themes that really make this score stand out as well"
   }
   cinematography {
     cinematographer {
       name: "Peter Suschitzky"
     }
-    comments: "Great to Incredible Cinematography (Which really stands out in the Luke vs. Vader scene)"
+    rating: "Great to Incredible"
+    comments: "Which really stands out in the Luke vs. Vader scene"
   }
-  sound: "Very Good Sound (Especially when giving the movie a space/science-fiction feel as well as bringing the sounds of the droids (especially R2-D2) to life, but there are some issues with Sound in this movie as there feels like a delayed sound with the lightsabers (which is very annoying if you have watched the prequels))"
   editing {
     editor {
       name: "Paul Hirsch"
     }
-    comments: "Very Good to Great Editing"
+    rating: "Very Good to Great"
   }
-  visual_effects: "Very Good Visual Effects (This movie does not really go overboard with the new visuals of the re-release as much as the other movies so it is easier to comment on)"
-  production_design: "Incredible to Brilliant Production Design (Created some very iconic sets that are well remembered in history, and really added to that with the Hoth/Dagobah/Bespin sets which are regarded as some of the best in all of Star Wars)"
-  makeup: "Incredible Makeup (Helped bring to life aliens that are not from this world)"
-  costumes: "Incredible Costumes (Created some of the most iconic outfits in pop-culture history, with the Darth Vader costume being one of the most well remembered in any historical context)"
+  sound {
+    rating: "Very Good"
+    comments: "Especially when giving the movie a space/science-fiction feel as well as bringing the sounds of the droids (especially R2-D2) to life, but there are some issues with Sound in this movie as there feels like a delayed sound with the lightsabers (which is very annoying if you have watched the prequels)"
+  }
+  visual_effects {
+    rating: "Very Good"
+    comments: "This movie does not really go overboard with the new visuals of the re-release as much as the other movies so it is easier to comment on"
+  }
+  production_design {
+    rating: "Incredible to Brilliant"
+    comments: "Created some very iconic sets that are well remembered in history, and really added to that with the Hoth/Dagobah/Bespin sets which are regarded as some of the best in all of Star Wars"
+  }
+  makeup {
+    rating: "Incredible"
+    comments: "Helped bring to life aliens that are not from this world"
+  }
+  costumes {
+    rating: "Incredible"
+    comments: "Created some of the most iconic outfits in pop-culture history, with the Darth Vader costume being one of the most well remembered in any historical context"
+  }
   plot_structure: "Plot Structure was very well written as it has three major parallel story lines that all converge to the climax and the end (something that helps keep the audience engaged to see how the different arcs are coming along)"
   pacing: "Pacing was better in this movie as it felt more consistent and not as slow as the last one"
   climax: "Build to climax is done very nicely as it is really pivots the franchise into seeing who these characters really are as they have to make important decisions for the future; Climax was the best part of the movie as we get to see what Luke\'s training has come to/seeing the rest of the crew into action as we get to see how much the characters have grown yet see how far they really are to their goals in the sage; moreover one of the most important lines in history is delivered in this climax that make Star Wars a franchise memorable"

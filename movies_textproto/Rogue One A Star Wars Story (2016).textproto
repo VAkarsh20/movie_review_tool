@@ -5,39 +5,64 @@ review {
     director {
       name: "Gareth Edwards"
     }
-    comments: "Good to Very Good Direction (Able to move the story forward (though in a more cautious manner) and execute the action scenes very well; also does a pretty good job in getting the most of out his actors (though they are limited throughout the movie))"
+    rating: "Good to Very Good"
+    comments: "Able to move the story forward (though in a more cautious manner) and execute the action scenes very well; also does a pretty good job in getting the most of out his actors (though they are limited throughout the movie)"
   }
   acting {
-    actor {
-      name: "Felicity Jones"
-      comments: "Good to Very Good from Felicity Jones (Able to command all the scenes she is in and be a very vocal leader with her cast and during the action scenes, though she does some limitations when it comes to the more powerful scenes)"
+    performance {
+      actor {
+        name: "Felicity Jones"
+      }
+      rating: "Good to Very Good"
+      comments: "Able to command all the scenes she is in and be a very vocal leader with her cast and during the action scenes, though she does some limitations when it comes to the more powerful scenes"
     }
-    actor {
-      name: "Diego Luna"
-      comments: "Good from Diego Luna (Able to hold his own for a majority of the movie and does well in the more action-packed scenes, but he shows his ceiling in many of the dramatic scenes)"
+    performance {
+      actor {
+        name: "Diego Luna"
+      }
+      rating: "Good"
+      comments: "Able to hold his own for a majority of the movie and does well in the more action-packed scenes, but he shows his ceiling in many of the dramatic scenes"
     }
-    actor {
-      name: "Ben Mendelsohn"
-      comments: "Very Good from Ben Mendelsohn (Able to play the villain role very well and shows range throughout the movie in being that menacing figure wanting more power)"
+    performance {
+      actor {
+        name: "Ben Mendelsohn"
+      }
+      rating: "Very Good"
+      comments: "Able to play the villain role very well and shows range throughout the movie in being that menacing figure wanting more power"
     }
-    actor {
-      name: "Alan Tudyk"
-      comments: "Great from Alan Tudyk (Really steals the show with his performance as he plays the smart-witted/comedic relief character)"
+    performance {
+      actor {
+        name: "Alan Tudyk"
+      }
+      rating: "Great"
+      comments: "Really steals the show with his performance as he plays the smart-witted/comedic relief character"
     }
-    actor {
-      name: "Forest Whitaker"
-      comments: "Decent from Forest Whitaker (Very over-the-top in his performance but does a good job in commanding the scenes he is in)"
+    performance {
+      actor {
+        name: "Forest Whitaker"
+      }
+      rating: "Decent"
+      comments: "Very over-the-top in his performance but does a good job in commanding the scenes he is in"
     }
-    actor {
-      name: "Riz Ahmed"
-      comments: "Pretty Good to Good from Riz Ahmed (Plays the anxious character well but does show a bit of inexperience to where his character is not that believable)"
+    performance {
+      actor {
+        name: "Riz Ahmed"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Plays the anxious character well but does show a bit of inexperience to where his character is not that believable"
     }
-    actor {
-      name: "James Earl Jones"
-      comments: "Decent from James Earl Jones (Something just feels very off from his performance (probably from the age), but he does do a good job in making Vader feel like a menacing presence)"
+    performance {
+      actor {
+        name: "James Earl Jones"
+      }
+      rating: "Decent"
+      comments: "Something just feels very off from his performance (probably from the age), but he does do a good job in making Vader feel like a menacing presence"
     }
-    cast: "Pretty Bad to Decent from the rest of the cast (Just typical Star Wars level acting)"
-    comments: "Pretty Good to Good Acting"
+    cast {
+      rating: "Pretty Bad to Decent"
+      comments: "Just typical Star Wars level acting"
+    }
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
@@ -46,7 +71,8 @@ review {
     writer {
       name: "Gary Whitta"
     }
-    comments: "Very Good to Great Story (The architecture of the story is very well laid out and entertaining (even though there are massive deviations from the traditional storytelling), though the storytelling is a bit on the safer side and not as ambitious as other Star Wars movies; the story also does try to jam a lot into it and this takes away from building some of the side characters and their relationships to the story)"
+    rating: "Very Good to Great"
+    comments: "The architecture of the story is very well laid out and entertaining (even though there are massive deviations from the traditional storytelling), though the storytelling is a bit on the safer side and not as ambitious as other Star Wars movies; the story also does try to jam a lot into it and this takes away from building some of the side characters and their relationships to the story"
   }
   screenplay {
     writer {
@@ -55,21 +81,22 @@ review {
     writer {
       name: "Tony Gilroy"
     }
-    comments: "Pretty Good to Good Screenplay (While there were some iconic lines, a lot of this movie is filled with corny dialogue meant to build power (but just ends up being a bit more laughable); The character writing for some of the characters were really good but they introduce so many characters that it just waters down all the new introductions; the foreshadowing, symbolism, and allusions to A New Hope were very well executed as it helps paint a more holistic picture of the first Star Wars movie (especially painting the rebellion to be a bit more on the darker side))"
+    rating: "Pretty Good to Good"
+    comments: "While there were some iconic lines, a lot of this movie is filled with corny dialogue meant to build power (but just ends up being a bit more laughable); The character writing for some of the characters were really good but they introduce so many characters that it just waters down all the new introductions; the foreshadowing, symbolism, and allusions to A New Hope were very well executed as it helps paint a more holistic picture of the first Star Wars movie (especially painting the rebellion to be a bit more on the darker side)"
   }
   score {
     composer {
       name: "Michael Giacchino"
     }
-    comments: "Very Good to Great Score (Helps keep that Star Wars feel while adding new themes to the universe)"
+    rating: "Very Good to Great"
+    comments: "Helps keep that Star Wars feel while adding new themes to the universe"
   }
   cinematography {
     cinematographer {
       name: "Greig Fraser"
     }
-    comments: "Great Cinematography"
+    rating: "Great"
   }
-  sound: "Incredible Sound"
   editing {
     editor {
       name: "John Gilroy"
@@ -80,12 +107,25 @@ review {
     editor {
       name: "Colin Goudie"
     }
-    comments: "Incredible Editing"
+    rating: "Incredible"
   }
-  visual_effects: "Great to Incredible Visual Effects (Everything from this movie was incredible but the Deepfakes did show their age as it falls more into the uncanny valley now)"
-  production_design: "Very Good Production Design"
-  makeup: "Very Good Makeup"
-  costumes: "Great Costumes (Helps pay homage to A New Hope\'s costumes)"
+  sound {
+    rating: "Incredible"
+  }
+  visual_effects {
+    rating: "Great to Incredible"
+    comments: "Everything from this movie was incredible but the Deepfakes did show their age as it falls more into the uncanny valley now"
+  }
+  production_design {
+    rating: "Very Good"
+  }
+  makeup {
+    rating: "Very Good"
+  }
+  costumes {
+    rating: "Great"
+    comments: "Helps pay homage to A New Hope\'s costumes"
+  }
   plot_structure: "Plot Structure was very well executed from a macro level as it helps entertain the audience but there is a lot jammed into the movie that it takes away from helping build the characters and their importance (they are kinda just plopped into the story)"
   pacing: "Pacing was a bit on the faster side cause of how much they try to jam (if they cut like cut 30 minutes of new content/characters and used it to slow the pace and build up some of their characters the movie would have a bit better execution)"
   climax: "Build to climax was very well done and is a bit similar to other blockbuster/Star Wars movies; climax was incredibly executed and the best part of the movie (whether it be from the fights on the ground or the fire fights)"

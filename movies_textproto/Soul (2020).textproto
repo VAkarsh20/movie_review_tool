@@ -5,11 +5,14 @@ review {
     director {
       name: "Pete Docter"
     }
-    comments: "Great Direction"
+    rating: "Great"
   }
   acting {
-    cast: "Good from the rest of the cast (with Tina Fay being a standout)"
-    comments: "Good Acting"
+    cast {
+      rating: "Good"
+      comments: "With Tina Fay being a standout"
+    }
+    rating: "Good"
   }
   story {
     writer {
@@ -21,7 +24,8 @@ review {
     writer {
       name: "Kemp Powers"
     }
-    comments: "Great Story (Though pretty predictable, especially the ending)"
+    rating: "Great"
+    comments: "Though pretty predictable, especially the ending"
   }
   screenplay {
     writer {
@@ -33,7 +37,7 @@ review {
     writer {
       name: "Kemp Powers"
     }
-    comments: "Great Screenplay"
+    rating: "Great"
   }
   score {
     composer {
@@ -45,9 +49,12 @@ review {
     composer {
       name: "Jon Batiste[a]"
     }
-    comments: "Very Good Score"
+    rating: "Very Good"
   }
-  visual_effects: "Incredible Animation (The best animation from Pixar by far)"
+  animation {
+    rating: "Incredible"
+    comments: "The best animation from Pixar by far"
+  }
   pacing: "Pacing was Decent"
   climax: "Build to climax is good and the climax was very well done"
   final_notes: "the themes and concepts were very thought provoking and were very well executed (especially for a kids movie)"

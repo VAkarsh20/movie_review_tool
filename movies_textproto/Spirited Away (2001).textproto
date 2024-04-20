@@ -5,38 +5,50 @@ review {
     director {
       name: "Hayao Miyazaki"
     }
-    comments: "Good to Very Good Direction (Builds the world very well as he uses storytelling to transport the viewers into this mystical world; also gets a good amount from his voice actors (in a very Anime way))"
+    rating: "Good to Very Good"
+    comments: "Builds the world very well as he uses storytelling to transport the viewers into this mystical world; also gets a good amount from his voice actors (in a very Anime way)"
   }
   acting {
-    cast: "Good from the rest of the cast (For the whole cast because everyone plays their role well in helping movie the story forward)"
-    comments: "Good Acting"
+    cast {
+      rating: "Good"
+      comments: "For the whole cast because everyone plays their role well in helping movie the story forward"
+    }
+    rating: "Good"
   }
   story {
     writer {
       name: "Hayao Miyazaki"
     }
-    comments: "Good Story (The world and characters Miyazaki creates really area iconic as many have become staples in pop-culture/when referring to Japanese animation; while the scenes and plot points themselves are good, the construction of the story kinda holds it back because it feels like it does not leave enough time to have a strong climax (spending a lot of time in setting up the characters and the world))"
+    rating: "Good"
+    comments: "The world and characters Miyazaki creates really area iconic as many have become staples in pop-culture/when referring to Japanese animation; while the scenes and plot points themselves are good, the construction of the story kinda holds it back because it feels like it does not leave enough time to have a strong climax (spending a lot of time in setting up the characters and the world)"
   }
   screenplay {
     writer {
       name: "Hayao Miyazaki"
     }
-    comments: "Good Screenplay (The dialog flows very nicely; the symbolism very profound with its messages being very noticeable; the foreshadowing is prevalent and does a good job in weaving into the story as a whole)"
+    rating: "Good"
+    comments: "The dialog flows very nicely; the symbolism very profound with its messages being very noticeable; the foreshadowing is prevalent and does a good job in weaving into the story as a whole"
   }
   score {
     composer {
       name: "Joe Hisaishi"
     }
-    comments: "Incredible Score (So somber yet so beautiful as the piano is interpolated throughout the movie to show feelings of loneliness and hope)"
+    rating: "Incredible"
+    comments: "So somber yet so beautiful as the piano is interpolated throughout the movie to show feelings of loneliness and hope"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Takeshi Seyama"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  visual_effects: "Great Animation (Really was revolutionary for the time and really helped build a 3D world from 2D animation)"
+  sound {
+    rating: "Good"
+  }
+  animation {
+    rating: "Great"
+    comments: "Really was revolutionary for the time and really helped build a 3D world from 2D animation"
+  }
   plot_structure: "Plot Structure was a major issue for the movie as it spends a little too much time in the exposition and rising action to where the climax and falling action are really breezed through (The movie as a whole just feels way too short as I would have loved to see 20 minutes added to the climax)"
   pacing: "Pacing was a tale of two movies as the first half was a bit on the slower side with the second have being very fast to catch up (an increased runtime could have balanced this out)"
   climax: "Climax was very underwhelming as it is incredibly short and just feels very forced (an increased runtime would have really helped with this)"

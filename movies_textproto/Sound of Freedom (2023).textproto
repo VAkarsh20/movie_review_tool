@@ -5,23 +5,35 @@ review {
     director {
       name: "Alejandro Monteverde"
     }
-    comments: "Bad Direction (Did not get anything out of his actors as they felt very stiff and unnatural when working off each other; the storytelling felt pretty amateurish; the use of editing and cinematography felt very amateurish; the direction of the more uncomfortable scenes was decent though)"
+    rating: "Bad"
+    comments: "Did not get anything out of his actors as they felt very stiff and unnatural when working off each other; the storytelling felt pretty amateurish; the use of editing and cinematography felt very amateurish; the direction of the more uncomfortable scenes was decent though"
   }
   acting {
-    actor {
-      name: "Jim Caviezel"
-      comments: "Bad from Jim Caviezel (Felt incredibly over-the-top and did not really work well off of any of his other actors; did not feel like he was carrying his own throughout the movie as it was doing too much and emotionless at times)"
+    performance {
+      actor {
+        name: "Jim Caviezel"
+      }
+      rating: "Bad"
+      comments: "Felt incredibly over-the-top and did not really work well off of any of his other actors; did not feel like he was carrying his own throughout the movie as it was doing too much and emotionless at times"
     }
-    actor {
-      name: "Mira Sorvino"
-      comments: "Decent from Mira Sorvino"
+    performance {
+      actor {
+        name: "Mira Sorvino"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Bill Camp"
-      comments: "Decent from Bill Camp (While he did have his questionable moments, he held his own for the most part throughout the movie)"
+    performance {
+      actor {
+        name: "Bill Camp"
+      }
+      rating: "Decent"
+      comments: "While he did have his questionable moments, he held his own for the most part throughout the movie"
     }
-    cast: "Very Bad from the rest of the cast (Does not include the child actors)"
-    comments: "Very Bad to Bad Acting"
+    cast {
+      rating: "Very Bad"
+      comments: "Does not include the child actors"
+    }
+    rating: "Very Bad to Bad"
   }
   story {
     writer {
@@ -30,7 +42,8 @@ review {
     writer {
       name: "Alejandro Monteverde"
     }
-    comments: "Pretty Story (The idea of the story is something that is important to tell, the main issue is many elements of this movie are embellished/fabricated (and this is obvious at many points of the movie); the movie is also incredibly predictable)"
+    rating: "Pretty"
+    comments: "The idea of the story is something that is important to tell, the main issue is many elements of this movie are embellished/fabricated (and this is obvious at many points of the movie); the movie is also incredibly predictable"
   }
   screenplay {
     writer {
@@ -39,13 +52,14 @@ review {
     writer {
       name: "Alejandro Monteverde"
     }
-    comments: "Terrible Screenplay (The dialogue feels incredibly unnatural and hard to listen to at times with how bad and corny it is, symbolism is very shallow (though profound))"
+    rating: "Terrible"
+    comments: "The dialogue feels incredibly unnatural and hard to listen to at times with how bad and corny it is, symbolism is very shallow (though profound)"
   }
   score {
     composer {
       name: "Javier Navarrete"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
   cinematography {
     cinematographer {
@@ -54,14 +68,17 @@ review {
     cinematographer {
       name: "Andreu Aec"
     }
-    comments: "Pretty Bad Cinematography (Felt pretty amateurish)"
+    rating: "Pretty Bad"
+    comments: "Felt pretty amateurish"
   }
-  sound: "Pretty Bad Sound"
   editing {
     editor {
       name: "Brian Scofield"
     }
-    comments: "Bad Editing"
+    rating: "Bad"
+  }
+  sound {
+    rating: "Pretty Bad"
   }
   plot_structure: "Plot Structure was very templated and pretty simplistic overall"
   pacing: "Pacing was pretty slow (could have been cut 20-30 minutes to increase the speed)"

@@ -5,35 +5,43 @@ review {
     director {
       name: "Brian De Palma"
     }
-    comments: "Pretty Bad to Decent Direction (Good at moments (like the iconic ones), but pretty bad at others)"
+    rating: "Pretty Bad to Decent"
+    comments: "Good at moments (like the iconic ones), but pretty bad at others"
   }
   acting {
-    actor {
-      name: "Al Pacino"
-      comments: "Good to Very Good from Al Pacino (Iconic performance, but its pretty one dimensional and his accent is horrible)"
+    performance {
+      actor {
+        name: "Al Pacino"
+      }
+      rating: "Good to Very Good"
+      comments: "Iconic performance, but its pretty one dimensional and his accent is horrible"
     }
-    cast: "Bad from the rest of the cast (most of the actors have a terrible cuban accent)"
-    comments: "Pretty Bad Acting"
+    cast {
+      rating: "Bad"
+      comments: "Most of the actors have a terrible cuban accent"
+    }
+    rating: "Pretty Bad"
   }
   story {
     writer {
       name: "Oliver Stone"
     }
-    comments: "Good Story"
+    rating: "Good"
   }
   screenplay {
     writer {
       name: "Oliver Stone"
     }
-    comments: "Pretty Bad Screenplay (Has great/iconic moments (there are very iconic lines and moments but a lot of the dialogue/writing is very bland/direct))"
+    rating: "Pretty Bad"
+    comments: "Has great/iconic moments (there are very iconic lines and moments but a lot of the dialogue/writing is very bland/direct)"
   }
   score {
     composer {
       name: "Giorgio Moroder"
     }
-    comments: "Very 80s Score (not that much of a fan tbh)"
+    rating: "Very 80s"
+    comments: "Not that much of a fan tbh"
   }
-  sound: "Decent Sound"
   editing {
     editor {
       name: "Jerry Greenberg"
@@ -41,9 +49,14 @@ review {
     editor {
       name: "David Ray"
     }
-    comments: "Decent Editing"
+    rating: "Decent"
   }
-  production_design: "Great Production Design"
+  sound {
+    rating: "Decent"
+  }
+  production_design {
+    rating: "Great"
+  }
   plot_structure: "Plot Structure was pretty good overall but it only talks about his rags and his riches (really misses out on the rags TO riches part)"
   pacing: "Runtime was pretty long but it is not used that well because it focuses too much on the ends of the story and not the middle"
   climax: "Build to the climax was good (mostly because it kinda just takes you there and is not a gradual build overall) with the climax being one of the best parts of the movie"

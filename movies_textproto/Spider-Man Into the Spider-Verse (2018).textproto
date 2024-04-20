@@ -11,61 +11,96 @@ review {
     director {
       name: "Rodney Rothman"
     }
-    comments: "Great Direction (Does a great job in moving the story forward through the use of a coming-of-age/origin story similar to other Spider-Man movies; really choreographs the macro-fighting scenes well as they use a revolutionary animation style that shows the true power of 2D animation; really gets a good amount out of their voice-actors as it feels like all of them really embody their roles)"
+    rating: "Great"
+    comments: "Does a great job in moving the story forward through the use of a coming-of-age/origin story similar to other Spider-Man movies; really choreographs the macro-fighting scenes well as they use a revolutionary animation style that shows the true power of 2D animation; really gets a good amount out of their voice-actors as it feels like all of them really embody their roles"
   }
   acting {
-    actor {
-      name: "Shameik Moore"
-      comments: "Good from Shameik Moore (Really embodies the role of a young Spider-Man looking to find their purpose)"
+    performance {
+      actor {
+        name: "Shameik Moore"
+      }
+      rating: "Good"
+      comments: "Really embodies the role of a young Spider-Man looking to find their purpose"
     }
-    actor {
-      name: "Jake Johnson"
-      comments: "Good from Jake Johnson (Kinda just plays himself but does a good job working off of Moore)"
+    performance {
+      actor {
+        name: "Jake Johnson"
+      }
+      rating: "Good"
+      comments: "Kinda just plays himself but does a good job working off of Moore"
     }
-    actor {
-      name: "Hailee Steinfeld"
-      comments: "Good to Very Good from Hailee Steinfeld (The real star of the show as she plays the female lead well in both the relationship she has with Miles as well as the experience she has as Spider-Gwen)"
+    performance {
+      actor {
+        name: "Hailee Steinfeld"
+      }
+      rating: "Good to Very Good"
+      comments: "The real star of the show as she plays the female lead well in both the relationship she has with Miles as well as the experience she has as Spider-Gwen"
     }
-    actor {
-      name: "Mahershala Ali"
-      comments: "Good from Mahershala Ali (Does very well in presenting a figure Miles looks up to (despite his short runtime))"
+    performance {
+      actor {
+        name: "Mahershala Ali"
+      }
+      rating: "Good"
+      comments: "Does very well in presenting a figure Miles looks up to (despite his short runtime)"
     }
-    actor {
-      name: "Brian Tyree Henry"
-      comments: "Good to Very Good from Brian Tyree Henry (Really gives a multi-dimensional vocal performance here as he shows the angry and loving side of being a father)"
+    performance {
+      actor {
+        name: "Brian Tyree Henry"
+      }
+      rating: "Good to Very Good"
+      comments: "Really gives a multi-dimensional vocal performance here as he shows the angry and loving side of being a father"
     }
-    actor {
-      name: "Lily Tomlin"
-      comments: "Pretty Good from Lily Tomlin"
+    performance {
+      actor {
+        name: "Lily Tomlin"
+      }
+      rating: "Pretty Good"
     }
-    actor {
-      name: "Luna Lauren V\303\251lez"
-      comments: "Good from Luna Lauren V\303\251lez (Plays the loving, latino mom well)"
+    performance {
+      actor {
+        name: "Luna Lauren V\303\251lez"
+      }
+      rating: "Good"
+      comments: "Plays the loving, latino mom well"
     }
-    actor {
-      name: "John Mulaney"
-      comments: "Pretty Good from John Mulaney (It was very obvious it was John Mulaney throughout the movie)"
+    performance {
+      actor {
+        name: "John Mulaney"
+      }
+      rating: "Pretty Good"
+      comments: "It was very obvious it was John Mulaney throughout the movie"
     }
-    actor {
-      name: "Kimiko Glenn"
-      comments: "Pretty Good from Kimiko Glenn"
+    performance {
+      actor {
+        name: "Kimiko Glenn"
+      }
+      rating: "Pretty Good"
     }
-    actor {
-      name: "Nicolas Cage"
-      comments: "Pretty Good to Good from Nicolas Cage (Typical Nic Cage)"
+    performance {
+      actor {
+        name: "Nicolas Cage"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Typical Nic Cage"
     }
-    actor {
-      name: "Liev Schreiber"
-      comments: "Good to Very Good from Liev Schreiber (Really embodies the King-Pin voice well and does a good job at portraying a menacing villain)"
+    performance {
+      actor {
+        name: "Liev Schreiber"
+      }
+      rating: "Good to Very Good"
+      comments: "Really embodies the King-Pin voice well and does a good job at portraying a menacing villain"
     }
-    cast: "Pretty Good to Good from the rest of the cast"
-    comments: "Good Voice Acting"
+    cast {
+      rating: "Pretty Good to Good"
+    }
+    rating: "Good Voice"
   }
   story {
     writer {
       name: "Phil Lord"
     }
-    comments: "Very Good to Great Story (The actual story follows a pretty standard coming-of-age/origin story that other Spider-Man movies have, but the ideas of the Multi-verse and how Miles has to find his place in the world are really groundbreaking and refreshing respectively (with the former launching the Multi-verse craze other franchises have tried to emulate); some minor complaints when it comes to Miles actually learning how to become Spider-Man as it kind felt like this part of the story was breezed through)"
+    rating: "Very Good to Great"
+    comments: "The actual story follows a pretty standard coming-of-age/origin story that other Spider-Man movies have, but the ideas of the Multi-verse and how Miles has to find his place in the world are really groundbreaking and refreshing respectively (with the former launching the Multi-verse craze other franchises have tried to emulate); some minor complaints when it comes to Miles actually learning how to become Spider-Man as it kind felt like this part of the story was breezed through"
   }
   screenplay {
     writer {
@@ -74,23 +109,35 @@ review {
     writer {
       name: "Rodney Rothman"
     }
-    comments: "Great to Incredible Screenplay ((The dialogue is pretty typical of other Spider-Man movies but flows well (pretty childish and meta overall to encapsulate the teenage character); the humor was actually pretty subtle and funny in its references as it helps show the meta style that Spider-Man is known for; the symbolism was present and does a good job at having many different easter eggs from the Spider-Man franchise); foreshadowing was good as it helped show the parallelism with other Spider-Man stories (which can be argued made it a bit predictable))"
+    rating: "Great to Incredible"
+    comments: "(The dialogue is pretty typical of other Spider-Man movies but flows well (pretty childish and meta overall to encapsulate the teenage character); the humor was actually pretty subtle and funny in its references as it helps show the meta style that Spider-Man is known for; the symbolism was present and does a good job at having many different easter eggs from the Spider-Man franchise); foreshadowing was good as it helped show the parallelism with other Spider-Man stories (which can be argued made it a bit predictable)"
   }
   score {
     composer {
       name: "Daniel Pemberton"
     }
-    comments: "Great Score (Was this nice blend of typical superhero themes with hip-hop, modern elements)"
+    rating: "Great"
+    comments: "Was this nice blend of typical superhero themes with hip-hop, modern elements"
   }
-  soundtrack: "Very Good to Great Soundtrack (And was used well throughout the movie)"
-  sound: "Very Good Sound (especially during the action scenes)"
+  soundtrack {
+    rating: "Very Good to Great"
+    comments: "And was used well throughout the movie"
+  }
   editing {
     editor {
       name: "Robert Fisher Jr."
     }
-    comments: "Incredible Editing (Really showed these different worlds clashing and helped it also give the movie a comic-book feel)"
+    rating: "Incredible"
+    comments: "Really showed these different worlds clashing and helped it also give the movie a comic-book feel"
   }
-  visual_effects: "Brilliant Animation (A true revolutionary way of using 2D animation as it is a trailblazer in bringing this style back from the over-saturated-3D animation market; also, used the comic book visual text elements well to help tell the story)"
+  sound {
+    rating: "Very Good"
+    comments: "Especially during the action scenes"
+  }
+  animation {
+    rating: "Brilliant"
+    comments: "A true revolutionary way of using 2D animation as it is a trailblazer in bringing this style back from the over-saturated-3D animation market; also, used the comic book visual text elements well to help tell the story"
+  }
   plot_structure: "Plot Structure was laid out decently well for the most part as it followed a similar template to other Spider-Man movies (the Coming-of-Age/Origin story template); the exposition and rising action could have been a bit longer though to help fill in some gaps in the origin part of the story"
   pacing: "Pacing was a bit on the faster side as it really felt like the movie was blazing through its story (and this was a big issue during the exposition and rising action as it felt like the relationships he was building with the other Spider-Men were too fast to the point that it did not feel like connected with them at all (even though he did)); the origin part of the story was incredibly fast to the point that it felt like he just understood how to use his power fully after he failed (and no gradual learning process); 10-15 minutes could have been used to help build the teaching relationship between Peter and Miles as he learns to become Spider-Man"
   climax: "Climax was executed very well as it was some of the best animation I have seen and really shows how far in the journey Miles has come"

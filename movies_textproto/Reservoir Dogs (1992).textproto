@@ -5,29 +5,34 @@ review {
     director {
       name: "Quentin Tarantino"
     }
-    comments: "Good Direction"
+    rating: "Good"
   }
   acting {
-    cast: "Good from the rest of the cast (The whole cast, with Steve Buscemi and Harvey Keitel standing out the most)"
-    comments: "Good Acting"
+    cast {
+      rating: "Good"
+      comments: "The whole cast, with Steve Buscemi and Harvey Keitel standing out the most"
+    }
+    rating: "Good"
   }
   story {
     writer {
       name: "Quentin Tarantino"
     }
-    comments: "Good Story"
+    rating: "Good"
   }
   screenplay {
     writer {
       name: "Quentin Tarantino"
     }
-    comments: "Great Screenplay (very Tarantino-esque)"
+    rating: "Great"
+    comments: "Very Tarantino-esque"
   }
   editing {
     editor {
       name: "Sally Menke"
     }
-    comments: "Pretty Good Editing (Tarantino-esque)"
+    rating: "Pretty Good"
+    comments: "Tarantino-esque"
   }
   plot_structure: "Plot Structure is very minimal as the audience is thrown right at the end and they have to put pieces together throughout"
   pacing: "Pacing was all over the place given the way the narrative was told (No fault really); very short runtime (which is fine because there is very little plot)"

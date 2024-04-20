@@ -5,73 +5,111 @@ review {
     director {
       name: "Emerald Fennell"
     }
-    comments: "Pretty Good Direction (Controlled her scenes well on a macro-scale as she used the cinematography and the sets to tell how grandiose Saltburn was (and the dichotomy of how closed off everyone was because of it); Did a pretty good job on a micro scale as the one-on-one scenes were good (especially the ones between Keoghan and Elordi) but the group scenes were not that well executed; the storytelling is overall decent as the overarching story is encapsulated well but the movement between plot points is not as fluid as it could be (with there being some easily spotted continuity issues); Some scenes felt very elongated for no reason and were just really meant to shock rather than have any substance)"
+    rating: "Pretty Good"
+    comments: "Controlled her scenes well on a macro-scale as she used the cinematography and the sets to tell how grandiose Saltburn was (and the dichotomy of how closed off everyone was because of it); Did a pretty good job on a micro scale as the one-on-one scenes were good (especially the ones between Keoghan and Elordi) but the group scenes were not that well executed; the storytelling is overall decent as the overarching story is encapsulated well but the movement between plot points is not as fluid as it could be (with there being some easily spotted continuity issues); Some scenes felt very elongated for no reason and were just really meant to shock rather than have any substance"
   }
   acting {
-    actor {
-      name: "Barry Keoghan"
-      comments: "Very Good from Barry Keoghan (Really captures the persona of this demented hero well as he shows the lengths the protagonist will go to get what he wants)"
+    performance {
+      actor {
+        name: "Barry Keoghan"
+      }
+      rating: "Very Good"
+      comments: "Really captures the persona of this demented hero well as he shows the lengths the protagonist will go to get what he wants"
     }
-    actor {
-      name: "Jacob Elordi"
-      comments: "Very Good from Jacob Elordi (Really uses his charisma and looks to help propel his performance as he really takes control of all the scenes he is in to act as this heavenly god that the main character is trying to chase)"
+    performance {
+      actor {
+        name: "Jacob Elordi"
+      }
+      rating: "Very Good"
+      comments: "Really uses his charisma and looks to help propel his performance as he really takes control of all the scenes he is in to act as this heavenly god that the main character is trying to chase"
     }
-    actor {
-      name: "Rosamund Pike"
-      comments: "Good to Very Good from Rosamund Pike (Plays the dull/out-of-touch character well and has that elitist British tone that helps with her character)"
+    performance {
+      actor {
+        name: "Rosamund Pike"
+      }
+      rating: "Good to Very Good"
+      comments: "Plays the dull/out-of-touch character well and has that elitist British tone that helps with her character"
     }
-    actor {
-      name: "Richard E. Grant"
-      comments: "Good to Very Good from Richard E. Grant (Similiar to Pike in that he plays a dull/out-of-touch character well)"
+    performance {
+      actor {
+        name: "Richard E. Grant"
+      }
+      rating: "Good to Very Good"
+      comments: "Similiar to Pike in that he plays a dull/out-of-touch character well"
     }
-    actor {
-      name: "Alison Oliver"
-      comments: "Good from Alison Oliver (Has a lot of moments that are good as her character\'s emotional instability helps portray a young adolescent)"
+    performance {
+      actor {
+        name: "Alison Oliver"
+      }
+      rating: "Good"
+      comments: "Has a lot of moments that are good as her character\'s emotional instability helps portray a young adolescent"
     }
-    actor {
-      name: "Archie Madekwe"
-      comments: "Good from Archie Madekwe (Plays his character well and has good chemistry being at odds with Keoghan)"
+    performance {
+      actor {
+        name: "Archie Madekwe"
+      }
+      rating: "Good"
+      comments: "Plays his character well and has good chemistry being at odds with Keoghan"
     }
-    actor {
-      name: "Carey Mulligan"
-      comments: "Good from Carey Mulligan (More of a cameo appearance but does a good job in letting her presence be known)"
+    performance {
+      actor {
+        name: "Carey Mulligan"
+      }
+      rating: "Good"
+      comments: "More of a cameo appearance but does a good job in letting her presence be known"
     }
-    cast: "Good from the rest of the cast (Each actor plays their role well as they work off of the main cast)"
-    comments: "Good to Very Good Acting"
+    cast {
+      rating: "Good"
+      comments: "Each actor plays their role well as they work off of the main cast"
+    }
+    rating: "Good to Very Good"
   }
   story {
     writer {
       name: "Emerald Fennell"
     }
-    comments: "Decent to Pretty Good Story (The overarching story is interesting and has a lot of mystery to it as the director slowly peels at what is actually going on; the storytelling is not the best as there are a lot of continuity errors (like Superbad being played on DVD before it is even out in theaters) and is not that clear at points; the characters were written well and have their clear purpose in the story (with the mystery of the lead character helping drive the story forward); There were just the right amount of plot points (it just felt like some of the overall scenes could have been cut down a bit); the movie does not tie everything up well (and this hurts the story as it is not meant to really have things left open to interpretation))"
+    rating: "Decent to Pretty Good"
+    comments: "The overarching story is interesting and has a lot of mystery to it as the director slowly peels at what is actually going on; the storytelling is not the best as there are a lot of continuity errors (like Superbad being played on DVD before it is even out in theaters) and is not that clear at points; the characters were written well and have their clear purpose in the story (with the mystery of the lead character helping drive the story forward); There were just the right amount of plot points (it just felt like some of the overall scenes could have been cut down a bit); the movie does not tie everything up well (and this hurts the story as it is not meant to really have things left open to interpretation)"
   }
   screenplay {
     writer {
       name: "Emerald Fennell"
     }
-    comments: "Decent to Pretty Good Screenplay (The dialogue flowed very well and felt like it was of the time and the place; the symbolism is somewhat there but it does not help with portraying the message; the foreshadowing was good as it helped with showing who the main character really is (and was not that predictable))"
+    rating: "Decent to Pretty Good"
+    comments: "The dialogue flowed very well and felt like it was of the time and the place; the symbolism is somewhat there but it does not help with portraying the message; the foreshadowing was good as it helped with showing who the main character really is (and was not that predictable)"
   }
   score {
     composer {
       name: "Anthony Willis"
     }
-    comments: "Pretty Good Score"
+    rating: "Pretty Good"
   }
-  soundtrack: "Good Soundtrack (really helped with setting the time)"
+  soundtrack {
+    rating: "Good"
+    comments: "Really helped with setting the time"
+  }
   cinematography {
     cinematographer {
       name: "Linus Sandgren"
     }
-    comments: "Incredible Cinematography (Really felt very grand and helped with showing how big and lost you can be in Saltburn)"
+    rating: "Incredible"
+    comments: "Really felt very grand and helped with showing how big and lost you can be in Saltburn"
   }
-  sound: "Bad Sound (The dialogue was not mixed well as a lot of times it was unclear what they were saying or the music was too loud that the dialogue just felt inaudible)"
   editing {
     editor {
       name: "Victoria Boydell"
     }
-    comments: "Decent Editing (Overall was good and helped with showing how grand Saltburn was and how small the subjects were inside it; some of the scenes felt just unnecessarily long and could have been cut to provide the same effect (especially for the more grotesque scenes))"
+    rating: "Decent"
+    comments: "Overall was good and helped with showing how grand Saltburn was and how small the subjects were inside it; some of the scenes felt just unnecessarily long and could have been cut to provide the same effect (especially for the more grotesque scenes)"
   }
-  production_design: "Great Production Design (The sets in Saltburn were just so grand and illustrious that they helped with showing the wealth the family had; the college sets were all very stunning as they helped show the history of the school; the party (and aftermath) was designed very well to just show how many people were there)"
+  sound {
+    rating: "Bad"
+    comments: "The dialogue was not mixed well as a lot of times it was unclear what they were saying or the music was too loud that the dialogue just felt inaudible"
+  }
+  production_design {
+    rating: "Great"
+    comments: "The sets in Saltburn were just so grand and illustrious that they helped with showing the wealth the family had; the college sets were all very stunning as they helped show the history of the school; the party (and aftermath) was designed very well to just show how many people were there"
+  }
   plot_structure: "Plot Structure was good as the points were laid out well and each overall component helped build to the next one (it is just inside of these components it did not feel like the story progressed well between scenes)runtime could have been cut down by making some of the scenes sorter as it would not have that much effect on the story (shaving maybe 5-10 minutes)"
   pacing: "Pacing was fine as it did not feel like it was too fast or slow"
   climax: "Climax was decently executed as it is presented in a very shocking way (but the more you think about it the more holes you see in the continuity)"

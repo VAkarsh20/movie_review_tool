@@ -5,23 +5,32 @@ review {
     director {
       name: "Joe Pytka"
     }
-    comments: "Pretty Bad Direction"
+    rating: "Pretty Bad"
   }
   acting {
-    actor {
-      name: "Michael Jordan"
-      comments: "Decent from Michael Jordan"
+    performance {
+      actor {
+        name: "Michael Jordan"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Wayne Knight"
-      comments: "Pretty Good to Good from Wayne Knight"
+    performance {
+      actor {
+        name: "Wayne Knight"
+      }
+      rating: "Pretty Good to Good"
     }
-    actor {
-      name: "Danny DeVito"
-      comments: "Great from Danny DeVito"
+    performance {
+      actor {
+        name: "Danny DeVito"
+      }
+      rating: "Great"
     }
-    cast: "Decent from the rest of the cast (Very Bad from the rest of the live acting cast; Great Voice Acting by the entire Looney Tunes cast)"
-    comments: "Bad Acting"
+    cast {
+      rating: "Decent"
+      comments: "Very Bad from the rest of the live acting cast; Great Voice Acting by the entire Looney Tunes cast"
+    }
+    rating: "Bad"
   }
   story {
     writer {
@@ -36,7 +45,7 @@ review {
     writer {
       name: "Herschel Weingrod"
     }
-    comments: "Good Story"
+    rating: "Good"
   }
   screenplay {
     writer {
@@ -51,29 +60,39 @@ review {
     writer {
       name: "Herschel Weingrod"
     }
-    comments: "Decent Screenplay (Two halves (Looney Tunes Parts were great and very similar to its traditional style, Real life parts were bad to pretty bad overall); there were some good references and jokes that I did appreciate (Mighty Ducks, Pulp Fiction, Patton, etc.))"
+    rating: "Decent"
+    comments: "Two halves (Looney Tunes Parts were great and very similar to its traditional style, Real life parts were bad to pretty bad overall); there were some good references and jokes that I did appreciate (Mighty Ducks, Pulp Fiction, Patton, etc.)"
   }
   score {
     composer {
       name: "James Newton Howard"
     }
-    comments: "Decent to Pretty Good Score (Liked how it incorporated Looney Tunes elements)"
+    rating: "Decent to Pretty Good"
+    comments: "Liked how it incorporated Looney Tunes elements"
   }
-  soundtrack: "Good Soundtrack"
+  soundtrack {
+    rating: "Good"
+  }
   cinematography {
     cinematographer {
       name: "Michael Chapman"
     }
-    comments: "Pretty Good Cinematography (made it feel very animated)"
+    rating: "Pretty Good"
+    comments: "Made it feel very animated"
   }
-  sound: "Decent Sound"
   editing {
     editor {
       name: "Sheldon Kahn"
     }
-    comments: "Decent Editing"
+    rating: "Decent"
   }
-  visual_effects: "Pretty Good Animation (Stitched well with real life (especially for the time) as it gives it a pretty cartoony feel)"
+  sound {
+    rating: "Decent"
+  }
+  animation {
+    rating: "Pretty Good"
+    comments: "Stitched well with real life (especially for the time) as it gives it a pretty cartoony feel"
+  }
   pacing: "Pacing was very fast and really rushed between plot elements; Runtime was very short (definitely could have used 15-20 minutes in the rising action as the film goes from exposition to the climax)"
   climax: "Skips build to climax; the actual basketball game (climax) was executed very well as it was the best part of the movie and gives off a good message to the audience"
   final_notes: "The movie is pretty surface level but the majority of it is geared towards kids and people who wanted to see MJ so i give it a pass"

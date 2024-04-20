@@ -5,31 +5,43 @@ review {
     director {
       name: "John Badham"
     }
-    comments: "Pretty Good Direction (Able to move the movie forward and executes the dancing sequences very well, but besides this, he really does not get that much out of his actors and there are a lot of questionable scenes)"
+    rating: "Pretty Good"
+    comments: "Able to move the movie forward and executes the dancing sequences very well, but besides this, he really does not get that much out of his actors and there are a lot of questionable scenes"
   }
   acting {
-    actor {
-      name: "John Travolta"
-      comments: "Very Good from John Travolta (In a very \"John Travolta\" way, a film that really puts him on the map for his exaggerated character)"
+    performance {
+      actor {
+        name: "John Travolta"
+      }
+      rating: "Very Good"
+      comments: "In a very \"John Travolta\" way, a film that really puts him on the map for his exaggerated character"
     }
-    actor {
-      name: "Karen Lynn Gorney"
-      comments: "Decent from Karen Lynn Gorney (Has some good moments and has some questionable ones)"
+    performance {
+      actor {
+        name: "Karen Lynn Gorney"
+      }
+      rating: "Decent"
+      comments: "Has some good moments and has some questionable ones"
     }
-    cast: "Pretty Bad to Decent from the rest of the cast (A lot of the characters play the stereotypical New York Italian and it just gets so annoying to watch/listen to after a while)"
-    comments: "Pretty Bad to Decent Acting"
+    cast {
+      rating: "Pretty Bad to Decent"
+      comments: "A lot of the characters play the stereotypical New York Italian and it just gets so annoying to watch/listen to after a while"
+    }
+    rating: "Pretty Bad to Decent"
   }
   story {
     writer {
       name: "Norman Wexler"
     }
-    comments: "Decent Story (Pretty formulaic and easy to predict, nothing really of substance)"
+    rating: "Decent"
+    comments: "Pretty formulaic and easy to predict, nothing really of substance"
   }
   screenplay {
     writer {
       name: "Norman Wexler"
     }
-    comments: "Decent Screenplay (As a whole, it is fine and gets the job done (very surface level), but there are just way to many stereotypical Italian mannerisms that it gets annoying)"
+    rating: "Decent"
+    comments: "As a whole, it is fine and gets the job done (very surface level), but there are just way to many stereotypical Italian mannerisms that it gets annoying"
   }
   score {
     composer {
@@ -38,23 +50,33 @@ review {
     composer {
       name: "David Shire"
     }
-    comments: "Decent Score (Movie is all about the soundtrack)"
+    rating: "Decent"
+    comments: "Movie is all about the soundtrack"
   }
-  soundtrack: "Great to Incredible Soundtrack (The actual songs were Incredible, but there were moments where I felt the director did not use the soundtrack properly (like reusing songs))"
+  soundtrack {
+    rating: "Great to Incredible"
+    comments: "The actual songs were Incredible, but there were moments where I felt the director did not use the soundtrack properly (like reusing songs)"
+  }
   cinematography {
     cinematographer {
       name: "Ralf D. Bode"
     }
-    comments: "Pretty Good Cinematography (The cinematography comes to life in the dancing scenes as I liked the very low angle shots to show how big of a dancer Travolta\'s character was)"
+    rating: "Pretty Good"
+    comments: "The cinematography comes to life in the dancing scenes as I liked the very low angle shots to show how big of a dancer Travolta\'s character was"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "David Rawlins"
     }
-    comments: "Pretty Good Editing"
+    rating: "Pretty Good"
   }
-  costumes: "Pretty Good Costumes (Very Disco-esque attire)"
+  sound {
+    rating: "Good"
+  }
+  costumes {
+    rating: "Pretty Good"
+    comments: "Very Disco-esque attire"
+  }
   plot_structure: "Plot Structure was structured pretty well with no major problems (except the end kinda falls apart as it really could have ended 10-15 minutes earlier)"
   pacing: "Pacing was fine"
   climax: "Build to climax was not well done as the movie builds to the competition as if it is th the climax but the real climax is after (therefore, it just feels like it was building to nothing); climax was kinda boring as it was not what the movie was building to"
