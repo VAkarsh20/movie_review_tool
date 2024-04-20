@@ -1,0 +1,102 @@
+title: "Jack and Jill"
+rating: 2.5
+review {
+  direction {
+    director {
+      name: "Dennis Dugan"
+    }
+    rating: "Terrible"
+    comments: "Direction (The direction on a macroscale is incredibly formulaic and low-effort (similar to other Adam Sandler movies from this time period); the direction on a microscale is formulaic and tries very hard to get the comedy out in the movie; storytelling is templated and formulaic (similar to other Adam Sandler movies))"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Adam Sandler"
+      }
+      rating: "Bad"
+      comments: "from Adam Sandler (Pretty Bad from Jack because he's just playing the typical straight-man Adam Sandler character (who has his over-the-top moments); Very Bad from Jill because it is just so obnoxious and hard to sit through (burn all references to Jill in his filmography))"
+    }
+    performance {
+      actor {
+        name: "Katie Holmes"
+      }
+      rating: "Pretty Bad"
+      comments: "from Katie Holmes (Has ok chemistry with Sandler, but she does not do anything to make this performance memorable)"
+    }
+    performance {
+      actor {
+        name: "Al Pacino"
+      }
+      rating: "Decent"
+      comments: "from Al Pacino (Plays Al Pacino but he is acting his ass off in some moments; he did not take any direction because it was obvious he did not want to be there)"
+    }
+    cast {
+      rating: "Bad"
+      comments: "from the rest of the cast (Typical Adam Sandler background characters; this does not count any child actors)"
+    }
+    rating: "Bad to Pretty Bad"
+  }
+  story {
+    writer {
+      name: "Ben Zook"
+    }
+    rating: "Terrible"
+    comments: "Story (The concept is incredibly stupid; the plot structure is very formulaic and forced; character writing is very forced and shallow)"
+  }
+  screenplay {
+    writer {
+      name: "Steve Koren"
+    }
+    writer {
+      name: "Adam Sandler"
+    }
+    rating: "Very Bad"
+    comments: "Screenplay (The dialogue is low effort and similar to other Adam Sandler movies; the humor is not terrible because I will admit I did laugh at some moments, but it is very bad because the hit rate is like 1/8; the symbolism is shallow because it's a formulaic family message; the foreshadowing is a problem because this movie is too predictable)"
+  }
+  score {
+    composer {
+      name: "Rupert Gregson-Williams"
+    }
+    composer {
+      name: "Waddy Wachtel"
+    }
+    rating: "Decent"
+    comments: "Score"
+  }
+  cinematography {
+    cinematographer {
+      name: "Dean Cundey"
+    }
+    rating: "Terrible"
+    comments: "Cinematography (The frame rate was like off at some moments, there were too many cuts, and some of the scenes felt like they were from a multi-cam sitcom)"
+  }
+  editing {
+    editor {
+      name: "Tom Costain"
+    }
+    rating: "Terrible"
+    comments: "Editing (The cut felt very amateur and low effort; there were so many unnecessary cuts that it was very confusing)"
+  }
+  sound {
+    rating: "Decent"
+    comments: "Sound"
+  }
+  visual_effects {
+    rating: "Terrible"
+    comments: "Visual Effects (Very obvious and unnatural; clearly evident where the 79 million dollar budget went)"
+  }
+  makeup {
+    rating: "Bad"
+    comments: "Makeup (They just put drugstore makeup on the Sandman and called him a woman)"
+  }
+  pacing: "Pacing was decent because the movie followed the Sandler template"
+  climax: "Climax is very predictable"
+  tone: "Tone is very similar to other Sandler movies (just obnoxious comedy)"
+  final_notes: "There is no way this movie cost 79 million dollars to make"
+  overall: "Overall, this may not be the worst movie ever made because it does have some moments and a 'memorable' performance from Al Pacino, but a majority of this movie is unwatchable and needs to be burned from existence"
+}
+release_year: 2011
+review_date: "04/12/2024"
+redux: false
+id: 439
+imdb_id: "tt0810913"

@@ -39,7 +39,7 @@ message Movie {
             }
             repeated Performance performance = 1;
             optional GenericCategory cast = 2;
-            optional string comments = 3;
+            optional string rating = 3;
         }
         
         message Story {
@@ -80,16 +80,19 @@ message Movie {
         optional Cinematography cinematography = 6;
         optional Editing editing = 7;
         optional GenericCategory sound = 8;
-        optional GenericCategory visual_effects = 9;
-        optional GenericCategory production_design = 10;
-        optional GenericCategory makeup = 11;
-        optional GenericCategory costumes = 12;
-        optional string plot_structure = 13;
-        optional string pacing = 14;
-        optional string climax = 15;
-        optional string tone = 16;
-        optional string final_notes = 17;
-        optional string overall = 18;
+        oneof visuals {
+            GenericCategory visual_effects = 9;
+            GenericCategory animation = 10;
+        }
+        optional GenericCategory production_design = 11;
+        optional GenericCategory makeup = 12;
+        optional GenericCategory costumes = 13;
+        optional string plot_structure = 14;
+        optional string pacing = 15;
+        optional string climax = 16;
+        optional string tone = 17;
+        optional string final_notes = 18;
+        optional string overall = 19;
     }
 }
 
@@ -124,7 +127,7 @@ message MovieOldFormat {
         }
 
         message Direction {
-            repeated Person director = 1;
+            repeated Movie.Review.Person director = 1;
             optional string comments = 2;
         }
         
@@ -135,27 +138,27 @@ message MovieOldFormat {
         }
         
         message Story {
-            repeated Person writer = 1;
+            repeated Movie.Review.Person writer = 1;
             optional string comments = 2;
         }
 
         message Screenplay {
-            repeated Person writer = 1;
+            repeated Movie.Review.Person writer = 1;
             optional string comments = 2;
         }
 
         message Score {
-            repeated Person composer = 1;
+            repeated Movie.Review.Person composer = 1;
             optional string comments = 2;
         }
 
         message Cinematography {
-            repeated Person cinematographer = 1;
+            repeated Movie.Review.Person cinematographer = 1;
             optional string comments = 2;
         }
 
         message Editing {
-            repeated Person editor = 1;
+            repeated Movie.Review.Person editor = 1;
             optional string comments = 2;
         }
 

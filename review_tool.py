@@ -141,8 +141,8 @@ def get_acting(infobox):
     # Add comments on the overall cast
     acting.cast.CopyFrom(get_generic("from the rest of the cast ()"))
 
-    # Overall Comments on Acting
-    acting.comments = ""
+    # Overall Rating on Acting
+    acting.rating = ""
 
     return acting
 

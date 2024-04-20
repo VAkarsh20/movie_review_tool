@@ -1,0 +1,131 @@
+title: "Civil War"
+rating: 7.1
+review {
+  direction {
+    director {
+      name: "Alex Garland"
+    }
+    rating: "Pretty Good"
+    comments: "Direction (The direction on a macroscale is good as it shows how divided the country is and how horrifying the Civil War is on the country and its victims; the direction on a microscale is pretty bad as it is very monotonous and does not do a good job at showing how the conflict is personally effecting the characters, does not do a good job at providing any depth or growing the relationships between these characters; direction of actors is not good because none of the performances feel elevated; storytelling is good as it mimics the hero's journey in how these characters have to travel to reach a goal, it is during this trip that we see how impacted this country is from the Civil War; builds tension very well as it is a major mechanism in driving the story forward, there are many scenes that truly have you on the edge of your seat with how tense and horrifying they are (like the Jesse Plemons scene))"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Kirsten Dunst"
+      }
+      rating: "Decent"
+      comments: "from Kirsten Dunst (Does as much as is possible given how her character is written because her monotonous performance mimics how desensitized her character is to war)"
+    }
+    performance {
+      actor {
+        name: "Wagner Moura"
+      }
+      rating: "Decent"
+      comments: "from Wagner Moura (A real hit or miss performance as he does a good job at showing a wide range of emotions and showing how traumatized he is from the war, but has a mismatch in levels with his castmates and never really builds chemistry)"
+    }
+    performance {
+      actor {
+        name: "Cailee Spaeny"
+      }
+      rating: "Pretty Bad"
+      comments: "from Cailee Spaeny (Not convincing as a naive photographer and does not do a good job at connecting with her castmates in the more interpersonal scenes; while there are some moments where she does go outside of her comfort zone (like the Jesse Plemons scene), she does not have that wide of a range of emotions)"
+    }
+    performance {
+      actor {
+        name: "Stephen McKinley Henderson"
+      }
+      rating: "Prett Good"
+      comments: "from Stephen McKinley Henderson (Does a good job at showing his wisdom and being the elderly figure in the group)"
+    }
+    performance {
+      actor {
+        name: "Sonoya Mizuno"
+      }
+      rating: "Decent"
+      comments: "from Sonoya Mizuno (Really just in the movie to fulfill her Alex Garland cameo)"
+    }
+    performance {
+      actor {
+        name: "Nick Offerman"
+      }
+      rating: "Decent"
+      comments: "from Nick Offerman (He's really in the movie for like 2 scenes)"
+    }
+    performance {
+      actor {
+        name: "Jesse Plemons"
+      }
+      rating: "Good"
+      comments: "from Jesse Plemons (A real scene stealer as he does a great job in building tension through his menacing nature as he is a major factor in creating the best scene in the movie; he shows that he is one of the best pinch hitters in the business as he makes such a memorable impact despite always having little screentime)"
+    }
+    cast {
+      rating: "Pretty Bad"
+      comments: "from the rest of the cast (Just a lot of background, inexperienced actors who do not support or connect with the main cast)"
+    }
+    rating: "Pretty Bad to Decent"
+  }
+  story {
+    writer {
+      name: "Alex Garland"
+    }
+    rating: "Decent"
+    comments: "Story (The concept is pretty good as the movie is really about wartime journalism and the lengths journalists will go to cover a story, and even though there are some political undertones, they do not overshadow the movie; the plot structure is pretty formulaic as it just follows the hero's journey and the quest to reach a goal; the flow between sequences is very off as there are many scenes that feel unnatural and rushed; character writing is pretty bad as they aren't provided with any interesting depth and the interpersonal scenes do not do a good job at making you care for any of the characters)"
+  }
+  screenplay {
+    writer {
+      name: "Alex Garland"
+    }
+    rating: "Decent"
+    comments: "Screenplay (The dialogue is pretty bland and unnatural as there were many scenes where I scratched my head at how some of the lines made the final cut, and a major issue is the dialogue is just so to the point that it disrupts the flow and contributes to the conversations feeling unnatural; the humor is decent as there are some funny moments, but a lot of the jokes flew over the audiences heads; the overarching conflict is a symbol as the Civil War is an overt symbol for Trump having an authoritarian rule over the country, and there are many symbols for how the divided the country will become, but the main message of the movie is about the integrity of journalists and their fight for the story and the truth; the foreshadowing is kinda an issue because it makes the movie pretty predictable, especially in the climax)"
+  }
+  score {
+    composer {
+      name: "Ben Salisbury"
+    }
+    composer {
+      name: "Geoff Barrow"
+    }
+    rating: "Decent"
+    comments: "Score (Helps provide tension and add to the tone); Pretty Good Soundtrack"
+  }
+  cinematography {
+    cinematographer {
+      name: "Rob Hardy"
+    }
+    rating: "Very Good to Great"
+    comments: "Cinematography (Filled with both beautiful and horrifying images as it helps show the true complexity in a divided nation; I really enjoyed when they interjected the movie with photography stills, but I would've liked to have seen it used more consistently)"
+  }
+  editing {
+    editor {
+      name: "Jake Roberts"
+    }
+    rating: "Good"
+    comments: "Editing (Helps give the movie an auter feel in such a heavy blockbuster; helps show the response of these characters during traumatic scenes, with it sometimes having their point of view photo shots)"
+  }
+  sound {
+    rating: "Great"
+    comments: "Sound (Used well and feels authentic to show the warfare in the country)"
+  }
+  visual_effects {
+    rating: "Decent"
+    comments: "Visual Effects (Practical effects are used effectively, but the CGI is really obvious and kinda tacky at times)"
+  }
+  production_design {
+    rating: "Good"
+    comments: "Production Design (Helps show the destruction of America, juxtaposed with the areas that are unaffected)"
+  }
+  makeup {
+    rating: "Good"
+    comments: "Makeup (Shows the grit, grime, and blood of the Civil War)"
+  }
+  pacing: "Pacing is good as the movie did not feel too slow or fast; Scenes in the second half of the movie could have been cut because this latter part feels a bit bloated (especially in the climax)"
+  climax: "Climax is the biggest spectacle in terms of warfare, but is incredibly predictable as you know what is going to happen within the first minute"
+  tone: "Tone feels very similar to other war movies (like Saving Private Ryan) with how these characters are trying to get through this traumatic experience"
+  final_notes: "The movie is less political than I thought it would be as it is more about the characters than the conflict (the only issue is, the characters are pretty poorly written because you don't care for any of them)"
+  overall: "Overall, a symbolic film that uses cinematography, tension, and  sound well to highlight the importance of wartime journalism in such a divided country, but the movie's potential for a profound message is hindered by its bland writing and interpersonal scenes making it difficult to care for these characters"
+}
+release_year: 2024
+review_date: "04/14/2024"
+redux: false
+id: 440
+imdb_id: "tt17279496"

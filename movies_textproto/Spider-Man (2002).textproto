@@ -1,8 +1,128 @@
 title: "Spider-Man"
-rating: 8.5
-review: "Iconic, great story, Decent acting, plot holes in how he became a good fighter, a childhood movie favorite, good screenplay, plays emotions pretty well, good action."
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Sam Raimi"
+    }
+    rating: "TODO"
+    comments: "Direction (the direction on a macroscale is very good as builds this comic-book version on New York City and ; microscale is; direction of actors is; storytelling is; tension is)"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Tobey Maguire"
+      }
+      rating: "TODO"
+      comments: "from Tobey Maguire ()"
+    }
+    performance {
+      actor {
+        name: "Willem Dafoe"
+      }
+      rating: "TODO"
+      comments: "from Willem Dafoe ()"
+    }
+    performance {
+      actor {
+        name: "Kirsten Dunst"
+      }
+      rating: "TODO"
+      comments: "from Kirsten Dunst ()"
+    }
+    performance {
+      actor {
+        name: "James Franco"
+      }
+      rating: "TODO"
+      comments: "from James Franco ()"
+    }
+    performance {
+      actor {
+        name: "Cliff Robertson"
+      }
+      rating: "TODO"
+      comments: "from Cliff Robertson ()"
+    }
+    performance {
+      actor {
+        name: "Rosemary Harris"
+      }
+      rating: "TODO"
+      comments: "from Rosemary Harris ()"
+    }
+    cast {
+      rating: "TODO"
+      comments: "from the rest of the cast () ()"
+    }
+    rating: ""
+  }
+  story {
+    writer {
+      name: "David Koepp"
+    }
+    rating: "TODO"
+    comments: "Story (The concept is; the plot structure is; flow between sequences is; character writing is)"
+  }
+  screenplay {
+    writer {
+      name: "David Koepp"
+    }
+    rating: "TODO"
+    comments: "Screenplay (The dialogue is; the humor is; the symbolism is; the foreshadowing is)"
+  }
+  score {
+    composer {
+      name: "Danny Elfman"
+    }
+    rating: "TODO"
+    comments: "Score ()"
+  }
+  cinematography {
+    cinematographer {
+      name: "Don Burgess"
+    }
+    rating: "TODO"
+    comments: "Cinematography ()"
+  }
+  editing {
+    editor {
+      name: "Bob Murawski"
+    }
+    editor {
+      name: "Arthur Coburn"
+    }
+    rating: "TODO"
+    comments: "Editing ()"
+  }
+  sound {
+    rating: "TODO"
+    comments: "Sound ()"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "Visual Effects ()"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "Production Design ()"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "Makeup ()"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "Costumes ()"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
 release_year: 2002
-review_date: "05/21/2017"
-redux: false
+review_date: "04/18/2024"
+redux: true
 id: 22
 imdb_id: "tt0145487"

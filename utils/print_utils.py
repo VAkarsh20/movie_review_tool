@@ -56,8 +56,13 @@ def print_imdb_review(proto, filename):
 
     return review.rstrip()
 
-def combine_rating_and_comments(field):
-    return "{} {}".format(field.rating, field.comments)
+def combine_rating_and_comments(field, fieldname=""):
+
+    rating, comments = field.rating, field.comments
+    if comments == "":
+        return "{} {}".format(rating, fieldname)
+
+    return "{} {} ({})".format(rating, fieldname, comments)
 
 def combine_review_fields(proto, filename):
     
@@ -65,57 +70,60 @@ def combine_review_fields(proto, filename):
     
     # Direction
     if proto.review.direction != "":
-        review.append(combine_rating_and_comments(proto.review.direction))
+        review.append(combine_rating_and_comments(proto.review.direction, "Direction"))
     
     # Acting
     if proto.review.acting != "":
-        acting = proto.review.acting.comments + " Acting ("
+        acting = proto.review.acting.rating + " Acting ("
         for actor in proto.review.acting.performance:
             acting += "{}, ".format(combine_rating_and_comments(actor))
-        acting += combine_rating_and_comments(proto.review.acting.cast) + ")"
+        acting += combine_rating_and_comments(proto.review.acting.cast, "from the rest of the cast") + ")"
         review.append(acting)
 
     # Story
     if proto.review.story.comments != "":
-        review.append(combine_rating_and_comments(proto.review.story))
+        review.append(combine_rating_and_comments(proto.review.story, "Story"))
 
     # Screenplay
     if proto.review.screenplay.comments != "":
-        review.append(combine_rating_and_comments(proto.review.screenplay))
+        review.append(combine_rating_and_comments(proto.review.screenplay, "Screenplay"))
 
     # Score
     if proto.review.score.comments != "":
-        review.append(combine_rating_and_comments(proto.review.score))
+        review.append(combine_rating_and_comments(proto.review.score, "Score"))
     
     # Cinematography
     if proto.review.cinematography.comments != "":
-        review.append(combine_rating_and_comments(proto.review.cinematography))
+        review.append(combine_rating_and_comments(proto.review.cinematography, "Cinematography"))
 
     # Editing
     if proto.review.editing.comments != "":
-        review.append(combine_rating_and_comments(proto.review.editing))
+        review.append(combine_rating_and_comments(proto.review.editing, "Editing"))
 
     # Sound
     if proto.review.sound.comments != "":
-        review.append(combine_rating_and_comments(proto.review.sound))
+        review.append(combine_rating_and_comments(proto.review.sound, "Sound"))
     
     # Visual Effects
     if proto.review.visual_effects.comments != "":
-        review.append(combine_rating_and_comments(proto.review.visual_effects))
+        review.append(combine_rating_and_comments(proto.review.visual_effects, "Visual Effects"))
+
+    # Animation
+    if proto.review.visual_effects.comments != "":
+        review.append(combine_rating_and_comments(proto.review.visual_effects, "Animation"))
     
     # Production Design
     if proto.review.production_design.rating != "":
-        review.append(combine_rating_and_comments(proto.review.production_design))
+        review.append(combine_rating_and_comments(proto.review.production_design, "Production Design"))
 
     # Makeup
     if proto.review.makeup.rating != "":
-        review.append(combine_rating_and_comments(proto.review.makeup))
+        review.append(combine_rating_and_comments(proto.review.makeup, "Makeup"))
         review.append(proto.review.makeup.comments)
 
     # Costumes
     if proto.review.costumes.rating != "":
-        review.append(combine_rating_and_comments(proto.review.costumes))
-        review.append(proto.review.costumes.comments)
+        review.append(combine_rating_and_comments(proto.review.costumes, "Costumes"))
 
     # Plot Structure
     if proto.review.plot_structure != "":
