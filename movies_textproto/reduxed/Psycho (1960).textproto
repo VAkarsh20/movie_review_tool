@@ -5,49 +5,60 @@ review {
     director {
       name: "Alfred Hitchcock"
     }
-    comments: "Great Direction (was able to manage the use of different angles and scenes to help tell and move the story forward)"
+    rating: "Great"
+    comments: "Was able to manage the use of different angles and scenes to help tell and move the story forward"
   }
   acting {
-    actor {
-      name: "Anthony Perkins"
-      comments: "Great from Anthony Perkins"
+    performance {
+      actor {
+        name: "Anthony Perkins"
+      }
+      rating: "Great"
     }
-    actor {
-      name: "Janet Leigh"
-      comments: "Very Good from Janet Leigh"
+    performance {
+      actor {
+        name: "Janet Leigh"
+      }
+      rating: "Very Good"
     }
-    cast: "Good from the rest of the cast"
-    comments: "Good to Very Good Acting"
+    cast {
+      rating: "Good"
+    }
+    rating: "Good to Very Good"
   }
   story {
     writer {
       name: "Joseph Stefano"
     }
-    comments: "Great Story that is filled with twists and turns"
+    rating: "Great"
   }
   screenplay {
     writer {
       name: "Joseph Stefano"
     }
-    comments: "Very Good Screenplay (uses allusions and symbols to help keep the audience guessing the mystery; also, the dialogue was very fitting for the time)"
+    rating: "Very Good"
+    comments: "Uses allusions and symbols to help keep the audience guessing the mystery; also, the dialogue was very fitting for the time"
   }
   score {
     composer {
       name: "Bernard Herrmann"
     }
-    comments: "Great/Iconic Score that helps with building suspense"
+    rating: "Great"
+    comments: "Iconic"
   }
   cinematography {
     cinematographer {
       name: "John L. Russell"
     }
-    comments: "Great Cinematography (especially the use of multiple camera angles and techniques to give illusions of fear and movement)"
+    rating: "Great"
+    comments: "Especially the use of multiple camera angles and techniques to give illusions of fear and movement"
   }
   editing {
     editor {
       name: "George Tomasini"
     }
-    comments: "Very Good to Great Editing that helps with transitioning between scenes and camera angles"
+    rating: "Very Good to Great"
+    comments: "Helps with transitioning between scenes and camera angles"
   }
   plot_structure: "Plot Structure was good as all points were laid out at the perfect time in the movie; the resolution (while iconic) was a bit convoluted for no reason"
   pacing: "Pacing for the most part was good (although there were a lot of filler shots that could be cut into a quarter of the time just to fill space (like Norman cleaning or Marion\'s sister walking up the stairs))"

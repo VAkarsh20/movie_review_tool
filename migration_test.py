@@ -116,7 +116,7 @@ class TestMigration(unittest.TestCase):
         self.assertEqual(new_field, test_field)
     
     def test_convert_story__has_details__comments_set(self):
-        old_field = movie_pb2.MovieOldFormat.Review.Story(comments = "Very Good Story (There are comments (sub-comments))")
+        old_field = movie_pb2.MovieOldFormat.Review.Story(comments = "Very Good Story (there are comments (sub-comments))")
 
         new_field = convert_story(old_field, "Test")
         test_field = movie_pb2.Movie.Review.Story(rating = "Very Good", comments = "There are comments (sub-comments)")
@@ -139,7 +139,7 @@ class TestMigration(unittest.TestCase):
         self.assertEqual(new_field, test_field)
     
     def test_convert_screenplay__has_details__comments_set(self):
-        old_field = movie_pb2.MovieOldFormat.Review.Screenplay(comments = "Very Good Screenplay (There are comments (sub-comments))")
+        old_field = movie_pb2.MovieOldFormat.Review.Screenplay(comments = "Very Good Screenplay (there are comments (sub-comments))")
 
         new_field = convert_screenplay(old_field, "Test")
         test_field = movie_pb2.Movie.Review.Screenplay(rating = "Very Good", comments = "There are comments (sub-comments)")
@@ -168,7 +168,7 @@ class TestMigration(unittest.TestCase):
         self.assertEqual(new_field, test_field)
     
     def test_convert_score__has_details__comments_set(self):
-        old_field = movie_pb2.MovieOldFormat.Review.Score(comments = "Very Good Score (There are comments (sub-comments))")
+        old_field = movie_pb2.MovieOldFormat.Review.Score(comments = "Very Good Score (there are comments (sub-comments))")
 
         new_field = convert_score(old_field, "Test")
         test_field = movie_pb2.Movie.Review.Score(rating = "Very Good", comments = "There are comments (sub-comments)")

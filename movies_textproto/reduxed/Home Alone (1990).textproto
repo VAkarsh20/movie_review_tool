@@ -5,53 +5,72 @@ review {
     director {
       name: "Chris Columbus"
     }
-    comments: "Very Good to Great Direction (able to bring out the humor and joy in many moments, helps set the lighthearted tone that Kevin brings throughout the movie)"
+    rating: "Very Good to Great"
+    comments: "Able to bring out the humor and joy in many moments, helps set the lighthearted tone that kevin brings throughout the movie"
   }
   acting {
-    actor {
-      name: "Macaulay Culkin"
-      comments: "Great from Macaulay Culkin (able to bring the charm the movie is known for)"
+    performance {
+      actor {
+        name: "Macaulay Culkin"
+      }
+      rating: "Great"
+      comments: "Able to bring the charm the movie is known for"
     }
-    actor {
-      name: "Joe Pesci"
-      comments: "Great from Joe Pesci (able to bring the charm the movie is known for)"
+    performance {
+      actor {
+        name: "Joe Pesci"
+      }
+      rating: "Great"
+      comments: "Able to bring the charm the movie is known for"
     }
-    actor {
-      name: "Daniel Stern"
-      comments: "Very Good from Daniel Stern (the good comedic relief to the comedic relief from Joe Pesci)"
+    performance {
+      actor {
+        name: "Daniel Stern"
+      }
+      rating: "Very Good"
+      comments: "The good comedic relief to the comedic relief from joe pesci"
     }
-    actor {
-      name: "Catherine O\'Hara"
-      comments: "Good to Very Good from Catherine O\'Hara"
+    performance {
+      actor {
+        name: "Catherine O\'Hara"
+      }
+      rating: "Good to Very Good"
     }
-    cast: "Decent to Pretty Good from the rest of the cast"
-    comments: "Pretty Good to Good Acting"
+    cast {
+      rating: "Decent to Pretty Good"
+    }
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
       name: "John Hughes"
     }
-    comments: "Great to Incredible Story (Something that was very unique and iconic for the time as it takes the Christmas movie genre to new heights)"
+    rating: "Great to Incredible"
+    comments: "Something that was very unique and iconic for the time as it takes the christmas movie genre to new heights"
   }
   screenplay {
     writer {
       name: "John Hughes"
     }
-    comments: "Very Good to Great Screenplay (Filled with iconic lines but the actual dialogue is pretty simple (mostly due to the movie staring a child and it being a family movie))"
+    rating: "Very Good to Great"
+    comments: "Filled with iconic lines but the actual dialogue is pretty simple (mostly due to the movie staring a child and it being a family movie)"
   }
   score {
     composer {
       name: "John Williams"
     }
-    comments: "Incredible Score (One of John Williams most iconic works)"
+    rating: "Incredible"
+    comments: "One of john williams most iconic works"
   }
   cinematography {
     cinematographer {
       name: "Julio Macat"
     }
-    comments: "Good Cinematography"
+    rating: "Good"
   }
-  sound: "Good Sound"
+  sound {
+    rating: "Good"
+  }
   plot_structure: "Plot Structure was very nicely laid out as there are no real wasted scenes in developing the story"
   pacing: "Pacing was great as it was a steady pace that used its runtime very nicely"
   climax: "Build to the climax was great as it helped tie loose ends in Kevin\'s fears of being alone and with the old man; climax is the most iconic part of the movie as it shows Kevin against the Wet Bandits as he lays the house out with traps to defend himself and show how he is not afraid anymore"

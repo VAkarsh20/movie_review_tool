@@ -5,39 +5,53 @@ review {
     director {
       name: "Denis Villeneuve"
     }
-    comments: "Good to Very Good Direction (Was able to manage the grand scenes very well and did a decent job with the interpersonal scenes)"
+    rating: "Good to Very Good"
+    comments: "Was able to manage the grand scenes very well and did a decent job with the interpersonal scenes"
   }
   acting {
-    actor {
-      name: "Timoth\303\251e Chalamet"
-      comments: "Pretty Good from Timoth\303\251e Chalamet"
+    performance {
+      actor {
+        name: "Timoth\303\251e Chalamet"
+      }
+      rating: "Pretty Good"
     }
-    actor {
-      name: "Rebecca Ferguson"
-      comments: "Pretty Bad to Decent from Rebecca Ferguson"
+    performance {
+      actor {
+        name: "Rebecca Ferguson"
+      }
+      rating: "Pretty Bad to Decent"
     }
-    actor {
-      name: "Oscar Isaac"
-      comments: "Good from Oscar Isaac"
+    performance {
+      actor {
+        name: "Oscar Isaac"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Josh Brolin"
-      comments: "Good from Josh Brolin"
+    performance {
+      actor {
+        name: "Josh Brolin"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Stellan Skarsg\303\245rd"
-      comments: "Good from Stellan Skarsg\303\245rd"
+    performance {
+      actor {
+        name: "Stellan Skarsg\303\245rd"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Jason Momoa"
-      comments: "Good from Jason Momoa"
+    performance {
+      actor {
+        name: "Jason Momoa"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Javier Bardem"
-      comments: "Good from Javier Bardem"
+    performance {
+      actor {
+        name: "Javier Bardem"
+      }
+      rating: "Good"
     }
-    cast: ""
-    comments: "Pretty Good to Good Acting"
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
@@ -49,7 +63,8 @@ review {
     writer {
       name: "Eric Roth"
     }
-    comments: "Bad Story (Bad Storytelling as the exposition does a very poor job of explaining the backstory)"
+    rating: "Bad"
+    comments: "Bad storytelling as the exposition does a very poor job of explaining the backstory"
   }
   screenplay {
     writer {
@@ -61,29 +76,36 @@ review {
     writer {
       name: "Eric Roth"
     }
-    comments: "Pretty Good to Good Screenplay that is less awkward than most Sci-Fi movies but forces jargon that is not explained"
+    rating: "Pretty Good to Good"
   }
   score {
     composer {
       name: "Hans Zimmer"
     }
-    comments: "Great Score"
+    rating: "Great"
   }
   cinematography {
     cinematographer {
       name: "Greig Fraser"
     }
-    comments: "Great Cinematography"
+    rating: "Great"
   }
-  sound: "Great Sound"
   editing {
     editor {
       name: "Joe Walker"
     }
-    comments: "Good Editing (Though it made the movie more confusing when it cut between dreams and reality)"
+    rating: "Good"
+    comments: "Though it made the movie more confusing when it cut between dreams and reality"
   }
-  visual_effects: "Great Visual Effects"
-  production_design: "Good Production Design"
+  sound {
+    rating: "Great"
+  }
+  visual_effects {
+    rating: "Great"
+  }
+  production_design {
+    rating: "Good"
+  }
   plot_structure: "Plot Structure very skewed because this is one part of a two part movie (First half is the exposition and second half is rising action)"
   pacing: "Pacing was Very Slow (The first half is incredibly slow while the second half is pretty slow)"
   climax: "Climax for this movie is not that significant because it is meant to be a rise in the conflict for the next movie"
