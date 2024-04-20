@@ -5,64 +5,86 @@ review {
     director {
       name: "Jason Reitman"
     }
-    comments: "Pretty Good Direction (Did a fine job in moving the story forward, and the cut of the movie was fine, but nothing was really spectacle with the acting between the cast or showing the symbolism)"
+    rating: "Pretty Good"
+    comments: "Did a fine job in moving the story forward, and the cut of the movie was fine, but nothing was really spectacle with the acting between the cast or showing the symbolism"
   }
   acting {
-    actor {
-      name: "Elliot Page"
-      comments: "Pretty Good to Good from Elliot Page (Showed Good moments, but for the most part played the pretentious teenager who is filled with angst and overly blurts 00s slang)"
+    performance {
+      actor {
+        name: "Elliot Page"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Showed Good moments, but for the most part played the pretentious teenager who is filled with angst and overly blurts 00s slang"
     }
-    actor {
-      name: "Michael Cera"
-      comments: "Pretty Good from Michael Cera (just played the Michael Cera character)"
+    performance {
+      actor {
+        name: "Michael Cera"
+      }
+      rating: "Pretty Good"
+      comments: "Just played the Michael Cera character"
     }
-    actor {
-      name: "Jennifer Garner"
-      comments: "Decent to Pretty Good from Jennifer Garner"
+    performance {
+      actor {
+        name: "Jennifer Garner"
+      }
+      rating: "Decent to Pretty Good"
     }
-    actor {
-      name: "Jason Bateman"
-      comments: "Decent to Pretty Good from Jason Bateman"
+    performance {
+      actor {
+        name: "Jason Bateman"
+      }
+      rating: "Decent to Pretty Good"
     }
-    actor {
-      name: "Allison Janney"
-      comments: "Decent to Pretty Good from Allison Janney"
+    performance {
+      actor {
+        name: "Allison Janney"
+      }
+      rating: "Decent to Pretty Good"
     }
-    actor {
-      name: "J. K. Simmons"
-      comments: "Pretty Good from J. K. Simmons"
+    performance {
+      actor {
+        name: "J. K. Simmons"
+      }
+      rating: "Pretty Good"
     }
-    cast: "Decent from the rest of the cast"
-    comments: "Pretty Good Acting"
+    cast {
+      rating: "Decent"
+    }
+    rating: "Pretty Good"
   }
   story {
     writer {
       name: "Diablo Cody"
     }
-    comments: "Decent to Pretty Good Story (the generic coming of age story about an angsty girl, with the backdrop of the teenage pregnancy)"
+    rating: "Decent to Pretty Good"
+    comments: "The generic coming of age story about an angsty girl, with the backdrop of the teenage pregnancy"
   }
   screenplay {
     writer {
       name: "Diablo Cody"
     }
-    comments: "Decent Screenplay (some of the jokes were decently funny, but there was an exaggeration of how teens talked in the 00s (especially with them cramming in way too much of the slang; also, the angsty parts were annoying to watch))"
+    rating: "Decent"
+    comments: "Some of the jokes were decently funny, but there was an exaggeration of how teens talked in the 00s (especially with them cramming in way too much of the slang; also, the angsty parts were annoying to watch)"
   }
   score {
     composer {
       name: "Mateo Messina"
     }
-    comments: "Pretty Good Score"
+    rating: "Pretty Good"
   }
-  soundtrack: "Pretty Good Soundtrack"
+  soundtrack {
+    rating: "Pretty Good"
+  }
   cinematography {
     cinematographer {
       name: "Eric Steelberg"
     }
-    comments: "Decent Cinematography"
+    rating: "Decent"
   }
   plot_structure: "Plot Structure was clear and clean as segment of the story was effectively shown"
   pacing: "Pacing was good as the short runtime was effectively used to convey everything that was needed to be said (there was no need to add more time)"
   climax: "The build to the climax was pretty good with the actual climax really showing the true nature of all the characters"
+  final_notes: ""
   overall: "Overall, a decent to pretty good movie that was a generic coming-of-age story that was masked with the backdrop of the teenage pregnancy and annoying, angsty moments"
 }
 release_year: 2007

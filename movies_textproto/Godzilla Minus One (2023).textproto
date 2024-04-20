@@ -5,52 +5,72 @@ review {
     director {
       name: "Takashi Yamazaki"
     }
-    comments: "Very Good to Great Direction (Great on a macroscale and a microscale as the former scenes were the fight against the physical protagonist (Godzilla) and the latter scenes were the fight against the invisible protagonist (guilt and the finding the purpose to live); Storytelling is effective as it uses time very well to see the impact guilt and the war have on the characters, and how the fight against Godzilla means so much more as they try to find a reason to live; the direction of actors is very good as everyone has their purpose and conveys a consensus for their attitudes post WWII and their fear against fighting another war (against Godzilla))"
+    rating: "Very Good to Great"
+    comments: "Great on a macroscale and a microscale as the former scenes were the fight against the physical protagonist (Godzilla) and the latter scenes were the fight against the invisible protagonist (guilt and the finding the purpose to live); Storytelling is effective as it uses time very well to see the impact guilt and the war have on the characters, and how the fight against Godzilla means so much more as they try to find a reason to live; the direction of actors is very good as everyone has their purpose and conveys a consensus for their attitudes post WWII and their fear against fighting another war (against Godzilla)"
   }
   acting {
-    actor {
-      name: "Ryunosuke Kamiki"
-      comments: "Very Good from Ryunosuke Kamiki (Shows a wide range of emotions throughout the movie and effectively conveys a soldier with PTSD and survivor\'s guilt as his perception of reality and humanity is skewed)"
+    performance {
+      actor {
+        name: "Ryunosuke Kamiki"
+      }
+      rating: "Very Good"
+      comments: "Shows a wide range of emotions throughout the movie and effectively conveys a soldier with PTSD and survivor\'s guilt as his perception of reality and humanity is skewed"
     }
-    actor {
-      name: "Minami Hamabe"
-      comments: "Good from Minami Hamabe (Shows development throughout the movie and complements the protagonist very well as he fights through his own guilt)"
+    performance {
+      actor {
+        name: "Minami Hamabe"
+      }
+      rating: "Good"
+      comments: "Shows development throughout the movie and complements the protagonist very well as he fights through his own guilt"
     }
-    cast: "Good from the rest of the cast (Everyone does their job effectively and helps create this mass consensus of fear towards a post-WWII Japan and Godzilla)"
-    comments: "Good to Very Good Acting"
+    cast {
+      rating: "Good"
+      comments: "Everyone does their job effectively and helps create this mass consensus of fear towards a post-WWII Japan and Godzilla"
+    }
+    rating: "Good to Very Good"
   }
   story {
     writer {
       name: "Takashi Yamazaki"
     }
-    comments: "Great Story (Concept is very fresh as it mixes the guilt from a post-WWII Japan with the monster attacks of Godzilla; the story construction is very good as each element of the plot is clear; the storytelling/flow between sequences is very fluid as each scene feels necessary and builds the story on both a macro scale (fighting Godzilla) and a micro scale (fighting guilt), it does rely a little too much on Deus Ex Machina to get the characters out of trouble (even though this is pretty standard for other monster movies); the character writing is great as they display the protagonist\'s struggle very well as his guilt/trauma from abandoning his post from the war is affecting his perception of what it means to be alive (and the hero\'s journey is overcoming this guilt))"
+    rating: "Great"
+    comments: "Concept is very fresh as it mixes the guilt from a post-WWII Japan with the monster attacks of Godzilla; the story construction is very good as each element of the plot is clear; the storytelling/flow between sequences is very fluid as each scene feels necessary and builds the story on both a macro scale (fighting Godzilla) and a micro scale (fighting guilt), it does rely a little too much on Deus Ex Machina to get the characters out of trouble (even though this is pretty standard for other monster movies); the character writing is great as they display the protagonist\'s struggle very well as his guilt/trauma from abandoning his post from the war is affecting his perception of what it means to be alive (and the hero\'s journey is overcoming this guilt)"
   }
   screenplay {
     writer {
       name: "Takashi Yamazaki"
     }
-    comments: "Great Screenplay (The dialogue is very sharp and well written (flows very well and has a lot of profound meaning); the humor is subtle at times but does a good job in helping lighten the mood; the tension is a built very well as it builds throughout the movie and has a significant impact on the characters (especially the protagonist) as it helps build up the fights and the characters taking back their humanity; the symbolism is the best part of the writing as it is much deeper than I expected it to be as the movie touches many subjects like guilt, trauma, and what it means to be alive (something that definitely affected those who survived a post-WWII Japan as Godzilla acts as a metaphor for the impact of the Atom bombs and its nuclear fallout); the foreshadowing is very much present and is used very well to help predict the story (especially in the climax))"
+    rating: "Great"
+    comments: "The dialogue is very sharp and well written (flows very well and has a lot of profound meaning); the humor is subtle at times but does a good job in helping lighten the mood; the tension is a built very well as it builds throughout the movie and has a significant impact on the characters (especially the protagonist) as it helps build up the fights and the characters taking back their humanity; the symbolism is the best part of the writing as it is much deeper than I expected it to be as the movie touches many subjects like guilt, trauma, and what it means to be alive (something that definitely affected those who survived a post-WWII Japan as Godzilla acts as a metaphor for the impact of the Atom bombs and its nuclear fallout); the foreshadowing is very much present and is used very well to help predict the story (especially in the climax)"
   }
   score {
     composer {
       name: "Naoki Sat\305\215"
     }
-    comments: "Very Good Score (Used very well in creating tension and conveying emotions throughout the movie)"
+    rating: "Very Good"
+    comments: "Used very well in creating tension and conveying emotions throughout the movie"
   }
   cinematography {
     cinematographer {
       name: "K\305\215z\305\215 Shibasaki"
     }
-    comments: "Decent Cinematography (The biggest issue for this movie as it made it feel a bit tacky in quality in respect to the other technical elements (though the aerial shots and the microscale scenes were well shot))"
+    rating: "Decent"
+    comments: "The biggest issue for this movie as it made it feel a bit tacky in quality in respect to the other technical elements (though the aerial shots and the microscale scenes were well shot)"
   }
-  sound: "Great Sound (Helps with painting the battle scenes and bringing to life Godzilla, used well with building tension)"
   editing {
     editor {
       name: "Ry\305\253ji Miyajima"
     }
-    comments: "Pretty Good Editing"
+    rating: "Pretty Good"
   }
-  visual_effects: "Very Good Visual Effects (Very good job given how low the budget it is (Some highlights included the sea battles, but the city scenes were not the best as it was obvious they used CGI))"
+  sound {
+    rating: "Great"
+    comments: "Helps with painting the battle scenes and bringing to life Godzilla, used well with building tension"
+  }
+  visual_effects {
+    rating: "Very Good"
+    comments: "Very good job given how low the budget it is (Some highlights included the sea battles, but the city scenes were not the best as it was obvious they used CGI)"
+  }
   plot_structure: "Plot Structure is well laid out as each element of the plot is evident and these elements build on each other as the movie progresses"
   pacing: "Pacing was good as it is fast in the action scenes and a good pace in the more dramatic scenes"
   climax: "Climax was executed very well as it builds suspense and keeps the audience engaged as they see what happens next; the final shot of the movie was stupid and should have been a post-credit scene"

@@ -5,31 +5,41 @@ review {
     director {
       name: "Mike Figgis"
     }
-    comments: "Decent Direction"
+    rating: "Decent"
   }
   acting {
-    actor {
-      name: "Nicolas Cage"
-      comments: "Very Good to Great from Nicolas Cage (In a Nic Cage Way; the most Nic Cage performance I have ever seen)"
+    performance {
+      actor {
+        name: "Nicolas Cage"
+      }
+      rating: "Very Good to Great"
+      comments: "In a Nic Cage Way; the most Nic Cage performance I have ever seen"
     }
-    actor {
-      name: "Elisabeth Shue"
-      comments: "Good from Elisabeth Shue (Dull in terms of execution of dialogue but very good in terms of actions and gestures)"
+    performance {
+      actor {
+        name: "Elisabeth Shue"
+      }
+      rating: "Good"
+      comments: "Dull in terms of execution of dialogue but very good in terms of actions and gestures"
     }
-    cast: "Bad from the rest of the cast"
-    comments: "Pretty Bad Acting"
+    cast {
+      rating: "Bad"
+    }
+    rating: "Pretty Bad"
   }
   story {
     writer {
       name: "Mike Figgis"
     }
-    comments: "Pretty Good Story (I like the way it flows and how the story is told from the perspective of the end)"
+    rating: "Pretty Good"
+    comments: "I like the way it flows and how the story is told from the perspective of the end"
   }
   screenplay {
     writer {
       name: "Mike Figgis"
     }
-    comments: "Pretty Bad Screenplay (The dialogue was very poorly written but the actual actions the characters take were good; no major symbolism)"
+    rating: "Pretty Bad"
+    comments: "The dialogue was very poorly written but the actual actions the characters take were good; no major symbolism"
   }
   score {
     composer {
@@ -38,21 +48,30 @@ review {
     composer {
       name: "Mike Figgis"
     }
-    comments: "Decent Score (Very Vegas-esque with this jazzy sound and not necessarily bad but were just way extremely overbearing in the film and took away from the story)"
+    rating: "Decent"
+    comments: "Very Vegas-esque with this jazzy sound and not necessarily bad but were just way extremely overbearing in the film and took away from the story"
   }
-  soundtrack: "Decent Soundtrack (Same comments as score)"
+  soundtrack {
+    rating: "Decent"
+    comments: "Same comments as score"
+  }
   cinematography {
     cinematographer {
       name: "Declan Quinn"
     }
-    comments: "Decent Cinematography (especially for it being super low budge)"
+    rating: "Decent"
+    comments: "Especially for it being super low budge"
   }
-  sound: "Terrible Sound (I did not like how overbearing the score/music was in the story and how it made it incredibly hard to hear the dialogue at times)"
   editing {
     editor {
       name: "John Smith"
     }
-    comments: "Good Editing (I liked some of the metaphors it placed with the different cuts)"
+    rating: "Good"
+    comments: "I liked some of the metaphors it placed with the different cuts"
+  }
+  sound {
+    rating: "Terrible"
+    comments: "I did not like how overbearing the score/music was in the story and how it made it incredibly hard to hear the dialogue at times"
   }
   pacing: "Pacing was very bad and incredibly slow (the first 10-20 minutes of the movie were meant to be the prologue but was just way to long and slow in terms of developing the story and characters); the runtime was at just under 2 hours but definitely could have cut the movie by like 30 minutes to make the movie have a better pace and remove a lot of unnecessary scenes"
   climax: "The build to the climax was like not really there but kinda there (not executed that well overall)"

@@ -5,27 +5,39 @@ review {
     director {
       name: "Frank Capra"
     }
-    comments: "Very Good Direction"
+    rating: "Very Good"
   }
   acting {
-    actor {
-      name: "James Stewart"
-      comments: "Incredible from James Stewart (especially his ability to go through different emotions throughout the movie and take command of every scene)"
+    performance {
+      actor {
+        name: "James Stewart"
+      }
+      rating: "Incredible"
+      comments: "Especially his ability to go through different emotions throughout the movie and take command of every scene"
     }
-    actor {
-      name: "Donna Reed"
-      comments: "Good to Very Good from Donna Reed (A good companion performance to Stewart\'s)"
+    performance {
+      actor {
+        name: "Donna Reed"
+      }
+      rating: "Good to Very Good"
+      comments: "A good companion performance to Stewart\'s"
     }
-    actor {
-      name: "Lionel Barrymore"
-      comments: "Good to Very Good from Lionel Barrymore"
+    performance {
+      actor {
+        name: "Lionel Barrymore"
+      }
+      rating: "Good to Very Good"
     }
-    actor {
-      name: "Henry Travers"
-      comments: "Good to Very Good from Henry Travers"
+    performance {
+      actor {
+        name: "Henry Travers"
+      }
+      rating: "Good to Very Good"
     }
-    cast: "Good from the rest of the cast"
-    comments: "Good to Very Good Acting"
+    cast {
+      rating: "Good"
+    }
+    rating: "Good to Very Good"
   }
   story {
     writer {
@@ -37,7 +49,8 @@ review {
     writer {
       name: "Frank Capra"
     }
-    comments: "Good to Very Good Story (While the concepts, elements, and the \'retelling\' of \'A Christmas Carol\' was very good/iconic, the movie spends too much of the story on the exposition to where the more memorable parts are barely a part of the movie)"
+    rating: "Good to Very Good"
+    comments: "While the concepts, elements, and the \'retelling\' of \'A Christmas Carol\' was very good/iconic, the movie spends too much of the story on the exposition to where the more memorable parts are barely a part of the movie"
   }
   screenplay {
     writer {
@@ -49,13 +62,14 @@ review {
     writer {
       name: "Frank Capra"
     }
-    comments: "Very Good Screenplay (helps propel some of the more intense, emotional scenes)"
+    rating: "Very Good"
+    comments: "Helps propel some of the more intense, emotional scenes"
   }
   score {
     composer {
       name: "Dimitri Tiomkin"
     }
-    comments: "Pretty Good Score"
+    rating: "Pretty Good"
   }
   cinematography {
     cinematographer {
@@ -64,16 +78,22 @@ review {
     cinematographer {
       name: "Joseph Biroc"
     }
-    comments: "Great Cinematography"
+    rating: "Great"
   }
-  sound: "Great Sound"
   editing {
     editor {
       name: "William Hornbeck"
     }
-    comments: "Decent to Pretty Good Editing (especially for the time, though there were some noticeable editing jumps from poor cutting)"
+    rating: "Decent to Pretty Good"
+    comments: "Especially for the time, though there were some noticeable editing jumps from poor cutting"
   }
-  visual_effects: "Incredible Visual Effects (especially for the time, with the animation and the snow)"
+  sound {
+    rating: "Great"
+  }
+  visual_effects {
+    rating: "Incredible"
+    comments: "Especially for the time, with the animation and the snow"
+  }
   plot_structure: "Plot Structure was not good (the first hour and 20 minutes is all exposition to set up the life of George Bailey, the conflict is really only presented with only 30-40 minutes left in the movie; the Christmas element of the movie is only really presented towards the last 30-40 minutes of the movie)"
   pacing: "Pacing is not great as the first 3/4 of the movie is pretty slow while the last 1/4 the pace is pretty quick to make up for the fact at how much exposition there is"
   climax: "Build to the climax ramps up the pace of the movie as the movie shifts to the part it is known for; climax is great as we get to see what George Bailey is truly missing with contemplating his life"

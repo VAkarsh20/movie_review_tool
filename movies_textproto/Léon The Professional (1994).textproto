@@ -5,56 +5,76 @@ review {
     director {
       name: "Luc Besson"
     }
-    comments: "Good Direction (Able to move the story forward and coordinate the action scenes nicely)"
+    rating: "Good"
+    comments: "Able to move the story forward and coordinate the action scenes nicely"
   }
   acting {
-    actor {
-      name: "Jean Reno"
-      comments: "Decent to Pretty Good from Jean Reno (Carried out the action sequences well and had some good moments but that was pretty much it)"
+    performance {
+      actor {
+        name: "Jean Reno"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Carried out the action sequences well and had some good moments but that was pretty much it"
     }
-    actor {
-      name: "Gary Oldman"
-      comments: "Pretty Good to Good from Gary Oldman (Very over-the-top in this performance and felt very Nic Cage-esqe (but he did handle himself very well))"
+    performance {
+      actor {
+        name: "Gary Oldman"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Very over-the-top in this performance and felt very Nic Cage-esqe (but he did handle himself very well)"
     }
-    actor {
-      name: "Natalie Portman"
-      comments: "Pretty Good to Good from Natalie Portman (Given this is her first role I am impressed by the level of maturity she is able to have with a very mature script, she holds herself very well but does show her inexperience (something she definitely improves on throughout her career))"
+    performance {
+      actor {
+        name: "Natalie Portman"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Given this is her first role I am impressed by the level of maturity she is able to have with a very mature script, she holds herself very well but does show her inexperience (something she definitely improves on throughout her career)"
     }
-    cast: "Very Bad from the rest of the cast"
-    comments: "Pretty Bad Acting"
+    cast {
+      rating: "Very Bad"
+    }
+    rating: "Pretty Bad"
   }
   story {
     writer {
       name: "Luc Besson"
     }
-    comments: "Decent Story (Pretty Cliche and easy to predict, also a story that has been told so many times before)"
+    rating: "Decent"
+    comments: "Pretty Cliche and easy to predict, also a story that has been told so many times before"
   }
   screenplay {
     writer {
       name: "Luc Besson"
     }
-    comments: "Very Bad Screenplay (The dialogue was extremely bad and felt like it was a dub of another screenplay (when it was not))"
+    rating: "Very Bad"
+    comments: "The dialogue was extremely bad and felt like it was a dub of another screenplay (when it was not)"
   }
   score {
     composer {
       name: "\303\211ric Serra"
     }
-    comments: "Good Score (I liked how it added to the anxiety of some of the scenes and brought tension overall)"
+    rating: "Good"
+    comments: "I liked how it added to the anxiety of some of the scenes and brought tension overall"
   }
   cinematography {
     cinematographer {
       name: "Thierry Arbogast"
     }
-    comments: "Good Cinematography"
+    rating: "Good"
   }
-  sound: "Good to Very Good Sound"
   editing {
     editor {
       name: "Sylvie Landra"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  visual_effects: "Good to Very Good Visual Effects (More pyro than visuals, plus the blood and gore was a very nice touch)"
+  sound {
+    rating: "Good to Very Good"
+  }
+  visual_effects {
+    rating: "Good to Very Good"
+    comments: "More pyro than visuals, plus the blood and gore was a very nice touch"
+  }
   plot_structure: "Plot Structure felt like it was very mismanaged because the rising action is completely forgotten (feels like a skip from the conflict introduction to the climax)"
   pacing: "Pacing was very bad as it felt entirely rushed (there should have been like 30 minutes added to this movie because the pacing was incredibly fast and did not leave any time for character development (I understand there is a directors cut of the movie that shows this but I can only review off of the cut that was theatrically released))"
   climax: "Build to climax was decent but felt extremely rushed by the inconsistent pacing; climax was executed well as the action sequences were the best part of this movie"

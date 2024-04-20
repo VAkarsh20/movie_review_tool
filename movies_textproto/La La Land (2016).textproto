@@ -5,54 +5,78 @@ review {
     director {
       name: "Damien Chazelle"
     }
-    comments: "Incredible to Brilliant Direction (Really does an amazing job in building this modern world filled with nostalgic pieces of old Hollywood; truly blends in different elements of story and acting help tell an iconic tale that highlights the golden era of Hollywood; the movie on a macro scale is phenomenal as it builds these lush sets for the music numbers, is also great at a micro scale as it helps build the dreams fo the two leads)"
+    rating: "Incredible to Brilliant"
+    comments: "Really does an amazing job in building this modern world filled with nostalgic pieces of old Hollywood; truly blends in different elements of story and acting help tell an iconic tale that highlights the golden era of Hollywood; the movie on a macro scale is phenomenal as it builds these lush sets for the music numbers, is also great at a micro scale as it helps build the dreams fo the two leads"
   }
   acting {
-    actor {
-      name: "Ryan Gosling"
-      comments: "Great from Ryan Gosling (Does a great job in playing off of Emma Stone very well and also being this relic of old hollywood that is initially resistent to change, but changes over time the more he opens himself up to Mia)"
+    performance {
+      actor {
+        name: "Ryan Gosling"
+      }
+      rating: "Great"
+      comments: "Does a great job in playing off of Emma Stone very well and also being this relic of old hollywood that is initially resistent to change, but changes over time the more he opens himself up to Mia"
     }
-    actor {
-      name: "Emma Stone"
-      comments: "Great from Emma Stone (The real star of the show as she does a great job in being the hopeful actress who is starting to doubt herself; she really plays off of Gosling well as their chemistry is what really drives both of their performances (and the movie) forward)"
+    performance {
+      actor {
+        name: "Emma Stone"
+      }
+      rating: "Great"
+      comments: "The real star of the show as she does a great job in being the hopeful actress who is starting to doubt herself; she really plays off of Gosling well as their chemistry is what really drives both of their performances (and the movie) forward"
     }
-    cast: "Very Good from the rest of the cast"
-    comments: "Very Good to Great Acting"
+    cast {
+      rating: "Very Good"
+    }
+    rating: "Very Good to Great"
   }
   story {
     writer {
       name: "Damien Chazelle"
     }
-    comments: "Brilliant Story (The parallelism then divergence of both the leads in their dreams and their relationship really brought a sense of realism to what could actually happen (even in a fantasy world); everything that happened in the story of this movie I would not change as it is near perfect on so many accounts; in terms of an actual narrative structure, is is laid out very well with all the different elements of the plot labeled very nicely (in a way that mimics old hollywood))"
+    rating: "Brilliant"
+    comments: "The parallelism then divergence of both the leads in their dreams and their relationship really brought a sense of realism to what could actually happen (even in a fantasy world); everything that happened in the story of this movie I would not change as it is near perfect on so many accounts; in terms of an actual narrative structure, is is laid out very well with all the different elements of the plot labeled very nicely (in a way that mimics old hollywood)"
   }
   screenplay {
     writer {
       name: "Damien Chazelle"
     }
-    comments: "Incredible to Brilliant Screenplay (The dialogue is just very natural yet has flavors of old hollywood; the symbolism is in incredible as it really helps with showing the meanings of the movie in terms of aspirations and love; the foreshadowing is some of the best I have ever seen in a movie as there are small symbols that are subtle touches that come out towards the end of the movie)"
+    rating: "Incredible to Brilliant"
+    comments: "The dialogue is just very natural yet has flavors of old hollywood; the symbolism is in incredible as it really helps with showing the meanings of the movie in terms of aspirations and love; the foreshadowing is some of the best I have ever seen in a movie as there are small symbols that are subtle touches that come out towards the end of the movie"
   }
   score {
     composer {
       name: "Justin Hurwitz"
     }
-    comments: "Brilliant Score (My favorite use of music in a movie as it is weaved so perfectly into the film to build emotion and tone)"
+    rating: "Brilliant"
+    comments: "My favorite use of music in a movie as it is weaved so perfectly into the film to build emotion and tone"
   }
-  sountrack: "Brillaint Soundtrack (See comments for Score)"
+  soundtrack {
+    rating: "Brillaint"
+    comments: "See comments for Score"
+  }
   cinematography {
     cinematographer {
       name: "Linus Sandgren"
     }
-    comments: "Great Cinematography"
+    rating: "Great"
   }
-  sound: "Great Sound (Helps in giving it that Jazzy, old hollywood feel)"
   editing {
     editor {
       name: "Tom Cross"
     }
-    comments: "Great Editing"
+    rating: "Great"
   }
-  production_design: "Incredible Production Design (Helps in building the feel and tone of the movie)"
-  costumes: "Very Good Costumes (More just about the dresses than the costumes in general, the strong colors really help in making the movie playful)"
+  sound {
+    rating: "Great"
+    comments: "Helps in giving it that Jazzy, old hollywood feel"
+  }
+  production_design {
+    rating: "Incredible"
+    comments: "Helps in building the feel and tone of the movie"
+  }
+  costumes {
+    rating: "Very Good"
+    comments: "More just about the dresses than the costumes in general, the strong colors really help in making the movie playful"
+  }
   plot_structure: "Plot Structure is laid out perfectly as it does not say too far in any moment of the narrative arc; all the different elements are established very well (which kinda helps with the transition slides in the movie)"
   pacing: "Pacing was a consistent pace nothing feels like it is rushing or dragging (runtime is perfect as it is)"
   climax: "Climax was very good as it is a climax in the main narrative of the movie; it is the resolution that is the best part of the movie as it shows the true message of the movie and what would actually happen (with it being executed so well)"

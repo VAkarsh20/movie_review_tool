@@ -5,29 +5,42 @@ review {
     director {
       name: "Chad Stahelski"
     }
-    comments: "Decent Direction (The choreography of action sequences was very well done (Back to being on par with the first film), and there is an improvement in storytelling and the performance by the actors (showing the growth in the director this time around))"
+    rating: "Decent"
+    comments: "The choreography of action sequences was very well done (Back to being on par with the first film), and there is an improvement in storytelling and the performance by the actors (showing the growth in the director this time around)"
   }
   acting {
-    actor {
-      name: "Keanu Reeves"
-      comments: "Pretty Good from Keanu Reeves (Able to handle the action sequences in a great way and is a strong prominent figure throughout the movie (With some good moments in dramatic acting), but still has some of those questionable moments that take his performances back in the franchise (mostly due to how reserved the character is))"
+    performance {
+      actor {
+        name: "Keanu Reeves"
+      }
+      rating: "Pretty Good"
+      comments: "Able to handle the action sequences in a great way and is a strong prominent figure throughout the movie (With some good moments in dramatic acting), but still has some of those questionable moments that take his performances back in the franchise (mostly due to how reserved the character is)"
     }
-    actor {
-      name: "Halle Berry"
-      comments: "Pretty Good from Halle Berry (Holds her own well and is a prominent figure in the scenes she is in)"
+    performance {
+      actor {
+        name: "Halle Berry"
+      }
+      rating: "Pretty Good"
+      comments: "Holds her own well and is a prominent figure in the scenes she is in"
     }
-    actor {
-      name: "Laurence Fishburne"
-      comments: "Pretty Good from Laurence Fishburne (Takes up where he left off from the previous film as he is a very dynamic character that can show some range of emotion)"
+    performance {
+      actor {
+        name: "Laurence Fishburne"
+      }
+      rating: "Pretty Good"
+      comments: "Takes up where he left off from the previous film as he is a very dynamic character that can show some range of emotion"
     }
-    cast: "Pretty Bad to Decent from the rest of the cast"
-    comments: "Decent Acting"
+    cast {
+      rating: "Pretty Bad to Decent"
+    }
+    rating: "Decent"
   }
   story {
     writer {
       name: "Derek Kolstad"
     }
-    comments: "Good Story (Creates a very captivating story this time around as the constant chase John Wick has to go through throughout the movie really helps build the character and show how much of an unstoppable force he is; the construction is also better this time (but still follows a lot of the same flaws the previous movies had))"
+    rating: "Good"
+    comments: "Creates a very captivating story this time around as the constant chase John Wick has to go through throughout the movie really helps build the character and show how much of an unstoppable force he is; the construction is also better this time (but still follows a lot of the same flaws the previous movies had)"
   }
   screenplay {
     writer {
@@ -42,7 +55,8 @@ review {
     writer {
       name: "Marc Abrams"
     }
-    comments: "Decent Screenplay (A big cleanup in the dialog this time around as it sounds a bit more natural; there is also present symbolism and foreshadowing unlike the previous films)"
+    rating: "Decent"
+    comments: "A big cleanup in the dialog this time around as it sounds a bit more natural; there is also present symbolism and foreshadowing unlike the previous films"
   }
   score {
     composer {
@@ -51,24 +65,35 @@ review {
     composer {
       name: "Joel J. Richard"
     }
-    comments: "Decent to Pretty Good Score"
+    rating: "Decent to Pretty Good"
   }
   cinematography {
     cinematographer {
       name: "Dan Laustsen"
     }
-    comments: "Good to Very Good Cinematography"
+    rating: "Good to Very Good"
   }
-  sound: "Good to Very Good Sound"
   editing {
     editor {
       name: "Evan Schiff"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  visual_effects: "Very Good Visual Effects (Really uses the visuals to help paint the picture of the story)"
-  production_design: "Very Good Production Design (Felt like they used an increase budget well to help paint very exotic and futuristic scenes)"
-  makeup: "Good Makeup (showed the grit and blood of the scenes very well)"
+  sound {
+    rating: "Good to Very Good"
+  }
+  visual_effects {
+    rating: "Very Good"
+    comments: "Really uses the visuals to help paint the picture of the story"
+  }
+  production_design {
+    rating: "Very Good"
+    comments: "Felt like they used an increase budget well to help paint very exotic and futuristic scenes"
+  }
+  makeup {
+    rating: "Good"
+    comments: "Showed the grit and blood of the scenes very well"
+  }
   plot_structure: "Plot Structure was laid out pretty well as there is a goal in mind with the character trying to combat it (followed by a climax)"
   pacing: "Pacing was a bit slower this time as there is a bit too many plot elements (they could\'ve cut the runtime down 10-15 minutes in order to make the movie feel a bit faster)"
   climax: "Climax was well executed as it was grand shootout between John and an army (with him really showing off what he can do in this part of the movie)"

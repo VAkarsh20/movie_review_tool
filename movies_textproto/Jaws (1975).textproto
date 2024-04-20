@@ -5,27 +5,42 @@ review {
     director {
       name: "Steven Spielberg"
     }
-    comments: "Good to Very Good Direction (for an amateur director at the time, he does a really good just in executing what he wants and how he wants to architect his movie and story; while there were some shots that were well executed, some of the horror moments really showed signs of amateur film-making)"
+    rating: "Good to Very Good"
+    comments: "For an amateur director at the time, he does a really good just in executing what he wants and how he wants to architect his movie and story; while there were some shots that were well executed, some of the horror moments really showed signs of amateur film-making"
   }
   acting {
-    actor {
-      name: "Roy Scheider"
-      comments: "Good from Roy Scheider (Does a good job playing the lead of the film but really does not go above and beyond in any way)"
+    performance {
+      actor {
+        name: "Roy Scheider"
+      }
+      rating: "Good"
+      comments: "Does a good job playing the lead of the film but really does not go above and beyond in any way"
     }
-    actor {
-      name: "Robert Shaw"
-      comments: "Good from Robert Shaw (Plays his role well but is a bit discombobulating at times)"
+    performance {
+      actor {
+        name: "Robert Shaw"
+      }
+      rating: "Good"
+      comments: "Plays his role well but is a bit discombobulating at times"
     }
-    actor {
-      name: "Richard Dreyfuss"
-      comments: "Very Good from Richard Dreyfuss (The most animated out of all the characters and shows a full range of emotion that goes above and beyond the other characters)"
+    performance {
+      actor {
+        name: "Richard Dreyfuss"
+      }
+      rating: "Very Good"
+      comments: "The most animated out of all the characters and shows a full range of emotion that goes above and beyond the other characters"
     }
-    actor {
-      name: "Murray Hamilton"
-      comments: "Pretty Good to Good from Murray Hamilton (Plays the Town Mayor who is unethical trope and has no major issues in the performance)"
+    performance {
+      actor {
+        name: "Murray Hamilton"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Plays the Town Mayor who is unethical trope and has no major issues in the performance"
     }
-    cast: "Decent to Pretty Good from the rest of the cast"
-    comments: "Pretty Good Acting"
+    cast {
+      rating: "Decent to Pretty Good"
+    }
+    rating: "Pretty Good"
   }
   story {
     writer {
@@ -34,7 +49,8 @@ review {
     writer {
       name: "Carl Gottlieb"
     }
-    comments: "Good Story (A revolutionary story for movies that came after it but is pretty simplistic in what actually happens)"
+    rating: "Good"
+    comments: "A revolutionary story for movies that came after it but is pretty simplistic in what actually happens"
   }
   screenplay {
     writer {
@@ -43,32 +59,40 @@ review {
     writer {
       name: "Carl Gottlieb"
     }
-    comments: "Pretty Good Screenplay (Even though there are iconic lines, the overall screenplay was a bit simple and bland, with some questionable dialogue at times)"
+    rating: "Pretty Good"
+    comments: "Even though there are iconic lines, the overall screenplay was a bit simple and bland, with some questionable dialogue at times"
   }
   score {
     composer {
       name: "John Williams"
     }
-    comments: "Great Score (Fueled by an iconic theme that is widely know today)"
+    rating: "Great"
+    comments: "Fueled by an iconic theme that is widely know today"
   }
   cinematography {
     cinematographer {
       name: "Bill Butler"
     }
-    comments: "Good to Very Good Cinematography"
+    rating: "Good to Very Good"
   }
-  sound: "Very Good Sound"
   editing {
     editor {
       name: "Verna Fields"
     }
-    comments: "Very Good Editing"
+    rating: "Very Good"
   }
-  visual_effects: "Great Visual Effects (especially for the time)"
+  sound {
+    rating: "Very Good"
+  }
+  visual_effects {
+    rating: "Great"
+    comments: "Especially for the time"
+  }
   plot_structure: "Plot Structure was pretty simplistic and really lacks an resolution"
   pacing: "Pacing was fine (no major complaints)"
   climax: "Build to climax was present and decently executed as you know it is there; climax was well executed but was a bit long (could have been shortened for like 10 minutes and given it to a resolution)"
   tone: "Tone was pretty similar to that of other horror-hunting movies"
+  final_notes: ""
   overall: "Overall, a groundbreaking film for its technical achievements and different elements, but is pretty simplistic in terms of writing and plot-based elements"
 }
 release_year: 1975

@@ -5,82 +5,118 @@ review {
     director {
       name: "James Gunn"
     }
-    comments: "Very Good Direction (This movie really shows how comfortable Gunn is at guiding ensemble casts through super hero epics as he pulls from experience to drive the story forward; Gunn also really shows his ability to tell a heartbreaking story by weaving past elements to fuel the present)"
+    rating: "Very Good"
+    comments: "This movie really shows how comfortable Gunn is at guiding ensemble casts through super hero epics as he pulls from experience to drive the story forward; Gunn also really shows his ability to tell a heartbreaking story by weaving past elements to fuel the present"
   }
   acting {
-    actor {
-      name: "Chris Pratt"
-      comments: "Good from Chris Pratt (Really builds off his experience as the leader of the group as he has his signature charm while showcasing more of his dramatic chops)"
+    performance {
+      actor {
+        name: "Chris Pratt"
+      }
+      rating: "Good"
+      comments: "Really builds off his experience as the leader of the group as he has his signature charm while showcasing more of his dramatic chops"
     }
-    actor {
-      name: "Zoe Saldana"
-      comments: "Pretty Good to Good from Zoe Saldana (Her character is more restricted/rigged this time so she can\'t really show too much emotion, but she does a good job with what she was given)"
+    performance {
+      actor {
+        name: "Zoe Saldana"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Her character is more restricted/rigged this time so she can\'t really show too much emotion, but she does a good job with what she was given"
     }
-    actor {
-      name: "Dave Bautista"
-      comments: "Pretty Good to Good from Dave Bautista"
+    performance {
+      actor {
+        name: "Dave Bautista"
+      }
+      rating: "Pretty Good to Good"
     }
-    actor {
-      name: "Karen Gillan"
-      comments: "Pretty Good to Good from Karen Gillan"
+    performance {
+      actor {
+        name: "Karen Gillan"
+      }
+      rating: "Pretty Good to Good"
     }
-    actor {
-      name: "Pom Klementieff"
-      comments: "Good from Pom Klementieff"
+    performance {
+      actor {
+        name: "Pom Klementieff"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Vin Diesel"
-      comments: "Good from Vin Diesel"
+    performance {
+      actor {
+        name: "Vin Diesel"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Bradley Cooper"
-      comments: "Great from Bradley Cooper (Really shows a range of emotions through this vocal performance and displays why he is the real protagonist of the movie)"
+    performance {
+      actor {
+        name: "Bradley Cooper"
+      }
+      rating: "Great"
+      comments: "Really shows a range of emotions through this vocal performance and displays why he is the real protagonist of the movie"
     }
-    actor {
-      name: "Sean Gunn"
-      comments: "Pretty Good from Sean Gunn"
+    performance {
+      actor {
+        name: "Sean Gunn"
+      }
+      rating: "Pretty Good"
     }
-    actor {
-      name: "Chukwudi Iwuji"
-      comments: "Decent to Pretty Good from Chukwudi Iwuji (His performance was a bit too over-the-top for me but he definitely shows some good moments (its just he went from 0 to 100 way too often); I also think his character was pretty shallowly written as his backstory/motive is not really addressed that well)"
+    performance {
+      actor {
+        name: "Chukwudi Iwuji"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "His performance was a bit too over-the-top for me but he definitely shows some good moments (its just he went from 0 to 100 way too often); I also think his character was pretty shallowly written as his backstory/motive is not really addressed that well"
     }
-    actor {
-      name: "Will Poulter"
-      comments: "Decent to Pretty Good from Will Poulter (He was fine with the role he was given, its just I do not think his character was written that well)"
+    performance {
+      actor {
+        name: "Will Poulter"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "He was fine with the role he was given, its just I do not think his character was written that well"
     }
-    actor {
-      name: "Sylvester Stallone"
-      comments: "Good from Sylvester Stallone (That\'s because he\'s Sly Stallone, the man)"
+    performance {
+      actor {
+        name: "Sylvester Stallone"
+      }
+      rating: "Good"
+      comments: "That\'s because he\'s Sly Stallone, the man"
     }
-    cast: "Pretty Good from the rest of the cast"
-    comments: "Pretty Good to Good Acting"
+    cast {
+      rating: "Pretty Good"
+    }
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
       name: "James Gunn"
     }
-    comments: "Good Story (Does a great job at concluding the trilogy by closing up the lose-ends of many of the characters; the overall plot was well written and entertaining to watch (though it could have been cut just a little bit); the Rocket backstory was incredibly touching and really showed the trauma Rocket had to go through throughout his whole life (even though it could be argued it is a bit simple and relies on the cute animal trope (something I am able to move past given how moving it is)); the character writing for the villains was not the best because it really does not go into their backstory (so it makes it harder to believe their plight); the movie still does follow a lot of the same marvel trope that hold it back a bit)"
+    rating: "Good"
+    comments: "Does a great job at concluding the trilogy by closing up the lose-ends of many of the characters; the overall plot was well written and entertaining to watch (though it could have been cut just a little bit); the Rocket backstory was incredibly touching and really showed the trauma Rocket had to go through throughout his whole life (even though it could be argued it is a bit simple and relies on the cute animal trope (something I am able to move past given how moving it is)); the character writing for the villains was not the best because it really does not go into their backstory (so it makes it harder to believe their plight); the movie still does follow a lot of the same marvel trope that hold it back a bit"
   }
   screenplay {
     writer {
       name: "James Gunn"
     }
-    comments: "Good Screenplay (The dialog feels very similar to other movies in the trilogy as it is witty, funny, and touching; the symbolism of the movie is incredibly profound as it really looks into the effects friendships and family have on people (especially with how rigid Rocket is to opening up, the importance of family for Quill, and why Quill is trying to get Gamora back); the foreshadowing was kind a setback in the movie as it is just pretty predictable overall in how safe they go about the movie (I would have liked it to be a bit more depressing/dark to be more profound); still has very Marvel elements to the screenplay that restrict if from going above and beyond)"
+    rating: "Good"
+    comments: "The dialog feels very similar to other movies in the trilogy as it is witty, funny, and touching; the symbolism of the movie is incredibly profound as it really looks into the effects friendships and family have on people (especially with how rigid Rocket is to opening up, the importance of family for Quill, and why Quill is trying to get Gamora back); the foreshadowing was kind a setback in the movie as it is just pretty predictable overall in how safe they go about the movie (I would have liked it to be a bit more depressing/dark to be more profound); still has very Marvel elements to the screenplay that restrict if from going above and beyond"
   }
   score {
     composer {
       name: "John Murphy"
     }
-    comments: "Good Score"
+    rating: "Good"
   }
-  soundtrack: "Very Good Soundtrack (while there wasn\'t a consistent theme as in the other movies, I still liked the song selection (like Creep and Dog Days Are Over))"
+  soundtrack {
+    rating: "Very Good"
+    comments: "While there wasn\'t a consistent theme as in the other movies, I still liked the song selection (like Creep and Dog Days Are Over)"
+  }
   cinematography {
     cinematographer {
       name: "Henry Braham"
     }
-    comments: "Very Good Cinematography (Really enjoyed the 360/wide-angle style cinematography in the fight scenes (especially the hallway scene))"
+    rating: "Very Good"
+    comments: "Really enjoyed the 360/wide-angle style cinematography in the fight scenes (especially the hallway scene)"
   }
-  sound: "Very Good Sound"
   editing {
     editor {
       name: "Fred Raskin"
@@ -88,12 +124,24 @@ review {
     editor {
       name: "Greg D\'Auria"
     }
-    comments: "Very Good Editing"
+    rating: "Very Good"
   }
-  visual_effects: "Great Visual Effects (Used CGI very well to help tell the story and make the fights entertaining)"
-  production_design: "Good Production Design"
-  makeup: "Very Good Makeup"
-  costumes: "Very Good Costumes"
+  sound {
+    rating: "Very Good"
+  }
+  visual_effects {
+    rating: "Great"
+    comments: "Used CGI very well to help tell the story and make the fights entertaining"
+  }
+  production_design {
+    rating: "Good"
+  }
+  makeup {
+    rating: "Very Good"
+  }
+  costumes {
+    rating: "Very Good"
+  }
   plot_structure: "Plot Structure was good for the most part as all the major points were laid out nicely (but there was a bit too much plot that was not that necessary (like 10-15 minutes could have been cut)); the narrative style of weaving between the past and the present was well done as it helped make Rocket a more multidimensional character"
   pacing: "Pacing was good for the most part as it stayed a steady pace for most of the movie up until the end (the ending felt incredibly rushed at how abrupt it was (which kinda hurt considering it was meant to wrap up all the storylines for the Guardians))"
   climax: "Climax was entertaining and fun to watch but still showed many signs of following the Marvel formula (though there was some James Gunn touches on it that made it feel somewhat unique)"

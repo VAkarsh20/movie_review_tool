@@ -5,101 +5,153 @@ review {
     director {
       name: "Chris Columbus"
     }
-    comments: "Very Good Direction (Does a very good job at building the world and installing a lot of the elements from the books into the movies (also staying pretty true to the books); gets the most out of his actors and does a good job in getting the joy and innocence out of the child actors; brings his typical light-hearted tone that he has in his other movies)"
+    rating: "Very Good"
+    comments: "Does a very good job at building the world and installing a lot of the elements from the books into the movies (also staying pretty true to the books); gets the most out of his actors and does a good job in getting the joy and innocence out of the child actors; brings his typical light-hearted tone that he has in his other movies"
   }
   acting {
-    actor {
-      name: "Daniel Radcliffe"
-      comments: "Good to Very Good from Daniel Radcliffe (Does a good job at carrying the weight of the movie as he is truly the only person who could do the job of playing the young Harry Potter, with his charm, naivete, and bravery)"
+    performance {
+      actor {
+        name: "Daniel Radcliffe"
+      }
+      rating: "Good to Very Good"
+      comments: "Does a good job at carrying the weight of the movie as he is truly the only person who could do the job of playing the young Harry Potter, with his charm, naivete, and bravery"
     }
-    actor {
-      name: "Rupert Grint"
-      comments: "Good from Rupert Grint (Plays the comedic relief character very well and works well off of Daniel and Emma, really embodies the character)"
+    performance {
+      actor {
+        name: "Rupert Grint"
+      }
+      rating: "Good"
+      comments: "Plays the comedic relief character very well and works well off of Daniel and Emma, really embodies the character"
     }
-    actor {
-      name: "Emma Watson"
-      comments: "Good from Emma Watson (Plays the annoying, smartass character very well and works well off of Daniel and Rupert, really embodies the character)"
+    performance {
+      actor {
+        name: "Emma Watson"
+      }
+      rating: "Good"
+      comments: "Plays the annoying, smartass character very well and works well off of Daniel and Rupert, really embodies the character"
     }
-    actor {
-      name: "Robbie Coltrane"
-      comments: "Very Good from Robbie Coltrane (The best actor in the movie as he really steals every scene he is in through his large presence coupled with his comedic/loving nature; acts as the father figure to Harry throughout the movie)"
+    performance {
+      actor {
+        name: "Robbie Coltrane"
+      }
+      rating: "Very Good"
+      comments: "The best actor in the movie as he really steals every scene he is in through his large presence coupled with his comedic/loving nature; acts as the father figure to Harry throughout the movie"
     }
-    actor {
-      name: "Warwick Davis"
-      comments: "Good from Warwick Davis (Plays multiple roles well)"
+    performance {
+      actor {
+        name: "Warwick Davis"
+      }
+      rating: "Good"
+      comments: "Plays multiple roles well"
     }
-    actor {
-      name: "Richard Griffiths"
-      comments: "Decent from Richard Griffiths"
+    performance {
+      actor {
+        name: "Richard Griffiths"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Richard Harris"
-      comments: "Pretty Good to Good from Richard Harris (Plays the more loving Dumbledore (as opposed to the ones in the succeeding movies after his passing))"
+    performance {
+      actor {
+        name: "Richard Harris"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Plays the more loving Dumbledore (as opposed to the ones in the succeeding movies after his passing)"
     }
-    actor {
-      name: "Ian Hart"
-      comments: "Decent to Pretty Good from Ian Hart"
+    performance {
+      actor {
+        name: "Ian Hart"
+      }
+      rating: "Decent to Pretty Good"
     }
-    actor {
-      name: "John Hurt"
-      comments: "Good from John Hurt (Does a good job despite having very little screentime)"
+    performance {
+      actor {
+        name: "John Hurt"
+      }
+      rating: "Good"
+      comments: "Does a good job despite having very little screentime"
     }
-    actor {
-      name: "Alan Rickman"
-      comments: "Good to Very Good from Alan Rickman (Really embodies Snape very well)"
+    performance {
+      actor {
+        name: "Alan Rickman"
+      }
+      rating: "Good to Very Good"
+      comments: "Really embodies Snape very well"
     }
-    actor {
-      name: "Fiona Shaw"
-      comments: "Decent from Fiona Shaw"
+    performance {
+      actor {
+        name: "Fiona Shaw"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Maggie Smith"
-      comments: "Good to Very Good from Maggie Smith (Embodies McGonagall very well)"
+    performance {
+      actor {
+        name: "Maggie Smith"
+      }
+      rating: "Good to Very Good"
+      comments: "Embodies McGonagall very well"
     }
-    cast: "Pretty Good to Good from the rest of the cast"
-    comments: "Pretty Good to Good Acting"
+    cast {
+      rating: "Pretty Good to Good"
+    }
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
       name: "Steve Kloves"
     }
-    comments: "Incredible Story (Adapts the source material very well as it stays true to it for the most part and builds the world through its key elements)"
+    rating: "Incredible"
+    comments: "Adapts the source material very well as it stays true to it for the most part and builds the world through its key elements"
   }
   screenplay {
     writer {
       name: "Steve Kloves"
     }
-    comments: "Very Good Screenplay (Filled with many iconic lines that are instantly quotable (but is pretty safe overall given that it is a light-hearted children's movie), the symbolism is pretty similar to that of the books, the foreshadowing helps build the rest of the franchise and who the main antagonist will be for Harry to fight)"
+    rating: "Very Good"
+    comments: "Filled with many iconic lines that are instantly quotable (but is pretty safe overall given that it is a light-hearted children\'s movie), the symbolism is pretty similar to that of the books, the foreshadowing helps build the rest of the franchise and who the main antagonist will be for Harry to fight"
   }
   score {
     composer {
       name: "John Williams"
     }
-    comments: "Brilliant Score (One of his best and most iconic scores of all time)"
+    rating: "Brilliant"
+    comments: "One of his best and most iconic scores of all time"
   }
   cinematography {
     cinematographer {
       name: "John Seale"
     }
-    comments: "Very Good Cinematography"
+    rating: "Very Good"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Richard Francis-Bruce"
     }
-    comments: "Good to Very Good Editing"
+    rating: "Good to Very Good"
   }
-  visual_effects: "Good to Very Good Visual Effects (Pretty ahead of its time (though is a bit dated when you rewatch it))"
-  production_design: "Brilliant Production Design (The best part of the movie as it really brings to life this iconic world that was only written before)"
-  makeup: "Very Good Makeup"
-  costumes: "Brilliant Costumes (Brings to live this iconic world and is some of the most recognized costumes in pop-culture)"
+  sound {
+    rating: "Good"
+  }
+  visual_effects {
+    rating: "Good to Very Good"
+    comments: "Pretty ahead of its time (though is a bit dated when you rewatch it)"
+  }
+  production_design {
+    rating: "Brilliant"
+    comments: "The best part of the movie as it really brings to life this iconic world that was only written before"
+  }
+  makeup {
+    rating: "Very Good"
+  }
+  costumes {
+    rating: "Brilliant"
+    comments: "Brings to live this iconic world and is some of the most recognized costumes in pop-culture"
+  }
   plot_structure: "Plot Structure was pretty similar to the book (so pretty standard narrative structure)"
   pacing: "Pacing was a good pace as it uses its runtime well to help build the world and the story (no need to add or cut any runtime)"
-  climax: "Climax was very entertaining as it showed how Harry was 'The chosen one'"
+  climax: "Climax was very entertaining as it showed how Harry was \'The chosen one\'"
   tone: "Tone was very typical to other Chris Columbus movies as it was pretty light-hearted and family-oriented"
   final_notes: "Some bias as this was one of my favorite movies growing up as a child"
-  overall: "Overall, a great adaptation of one of the most iconic contemporary children's books as they build a world that has spawned one of the biggest franchises in film history, through its production design, costumes, score, and acting as we are transported outside the realm of reality to see kids try to find their part in the Wizarding World"
+  overall: "Overall, a great adaptation of one of the most iconic contemporary children\'s books as they build a world that has spawned one of the biggest franchises in film history, through its production design, costumes, score, and acting as we are transported outside the realm of reality to see kids try to find their part in the Wizarding World"
 }
 release_year: 2001
 review_date: "07/24/2023"

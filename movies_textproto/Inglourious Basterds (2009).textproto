@@ -5,81 +5,119 @@ review {
     director {
       name: "Quentin Tarantino"
     }
-    comments: "Brilliant Direction (The best use of subtly to build tension I have ever seen in a movie as he does so much to build suspense throughout the movie with so little; the macro-scenes are incredibly executed and the micro-scenes are done very well as the acting feels so natural between the cast (especially in the opening scene and the bar scene); moves the story incredibly well as he uses the chapter format to begin story arcs and build each piece on each other up until the climax)"
+    rating: "Brilliant"
+    comments: "The best use of subtly to build tension I have ever seen in a movie as he does so much to build suspense throughout the movie with so little; the macro-scenes are incredibly executed and the micro-scenes are done very well as the acting feels so natural between the cast (especially in the opening scene and the bar scene); moves the story incredibly well as he uses the chapter format to begin story arcs and build each piece on each other up until the climax"
   }
   acting {
-    actor {
-      name: "Brad Pitt"
-      comments: "Good to Very Good from Brad Pitt (A very over-the-top performance that helps bring a comedic element to the movie)"
+    performance {
+      actor {
+        name: "Brad Pitt"
+      }
+      rating: "Good to Very Good"
+      comments: "A very over-the-top performance that helps bring a comedic element to the movie"
     }
-    actor {
-      name: "Christoph Waltz"
-      comments: "Brilliant from Christoph Waltz (He can switch between motions so fast and effortlessly as he can switch between humor and hour in a snap; he also commands all the scenes he is in with his menacing figure, and he uses different languages to help be very persuasive in the scenes he is in)"
+    performance {
+      actor {
+        name: "Christoph Waltz"
+      }
+      rating: "Brilliant"
+      comments: "He can switch between motions so fast and effortlessly as he can switch between humor and hour in a snap; he also commands all the scenes he is in with his menacing figure, and he uses different languages to help be very persuasive in the scenes he is in"
     }
-    actor {
-      name: "Michael Fassbender"
-      comments: "Very Good from Michael Fassbender (Holds his own very well in his scenes and does a good job in working with his cast to progress the story forward)"
+    performance {
+      actor {
+        name: "Michael Fassbender"
+      }
+      rating: "Very Good"
+      comments: "Holds his own very well in his scenes and does a good job in working with his cast to progress the story forward"
     }
-    actor {
-      name: "Eli Roth"
-      comments: "Good from Eli Roth"
+    performance {
+      actor {
+        name: "Eli Roth"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Diane Kruger"
-      comments: "Great from Diane Kruger (Really steals the scenes she is in and has somewhat of a duel personality as she works with both sides of the war)"
+    performance {
+      actor {
+        name: "Diane Kruger"
+      }
+      rating: "Great"
+      comments: "Really steals the scenes she is in and has somewhat of a duel personality as she works with both sides of the war"
     }
-    actor {
-      name: "Daniel Br\303\274hl"
-      comments: "Very Good from Daniel Br\303\274hl"
+    performance {
+      actor {
+        name: "Daniel Br\303\274hl"
+      }
+      rating: "Very Good"
     }
-    actor {
-      name: "Til Schweiger"
-      comments: "Good from Til Schweiger"
+    performance {
+      actor {
+        name: "Til Schweiger"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "M\303\251lanie Laurent"
-      comments: "Great from M\303\251lanie Laurent (Does an amazing job in helping build empathy with her struggle as her disdain towards the Reich and cool persona make her somewhat of a neo-action star)"
+    performance {
+      actor {
+        name: "M\303\251lanie Laurent"
+      }
+      rating: "Great"
+      comments: "Does an amazing job in helping build empathy with her struggle as her disdain towards the Reich and cool persona make her somewhat of a neo-action star"
     }
-    actor {
-      name: "B. J. Novak"
-      comments: "Good from B. J. Novak"
+    performance {
+      actor {
+        name: "B. J. Novak"
+      }
+      rating: "Good"
     }
-    cast: "Good from the rest of the cast (Not a single bad performance turned in as everyone works well with each other as the acting helps make the scenes so captivating)"
-    comments: "Great Acting"
+    cast {
+      rating: "Good"
+      comments: "Not a single bad performance turned in as everyone works well with each other as the acting helps make the scenes so captivating"
+    }
+    rating: "Great"
   }
   story {
     writer {
       name: "Quentin Tarantino"
     }
-    comments: "Incredible Story (Uses the chapter format very well to help break up the movie into smaller pieces that build on each other as we get to see different perspectives from the war and how they converge to the climax; each chapter is also very captivating as they can be real short stories on their own with how well written and captivating they are (especially the opening and bar scene); the character writing (especially for Hans Landa) is incredible as he creates very memorable icons through the use of nicknames and actions they do; the foreshadowing of the movie is pretty prominent because the movie at the end of the day is a revenge story; there is also a lot of symmetry throughout the movie)"
+    rating: "Incredible"
+    comments: "Uses the chapter format very well to help break up the movie into smaller pieces that build on each other as we get to see different perspectives from the war and how they converge to the climax; each chapter is also very captivating as they can be real short stories on their own with how well written and captivating they are (especially the opening and bar scene); the character writing (especially for Hans Landa) is incredible as he creates very memorable icons through the use of nicknames and actions they do; the foreshadowing of the movie is pretty prominent because the movie at the end of the day is a revenge story; there is also a lot of symmetry throughout the movie"
   }
   screenplay {
     writer {
       name: "Quentin Tarantino"
     }
-    comments: "Incredible Screenplay (The dialogue is just so iconic and memorable as it flows effortlessly between the characters and has iconic lines throughout; the jokes were very typical to other Tarantino movies (so funny and helps move the story forward); the symbolism is very present)"
+    rating: "Incredible"
+    comments: "The dialogue is just so iconic and memorable as it flows effortlessly between the characters and has iconic lines throughout; the jokes were very typical to other Tarantino movies (so funny and helps move the story forward); the symbolism is very present"
   }
   cinematography {
     cinematographer {
       name: "Robert Richardson"
     }
-    comments: "Great Cinematography (Does a good job in helping build the suspense of scenes)"
+    rating: "Great"
+    comments: "Does a good job in helping build the suspense of scenes"
   }
-  sound: "Great Sound (Does its part in helping build suspense and be a part of the action scenes)"
   editing {
     editor {
       name: "Sally Menke"
     }
-    comments: "Great Editing"
+    rating: "Great"
   }
-  visual_effects: "Good Visual Effects"
-  production_design: "Great Production Design (Helps with setting the period)"
+  sound {
+    rating: "Great"
+    comments: "Does its part in helping build suspense and be a part of the action scenes"
+  }
+  visual_effects {
+    rating: "Good"
+  }
+  production_design {
+    rating: "Great"
+    comments: "Helps with setting the period"
+  }
   plot_structure: "Plot Structure was very similar to Pulp Fiction in that the movie was split into chapters (and this a very good design as it helps break up the long runtime into a smaller movie as each chapter builds on each other as they all converge to the climax)"
   pacing: "Pacing was good as the movie really changed its tempo based on the scenes (it was quick when trying to progress through scenes but slow when trying to build suspense)"
   climax: "Climax was executed very well as it was very Tarantino is style and was a very captivating part to see all the storylines converge to one point"
   tone: "Tone was similar to WWII themed movies but felt very similar to other Tarantino movies in feel and style; there never really felt like just a thriller or a comedy"
-  final_notes: "There wasn't really a score but the soundtrack was used very well to help build suspense throughout the movie; one of the best-executed uses of using tension to help build suspense I have ever seen in movies"
-  overall: "Overall, a true masterclass in building suspense as we see Tarantino take control and mature as a filmmaker through his brilliant direction and incredible writing, with this this been taken control of on-screen through Christoph Waltz's brilliant performance as the menacing Hans Landa"
+  final_notes: "There wasn\'t really a score but the soundtrack was used very well to help build suspense throughout the movie; one of the best-executed uses of using tension to help build suspense I have ever seen in movies"
+  overall: "Overall, a true masterclass in building suspense as we see Tarantino take control and mature as a filmmaker through his brilliant direction and incredible writing, with this this been taken control of on-screen through Christoph Waltz\'s brilliant performance as the menacing Hans Landa"
 }
 release_year: 2009
 review_date: "09/22/2023"

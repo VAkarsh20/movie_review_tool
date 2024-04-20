@@ -5,11 +5,14 @@ review {
     director {
       name: "John Carpenter"
     }
-    comments: "Good Direction"
+    rating: "Good"
   }
   acting {
-    cast: "Pretty Good to Good from the rest of the cast (Especially for the younger, inexperienced actors)"
-    comments: "Pretty Good to Good Acting"
+    cast {
+      rating: "Pretty Good to Good"
+      comments: "Especially for the younger, inexperienced actors"
+    }
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
@@ -18,7 +21,7 @@ review {
     writer {
       name: "Debra Hill"
     }
-    comments: "Very Good/Iconic Story"
+    rating: "Very Good/Iconic"
   }
   screenplay {
     writer {
@@ -27,24 +30,30 @@ review {
     writer {
       name: "Debra Hill"
     }
-    comments: "Good Screenplay (Good use of suspense and no major flows in the dialogue)"
+    rating: "Good"
+    comments: "Good use of suspense and no major flows in the dialogue"
   }
   score {
     composer {
       name: "John Carpenter"
     }
-    comments: "Very Good/Iconic Score"
+    rating: "Very Good/Iconic"
   }
   cinematography {
     cinematographer {
       name: "Dean Cundey"
     }
-    comments: "Very Good Cinematography (Really liked the POV shots and thought it overall very well executed especially with such a low budget)"
+    rating: "Very Good"
+    comments: "Really liked the POV shots and thought it overall very well executed especially with such a low budget"
   }
-  sound: "Good Sound (Good use of sound effects to help build suspense)"
+  sound {
+    rating: "Good"
+    comments: "Good use of sound effects to help build suspense"
+  }
   plot_structure: "Plot Structure was pretty poor as it felt that the first hour of the movie is the exposition and the final 30 minutes was the real horror and suspenseful parts of the movie (although the transition/build between these two parts was very well executed)"
   pacing: "Pacing was very slow overall as the entire movie felt it was dragging up until the final 30 minutes (there were moments where you could tell they were filling time, especially with the panning shots)"
   climax: "Climax of the movie was very well executed as there was much suspense and misdirection that gave Halloween and Michael Myers their household names"
+  final_notes: ""
   overall: "Overall, a fun, iconic horror movie that made the most that it could from its very low budget by creating iconic moments and characters, even though it suffers from a poorly constructed plot structure that spends the first hour in dragging, exposition moments"
 }
 release_year: 1978

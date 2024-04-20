@@ -5,27 +5,43 @@ review {
     director {
       name: "Martin Scorsese"
     }
-    comments: "Incredible Direction (With the ability to handle such fast paced moments with a lot of moving parts at once and the conversations between characters)"
+    rating: "Incredible"
+    comments: "With the ability to handle such fast paced moments with a lot of moving parts at once and the conversations between characters"
   }
   acting {
-    actor {
-      name: "Robert De Niro"
-      comments: "Very Good to Great from Robert Di Nero (though his character really does not have that much of a presence in relation to his billing for the movie)"
+    performance {
+      actor {
+        name: "Robert De Niro"
+      }
+      rating: "Very Good to Great"
+      comments: "Though his character really does not have that much of a presence in relation to his billing for the movie"
     }
-    actor {
-      name: "Ray Liotta"
-      comments: "Great from Ray Liotta (was the right person to drive the story forward, just was not that amazing in the very emotional and sad parts)"
+    performance {
+      actor {
+        name: "Ray Liotta"
+      }
+      rating: "Great"
+      comments: "Was the right person to drive the story forward, just was not that amazing in the very emotional and sad parts"
     }
-    actor {
-      name: "Joe Pesci"
-      comments: "Incredible from Joe Pesci (in a very Joe Pesci way)"
+    performance {
+      actor {
+        name: "Joe Pesci"
+      }
+      rating: "Incredible"
+      comments: "In a very Joe Pesci way"
     }
-    actor {
-      name: "Lorraine Bracco"
-      comments: "Very Good to Great from Lorraine Bracco (though the interjections in narration from her character were not that great)"
+    performance {
+      actor {
+        name: "Lorraine Bracco"
+      }
+      rating: "Very Good to Great"
+      comments: "Though the interjections in narration from her character were not that great"
     }
-    cast: "Good to Very Good from the rest of the cast (which is telling considering the number of characters in this movie)"
-    comments: "Great Acting"
+    cast {
+      rating: "Good to Very Good"
+      comments: "Which is telling considering the number of characters in this movie"
+    }
+    rating: "Great"
   }
   story {
     writer {
@@ -34,7 +50,8 @@ review {
     writer {
       name: "Martin Scorsese"
     }
-    comments: "Incredible Story (With Ray Liota\'s narration being an iconic feature for the movie in depicting the life of Henry Hill, though the final parts of the plot did drag on a bit)"
+    rating: "Incredible"
+    comments: "With Ray Liota\'s narration being an iconic feature for the movie in depicting the life of Henry Hill, though the final parts of the plot did drag on a bit"
   }
   screenplay {
     writer {
@@ -43,20 +60,24 @@ review {
     writer {
       name: "Martin Scorsese"
     }
-    comments: "Incredible to Brilliant Screenplay (with the language being so fluid yet vulgar, the actions conveying the tone of the film, and the film being filled with iconic moments and lines)"
+    rating: "Incredible to Brilliant"
+    comments: "With the language being so fluid yet vulgar, the actions conveying the tone of the film, and the film being filled with iconic moments and lines"
   }
   cinematography {
     cinematographer {
       name: "Michael Ballhaus"
     }
-    comments: "Incredible Cinematography (helped with setting the tone and keeping the pace going)"
+    rating: "Incredible"
+    comments: "Helped with setting the tone and keeping the pace going"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Thelma Schoonmaker"
     }
-    comments: "Great to Incredible Editing"
+    rating: "Great to Incredible"
+  }
+  sound {
+    rating: "Good"
   }
   plot_structure: "Plot Structure was good (though more time was spent in the first half introducing elements, the climax and the resolution dragged for a bit; the first half of the plot had a lot of elements displayed very fast while the second half had less elements and took longer that expected to explain them); I feel that the exposition and rising action were the real key points of the movie as that was what the most time was spent on and really shows the development of the characters"
   pacing: "Pacing was very quick except towards the end (where the final 40 minutes really dragged on, and it probably could have been cut in half (still felt it dragged even though it was quick))"

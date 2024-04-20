@@ -5,31 +5,50 @@ review {
     director {
       name: "Martin Scorsese"
     }
-    comments: "Great Direction (Scorsese shows why he is a real master of story-telling as he steps away from his very overt style of telling the story in favor of one that is emotionally driven (yet it is still very obvious that he is the architect of this movie because it still has his signature charm); really gets the most out of his actors as he uses them as components to convey emotion; gets everything done on both a macro and a micro level; could have chosen a tighter cut as the elongated scenes (which can be argued helped with showing the characters\' emotions) dragged the movie down and made it feel a lot slower)"
+    rating: "Great"
+    comments: "Scorsese shows why he is a real master of story-telling as he steps away from his very overt style of telling the story in favor of one that is emotionally driven (yet it is still very obvious that he is the architect of this movie because it still has his signature charm); really gets the most out of his actors as he uses them as components to convey emotion; gets everything done on both a macro and a micro level; could have chosen a tighter cut as the elongated scenes (which can be argued helped with showing the characters\' emotions) dragged the movie down and made it feel a lot slower"
   }
   acting {
-    actor {
-      name: "Leonardo DiCaprio"
-      comments: "Great from Leonardo DiCaprio (Gives a real emotionally driven performance as you both empathize yet despise him at the same time, he shows why he is the best in the world as he plays the line between anger and sadness effortlessly)"
+    performance {
+      actor {
+        name: "Leonardo DiCaprio"
+      }
+      rating: "Great"
+      comments: "Gives a real emotionally driven performance as you both empathize yet despise him at the same time, he shows why he is the best in the world as he plays the line between anger and sadness effortlessly"
     }
-    actor {
-      name: "Robert De Niro"
-      comments: "Great from Robert De Niro (Really shows his experience in this role as he uses his signature charm and chemistry with Scorsese to be a real menacing presence in every scene he is in)"
+    performance {
+      actor {
+        name: "Robert De Niro"
+      }
+      rating: "Great"
+      comments: "Really shows his experience in this role as he uses his signature charm and chemistry with Scorsese to be a real menacing presence in every scene he is in"
     }
-    actor {
-      name: "Lily Gladstone"
-      comments: "Very Good to Great from Lily Gladstone (The real emotional compass of the movie as you feel for her throughout the film; she holds herself well in all the scenes she is in and becomes a central figure for others to work off of; even though her performance is not as dynamic as the DiCaprios and Di Nero\'s, she still can show so much with so little as her sickness and loss shows what is being taken away from her)"
+    performance {
+      actor {
+        name: "Lily Gladstone"
+      }
+      rating: "Very Good to Great"
+      comments: "The real emotional compass of the movie as you feel for her throughout the film; she holds herself well in all the scenes she is in and becomes a central figure for others to work off of; even though her performance is not as dynamic as the DiCaprios and Di Nero\'s, she still can show so much with so little as her sickness and loss shows what is being taken away from her"
     }
-    actor {
-      name: "Jesse Plemons"
-      comments: "Very Good from Jesse Plemons (Holds his own very well and acts as the objective, outside entity looking into the situation)"
+    performance {
+      actor {
+        name: "Jesse Plemons"
+      }
+      rating: "Very Good"
+      comments: "Holds his own very well and acts as the objective, outside entity looking into the situation"
     }
-    actor {
-      name: "Brendan Fraser"
-      comments: "Bad from Brendan Fraser (Just feels very out-of-place and forced; just unnecessarily over-the-top and had no chemistry with any of the other castmates)"
+    performance {
+      actor {
+        name: "Brendan Fraser"
+      }
+      rating: "Bad"
+      comments: "Just feels very out-of-place and forced; just unnecessarily over-the-top and had no chemistry with any of the other castmates"
     }
-    cast: "Good to Very Good from the rest of the cast (Really hold their own and show why Scorcese is a master at getting the best out of his actors)"
-    comments: "Very Good Acting"
+    cast {
+      rating: "Good to Very Good"
+      comments: "Really hold their own and show why Scorcese is a master at getting the best out of his actors"
+    }
+    rating: "Very Good"
   }
   story {
     writer {
@@ -38,7 +57,8 @@ review {
     writer {
       name: "Martin Scorsese"
     }
-    comments: "Very Good Great Story (The best part of the film was it was well laid out and entertaining to see the conflict slowly peel layers to see what is truly going on (turning from a mystery to a crime film in true Scorcese fashion); the characters were written very well as you know a lot about the motives and feelings of the native and white characters; the story takes a different turn from the source material and this is a very good choice as it shifts the perspective from the FBI to the Native Americans to show how they are experiencing the conflict; the biggest issue with the story is just how long it is as it could have been cut and still show the same story)"
+    rating: "Very Good Great"
+    comments: "The best part of the film was it was well laid out and entertaining to see the conflict slowly peel layers to see what is truly going on (turning from a mystery to a crime film in true Scorcese fashion); the characters were written very well as you know a lot about the motives and feelings of the native and white characters; the story takes a different turn from the source material and this is a very good choice as it shifts the perspective from the FBI to the Native Americans to show how they are experiencing the conflict; the biggest issue with the story is just how long it is as it could have been cut and still show the same story"
   }
   screenplay {
     writer {
@@ -47,30 +67,46 @@ review {
     writer {
       name: "Martin Scorsese"
     }
-    comments: "Very Good to Great Screenplay (The dialogue is very heavy and well written as the audience is interested in what is being told on screen (though the heavy southern accents really doesn\'t help with understanding what is going on); there isn\'t really a \'narrator\' like other Scorsese movies but they do use dialogue to help drive the story forward and show what is going on; the symbolism is incredibly present and helps show the impact the crimes have on the Osage and the lengths that greed has on individuals turning away from their morals; foreshadowing is great and helps with keeping the movie interested and well structured)"
+    rating: "Very Good to Great"
+    comments: "The dialogue is very heavy and well written as the audience is interested in what is being told on screen (though the heavy southern accents really doesn\'t help with understanding what is going on); there isn\'t really a \'narrator\' like other Scorsese movies but they do use dialogue to help drive the story forward and show what is going on; the symbolism is incredibly present and helps show the impact the crimes have on the Osage and the lengths that greed has on individuals turning away from their morals; foreshadowing is great and helps with keeping the movie interested and well structured"
   }
   score {
     composer {
       name: "Robbie Robertson"
     }
-    comments: "Good to Very Good Score (The use of southern and native motifs helps with setting the scenes; the score is used well in helping build tension)"
+    rating: "Good to Very Good"
+    comments: "The use of southern and native motifs helps with setting the scenes; the score is used well in helping build tension"
   }
   cinematography {
     cinematographer {
       name: "Rodrigo Prieto"
     }
-    comments: "Great Cinematography (Really helps with showing how polished this movie is and helps with making each scene look so captivating)"
+    rating: "Great"
+    comments: "Really helps with showing how polished this movie is and helps with making each scene look so captivating"
   }
-  sound: "Very Good Sound (Helps with building the tension and scenes (especially the absence of sound at points))"
   editing {
     editor {
       name: "Thelma Schoonmaker"
     }
-    comments: "Very Good Editing (Edited very well as there are no major flows (and there are some shots where the editing was so seamless it showed how experienced Scorcese is at making pictures); the actual cut of the movie is long and editing really could\'ve helped with making a bit tighter)"
+    rating: "Very Good"
+    comments: "Edited very well as there are no major flows (and there are some shots where the editing was so seamless it showed how experienced Scorcese is at making pictures); the actual cut of the movie is long and editing really could\'ve helped with making a bit tighter"
   }
-  visual_effects: "Very Good Visual Effects (The use of practical effects helped with conveying the period)"
-  production_design: "Great Production Design (Used both the Western and Osage aspects of the movie to help set the time period)"
-  costumes: "Very Good Costumes (Helped with setting the period and giving the Osage a memorable presence)"
+  sound {
+    rating: "Very Good"
+    comments: "Helps with building the tension and scenes (especially the absence of sound at points)"
+  }
+  visual_effects {
+    rating: "Very Good"
+    comments: "The use of practical effects helped with conveying the period"
+  }
+  production_design {
+    rating: "Great"
+    comments: "Used both the Western and Osage aspects of the movie to help set the time period"
+  }
+  costumes {
+    rating: "Very Good"
+    comments: "Helped with setting the period and giving the Osage a memorable presence"
+  }
   plot_structure: "Plot Structure was a major issue for this movie as it the movie is just too long (the exposition and rising action as just unnecessarily long to the point where the audience is exhausted by the time the climax hits); the movie could\'ve cut 30-40 minutes of the story to really help with making the runtime a lot shorter (and it would still be the same movie and give the same message)"
   pacing: "Pacing was incredibly slow as there is just so much plot to go through and there are many scenes where there is just open-air (this hurts with helping keep the attention of the audience as the movie just bogs down the further it gets)"
   climax: "Climax was well executed and captivating (it is just the audience is so exhausted by the time they get to it, it hurts from captivating what is going on)"

@@ -5,60 +5,82 @@ review {
     director {
       name: "Chris Columbus"
     }
-    comments: "Very Good to Great Direction (the direction on a macro and microscale is pretty generic to 80s family comedies; the direction of actors is great as he can bring out the humor and joy in many moments, helps set the lighthearted tone that Kevin brings throughout the movie; storytelling is very similar to other John Hughes movies)"
+    rating: "Very Good to Great"
+    comments: "The direction on a macro and microscale is pretty generic to 80s family comedies; the direction of actors is great as he can bring out the humor and joy in many moments, helps set the lighthearted tone that Kevin brings throughout the movie; storytelling is very similar to other John Hughes movies"
   }
   acting {
-    actor {
-      name: "Macaulay Culkin"
-      comments: "Great from Macaulay Culkin (Able to bring the youthful charm the movie is known for)"
+    performance {
+      actor {
+        name: "Macaulay Culkin"
+      }
+      rating: "Great"
+      comments: "Able to bring the youthful charm the movie is known for"
     }
-    actor {
-      name: "Joe Pesci"
-      comments: "Great from Joe Pesci (Able to bring the comedic charm the movie is known for)"
+    performance {
+      actor {
+        name: "Joe Pesci"
+      }
+      rating: "Great"
+      comments: "Able to bring the comedic charm the movie is known for"
     }
-    actor {
-      name: "Daniel Stern"
-      comments: "Very Good from Daniel Stern (The good comedic relief partner that plays off of Joe Pesci)"
+    performance {
+      actor {
+        name: "Daniel Stern"
+      }
+      rating: "Very Good"
+      comments: "The good comedic relief partner that plays off of Joe Pesci"
     }
-    actor {
-      name: "Catherine O\'Hara"
-      comments: "Good to Very Good from Catherine O\'Hara"
+    performance {
+      actor {
+        name: "Catherine O\'Hara"
+      }
+      rating: "Good to Very Good"
     }
-    cast: "Decent to Pretty Good from the rest of the cast "
-    comments: "Decent to Pretty Good Acting"
+    cast {
+      rating: "Decent to Pretty Good"
+    }
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
       name: "John Hughes"
     }
-    comments: "Incredible Story (The concept was unique and iconic for the time as it took the Christmas movie genre to new heights; the plot structure was very nicely laid out as there are no real wasted scenes in developing the story; flow between sequences is pretty standard to other John Hughes movies; character writing was great as you see the relationships Kevin has with the people around him (and how his mother cares about her son))"
+    rating: "Incredible"
+    comments: "The concept was unique and iconic for the time as it took the Christmas movie genre to new heights; the plot structure was very nicely laid out as there are no real wasted scenes in developing the story; flow between sequences is pretty standard to other John Hughes movies; character writing was great as you see the relationships Kevin has with the people around him (and how his mother cares about her son)"
   }
   screenplay {
     writer {
       name: "John Hughes"
     }
-    comments: "Great Screenplay (The dialogue is pretty simple as its a family movie (but it is filled with iconic lines); the humor was very good and iconic; the foreshadowing is good as it helps with showing the message of Kevin nothing being afraid)"
+    rating: "Great"
+    comments: "The dialogue is pretty simple as its a family movie (but it is filled with iconic lines); the humor was very good and iconic; the foreshadowing is good as it helps with showing the message of Kevin nothing being afraid"
   }
   score {
     composer {
       name: "John Williams"
     }
-    comments: "Incredible Score (One of John Williams's most iconic works)"
+    rating: "Incredible"
+    comments: "One of John Williams\'s most iconic works"
   }
   cinematography {
     cinematographer {
       name: "Julio Macat"
     }
-    comments: "Good Cinematography"
+    rating: "Good"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Raja Gosnell"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  production_design: "Very Good Production Design (The house is very iconic and the traps laid out throughout it give the movie its iconic charm)"
+  sound {
+    rating: "Good"
+  }
+  production_design {
+    rating: "Very Good"
+    comments: "The house is very iconic and the traps laid out throughout it give the movie its iconic charm"
+  }
   pacing: "Pacing was great as it was a steady pace that used its runtime very nicely"
   climax: "Build to the climax was great as it helped tie loose ends in Kevin\'s fears of being alone and with the old man; the climax is the most iconic part of the movie as it shows Kevin against the Wet Bandits as he lays the house out with traps to defend himself and show how he is not afraid anymore"
   tone: "Tone was very similar to other John Hughes movies (mixed with Christmas elements)"

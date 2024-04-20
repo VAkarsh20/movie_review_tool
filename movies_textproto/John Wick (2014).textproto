@@ -5,27 +5,36 @@ review {
     director {
       name: "Chad Stahelski"
     }
-    comments: "Pretty Bad Direction (The choreography of action sequences was very well done (Some of the best I have seen), but the moving of the story forward and the direction of actors was bad considering how dull the movie really was)"
+    rating: "Pretty Bad"
+    comments: "The choreography of action sequences was very well done (Some of the best I have seen), but the moving of the story forward and the direction of actors was bad considering how dull the movie really was"
   }
   acting {
-    actor {
-      name: "Keanu Reeves"
-      comments: "Pretty Good from Keanu Reeves (Able to handle the action sequences in a great way and is a strong prominent figure throughout the movie (With some good moments in dramatic acting), but has some really questionable scenes that may be in fault from the direction he was given)"
+    performance {
+      actor {
+        name: "Keanu Reeves"
+      }
+      rating: "Pretty Good"
+      comments: "Able to handle the action sequences in a great way and is a strong prominent figure throughout the movie (With some good moments in dramatic acting), but has some really questionable scenes that may be in fault from the direction he was given"
     }
-    cast: "Bad to Pretty Bad from the rest of the cast (Acting on a Spectrum, anywhere from very bad and emotionless (like Alfie Allen) to decent acting (like Willem Dafoe))"
-    comments: "Bad Acting"
+    cast {
+      rating: "Bad to Pretty Bad"
+      comments: "Acting on a Spectrum, anywhere from very bad and emotionless (like Alfie Allen) to decent acting (like Willem Dafoe)"
+    }
+    rating: "Bad"
   }
   story {
     writer {
       name: "Derek Kolstad"
     }
-    comments: "Good Story (Though it is filled with cliches of an ex-conman coming back into the fold, the storytelling and character writing of John Wick is very good to paint him as the ultimate figure to not be messed with)"
+    rating: "Good"
+    comments: "Though it is filled with cliches of an ex-conman coming back into the fold, the storytelling and character writing of John Wick is very good to paint him as the ultimate figure to not be messed with"
   }
   screenplay {
     writer {
       name: "Derek Kolstad"
     }
-    comments: "Pretty Bad to Decent Screenplay (The dialogue was very bland but there were some good moments)"
+    rating: "Pretty Bad to Decent"
+    comments: "The dialogue was very bland but there were some good moments"
   }
   score {
     composer {
@@ -34,23 +43,32 @@ review {
     composer {
       name: "Joel J. Richard"
     }
-    comments: "Decent Score (Just present (but did help in the action scenes))"
+    rating: "Decent"
+    comments: "Just present (but did help in the action scenes)"
   }
   cinematography {
     cinematographer {
       name: "Jonathan Sela"
     }
-    comments: "Good Cinematography"
+    rating: "Good"
   }
-  sound: "Good to Very Good Sound"
   editing {
     editor {
       name: "El\303\255sabet Ronalds"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  visual_effects: "Good Visual Effects (Especially, when showing the firefights)"
-  costumes: "Good Costumes (Even though it is just a suit, they really helped create an iconic character in John Wick)"
+  sound {
+    rating: "Good to Very Good"
+  }
+  visual_effects {
+    rating: "Good"
+    comments: "Especially, when showing the firefights"
+  }
+  costumes {
+    rating: "Good"
+    comments: "Even though it is just a suit, they really helped create an iconic character in John Wick"
+  }
   plot_structure: "Plot Structure was decent for the most part (but does follow a typical action-movie one)"
   pacing: "Pacing was incredible fast to where the runtime was very short (But this helps in giving pace to the character of John Wick)"
   climax: "Build to climax was prevalent and noticeable in its prep for the action; climax was well executed and a fun part of the movie"

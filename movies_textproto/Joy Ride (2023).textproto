@@ -5,27 +5,43 @@ review {
     director {
       name: "Adele Lim"
     }
-    comments: "Decent Direction (Moves the story in a pretty standard comedic fashion (definitely has the blueprint of more modern Seth Rogen comedies); does get a decent amount of the actors throughout the movie but some of the sequences just felt very similar to other raunchy comedies that nothing feels very new)"
+    rating: "Decent"
+    comments: "Moves the story in a pretty standard comedic fashion (definitely has the blueprint of more modern Seth Rogen comedies); does get a decent amount of the actors throughout the movie but some of the sequences just felt very similar to other raunchy comedies that nothing feels very new"
   }
   acting {
-    actor {
-      name: "Ashley Park"
-      comments: "Pretty Good from Ashley Park (As the lead of the movie she does a good job in commanding the scenes she is in and playing the character written for her, she shows some range and is able to be comedic and show emotion when needed)"
+    performance {
+      actor {
+        name: "Ashley Park"
+      }
+      rating: "Pretty Good"
+      comments: "As the lead of the movie she does a good job in commanding the scenes she is in and playing the character written for her, she shows some range and is able to be comedic and show emotion when needed"
     }
-    actor {
-      name: "Sherry Cola"
-      comments: "Decent to Pretty Good from Sherry Cola (Does her role well as the comedic relief character but her character is only really given so much range to work with; plus her comedy style kinda gets annoying as the movie goes on (though this might just be her character playing too much into her trope))"
+    performance {
+      actor {
+        name: "Sherry Cola"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Does her role well as the comedic relief character but her character is only really given so much range to work with; plus her comedy style kinda gets annoying as the movie goes on (though this might just be her character playing too much into her trope)"
     }
-    actor {
-      name: "Stephanie Hsu"
-      comments: "Pretty Good from Stephanie Hsu (Has the most range out of anymore in the cast as she is able to play a two sided character very well)"
+    performance {
+      actor {
+        name: "Stephanie Hsu"
+      }
+      rating: "Pretty Good"
+      comments: "Has the most range out of anymore in the cast as she is able to play a two sided character very well"
     }
-    actor {
-      name: "Sabrina Wu"
-      comments: "Decent to Pretty Good from Sabrina Wu (Plays the deadpan character well and gives the most they can despite their character being written with very little emotion)"
+    performance {
+      actor {
+        name: "Sabrina Wu"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Plays the deadpan character well and gives the most they can despite their character being written with very little emotion"
     }
-    cast: "Decent to Pretty Good from the rest of the cast (No real major flaws in the supporting cast and minor roles)"
-    comments: "Pretty Good Acting"
+    cast {
+      rating: "Decent to Pretty Good"
+      comments: "No real major flaws in the supporting cast and minor roles"
+    }
+    rating: "Pretty Good"
   }
   story {
     writer {
@@ -37,7 +53,8 @@ review {
     writer {
       name: "Adele Lim"
     }
-    comments: "Decent to Pretty Good Story (The overarching story follows a very similar template that Seth Rogen has created for his 2010s comedies as it is pretty obvious which part of the story we are in and what will happen next (making the movie a bit predictable); though the Asian elements of the story (whether it be her exploring Asian or the characters exploring their asian identity) were a nice fresh touch to the Hollywood comedy as they really did justice to a group that is slowly rising into the mainstream entertainment eye)"
+    rating: "Decent to Pretty Good"
+    comments: "The overarching story follows a very similar template that Seth Rogen has created for his 2010s comedies as it is pretty obvious which part of the story we are in and what will happen next (making the movie a bit predictable); though the Asian elements of the story (whether it be her exploring Asian or the characters exploring their asian identity) were a nice fresh touch to the Hollywood comedy as they really did justice to a group that is slowly rising into the mainstream entertainment eye"
   }
   screenplay {
     writer {
@@ -46,29 +63,39 @@ review {
     writer {
       name: "Teresa Hsiao"
     }
-    comments: "Decent to Pretty Good Screenplay (The dialogue overall was pretty standard for comedies of the 2010s; the jokes were very hit or miss because I really enjoyed the Asian specific comedy cause of how relatable it was (at least the jokes that had some overlap with Indian culture) but felt the raunchy/sex comedy was really Amy Schumer esque (so not for me) and there was an over reliance on using Swear words to illicit comedy; symbolism kinda shallow (which is given cause of the formula it follows))"
+    rating: "Decent to Pretty Good"
+    comments: "The dialogue overall was pretty standard for comedies of the 2010s; the jokes were very hit or miss because I really enjoyed the Asian specific comedy cause of how relatable it was (at least the jokes that had some overlap with Indian culture) but felt the raunchy/sex comedy was really Amy Schumer esque (so not for me) and there was an over reliance on using Swear words to illicit comedy; symbolism kinda shallow (which is given cause of the formula it follows)"
   }
   score {
     composer {
       name: "Nathan Matthew David"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
-  soundtrack: "Decent to Pretty Good Soundtrack (Really used it as an outlet to show Asian pop music rather than have it weave well into the movie (not an issue though))"
+  soundtrack {
+    rating: "Decent to Pretty Good"
+    comments: "Really used it as an outlet to show Asian pop music rather than have it weave well into the movie (not an issue though)"
+  }
   cinematography {
     cinematographer {
       name: "Paul Yee"
     }
-    comments: "Decent Cinematography"
+    rating: "Decent"
   }
-  sound: "Decent Sound (Pretty Cartoony similar to how other comedies post 2000 use sound effects)"
   editing {
     editor {
       name: "Nena Erb"
     }
-    comments: "Decent to Pretty Good Editing"
+    rating: "Decent to Pretty Good"
   }
-  visual_effects: "Pretty Bad Visual Effects (It is pretty obvious when they added visual effects as it looks a bit tacky and unrealistic)"
+  sound {
+    rating: "Decent"
+    comments: "Pretty Cartoony similar to how other comedies post 2000 use sound effects"
+  }
+  visual_effects {
+    rating: "Pretty Bad"
+    comments: "It is pretty obvious when they added visual effects as it looks a bit tacky and unrealistic"
+  }
   plot_structure: "Plot Structure was very formulaic to 2010s comedies as it was obvious what part of the movie we were in (follows the Seth Rogen template)"
   pacing: "Pacing was stead throughout (no need to add or cut screen time)"
   climax: "Climax was pretty typical of the genre and was pretty predictable overall (which made it not that enjoyable)"
