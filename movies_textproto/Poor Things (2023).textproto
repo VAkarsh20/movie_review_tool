@@ -5,77 +5,118 @@ review {
     director {
       name: "Yorgos Lanthimos"
     }
-    comments: "Great Direction (The direction on a macroscale is great as he builds this dollhouse, artistic Victorian world and shows the differences in class; the direction on microscale was great as he blends the dramatic and comedic moments well to make the movie entertaining yet profound; the direction of actors was great as it feels like everyone is elevated and work well with each other; storytelling was very fluid as he used his signature style to progress the story forward (showing the growth of Bella at each stop they take); the use of cinematography/editing is very auter-esque as he uses his signature framed cinematography and editing style to tell this story (but in a more polished way than 'The Favorite'))"
+    rating: "Great"
+    comments: "The direction on a macroscale is great as he builds this dollhouse, artistic Victorian world and shows the differences in class; the direction on microscale was great as he blends the dramatic and comedic moments well to make the movie entertaining yet profound; the direction of actors was great as it feels like everyone is elevated and work well with each other; storytelling was very fluid as he used his signature style to progress the story forward (showing the growth of Bella at each stop they take); the use of cinematography/editing is very auter-esque as he uses his signature framed cinematography and editing style to tell this story (but in a more polished way than \'The Favorite\')"
   }
   acting {
-    actor {
-      name: "Emma Stone"
-      comments: "Great from Emma Stone (A really brave performance as she brings to life Bella from her mind's infancy to it being fully developed (doing a great job showing her maturing and exploring her sexuality along the way))"
+    performance {
+      actor {
+        name: "Emma Stone"
+      }
+      rating: "Great"
+      comments: "A really brave performance as she brings to life Bella from her mind\'s infancy to it being fully developed (doing a great job showing her maturing and exploring her sexuality along the way)"
     }
-    actor {
-      name: "Mark Ruffalo"
-      comments: "Very Good to Great from Mark Ruffalo (A great over-the-top performance that steals the show at times as he introduces the ideas of high society and the corruption of the upper class to Bella)"
+    performance {
+      actor {
+        name: "Mark Ruffalo"
+      }
+      rating: "Very Good to Great"
+      comments: "A great over-the-top performance that steals the show at times as he introduces the ideas of high society and the corruption of the upper class to Bella"
     }
-    actor {
-      name: "Willem Dafoe"
-      comments: "Very Good from Willem Dafoe (A real fatherly figure to Bella and uses his signature acting style to portray the character's mischievous nature)"
+    performance {
+      actor {
+        name: "Willem Dafoe"
+      }
+      rating: "Very Good"
+      comments: "A real fatherly figure to Bella and uses his signature acting style to portray the character\'s mischievous nature"
     }
-    actor {
-      name: "Ramy Youssef"
-      comments: "Good to Very Good from Ramy Youssef (A surprise dramatic performance from a more comedy actor as he has a sense of charm and chemistry when he works with Stone and Dafoe)"
+    performance {
+      actor {
+        name: "Ramy Youssef"
+      }
+      rating: "Good to Very Good"
+      comments: "A surprise dramatic performance from a more comedy actor as he has a sense of charm and chemistry when he works with Stone and Dafoe"
     }
-    actor {
-      name: "Christopher Abbott"
-      comments: "Good from Christopher Abbott (Barely in the movie but fits into his role in very little time as he invokes a sense of anger and hatred for the audience)"
+    performance {
+      actor {
+        name: "Christopher Abbott"
+      }
+      rating: "Good"
+      comments: "Barely in the movie but fits into his role in very little time as he invokes a sense of anger and hatred for the audience"
     }
-    actor {
-      name: "Jerrod Carmichael"
-      comments: "Good from Jerrod Carmichael (Works well off of Emma Stone in showing different aspects of society and ethics (but feels a bit off as he is the only one who doesn't have an English accent))"
+    performance {
+      actor {
+        name: "Jerrod Carmichael"
+      }
+      rating: "Good"
+      comments: "Works well off of Emma Stone in showing different aspects of society and ethics (but feels a bit off as he is the only one who doesn\'t have an English accent)"
     }
-    cast: "Good from the rest of the cast (There are few minor characters but everyone plays their role well and works off of the principal cast to elevate everyone's performance (This is a minor observation but why did he make everyone have a Victorian English accent when the whole cast was American, like he could've just had it set in America or have the cast at least be somewhat British))"
-    comments: "Very Good Acting"
+    cast {
+      rating: "Good"
+      comments: "There are few minor characters but everyone plays their role well and works off of the principal cast to elevate everyone\'s performance (This is a minor observation but why did he make everyone have a Victorian English accent when the whole cast was American, like he could\'ve just had it set in America or have the cast at least be somewhat British)"
+    }
+    rating: "Very Good"
   }
   story {
     writer {
       name: "Tony McNamara"
     }
-    comments: "Great Story (The concept was unique as it was Frankenstein mixed with a coming-of-age drama (all set in a surrealist Victorian Europe); the story construction was laid out well as the movie had different chapters for the different stops Bella goes on in her journey (and she leaves each stop learning something about humanity and society); the flow between sequences is good as each scene shows a purpose in Bella exploring herself and the world (with her gradually learning more by increasing her vocabulary and thought process); character writing was great as Bella is a very complex character that is initially a blank canvas (with her surrounding characters and experiences painting her into the human she is towards the end of the movie), each of the side characters acts as a central theme of humanity/society and each tries to influence Bella and teach her about the world)"
+    rating: "Great"
+    comments: "The concept was unique as it was Frankenstein mixed with a coming-of-age drama (all set in a surrealist Victorian Europe); the story construction was laid out well as the movie had different chapters for the different stops Bella goes on in her journey (and she leaves each stop learning something about humanity and society); the flow between sequences is good as each scene shows a purpose in Bella exploring herself and the world (with her gradually learning more by increasing her vocabulary and thought process); character writing was great as Bella is a very complex character that is initially a blank canvas (with her surrounding characters and experiences painting her into the human she is towards the end of the movie), each of the side characters acts as a central theme of humanity/society and each tries to influence Bella and teach her about the world"
   }
   screenplay {
     writer {
       name: "Tony McNamara"
     }
-    comments: "Great Screenplay (The dialogue flowed very well as it was tight, profound, and filled with humor (and while the humor wasn't super out there, it was funny and elicited some shock); the tension is built very well in the climax as it is the first time Bellas experiences fear; the movie is filled with symbolism as the whole movie is about humanity and sexuality (with Bella maturing and learning about topics along the way), the movie also shows the impact different ideas can have on corrupting the innocent mind as different characters try to persuade Bella into doing things she does not understand nor wants to do; the foreshadowing is used effectively as it helps show how she is learning from her experiences throughout the movie (and uses them to her advantage when she needs them))"
+    rating: "Great"
+    comments: "The dialogue flowed very well as it was tight, profound, and filled with humor (and while the humor wasn\'t super out there, it was funny and elicited some shock); the tension is built very well in the climax as it is the first time Bellas experiences fear; the movie is filled with symbolism as the whole movie is about humanity and sexuality (with Bella maturing and learning about topics along the way), the movie also shows the impact different ideas can have on corrupting the innocent mind as different characters try to persuade Bella into doing things she does not understand nor wants to do; the foreshadowing is used effectively as it helps show how she is learning from her experiences throughout the movie (and uses them to her advantage when she needs them)"
   }
   score {
     composer {
       name: "Jerskin Fendrix"
     }
-    comments: "Great Score (Used very well throughout the movie and has a unique charm to add to the quirky/artistic tone of the movie)"
+    rating: "Great"
+    comments: "Used very well throughout the movie and has a unique charm to add to the quirky/artistic tone of the movie"
   }
   cinematography {
     cinematographer {
       name: "Robbie Ryan"
     }
-    comments: "Great Cinematography (The framed cinematography coupled with the fish-bowl lens help set the tone and feel for the movie (and the close-ups emphasize the characters))"
+    rating: "Great"
+    comments: "The framed cinematography coupled with the fish-bowl lens help set the tone and feel for the movie (and the close-ups emphasize the characters)"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Yorgos Mavropsaridis"
     }
-    comments: "Great Editing (Helps with setting the tone and feel for the movie (used well in conjunction with the cinematography))"
+    rating: "Great"
+    comments: "Helps with setting the tone and feel for the movie (used well in conjunction with the cinematography)"
   }
-  visual_effects: "Very Good Visual Effects (Helped build the surrealist world well as it did create some stunning visuals (at quirky, tacky cost))"
-  production_design: "Great Production Design (Helped with setting the tone for this doll house, Victorian Europe)"
-  makeup: "Very Good Makeup (Did a very good job at showing how much of a monster Dafoe's character looks like, and why society mocks him for how he looks)"
-  costumes: "Very Good Costumes (Used well with setting the tone and separating the high society with Bella's surrealist look at the world)"
+  sound {
+    rating: "Good"
+  }
+  visual_effects {
+    rating: "Very Good"
+    comments: "Helped build the surrealist world well as it did create some stunning visuals (at quirky, tacky cost)"
+  }
+  production_design {
+    rating: "Great"
+    comments: "Helped with setting the tone for this doll house, Victorian Europe"
+  }
+  makeup {
+    rating: "Very Good"
+    comments: "Did a very good job at showing how much of a monster Dafoe\'s character looks like, and why society mocks him for how he looks"
+  }
+  costumes {
+    rating: "Very Good"
+    comments: "Used well with setting the tone and separating the high society with Bella\'s surrealist look at the world"
+  }
   plot_structure: "Plot Structure was laid out well as the movie is set up into chapters based on the different stops she goes on (with each stop being a place where she learns something new); the Paris arc of the plot felt pretty dragged out and could have been cut in half as it got pretty repetitive"
-  pacing: "Pacing was very slow as the movie becomes repetitive at times (which helps show Bella's learning process); the runtime could have been cut 20 minutes to make the movie a bit tighter (especially in the Paris arc)"
+  pacing: "Pacing was very slow as the movie becomes repetitive at times (which helps show Bella\'s learning process); the runtime could have been cut 20 minutes to make the movie a bit tighter (especially in the Paris arc)"
   climax: "Climax was executed well as it shows a culmination of what Bella has been learning and how she is finally getting scared of the world"
-  tone: "Tone was very Victorian mixed with surrealism and comedy (something that is similar to 'The Favourite')"
+  tone: "Tone was very Victorian mixed with surrealism and comedy (something that is similar to \'The Favourite\')"
   final_notes: ""
-  overall: "Overall, a well-executed, unique take on the coming-of-age dramedy as the direction, writing, and acting (especially Emma Stone's performance) all come together to show the impact society has on an individual as Bella is a blank canvas painted by the people she interacts with, though the movie does drag at points and could have been cut to make it tighter"
+  overall: "Overall, a well-executed, unique take on the coming-of-age dramedy as the direction, writing, and acting (especially Emma Stone\'s performance) all come together to show the impact society has on an individual as Bella is a blank canvas painted by the people she interacts with, though the movie does drag at points and could have been cut to make it tighter"
 }
 release_year: 2023
 review_date: "12/22/2023"

@@ -5,37 +5,54 @@ review {
     director {
       name: "Siddharth Anand"
     }
-    comments: "Decent Direction (Uses the generic Bollywood Action trope to guide his execution, but does do a decent job in getting the most out of each scene and his actors; was not too much of a fan of the storytelling but that was a stylistic choice)"
+    rating: "Decent"
+    comments: "Uses the generic Bollywood Action trope to guide his execution, but does do a decent job in getting the most out of each scene and his actors; was not too much of a fan of the storytelling but that was a stylistic choice"
   }
   acting {
-    actor {
-      name: "Shah Rukh Khan"
-      comments: "Pretty Good from Shah Rukh Khan (Is not able to show too much range that made him a household name, but does play the action hero trope pretty well)"
+    performance {
+      actor {
+        name: "Shah Rukh Khan"
+      }
+      rating: "Pretty Good"
+      comments: "Is not able to show too much range that made him a household name, but does play the action hero trope pretty well"
     }
-    actor {
-      name: "Deepika Padukone"
-      comments: "Pretty Good from Deepika Padukone (Plays the typical role she is given as she pulls from experience to play sexy, lead heroine)"
+    performance {
+      actor {
+        name: "Deepika Padukone"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the typical role she is given as she pulls from experience to play sexy, lead heroine"
     }
-    actor {
-      name: "John Abraham"
-      comments: "Decent from John Abraham (Some moments he was convincing as the villain but there were some questionable parts that felt a bit like overacting; holds his own pretty well throughout the movie though)"
+    performance {
+      actor {
+        name: "John Abraham"
+      }
+      rating: "Decent"
+      comments: "Some moments he was convincing as the villain but there were some questionable parts that felt a bit like overacting; holds his own pretty well throughout the movie though"
     }
-    actor {
-      name: "Dimple Kapadia"
-      comments: "Decent from Dimple Kapadia"
+    performance {
+      actor {
+        name: "Dimple Kapadia"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Ashutosh Rana"
-      comments: "Decent from Ashutosh Rana"
+    performance {
+      actor {
+        name: "Ashutosh Rana"
+      }
+      rating: "Decent"
     }
-    cast: "Pretty Bad to Decent from the rest of the cast"
-    comments: "Decent Acting"
+    cast {
+      rating: "Pretty Bad to Decent"
+    }
+    rating: "Decent"
   }
   story {
     writer {
       name: "Siddharth Anand"
     }
-    comments: "Pretty Bad to Decent Story (The Story elements follows the typical Bollywood action movie formula; I was not really too much of a fan of the story construction as it really put more emphasis on Pathaan\'s backstory rather than what is currently happening; pretty predictable overall)"
+    rating: "Pretty Bad to Decent"
+    comments: "The Story elements follows the typical Bollywood action movie formula; I was not really too much of a fan of the story construction as it really put more emphasis on Pathaan\'s backstory rather than what is currently happening; pretty predictable overall"
   }
   screenplay {
     writer {
@@ -44,7 +61,8 @@ review {
     writer {
       name: "Abbas Tyrewala"
     }
-    comments: "Decent Screenplay (Flowed pretty well and had some good jokes, very shallow in its symbolism, foreshadowing is a bit overt which leads to the movie being very predictable (that and the formula it follows))"
+    rating: "Decent"
+    comments: "Flowed pretty well and had some good jokes, very shallow in its symbolism, foreshadowing is a bit overt which leads to the movie being very predictable (that and the formula it follows)"
   }
   score {
     composer {
@@ -56,28 +74,42 @@ review {
     composer {
       name: "Vishal\342\200\223Shekhar"
     }
-    comments: "Decent to Pretty Good Score (Spread throughout the movie and followed scores from the same genre)"
+    rating: "Decent to Pretty Good"
+    comments: "Spread throughout the movie and followed scores from the same genre"
   }
-  soundtrack: "Pretty Good to Good Soundtrack (even though there are only two songs, both of them are good sequences and highlights for the movie)"
+  soundtrack {
+    rating: "Pretty Good to Good"
+    comments: "Even though there are only two songs, both of them are good sequences and highlights for the movie"
+  }
   cinematography {
     cinematographer {
       name: "Satchith Paulose"
     }
-    comments: "Good Cinematography"
+    rating: "Good"
   }
-  sound: "Decent to Pretty Good Sound (Some issues but was pretty good for the most part)"
   editing {
     editor {
       name: "Aarif Sheikh"
     }
-    comments: "Pretty Good Editing"
+    rating: "Pretty Good"
   }
-  visual_effects: "Bad Visual Effects (Looked incredibly fake and really tacky (made the action sequences less convincing))"
-  makeup: "Pretty Makeup (Helped with the blood)"
+  sound {
+    rating: "Decent to Pretty Good"
+    comments: "Some issues but was pretty good for the most part"
+  }
+  visual_effects {
+    rating: "Bad"
+    comments: "Looked incredibly fake and really tacky (made the action sequences less convincing)"
+  }
+  makeup {
+    rating: "Pretty"
+    comments: "Helped with the blood"
+  }
   plot_structure: "Plot Structure was weirdly structured as it went forward then added an hour of backstory then went back to telling the story from the present after the intermission; while it was a stylistic choice to tell the story this way I was not too much of a fan of it cause it made the movie drag on for longer than it needed to be; besides this all the plot elements were pretty easy to spot out cause of the formula followed"
   pacing: "Pacing was a bit on the slower side cause of the long runtime and unnecessary story elements (20-30 minutes of rising action (before the intermission) could have been cut)"
   climax: "Climax was well executed as it was a standard Indian action movie"
   tone: "Tone was way too much like other Indian action movies as it follows the formula really closely"
+  final_notes: ""
   overall: "Overall, a pretty decent watch that has a lot of fun elements and lighter moments (like some of the jokes and the dance sequences), but follows the generic Bollywood Action movie formula so much that the movie is very predictable and bland (with the non-linear storytelling not helping as well)"
 }
 release_year: 2023

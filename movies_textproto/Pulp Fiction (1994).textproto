@@ -5,52 +5,72 @@ review {
     director {
       name: "Quentin Tarantino"
     }
-    comments: "Great Direction"
+    rating: "Great"
   }
   acting {
-    actor {
-      name: "John Travolta"
-      comments: "Very Good to Great from John Travolta"
+    performance {
+      actor {
+        name: "John Travolta"
+      }
+      rating: "Very Good to Great"
     }
-    actor {
-      name: "Samuel L. Jackson"
-      comments: "Great to Incredible from Samuel L. Jackson"
+    performance {
+      actor {
+        name: "Samuel L. Jackson"
+      }
+      rating: "Great to Incredible"
     }
-    actor {
-      name: "Uma Thurman"
-      comments: "Very Good to Great from Uma Thurman"
+    performance {
+      actor {
+        name: "Uma Thurman"
+      }
+      rating: "Very Good to Great"
     }
-    actor {
-      name: "Harvey Keitel"
-      comments: "Good to Very Good from Harvey Keitel"
+    performance {
+      actor {
+        name: "Harvey Keitel"
+      }
+      rating: "Good to Very Good"
     }
-    actor {
-      name: "Bruce Willis"
-      comments: "Good to Very Good from Bruce Willis"
+    performance {
+      actor {
+        name: "Bruce Willis"
+      }
+      rating: "Good to Very Good"
     }
-    cast: "Very Good from the rest of the cast"
-    comments: "Very Good to Great Acting"
+    cast {
+      rating: "Very Good"
+    }
+    rating: "Very Good to Great"
   }
   story {
     writer {
       name: "Quentin Tarantino"
     }
-    comments: "Incredible Story (especially how it was set up as individual stories to mimic the \"pulp\" magazine style Tarantino was going for; also, the foreshadowing and how all the stories tie together was excellently pulled off)"
+    rating: "Incredible"
+    comments: "Especially how it was set up as individual stories to mimic the \"pulp\" magazine style Tarantino was going for; also, the foreshadowing and how all the stories tie together was excellently pulled off"
   }
   screenplay {
     writer {
       name: "Quentin Tarantino"
     }
-    comments: "Incredible to Brilliant Screenplay (The prime example of Tarantino dialogue)"
+    rating: "Incredible to Brilliant"
+    comments: "The prime example of Tarantino dialogue"
   }
   editing {
     editor {
       name: "Sally Menke"
     }
-    comments: "Very Good Editing"
+    rating: "Very Good"
   }
-  visual_effects: "Good Visual Effects (Good subtle use of visual effects (gives the movie a very fictionally story feel))"
-  production_design: "Great Production Design (Helps give the movie the vibe it was going for)"
+  visual_effects {
+    rating: "Good"
+    comments: "Good subtle use of visual effects (gives the movie a very fictionally story feel)"
+  }
+  production_design {
+    rating: "Great"
+    comments: "Helps give the movie the vibe it was going for"
+  }
   pacing: "Pacing was good as it was quick and got the job done; Runtime was a bit on the longer side but the movie is broken up into multiple stories so it doesn\'t present too much of problem"
   climax: "There is no real apparent climax but the build to the last couple of scenes helps draw and put all the stories together (with the last monologue from Jackson showing his character development)"
   final_notes: "Good use of music to substitute score (Helps with establishing the vibe/mood of the film); the movie is a bit shallow in terms of its meaning (though it does have prominent reoccurring symbols) but Tarantino was looking more to present stories that mimicked that of pulp magazines (cheap, graphic magazines that give you entertainment for a small fee))"

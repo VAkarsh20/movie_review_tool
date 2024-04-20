@@ -5,35 +5,49 @@ review {
     director {
       name: "Celine Song"
     }
-    comments: "Very Good Direction (Does a great job at building the tension in the scenes between the two leads as she helps convey the lost love between the two (especially during the long non-verbal moments); the English scenes were not as strong though cause they felt very bland with some lack of direction; uses subtly very well to move the story forward (this also adds to the sexual tension between the two characters))"
+    rating: "Very Good"
+    comments: "Does a great job at building the tension in the scenes between the two leads as she helps convey the lost love between the two (especially during the long non-verbal moments); the English scenes were not as strong though cause they felt very bland with some lack of direction; uses subtly very well to move the story forward (this also adds to the sexual tension between the two characters)"
   }
   acting {
-    actor {
-      name: "Greta Lee"
-      comments: "Very Good from Greta Lee (During the Korean scenes, she really steals the scene and displays a wide range of emotions (with the best being during the romantic and loss scenes and she explores the relationship further); her performance does take a hit in the English scenes as she does not really have that much chemistry with her husband and her performance comes off a bit more bland)"
+    performance {
+      actor {
+        name: "Greta Lee"
+      }
+      rating: "Very Good"
+      comments: "During the Korean scenes, she really steals the scene and displays a wide range of emotions (with the best being during the romantic and loss scenes and she explores the relationship further); her performance does take a hit in the English scenes as she does not really have that much chemistry with her husband and her performance comes off a bit more bland"
     }
-    actor {
-      name: "Teo Yoo"
-      comments: "Good from Teo Yoo (More of a reserved character so he could only show off so much, but does a good job in working off of Lee and showing the relationship he has build with her character)"
+    performance {
+      actor {
+        name: "Teo Yoo"
+      }
+      rating: "Good"
+      comments: "More of a reserved character so he could only show off so much, but does a good job in working off of Lee and showing the relationship he has build with her character"
     }
-    actor {
-      name: "John Magaro"
-      comments: "Pretty Bad to Decent from John Magaro (Has a bland relationship with Lee\'s character as it felt like there is just a lot of awkwardness between the two as they cannot play off of each other (it can be argued this was intentional but I don\'t really see this))"
+    performance {
+      actor {
+        name: "John Magaro"
+      }
+      rating: "Pretty Bad to Decent"
+      comments: "Has a bland relationship with Lee\'s character as it felt like there is just a lot of awkwardness between the two as they cannot play off of each other (it can be argued this was intentional but I don\'t really see this)"
     }
-    cast: "Decent from the rest of the cast"
-    comments: "Good Acting"
+    cast {
+      rating: "Decent"
+    }
+    rating: "Good"
   }
   story {
     writer {
       name: "Celine Song"
     }
-    comments: "Good Story (Pretty Simple Story overall as there are only a few plot points but the plot points they have are very good and help drive the story forward (the exposition is a bit long though so that does make the story feel shorter than it is))"
+    rating: "Good"
+    comments: "Pretty Simple Story overall as there are only a few plot points but the plot points they have are very good and help drive the story forward (the exposition is a bit long though so that does make the story feel shorter than it is)"
   }
   screenplay {
     writer {
       name: "Celine Song"
     }
-    comments: "Very Good Screenplay (The dialogue was incredibly profound and hard hitting as it really was a the vehicle in the conversations between the leads in showing their relationship (this is especially shown in bar scene and the very last scene); the symbolism was a bit surface level; the foreshadowing was a present as it shows inevitable truths for not only the relationship but most relationships)"
+    rating: "Very Good"
+    comments: "The dialogue was incredibly profound and hard hitting as it really was a the vehicle in the conversations between the leads in showing their relationship (this is especially shown in bar scene and the very last scene); the symbolism was a bit surface level; the foreshadowing was a present as it shows inevitable truths for not only the relationship but most relationships"
   }
   score {
     composer {
@@ -42,20 +56,24 @@ review {
     composer {
       name: "Daniel Rossen"
     }
-    comments: "Good to Very Good Score (Used very well throughout the movie to help establish tone and tension)"
+    rating: "Good to Very Good"
+    comments: "Used very well throughout the movie to help establish tone and tension"
   }
   cinematography {
     cinematographer {
       name: "Shabier Kirchner"
     }
-    comments: "Very Good Cinematography (Felt very professional and high-budget despite it being an indie movie; helped with building scenes and tension between the characters)"
+    rating: "Very Good"
+    comments: "Felt very professional and high-budget despite it being an indie movie; helped with building scenes and tension between the characters"
   }
-  sound: "Decent Sound"
   editing {
     editor {
       name: "Keith Fraase"
     }
-    comments: "Good to Very Good Editing"
+    rating: "Good to Very Good"
+  }
+  sound {
+    rating: "Decent"
   }
   plot_structure: "Plot Structure was bit a of an issue with the movie as the movie spends a bit too much time on the exposition (40 minutes) that the rising action and conflict become shorter (would have liked to have seen the exposition cut 15 minutes and add 10-15 minutes to make 2-3 more scenes with the two as adults)"
   pacing: "Pacing was consistent throughout (the pace was fine it is just there is not a lot of plot to help maintain the pace)"

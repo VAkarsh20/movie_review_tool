@@ -5,29 +5,43 @@ review {
     director {
       name: "Nima Nourizadeh"
     }
-    comments: "Pretty Bad to Decent Direction (While the execution of party scenes was well done, the actual direction of people and the other scenes were really hard to watch at times and very poorly executed)"
+    rating: "Pretty Bad to Decent"
+    comments: "While the execution of party scenes was well done, the actual direction of people and the other scenes were really hard to watch at times and very poorly executed"
   }
   acting {
-    actor {
-      name: "Thomas Mann"
-      comments: "Bad from Thomas Mann (Just a very cringy performance and clearly shows inexperience)"
+    performance {
+      actor {
+        name: "Thomas Mann"
+      }
+      rating: "Bad"
+      comments: "Just a very cringy performance and clearly shows inexperience"
     }
-    actor {
-      name: "Oliver Cooper"
-      comments: "Decent from Oliver Cooper (the best of the main characters as he tries to be the comedic relief character that the movie tries to pent up as, but kinda hits sideways a lot as his inexperience shows)"
+    performance {
+      actor {
+        name: "Oliver Cooper"
+      }
+      rating: "Decent"
+      comments: "The best of the main characters as he tries to be the comedic relief character that the movie tries to pent up as, but kinda hits sideways a lot as his inexperience shows"
     }
-    actor {
-      name: "Miles Teller"
-      comments: "Decent to Pretty Good from Miles Teller (Actually showed some talent in this minor performance and really shows how he is capable of being a star in the future)"
+    performance {
+      actor {
+        name: "Miles Teller"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Actually showed some talent in this minor performance and really shows how he is capable of being a star in the future"
     }
-    cast: "Bad from the rest of the cast (just showed so much inexperience and felt very cringy at times)"
-    comments: "Bad Acting"
+    cast {
+      rating: "Bad"
+      comments: "Just showed so much inexperience and felt very cringy at times"
+    }
+    rating: "Bad"
   }
   story {
     writer {
       name: "Michael Bacall"
     }
-    comments: "Pretty Good Story (The actual plot was very poorly structured but the different themes and ideas used went on to be very iconic and play a major role in the youth at the time)"
+    rating: "Pretty Good"
+    comments: "The actual plot was very poorly structured but the different themes and ideas used went on to be very iconic and play a major role in the youth at the time"
   }
   screenplay {
     writer {
@@ -36,22 +50,30 @@ review {
     writer {
       name: "Michael Bacall"
     }
-    comments: "Bad Screenplay (The lines/jokes were stuff that middle schoolers were saying in 2012 (not high schoolers) and the other parts of the screenplay were so predictable and corny/cringy)"
+    rating: "Bad"
+    comments: "The lines/jokes were stuff that middle schoolers were saying in 2012 (not high schoolers) and the other parts of the screenplay were so predictable and corny/cringy"
   }
   cinematography {
     cinematographer {
       name: "Ken Seng"
     }
-    comments: "Great to Incredible Cinematography (the cin\303\251ma v\303\251rit\303\251 style/found footage really was what stole the show as it was well done (not nauseating like other files of this style) and really made it so it felt that the audience was at the party)"
+    rating: "Great to Incredible"
+    comments: "The cin\303\251ma v\303\251rit\303\251 style/found footage really was what stole the show as it was well done (not nauseating like other files of this style) and really made it so it felt that the audience was at the party"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Jeff Groth"
     }
-    comments: "Very Good Editing (especially during the party montages)"
+    rating: "Very Good"
+    comments: "Especially during the party montages"
   }
-  visual_effects: "Good to Very Good Visual Effects (the pyro for the movie was well done)"
+  sound {
+    rating: "Good"
+  }
+  visual_effects {
+    rating: "Good to Very Good"
+    comments: "The pyro for the movie was well done"
+  }
   plot_structure: "Plot Structure was so poorly managed (the exposition and rising action is like only 20 minutes of the movie as it places way more emphasis on the party, and because of this the actual party feels like it drags for so long because it really does not build up that much)"
   pacing: "Pacing was incredibly fast as they really try to fit so much in (they should have added 30 minutes to before the party to help build it up)"
   climax: "Build to climax was poorly executed as it is a by-product of a poorly structured plot; because the movie focuses too much on the party it really cannot build up that much (though it does try); climax was decent but is kinda a mess as it is just chaos at the end of the party-goers and really does not get that much done"

@@ -5,23 +5,35 @@ review {
     director {
       name: "Park Chan-wook"
     }
-    comments: "Incredible Direction (Some of the best storytelling in cinema history as Park drives the narrative forward (on both a macro and micro scale) through the protagonist\'s view as the audience gets to see the twisted and skewed world he lives in, the fight choreography is incredible as the hallway scene is one of the best fight scenes I have ever seen on the big screen; has its own unique style as it blends violent thriller elements with black comedy elements)"
+    rating: "Incredible"
+    comments: "Some of the best storytelling in cinema history as Park drives the narrative forward (on both a macro and micro scale) through the protagonist\'s view as the audience gets to see the twisted and skewed world he lives in, the fight choreography is incredible as the hallway scene is one of the best fight scenes I have ever seen on the big screen; has its own unique style as it blends violent thriller elements with black comedy elements"
   }
   acting {
-    actor {
-      name: "Choi Min-sik"
-      comments: "Great from Choi Min-sik (Plays a very multi-dimensional role very well as his performance is a real focal point to drive the story forward)"
+    performance {
+      actor {
+        name: "Choi Min-sik"
+      }
+      rating: "Great"
+      comments: "Plays a very multi-dimensional role very well as his performance is a real focal point to drive the story forward"
     }
-    actor {
-      name: "Yoo Ji-tae"
-      comments: "Very Good from Yoo Ji-tae (Plays the antagonist very well as he works well against Choi and uses empathy well to make you feel for his character)"
+    performance {
+      actor {
+        name: "Yoo Ji-tae"
+      }
+      rating: "Very Good"
+      comments: "Plays the antagonist very well as he works well against Choi and uses empathy well to make you feel for his character"
     }
-    actor {
-      name: "Kang Hye-jung"
-      comments: "Good to Very Good from Kang Hye-jung (Plays the female lead well as she works off of Choi well throughout the movie)"
+    performance {
+      actor {
+        name: "Kang Hye-jung"
+      }
+      rating: "Good to Very Good"
+      comments: "Plays the female lead well as she works off of Choi well throughout the movie"
     }
-    cast: "Good to Very Good from the rest of the cast"
-    comments: "Very Good Acting"
+    cast {
+      rating: "Good to Very Good"
+    }
+    rating: "Very Good"
   }
   story {
     writer {
@@ -33,7 +45,8 @@ review {
     writer {
       name: "Park Chan-wook"
     }
-    comments: "Incredible Story (A very iconic take on the revenge story as they lay out the story incredibly well and uses elements of mystery to help keep the audience intrigued about what might happen next; the ending twist is one of the best twists I have ever seen in a movie as they build to it but not in a way the audience would have expected; the character writing is incredible as the protagonist and antagonist are written to the point where you root for/against them but you can understand where they are coming from)"
+    rating: "Incredible"
+    comments: "A very iconic take on the revenge story as they lay out the story incredibly well and uses elements of mystery to help keep the audience intrigued about what might happen next; the ending twist is one of the best twists I have ever seen in a movie as they build to it but not in a way the audience would have expected; the character writing is incredible as the protagonist and antagonist are written to the point where you root for/against them but you can understand where they are coming from"
   }
   screenplay {
     writer {
@@ -45,28 +58,37 @@ review {
     writer {
       name: "Park Chan-wook"
     }
-    comments: "Incredible Screenplay (The dialog was very tight and flowed very well throughout the movie; the interjections of humor were a great sight as they helped lift the tone from being entirely dark; the symbolism is incredible as it helps with showing the meaning and more about the flaws of the characters; the foreshadowing is very light (but this helps with building breadcrumbs that are later revealed in the climax))"
+    rating: "Incredible"
+    comments: "The dialog was very tight and flowed very well throughout the movie; the interjections of humor were a great sight as they helped lift the tone from being entirely dark; the symbolism is incredible as it helps with showing the meaning and more about the flaws of the characters; the foreshadowing is very light (but this helps with building breadcrumbs that are later revealed in the climax)"
   }
   score {
     composer {
       name: "Cho Young-wuk"
     }
-    comments: "Good to Very Good Score (Used well (especially in the fight scenes))"
+    rating: "Good to Very Good"
+    comments: "Used well (especially in the fight scenes)"
   }
   cinematography {
     cinematographer {
       name: "Chung Chung-hoon"
     }
-    comments: "Great Cinematography (Especially in the fight scenes (with the standout being the one-take hallway scene); the facial shots help with showing how lost the protagonist\'s mind really is)"
+    rating: "Great"
+    comments: "Especially in the fight scenes (with the standout being the one-take hallway scene); the facial shots help with showing how lost the protagonist\'s mind really is"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Kim Sang-bum"
     }
-    comments: "Incredible Editing (Incredibly fluid as it helps transition scenes from one-to-another in a way that shows how one can be lost over time)"
+    rating: "Incredible"
+    comments: "Incredibly fluid as it helps transition scenes from one-to-another in a way that shows how one can be lost over time"
   }
-  visual_effects: "Very Good Visual Effects (The GCI was a bit dated but the practical effects helped during the fight scenes (especially considering how low-budget the movie is))"
+  sound {
+    rating: "Good"
+  }
+  visual_effects {
+    rating: "Very Good"
+    comments: "The GCI was a bit dated but the practical effects helped during the fight scenes (especially considering how low-budget the movie is)"
+  }
   plot_structure: "Plot Structure was laid out very well as the plot elements were established and the story elements helped with building to these keep chapters"
   pacing: "Pacing was very good as it was moving at a quicker speed to help build the suspense of the movie by putting you on the edge of your seat; Runtime could have been cut a bit as the movie does have some scenes right before the climax that could have been cut (maybe like 5-10 minutes worth)"
   climax: "Climax was incredibly shot as the plot twist was unexpected and the reactions of the characters were caught very well; the come-down to the resolution was shot very well as it helps bring the movie full circle"

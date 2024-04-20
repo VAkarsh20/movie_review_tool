@@ -5,23 +5,35 @@ review {
     director {
       name: "Dean Fleischer Camp"
     }
-    comments: "Good Direction (Really immerses himself in the film as a key person and does so in a way that really helps move the story forward)"
+    rating: "Good"
+    comments: "Really immerses himself in the film as a key person and does so in a way that really helps move the story forward"
   }
   acting {
-    actor {
-      name: "Jenny Slate"
-      comments: "Very Good from Jenny Slate (Is able to capture the cute and charm of the character as she brings him to life in a way that makes you really care for him)"
+    performance {
+      actor {
+        name: "Jenny Slate"
+      }
+      rating: "Very Good"
+      comments: "Is able to capture the cute and charm of the character as she brings him to life in a way that makes you really care for him"
     }
-    actor {
-      name: "Dean Fleischer Camp"
-      comments: "Pretty Good from Dean Fleischer Camp (Able to interject himself well throughout the movie and work with something that really is not there (at least during filming))"
+    performance {
+      actor {
+        name: "Dean Fleischer Camp"
+      }
+      rating: "Pretty Good"
+      comments: "Able to interject himself well throughout the movie and work with something that really is not there (at least during filming)"
     }
-    actor {
-      name: "Isabella Rossellini"
-      comments: "Good from Isabella Rossellini (Able to be that elderly figure for Marcel and does that well for the movie)"
+    performance {
+      actor {
+        name: "Isabella Rossellini"
+      }
+      rating: "Good"
+      comments: "Able to be that elderly figure for Marcel and does that well for the movie"
     }
-    cast: "Pretty Good from the rest of the cast"
-    comments: "Good Acting"
+    cast {
+      rating: "Pretty Good"
+    }
+    rating: "Good"
   }
   story {
     writer {
@@ -36,7 +48,8 @@ review {
     writer {
       name: "Elisabeth Holm"
     }
-    comments: "Good Story (Very simple in the finding home trope and tries to play well to the cute nature of Marcel)"
+    rating: "Good"
+    comments: "Very simple in the finding home trope and tries to play well to the cute nature of Marcel"
   }
   screenplay {
     writer {
@@ -48,13 +61,15 @@ review {
     writer {
       name: "Nick Paley"
     }
-    comments: "Good to Very Good Screenplay (The actual dialogue was pretty simple (even though it was a lot of improv) but it does try to deal with issues of family, community, and loneliness and does a good job at doing so)"
+    rating: "Good to Very Good"
+    comments: "The actual dialogue was pretty simple (even though it was a lot of improv) but it does try to deal with issues of family, community, and loneliness and does a good job at doing so"
   }
   cinematography {
     cinematographer {
       name: "Bianca Cline"
     }
-    comments: "Good Cinematography (Has a very low-budget, documentary style feel to it)"
+    rating: "Good"
+    comments: "Has a very low-budget, documentary style feel to it"
   }
   editing {
     editor {
@@ -63,13 +78,18 @@ review {
     editor {
       name: "Nick Paley"
     }
-    comments: "Very Good Editing (did a lot with the low budget it had and how it had to mix live-action with stop-motion animation)"
+    rating: "Very Good"
+    comments: "Did a lot with the low budget it had and how it had to mix live-action with stop-motion animation"
   }
-  visual_effects: "Good Animation (Did a good job in helping capture that stock-motion feel with its mix of animation/stop-motion)"
+  animation {
+    rating: "Good"
+    comments: "Did a good job in helping capture that stock-motion feel with its mix of animation/stop-motion"
+  }
   plot_structure: "Plot Structure was very simplistic but followed very nicely (so no complaints)"
   pacing: "Pacing was good (even for the short runtime)"
   climax: "Build to climax was good; climax was good (and the ending resolution was enough time to help close of the movie)"
   tone: "Tone was very consistent with that of other children\'s movies but with a low-budget/indie twist"
+  final_notes: ""
   overall: "Overall, a very cute movie that is very simple on the surface but has a little bit more depth for a children\'s movie (especially for how low-budget it looked)"
 }
 release_year: 2021

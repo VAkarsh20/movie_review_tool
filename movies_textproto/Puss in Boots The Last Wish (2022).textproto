@@ -5,35 +5,55 @@ review {
     director {
       name: "Joel Crawford"
     }
-    comments: "Great Direction (Does a Great job at moving the story forward through the use of symbols and ideas that are very mature to a children\'s movie; really helps blend the fun nature of Puss in Boots with the serious nature of the plot and also fits in the fighting scenes very well to keep the audience engaged with what is going on)"
+    rating: "Great"
+    comments: "Does a Great job at moving the story forward through the use of symbols and ideas that are very mature to a children\'s movie; really helps blend the fun nature of Puss in Boots with the serious nature of the plot and also fits in the fighting scenes very well to keep the audience engaged with what is going on"
   }
   acting {
-    actor {
-      name: "Antonio Banderas"
-      comments: "Great from Antonio Banderas (Really plays the role with experience but also adds depth in showing the more depressing side of Puss\' life as he has to come to terms with his new reality)"
+    performance {
+      actor {
+        name: "Antonio Banderas"
+      }
+      rating: "Great"
+      comments: "Really plays the role with experience but also adds depth in showing the more depressing side of Puss\' life as he has to come to terms with his new reality"
     }
-    actor {
-      name: "Salma Hayek Pinault"
-      comments: "Very Good from Salma Hayek Pinault (Plays off the other cast mates very well and does a good job in helping bring emotion out of Puss)"
+    performance {
+      actor {
+        name: "Salma Hayek Pinault"
+      }
+      rating: "Very Good"
+      comments: "Plays off the other cast mates very well and does a good job in helping bring emotion out of Puss"
     }
-    actor {
-      name: "Harvey Guill\303\251n"
-      comments: "Very Good from Harvey Guill\303\251n (Plays the adorable comic relief character very well and acts as the moral compass throughout the movie)"
+    performance {
+      actor {
+        name: "Harvey Guill\303\251n"
+      }
+      rating: "Very Good"
+      comments: "Plays the adorable comic relief character very well and acts as the moral compass throughout the movie"
     }
-    actor {
-      name: "Florence Pugh"
-      comments: "Good from Florence Pugh"
+    performance {
+      actor {
+        name: "Florence Pugh"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "John Mulaney"
-      comments: "Pretty Good from John Mulaney (It was very obvious it was John Mulaney throughout the movie)"
+    performance {
+      actor {
+        name: "John Mulaney"
+      }
+      rating: "Pretty Good"
+      comments: "It was very obvious it was John Mulaney throughout the movie"
     }
-    actor {
-      name: "Wagner Moura"
-      comments: "Very Good from Wagner Moura (Played the true villain of the movie very well)"
+    performance {
+      actor {
+        name: "Wagner Moura"
+      }
+      rating: "Very Good"
+      comments: "Played the true villain of the movie very well"
     }
-    cast: "Good from the rest of the cast"
-    comments: "Very Good Voice Acting"
+    cast {
+      rating: "Good"
+    }
+    rating: "Very Good Voice"
   }
   story {
     writer {
@@ -42,7 +62,8 @@ review {
     writer {
       name: "Tom Wheeler"
     }
-    comments: "Great to Incredible Story (The actual story is very simple in that there a journey from point A to point B, but the sub-elements and the journey towards the end are very complex as the characters really find out what they want from life; the actual concept of the journey also stems from the fairy-tale aspect that made Shrek very famous; the use of it being Puss\' last life was also a good touch)"
+    rating: "Great to Incredible"
+    comments: "The actual story is very simple in that there a journey from point A to point B, but the sub-elements and the journey towards the end are very complex as the characters really find out what they want from life; the actual concept of the journey also stems from the fairy-tale aspect that made Shrek very famous; the use of it being Puss\' last life was also a good touch"
   }
   screenplay {
     writer {
@@ -51,22 +72,28 @@ review {
     writer {
       name: "Tommy Swerdlow"
     }
-    comments: "Incredible Screenplay (The dialogue is very clever and is written very well to have innuendos for both a younger and more mature audience; the symbolism and foreshadowing was great for a children\'s movie and really is a lot deeper than many children\'s movies have gone before)"
+    rating: "Incredible"
+    comments: "The dialogue is very clever and is written very well to have innuendos for both a younger and more mature audience; the symbolism and foreshadowing was great for a children\'s movie and really is a lot deeper than many children\'s movies have gone before"
   }
   score {
     composer {
       name: "Heitor Pereira"
     }
-    comments: "Pretty Good Score"
+    rating: "Pretty Good"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "James Ryan"
     }
-    comments: "Great Editing"
+    rating: "Great"
   }
-  visual_effects: "Incredible Animation (Really takes from the Spider-verse style and runs with it as it feels very cartoony with some shades of Anime (Something that is a breath of fresh air to the animated movie space); the fight scenes were were well animated and really enjoyable to watch)"
+  sound {
+    rating: "Good"
+  }
+  animation {
+    rating: "Incredible"
+    comments: "Really takes from the Spider-verse style and runs with it as it feels very cartoony with some shades of Anime (Something that is a breath of fresh air to the animated movie space); the fight scenes were were well animated and really enjoyable to watch"
+  }
   plot_structure: "Plot Structure was laid out very well as all the elements flowed well into each other and the conclusion was met after everything was resolved"
   pacing: "Pacing was very good as it did not really feel like any time was needed to be cut or added"
   climax: "Climax was great as the fighting mixed with the animation made the scenes very captivating"

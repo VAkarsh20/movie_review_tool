@@ -5,15 +5,20 @@ review {
     director {
       name: "Pete Docter"
     }
-    comments: "Incredible Direction"
+    rating: "Incredible"
   }
   acting {
-    actor {
-      name: "Billy Crystal"
-      comments: "Brilliant from Billy Crystal (May have the best voice acting performance of all time as Mike)"
+    performance {
+      actor {
+        name: "Billy Crystal"
+      }
+      rating: "Brilliant"
+      comments: "May have the best voice acting performance of all time as Mike"
     }
-    cast: "Incredible from the rest of the cast"
-    comments: "Incredible Voice Acting"
+    cast {
+      rating: "Incredible"
+    }
+    rating: "Incredible Voice"
   }
   story {
     writer {
@@ -28,7 +33,8 @@ review {
     writer {
       name: "Ralph Eggleston"
     }
-    comments: "Brilliant Story (Especially character writing)"
+    rating: "Brilliant"
+    comments: "Especially character writing"
   }
   screenplay {
     writer {
@@ -37,13 +43,14 @@ review {
     writer {
       name: "Daniel Gerson"
     }
-    comments: "Incredible Screenplay (Filled with emotions and wit/humor)"
+    rating: "Incredible"
+    comments: "Filled with emotions and wit/humor"
   }
   score {
     composer {
       name: "Randy Newman"
     }
-    comments: "Great Score"
+    rating: "Great"
   }
   plot_structure: "Plot Structure is great as all the scenes add to the plot as there is nothing wasted"
   pacing: "Pacing is Great (Given its short runtime)"

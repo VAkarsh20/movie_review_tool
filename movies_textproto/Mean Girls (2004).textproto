@@ -5,76 +5,114 @@ review {
     director {
       name: "Mark Waters"
     }
-    comments: "Pretty Good Direction (Uses a very 2000s way of telling the story on both a macro and a micro scale (something that feels like a time capsule of the era but also did not age well at the same time); the use of cinematography and the fast editing cuts also makes it feel very 2000s; the direction of actors was pretty good as he got a lot of his actors as nobody took themselves seriously and the performances felt like intentional caricatures of themselves)"
+    rating: "Pretty Good"
+    comments: "Uses a very 2000s way of telling the story on both a macro and a micro scale (something that feels like a time capsule of the era but also did not age well at the same time); the use of cinematography and the fast editing cuts also makes it feel very 2000s; the direction of actors was pretty good as he got a lot of his actors as nobody took themselves seriously and the performances felt like intentional caricatures of themselves"
   }
   acting {
-    actor {
-      name: "Lindsay Lohan"
-      comments: "Good from Lindsay Lohan (Really holds her own and does a good job at being the lead and playing to the character's strengths)"
+    performance {
+      actor {
+        name: "Lindsay Lohan"
+      }
+      rating: "Good"
+      comments: "Really holds her own and does a good job at being the lead and playing to the character\'s strengths"
     }
-    actor {
-      name: "Rachel McAdams"
-      comments: "Very Good from Rachel McAdams (Really embodies the character and sets herself apart from the rest of the cast with her charisma and charm being the queen mean girl)"
+    performance {
+      actor {
+        name: "Rachel McAdams"
+      }
+      rating: "Very Good"
+      comments: "Really embodies the character and sets herself apart from the rest of the cast with her charisma and charm being the queen mean girl"
     }
-    actor {
-      name: "Tim Meadows"
-      comments: "Good from Tim Meadows (Plays the comedic relief principal well)"
+    performance {
+      actor {
+        name: "Tim Meadows"
+      }
+      rating: "Good"
+      comments: "Plays the comedic relief principal well"
     }
-    actor {
-      name: "Lacey Chabert"
-      comments: "Pretty Good from Lacey Chabert (Does a good job in being submissive and clueless to Regina George)"
+    performance {
+      actor {
+        name: "Lacey Chabert"
+      }
+      rating: "Pretty Good"
+      comments: "Does a good job in being submissive and clueless to Regina George"
     }
-    actor {
-      name: "Amanda Seyfried"
-      comments: "Pretty Good from Amanda Seyfried (Plays the ditsy character very well)"
+    performance {
+      actor {
+        name: "Amanda Seyfried"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the ditsy character very well"
     }
-    actor {
-      name: "Lizzy Caplan"
-      comments: "Good from Lizzy Caplan (Plays somewhat of a serious character well as she shows the impact mean personalities like Regina George can have on an individual)"
+    performance {
+      actor {
+        name: "Lizzy Caplan"
+      }
+      rating: "Good"
+      comments: "Plays somewhat of a serious character well as she shows the impact mean personalities like Regina George can have on an individual"
     }
-    actor {
-      name: "Amy Poehler"
-      comments: "Pretty Good from Amy Poehler (Makes an impact in the little screentime she has)"
+    performance {
+      actor {
+        name: "Amy Poehler"
+      }
+      rating: "Pretty Good"
+      comments: "Makes an impact in the little screentime she has"
     }
-    actor {
-      name: "Tina Fey"
-      comments: "Pretty Good to Good from Tina Fey (Pretty much plays herself and other characters she’s played (so she holds her own well))"
+    performance {
+      actor {
+        name: "Tina Fey"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Pretty much plays herself and other characters she\342\200\231s played (so she holds her own well)"
     }
-    cast: "Pretty Good from the rest of the cast (Everyone holds their own well (with the high schoolers really playing the 00s high schooler archetype))"
-    comments: "Pretty Good to Good Acting"
+    cast {
+      rating: "Pretty Good"
+      comments: "Everyone holds their own well (with the high schoolers really playing the 00s high schooler archetype)"
+    }
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
       name: "Tina Fey"
     }
-    comments: "Pretty Good Story (The concept of the movie is very 00s but has a unique feel to it; the story construction was pretty good for the most part (but it feels like the movie drags a bit towards the last 20 minutes and the ending itself feels very forced); storytelling/flow between sequences is pretty natural and follows a similar flow to other teen dramas from the era; character writing was very good as it helps paint the different stereotypes in high school and how Cady cannot fit in with just one (but the writing of Regina George really steals the show as it builds her up to be such a horrible person))"
+    rating: "Pretty Good"
+    comments: "The concept of the movie is very 00s but has a unique feel to it; the story construction was pretty good for the most part (but it feels like the movie drags a bit towards the last 20 minutes and the ending itself feels very forced); storytelling/flow between sequences is pretty natural and follows a similar flow to other teen dramas from the era; character writing was very good as it helps paint the different stereotypes in high school and how Cady cannot fit in with just one (but the writing of Regina George really steals the show as it builds her up to be such a horrible person)"
   }
   screenplay {
     writer {
       name: "Tina Fey"
     }
-    comments: "Good Screenplay (The dialogue flows well, is filled with iconic/quotable lines, and feels very typical to the time (though this kinda hurts it a bit cause it kinda just reeks of the 00s and teen movies from that time); the humor was good and plays to the strengths of many teen dramas; the symbolism is pretty shallow and the message is pretty predictable (the movie is pretty simple in itself, so it really shouldn’t be taken that seriously); the foreshadowing follows very similar tactics to other teen movies from the time period (with the narration making it kinda predictable with where the movie was going))"
+    rating: "Good"
+    comments: "The dialogue flows well, is filled with iconic/quotable lines, and feels very typical to the time (though this kinda hurts it a bit cause it kinda just reeks of the 00s and teen movies from that time); the humor was good and plays to the strengths of many teen dramas; the symbolism is pretty shallow and the message is pretty predictable (the movie is pretty simple in itself, so it really shouldn\342\200\231t be taken that seriously); the foreshadowing follows very similar tactics to other teen movies from the time period (with the narration making it kinda predictable with where the movie was going)"
   }
   score {
     composer {
       name: "Rolfe Kent"
     }
-    comments: "Pretty Good Score (Very typical of teen movies from the time period)"
+    rating: "Pretty Good"
+    comments: "Very typical of teen movies from the time period"
   }
   cinematography {
     cinematographer {
       name: "Daryn Okada"
     }
-    comments: "Pretty Good Cinematography (Very 2000s with its different angles and zooms and slow motion)"
+    rating: "Pretty Good"
+    comments: "Very 2000s with its different angles and zooms and slow motion"
   }
-  sound: "Pretty Good Sound"
   editing {
     editor {
       name: "Wendy Greene Bricmont"
     }
-    comments: "Pretty Good Editing (Very 2000s with its fast cuts)"
+    rating: "Pretty Good"
+    comments: "Very 2000s with its fast cuts"
   }
-  costumes: "Pretty Good Costumes (Very pink to help separate the mean girls from the rest)"
+  sound {
+    rating: "Pretty Good"
+  }
+  costumes {
+    rating: "Pretty Good"
+    comments: "Very pink to help separate the mean girls from the rest"
+  }
   plot_structure: "Plot Structure was decent as the exposition was good and most of the rising action was good (but the first climax happens a little too early that the movie kinda just feels like it drags for the final 20 minutes and ends very abruptly)"
   pacing: "Pacing was a good pace for the most part (But feels like it drags towards the end because of the plot)"
   climax: "Climax was not the best executed because it feels kinda forced (with the second, main climax happening too late in the movie that makes it feel like it drags)"

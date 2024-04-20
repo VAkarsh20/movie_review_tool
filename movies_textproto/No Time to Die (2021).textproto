@@ -5,35 +5,57 @@ review {
     director {
       name: "Cary Joji Fukunaga"
     }
-    comments: "Very Good Direction (Was able to choreograph the fight and action scenes very well as well as the interpersonal dialogue heavy scenes)"
+    rating: "Very Good"
+    comments: "Was able to choreograph the fight and action scenes very well as well as the interpersonal dialogue heavy scenes"
   }
   acting {
-    actor {
-      name: "Daniel Craig"
-      comments: "Very Good to Great from Daniel Craig (A good send-off performance for the character he is most known for as he really takes command of every scene he is in (though there are some small minor hiccups that take this from going above and beyond his other Bond performances))"
+    performance {
+      actor {
+        name: "Daniel Craig"
+      }
+      rating: "Very Good to Great"
+      comments: "A good send-off performance for the character he is most known for as he really takes command of every scene he is in (though there are some small minor hiccups that take this from going above and beyond his other Bond performances)"
     }
-    actor {
-      name: "Rami Malek"
-      comments: "Pretty Bad performance from Rami Malek (It felt very lazy and his overall acting and mannerisms did not feel that menacing as a Bond villain)"
+    performance {
+      actor {
+        name: "Rami Malek"
+      }
+      rating: "Pretty Bad performance"
+      comments: "It felt very lazy and his overall acting and mannerisms did not feel that menacing as a Bond villain"
     }
-    actor {
-      name: "L\303\251a Seydoux"
-      comments: "Good from L\303\251a Seydoux (A good scene partner and love interest to Bond)"
+    performance {
+      actor {
+        name: "L\303\251a Seydoux"
+      }
+      rating: "Good"
+      comments: "A good scene partner and love interest to Bond"
     }
-    actor {
-      name: "Ana de Armas"
-      comments: "Very Good from Ana de Armas (even though she was barely in the movie, she plays her ditsy, Bond girl character very well)"
+    performance {
+      actor {
+        name: "Ana de Armas"
+      }
+      rating: "Very Good"
+      comments: "Even though she was barely in the movie, she plays her ditsy, Bond girl character very well"
     }
-    actor {
-      name: "Lashana Lynch"
-      comments: "Good to Very Good from Lashana Lynch (Was able to make the most out of the dialogue she was given as she plays the up-incoming, hotshot trope well)"
+    performance {
+      actor {
+        name: "Lashana Lynch"
+      }
+      rating: "Good to Very Good"
+      comments: "Was able to make the most out of the dialogue she was given as she plays the up-incoming, hotshot trope well"
     }
-    actor {
-      name: "Jeffrey Wright"
-      comments: "Very Good from Jeffrey Wright (A nice return from a memorable Bond character as Wright pays to his strengths very well with this performance)"
+    performance {
+      actor {
+        name: "Jeffrey Wright"
+      }
+      rating: "Very Good"
+      comments: "A nice return from a memorable Bond character as Wright pays to his strengths very well with this performance"
     }
-    cast: "Good from the rest of the cast (mostly about the main cast; some questionable performances from some of the minor villains)"
-    comments: "Good Acting"
+    cast {
+      rating: "Good"
+      comments: "Mostly about the main cast; some questionable performances from some of the minor villains"
+    }
+    rating: "Good"
   }
   story {
     writer {
@@ -45,7 +67,8 @@ review {
     writer {
       name: "Cary Joji Fukunaga"
     }
-    comments: "Pretty Good to Good Story (The layout of Bond coming out of retirement and why certain pieces tie together make it be a good closure to the whole Daniel Craig Bond Saga; though there were some questionable story elements towards the end (filed with predictable cliches))"
+    rating: "Pretty Good to Good"
+    comments: "The layout of Bond coming out of retirement and why certain pieces tie together make it be a good closure to the whole Daniel Craig Bond Saga; though there were some questionable story elements towards the end (filed with predictable cliches)"
   }
   screenplay {
     writer {
@@ -60,21 +83,22 @@ review {
     writer {
       name: "Phoebe Waller-Bridge"
     }
-    comments: "Decent to Pretty Good Screenplay (some of the dialogue was fine but there were some elements where it was easy to predict what was going to be said and what was coming up; it was very obvious where Phoebe Waller-Bridge came in to edit the screenplay to add more comedic elements because it just felt very forced and not funny (though some of the wittier/typical Bond jokes did hit))"
+    rating: "Decent to Pretty Good"
+    comments: "Some of the dialogue was fine but there were some elements where it was easy to predict what was going to be said and what was coming up; it was very obvious where Phoebe Waller-Bridge came in to edit the screenplay to add more comedic elements because it just felt very forced and not funny (though some of the wittier/typical Bond jokes did hit)"
   }
   score {
     composer {
       name: "Hans Zimmer"
     }
-    comments: "Very Good to Great Score (took elements of old Bond themes while also captured new themes to make it work well (this was Hans Zimmer after all))"
+    rating: "Very Good to Great"
+    comments: "Took elements of old Bond themes while also captured new themes to make it work well (this was Hans Zimmer after all)"
   }
   cinematography {
     cinematographer {
       name: "Linus Sandgren"
     }
-    comments: "Very Good Cinematography"
+    rating: "Very Good"
   }
-  sound: "Great Sound (Really enjoyed the moments where Bond\'s hearing is recovering in a fight from close proximity to an explosion)"
   editing {
     editor {
       name: "Elliot Graham"
@@ -82,9 +106,15 @@ review {
     editor {
       name: "Tom Cross"
     }
-    comments: "Very Good Editing"
+    rating: "Very Good"
   }
-  visual_effects: "Great Visual Effects"
+  sound {
+    rating: "Great"
+    comments: "Really enjoyed the moments where Bond\'s hearing is recovering in a fight from close proximity to an explosion"
+  }
+  visual_effects {
+    rating: "Great"
+  }
   plot_structure: "Plot Structure was good for the most part (I felt the exposition really help play into the trust issues for Bond, but I feel like the resolution was very lackluster)"
   pacing: "Pacing was good because even though it was a long movie the pacing was consistent for the most part (no need to cut anything)"
   climax: "Build to climax was good because it was clear what was needed and how it was important to the story; climax was executed very nicely in terms of action (but in terms of story it was a bit cliche and predictable)"

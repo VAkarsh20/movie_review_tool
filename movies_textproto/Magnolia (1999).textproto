@@ -5,66 +5,85 @@ review {
     director {
       name: "Paul Thomas Anderson"
     }
-    comments: "Very Good Direction"
+    rating: "Very Good"
   }
   acting {
-    actor {
-      name: "Tom Cruise"
-      comments: "Incredible from Tom Cruise (Though he was literally just playing himself)"
+    performance {
+      actor {
+        name: "Tom Cruise"
+      }
+      rating: "Incredible"
+      comments: "Though he was literally just playing himself"
     }
-    actor {
-      name: "Philip Baker Hall"
-      comments: "Good to Very Good from Philip Baker Hall"
+    performance {
+      actor {
+        name: "Philip Baker Hall"
+      }
+      rating: "Good to Very Good"
     }
-    actor {
-      name: "Philip Seymour Hoffman"
-      comments: "Very Good to Great from Philip Seymour Hoffman"
+    performance {
+      actor {
+        name: "Philip Seymour Hoffman"
+      }
+      rating: "Very Good to Great"
     }
-    actor {
-      name: "William H. Macy"
-      comments: "Great from William H. Macy"
+    performance {
+      actor {
+        name: "William H. Macy"
+      }
+      rating: "Great"
     }
-    actor {
-      name: "Julianne Moore"
-      comments: "Very Good to Great from Julianne Moore"
+    performance {
+      actor {
+        name: "Julianne Moore"
+      }
+      rating: "Very Good to Great"
     }
-    actor {
-      name: "John C. Reilly"
-      comments: "Good to Very Good from John C. Reilly"
+    performance {
+      actor {
+        name: "John C. Reilly"
+      }
+      rating: "Good to Very Good"
     }
-    cast: "Decent from the rest of the cast"
-    comments: "Very Good Acting"
+    cast {
+      rating: "Decent"
+    }
+    rating: "Very Good"
   }
   story {
     writer {
       name: "Paul Thomas Anderson"
     }
-    comments: "Pretty Good Story (I liked the way the store points ran parallel in narrative but intersected at many points throughout the movie; though, it does falter in the last 20-30 minutes)"
+    rating: "Pretty Good"
+    comments: "I liked the way the store points ran parallel in narrative but intersected at many points throughout the movie; though, it does falter in the last 20-30 minutes"
   }
   screenplay {
     writer {
       name: "Paul Thomas Anderson"
     }
-    comments: "Good Screenplay (There is a lot of symbolism throughout the movie which I really enjoyed but the dialogue was just very basic, unnatural, and hard to watch)"
+    rating: "Good"
+    comments: "There is a lot of symbolism throughout the movie which I really enjoyed but the dialogue was just very basic, unnatural, and hard to watch"
   }
   score {
     composer {
       name: "Jon Brion"
     }
-    comments: "Good Score"
+    rating: "Good"
   }
   cinematography {
     cinematographer {
       name: "Robert Elswit"
     }
-    comments: "Great Cinematography"
+    rating: "Great"
   }
-  sound: "Decent to Pretty Good Sound"
   editing {
     editor {
       name: "Dylan Tichenor"
     }
-    comments: "Great Editing"
+    rating: "Great"
+  }
+  sound {
+    rating: "Decent to Pretty Good"
   }
   plot_structure: "The runtime of the movie is extremely long even with the 8 different stories (2-3 of the stories should have been cut to make a more polished product); the ending of the movie was very poor as it had to pick up the pieces from its very weird climax and only tied up the loose ends for like half of the stories (leaving the other half unfinished and questioning)"
   pacing: "Pacing was extremely slow (Especially dragging at some points) in the first half of the movie and extremely fast in the second half)"

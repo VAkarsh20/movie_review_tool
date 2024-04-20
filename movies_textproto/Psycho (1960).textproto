@@ -5,68 +5,99 @@ review {
     director {
       name: "Alfred Hitchcock"
     }
-    comments: "Great Direction (was able to manage the use of different angles and scenes to help tell and move the story forward; gets a lot out of his actors)"
+    rating: "Great"
+    comments: "Was able to manage the use of different angles and scenes to help tell and move the story forward; gets a lot out of his actors"
   }
   acting {
-    actor {
-      name: "Anthony Perkins"
-      comments: "Great from Anthony Perkins (Does a great job in showing the anxiety and demented nature of the character)"
+    performance {
+      actor {
+        name: "Anthony Perkins"
+      }
+      rating: "Great"
+      comments: "Does a great job in showing the anxiety and demented nature of the character"
     }
-    actor {
-      name: "Vera Miles"
-      comments: "Good from Vera Miles (Very 60s style acting)"
+    performance {
+      actor {
+        name: "Vera Miles"
+      }
+      rating: "Good"
+      comments: "Very 60s style acting"
     }
-    actor {
-      name: "John Gavin"
-      comments: "Good from John Gavin (Very over-the-top 60s style of acting)"
+    performance {
+      actor {
+        name: "John Gavin"
+      }
+      rating: "Good"
+      comments: "Very over-the-top 60s style of acting"
     }
-    actor {
-      name: "Martin Balsam"
-      comments: "Good from Martin Balsam"
+    performance {
+      actor {
+        name: "Martin Balsam"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "John McIntire"
-      comments: "Good from John McIntire"
+    performance {
+      actor {
+        name: "John McIntire"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Janet Leigh"
-      comments: "Very Good from Janet Leigh (Really holds her own and plays the female lead well, uses facial expressions and emotions to share the state of the character)"
+    performance {
+      actor {
+        name: "Janet Leigh"
+      }
+      rating: "Very Good"
+      comments: "Really holds her own and plays the female lead well, uses facial expressions and emotions to share the state of the character"
     }
-    cast: "Good from the rest of the cast (Very 60s)"
-    comments: "Good to Very Good Acting"
+    cast {
+      rating: "Good"
+      comments: "Very 60s"
+    }
+    rating: "Good to Very Good"
   }
   story {
     writer {
       name: "Joseph Stefano"
     }
-    comments: "Great Story (Laid out well (though focuses a bit too much on exposition), has a lot of twists and turns to help make it a horror/mystery class, and has great character writing when it comes to the two leads (especially Norman))"
+    rating: "Great"
+    comments: "Laid out well (though focuses a bit too much on exposition), has a lot of twists and turns to help make it a horror/mystery class, and has great character writing when it comes to the two leads (especially Norman)"
   }
   screenplay {
     writer {
       name: "Joseph Stefano"
     }
-    comments: "Very Good Screenplay (The dialogue is very fitting for the time, the humor was decent and kept it a bit light-hearted; the horror elements were very iconic and helped lay the groundwork for future slasher movies; uses allusions and symbols to help keep the audience guessing the mystery; foreshadowing was really good (especially to help lay the groundwork for the twist at the end))"
+    rating: "Very Good"
+    comments: "The dialogue is very fitting for the time, the humor was decent and kept it a bit light-hearted; the horror elements were very iconic and helped lay the groundwork for future slasher movies; uses allusions and symbols to help keep the audience guessing the mystery; foreshadowing was really good (especially to help lay the groundwork for the twist at the end)"
   }
   score {
     composer {
       name: "Bernard Herrmann"
     }
-    comments: "Great Score (Iconic and helps with building suspense)"
+    rating: "Great"
+    comments: "Iconic and helps with building suspense"
   }
   cinematography {
     cinematographer {
       name: "John L. Russell"
     }
-    comments: "Very Good Cinematography (especially the use of multiple camera angles and techniques to give illusions of fear and movement; a bit dated though compared to modern technology)"
+    rating: "Very Good"
+    comments: "Especially the use of multiple camera angles and techniques to give illusions of fear and movement; a bit dated though compared to modern technology"
   }
-  sound: "Good Sound (Very evident with the use of Foley effects, but helps will building suspense; good for the time)"
   editing {
     editor {
       name: "George Tomasini"
     }
-    comments: "Very Good Editing (Helps with transitioning between scenes and camera angles)"
+    rating: "Very Good"
+    comments: "Helps with transitioning between scenes and camera angles"
   }
-  production_design: "Good Production Design (Mostly for the iconic Bates Motel)"
+  sound {
+    rating: "Good"
+    comments: "Very evident with the use of Foley effects, but helps will building suspense; good for the time"
+  }
+  production_design {
+    rating: "Good"
+    comments: "Mostly for the iconic Bates Motel"
+  }
   plot_structure: "Plot Structure was good as all points were laid out; the movie spends a bit too much time on the exposition and the resolution (while iconic) was a bit convoluted for no reason"
   pacing: "Pacing was good for the most part (although there were a lot of filler shots that could be cut into a quarter of the time just to fill space (like Norman cleaning or Marion\'s sister walking up the stairs))"
   climax: "Climax was the most suspenseful and some of the best parts of the movie (and the build to the climax was also executed well)"

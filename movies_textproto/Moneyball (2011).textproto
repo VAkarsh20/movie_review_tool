@@ -5,29 +5,43 @@ review {
     director {
       name: "Bennett Miller"
     }
-    comments: "Very Good to Great Direction (Nothing extraordinary about the directing style but does a very good job at moving the story forward and getting the most out of the actors (Plays a lot into dramatic tropes in directing))"
+    rating: "Very Good to Great"
+    comments: "Nothing extraordinary about the directing style but does a very good job at moving the story forward and getting the most out of the actors (Plays a lot into dramatic tropes in directing)"
   }
   acting {
-    actor {
-      name: "Brad Pitt"
-      comments: "Great from Brad Pitt (A very calculated performance as he used his experience as a leading man to drive the movie forward)"
+    performance {
+      actor {
+        name: "Brad Pitt"
+      }
+      rating: "Great"
+      comments: "A very calculated performance as he used his experience as a leading man to drive the movie forward"
     }
-    actor {
-      name: "Jonah Hill"
-      comments: "Very Good from Jonah Hill (A very soft-spoken role that is a departure from his previous work, but he does a very good job in playing off of Pitt throughout the movie (especially capturing the anxious/nerdy parts of the character); the main issue with the performance is that it is very limiting (so Jonah Hill really cannot show that much off))"
+    performance {
+      actor {
+        name: "Jonah Hill"
+      }
+      rating: "Very Good"
+      comments: "A very soft-spoken role that is a departure from his previous work, but he does a very good job in playing off of Pitt throughout the movie (especially capturing the anxious/nerdy parts of the character); the main issue with the performance is that it is very limiting (so Jonah Hill really cannot show that much off)"
     }
-    actor {
-      name: "Philip Seymour Hoffman"
-      comments: "Good to Very Good from Philip Seymour Hoffman (Uses experience to play this role as his character seems more like a cameo than a central figure (but he does a very good job in holding his own and building tension with Pitt))"
+    performance {
+      actor {
+        name: "Philip Seymour Hoffman"
+      }
+      rating: "Good to Very Good"
+      comments: "Uses experience to play this role as his character seems more like a cameo than a central figure (but he does a very good job in holding his own and building tension with Pitt)"
     }
-    cast: "Good to Very Good from the rest of the cast (Everyone plays their role very well as they all come together to be this island of misfit toys that can be pushed to greatness)"
-    comments: "Very Good Acting"
+    cast {
+      rating: "Good to Very Good"
+      comments: "Everyone plays their role very well as they all come together to be this island of misfit toys that can be pushed to greatness"
+    }
+    rating: "Very Good"
   }
   story {
     writer {
       name: "Stan Chervin"
     }
-    comments: "Great Story (Story is laid out incredibly as it chooses the right elements to focus on; the main issue with the story is its factual inaccuracies as it deviates from the truth for no reason (as simple searches will show where they are making things up); Great character writing as it does a great job exploring the demons of every character and how almost everyone has something to prove)"
+    rating: "Great"
+    comments: "Story is laid out incredibly as it chooses the right elements to focus on; the main issue with the story is its factual inaccuracies as it deviates from the truth for no reason (as simple searches will show where they are making things up); Great character writing as it does a great job exploring the demons of every character and how almost everyone has something to prove"
   }
   screenplay {
     writer {
@@ -36,34 +50,43 @@ review {
     writer {
       name: "Aaron Sorkin"
     }
-    comments: "Great to Incredible Screenplay (The dialogue flows incredibly well and is very iconic (but there are some lines that are a bit questionable), the symbolism is incredibly profound as it helps with driving the message forward; foreshadowing was good as a biopic could be)"
+    rating: "Great to Incredible"
+    comments: "The dialogue flows incredibly well and is very iconic (but there are some lines that are a bit questionable), the symbolism is incredibly profound as it helps with driving the message forward; foreshadowing was good as a biopic could be"
   }
   score {
     composer {
       name: "Mychael Danna"
     }
-    comments: "Great Score (An iconic theme that is used very well throughout the movie)"
+    rating: "Great"
+    comments: "An iconic theme that is used very well throughout the movie"
   }
   cinematography {
     cinematographer {
       name: "Wally Pfister"
     }
-    comments: "Great Cinematography (The best moment is during the streak but overall captures the movie very well)"
+    rating: "Great"
+    comments: "The best moment is during the streak but overall captures the movie very well"
   }
-  sound: "Very Good Sound (The pop off the ball helps with portraying some symbols and elements of the movie)"
   editing {
     editor {
       name: "Christopher Tellefsen"
     }
-    comments: "Great Editing (Really enjoyed how they used the grainy TV screen for flashbacks and how they interpolated old footage into the film)"
+    rating: "Great"
+    comments: "Really enjoyed how they used the grainy TV screen for flashbacks and how they interpolated old footage into the film"
   }
-  costumes: "Very Good Costumes"
+  sound {
+    rating: "Very Good"
+    comments: "The pop off the ball helps with portraying some symbols and elements of the movie"
+  }
+  costumes {
+    rating: "Very Good"
+  }
   plot_structure: "Plot Structure was incredible as it does a great job at setting up the different plot elements and uses the individual story elements very well to help with driving the movie forward"
   pacing: "Pacing was a bit on the slower side (but this is more from the tone); runtime is fine as every scene is used well"
   climax: "Climax was great as the movie ends how it is supposed to end as this helps with showing its meaning"
   tone: "Tone was a bit on the blander side as there is just a bit of some dead-air (though overall it can combat this with great writing and great scenes)"
   final_notes: ""
-  overall: "Overall, my favorite pure sports movie as this incredible underdog story uses writing, acting, and score to help make the audience feel invested in the team's journey, though its tone and historical inaccuracies hold it back from being incredible"
+  overall: "Overall, my favorite pure sports movie as this incredible underdog story uses writing, acting, and score to help make the audience feel invested in the team\'s journey, though its tone and historical inaccuracies hold it back from being incredible"
 }
 release_year: 2011
 review_date: "08/15/2023"

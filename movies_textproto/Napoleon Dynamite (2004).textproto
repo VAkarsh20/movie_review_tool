@@ -5,31 +5,49 @@ review {
     director {
       name: "Jared Hess"
     }
-    comments: "Pretty Good Direction (Does a good enough job in helping get the most out of his actors, even when the movie is a deadpan comedy; also, it is impressive that he was able to get the most out of the movie given such a low budget)"
+    rating: "Pretty Good"
+    comments: "Does a good enough job in helping get the most out of his actors, even when the movie is a deadpan comedy; also, it is impressive that he was able to get the most out of the movie given such a low budget"
   }
   acting {
-    actor {
-      name: "Jon Heder"
-      comments: "Good to Very Good from Jon Heder (Really helps encapsulate who the titular character really is and has a lot of iconic mannerisms that make this performance iconic still to this day)"
+    performance {
+      actor {
+        name: "Jon Heder"
+      }
+      rating: "Good to Very Good"
+      comments: "Really helps encapsulate who the titular character really is and has a lot of iconic mannerisms that make this performance iconic still to this day"
     }
-    actor {
-      name: "Jon Gries"
-      comments: "Good to Very Good from Jon Gries (his over-the-top, 80s nostalgic performance really helps play into the character as he is a star of the show that tries to relive memories from the past (making him the most iconic character out of all the performances))"
+    performance {
+      actor {
+        name: "Jon Gries"
+      }
+      rating: "Good to Very Good"
+      comments: "His over-the-top, 80s nostalgic performance really helps play into the character as he is a star of the show that tries to relive memories from the past (making him the most iconic character out of all the performances)"
     }
-    actor {
-      name: "Aaron Ruell"
-      comments: "Pretty Good from Aaron Ruell (Actually a surprisingly good performance and is a real comedic relief in the moments of deadpan, he is able to play off other characters pretty nicely)"
+    performance {
+      actor {
+        name: "Aaron Ruell"
+      }
+      rating: "Pretty Good"
+      comments: "Actually a surprisingly good performance and is a real comedic relief in the moments of deadpan, he is able to play off other characters pretty nicely"
     }
-    actor {
-      name: "Efren Ramirez"
-      comments: "Decent to Pretty Good from Efren Ramirez (Does not really have that much to work with as his character is more of a sidekick, but is able to still make his performance memorable)"
+    performance {
+      actor {
+        name: "Efren Ramirez"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Does not really have that much to work with as his character is more of a sidekick, but is able to still make his performance memorable"
     }
-    actor {
-      name: "Tina Majorino"
-      comments: "Decent from Tina Majorino (Plays a very Deadpan character who is very sheltered so she is not really able to give off that much in this performance)"
+    performance {
+      actor {
+        name: "Tina Majorino"
+      }
+      rating: "Decent"
+      comments: "Plays a very Deadpan character who is very sheltered so she is not really able to give off that much in this performance"
     }
-    cast: "Pretty Bad to Decent from the rest of the cast"
-    comments: "Decent Acting"
+    cast {
+      rating: "Pretty Bad to Decent"
+    }
+    rating: "Decent"
   }
   story {
     writer {
@@ -38,7 +56,8 @@ review {
     writer {
       name: "Jerusha Hess"
     }
-    comments: "Decent Story (Nothing really happens in the story (and that is kinda the point) as the movie is more about seeing Napoleon in his daily life by himself)"
+    rating: "Decent"
+    comments: "Nothing really happens in the story (and that is kinda the point) as the movie is more about seeing Napoleon in his daily life by himself"
   }
   screenplay {
     writer {
@@ -47,28 +66,35 @@ review {
     writer {
       name: "Jerusha Hess"
     }
-    comments: "Good Screenplay (Dialogue that is filled with iconic deadpan humor and moments that really make this movie very iconic)"
+    rating: "Good"
+    comments: "Dialogue that is filled with iconic deadpan humor and moments that really make this movie very iconic"
   }
   score {
     composer {
       name: "John Swihart"
     }
-    comments: "Pretty Good Score (Helps set the tone of the movie with its quirkiness)"
+    rating: "Pretty Good"
+    comments: "Helps set the tone of the movie with its quirkiness"
   }
   cinematography {
     cinematographer {
       name: "Munn Powell"
     }
-    comments: "Decent Cinematography"
+    rating: "Decent"
   }
-  sound: "Decent Sound"
   editing {
     editor {
       name: "Jeremy Coon"
     }
-    comments: "Pretty Good Editing"
+    rating: "Pretty Good"
   }
-  costumes: "Pretty Good Costumes (the movie is filled with some iconic costumes that help play into this movie being remembered still till this day (like the Vote for Pedro shirt))"
+  sound {
+    rating: "Decent"
+  }
+  costumes {
+    rating: "Pretty Good"
+    comments: "The movie is filled with some iconic costumes that help play into this movie being remembered still till this day (like the Vote for Pedro shirt)"
+  }
   plot_structure: "Plot Structure was kinda none-existent in it is more about Napoleon doing things and building to those different moments that Napoleon is doing (and how these events do not really have much of a resolution)"
   pacing: "Pacing was a bit on the slower side (helps add to the deadpan)"
   climax: "Build to climax was minimal but somewhat there; climax was the most iconic part of the movie but the coming down from the climax was pretty bad"

@@ -5,81 +5,126 @@ review {
     director {
       name: "Ari Aster"
     }
-    comments: "Very Good Direction (Does everything so well on a grand scale as he builds the pagan community with the macro-style scenes, he helps build tension on a micro-scale as he gets the most out of his actors to build an uneasy environment; some growing pains do limit this from being a great (which is expected for someone's second feature film))"
+    rating: "Very Good"
+    comments: "Does everything so well on a grand scale as he builds the pagan community with the macro-style scenes, he helps build tension on a micro-scale as he gets the most out of his actors to build an uneasy environment; some growing pains do limit this from being a great (which is expected for someone\'s second feature film)"
   }
   acting {
-    actor {
-      name: "Florence Pugh"
-      comments: "Very Good from Florence Pugh (Holds her own very well and is the real commanding force in her scenes; a bit over-the-top at times but you really can see her internal struggle through her emotion and facial expressions)"
+    performance {
+      actor {
+        name: "Florence Pugh"
+      }
+      rating: "Very Good"
+      comments: "Holds her own very well and is the real commanding force in her scenes; a bit over-the-top at times but you really can see her internal struggle through her emotion and facial expressions"
     }
-    actor {
-      name: "Jack Reynor"
-      comments: "Good to Very Good from Jack Reynor (Works off of the other characters well and has a scene of charisma to be the lead in some of his scenes; Faulters in the drug-induced scenes as it feels more comical than realistic)"
+    performance {
+      actor {
+        name: "Jack Reynor"
+      }
+      rating: "Good to Very Good"
+      comments: "Works off of the other characters well and has a scene of charisma to be the lead in some of his scenes; Faulters in the drug-induced scenes as it feels more comical than realistic"
     }
-    actor {
-      name: "William Jackson Harper"
-      comments: "Good from William Jackson Harper (Holds his own well and works off of the other actors well)"
+    performance {
+      actor {
+        name: "William Jackson Harper"
+      }
+      rating: "Good"
+      comments: "Holds his own well and works off of the other actors well"
     }
-    actor {
-      name: "Vilhelm Blomgren"
-      comments: "Good from Vilhelm Blomgren (Has a more personal performance as he acts as this calming conduit between the tourists and the natives)"
+    performance {
+      actor {
+        name: "Vilhelm Blomgren"
+      }
+      rating: "Good"
+      comments: "Has a more personal performance as he acts as this calming conduit between the tourists and the natives"
     }
-    actor {
-      name: "Ellora Torchia"
-      comments: "Good from Ellora Torchia (Works well off of Madekwe and the other cast in showing some sense of fear)"
+    performance {
+      actor {
+        name: "Ellora Torchia"
+      }
+      rating: "Good"
+      comments: "Works well off of Madekwe and the other cast in showing some sense of fear"
     }
-    actor {
-      name: "Archie Madekwe"
-      comments: "Pretty Good to Good from Archie Madekwe (A bit over-the-top but does do a good job in showing panic)"
+    performance {
+      actor {
+        name: "Archie Madekwe"
+      }
+      rating: "Pretty Good to Good"
+      comments: "A bit over-the-top but does do a good job in showing panic"
     }
-    actor {
-      name: "Will Poulter"
-      comments: "Good from Will Poulter (Plays the comedic relief character well as his role of the jester plays a significant part in how the community sees him)"
+    performance {
+      actor {
+        name: "Will Poulter"
+      }
+      rating: "Good"
+      comments: "Plays the comedic relief character well as his role of the jester plays a significant part in how the community sees him"
     }
-    cast: "Good from the rest of the cast (Everyone plays their part well and acts as a cog to help build the mystery and tension in the story)"
-    comments: "Good Acting"
+    cast {
+      rating: "Good"
+      comments: "Everyone plays their part well and acts as a cog to help build the mystery and tension in the story"
+    }
+    rating: "Good"
   }
   story {
     writer {
       name: "Ari Aster"
     }
-    comments: "Great Story (Builds the world and overarching conflict very well as it is a bit unique in drawing from Swedish pagan traditions to create a horror movie; the internal conflict for the protagonist is also written well as you really see her trying to juggle her trauma with the anxiety currently present; All of the story elements really add to the story and are closed in the end (with some left unanswered intentionally to leave room for interpretation))"
+    rating: "Great"
+    comments: "Builds the world and overarching conflict very well as it is a bit unique in drawing from Swedish pagan traditions to create a horror movie; the internal conflict for the protagonist is also written well as you really see her trying to juggle her trauma with the anxiety currently present; All of the story elements really add to the story and are closed in the end (with some left unanswered intentionally to leave room for interpretation)"
   }
   screenplay {
     writer {
       name: "Ari Aster"
     }
-    comments: "Very Good to Great Screenplay (The dialogue flows very well and builds on itself throughout the movie; the comedic relief moments alleviate some of the tension and are not overbearing; the horror elements were very good as it was more anxiety-inducing and tension rather than straight horror (though the director's cut did have more traditional horror elements); the foreshadowing is very good as it emulates traditional pagan storytelling predicting the future)"
+    rating: "Very Good to Great"
+    comments: "The dialogue flows very well and builds on itself throughout the movie; the comedic relief moments alleviate some of the tension and are not overbearing; the horror elements were very good as it was more anxiety-inducing and tension rather than straight horror (though the director\'s cut did have more traditional horror elements); the foreshadowing is very good as it emulates traditional pagan storytelling predicting the future"
   }
   score {
     composer {
       name: "Bobby Krlic"
     }
-    comments: "Good Score (Used to help build tension and create anxiety with the audience)"
+    rating: "Good"
+    comments: "Used to help build tension and create anxiety with the audience"
   }
   cinematography {
     cinematographer {
       name: "Pawel Pogorzelski"
     }
-    comments: "Great Cinematography (Really helps paint the scenes and is seamless most of the time (though there are some minor issues))"
+    rating: "Great"
+    comments: "Really helps paint the scenes and is seamless most of the time (though there are some minor issues)"
   }
-  sound: "Good Sound (Helps with building tension, was as good as the budget would let it be)"
   editing {
     editor {
       name: "Lucian Johnston"
     }
-    comments: "Good Editing (Very Good to show hectic nature but was pretty bad when showing the drug effects)"
+    rating: "Good"
+    comments: "Very Good to show hectic nature but was pretty bad when showing the drug effects"
   }
-  visual_effects: "Good Visual Effects (Very Good for the budget as it was mostly practical effects; the drug effects felt very tacky and held the movie back a bit)"
-  production_design: "Great Production Design (Really helped with creating the pagan community and setting the scene in rural Sweden)"
-  makeup: "Pretty Good Makeup (Helped with showing some of the demented and brutalized figures (was as good as the budget would let it be))"
-  costumes: "Good Costumes (Helped with creating the world and the citizens of the pagan community)"
+  sound {
+    rating: "Good"
+    comments: "Helps with building tension, was as good as the budget would let it be"
+  }
+  visual_effects {
+    rating: "Good"
+    comments: "Very Good for the budget as it was mostly practical effects; the drug effects felt very tacky and held the movie back a bit"
+  }
+  production_design {
+    rating: "Great"
+    comments: "Really helped with creating the pagan community and setting the scene in rural Sweden"
+  }
+  makeup {
+    rating: "Pretty Good"
+    comments: "Helped with showing some of the demented and brutalized figures (was as good as the budget would let it be)"
+  }
+  costumes {
+    rating: "Good"
+    comments: "Helped with creating the world and the citizens of the pagan community"
+  }
   plot_structure: "Plot Structure was laid out well as each element serves its purpose as the movie continues to build towards its climax"
-  pacing: "Pacing was good and there were no complaints (the director's cut did slow it down a bit but it made the plot make more sense as it brought more insight into what the characters were going through)"
+  pacing: "Pacing was good and there were no complaints (the director\'s cut did slow it down a bit but it made the plot make more sense as it brought more insight into what the characters were going through)"
   climax: "Climax was chaos (which was intentional) as the director lets everything lose and has the audience look at the consequences (in a good way)"
   tone: "Tone was more similar to a thriller than a horror as the tension building makes the audience feel like they are on their toes the more the story unravels; there is more of an ironic happier tone (in a demented way) than Hereditary (making it be the perfect foil)"
-  final_notes: "This review is for the director's cut"
-  overall: "Overall, the perfect foil to Hereditary as the movie above-the-line executes very well to create a demented pagan story that keeps you on your toes, with the director's cut adding even more depth into this sadistic fever dream"
+  final_notes: "This review is for the director\'s cut"
+  overall: "Overall, the perfect foil to Hereditary as the movie above-the-line executes very well to create a demented pagan story that keeps you on your toes, with the director\'s cut adding even more depth into this sadistic fever dream"
 }
 release_year: 2019
 review_date: "10/26/2023"

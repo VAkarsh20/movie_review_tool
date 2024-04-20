@@ -8,27 +8,38 @@ review {
     director {
       name: "Ethan Coen"
     }
-    comments: "Incredible Direction"
+    rating: "Incredible"
   }
   acting {
-    actor {
-      name: "Tommy Lee Jones"
-      comments: "Great from Tommy Lee Jones"
+    performance {
+      actor {
+        name: "Tommy Lee Jones"
+      }
+      rating: "Great"
     }
-    actor {
-      name: "Javier Bardem"
-      comments: "Brilliant from Javier Bardem"
+    performance {
+      actor {
+        name: "Javier Bardem"
+      }
+      rating: "Brilliant"
     }
-    actor {
-      name: "Josh Brolin"
-      comments: "Very Good from Josh Brolin"
+    performance {
+      actor {
+        name: "Josh Brolin"
+      }
+      rating: "Very Good"
     }
-    actor {
-      name: "Kelly MacDonald"
-      comments: "Very Good from Kelly MacDonald"
+    performance {
+      actor {
+        name: "Kelly MacDonald"
+      }
+      rating: "Very Good"
     }
-    cast: "Very Good from the rest of the cast (Even though they can be dull at times)"
-    comments: "Great to Incredible Acting"
+    cast {
+      rating: "Very Good"
+      comments: "Even though they can be dull at times"
+    }
+    rating: "Great to Incredible"
   }
   story {
     writer {
@@ -37,7 +48,8 @@ review {
     writer {
       name: "Ethan Coen"
     }
-    comments: "Incredible Story (Incredibly true to the source material (Like almost to a tee))"
+    rating: "Incredible"
+    comments: "Incredibly true to the source material (Like almost to a tee)"
   }
   screenplay {
     writer {
@@ -46,26 +58,31 @@ review {
     writer {
       name: "Ethan Coen"
     }
-    comments: "Incredible Screenplay (Extremely metaphorical in both dialogue and actions)"
+    rating: "Incredible"
+    comments: "Extremely metaphorical in both dialogue and actions"
   }
   score {
     composer {
       name: "Carter Burwell"
     }
-    comments: "Pretty Good Score (Very minimal (Stylistic choice))"
+    rating: "Pretty Good"
+    comments: "Very minimal (Stylistic choice)"
   }
   cinematography {
     cinematographer {
       name: "Roger Deakins"
     }
-    comments: "Great Cinematography"
+    rating: "Great"
   }
-  sound: "Incredible Sound Editing/Mixing (Given the fact the movie relies entirely on sound)"
   editing {
     editor {
       name: "Roderick Jaynes"
     }
-    comments: "Great Editing"
+    rating: "Great"
+  }
+  sound {
+    rating: "Incredible"
+    comments: "Given the fact the movie relies entirely on sound"
   }
   pacing: "Pacing is a very slow steady pace (A slow burn time movie); Uses Runtime very well as every minute of the 2 hours is used effectively"
   tone: "Tone is very monotonous and dull (Kinda a drawback for me)"

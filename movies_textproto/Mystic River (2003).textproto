@@ -5,43 +5,51 @@ review {
     director {
       name: "Clint Eastwood"
     }
-    comments: "Great to Incredible Direction"
+    rating: "Great to Incredible"
   }
   acting {
-    actor {
-      name: "Sean Penn"
-      comments: "Incredible from Sean Penn"
+    performance {
+      actor {
+        name: "Sean Penn"
+      }
+      rating: "Incredible"
     }
-    actor {
-      name: "Tim Robbins"
-      comments: "Great to Incredible from Tim Robbins"
+    performance {
+      actor {
+        name: "Tim Robbins"
+      }
+      rating: "Great to Incredible"
     }
-    cast: "Very Good to Great from the rest of the cast"
-    comments: "Great Acting"
+    cast {
+      rating: "Very Good to Great"
+    }
+    rating: "Great"
   }
   story {
     writer {
       name: "Brian Helgeland"
     }
-    comments: "Incredible Story (especially how it analyzes the effects of trauma on an individual)"
+    rating: "Incredible"
+    comments: "Especially how it analyzes the effects of trauma on an individual"
   }
   screenplay {
     writer {
       name: "Brian Helgeland"
     }
-    comments: "Great Screenplay (With incredible moments and questionable moments)"
+    rating: "Great"
+    comments: "With incredible moments and questionable moments"
   }
   score {
     composer {
       name: "Clint Eastwood"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
   editing {
     editor {
       name: "Joel Cox"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
   plot_structure: "Plot Structure was very good as there are two parallel stories to try and look for the killer (Though the development of Kevin Bacon\'s character was a bit confusing on how it was presented)"
   pacing: "Pacing was on the slower side but pretty good overall; runtime was decent (but there were definitely scenes that could be cut as they were unnecessary, bout like 10-15 minutes worth)"

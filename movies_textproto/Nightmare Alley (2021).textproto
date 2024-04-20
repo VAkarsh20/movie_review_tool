@@ -5,31 +5,47 @@ review {
     director {
       name: "Guillermo del Toro"
     }
-    comments: "Very Good to Great Direction (Was able to progress the story forward not only from a macro scale but on a micro scale as well (though there were some blimps on that micro scale (some of the scenes felt kinda like filler and empty space)))"
+    rating: "Very Good to Great"
+    comments: "Was able to progress the story forward not only from a macro scale but on a micro scale as well (though there were some blimps on that micro scale (some of the scenes felt kinda like filler and empty space))"
   }
   acting {
-    actor {
-      name: "Bradley Cooper"
-      comments: "Good to Very Good acting from Bradley Cooper (Played the character very well, the issue was it was more of a mysterious character that only comes out towards the end of the movie (Especially the last 5 minutes))"
+    performance {
+      actor {
+        name: "Bradley Cooper"
+      }
+      rating: "Good to Very Good acting"
+      comments: "Played the character very well, the issue was it was more of a mysterious character that only comes out towards the end of the movie (Especially the last 5 minutes)"
     }
-    actor {
-      name: "Cate Blanchett"
-      comments: "Good to Very Good from Cate Blanchett (it felt like a lot of the prep/performance was borrowed from her portrayal as Katharine Hepburn in The Aviator)"
+    performance {
+      actor {
+        name: "Cate Blanchett"
+      }
+      rating: "Good to Very Good"
+      comments: "It felt like a lot of the prep/performance was borrowed from her portrayal as Katharine Hepburn in The Aviator"
     }
-    actor {
-      name: "Toni Collette"
-      comments: "Good from Toni Collette"
+    performance {
+      actor {
+        name: "Toni Collette"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Willem Dafoe"
-      comments: "Good from Willem Dafoe"
+    performance {
+      actor {
+        name: "Willem Dafoe"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Rooney Mara"
-      comments: "Pretty Good from Rooney Mara (Kinda a boring character altogether)"
+    performance {
+      actor {
+        name: "Rooney Mara"
+      }
+      rating: "Pretty Good"
+      comments: "Kinda a boring character altogether"
     }
-    cast: "Decent to Pretty Good from the rest of the cast"
-    comments: "Pretty Good to Good Acting Overall"
+    cast {
+      rating: "Decent to Pretty Good"
+    }
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
@@ -38,7 +54,8 @@ review {
     writer {
       name: "Kim Morgan"
     }
-    comments: "Good to Very Good Story (A story surrounded in mystery and the passage of time is handled very well through its subtle details, though it may just be the source material because it almost feels like nothing major is happening throughout)"
+    rating: "Good to Very Good"
+    comments: "A story surrounded in mystery and the passage of time is handled very well through its subtle details, though it may just be the source material because it almost feels like nothing major is happening throughout"
   }
   screenplay {
     writer {
@@ -47,29 +64,38 @@ review {
     writer {
       name: "Kim Morgan"
     }
-    comments: "Good to Very Good Screenplay (The symbolism is prevalent and the screenplay is pretty true to the time)"
+    rating: "Good to Very Good"
+    comments: "The symbolism is prevalent and the screenplay is pretty true to the time"
   }
   score {
     composer {
       name: "Nathan Johnson"
     }
-    comments: "Decent to Pretty Good Score"
+    rating: "Decent to Pretty Good"
   }
   cinematography {
     cinematographer {
       name: "Dan Laustsen"
     }
-    comments: "Brilliant Cinematography (Possibly one of the best shot movies I have ever scene, the transition and camera angles used to help tell the story was honestly breath-taking)"
+    rating: "Brilliant"
+    comments: "Possibly one of the best shot movies I have ever scene, the transition and camera angles used to help tell the story was honestly breath-taking"
   }
-  sound: "Pretty Good to Sound"
   editing {
     editor {
       name: "Cam McLauchlin"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  visual_effects: "Good Visual Effects"
-  production_design: "Incredible Production Design (It feels like this movie is from the same universe as The Shape of Water as the sets and styles feel awfully similar to that movie, which is fine because the Production design for that movie was also a standout)"
+  sound {
+    rating: "Pretty Good to"
+  }
+  visual_effects {
+    rating: "Good"
+  }
+  production_design {
+    rating: "Incredible"
+    comments: "It feels like this movie is from the same universe as The Shape of Water as the sets and styles feel awfully similar to that movie, which is fine because the Production design for that movie was also a standout"
+  }
   plot_structure: "Plot Structure is laid out very well as it is easy to follow where we are in the story and which part of the narrative arc we are"
   pacing: "Pacing was slow and consistent throughout the movie (not a bad thing)"
   climax: "Build to climax was very good as it was show overtly why the climax was important and what built up to it; climax was shown very well as it symbolizes the downfall of Cooper\'s character as he get\'s himself in too deep"

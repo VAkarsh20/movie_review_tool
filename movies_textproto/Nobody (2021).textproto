@@ -5,49 +5,61 @@ review {
     director {
       name: "Ilya Naishuller"
     }
-    comments: "Decent to Pretty Good Direction (Was able to move the story forward decently well even though he could not get the most out of his actors, action scenes were pretty well coordinated)"
+    rating: "Decent to Pretty Good"
+    comments: "Was able to move the story forward decently well even though he could not get the most out of his actors, action scenes were pretty well coordinated"
   }
   acting {
-    actor {
-      name: "Bob Odenkirk"
-      comments: "Good from Bob Odenkirk"
+    performance {
+      actor {
+        name: "Bob Odenkirk"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "RZA"
-      comments: "Decent to Pretty Good from RZA"
+    performance {
+      actor {
+        name: "RZA"
+      }
+      rating: "Decent to Pretty Good"
     }
-    actor {
-      name: "Christopher Lloyd"
-      comments: "Decent to Pretty Good from Christopher Lloyd"
+    performance {
+      actor {
+        name: "Christopher Lloyd"
+      }
+      rating: "Decent to Pretty Good"
     }
-    cast: "Pretty Bad from the rest of the cast (mainly due to inexperience)"
-    comments: "Pretty Bad to Decent Acting overall"
+    cast {
+      rating: "Pretty Bad"
+      comments: "Mainly due to inexperience"
+    }
+    rating: "Pretty Bad to Decent"
   }
   story {
     writer {
       name: "Derek Kolstad"
     }
-    comments: "Pretty Good Story (it is kinda just an ex-army, John Wick Copy)"
+    rating: "Pretty Good"
+    comments: "It is kinda just an ex-army, John Wick Copy"
   }
   screenplay {
     writer {
       name: "Derek Kolstad"
     }
-    comments: "Decent Screenplay (kinda bland dialogue overall though)"
+    rating: "Decent"
+    comments: "Kinda bland dialogue overall though"
   }
   score {
     composer {
       name: "David Buckley"
     }
-    comments: "Decent Score (Not rememberable)"
+    rating: "Decent"
+    comments: "Not rememberable"
   }
   cinematography {
     cinematographer {
       name: "Pawel Pogorzelski"
     }
-    comments: "Good Cinematography"
+    rating: "Good"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "William Yeh"
@@ -55,7 +67,11 @@ review {
     editor {
       name: "Evan Schiff"
     }
-    comments: "Good Editing (Felt kinda cheap, though the repetitive editing in the beginning is very symbolic in a way that Requiem for a Dream had those sequences)"
+    rating: "Good"
+    comments: "Felt kinda cheap, though the repetitive editing in the beginning is very symbolic in a way that Requiem for a Dream had those sequences"
+  }
+  sound {
+    rating: "Good"
   }
   plot_structure: "Plot Structure followed the same generic plot structure of a John Wick/Action Movie"
   pacing: "Pacing felt very fast (the movie was less than 90 minutes)"
