@@ -10,7 +10,7 @@ review {
   acting {
     actor {
       name: "Will Smith"
-      comments: "Incredible Acting by Will Smith (Really transforms into the character of Richard Williams as the transformation of harshness to compassion for his family is fluid throughout the entire movie)"
+      comments: "Incredible Acting from Will Smith (Really transforms into the character of Richard Williams as the transformation of harshness to compassion for his family is fluid throughout the entire movie)"
     }
     actor {
       name: "Aunjanue Ellis"
@@ -39,8 +39,9 @@ review {
     composer {
       name: "Kris Bowers"
     }
-    comments: "Score was present/Soundtrack was fine but gave the tone a bit more of a happy go lucky type (which I personally am not too much of a fan of)"
+    comments: "Decent Score (Present)"
   }
+  soundtrack: "Decent Soundtrack (Fine but gave the tone a bit more of a happy go lucky type (which I personally am not too much of a fan of))"
   cinematography {
     cinematographer {
       name: "Robert Elswit"

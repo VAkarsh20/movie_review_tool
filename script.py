@@ -790,6 +790,7 @@ def convert_acting(old_field, filename):
     
 
     for actor in old_field.actor:
+        field_name_error_check("from", actor.comments, filename)
         missing_tier(actor.comments, "from", filename)
 
         actor_rating, actor_comments = get_rating_and_comments(actor.comments, "from", filename)
@@ -825,19 +826,17 @@ def convert_screenplay(old_field, filename):
         new_field.comments = comments.capitalize()
     return new_field
 
-# TODO: Do a split on the word then trim white space (better practice)
 def convert_score(old_field, filename):
     field_name_error_check("Score", old_field.comments, filename)
     missing_tier(old_field.comments, "Score", filename)
 
-    if "soundtrack" in old_field.comments.lower():
-        raise ValueError("There is a soundtrack in {}, handle later".format(filename))
-    else:
-        rating, comments = get_rating_and_comments(old_field.comments, "Score", filename)
-        new_field = movie_pb2.Movie.Review.Score(composer = old_field.composer, rating = rating)
-        if comments != "":
-            new_field.comments = comments.capitalize()
-        return new_field
+    # if "soundtrack" in old_field.comments.lower():
+    #     raise ValueError("There is a soundtrack in {}, handle later".format(filename))
+    rating, comments = get_rating_and_comments(old_field.comments, "Score", filename)
+    new_field = movie_pb2.Movie.Review.Score(composer = old_field.composer, rating = rating)
+    if comments != "":
+        new_field.comments = comments.capitalize()
+    return new_field
 
 def convert_cinematography(old_field, filename):
     field_name_error_check("Cinematography", old_field.comments, filename)
@@ -870,13 +869,17 @@ def convert_generic(old_field, field_name, filename):
     return new_field
 
 def convert_visual_effects(old_field, filename):
-    if "animation" in old_field.lower():
-        raise ValueError("There is an animation in {}, handle later".format(filename))
+    # if "animation" in old_field.lower():
+    #     raise ValueError("There is an animation in {}, handle later".format(filename))
+    field_name = "Visual Effects"
+    if "Animation" in old_field:
+        field_name = "Animation"
+        missing_tier(old_field, field_name, filename)
+    else:
+        field_name_error_check(field_name, old_field, filename)
+        missing_tier(old_field, field_name, filename)
 
-    field_name_error_check("Visual Effects", old_field, filename)
-    missing_tier(old_field, "Visual Effects", filename)
-
-    rating, comments = get_rating_and_comments_generic(old_field, "Visual Effects", filename)
+    rating, comments = get_rating_and_comments_generic(old_field, field_name, filename)
     new_field = movie_pb2.Movie.Review.GenericCategory(rating = rating)
     if comments != "":
         new_field.comments = comments.capitalize()
@@ -885,9 +888,7 @@ def convert_visual_effects(old_field, filename):
 
 def convert_old_format_to_new(original, filename):
 
-    review = movie_pb2.Movie.Review(
-        # Visual Effects, Do a find for Animation
-    )
+    review = movie_pb2.Movie.Review()
 
     try:
         if original.review.direction.comments != "":
@@ -960,10 +961,13 @@ if __name__=="__main__":
             continue
         try:
             original = read_old_format(filename.removesuffix(".textproto"))
-            if isinstance(original, movie_pb2.MovieOldFormat):
-                proto = convert_old_format_to_new(original, filename)
         except ValueError as e:
             print(e)
+            continue
+
+        if isinstance(original, movie_pb2.MovieOldFormat):
+            proto = convert_old_format_to_new(original, filename)
+        
 
 
     

@@ -10,11 +10,11 @@ review {
   acting {
     actor {
       name: "Andrew Garfield"
-      comments: "Incredible performance by Andrew Garfield (Really transforms himself into the character as his mannerisms are to a T, he carries every scene he is in as he really shows his range, his singing actually is pretty good as well for someone who has never had a musical background)"
+      comments: "Incredible performance from Andrew Garfield (Really transforms himself into the character as his mannerisms are to a T, he carries every scene he is in as he really shows his range, his singing actually is pretty good as well for someone who has never had a musical background)"
     }
     actor {
       name: "Alexandra Shipp"
-      comments: "Decent by Alexandra Shipp (handles scenes decently well but really falters in the augmenting/emotional scenes as you can see the limit she is trying to pass)"
+      comments: "Decent from Alexandra Shipp (handles scenes decently well but really falters in the augmenting/emotional scenes as you can see the limit she is trying to pass)"
     }
     actor {
       name: "Robin de Jes\303\272s"
@@ -43,8 +43,9 @@ review {
     composer {
       name: "Jonathan Larson"
     }
-    comments: "Score/Numbers were hit or miss (I liked some of the songs and did not like others)"
+    comments: "Decent Score"
   }
+  soundtrack: "Decent Soundtrack (Numbers were hit or miss (I liked some of the songs and did not like others))"
   cinematography {
     cinematographer {
       name: "Alice Brooks"
