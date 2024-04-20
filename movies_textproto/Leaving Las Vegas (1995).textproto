@@ -38,8 +38,9 @@ review {
     composer {
       name: "Mike Figgis"
     }
-    comments: "Score/Songs were very Vegas-esque with this jazzy sound and not necessarily bad but were just way extremely overbearing in the film and took away from the story"
+    comments: "Decent Score (Very Vegas-esque with this jazzy sound and not necessarily bad but were just way extremely overbearing in the film and took away from the story)"
   }
+  soundtrack: "Decent Soundtrack (Same comments as score)"
   cinematography {
     cinematographer {
       name: "Declan Quinn"

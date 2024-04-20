@@ -57,8 +57,9 @@ review {
     composer {
       name: "Rolfe Kent"
     }
-    comments: "Pretty Good Score/ Decent Soundtrack (Very feel-good and tied to rom-com movies of the time (which shows its age))"
+    comments: "Pretty Good Score"
   }
+  soundtrack: "Decent Soundtrack (Very feel-good and tied to rom-com movies of the time (which shows its age))"
   cinematography {
     cinematographer {
       name: "Eric Steelberg"

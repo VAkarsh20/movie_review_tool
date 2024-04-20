@@ -43,8 +43,9 @@ review {
     composer {
       name: "M. M. Keeravani"
     }
-    comments: "Good Score/Great Soundtrack (Very Good use of songs to help in telling the story (does not seem forced like in other Indian movies of the past))"
+    comments: "Good Score"
   }
+  soundtrack: "Great Soundtrack (Very Good use of songs to help in telling the story (does not seem forced like in other Indian movies of the past))"
   cinematography {
     cinematographer {
       name: "K. K. Senthil Kumar"

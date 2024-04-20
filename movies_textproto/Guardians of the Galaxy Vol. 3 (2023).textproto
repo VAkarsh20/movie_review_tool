@@ -71,8 +71,9 @@ review {
     composer {
       name: "John Murphy"
     }
-    comments: "Good Score/Very Good Soundtrack (while there wasn\'t a consistent theme as in the other movies, I still liked the song selection (like Creep and Dog Days Are Over))"
+    comments: "Good Score"
   }
+  soundtrack: "Very Good Soundtrack (while there wasn\'t a consistent theme as in the other movies, I still liked the song selection (like Creep and Dog Days Are Over))"
   cinematography {
     cinematographer {
       name: "Henry Braham"

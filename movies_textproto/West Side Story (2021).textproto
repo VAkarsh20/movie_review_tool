@@ -51,8 +51,9 @@ review {
     composer {
       name: "Leonard Bernstein"
     }
-    comments: "Incredible Score (just a rendition of the original scores); Very Good to Great Musical Numbers (Musical renditions were either better, the same, or worse in this compared to the previous renditions; Choreography was incredible and needed to be highlighted though)"
+    comments: "Incredible Score (just a rendition of the original scores)"
   }
+  soundtrack: "Very Good to Great Soundtrack (Musical renditions were either better, the same, or worse in this compared to the previous renditions; Choreography was incredible and needed to be highlighted though)"
   cinematography {
     cinematographer {
       name: "\tJanusz Kami\305\204ski"

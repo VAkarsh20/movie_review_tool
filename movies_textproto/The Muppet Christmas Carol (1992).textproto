@@ -31,8 +31,9 @@ review {
     composer {
       name: "Miles Goodman"
     }
-    comments: "Pretty Good Score (Used pretty well to set the tone)/ Pretty Good Soundtrack (The musical numbers were pretty good and pretty funny)"
+    comments: "Pretty Good Score (Used pretty well to set the tone)"
   }
+  soundtrack: "Pretty Good Soundtrack (The musical numbers were pretty good and pretty funny)"
   cinematography {
     cinematographer {
       name: "John Fenner"

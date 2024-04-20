@@ -48,8 +48,9 @@ review {
     composer {
       name: "Dave Grusin (score)"
     }
-    comments: "Great Score/Soundtrack (Uses three different songs for the different parts of the movie and does a good job building themes and renditions that weave into the story very well, also the songs are very iconic in themselves)"
+    comments: "Great Score"
   }
+  soundtrack: "Great Soundtrack (Uses three different songs for the different parts of the movie and does a good job building themes and renditions that weave into the story very well, also the songs are very iconic in themselves)"
   cinematography {
     cinematographer {
       name: "Robert Surtees"

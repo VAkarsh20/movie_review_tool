@@ -46,8 +46,9 @@ review {
     composer {
       name: "A. R. Rahman"
     }
-    comments: "Great Score/Incredible Soundtrack"
+    comments: "Great Score"
   }
+  soundtrack: "Incredible Soundtrack"
   cinematography {
     cinematographer {
       name: "Anthony Dod Mantle"

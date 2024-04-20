@@ -60,8 +60,9 @@ review {
     composer {
       name: "Alexandre Desplat"
     }
-    comments: "Decent Score\\Pretty Good Soundtrack (some catchy songs)"
+    comments: "Decent Score"
   }
+  soundtrack: "Pretty Good Soundtrack (some catchy songs)"
   sound: "Pretty Bad Sound (Just felt very amateurish and choppy (leading to a very unpleasant viewing experience))"
   editing {
     editor {

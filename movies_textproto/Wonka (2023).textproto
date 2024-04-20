@@ -5,7 +5,7 @@ review {
     director {
       name: "Paul King"
     }
-    comments: "Pretty Bad to Decent Direction (The direction on a grand scale was decent as he does a good job in building the magical world, but does not do as good of a job on the musical numbers as they were very cookie cutter and nothing felt spectacular; The direction on a microscale was decent as the interpersonal/dramatic scenes were pretty formulaic to other musicals; similarly, the storytelling felt very similar to other comedy musicals; the direction of actors was pretty good as no performance felt off (though the vocal performances were pretty generic as nobody stood out)"
+    comments: "Pretty Bad to Decent Direction (The direction on a grand scale was decent as he does a good job in building the magical world, but does not do as good of a job on the musical numbers as they were very cookie cutter and nothing felt spectacular; The direction on a microscale was decent as the interpersonal/dramatic scenes were pretty formulaic to other musicals; similarly, the storytelling felt very similar to other comedy musicals; the direction of actors was pretty good as no performance felt off (though the vocal performances were pretty generic as nobody stood out))"
   }
   acting {
     actor {
@@ -81,8 +81,9 @@ review {
     composer {
       name: "Neil Hannon"
     }
-    comments: "Decent Score/ Bad Soundtrack (Super generic songs that were not that catchy or well performed)"
+    comments: "Decent Score"
   }
+  soundtrack: "Bad Soundtrack (Super generic songs that were not that catchy or well performed)"
   cinematography {
     cinematographer {
       name: "Chung-hoon Chung"

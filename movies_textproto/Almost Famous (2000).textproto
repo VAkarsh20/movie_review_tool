@@ -59,8 +59,9 @@ review {
     composer {
       name: "Nancy Wilson"
     }
-    comments: "Pretty Good Score/Very Good Soundtrack (Really helped capture the feel of the early 70s and its era in Rock)"
+    comments: "Pretty Good Score"
   }
+  soundtrack: "Very Good Soundtrack (Really helped capture the feel of the early 70s and its era in Rock)"
   cinematography {
     cinematographer {
       name: "John Toll"

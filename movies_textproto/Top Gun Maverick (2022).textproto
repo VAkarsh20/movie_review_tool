@@ -58,8 +58,9 @@ review {
     composer {
       name: "Hans Zimmer"
     }
-    comments: "Good Score/Soundtrack (Something that the first movie has over this as everything that is new just is not as good as the original, but they do use a good amount of the original\'s material (making it nostalgic))"
+    comments: "Good Score (See Soundtrack comments)"
   }
+  soundtrack: "Good Soundtrack (Something that the first movie has over this as everything that is new just is not as good as the original, but they do use a good amount of the original\'s material (making it nostalgic))"
   cinematography {
     cinematographer {
       name: "Claudio Miranda"

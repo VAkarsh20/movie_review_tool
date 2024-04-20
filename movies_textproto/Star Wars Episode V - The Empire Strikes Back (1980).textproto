@@ -14,7 +14,7 @@ review {
     }
     actor {
       name: "Harrison Ford"
-      comments: "Great from Harrison Ford (the real star of the show in all his scenes as he smooth/cool nature really helps show how great of a character Han Solo really is (and he really cleaned up the delivery of his lines in this movie as there are not any awkward pauses as there were last time)"
+      comments: "Great from Harrison Ford (the real star of the show in all his scenes as he smooth/cool nature really helps show how great of a character Han Solo really is (and he really cleaned up the delivery of his lines in this movie as there are not any awkward pauses as there were last time))"
     }
     actor {
       name: "Carrie Fisher"
@@ -42,9 +42,9 @@ review {
     }
     actor {
       name: "Frank Oz"
-      comments: "Great to Incredible from Frank Oz (Really brought the character of Yoda to life with the puppeteering and the vocal performance"
+      comments: "Great to Incredible from Frank Oz (Really brought the character of Yoda to life with the puppeteering and the vocal performance)"
     }
-    cast: "Good to Very Good from the rest of the Live-Action cast; Very Good from the rest of the Vocal/Costumed-Characters cast"
+    cast: "Very Good from the rest of the cast (Good to Very Good from the rest of the Live-Action cast; Very Good from the rest of the Vocal/Costumed-Characters cast)"
     comments: "Very Good to Great Acting (Very Good from the Live-Action Cast; Great from the Vocal/Costumed-Characters)"
   }
   story {

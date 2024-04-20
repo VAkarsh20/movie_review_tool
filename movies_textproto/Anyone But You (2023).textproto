@@ -62,8 +62,9 @@ review {
     composer {
       name: "Este HaimChris Stracey"
     }
-    comments: "Decent Score; Decent Soundtrack (Did enjoy the songs they chose)"
+    comments: "Decent Score"
   }
+  soundtrack: "Decent Soundtrack (Did enjoy the songs they included)"
   cinematography {
     cinematographer {
       name: "Danny Ruhlmann"

@@ -76,8 +76,9 @@ review {
     composer {
       name: "Andrew Wyatt"
     }
-    comments: "Pretty Good Score/Very Good Soundtrack (More of a soundtrack than a score-based movie)"
+    comments: "Pretty Good Score"
   }
+  soundtrack: "Very Good Soundtrack (More of a soundtrack than a score-based movie)"
   cinematography {
     cinematographer {
       name: "Rodrigo Prieto"

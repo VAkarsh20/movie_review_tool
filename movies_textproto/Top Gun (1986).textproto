@@ -49,8 +49,9 @@ review {
     composer {
       name: "Harold Faltermeyer"
     }
-    comments: "Great Score/Soundtrack (The actual songs/score was Great to Incredible but the use of it was the problem as it felt like the kept overusing the same songs/themes throughout the movie (to the point were it got annoying))"
+    comments: "Great Score (See soundtrack comments)"
   }
+  soundtrack: "Great Soundtrack (The actual songs/score was Great to Incredible but the use of it was the problem as it felt like the kept overusing the same songs/themes throughout the movie (to the point were it got annoying))"
   cinematography {
     cinematographer {
       name: "Jeffrey L. Kimball"

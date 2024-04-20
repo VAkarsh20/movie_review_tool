@@ -47,7 +47,7 @@ review {
     writer {
       name: "Marcus Gardley"
     }
-    comments: "Decent Story (The concept is pretty true to the source material (but I do have problems with it because it perpetuates bad stereotypes), the movie is also hurt by its PG-13 rating because it feels very censored; the plot structure is kinda a mess as it doesn't feel like the movie is going forward (most likely because the passage of time is not believable, the movie also falls apart in the climax as it feels very forced; the character writing is pretty bad as each character's growth progression feels very forced (especially for the male characters))"
+    comments: "Decent Story (The concept is pretty true to the source material (but I do have problems with it because it perpetuates bad stereotypes), the movie is also hurt by its PG-13 rating because it feels very censored; the plot structure is kinda a mess as it doesn't feel like the movie is going forward (most likely because the passage of time is not believable), the movie also falls apart in the climax as it feels very forced; the character writing is pretty bad as each character's growth progression feels very forced (especially for the male characters))"
   }
   screenplay {
     writer {
@@ -59,8 +59,9 @@ review {
     composer {
       name: "Kris Bowers"
     }
-    comments: "Good Score/Good Soundtrack"
+    comments: "Good Score"
   }
+  soundtrack: "Good Soundtrack"
   cinematography {
     cinematographer {
       name: "Dan Laustsen"

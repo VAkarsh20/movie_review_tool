@@ -59,8 +59,9 @@ review {
     composer {
       name: "Laura Karpman"
     }
-    comments: "Decent Score (felt very similar to other comic book movies)/ Pretty Bad Soundtrack (so on-the-nose that it was laughable)"
+    comments: "Decent Score (felt very similar to other comic book movies)"
   }
+  soundtrack: "Pretty Bad Soundtrack (so on-the-nose that it was laughable)"
   cinematography {
     cinematographer {
       name: "Sean Bobbitt"

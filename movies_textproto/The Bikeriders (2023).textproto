@@ -31,7 +31,7 @@ review {
     writer {
       name: "Jeff Nichols"
     }
-    comments: "Good Story (The concept was very interesting as Nichols uses the source material well to create a very engaging story; The story construction felt very slice of life as the first hour was really about getting to know the people in the gang (which put a lot of emphasis on the end to show the downfall), but this presented some issues as not all the characters were that interesting so it dragged down the movie; the flow between sequences was not the best as the slice of life moments really don\'t build to anything and the flow in the second half feels kinda forced and rough; the character writing was very good as he wrote Kathy very well in being a caring partner trying to leave the culture and Benny as this ominous figure that has a sense of charisma))"
+    comments: "Good Story (The concept was very interesting as Nichols uses the source material well to create a very engaging story; The story construction felt very slice of life as the first hour was really about getting to know the people in the gang (which put a lot of emphasis on the end to show the downfall), but this presented some issues as not all the characters were that interesting so it dragged down the movie; the flow between sequences was not the best as the slice of life moments really don\'t build to anything and the flow in the second half feels kinda forced and rough; the character writing was very good as he wrote Kathy very well in being a caring partner trying to leave the culture and Benny as this ominous figure that has a sense of charisma)"
   }
   screenplay {
     writer {
@@ -43,8 +43,9 @@ review {
     composer {
       name: "David Wingo"
     }
-    comments: "Decent Score/ Pretty Good Soundtrack (helped with setting the tone)"
+    comments: "Decent Score"
   }
+  soundtrack: "Pretty Good Soundtrack (helped with setting the tone)"
   cinematography {
     cinematographer {
       name: "Adam Stone"

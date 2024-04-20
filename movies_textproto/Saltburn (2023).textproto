@@ -55,8 +55,9 @@ review {
     composer {
       name: "Anthony Willis"
     }
-    comments: "Pretty Good Score/Good Soundtrack (really helped with setting the time)"
+    comments: "Pretty Good Score"
   }
+  soundtrack: "Good Soundtrack (really helped with setting the time)"
   cinematography {
     cinematographer {
       name: "Linus Sandgren"

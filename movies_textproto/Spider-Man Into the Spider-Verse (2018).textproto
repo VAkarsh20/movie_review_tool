@@ -80,8 +80,9 @@ review {
     composer {
       name: "Daniel Pemberton"
     }
-    comments: "Great Score (Was this nice blend of typical superhero themes with hip-hop, modern elements)/Very Good to Great Soundtrack (And was used well throughout the movie)"
+    comments: "Great Score (Was this nice blend of typical superhero themes with hip-hop, modern elements)"
   }
+  soundtrack: "Very Good to Great Soundtrack (And was used well throughout the movie)"
   sound: "Very Good Sound (especially during the action scenes)"
   editing {
     editor {
@@ -89,7 +90,7 @@ review {
     }
     comments: "Incredible Editing (Really showed these different worlds clashing and helped it also give the movie a comic-book feel)"
   }
-  visual_effects: "Brilliant Visual Effects/Animation (A true revolutionary way of using 2D animation as it is a trailblazer in bringing this style back from the over-saturated-3D animation market; also, used the comic book visual text elements well to help tell the story)"
+  visual_effects: "Brilliant Animation (A true revolutionary way of using 2D animation as it is a trailblazer in bringing this style back from the over-saturated-3D animation market; also, used the comic book visual text elements well to help tell the story)"
   plot_structure: "Plot Structure was laid out decently well for the most part as it followed a similar template to other Spider-Man movies (the Coming-of-Age/Origin story template); the exposition and rising action could have been a bit longer though to help fill in some gaps in the origin part of the story"
   pacing: "Pacing was a bit on the faster side as it really felt like the movie was blazing through its story (and this was a big issue during the exposition and rising action as it felt like the relationships he was building with the other Spider-Men were too fast to the point that it did not feel like connected with them at all (even though he did)); the origin part of the story was incredibly fast to the point that it felt like he just understood how to use his power fully after he failed (and no gradual learning process); 10-15 minutes could have been used to help build the teaching relationship between Peter and Miles as he learns to become Spider-Man"
   climax: "Climax was executed very well as it was some of the best animation I have seen and really shows how far in the journey Miles has come"

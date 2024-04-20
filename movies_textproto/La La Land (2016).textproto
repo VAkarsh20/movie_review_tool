@@ -35,8 +35,9 @@ review {
     composer {
       name: "Justin Hurwitz"
     }
-    comments: "Brilliant Score/Brillaint Soundtrack (My favorite use of music in a movie as it is weaved so perfectly into the film to build emotion and tone)"
+    comments: "Brilliant Score (My favorite use of music in a movie as it is weaved so perfectly into the film to build emotion and tone)"
   }
+  sountrack: "Brillaint Soundtrack (See comments for Score)"
   cinematography {
     cinematographer {
       name: "Linus Sandgren"

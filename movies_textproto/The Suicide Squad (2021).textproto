@@ -43,8 +43,9 @@ review {
     composer {
       name: "John Murphy"
     }
-    comments: "Decent Score/Good Soundtrack (Though the mix with old and new songs kinda clashed at times for me)"
+    comments: "Decent Score"
   }
+  soundtrack: "Good Soundtrack (Though the mix with old and new songs kinda clashed at times for me)"
   cinematography {
     cinematographer {
       name: "Henry Braham"

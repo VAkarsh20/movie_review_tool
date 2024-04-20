@@ -47,8 +47,9 @@ review {
     composer {
       name: "Eminem"
     }
-    comments: "Great Score/Soundtrack (The score is just an interpolation of Lose Yourself but that song is just so good that this is a plus; the soundtrack)"
+    comments: "Great Score (The score is just an interpolation of Lose Yourself but that song is just so good that this is a plus)"
   }
+  soundtrack: "Great Soundtrack (Mostly about how Lose Yourself is such a good song but the Raps and Rap Battles are still iconic)"
   cinematography {
     cinematographer {
       name: "Rodrigo Prieto"

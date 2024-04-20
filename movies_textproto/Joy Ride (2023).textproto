@@ -52,8 +52,9 @@ review {
     composer {
       name: "Nathan Matthew David"
     }
-    comments: "Decent Score/Decent to Pretty Good Soundtrack (Really used it as an outlet to show Asian pop music rather than have it weave well into the movie (not an issue though))"
+    comments: "Decent Score"
   }
+  soundtrack: "Decent to Pretty Good Soundtrack (Really used it as an outlet to show Asian pop music rather than have it weave well into the movie (not an issue though))"
   cinematography {
     cinematographer {
       name: "Paul Yee"

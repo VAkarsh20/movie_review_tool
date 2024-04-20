@@ -38,8 +38,9 @@ review {
     composer {
       name: "David Shire"
     }
-    comments: "Great to Incredible Soundtrack (The actual songs were Incredible, but there were moments where I felt the director did not use the soundtrack properly (like reusing songs))"
+    comments: "Decent Score (Movie is all about the soundtrack)"
   }
+  soundtrack: "Great to Incredible Soundtrack (The actual songs were Incredible, but there were moments where I felt the director did not use the soundtrack properly (like reusing songs))"
   cinematography {
     cinematographer {
       name: "Ralf D. Bode"

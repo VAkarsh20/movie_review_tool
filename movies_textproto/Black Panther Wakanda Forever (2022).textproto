@@ -62,8 +62,9 @@ review {
     composer {
       name: "Ludwig G\303\266ransson"
     }
-    comments: "Very Good Score/Pretty Bad to Decent Soundtrack (at least in comparison to the previous soundtrack cause it does not match on the same level)"
+    comments: "Very Good Score"
   }
+  soundtrack: "Pretty Bad to Decent Soundtrack (at least in comparison to the previous soundtrack cause it does not match on the same level)"
   cinematography {
     cinematographer {
       name: "Autumn Durald Arkapaw"

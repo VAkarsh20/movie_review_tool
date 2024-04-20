@@ -47,8 +47,9 @@ review {
     composer {
       name: "Elliott Wheeler"
     }
-    comments: "Pretty Bad Score/Soundtrack (The actual songs were fine, it was just annoying to hear contemporary music being played in a biopic from the 50s-70s because they should have just used music from that time-period (or at least make new songs that sound like music from then) to give it a more authentic feel of music Elvis would create)"
+    comments: "Pretty Bad Score"
   }
+  soundtrack: "Pretty Bad Soundtrack (The actual songs were fine, it was just annoying to hear contemporary music being played in a biopic from the 50s-70s because they should have just used music from that time-period (or at least make new songs that sound like music from then) to give it a more authentic feel of music Elvis would create)"
   cinematography {
     cinematographer {
       name: "Mandy Walker"

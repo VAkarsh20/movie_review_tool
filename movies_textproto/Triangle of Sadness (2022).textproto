@@ -37,7 +37,7 @@ review {
     writer {
       name: "Ruben \303\226stlund"
     }
-    comments: "Bad Screenplay (It felt like English was the writer\342\200\231s fourth language as none of the dialogue felt natural or flowed between actors; the symbolism is so overt that its very pretentious in what they are trying to show; the foreshadowing is surprisingly more subtle but there are predictable elements to the plot; The jokes were not that funny as it relies way too much on shock/grotesque humor than anything of substance (though the jokes in the final arc had some good moments)"
+    comments: "Bad Screenplay (It felt like English was the writer\342\200\231s fourth language as none of the dialogue felt natural or flowed between actors; the symbolism is so overt that its very pretentious in what they are trying to show; the foreshadowing is surprisingly more subtle but there are predictable elements to the plot; The jokes were not that funny as it relies way too much on shock/grotesque humor than anything of substance (though the jokes in the final arc had some good moments))"
   }
   score {
     composer {
@@ -46,8 +46,9 @@ review {
     composer {
       name: "Leslie Ming"
     }
-    comments: "Decent Score/Decent Soundtrack"
+    comments: "Decent Score"
   }
+  soundtrack: "Decent Soundtrack"
   cinematography {
     cinematographer {
       name: "Fredrik Wenzel"

@@ -39,8 +39,9 @@ review {
     composer {
       name: "Jonny Greenwood"
     }
-    comments: "Very Good Score/Soundtrack (helped play to the times of the setting)"
+    comments: "Very Good Score"
   }
+  soundtrack: "Very Good Soundtrack (helped play to the times of the setting)"
   cinematography {
     cinematographer {
       name: "Michael Bauman"

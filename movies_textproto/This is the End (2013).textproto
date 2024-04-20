@@ -11,7 +11,7 @@ review {
     comments: "Very Good Direction (Considering the entire movie was improv, I feel like Seth and Evan did an impressive Job giving starting points for the actors to work on)"
   }
   acting {
-    cast: "Movie felt like a masterclass in improv from some of the best comedic talents of the early 2010s as the chemistry with the entire cast felt very fluid with everyone building off each other effortlessly"
+    cast: "Very Good from the rest of the cast (Movie felt like a masterclass in improv from some of the best comedic talents of the early 2010s as the chemistry with the entire cast felt very fluid with everyone building off each other effortlessly)"
     comments: "Very Good Acting"
   }
   story {
@@ -36,8 +36,9 @@ review {
     composer {
       name: "Henry Jackman"
     }
-    comments: "Score was present/Soundtrack complemented the movie very nicely in both style and comedic fashion"
+    comments: "Decent Score (Present)"
   }
+  soundtrack: "Good Soundtrack (complemented the movie very nicely in both style and comedic fashion)"
   cinematography {
     cinematographer {
       name: "Brandon Trost"

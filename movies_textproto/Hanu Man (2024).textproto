@@ -49,8 +49,9 @@ review {
     composer {
       name: "Krishna Saurabh"
     }
-    comments: "Pretty Good Score/ Pretty Good Soundtrack (Songs were well choreographed and used well throughout the movie)"
+    comments: "Pretty Good Score"
   }
+  sountrack: "Pretty Good Soundtrack (Songs were well choreographed and used well throughout the movie)"
   cinematography {
     cinematographer {
       name: "Dasaradhi Sivendra"

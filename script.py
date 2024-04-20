@@ -699,16 +699,18 @@ def closes_all_brackets(comments, filename):
 
     if comments[-1] != ")":
         raise ValueError("Issue with {}: Field should end with a closing parenthesis. Field is \"{}\".".format(filename, comments))
+    try:
+        current = start + 1
 
-    current = start + 1
-
-    stack = []
-    while current < len(comments) - 1:
-        if comments[current] == "(":
-            stack.append("(")
-        elif comments[current] == ")":
-            stack.pop()
-        current += 1
+        stack = []
+        while current < len(comments) - 1:
+            if comments[current] == "(":
+                stack.append("(")
+            elif comments[current] == ")":
+                stack.pop()
+            current += 1
+    except IndexError:
+        raise ValueError("Issue with {}: Bracket mismatch. Field is \"{}\".".format(filename, comments))
     
     return len(stack) == 0
 
@@ -724,7 +726,7 @@ def clean_comments(comments, filename):
         else:
             return comments[start + 1:-1]
     else:
-        raise ValueError("Issue for {}: There is a bracket mismatch in \"{}\"".format(filename, comments))
+        raise ValueError("Issue with {}: There is a bracket mismatch in \"{}\"".format(filename, comments))
     
 def get_rating_and_comments(field, splitter, filename):
     rating, comments = split(field, splitter)
@@ -738,11 +740,11 @@ def get_rating_and_comments_generic(field, splitter, filename):
 
 def field_name_error_check(field_name, field, filename):
     if field_name not in field:
-        raise ValueError("There is an issue with \"{}\" in {}".format(field_name, filename))
+        raise ValueError("Issue with {}: problem with \"{}\"".format(filename, field_name))
 
 def missing_tier(field, field_name, filename):
     if field.startswith(field_name):
-        raise ValueError("\"{}\" does not have a tier in {}".format(field_name, filename))
+        raise ValueError("Issue with {}: \"{}\" does not have a tier".format(filename, field_name))
 
 def read_old_format(filename):
     with open("movies_textproto/" + filename + ".textproto", "r") as fd:
@@ -752,8 +754,10 @@ def read_old_format(filename):
         if len(fd.readlines()) <= 8:
             return text_format.Parse(text_proto, movie_pb2.MovieFree())
         else: 
-            # TODO: Try Catch for old Proto Format
-            return text_format.Parse(text_proto, movie_pb2.MovieOldFormat())
+            try:
+                return text_format.Parse(text_proto, movie_pb2.MovieOldFormat())
+            except:
+                raise ValueError ("{} is the new format, skipping".format(filename))
 
 def convert_direction(old_field, filename):
     field_name_error_check("Direction", old_field.comments, filename)
@@ -900,6 +904,9 @@ def convert_old_format_to_new(original, filename):
 
         if original.review.score.comments != "":
             review.score.MergeFrom(convert_score(original.review.score, filename))
+
+        if original.review.soundtrack != "":
+            review.soundtrack.MergeFrom(convert_generic(original.review.soundtrack, "Soundtrack", filename))
         
         if original.review.cinematography.comments != "":
             review.cinematography.MergeFrom(convert_cinematography(original.review.cinematography, filename))
@@ -934,8 +941,7 @@ def convert_old_format_to_new(original, filename):
         if original.review.tone != "":
             review.tone = original.review.tone
         
-        if original.review.final_notes != "":
-            review.final_notes = original.review.final_notes
+        review.final_notes = original.review.final_notes
         
         if original.review.overall != "":
             review.overall = original.review.overall
@@ -949,17 +955,15 @@ if __name__=="__main__":
 
     argc = len(sys.argv)
 
-    for filename in os.listdir('movies_textproto/reduxed'):
-        path = "reduxed/" + filename.removesuffix(".textproto")
-        original = read_old_format(path)
-
-        if isinstance(original, movie_pb2.MovieOldFormat):
-            proto = convert_old_format_to_new(original, filename)
-            with open("movies_textproto/reduxed/" + filename, "w") as fd:
-                text_proto = text_format.MessageToString(proto)
-                fd.write(text_proto)
-            
-            print("{} is converted".format(filename))
+    for filename in os.listdir('movies_textproto/'):
+        if filename == "reduxed":
+            continue
+        try:
+            original = read_old_format(filename.removesuffix(".textproto"))
+            if isinstance(original, movie_pb2.MovieOldFormat):
+                proto = convert_old_format_to_new(original, filename)
+        except ValueError as e:
+            print(e)
 
 
     

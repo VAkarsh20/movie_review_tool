@@ -38,8 +38,9 @@ review {
     composer {
       name: "Heitor Pereira"
     }
-    comments: "Decent Score/Soundtrack"
+    comments: "Decent Score"
   }
+  soundtrack: "Decent Soundtrack"
   sound: "Pretty Good Sound (helps bring the minions voices to life)"
   editing {
     editor {

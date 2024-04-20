@@ -56,8 +56,9 @@ review {
     composer {
       name: "Vishal\342\200\223Shekhar"
     }
-    comments: "Decent to Pretty Good Score (Spread throughout the movie and followed scores from the same genre); Pretty Good to Good Soundtrack (even though there are only two songs, both of them are good sequences and highlights for the movie)"
+    comments: "Decent to Pretty Good Score (Spread throughout the movie and followed scores from the same genre)"
   }
+  soundtrack: "Pretty Good to Good Soundtrack (even though there are only two songs, both of them are good sequences and highlights for the movie)"
   cinematography {
     cinematographer {
       name: "Satchith Paulose"

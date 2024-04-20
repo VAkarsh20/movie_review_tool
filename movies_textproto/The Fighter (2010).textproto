@@ -55,8 +55,9 @@ review {
     composer {
       name: "Michael Brook"
     }
-    comments: "Score was just there and didn\'t really do anything; soundtrack choices were very typical of that of early 2010s movies which made it a bit cringe"
+    comments: "Pretty Bad Score (Just there and didn\'t really do anything)"
   }
+  soundtrack: "Pretty Bad to Decent Soundtrack (Choices were very typical of that of early 2010s movies which made it a bit cringe)"
   cinematography {
     cinematographer {
       name: "Hoyte van Hoytema"

@@ -12,7 +12,7 @@ review {
       name: "Keanu Reeves"
       comments: "Pretty Good from Keanu Reeves (Able to handle the action sequences in a great way and is a strong prominent figure throughout the movie (With some good moments in dramatic acting), but has some really questionable scenes that may be in fault from the direction he was given)"
     }
-    cast: "Acting on a Spectrum from the rest of the cast (Anywhere from very bad and emotionless (like Alfie Allen) to decent acting (like Willem Dafoe))"
+    cast: "Bad to Pretty Bad from the rest of the cast (Acting on a Spectrum, anywhere from very bad and emotionless (like Alfie Allen) to decent acting (like Willem Dafoe))"
     comments: "Bad Acting"
   }
   story {
@@ -34,7 +34,7 @@ review {
     composer {
       name: "Joel J. Richard"
     }
-    comments: "Score was just present (but did help in the action scenes when present)"
+    comments: "Decent Score (Just present (but did help in the action scenes))"
   }
   cinematography {
     cinematographer {

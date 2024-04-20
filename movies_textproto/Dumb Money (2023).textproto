@@ -69,8 +69,9 @@ review {
     composer {
       name: "Will Bates"
     }
-    comments: "Decent Score (Somewhat there)/Good Soundtrack (Really stayed true to the time period and made the movie more entertaining)"
+    comments: "Decent Score (Somewhat there)"
   }
+  soundtrack: "Good Soundtrack (Really stayed true to the time period and made the movie more entertaining)"
   cinematography {
     cinematographer {
       name: "Nikolas Karakatsanis"

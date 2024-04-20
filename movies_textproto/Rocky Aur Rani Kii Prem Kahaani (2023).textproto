@@ -5,7 +5,7 @@ review {
     director {
       name: "Karan Johar"
     }
-    comments: "Direction (The macroscale was an homage to Hindi movies from the 60s and 70s (and he does a good job at showing this); the direction on a microscale was pretty typical to his other romantic movies as he uses a lot of dramatic scenes to build either tension or connection in relationships; the  direction of actors was good as you felt every performance was elevated; the storytelling was similar to both old Hindi movies and his style as it respectively created a colorful Bollywood atmosphere and used conflict/trauma as a major storytelling device; he built tension similar to his other movies (with a lot of sound effects and sad music))"
+    comments: "Good Direction (The macroscale was an homage to Hindi movies from the 60s and 70s (and he does a good job at showing this); the direction on a microscale was pretty typical to his other romantic movies as he uses a lot of dramatic scenes to build either tension or connection in relationships; the  direction of actors was good as you felt every performance was elevated; the storytelling was similar to both old Hindi movies and his style as it respectively created a colorful Bollywood atmosphere and used conflict/trauma as a major storytelling device; he built tension similar to his other movies (with a lot of sound effects and sad music))"
   }
   acting {
     actor {
@@ -58,8 +58,9 @@ review {
     composer {
       name: "Pritam"
     }
-    comments: "Good Score (Used well to set the tone and create tension)/ Good Soundtrack (The songs were good and the musical numbers were choreographed very well)"
+    comments: "Good Score (Used well to set the tone and create tension)"
   }
+  soundtrack: "Good Soundtrack (The songs were good and the musical numbers were choreographed very well)"
   cinematography {
     cinematographer {
       name: "Manush Nandan"

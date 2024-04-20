@@ -51,8 +51,9 @@ review {
     composer {
       name: "Mateo Messina"
     }
-    comments: "Pretty Good Score and Soundtrack"
+    comments: "Pretty Good Score"
   }
+  soundtrack: "Pretty Good Soundtrack"
   cinematography {
     cinematographer {
       name: "Eric Steelberg"

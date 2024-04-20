@@ -20,7 +20,7 @@ review {
       name: "Danny DeVito"
       comments: "Great from Danny DeVito"
     }
-    cast: "Very Bad from the rest of the live acting cast; Great Voice Acting by the entire Looney Tunes cast"
+    cast: "Decent from the rest of the cast (Very Bad from the rest of the live acting cast; Great Voice Acting by the entire Looney Tunes cast)"
     comments: "Bad Acting"
   }
   story {
@@ -51,14 +51,15 @@ review {
     writer {
       name: "Herschel Weingrod"
     }
-    comments: "Screenplay of two halves (Looney Tunes Parts were great and very similar to its traditional style, Real life parts were bad to pretty bad overall; there were some good references and jokes that I did appreciate (Mighty Ducks, Pulp Fiction, Patton, etc.))"
+    comments: "Decent Screenplay (Two halves (Looney Tunes Parts were great and very similar to its traditional style, Real life parts were bad to pretty bad overall); there were some good references and jokes that I did appreciate (Mighty Ducks, Pulp Fiction, Patton, etc.))"
   }
   score {
     composer {
       name: "James Newton Howard"
     }
-    comments: "Decent to Pretty Good Score (Liked how it incorporated Looney Tunes elements); Good Soundtrack"
+    comments: "Decent to Pretty Good Score (Liked how it incorporated Looney Tunes elements)"
   }
+  soundtrack: "Good Soundtrack"
   cinematography {
     cinematographer {
       name: "Michael Chapman"
@@ -72,7 +73,7 @@ review {
     }
     comments: "Decent Editing"
   }
-  visual_effects: "Pretty Good Animation and stitches with real life (especially for the time) as it gives it a pretty cartoony feel"
+  visual_effects: "Pretty Good Animation (Stitched well with real life (especially for the time) as it gives it a pretty cartoony feel)"
   pacing: "Pacing was very fast and really rushed between plot elements; Runtime was very short (definitely could have used 15-20 minutes in the rising action as the film goes from exposition to the climax)"
   climax: "Skips build to climax; the actual basketball game (climax) was executed very well as it was the best part of the movie and gives off a good message to the audience"
   final_notes: "The movie is pretty surface level but the majority of it is geared towards kids and people who wanted to see MJ so i give it a pass"

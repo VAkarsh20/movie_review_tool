@@ -29,9 +29,9 @@ review {
   }
   score {
     composer {
-      name: "Wendy Carlos[a]"
+      name: "Wendy Carlos"
     }
-    comments: "Great Score/Soundtrack (Especially with the use of classical music along with its iconic original score)"
+    comments: "Great Score (Interpolates iconic classical music compositions along with its iconic original score)"
   }
   cinematography {
     cinematographer {

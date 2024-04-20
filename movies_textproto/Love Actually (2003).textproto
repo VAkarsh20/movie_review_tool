@@ -71,8 +71,9 @@ review {
     composer {
       name: "Craig Armstrong"
     }
-    comments: "Pretty Good Score/Pretty Good Soundtrack (Helps set the Christmas tone)"
+    comments: "Pretty Good Score"
   }
+  sountrack: "Pretty Good Soundtrack (Helps set the Christmas tone)"
   cinematography {
     cinematographer {
       name: "Michael Coulter"

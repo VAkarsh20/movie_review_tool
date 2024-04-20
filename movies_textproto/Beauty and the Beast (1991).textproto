@@ -89,8 +89,9 @@ review {
     composer {
       name: "Alan Menken"
     }
-    comments: "Very Good Score (Used well to make the movie feel musical and helped accentuate the dramatic moments)/Very Good to Great Musical Numbers  (Each song is iconic, with my favorite being 'Be Our Guest'"
+    comments: "Very Good Score (Used well to make the movie feel musical and helped accentuate the dramatic moments)"
   }
+  soundtrack: "Very Good to Great Soundtrack (Each song is iconic, with my favorite being 'Be Our Guest')"
   sound: "Very Good Sound"
   editing {
     editor {
@@ -98,7 +99,7 @@ review {
     }
     comments: "Very Good Editing (Helped give the movie a storybook feel)"
   }
-  visual_effects: "Visual Effects (The handcrafted animation style was very groundbreaking (especially when it was mixed with CGI in the waltz scene); the art and character designs are some of the most iconic in Disney history)"
+  visual_effects: "Incredible Animation (The handcrafted animation style was very groundbreaking (especially when it was mixed with CGI in the waltz scene); the art and character designs are some of the most iconic in Disney history)"
   pacing: "Pacing was kinda an issue because the movie moves incredibly fast (mainly because of its short runtime)"
   climax: "Climax was executed well and showed how full circle Belle and The Beast's journeys have come"
   tone: "Tone was very typical to other movies from the Disney Renaissance (while having French and fantasy flavors)"

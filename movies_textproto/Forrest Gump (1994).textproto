@@ -43,8 +43,9 @@ review {
     composer {
       name: "Alan Silvestri"
     }
-    comments: "Good Score/Good to Very Good use of Soundtrack (to help show which time period the story was in)"
+    comments: "Good Score"
   }
+  soundtrack: "Good to Very Good Soundtrack (to help show which time period the story was in)"
   cinematography {
     cinematographer {
       name: "Don Burgess"

@@ -47,8 +47,9 @@ review {
     composer {
       name: "Michael Giacchino"
     }
-    comments: "Score was barely present/Decent Soundtrack (Very early 2010s)"
+    comments: "Decent Score (Was barely present)"
   }
+  soundtrack: "Decent Soundtrack (Very early 2010s)"
   cinematography {
     cinematographer {
       name: "Terry Stacey"

@@ -35,8 +35,9 @@ review {
     composer {
       name: "Ira Newborn"
     }
-    comments: "Very Good/Iconic Soundtrack"
+    comments: "Decent Score"
   }
+  soundtrack: "Very Good Soundtrack (Iconic)"
   cinematography {
     cinematographer {
       name: "Tak Fujimoto"

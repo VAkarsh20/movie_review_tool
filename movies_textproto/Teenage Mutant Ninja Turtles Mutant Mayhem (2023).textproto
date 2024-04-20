@@ -70,7 +70,7 @@ review {
     writer {
       name: "Benji Samit"
     }
-    comments: "Pretty Bad Screenplay (The dialogue was pretty messy overall (I get the kids were doing improv, but I never wanna hear \'rizz\' or \'ocky way\' in a movie again (this movie will be cringey and dated in years to come); the attempts at humor missed the mark a lot of times as it came off more as corny than relatable for me; the symbolism was kinda shallow (but they did explain and tie things up well); foreshadowing was kinda decent (but a bit overt) as they used different elements from the beginning to tie things up in the climax)"
+    comments: "Pretty Bad Screenplay (The dialogue was pretty messy overall (I get the kids were doing improv, but I never wanna hear \'rizz\' or \'ocky way\' in a movie again (this movie will be cringey and dated in years to come)); the attempts at humor missed the mark a lot of times as it came off more as corny than relatable for me; the symbolism was kinda shallow (but they did explain and tie things up well); foreshadowing was kinda decent (but a bit overt) as they used different elements from the beginning to tie things up in the climax)"
   }
   score {
     composer {
@@ -79,10 +79,11 @@ review {
     composer {
       name: "Atticus Ross"
     }
-    comments: "Decent Score/Pretty Good Soundtrack (though not very well used at times)"
+    comments: "Decent Score"
   }
+  soundtrack: "Pretty Good Soundtrack (though not very well used at times)"
   sound: "Decent Sound"
-  visual_effects: "Pretty Good Visual Effects/Animation (The overall style had some charm to it being less polished and more choppy/comic-book based (which was a stylistic choice that I did enjoy, but there were many times where the dialogue scenes felt too cheap as the mouths of the characters did not match their words); the fight scenes were well animated; the cuts with real-world videos felt very tacky and cheap)"
+  visual_effects: "Pretty Good Animation (The overall style had some charm to it being less polished and more choppy/comic-book based (which was a stylistic choice that I did enjoy, but there were many times where the dialogue scenes felt too cheap as the mouths of the characters did not match their words); the fight scenes were well animated; the cuts with real-world videos felt very tacky and cheap)"
   plot_structure: "Plot Structure was pretty formulaic and not that well set up as the movie was a bit too short (the rising action of them coming into their powers and rising as a fighting team was just a short montage (ruining their character development)); it would have been nice to have seen 15 minutes used to help give them more scenes where they learn to become better crime fighters"
   pacing: "Pacing was fine (the issue is the plot was too short and could use a longer runtime)"
   climax: "Climax was animated well (but felt a bit corny and predictable)"

@@ -52,14 +52,15 @@ review {
     writer {
       name: "Matthew Fogel"
     }
-    comments: "Decent Screenplay (The dialogue was pretty bland overall as it was typical children\'s movie dialogue (with there being nothing for adults besides nostalgia)); the humor was a miss most of the time as it was just childish humor (which leaves nothing for adults); the allusions to the games were great as it really paid homage to the franchise (especially with the world building and how they moved in it to symbolize Super Mario Bros and Donkey Kong; symbolism and foreshadowing was about what you would expect from a kids movie (so not that much))"
+    comments: "Decent Screenplay (The dialogue was pretty bland overall as it was typical children\'s movie dialogue (with there being nothing for adults besides nostalgia); the humor was a miss most of the time as it was just childish humor (which leaves nothing for adults); the allusions to the games were great as it really paid homage to the franchise (especially with the world building and how they moved in it to symbolize Super Mario Bros and Donkey Kong); symbolism and foreshadowing was about what you would expect from a kids movie (so not that much))"
   }
   score {
     composer {
       name: "Brian Tyler"
     }
-    comments: "Very Good Score (Really liked how they interpolated the original Mario songs into the score); Bad Screenplay (the use of 80s music really felt off throughout the movie as it did not help with establishing tone at all (Peaches was a good/funny song though))"
+    comments: "Very Good Score (Really liked how they interpolated the original Mario songs into the score)"
   }
+  soundtrack: "Bad Soundtrack (the use of 80s music really felt off throughout the movie as it did not help with establishing tone at all (Peaches was a good/funny song though))"
   sound: "Very Good to Great Sound (Really helped give the original Super Mario Bros feel with they way they used sound)"
   editing {
     editor {

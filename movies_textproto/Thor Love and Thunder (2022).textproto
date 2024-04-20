@@ -37,7 +37,7 @@ review {
       comments: "Very Good from Matt Damon (It was really funny how he is able to carry on his cameo from the previous movie and have such a small role even though how big he is)"
     }
     cast: "Pretty Bad to Decent from the rest of the cast (though Good from the Guardians of the Galaxy (really just stayed on brand for their characters given how short of screen time they had))"
-    comments: "Acting"
+    comments: "Pretty Good to Good Acting"
   }
   story {
     writer {
@@ -64,8 +64,9 @@ review {
     composer {
       name: "Nami Melumad (score)"
     }
-    comments: "Pretty Good Score/Soundtrack (though it is really annoying how much they play Sweet Child o\' Mine throughout the movie)"
+    comments: "Pretty Good Score"
   }
+  soundtrack: "Pretty Good Soundtrack (though it is really annoying how much they play Sweet Child o\' Mine throughout the movie)"
   cinematography {
     cinematographer {
       name: "Barry Idoine"

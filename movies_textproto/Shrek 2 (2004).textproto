@@ -1,0 +1,150 @@
+title: "Shrek 2"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Andrew Adamson"
+    }
+    director {
+      name: "Kelly Asbury"
+    }
+    director {
+      name: "Conrad Vernon"
+    }
+    rating: "TODO"
+    comments: "Direction (macroscale is; microscale is; direction of actors is; storytelling is; tension is)"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Mike Myers"
+      }
+      rating: "TODO"
+      comments: "from Mike Myers ()"
+    }
+    performance {
+      actor {
+        name: "Eddie Murphy"
+      }
+      rating: "TODO"
+      comments: "from Eddie Murphy ()"
+    }
+    performance {
+      actor {
+        name: "Cameron Diaz"
+      }
+      rating: "TODO"
+      comments: "from Cameron Diaz ()"
+    }
+    performance {
+      actor {
+        name: "Julie Andrews"
+      }
+      rating: "TODO"
+      comments: "from Julie Andrews ()"
+    }
+    performance {
+      actor {
+        name: "Antonio Banderas"
+      }
+      rating: "TODO"
+      comments: "from Antonio Banderas ()"
+    }
+    performance {
+      actor {
+        name: "John Cleese"
+      }
+      rating: "TODO"
+      comments: "from John Cleese ()"
+    }
+    performance {
+      actor {
+        name: "Rupert Everett"
+      }
+      rating: "TODO"
+      comments: "from Rupert Everett ()"
+    }
+    performance {
+      actor {
+        name: "Jennifer Saunders"
+      }
+      rating: "TODO"
+      comments: "from Jennifer Saunders ()"
+    }
+    cast {
+      rating: "TODO"
+      comments: "from the rest of the cast () ()"
+    }
+    rating: ""
+  }
+  story {
+    writer {
+      name: "Andrew Adamson"
+    }
+    rating: "TODO"
+    comments: "Story (The concept is; the plot structure is; flow between sequences is; character writing is)"
+  }
+  screenplay {
+    writer {
+      name: "Andrew Adamson"
+    }
+    writer {
+      name: "Joe Stillman"
+    }
+    writer {
+      name: "J. David Stem"
+    }
+    writer {
+      name: "David N. Weiss"
+    }
+    rating: "TODO"
+    comments: "Screenplay (The dialogue is; the humor is; the symbolism is; the foreshadowing is)"
+  }
+  score {
+    composer {
+      name: "Harry Gregson-Williams"
+    }
+    rating: "TODO"
+    comments: "Score ()"
+  }
+  editing {
+    editor {
+      name: "Michael Andrews"
+    }
+    editor {
+      name: "Sim Evan-Jones"
+    }
+    rating: "TODO"
+    comments: "Editing ()"
+  }
+  sound {
+    rating: "TODO"
+    comments: "Sound ()"
+  }
+  animation {
+    rating: "TODO"
+    comments: "Animation ()"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "Production Design ()"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "Makeup ()"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "Costumes ()"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2004
+review_date: "04/20/2024"
+redux: false
+id: 441
+imdb_id: "tt0298148"
