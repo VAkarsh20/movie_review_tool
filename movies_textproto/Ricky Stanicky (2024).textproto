@@ -6,7 +6,7 @@ review {
       name: "Peter Farrelly"
     }
     rating: "Pretty Bad"
-    comments: "Direction (The direction on a macroscale is like every stereotypical comedy from the 2010s; the direction on a microscale is decent as the performances feel elevated, there is a good amount of comedy, and the interpersonal scenes help show the relationships within the cast; the storytelling feels like it runs out of breath towards the end because it feels like they just give up on trying to tell a coherent story towards the climax)"
+    comments: "The direction on a macroscale is like every stereotypical comedy from the 2010s; the direction on a microscale is decent as the performances feel elevated, there is a good amount of comedy, and the interpersonal scenes help show the relationships within the cast; the storytelling feels like it runs out of breath towards the end because it feels like they just give up on trying to tell a coherent story towards the climax"
   }
   acting {
     performance {
@@ -14,41 +14,40 @@ review {
         name: "Zac Efron"
       }
       rating: "Pretty Good to Good"
-      comments: "from Zac Efron (Has good comedic timing and develops chemistry well with the rest of the cast; holds his own in the more dramatic moments)"
+      comments: "Has good comedic timing and develops chemistry well with the rest of the cast; holds his own in the more dramatic moments"
     }
     performance {
       actor {
         name: "Jermaine Fowler"
       }
       rating: "Decent"
-      comments: "from Jermaine Fowler (Has his ups and downs, but holds himself well)"
+      comments: "Has his ups and downs, but holds himself well"
     }
     performance {
       actor {
         name: "Andrew Santino"
       }
       rating: "Decent to Pretty Good"
-      comments: "from Andrew Santino (Holds himself well and has pretty good comedic timing)"
+      comments: "Holds himself well and has pretty good comedic timing"
     }
     performance {
       actor {
         name: "William H. Macy"
       }
       rating: "Pretty Good"
-      comments: "from William H. Macy (An experienced actor that works well off of others; does a good job in elevating the rest of the cast)"
+      comments: "An experienced actor that works well off of others; does a good job in elevating the rest of the cast"
     }
     performance {
       actor {
         name: "John Cena"
       }
       rating: "Good"
-      comments: "from John Cena (A real scene stealer as he has a lot of charisma and good comedic timing; does a good job at showing his vulnerable side in the more dramatic moments)"
+      comments: "A real scene stealer as he has a lot of charisma and good comedic timing; does a good job at showing his vulnerable side in the more dramatic moments"
     }
     cast {
       rating: "Decent"
-      comments: "from the rest of the cast"
     }
-    comments: "Pretty Good Acting"
+    rating: "Pretty Good"
   }
   story {
     writer {
@@ -70,7 +69,7 @@ review {
       name: "Mike Cerrone"
     }
     rating: "Pretty Bad"
-    comments: "Story (The concept is incredibly fun and interesting (I love the idea of Ricky Stanicky); the plot structure is kinda a mess as the movie just feels like the first half is exposition and the climax feels incredibly forced and deflated; character writing is pretty good as you get a sense of who this friend group is and who 'Ricky Stanicky' is)"
+    comments: "The concept is incredibly fun and interesting (I love the idea of Ricky Stanicky); the plot structure is kinda a mess as the movie just feels like the first half is exposition and the climax feels incredibly forced and deflated; character writing is pretty good as you get a sense of who this friend group is and who \'Ricky Stanicky\' is"
   }
   screenplay {
     writer {
@@ -92,34 +91,35 @@ review {
       name: "Mike Cerrone"
     }
     rating: "Decent"
-    comments: "Screenplay (The dialogue is pretty bland and formulaic; the humor is pretty good for the most part, but feels very forced in the climax; the symbolism is somewhat prevalent for this type of movie; the foreshadowing is incredibly forced and makes this movie feel very formulaic/feel-good)"
+    comments: "The dialogue is pretty bland and formulaic; the humor is pretty good for the most part, but feels very forced in the climax; the symbolism is somewhat prevalent for this type of movie; the foreshadowing is incredibly forced and makes this movie feel very formulaic/feel-good"
   }
   score {
     composer {
       name: "Dave Palmer"
     }
     rating: "Decent"
-    comments: "Score (Pretty light-hearted, but uses the same theme throughout the whole movie); Pretty Good Soundtrack (Even though it's used sparingly, I did enjoy the songs they chose)"
+    comments: "Pretty light-hearted, but uses the same theme throughout the whole movie"
+  }
+  soundtrack {
+    rating: "Pretty Good"
+    comments: "Even though it\'s used sparingly, I did enjoy the songs they chose"
   }
   cinematography {
     cinematographer {
       name: "John Brawley"
     }
     rating: "Decent"
-    comments: "Cinematography"
   }
   editing {
     editor {
       name: "Patrick J. Don Vito"
     }
     rating: "Decent"
-    comments: "Editing"
   }
   sound {
     rating: "Decent"
-    comments: "Sound"
   }
-  pacing: "Pacing is a bit of a mess because the first half feels incredibly slow and the climax is incredibly fast; the movie could have cut 30 minutes of the exposition and it would've been the same movie"
+  pacing: "Pacing is a bit of a mess because the first half feels incredibly slow and the climax is incredibly fast; the movie could have cut 30 minutes of the exposition and it would\'ve been the same movie"
   climax: "Climax is poorly executed as it is incredibly fast and feels very forced (and none of the jokes in this part hit either)"
   tone: "Tone is very 2010s comedy"
   final_notes: "Ricky Stanicky is such a good title for this movie"

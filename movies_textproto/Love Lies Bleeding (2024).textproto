@@ -6,7 +6,7 @@ review {
       name: "Rose Glass"
     }
     rating: "Decent"
-    comments: "Direction (the direction on a macroscale is pretty good as the movie has an interesting style with its slow-motion edits and siloed cinematography; the direction on a microscale is good as the interpersonal scenes is really where you see the relationships between the characters and the internal struggles they go through; the direction of actors is pretty bad as the individual performances do not feel that strong, but as a cast the movie is pretty good as there is strong chemistry; the storytelling is incredibly convoluted as they intentionally make the conflict too mysterious and too far away that you do not know what these characters are fighting for; they do not do the best job at building tension as the thriller moments feel a bit forced)"
+    comments: "The direction on a macroscale is pretty good as the movie has an interesting style with its slow-motion edits and siloed cinematography; the direction on a microscale is good as the interpersonal scenes is really where you see the relationships between the characters and the internal struggles they go through; the direction of actors is pretty bad as the individual performances do not feel that strong, but as a cast the movie is pretty good as there is strong chemistry; the storytelling is incredibly convoluted as they intentionally make the conflict too mysterious and too far away that you do not know what these characters are fighting for; they do not do the best job at building tension as the thriller moments feel a bit forced"
   }
   acting {
     performance {
@@ -14,34 +14,33 @@ review {
         name: "Kristen Stewart"
       }
       rating: "Decent to Pretty Good"
-      comments: "from Kristen Stewart (She develops strong chemistry with O'Brian and shows her experience as a lead actress, but hits some noticeable limits in a good number of her scenes, especially towards the end)"
+      comments: "She develops strong chemistry with O\'Brian and shows her experience as a lead actress, but hits some noticeable limits in a good number of her scenes, especially towards the end"
     }
     performance {
       actor {
         name: "Katy O\'Brian"
       }
       rating: "Decent to Pretty Good"
-      comments: "from Katy O\'Brian (Has strong chemistry with Stewart and does a pretty good job at showing her roid-filled emotions, but her performance feels a bit one-sided outside of this)"
+      comments: "Has strong chemistry with Stewart and does a pretty good job at showing her roid-filled emotions, but her performance feels a bit one-sided outside of this"
     }
     performance {
       actor {
         name: "Dave Franco"
       }
       rating: "Decent"
-      comments: "from Dave Franco (Feels like he's just playing the same character he always plays)"
+      comments: "Feels like he\'s just playing the same character he always plays"
     }
     performance {
       actor {
         name: "Ed Harris"
       }
       rating: "Pretty Good"
-      comments: "from Ed Harris (Shows off his experience playing characters like this)"
+      comments: "Shows off his experience playing characters like this"
     }
     cast {
-      rating: "Decent"
-      comments: "from the rest of the cast (There is pretty strong chemistry within the cast, it's just individual performances feel siloed)"
+      comments: "There is pretty strong chemistry within the cast, it\'s just individual performances feel siloed"
     }
-    comments: "Decent to Pretty Good Acting"
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
@@ -51,7 +50,7 @@ review {
       name: "Weronika Tofilska"
     }
     rating: "Bad to Pretty Bad"
-    comments: "Story (The concept is really convoluted as they try to force too many things to where none of the plot points are presented well (obsession of the artist/body-building mixed with a grounded relationship mixed with murder mixed with a crime-drama); the plot is not that well developed as the movie does not really feel like its building to anything, more like the characters are just 'running away' from their issues; the final arc of this movie is so bad because it genuinely feels like it's AI-generated with what happens and how it is executed; flow between sequences is a bit disjoint as they try to do so much; character writing is pretty good as you get a sense of who these characters are (especially the two leads))"
+    comments: "The concept is really convoluted as they try to force too many things to where none of the plot points are presented well (obsession of the artist/body-building mixed with a grounded relationship mixed with murder mixed with a crime-drama); the plot is not that well developed as the movie does not really feel like its building to anything, more like the characters are just \'running away\' from their issues; the final arc of this movie is so bad because it genuinely feels like it\'s AI-generated with what happens and how it is executed; flow between sequences is a bit disjoint as they try to do so much; character writing is pretty good as you get a sense of who these characters are (especially the two leads)"
   }
   screenplay {
     writer {
@@ -61,42 +60,42 @@ review {
       name: "Weronika Tofilska"
     }
     rating: "Pretty Bad"
-    comments: "Screenplay (The dialogue is decent; the symbolism is kinda nonexistent (but also somewhere there); the foreshadowing is there but is kinda an issue because it leads to a very poorly executed ending)"
+    comments: "The dialogue is decent; the symbolism is kinda nonexistent (but also somewhere there); the foreshadowing is there but is kinda an issue because it leads to a very poorly executed ending"
   }
   score {
     composer {
       name: "Clint Mansell"
     }
     rating: "Pretty Good"
-    comments: "Score (Sprinkled well throughout and helps with establishing the tone)"
+    comments: "Sprinkled well throughout and helps with establishing the tone"
   }
   cinematography {
     cinematographer {
       name: "Ben Fordesman"
     }
     rating: "Good"
-    comments: "Cinematography (Enjoyed the montage shots where they narrowed the focus and showed the obsession of the artist)"
+    comments: "Enjoyed the montage shots where they narrowed the focus and showed the obsession of the artist"
   }
   editing {
     editor {
       name: "Mark Towns"
     }
     rating: "Good"
-    comments: "Editing (Enjoyed how they slowed the movie down in some of the montage shots to emphasize what the subjects were doing)"
+    comments: "Enjoyed how they slowed the movie down in some of the montage shots to emphasize what the subjects were doing"
   }
   sound {
     rating: "Bad"
-    comments: "Sound (Everything felt muffled and inaccurate)"
+    comments: "Everything felt muffled and inaccurate"
   }
   visual_effects {
     rating: "Pretty Bad"
-    comments: "Visual Effects (Everything felt tacky and out-of-place, especially towards the end)"
+    comments: "Everything felt tacky and out-of-place, especially towards the end"
   }
   pacing: "Pacing is a bit on the slower side (mainly cause the plot does not move)"
-  climax: "Climax is very poorly executed as the ending feels like it's AI-generated with what happens (and it did not help that they didn't do a good job of building this or closing out plot points)"
+  climax: "Climax is very poorly executed as the ending feels like it\'s AI-generated with what happens (and it did not help that they didn\'t do a good job of building this or closing out plot points)"
   tone: "Tone is a mix of different concepts (but does not do a good job in anything except the relationship they portray)"
   final_notes: ""
-  overall: "Overall, a movie that tries to do a lot in terms of concepts but only successfully shows the relationship/chemistry between the two leads because the plot is incredibly mismanaged and the ending just feels like it's AI-generated"
+  overall: "Overall, a movie that tries to do a lot in terms of concepts but only successfully shows the relationship/chemistry between the two leads because the plot is incredibly mismanaged and the ending just feels like it\'s AI-generated"
 }
 release_year: 2024
 review_date: "03/17/2024"

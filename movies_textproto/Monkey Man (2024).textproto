@@ -6,7 +6,7 @@ review {
       name: "Dev Patel"
     }
     rating: "Good to Very Good"
-    comments: "Direction (The direction on a macroscale is very raw and gritty to show this underbelly of India, yet the stunt choreography is very sharp and polished as it feels like all the action sequences are part of a  well-oiled machine; the direction on a microscale is great as the interpersonal scenes give you a sense of how the conflict affects the protagonist; the direction of actors is very good as all the performances feel elevated and true to Indian culture; the storytelling is very good as it uses Hanuman and Hinduism to serve as an allegory to lay the blueprint on, and the film uses the personal connection the protagonist has to his mother drive this story forward; the tension is built very well as the protagonist's emotional rage helps fuel the intensity of the fight scenes)"
+    comments: "The direction on a macroscale is very raw and gritty to show this underbelly of India, yet the stunt choreography is very sharp and polished as it feels like all the action sequences are part of a  well-oiled machine; the direction on a microscale is great as the interpersonal scenes give you a sense of how the conflict affects the protagonist; the direction of actors is very good as all the performances feel elevated and true to Indian culture; the storytelling is very good as it uses Hanuman and Hinduism to serve as an allegory to lay the blueprint on, and the film uses the personal connection the protagonist has to his mother drive this story forward; the tension is built very well as the protagonist\'s emotional rage helps fuel the intensity of the fight scenes"
   }
   acting {
     performance {
@@ -14,69 +14,68 @@ review {
         name: "Dev Patel"
       }
       rating: "Great"
-      comments: "from Dev Patel (A true leading man as he displays a wide range of emotions to convey all the feelings he has towards his mother and his past trauma, and he seamlessly transitions between these emotions; his action/stunts are very well executed and show how meticulous and technical he is in his craft)"
+      comments: "A true leading man as he displays a wide range of emotions to convey all the feelings he has towards his mother and his past trauma, and he seamlessly transitions between these emotions; his action/stunts are very well executed and show how meticulous and technical he is in his craft"
     }
     performance {
       actor {
         name: "Sharlto Copley"
       }
       rating: "Pretty Good"
-      comments: "from Sharlto Copley (Helps provide comedic relief and give a 'non-Indian' voice for the film)"
+      comments: "Helps provide comedic relief and give a \'non-Indian\' voice for the film"
     }
     performance {
       actor {
         name: "Pitobash"
       }
       rating: "Pretty Good"
-      comments: "from Pitobash (Feels like a comedic Bollywood/Tollywood side-kick character and develops good chemistry with Dev Patel)"
+      comments: "Feels like a comedic Bollywood/Tollywood side-kick character and develops good chemistry with Dev Patel"
     }
     performance {
       actor {
         name: "Sobhita Dhulipala"
       }
       rating: "Pretty Good"
-      comments: "from Sobhita Dhulipala (Develops good chemistry with Dev Patel and plays his character's role well in providing insight in working with the corrupted, elite world)"
+      comments: "Develops good chemistry with Dev Patel and plays his character\'s role well in providing insight in working with the corrupted, elite world"
     }
     performance {
       actor {
         name: "Sikandar Kher"
       }
       rating: "Pretty Good"
-      comments: "from Sikandar Kher (Plays the stereotypical Indian villain well)"
+      comments: "Plays the stereotypical Indian villain well"
     }
     performance {
       actor {
         name: "Vipin Sharma"
       }
       rating: "Pretty Good to Good"
-      comments: "from Vipin Sharma (Develops good chemistry with Dev Patel and plays the oracle figure well as he helps show the protagonist his true potential)"
+      comments: "Develops good chemistry with Dev Patel and plays the oracle figure well as he helps show the protagonist his true potential"
     }
     performance {
       actor {
         name: "Ashwini Kalsekar"
       }
       rating: "Pretty Good"
-      comments: "from Ashwini Kalsekar (Feels like an authentic performance for an Indian of Elite status)"
+      comments: "Feels like an authentic performance for an Indian of Elite status"
     }
     performance {
       actor {
         name: "Makarand Deshpande"
       }
       rating: "Pretty Good"
-      comments: "from Makarand Deshpande (Plays his role well and does a good job at creating tension when working with the rest of the cast)"
+      comments: "Plays his role well and does a good job at creating tension when working with the rest of the cast"
     }
     cast {
-      rating: "Pretty Good"
-      comments: "from the rest of the cast (Everyone plays their role well because the whole cast feels like authentic Indian/Bollywood performances)"
+      comments: "Everyone plays their role well because the whole cast feels like authentic Indian/Bollywood performances"
     }
-    comments: "Good to Very Good Acting"
+    rating: "Good to Very Good"
   }
   story {
     writer {
       name: "Dev Patel"
     }
     rating: "Very Good to Great"
-    comments: "Story (The concept is great as the overarching story is an allegory to Hanuman and Hinduism, but in the end, the story really boils down to Mother-Son relationship; the plot structure is laid out very well as each element felt like the right length and all the scenes built on each other to lead the movie to the climax; the character writing is great as the protagonist is an allegory for Hanuman and he is written holistically to show how his past trauma fuels his revenge, and the character writing for the rest of the cast is good as they fill in roles that are very stereotypical to films in Indian Cinema)"
+    comments: "The concept is great as the overarching story is an allegory to Hanuman and Hinduism, but in the end, the story really boils down to Mother-Son relationship; the plot structure is laid out very well as each element felt like the right length and all the scenes built on each other to lead the movie to the climax; the character writing is great as the protagonist is an allegory for Hanuman and he is written holistically to show how his past trauma fuels his revenge, and the character writing for the rest of the cast is good as they fill in roles that are very stereotypical to films in Indian Cinema"
   }
   screenplay {
     writer {
@@ -89,21 +88,25 @@ review {
       name: "John Collee"
     }
     rating: "Very Good to Great"
-    comments: "Screenplay (The dialogue is very authentic to Indian Cinema and is very engaging; the symbolism is incredibly profound as the movie on a macro-scale is an allegory for Hanuman, but on a microscale, the movie is really about a Mother-Son relationship and getting through trauma; the movie is surprisingly political as a good amount of the themes they bring up are anti-Indian Nationalist; the foreshadowing is great as it helps provide intrigue into the protagonist's past and his destiny, and these questions are answers very well as the movie transitions to its second act)"
+    comments: "The dialogue is very authentic to Indian Cinema and is very engaging; the symbolism is incredibly profound as the movie on a macro-scale is an allegory for Hanuman, but on a microscale, the movie is really about a Mother-Son relationship and getting through trauma; the movie is surprisingly political as a good amount of the themes they bring up are anti-Indian Nationalist; the foreshadowing is great as it helps provide intrigue into the protagonist\'s past and his destiny, and these questions are answers very well as the movie transitions to its second act"
   }
   score {
     composer {
       name: "Jed Kurzel"
     }
     rating: "Decent"
-    comments: "Score (Uses its themes well to help establish the mood, but was not used uniformly well); Decent Soundtrack(Some of the songs were used very well, but there were some songs that did not feel like they fit the tone)"
+    comments: "Uses its themes well to help establish the mood, but was not used uniformly well"
+  }
+  soundtrack {
+    rating: "Decent"
+    comments: "Some of the songs were used very well, but there were some songs that did not feel like they fit the tone"
   }
   cinematography {
     cinematographer {
       name: "Sharone Meir"
     }
     rating: "Pretty Bad"
-    comments: "Cinematography (The cinematography isn't necessarily bad, it is just very raw; there were many shots that I enjoyed and I felt like they used lighting very well to help establish the mood and emotions of the scene (giving a 'Blade Runner' esque feel at points), but it just felt like a lot of the shots felt very raw and took away from what was going on on-screen as it made it feel way more chaotic than intended)"
+    comments: "The cinematography isn\'t necessarily bad, it is just very raw; there were many shots that I enjoyed and I felt like they used lighting very well to help establish the mood and emotions of the scene (giving a \'Blade Runner\' esque feel at points), but it just felt like a lot of the shots felt very raw and took away from what was going on on-screen as it made it feel way more chaotic than intended"
   }
   editing {
     editor {
@@ -113,27 +116,27 @@ review {
       name: "Tim Murrell"
     }
     rating: "Bad"
-    comments: "Editing (Like the cinematography, the editing was not necessarily bad, it was just very raw, but unlike the cinematography, there are no redeeming factors about the editing because it made the movie way more choppy than it needed to be)"
+    comments: "Like the cinematography, the editing was not necessarily bad, it was just very raw, but unlike the cinematography, there are no redeeming factors about the editing because it made the movie way more choppy than it needed to be"
   }
   sound {
     rating: "Good"
-    comments: "Sound (Felt somewhat of an homage to both Indian Cinema and Martial Arts movies)"
+    comments: "Felt somewhat of an homage to both Indian Cinema and Martial Arts movies"
   }
   visual_effects {
     rating: "Good"
-    comments: "Visual Effects (Good use of practical effects, helped make the fight scenes feel more detailed and gory)"
+    comments: "Good use of practical effects, helped make the fight scenes feel more detailed and gory"
   }
   production_design {
     rating: "Great"
-    comments: "Production Design (Really brought to life India as it showed its urban sprawl, its beautiful jungles, and detailed temples)"
+    comments: "Really brought to life India as it showed its urban sprawl, its beautiful jungles, and detailed temples"
   }
   makeup {
     rating: "Good"
-    comments: "Makeup (Helped show the grit and grime of India, and the blood helped make the action sequences feel more realistic)"
+    comments: "Helped show the grit and grime of India, and the blood helped make the action sequences feel more realistic"
   }
   costumes {
     rating: "Good"
-    comments: "Costumes (Helped make the movie more authentically Indian)"
+    comments: "Helped make the movie more authentically Indian"
   }
   pacing: "Pacing is very good as the movie feels like it is the right pace; the runtime is the right length as there was nothing that could have been cut or added"
   climax: "Climax is executed very well as the stunt choreography goes above and beyond and the action sequences feel so grand, yet raw"

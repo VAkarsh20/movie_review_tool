@@ -6,32 +6,31 @@ review {
       name: "Anu Valia"
     }
     rating: "Bad"
-    comments: "Direction (The direction is very amateur on all levels as the movie really feels like a drag because nothing really happens and is boring)"
+    comments: "The direction is very amateur on all levels as the movie really feels like a drag because nothing really happens and is boring"
   }
   acting {
     cast {
-      rating: "Decent"
-      comments: "from the cast (Just amateur indie acting)"
+      comments: "Just amateur indie acting"
     }
-    comments: "Decent Acting"
+    rating: "Decent"
   }
   story {
     writer {
       name: "Anu Valia"
     }
     rating: "Very Bad to Bad"
-    comments: "Story (The concept is pretty boring as there really isn’t anything going on, yet they try to show racial conflict/bias; the plot structure is pretty nonexistent as nothing really feels like it’s moving the story forward; character writing is very bad as you don’t care for any of the characters nor understand what they’re going through)"
+    comments: "The concept is pretty boring as there really isn\342\200\231t anything going on, yet they try to show racial conflict/bias; the plot structure is pretty nonexistent as nothing really feels like it\342\200\231s moving the story forward; character writing is very bad as you don\342\200\231t care for any of the characters nor understand what they\342\200\231re going through"
   }
   screenplay {
     writer {
       name: "Anu Valia"
     }
     rating: "Very Bad to Bad"
-    comments: "Screenplay (The dialogue is very bland and overt; the humor is pretty shallow; the symbolism is very overt and forced)"
+    comments: "The dialogue is very bland and overt; the humor is pretty shallow; the symbolism is very overt and forced"
   }
   pacing: "Pacing is very slow and it does not feel like the plot is moving (which is a lot given this already had a very short runtime)"
   climax: "Climax is very boring as nothing happens"
-  tone: "Tone is kinda a mess as the movie really doesn’t know what it wants to be (has some horror, some comedy, and some drama about social commentary, but does none of them well)"
+  tone: "Tone is kinda a mess as the movie really doesn\342\200\231t know what it wants to be (has some horror, some comedy, and some drama about social commentary, but does none of them well)"
   final_notes: "The technicals and aesthetic components feel very amateur and bland"
   overall: "Overall, a very boring movie that tries to do so many things and talk about so many topics, especially class and race, but does so in such a shallow and forced way that it makes no impact"
 }

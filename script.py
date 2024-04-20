@@ -755,9 +755,11 @@ def read_old_format(filename):
             return text_format.Parse(text_proto, movie_pb2.MovieFree())
         else: 
             try:
-                return text_format.Parse(text_proto, movie_pb2.MovieOldFormat())
+                # return text_format.Parse(text_proto, movie_pb2.MovieOldFormat())
+                return text_format.Parse(text_proto, movie_pb2.Movie())
             except:
                 raise ValueError ("{} is the new format, skipping".format(filename))
+                
 
 def convert_direction(old_field, filename):
     field_name_error_check("Direction", old_field.comments, filename)
@@ -959,23 +961,90 @@ if __name__=="__main__":
 
     argc = len(sys.argv)
 
-    files = [x for x in os.listdir('movies_textproto/') if x.startswith("Z")]
+    # files = [x for x in os.listdir('movies_textproto/') if x.startswith("Z")]
+
+    df = pd.read_csv("movies.csv", usecols = ["Title", "Release Year"])[439:]
+
+    files = ["{} ({})".format(str(row["Title"]), int(row["Release Year"])) for index, row in df.iterrows()]
 
     for filename in files:
-        if filename == "reduxed":
+        if filename == "Godzilla x Kong: The New Empire (2024)":
             continue
+
+        print(filename)
         
-        try:
-            original = read_old_format(filename.removesuffix(".textproto"))
-        except ValueError as e:
-            print(e)
-            continue
+        original = read_old_format(filename)
 
-        if isinstance(original, movie_pb2.MovieOldFormat):
-            proto = convert_old_format_to_new(original, filename)
+        if isinstance(original, movie_pb2.Movie):
+            # proto = convert_old_format_to_new(original, filename)
 
-            with open('movies_textproto/' + filename, "w") as fd:
-                text_proto = text_format.MessageToString(proto)
+
+            if original.review.direction.comments != "":
+                comments = clean_comments(original.review.direction.comments, filename)
+                original.review.direction.comments = comments[0] + comments[1:]
+
+            if original.review.acting != "":
+                rating = original.review.acting.rating.split("Acting")[0].strip()
+                new_acting = movie_pb2.Movie.Review.Acting(rating = rating)
+                # original.review.acting.rating = rating
+
+                if original.review.acting.cast.comments != "":
+                    comments = clean_comments(original.review.acting.cast.comments, filename)
+                    new_acting.cast.comments = comments[0] + comments[1:]
+
+                
+                for performance in original.review.acting.performance:
+                    performance_comments = clean_comments(performance.comments, filename)
+                    performance = movie_pb2.Movie.Review.Acting.Performance(
+                        actor = performance.actor,
+                        rating = performance.rating,
+                        comments = performance_comments[0] + performance_comments[1:] if performance_comments != "" else "")
+                    
+                    new_acting.performance.append(performance)
+                original.review.acting.CopyFrom(new_acting)
+            
+            if original.review.story.comments != "":
+                comments = clean_comments(original.review.story.comments, filename)
+                original.review.story.comments = comments[0] + comments[1:]
+            
+            if original.review.screenplay.comments != "":
+                comments = clean_comments(original.review.screenplay.comments, filename)
+                original.review.screenplay.comments = comments[0] + comments[1:]
+            
+            if original.review.score.comments != "":
+                comments = clean_comments(original.review.score.comments, filename)
+                original.review.score.comments = comments[0] + comments[1:]
+
+            if original.review.cinematography.comments != "":
+                comments = clean_comments(original.review.cinematography.comments, filename)
+                original.review.cinematography.comments = comments[0] + comments[1:]
+            
+            if original.review.editing.comments != "":
+                comments = clean_comments(original.review.editing.comments, filename)
+                original.review.editing.comments = comments[0] + comments[1:]
+            
+            if original.review.sound.comments != "":
+                comments = clean_comments(original.review.sound.comments, filename)
+                original.review.sound.comments = comments[0] + comments[1:]
+            
+            if original.review.visual_effects.comments != "":
+                comments = clean_comments(original.review.visual_effects.comments, filename)
+                original.review.visual_effects.comments = comments[0] + comments[1:]
+            
+            if original.review.production_design.comments != "":
+                comments = clean_comments(original.review.production_design.comments, filename)
+                original.review.production_design.comments = comments[0] + comments[1:]
+        
+            if original.review.makeup.comments != "":
+                comments = clean_comments(original.review.makeup.comments, filename)
+                original.review.makeup.comments = comments[0] + comments[1:]
+        
+            if original.review.costumes.comments != "":
+                comments = clean_comments(original.review.costumes.comments, filename)
+                original.review.costumes.comments = comments[0] + comments[1:]
+        
+            with open('movies_textproto/' + filename + ".textproto", "w") as fd:
+                text_proto = text_format.MessageToString(original)
                 fd.write(text_proto)
         
 

@@ -6,7 +6,7 @@ review {
       name: "Bernardo Britto"
     }
     rating: "Very Bad"
-    comments: "Direction (The direction on a macro and microscale is very boring as it feels like such a drag to get through with its monotonous performances and uninteresting story; the storytelling is very generic and unfocused)"
+    comments: "The direction on a macro and microscale is very boring as it feels like such a drag to get through with its monotonous performances and uninteresting story; the storytelling is very generic and unfocused"
   }
   acting {
     performance {
@@ -14,48 +14,46 @@ review {
         name: "Mary-Louise Parker"
       }
       rating: "Bad"
-      comments: "from Mary-Louise Parker (Such a monotonous performance that really does not feel that invested at all (so much that you don't understand or care for her struggle))"
+      comments: "Such a monotonous performance that really does not feel that invested at all (so much that you don\'t understand or care for her struggle)"
     }
     performance {
       actor {
         name: "Ayo Edebiri"
       }
       rating: "Pretty Bad"
-      comments: "from Ayo Edebiri (Feels very toned down and effortless (even though she is trying to play a similar character to her real-life persona))"
+      comments: "Feels very toned down and effortless (even though she is trying to play a similar character to her real-life persona)"
     }
     cast {
-      rating: "Pretty Bad"
-      comments: "from the rest of the cast (Everyone just feels like they are there because they don't really provide anything meaningful in their performances)"
+      comments: "Everyone just feels like they are there because they don\'t really provide anything meaningful in their performances"
     }
-    comments: "Bad to Pretty Bad Acting"
+    rating: "Bad to Pretty Bad"
   }
   story {
     writer {
       name: "Bernardo Britto"
     }
     rating: "Very Bad"
-    comments: "Story (The concept is very boring as it is an idea that has been done so many times (and a lot better in other movies like 'Groundhog Day'); the plot structure is very formulaic; the character writing is very bland as the subjects are given no personality and you don't care for their struggles)"
+    comments: "The concept is very boring as it is an idea that has been done so many times (and a lot better in other movies like \'Groundhog Day\'); the plot structure is very formulaic; the character writing is very bland as the subjects are given no personality and you don\'t care for their struggles"
   }
   screenplay {
     writer {
       name: "Bernardo Britto"
     }
     rating: "Bad"
-    comments: "Screenplay (The dialogue is so boring and unnatural that it makes the movie feel so boring; the humor is attempted a lot (and hits maybe 1 out of 5 times); the symbolism is forced as the whole movie is a symbol for letting go and being at peace with your actions; the foreshadowing is pretty prevalent (as this genre of movie really depends on it))"
+    comments: "The dialogue is so boring and unnatural that it makes the movie feel so boring; the humor is attempted a lot (and hits maybe 1 out of 5 times); the symbolism is forced as the whole movie is a symbol for letting go and being at peace with your actions; the foreshadowing is pretty prevalent (as this genre of movie really depends on it)"
   }
   score {
     composer {
       name: "Kaitlyn Aurelia Smith"
     }
     rating: "Decent"
-    comments: "Score (Sprinkled throughout and has some good sci-fi tones)"
+    comments: "Sprinkled throughout and has some good sci-fi tones"
   }
   cinematography {
     cinematographer {
       name: "Ava Benjamin Shorr"
     }
     rating: "Decent"
-    comments: "Cinematography"
   }
   editing {
     editor {
@@ -65,13 +63,13 @@ review {
       name: "Martin Anderson"
     }
     rating: "Decent"
-    comments: "Editing (Has some good cuts but tries to jump in a lot at points)"
+    comments: "Has some good cuts but tries to jump in a lot at points"
   }
   visual_effects {
     rating: "Pretty Bad"
-    comments: "Visual Effects (Tacky and unnecessary at points)"
+    comments: "Tacky and unnecessary at points"
   }
-  pacing: "Pacing is incredibly slow as the movie is such a drag to get through (they could've cut 30 minutes and the movie would've been the same)"
+  pacing: "Pacing is incredibly slow as the movie is such a drag to get through (they could\'ve cut 30 minutes and the movie would\'ve been the same)"
   climax: "Climax is incredibly anticlimactic as it feels like it leads to nowhere"
   tone: "Tone is sci-fi heavy (but does not do a good job at making this movie feel like a Sci-Fi movie)"
   final_notes: "Saw the World Premiere at SXSW"

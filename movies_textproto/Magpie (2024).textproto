@@ -6,7 +6,7 @@ review {
       name: "Sam Yates"
     }
     rating: "Pretty Good"
-    comments: "Direction (The direction on a macroscale is good as he does a good job in laying out the conflict and planting the horror/thriller roots throughout the movie; the direction on a microscale is pretty good to good as the interpersonal scenes are where you really see the family dynamic and the relationships between the characters; the storytelling is good as you're really interested in what will happen next as they slowly unravel the conflict; the tension is built well as it keeps the audience engaged (especially towards the climax))"
+    comments: "The direction on a macroscale is good as he does a good job in laying out the conflict and planting the horror/thriller roots throughout the movie; the direction on a microscale is pretty good to good as the interpersonal scenes are where you really see the family dynamic and the relationships between the characters; the storytelling is good as you\'re really interested in what will happen next as they slowly unravel the conflict; the tension is built well as it keeps the audience engaged (especially towards the climax)"
   }
   acting {
     performance {
@@ -14,66 +14,64 @@ review {
         name: "Daisy Ridley"
       }
       rating: "Good"
-      comments: "from Daisy Ridley (Really shows a full range of emotions and a lot of charisma in the lead role)"
+      comments: "Really shows a full range of emotions and a lot of charisma in the lead role"
     }
     performance {
       actor {
         name: "Shazad Latif"
       }
       rating: "Pretty Good"
-      comments: "from Shazad Latif (Plays well off of Ridley, but is a little too overt as the villain (still pretty good though))"
+      comments: "Plays well off of Ridley, but is a little too overt as the villain (still pretty good though)"
     }
     performance {
       actor {
         name: "Matilda Lutz"
       }
       rating: "Decent"
-      comments: "from Matilda Lutz (Shows some separation from the main two but holds her own enough)"
+      comments: "Shows some separation from the main two but holds her own enough"
     }
     cast {
-      rating: "Decent to Pretty Good"
-      comments: "from the rest of the cast (everyone plays their role well, but it’s really about the main three characters)"
+      comments: "everyone plays their role well, but it\342\200\231s really about the main three characters"
     }
-    comments: "Pretty Good Acting"
+    rating: "Pretty Good"
   }
   story {
     writer {
       name: "Daisy Ridley"
     }
     rating: "Pretty Good to Good"
-    comments: "Story (The concept is pretty interesting as it ties horror concepts around family dynamics and relationships; the plot structure is laid out well; the flow between sequences is good; the character writing is pretty good as you really get a sense of who Daisy Ridley’s character is, but the rest are a bit overt)"
+    comments: "The concept is pretty interesting as it ties horror concepts around family dynamics and relationships; the plot structure is laid out well; the flow between sequences is good; the character writing is pretty good as you really get a sense of who Daisy Ridley\342\200\231s character is, but the rest are a bit overt"
   }
   screenplay {
     writer {
       name: "Tom Bateman"
     }
     rating: "Pretty Good"
-    comments: "Screenplay (The dialogue is pretty good (some amateur lines); the symbolism is decently prevalent as the movie is centered around the family dynamic while also tackling mental illness; the foreshadowing is very good as it’s a key element in telling the story)"
+    comments: "The dialogue is pretty good (some amateur lines); the symbolism is decently prevalent as the movie is centered around the family dynamic while also tackling mental illness; the foreshadowing is very good as it\342\200\231s a key element in telling the story"
   }
   score {
     composer {
       name: "Isobel Waller-Bridge"
     }
     rating: "Pretty Good"
-    comments: "Score (Helped with establishing the tone)"
+    comments: "Helped with establishing the tone"
   }
   cinematography {
     cinematographer {
       name: "Laura Bellingham"
     }
     rating: "Pretty Good"
-    comments: "Cinematography (A lot of well-executed shots to create tension and build the seclusion of the world (especially when dealing with reflection))"
+    comments: "A lot of well-executed shots to create tension and build the seclusion of the world (especially when dealing with reflection)"
   }
   editing {
     editor {
       name: "Christopher Watson"
     }
     rating: "Decent"
-    comments: "Editing"
   }
   sound {
     rating: "Pretty Good"
-    comments: "Sound (Helped with establishing tension)"
+    comments: "Helped with establishing tension"
   }
   pacing: "Pacing is good as the movie felt like the right pace"
   climax: "Climax is well executed as they display what they were trying to build for the entire movie"

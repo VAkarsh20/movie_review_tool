@@ -6,7 +6,7 @@ review {
       name: "Sean Wang"
     }
     rating: "Very Good"
-    comments: "Direction (The direction on a macroscale is very good as they set the area and time-period very well (2000s, Bay Area); the direction on a microscale is great as you see how the characters' emotions and relationships change in the interpersonal scenes, and this might be one of the most accurate portrayals of Asian American adolescence I have seen; the direction of actors is very good as it feels like everyone's performance is elevated; the storytelling is very good as it tells a coming-of-age story through both the Asian-American lens and the lens from someone who grew up in the 2000s)"
+    comments: "The direction on a macroscale is very good as they set the area and time-period very well (2000s, Bay Area); the direction on a microscale is great as you see how the characters\' emotions and relationships change in the interpersonal scenes, and this might be one of the most accurate portrayals of Asian American adolescence I have seen; the direction of actors is very good as it feels like everyone\'s performance is elevated; the storytelling is very good as it tells a coming-of-age story through both the Asian-American lens and the lens from someone who grew up in the 2000s"
   }
   acting {
     performance {
@@ -14,65 +14,64 @@ review {
         name: "Izaac Wang"
       }
       rating: "Good to Very Good"
-      comments: "from Izaac Wang (Shows a wide range of emotions as you can see how he changes his personality to fit in, all while being incredibly anxious/feeling lost)"
+      comments: "Shows a wide range of emotions as you can see how he changes his personality to fit in, all while being incredibly anxious/feeling lost"
     }
     performance {
       actor {
         name: "Joan Chen"
       }
       rating: "Very Good to Great"
-      comments: "from Joan Chen (Delivers a very powerful performance as the matriarch in the family as she tries her best to hold the family together while also trying to pursue her own passions; her final monologue is truly Oscar worthy as it comes second to Ellen Burstyn's Red Dress monologue in how emotional and well executed it is)"
+      comments: "Delivers a very powerful performance as the matriarch in the family as she tries her best to hold the family together while also trying to pursue her own passions; her final monologue is truly Oscar worthy as it comes second to Ellen Burstyn\'s Red Dress monologue in how emotional and well executed it is"
     }
     cast {
-      rating: "Good"
-      comments: "from the rest of the cast (Really emulates the time-period and adolescence)"
+      comments: "Really emulates the time-period and adolescence"
     }
-    comments: "Good to Very Good Acting"
+    rating: "Good to Very Good"
   }
   story {
     writer {
       name: "Sean Wang"
     }
     rating: "Good to Very Good"
-    comments: "Story (The concept is simple and self-explanatory as it is an Asian-American, coming-of-age story set in 2000s Fremont; the plot structure is pretty simple (short and to the point); flow between sequences is very good; the character writing is great as you really get a grasp of what each character in the family is going through (especially the protagonist and the mother))"
+    comments: "The concept is simple and self-explanatory as it is an Asian-American, coming-of-age story set in 2000s Fremont; the plot structure is pretty simple (short and to the point); flow between sequences is very good; the character writing is great as you really get a grasp of what each character in the family is going through (especially the protagonist and the mother)"
   }
   screenplay {
     writer {
       name: "Sean Wang"
     }
     rating: "Great"
-    comments: "Screenplay (The dialogue is great as it mimics the time-period/location/age of the characters; the Cantonese dialogue is used very well as it helps show the identity of the family and show this dichotomy of being an Asian American in that time-period; the emotional dialogue is very powerful as it invokes a lot of strong emotions in both the cast and the audience; the humor is very true to the time and well written; the symbolism is very powerful as it realistically shows Asian-American Identity and adolescence; the foreshadowing is pretty standard for a coming-of-age story)"
+    comments: "The dialogue is great as it mimics the time-period/location/age of the characters; the Cantonese dialogue is used very well as it helps show the identity of the family and show this dichotomy of being an Asian American in that time-period; the emotional dialogue is very powerful as it invokes a lot of strong emotions in both the cast and the audience; the humor is very true to the time and well written; the symbolism is very powerful as it realistically shows Asian-American Identity and adolescence; the foreshadowing is pretty standard for a coming-of-age story"
   }
   score {
     composer {
       name: "Giosu\303\250 Greco"
     }
     rating: "Pretty Good to Good"
-    comments: "Score (Helps with establishing the tone, especially in the more depressing scenes)"
+    comments: "Helps with establishing the tone, especially in the more depressing scenes"
   }
   cinematography {
     cinematographer {
       name: "Sam A. Davis"
     }
     rating: "Good"
-    comments: "Cinematography (Enjoyed the how they interweaved 2000s camcorder shots in with the standard shots, and I felt the more large scale shots did a good job at showing the emotions of the characters (especially the protagonist))"
+    comments: "Enjoyed the how they interweaved 2000s camcorder shots in with the standard shots, and I felt the more large scale shots did a good job at showing the emotions of the characters (especially the protagonist)"
   }
   editing {
     editor {
       name: "Arielle Zakowski"
     }
     rating: "Very Good"
-    comments: "Editing (Feels very polished and interjects the message/social-media scenes very well)"
+    comments: "Feels very polished and interjects the message/social-media scenes very well"
   }
   visual_effects {
     rating: "Pretty Bad"
-    comments: "Visual Effects (Feels pretty tacky and out of place)"
+    comments: "Feels pretty tacky and out of place"
   }
   production_design {
     rating: "Good"
-    comments: "Production Design (Did a good job in emulating 2000s Fremont, CA)"
+    comments: "Did a good job in emulating 2000s Fremont, CA"
   }
-  pacing: "Pacing is pretty fast as it tries to go through a decent amount in its short runtime (but there really could not have been any more runtime that could've been added)"
+  pacing: "Pacing is pretty fast as it tries to go through a decent amount in its short runtime (but there really could not have been any more runtime that could\'ve been added)"
   climax: "Climax is executed very well as it is the epiphany/lowest for the protagonist and displays an incredible monologue from the mother (showing her identity in relation to her family and personal ambitions)"
   tone: "Tone feels like a coming-of-age movie set in 2000s Bay Area (and executes this very well)"
   final_notes: "Saw the Texas Premiere at SXSW"

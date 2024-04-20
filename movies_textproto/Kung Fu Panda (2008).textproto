@@ -9,7 +9,7 @@ review {
       name: "Mark Osborne"
     }
     rating: "Good to Very Good"
-    comments: "Direction (The direction on a macroscale is very good as they take a simple plot and make the most out of it with its visuals and fighting scenes; the direction on a microscale is very good as this is where a lot of the playful comedy comes out and where Po learns the themes and messages of the movie; the direction of actors is good as a lot of the performances feel elevated as many of the actors tailored their personalities to their characters; the storytelling is pretty formulaic for a children's movie, but it does do a good job in providing some unique, quirky behavior that gives Kung Fu Panda its charm)"
+    comments: "The direction on a macroscale is very good as they take a simple plot and make the most out of it with its visuals and fighting scenes; the direction on a microscale is very good as this is where a lot of the playful comedy comes out and where Po learns the themes and messages of the movie; the direction of actors is good as a lot of the performances feel elevated as many of the actors tailored their personalities to their characters; the storytelling is pretty formulaic for a children\'s movie, but it does do a good job in providing some unique, quirky behavior that gives Kung Fu Panda its charm"
   }
   acting {
     performance {
@@ -17,41 +17,40 @@ review {
         name: "Jack Black"
       }
       rating: "Great"
-      comments: "from Jack Black (It feels like they wrote this character for Jack Black as he uses his personality and charm to create Po)"
+      comments: "It feels like they wrote this character for Jack Black as he uses his personality and charm to create Po"
     }
     performance {
       actor {
         name: "Dustin Hoffman"
       }
       rating: "Very Good"
-      comments: "from Dustin Hoffman (Uses his experience as an actor to show a wide range of emotions, and this plays an important part in Shifu shifting his tone towards Po; Has a good relationship with Jack Black)"
+      comments: "Uses his experience as an actor to show a wide range of emotions, and this plays an important part in Shifu shifting his tone towards Po; Has a good relationship with Jack Black"
     }
     performance {
       actor {
         name: "Ian McShane"
       }
       rating: "Pretty Good"
-      comments: "from Ian McShane (Plays the antagonist well)"
+      comments: "Plays the antagonist well"
     }
     performance {
       actor {
         name: "James Hong"
       }
       rating: "Very Good"
-      comments: "from James Hong (Gave the character a lot of life and helped show the father-son dynamic between Mr.Ping and Po, and it also felt like the character was written for him)"
+      comments: "Gave the character a lot of life and helped show the father-son dynamic between Mr.Ping and Po, and it also felt like the character was written for him"
     }
     performance {
       actor {
         name: "Angelina Jolie"
       }
       rating: "Pretty Good"
-      comments: "from Angelina Jolie (Given the biggest role out of the Furious Five, and does well in her scenes by being somewhat distant to Po)"
+      comments: "Given the biggest role out of the Furious Five, and does well in her scenes by being somewhat distant to Po"
     }
     cast {
-      rating: "Decent to Pretty Good"
-      comments: "from the rest of the cast (Everyone plays their role well, but it just feels like a lot of their talent is underutilized (especially the remaining members of the Furious Five))"
+      comments: "Everyone plays their role well, but it just feels like a lot of their talent is underutilized (especially the remaining members of the Furious Five)"
     }
-    comments: "Pretty Good to Good Acting"
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
@@ -61,7 +60,7 @@ review {
       name: "Cyrus Voris"
     }
     rating: "Good to Very Good"
-    comments: "Story (The concept is very good as it simplifies the hero's journey/chosen one trope to a level children can understand and does a good job at incorporating ancient Chinese culture/wuxia into the subject; the plot structure is laid out well as it does not try to overcomplicate the story (has one simple conflict and uses its short runtime to resolve this); flow between sequences is good as the film does not waste any time with its short runtime (each scene feels necessary and there really could not have been any more time added); character writing is very good for a kids movie as the film does a good job at portraying Po as a multifaceted character that needs to believe in himself to reach his full potential, and the film does a good job at showing how the other characters change their attitude towards Po's journey during the movie)"
+    comments: "The concept is very good as it simplifies the hero\'s journey/chosen one trope to a level children can understand and does a good job at incorporating ancient Chinese culture/wuxia into the subject; the plot structure is laid out well as it does not try to overcomplicate the story (has one simple conflict and uses its short runtime to resolve this); flow between sequences is good as the film does not waste any time with its short runtime (each scene feels necessary and there really could not have been any more time added); character writing is very good for a kids movie as the film does a good job at portraying Po as a multifaceted character that needs to believe in himself to reach his full potential, and the film does a good job at showing how the other characters change their attitude towards Po\'s journey during the movie"
   }
   screenplay {
     writer {
@@ -71,7 +70,7 @@ review {
       name: "Glenn Berger"
     }
     rating: "Good to Very Good"
-    comments: "Screenplay (The dialogue is written for children to enjoy more than adults, but does a good job in trying to push this limit; the humor is pretty quirky and mostly suited for children, but is still pretty good; the symbolism is really prevalent as there are many themes and messages that echo in mature movies about the hero's journey and self-belief; the foreshadowing is pretty standard for a children's and hero's journey movie)"
+    comments: "The dialogue is written for children to enjoy more than adults, but does a good job in trying to push this limit; the humor is pretty quirky and mostly suited for children, but is still pretty good; the symbolism is really prevalent as there are many themes and messages that echo in mature movies about the hero\'s journey and self-belief; the foreshadowing is pretty standard for a children\'s and hero\'s journey movie"
   }
   score {
     composer {
@@ -81,28 +80,27 @@ review {
       name: "John Powell"
     }
     rating: "Very Good"
-    comments: "Score (Used well throughout the movie and does a good job in incorporating ancient Chinese themes)"
+    comments: "Used well throughout the movie and does a good job in incorporating ancient Chinese themes"
   }
   editing {
     editor {
       name: "Clare Knight"
     }
     rating: "Good to Very Good "
-    comments: "Editing (Really shines in the scenes where they mix animation styles as well as the fighting scenes; a good amount of the cuts felt seamless)"
+    comments: "Really shines in the scenes where they mix animation styles as well as the fighting scenes; a good amount of the cuts felt seamless"
   }
   sound {
     rating: "Good"
-    comments: "Sound"
   }
-  visual_effects {
+  animation {
     rating: "Great"
-    comments: "Animation (Feels polished and groundbreaking for the time, and does a good job at capturing ancient China and large-scale battle sequences that are sprinkled with Kung-Fu)"
+    comments: "Feels polished and groundbreaking for the time, and does a good job at capturing ancient China and large-scale battle sequences that are sprinkled with Kung-Fu"
   }
   pacing: "Pacing is very good for its short runtime as every scene felt intended and the right length"
-  climax: "Climax is executed well as it shows off the film's great animation as well as the culmination of Po's journey"
-  tone: "Tone is pretty similar to other children's movies/Dreamworks films (but did have tones that echoed wuxia and ancient China)"
-  final_notes: "'Kung Fu Panda' is the perfect title for this movie (really flows off the tongue and like, yeah, he's the Kung Fu Panda)"
-  overall: "Overall, a very good children's movie as Jack Black's performance, the animation style, and the writing come together to make this film a must-watch for younger audiences"
+  climax: "Climax is executed well as it shows off the film\'s great animation as well as the culmination of Po\'s journey"
+  tone: "Tone is pretty similar to other children\'s movies/Dreamworks films (but did have tones that echoed wuxia and ancient China)"
+  final_notes: "\'Kung Fu Panda\' is the perfect title for this movie (really flows off the tongue and like, yeah, he\'s the Kung Fu Panda)"
+  overall: "Overall, a very good children\'s movie as Jack Black\'s performance, the animation style, and the writing come together to make this film a must-watch for younger audiences"
 }
 release_year: 2008
 review_date: "03/04/2024"

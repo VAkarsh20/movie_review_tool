@@ -6,7 +6,7 @@ review {
       name: "Greg Kwedar"
     }
     rating: "Very Good"
-    comments: "Direction (The direction on a macroscale is very good as they really set the scene and the weight the setting has on the characters, especially how they are secluded from the free world; the direction on a microscale is great as you see all the performances elevated in the interpersonal scenes since this is where you see the trauma these characters are facing as they fight for their humanity; the storytelling is good as he lets the actors play and be storytellers (using their personal experiences to shape their characters); he builds tension very well as the whole movie is about building an emotional connection with these characters, and you are invested in what happens with their fight for their freedom)"
+    comments: "The direction on a macroscale is very good as they really set the scene and the weight the setting has on the characters, especially how they are secluded from the free world; the direction on a microscale is great as you see all the performances elevated in the interpersonal scenes since this is where you see the trauma these characters are facing as they fight for their humanity; the storytelling is good as he lets the actors play and be storytellers (using their personal experiences to shape their characters); he builds tension very well as the whole movie is about building an emotional connection with these characters, and you are invested in what happens with their fight for their freedom"
   }
   acting {
     performance {
@@ -14,13 +14,12 @@ review {
         name: "Colman Domingo"
       }
       rating: "Great"
-      comments: "from Colman Domingo (A real commanding performance as he is the leader of the cast and brings out the best in everyone, showing a wide range of emotions to show how the characters are still human beings despite their mistakes)"
+      comments: "A real commanding performance as he is the leader of the cast and brings out the best in everyone, showing a wide range of emotions to show how the characters are still human beings despite their mistakes"
     }
     cast {
-      rating: "Good"
-      comments: "from the rest of the cast (The entire cast gives very grounded, multidimensional performances as they use their personal experiences in Sing Sing and RTA to create their characters and convey their messages/struggles)"
+      comments: "The entire cast gives very grounded, multidimensional performances as they use their personal experiences in Sing Sing and RTA to create their characters and convey their messages/struggles"
     }
-    comments: "Very Good Acting"
+    rating: "Very Good"
   }
   story {
     writer {
@@ -36,7 +35,7 @@ review {
       name: "John \"Divine G\" Whitfield"
     }
     rating: "Very Good"
-    comments: "Story (The concept is very unique as it is a semi-autobiographical take on finding a safe place in a traumatic environment, and the movie shows how the characters continue to fight for their freedom and humanity; the plot structure is laid out very well; flow between sequences is good; character writing is great as you care for these characters and their struggle, and by the end, you root for them to grow and earn their freedom)"
+    comments: "The concept is very unique as it is a semi-autobiographical take on finding a safe place in a traumatic environment, and the movie shows how the characters continue to fight for their freedom and humanity; the plot structure is laid out very well; flow between sequences is good; character writing is great as you care for these characters and their struggle, and by the end, you root for them to grow and earn their freedom"
   }
   screenplay {
     writer {
@@ -46,38 +45,38 @@ review {
       name: "Greg Kwedar"
     }
     rating: "Very Good"
-    comments: "Screenplay (The dialogue is good for the most part (even though it is a bit overt at times) and emulates how people in a maximum security penitentiary would talk, and the dialogue is filled with a lot of emotion at times that invokes feelings out of the audience; the humor is used well to help lighten the mood and show multiple dimensions of the characters; the symbolism is heavily prevalent as the movie is a huge metaphor about finding humanity in a place that tries to take it from you, and it deals a lot with how humans may be flawed people, but there is still good in those who try to redeem themselves for the better; the foreshadowing is decently prevalent)"
+    comments: "The dialogue is good for the most part (even though it is a bit overt at times) and emulates how people in a maximum security penitentiary would talk, and the dialogue is filled with a lot of emotion at times that invokes feelings out of the audience; the humor is used well to help lighten the mood and show multiple dimensions of the characters; the symbolism is heavily prevalent as the movie is a huge metaphor about finding humanity in a place that tries to take it from you, and it deals a lot with how humans may be flawed people, but there is still good in those who try to redeem themselves for the better; the foreshadowing is decently prevalent"
   }
   score {
     composer {
       name: "Bryce Dessner"
     }
     rating: "Good"
-    comments: "Score (Helps with establishing the mood)"
+    comments: "Helps with establishing the mood"
   }
   cinematography {
     cinematographer {
       name: "Pat Scola"
     }
     rating: "Good to Very Good"
-    comments: "Cinematography (Filled with a lot of beautiful shots and shows the large distance between the penitentiary and the free world)"
+    comments: "Filled with a lot of beautiful shots and shows the large distance between the penitentiary and the free world"
   }
   editing {
     editor {
       name: "Parker Laramie"
     }
     rating: "Good"
-    comments: "Editing (Used well in the context of the movie)"
+    comments: "Used well in the context of the movie"
   }
-   production_design {
+  production_design {
     rating: "Very Good"
-    comments: "Production Design (They send a strong message by filming the movie at Sing Sing (and this most likely helps the cast as they convey the trauma they felt from being there))"
+    comments: "They send a strong message by filming the movie at Sing Sing (and this most likely helps the cast as they convey the trauma they felt from being there)"
   }
   pacing: "Pacing is the right pace"
-  climax: "Climax is very emotional as it is a key point in many of the characters' lives as they fight for their freedom as well as their peace"
+  climax: "Climax is very emotional as it is a key point in many of the characters\' lives as they fight for their freedom as well as their peace"
   tone: "Tone is very emotional as the semi-biographical feel paints this drama as very grounded (but still has other flavors to holistically portray the characters)"
   final_notes: "It is very powerful that they had the cast filled with alumni from the program as it made the performances feel very realistic; saw the US premiere at SXSW"
-  overall: "Overall, a powerful movie that shows how inmates are still humans despite their mistakes as the movie uses alumni from Sing Sing's RTA program to deliver this strong message on redemption, all led by a great performance from Colman Domingo"
+  overall: "Overall, a powerful movie that shows how inmates are still humans despite their mistakes as the movie uses alumni from Sing Sing\'s RTA program to deliver this strong message on redemption, all led by a great performance from Colman Domingo"
 }
 release_year: 2023
 review_date: "03/09/2024"

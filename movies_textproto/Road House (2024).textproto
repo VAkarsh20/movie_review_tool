@@ -6,7 +6,7 @@ review {
       name: "Doug Liman"
     }
     rating: "Pretty Bad to Decent"
-    comments: "Direction (The direction on a macroscale is good because the action sequences are well choreographed and have a unique/over-the-top style that makes the movie entertaining, and the worldbuilding/scene-setting helps highlight the Florida Keys; the direction on a microscale is bad because a lot of the performances felt off/inexperienced, and the interpersonal scenes feel so forced and rigid, but he does do a good job in setting up the comedy in the movie; the storytelling is very formulaic and emulates action movies from the 80s (so basically Road House); he builds tension somewhat well, but it definitely feels forced for the most part)"
+    comments: "The direction on a macroscale is good because the action sequences are well choreographed and have a unique/over-the-top style that makes the movie entertaining, and the worldbuilding/scene-setting helps highlight the Florida Keys; the direction on a microscale is bad because a lot of the performances felt off/inexperienced, and the interpersonal scenes feel so forced and rigid, but he does do a good job in setting up the comedy in the movie; the storytelling is very formulaic and emulates action movies from the 80s (so basically Road House); he builds tension somewhat well, but it definitely feels forced for the most part"
   }
   acting {
     performance {
@@ -14,62 +14,61 @@ review {
         name: "Jake Gyllenhaal"
       }
       rating: "Pretty Good to Good"
-      comments: "from Jake Gyllenhaal (Has good comedic timing and is a good action star in the fighting sequences, but it feels like this performance is more propelled by his acting experience rather than the material)"
+      comments: "Has good comedic timing and is a good action star in the fighting sequences, but it feels like this performance is more propelled by his acting experience rather than the material"
     }
     performance {
       actor {
         name: "Daniela Melchior"
       }
       rating: "Bad"
-      comments: "from Daniela Melchior (A pretty Monotonous performance that does not play off of Gyllenhaal at all)"
+      comments: "A pretty Monotonous performance that does not play off of Gyllenhaal at all"
     }
     performance {
       actor {
         name: "Billy Magnussen"
       }
       rating: "Decent"
-      comments: "from Billy Magnussen (The character is really written for him because of his past roles (the rich arrogant prick))"
+      comments: "The character is really written for him because of his past roles (the rich arrogant prick)"
     }
     performance {
       actor {
         name: "Jessica Williams"
       }
       rating: "Decent to Pretty Good"
-      comments: "from Jessica Williams (Has good scenes with Gyllenhaal)"
+      comments: "Has good scenes with Gyllenhaal"
     }
     performance {
       actor {
         name: "Joaquim de Almeida"
       }
       rating: "Very Bad to Bad"
-      comments: "from Joaquim de Almeida (Has no emotion and feels very off compared to the rest of the cast)"
+      comments: "Has no emotion and feels very off compared to the rest of the cast"
     }
     performance {
       actor {
         name: "Austin Post"
       }
       rating: "Decent"
-      comments: "from Austin Post (He's in the movie for like 2 minutes)"
+      comments: "He\'s in the movie for like 2 minutes"
     }
     performance {
       actor {
         name: "Conor McGregor"
       }
       rating: "Very Bad to Bad"
-      comments: "from Conor McGregor (He just plays his persona, but his lack of acting experience shows as he misses a lot of his queues)"
+      comments: "He just plays his persona, but his lack of acting experience shows as he misses a lot of his queues"
     }
     performance {
       actor {
         name: "Arturo Castro"
       }
       rating: "Pretty Good"
-      comments: "from Arturo Castro (The comedic relief character as he does a good job with his meta interjections)"
+      comments: "The comedic relief character as he does a good job with his meta interjections"
     }
     cast {
-      rating: "Very Bad to Bad"
-      comments: "from the rest of the cast (Just a lot of inexperienced actors who do not develop chemistry in the cast or buttress Gyllenhaal; this does not include child actors)"
+      comments: "Just a lot of inexperienced actors who do not develop chemistry in the cast or buttress Gyllenhaal; this does not include child actors"
     }
-    comments: "Bad Acting"
+    rating: "Bad"
   }
   story {
     writer {
@@ -82,7 +81,7 @@ review {
       name: "David Lee Henry"
     }
     rating: "Pretty Bad to Decent"
-    comments: "Story (The concept is super simple as it uses the same action-movie template as its predecessor (but the movie is really more about the action/fighting sequences that it really doesn't matter that much); the plot structure is very formulaic to the 80s action movie template; character writing is good for the protagonist as they provide some depth to his character and his trauma, but the rest of the characters are just cookie-cutter shallow characters from action movies)"
+    comments: "The concept is super simple as it uses the same action-movie template as its predecessor (but the movie is really more about the action/fighting sequences that it really doesn\'t matter that much); the plot structure is very formulaic to the 80s action movie template; character writing is good for the protagonist as they provide some depth to his character and his trauma, but the rest of the characters are just cookie-cutter shallow characters from action movies"
   }
   screenplay {
     writer {
@@ -92,39 +91,39 @@ review {
       name: "Charles Mondry"
     }
     rating: "Pretty Bad"
-    comments: "Screenplay (The dialogue is just so forced and bad overall because it tries super hard to emulate the over-the-top 80s, but this ends up making the movie feel unnatural; the humor is pretty good as they make an effort to inject comedy whenever they can, and it hits probably 3 out of 5 times; the symbolism is surprisingly prevalent for the protagonist as the movie touches on themes about trauma and duty, but beside that its pretty shallow; the foreshadowing is only prevalent because the movie is very formulaic/predictable)"
+    comments: "The dialogue is just so forced and bad overall because it tries super hard to emulate the over-the-top 80s, but this ends up making the movie feel unnatural; the humor is pretty good as they make an effort to inject comedy whenever they can, and it hits probably 3 out of 5 times; the symbolism is surprisingly prevalent for the protagonist as the movie touches on themes about trauma and duty, but beside that its pretty shallow; the foreshadowing is only prevalent because the movie is very formulaic/predictable"
   }
   score {
     composer {
       name: "Christophe Beck"
     }
     rating: "Pretty Good"
-    comments: "Score (Along with the soundtrack, it helps establish that 80s Road House, action-movie feel)"
+    comments: "Along with the soundtrack, it helps establish that 80s Road House, action-movie feel"
   }
   cinematography {
     cinematographer {
       name: "Henry Braham"
     }
     rating: "Good to Very Good"
-    comments: "Cinematography (I really enjoyed how the action-scenes were filmed as the use of wide-angle, panning, and following shots really help give the fighting scenes a unique feeling)"
+    comments: "I really enjoyed how the action-scenes were filmed as the use of wide-angle, panning, and following shots really help give the fighting scenes a unique feeling"
   }
   editing {
     editor {
       name: "Doc Crotzer"
     }
     rating: "Good"
-    comments: "Editing (Really well executed in the action sequences to give it an over-the-top feel)"
+    comments: "Really well executed in the action sequences to give it an over-the-top feel"
   }
   sound {
     rating: "Good to Very Good"
-    comments: "Sound (Helped make the fighting sequences/punches feel very crisp)"
+    comments: "Helped make the fighting sequences/punches feel very crisp"
   }
   visual_effects {
     rating: "Good"
-    comments: "Visual Effects (Very over-the-top, but still well executed and enjoyable)"
+    comments: "Very over-the-top, but still well executed and enjoyable"
   }
   pacing: "Pacing is fine as the movie just follows a template"
-  climax: "Climax is decent as it's just over-the-top action on a massive scale (still very enjoyable)"
+  climax: "Climax is decent as it\'s just over-the-top action on a massive scale (still very enjoyable)"
   tone: "Tone is very over-the-top with its 80s action-style (but does a pretty good job at lightening the mood with humor)"
   final_notes: "Saw an encore screening at SXSW"
   overall: "Overall, a mindless action-remake that has an entertaining performance from Jake Gyllenhaal, well-choregraphed action sequences, and pretty good humor, but the movie is really held back by its formulaic story, bad over-the-top dialogue, and bad performances from some of the cast"

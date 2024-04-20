@@ -9,42 +9,41 @@ review {
       name: "David Zellner"
     }
     rating: "Decent to Pretty Good"
-    comments: "Direction (The direction on a macroscale is pretty good as they set the scenic shots well and show the beauty in secluded nature; the direction on a microscale is decent as they get a lot out of their actors through action-based acting (because there’s no dialogue); storytelling is very slice-of-life (making it feel somewhat like a documentary), but there are some moments where they try to move the story forward))"
+    comments: "The direction on a macroscale is pretty good as they set the scenic shots well and show the beauty in secluded nature; the direction on a microscale is decent as they get a lot out of their actors through action-based acting (because there\342\200\231s no dialogue); storytelling is very slice-of-life (making it feel somewhat like a documentary), but there are some moments where they try to move the story forward"
   }
   acting {
     cast {
-      rating: "Pretty Good"
-      comments: "from the cast (The whole cast acted as a unit to portray Sasquatches going about their day, and showed how they do have a good amount of humanity to them)"
+      comments: "The whole cast acted as a unit to portray Sasquatches going about their day, and showed how they do have a good amount of humanity to them"
     }
-    comments: "Pretty Good Acting"
+    rating: "Pretty Good "
   }
   story {
     writer {
       name: "David Zellner"
     }
     rating: "Decent to Pretty Good"
-    comments: "Story (The concept is interesting as it’s a slice of life look into sasquatches (which helps give them humanity and show parallels to humans); the plot structure is not really present as the movie tries to be mostly slice of life, while also shoving in shock and grotesque humor; flow between sequences is pretty bad as lot of the movie feels disjointed; character writing is decent as it helps show the parallels between humans and sasquatches)"
+    comments: "The concept is interesting as it\342\200\231s a slice of life look into sasquatches (which helps give them humanity and show parallels to humans); the plot structure is not really present as the movie tries to be mostly slice of life, while also shoving in shock and grotesque humor; flow between sequences is pretty bad as lot of the movie feels disjointed; character writing is decent as it helps show the parallels between humans and sasquatches"
   }
   screenplay {
     writer {
       name: "David Zellner"
     }
     rating: "Decent"
-    comments: "Screenplay (the humor is pretty overt as they try super hard to shock and show grotesque subjects (with this sometimes hitting and sometimes not); the symbolism is decent as it’s about looking at humanity from the lens of Sasquatch; the foreshadowing is nonexistent)"
+    comments: "the humor is pretty overt as they try super hard to shock and show grotesque subjects (with this sometimes hitting and sometimes not); the symbolism is decent as it\342\200\231s about looking at humanity from the lens of Sasquatch; the foreshadowing is nonexistent"
   }
   score {
     composer {
       name: "The Octopus Project"
     }
     rating: "Pretty Good"
-    comments: "Score (Used well in the establishing shots)"
+    comments: "Used well in the establishing shots"
   }
   cinematography {
     cinematographer {
       name: "Mike Gioulakis"
     }
     rating: "Pretty Good to Good"
-    comments: "Cinematography (Used well in the scenic/nature shots as it helped make the movie seem like a documentary)"
+    comments: "Used well in the scenic/nature shots as it helped make the movie seem like a documentary"
   }
   editing {
     editor {
@@ -57,27 +56,27 @@ review {
       name: "Daniel Tarr"
     }
     rating: "Pretty Good"
-    comments: "Editing (The way they cut the movie gave it a nature doc feel)"
+    comments: "The way they cut the movie gave it a nature doc feel"
   }
   sound {
     rating: "Pretty Good"
-    comments: "Sound (Helped show the actions of the characters)"
+    comments: "Helped show the actions of the characters"
   }
   visual_effects {
     rating: "Decent"
-    comments: "Visual Effects (Uses Practice effects well)"
+    comments: "Uses Practice effects well"
   }
   production_design {
     rating: "Pretty Good"
-    comments: "Production Design (The nature setting is nice and helps show the wilderness)"
+    comments: "The nature setting is nice and helps show the wilderness"
   }
   makeup {
     rating: "Very Good"
-    comments: "Makeup (Good use of full body makeup)"
+    comments: "Good use of full body makeup"
   }
   costumes {
     rating: "Very Good"
-    comments: "Costumes (Good use of costumes to make the actors look like sasquatches)"
+    comments: "Good use of costumes to make the actors look like sasquatches"
   }
   pacing: "Pacing is very slow as a lot of the movie drags with its elongated/repetitive scenes"
   climax: "Climax is decent but just feels like a continuation of the rest of the movie"

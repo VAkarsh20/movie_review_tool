@@ -6,7 +6,7 @@ review {
       name: "Jennifer Yuh Nelson"
     }
     rating: "Good"
-    comments: "Direction (The direction on a macroscale is very good as they once again take a simple plot and make the most out of it, going above and beyond with more vibrant visuals and grand fighting scenes; the direction on a microscale is good as it feels like a continuation of where the last film left off, with its comedy and Po still trying to find himself; direction of actors is good as it felt like most of the performances picked up where they left off last time, and the new performances were executed well; the storytelling is still pretty formulaic for a children's movie (borderline copying the same template as last time))"
+    comments: "The direction on a macroscale is very good as they once again take a simple plot and make the most out of it, going above and beyond with more vibrant visuals and grand fighting scenes; the direction on a microscale is good as it feels like a continuation of where the last film left off, with its comedy and Po still trying to find himself; direction of actors is good as it felt like most of the performances picked up where they left off last time, and the new performances were executed well; the storytelling is still pretty formulaic for a children\'s movie (borderline copying the same template as last time)"
   }
   acting {
     performance {
@@ -14,48 +14,47 @@ review {
         name: "Jack Black"
       }
       rating: "Great"
-      comments: "from Jack Black (Carries off where he left off last time as it still feels like they wrote this character for Jack Black)"
+      comments: "Carries off where he left off last time as it still feels like they wrote this character for Jack Black"
     }
     performance {
       actor {
         name: "Dustin Hoffman"
       }
       rating: "Good"
-      comments: "from Dustin Hoffman (Carries off where he left off last time as he still has very good chemistry with Jack Black, but his talent is used a lot less this time around)"
+      comments: "Carries off where he left off last time as he still has very good chemistry with Jack Black, but his talent is used a lot less this time around"
     }
     performance {
       actor {
         name: "Gary Oldman"
       }
       rating: "Good"
-      comments: "from Gary Oldman (Feels like Gary Oldman is using his experience as a villain to carry out his role (especially his work from 'Léon: The Professional'))"
+      comments: "Feels like Gary Oldman is using his experience as a villain to carry out his role (especially his work from \'L\303\251on: The Professional\')"
     }
     performance {
       actor {
         name: "James Hong"
       }
       rating: "Very Good"
-      comments: "from James Hong (Continues where he left off as he gives the character a lot of life and helps show the father-son dynamic between Mr.Ping and Po, and it once again felt like the character was written for him)"
+      comments: "Continues where he left off as he gives the character a lot of life and helps show the father-son dynamic between Mr.Ping and Po, and it once again felt like the character was written for him"
     }
     performance {
       actor {
         name: "Angelina Jolie"
       }
       rating: "Pretty Good"
-      comments: "from Angelina Jolie (Carries off where she left off as she still is given the biggest role out of the Furious Five, and does a good job at not only being distant towards Po but having a connection with him as well)"
+      comments: "Carries off where she left off as she still is given the biggest role out of the Furious Five, and does a good job at not only being distant towards Po but having a connection with him as well"
     }
     performance {
       actor {
         name: "Michelle Yeoh"
       }
       rating: "Pretty Good to Good"
-      comments: "from Michelle Yeoh (Basically just plays herself but has good chemistry with both Jack Black and Gary Oldman)"
+      comments: "Basically just plays herself but has good chemistry with both Jack Black and Gary Oldman"
     }
     cast {
-      rating: "Decent to Pretty Good"
-      comments: "from the rest of the cast (Once again, everyone plays their role well, but it just feels like a lot of their talent is underutilized (especially the remaining members of the Furious Five))"
+      comments: "Once again, everyone plays their role well, but it just feels like a lot of their talent is underutilized (especially the remaining members of the Furious Five)"
     }
-    comments: "Pretty Good to Good Acting"
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
@@ -65,7 +64,7 @@ review {
       name: "Glenn Berger"
     }
     rating: "Pretty Good to Good"
-    comments: "Story (The concept is good as it uses the sequel template well to show Po continuing his journey and having to confront new conflicts/doubt in his life, and the movie continues its uses of ancient Chinese culture/wuxia; the plot structure is laid out almost identically to the first, but this is fine as it is still not overcomplicated because there is one simple conflict and they use the short runtime to resolve this effectively; the flow between sequences is good as the movie does not waste any time with its short runtime; character writing is pretty good as it continues to portray Po as someone who is multifaceted and needs to block out doubt to find inner-peace, but the villain writing is not as strong as he felt kinda forced and generic)"
+    comments: "The concept is good as it uses the sequel template well to show Po continuing his journey and having to confront new conflicts/doubt in his life, and the movie continues its uses of ancient Chinese culture/wuxia; the plot structure is laid out almost identically to the first, but this is fine as it is still not overcomplicated because there is one simple conflict and they use the short runtime to resolve this effectively; the flow between sequences is good as the movie does not waste any time with its short runtime; character writing is pretty good as it continues to portray Po as someone who is multifaceted and needs to block out doubt to find inner-peace, but the villain writing is not as strong as he felt kinda forced and generic"
   }
   screenplay {
     writer {
@@ -75,7 +74,7 @@ review {
       name: "Glenn Berger"
     }
     rating: "Good"
-    comments: "Screenplay (The dialogue is once again written for children to enjoy more than adults, but they still try to push the limit in what they can say; the humor is pretty good as it's quirky and playful (with many moments that adults can enjoy); the symbolism is still prevalent as the movie is a giant message for finding inner-peace with past traumas; the foreshadowing is pretty standard for a children's movie)"
+    comments: "The dialogue is once again written for children to enjoy more than adults, but they still try to push the limit in what they can say; the humor is pretty good as it\'s quirky and playful (with many moments that adults can enjoy); the symbolism is still prevalent as the movie is a giant message for finding inner-peace with past traumas; the foreshadowing is pretty standard for a children\'s movie"
   }
   score {
     composer {
@@ -85,28 +84,27 @@ review {
       name: "John Powell"
     }
     rating: "Good"
-    comments: "Score (Continues a lot of the same themes as the last movie, and it is still used well throughout the movie; still does a good job at incorporating ancient Chinese themes)"
+    comments: "Continues a lot of the same themes as the last movie, and it is still used well throughout the movie; still does a good job at incorporating ancient Chinese themes"
   }
   editing {
     editor {
       name: "Clare Knight"
     }
     rating: "Good to Very Good"
-    comments: "Editing (Really shines in the scenes where they mix animation styles as well as the fighting scenes; a good amount of the cuts felt seamless)"
+    comments: "Really shines in the scenes where they mix animation styles as well as the fighting scenes; a good amount of the cuts felt seamless"
   }
   sound {
     rating: "Good"
-    comments: "Sound"
   }
-  visual_effects {
+  animation {
     rating: "Great"
-    comments: "Animation (Builds on the previous film as many of the action sequences feel more vibrant and grand, while still having the same charm as the first movie)"
+    comments: "Builds on the previous film as many of the action sequences feel more vibrant and grand, while still having the same charm as the first movie"
   }
   pacing: "Pacing is very good for its short runtime as every scene feels intended and the right length"
-  climax: "Climax is executed well as it shows off the film's great animation as well as Po obtaining the message of the movie"
-  tone: "Tone is pretty similar to the first movie as it shares a lot of tones with other children's animated/Dreamworks films (while still having tones that echoed wuxia and ancient China)"
+  climax: "Climax is executed well as it shows off the film\'s great animation as well as Po obtaining the message of the movie"
+  tone: "Tone is pretty similar to the first movie as it shares a lot of tones with other children\'s animated/Dreamworks films (while still having tones that echoed wuxia and ancient China)"
   final_notes: "It feels like they tried to make the same movie again"
-  overall: "Overall, a pretty good sequel as the film has a lot of the same charm as the first one and builds on some of the roots planted for Po's journey, but the movie does not feel as unique because its story construction is a little too close to its predecessor"
+  overall: "Overall, a pretty good sequel as the film has a lot of the same charm as the first one and builds on some of the roots planted for Po\'s journey, but the movie does not feel as unique because its story construction is a little too close to its predecessor"
 }
 release_year: 2011
 review_date: "03/04/2024"
