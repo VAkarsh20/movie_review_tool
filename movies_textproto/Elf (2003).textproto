@@ -5,43 +5,55 @@ review {
     director {
       name: "Jon Favreau"
     }
-    comments: "Very Good Direction (Especially for the lengths Jon Favreau went to limit the use of CGI)"
+    rating: "Very Good"
+    comments: "Especially for the lengths Jon Favreau went to limit the use of CGI"
   }
   acting {
-    actor {
-      name: "Will Ferrell"
-      comments: "Very Good from Will Ferrell"
+    performance {
+      actor {
+        name: "Will Ferrell"
+      }
+      rating: "Very Good"
     }
-    cast: "Pretty Good from the rest of the cast (Everyone plays their part well)"
-    comments: "Good Acting"
+    cast {
+      rating: "Pretty Good"
+      comments: "Everyone plays their part well"
+    }
+    rating: "Good"
   }
   story {
     writer {
       name: "David Berenbaum"
     }
-    comments: "Very Good/Iconic Story (Although it is filled with cliches and is very safe)"
+    rating: "Very Good/Iconic"
+    comments: "Although it is filled with cliches and is very safe"
   }
   screenplay {
     writer {
       name: "David Berenbaum"
     }
-    comments: "Very Good Screenplay"
+    rating: "Very Good"
   }
   cinematography {
     cinematographer {
       name: "Greg Gardiner"
     }
-    comments: "Great Cinematography (Uses force perspective very well (even though it can lead to inconsistencies at times))"
+    rating: "Great"
+    comments: "Uses force perspective very well (even though it can lead to inconsistencies at times)"
   }
   editing {
     editor {
       name: "Dan Lebental"
     }
-    comments: "Very Good Editing"
+    rating: "Very Good"
   }
-  visual_effects: "Great Visual Effects (Especially for the stop motion parts of the film to give is a very classic Christmas movie feel)"
+  visual_effects {
+    rating: "Great"
+    comments: "Especially for the stop motion parts of the film to give is a very classic Christmas movie feel"
+  }
   pacing: "Pacing was pretty good overall"
   climax: "Build to climax is pretty abrupt but the overall ending is pretty intense for a Christmas movie and Favreau pulls it off very well"
+  final_notes: ""
   overall: "Overall, an iconic christmas movie that is filled with many emotions, makes you root for the characters, and makes you remember the spirit of christmas, even though the movie is very safe, formulaic, cliche, and plays its cards very close to its chest (something I can\'t really blame given its a family Christmas movie)"
 }
 release_year: 2003

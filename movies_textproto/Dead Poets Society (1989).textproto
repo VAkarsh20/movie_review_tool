@@ -5,54 +5,69 @@ review {
     director {
       name: "Peter Weir"
     }
-    comments: "Good Direction"
+    rating: "Good"
   }
   acting {
-    actor {
-      name: "Robin Williams"
-      comments: "Incredible from Robin Williams (really tailored to his personality and was a good precursor to his role in Good Will Hunting)"
+    performance {
+      actor {
+        name: "Robin Williams"
+      }
+      rating: "Incredible"
+      comments: "Really tailored to his personality and was a good precursor to his role in Good Will Hunting"
     }
-    actor {
-      name: "Robert Sean Leonard"
-      comments: "Good from Robert Sean Leonard"
+    performance {
+      actor {
+        name: "Robert Sean Leonard"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Ethan Hawke"
-      comments: "Good from Ethan Hawke (for what he was supposed to portray)"
+    performance {
+      actor {
+        name: "Ethan Hawke"
+      }
+      rating: "Good"
+      comments: "For what he was supposed to portray"
     }
-    cast: "Pretty Good from the rest of the cast"
-    comments: "Good Acting"
+    cast {
+      rating: "Pretty Good"
+    }
+    rating: "Good"
   }
   story {
     writer {
       name: "Tom Schulman"
     }
-    comments: "Decent to Pretty Good Story (the generic coming-of-age story in a conservative society)"
+    rating: "Decent to Pretty Good"
+    comments: "The generic coming-of-age story in a conservative society"
   }
   screenplay {
     writer {
       name: "Tom Schulman"
     }
-    comments: "Very Good Screenplay (filled with many iconic quotes and is really carried out well by the cast (especially Robin Williams))"
+    rating: "Very Good"
+    comments: "Filled with many iconic quotes and is really carried out well by the cast (especially Robin Williams)"
   }
   score {
     composer {
       name: "Maurice Jarre"
     }
-    comments: "Pretty Good Score"
+    rating: "Pretty Good"
   }
   cinematography {
     cinematographer {
       name: "John Seale"
     }
-    comments: "Good Cinematography"
+    rating: "Good"
   }
-  sound: "Bad Sound (it makes it sounds extremely cartoony and unrealistic (especially in the spanking scenes))"
   editing {
     editor {
       name: "William Anderson"
     }
-    comments: "Pretty Good Editing"
+    rating: "Pretty Good"
+  }
+  sound {
+    rating: "Bad"
+    comments: "It makes it sounds extremely cartoony and unrealistic (especially in the spanking scenes)"
   }
   plot_structure: "Plot Structure was a bit off because the movie just ends at the climax (with no resolution or loose ends even close to being tied)"
   pacing: "Pacing was good (though there definitely needed to be 10-15 minutes added towards the end because of how abrupt the movie ends)"

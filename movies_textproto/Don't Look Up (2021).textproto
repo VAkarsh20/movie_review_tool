@@ -5,39 +5,59 @@ review {
     director {
       name: "Adam McKay"
     }
-    comments: "Good Direction"
+    rating: "Good"
   }
   acting {
-    actor {
-      name: "Leonardo DiCaprio"
-      comments: "Great from Leonardo Dicaprio (though it is not one of his better performances)"
+    performance {
+      actor {
+        name: "Leonardo DiCaprio"
+      }
+      rating: "Great"
+      comments: "Though it is not one of his better performances"
     }
-    actor {
-      name: "Jennifer Lawrence"
-      comments: "Very Good from Jennifer Lawrence (played her character very well, her performance was just limited by what the script allowed her to do)"
+    performance {
+      actor {
+        name: "Jennifer Lawrence"
+      }
+      rating: "Very Good"
+      comments: "Played her character very well, her performance was just limited by what the script allowed her to do"
     }
-    actor {
-      name: "Rob Morgan"
-      comments: "Good to Very Good from Rob Morgan"
+    performance {
+      actor {
+        name: "Rob Morgan"
+      }
+      rating: "Good to Very Good"
     }
-    actor {
-      name: "Jonah Hill"
-      comments: "Great from Jonah Hill (playing a character he built his name off of early in his career (which is great to see))"
+    performance {
+      actor {
+        name: "Jonah Hill"
+      }
+      rating: "Great"
+      comments: "Playing a character he built his name off of early in his career (which is great to see)"
     }
-    actor {
-      name: "Mark Rylance"
-      comments: "Very Good from Mark Rylance (especially with the awkwardness of the tech character)"
+    performance {
+      actor {
+        name: "Mark Rylance"
+      }
+      rating: "Very Good"
+      comments: "Especially with the awkwardness of the tech character"
     }
-    actor {
-      name: "Cate Blanchett"
-      comments: "Very Good from Cate Blanchett"
+    performance {
+      actor {
+        name: "Cate Blanchett"
+      }
+      rating: "Very Good"
     }
-    actor {
-      name: "Meryl Streep"
-      comments: "Good to Very Good from Meryl Streep"
+    performance {
+      actor {
+        name: "Meryl Streep"
+      }
+      rating: "Good to Very Good"
     }
-    cast: "Pretty Good to Good from the rest of the cast"
-    comments: "Very Good Acting"
+    cast {
+      rating: "Pretty Good to Good"
+    }
+    rating: "Very Good"
   }
   story {
     writer {
@@ -46,32 +66,36 @@ review {
     writer {
       name: "David Sirota"
     }
-    comments: "Pretty Good Story (Though it is a mess in terms of how the plot is structured (a given from McKay nowadays))"
+    rating: "Pretty Good"
+    comments: "Though it is a mess in terms of how the plot is structured (a given from McKay nowadays)"
   }
   screenplay {
     writer {
       name: "Adam McKay"
     }
-    comments: "Pretty Good Screenplay (the jokes were actually pretty funny and back to his old self as his script really was not taking itself too seriously as it was in McKay\'s previous two movies (standout joke being the non-sequiturs to the General asking for money for the snacks; it is pretty obvious at how the movie tries to force politics into its message, its just extremely overt and not well carried out cause of how overt it is))"
+    rating: "Pretty Good"
+    comments: "The jokes were actually pretty funny and back to his old self as his script really was not taking itself too seriously as it was in McKay\'s previous two movies (standout joke being the non-sequiturs to the General asking for money for the snacks; it is pretty obvious at how the movie tries to force politics into its message, its just extremely overt and not well carried out cause of how overt it is)"
   }
   score {
     composer {
       name: "Nicholas Britell"
     }
-    comments: "Pretty Good Score"
+    rating: "Pretty Good"
   }
   cinematography {
     cinematographer {
       name: "Linus Sandgren"
     }
-    comments: "Good Cinematography"
+    rating: "Good"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Hank Corwin"
     }
-    comments: "Pretty Good Editing"
+    rating: "Pretty Good"
+  }
+  sound {
+    rating: "Good"
   }
   plot_structure: "Plot Structure was a bit of the mess (there are really two climaxes (and while the movie does a good job heading into the first one, it becomes a huge mess after the this as it goes to the end))"
   pacing: "No consistent pace at all in the movie (some parts felt slow and some parts felt really fast)"

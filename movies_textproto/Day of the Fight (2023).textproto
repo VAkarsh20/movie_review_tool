@@ -5,60 +5,89 @@ review {
     director {
       name: "Jack Huston"
     }
-    comments: "Pretty Bad Direction (Creates a very artistic piece on a macro-scale as he uses the black-and-white cinematography well to show the perspective of the protagonist (has a very similar feel to Raging Bull); faulters on a micro-scale as the scenes really feel stiff; the storytelling is decent as the story is very simple (but it moves in a pretty slow way); the direction of actors is interesting because individually the performances are good but when actors are working with each other there is this weird space and pause between lines that show a lack of chemistry)"
+    rating: "Pretty Bad"
+    comments: "Creates a very artistic piece on a macro-scale as he uses the black-and-white cinematography well to show the perspective of the protagonist (has a very similar feel to Raging Bull); faulters on a micro-scale as the scenes really feel stiff; the storytelling is decent as the story is very simple (but it moves in a pretty slow way); the direction of actors is interesting because individually the performances are good but when actors are working with each other there is this weird space and pause between lines that show a lack of chemistry"
   }
   acting {
-    actor {
-      name: "Michael Pitt"
-      comments: "Pretty Good from Michael Pitt (Feels like an amalgamation of Raging Bull, Rocky, and the Wrestler as his performance is about a fighter down on his luck looking for forgiveness and acceptance; he excels in the solo scenes and portraying the emotions of the character but really struggles to build chemistry with his other cast mates as there is a sense of awkwardness when working off of other people)"
+    performance {
+      actor {
+        name: "Michael Pitt"
+      }
+      rating: "Pretty Good"
+      comments: "Feels like an amalgamation of Raging Bull, Rocky, and the Wrestler as his performance is about a fighter down on his luck looking for forgiveness and acceptance; he excels in the solo scenes and portraying the emotions of the character but really struggles to build chemistry with his other cast mates as there is a sense of awkwardness when working off of other people"
     }
-    actor {
-      name: "Nicolette Robinson"
-      comments: "Decent to Pretty Good from Nicolette Robinson (Holds her own well and has somewhat chemistry with Pitt in their scenes together (which still isn\'t a lot))"
+    performance {
+      actor {
+        name: "Nicolette Robinson"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Holds her own well and has somewhat chemistry with Pitt in their scenes together (which still isn\'t a lot)"
     }
-    actor {
-      name: "Joe Pesci"
-      comments: "Decent to from Joe Pesci (Really feels like he is in the movie to be in the movie as he isn\'t allowed to show his Joe Pesci charm/experience)"
+    performance {
+      actor {
+        name: "Joe Pesci"
+      }
+      rating: "Decent to"
+      comments: "Really feels like he is in the movie to be in the movie as he isn\'t allowed to show his Joe Pesci charm/experience"
     }
-    actor {
-      name: "John Magaro"
-      comments: "Pretty Good from John Magaro (Holds his own well in the little screentime he has and has a sense of charisma that makes his scene with Pitt so interesting)"
+    performance {
+      actor {
+        name: "John Magaro"
+      }
+      rating: "Pretty Good"
+      comments: "Holds his own well in the little screentime he has and has a sense of charisma that makes his scene with Pitt so interesting"
     }
-    actor {
-      name: "Ron Perlman"
-      comments: "Pretty Good from Ron Perlman (The most vocal performance in the cast and has somewhat chemistry with Pitt; is a real presence in his scenes)"
+    performance {
+      actor {
+        name: "Ron Perlman"
+      }
+      rating: "Pretty Good"
+      comments: "The most vocal performance in the cast and has somewhat chemistry with Pitt; is a real presence in his scenes"
     }
-    actor {
-      name: "Steve Buscemi"
-      comments: "Decent from Steve Buscemi (Is barely in the movie and isn\'t given that much to work with)"
+    performance {
+      actor {
+        name: "Steve Buscemi"
+      }
+      rating: "Decent"
+      comments: "Is barely in the movie and isn\'t given that much to work with"
     }
-    cast: "Bad from the rest of the cast (Just a lot of inexperience and really no chemistry with the cast (this does not include the child actors))"
-    comments: "Pretty Bad to Decent Acting"
+    cast {
+      rating: "Bad"
+      comments: "Just a lot of inexperience and really no chemistry with the cast (this does not include the child actors)"
+    }
+    rating: "Pretty Bad to Decent"
   }
   story {
     writer {
       name: "Jack Huston"
     }
-    comments: "Bad to Pretty Bad Story (The concept is pretty amateur, but does do a noticeable job in pulling in influences from other movies like Raging Bull, Rocky, and the Wrestler; the construction is pretty simple (and this was intentional) as its pretty obvious what the protagonist is doing and where the film will go (which helps with its sequence flow); the character writing was pretty amateur and overt as the protagonist was pretty predictable and not as complex as he is intended)"
+    rating: "Bad to Pretty Bad"
+    comments: "The concept is pretty amateur, but does do a noticeable job in pulling in influences from other movies like Raging Bull, Rocky, and the Wrestler; the construction is pretty simple (and this was intentional) as its pretty obvious what the protagonist is doing and where the film will go (which helps with its sequence flow); the character writing was pretty amateur and overt as the protagonist was pretty predictable and not as complex as he is intended"
   }
   screenplay {
     writer {
       name: "Jack Huston"
     }
-    comments: "Decent to Pretty Good Screenplay (The dialogue was pretty simple and not well constructed (which can be argued that was the point); the jokes led to some awkward moments (also can be argued was intentional); the emotional moments were well written and a highlight in the movie; the symbolism and metaphors of actions were well written; the foreshadowing was pretty amateur as it made the movie more predictable than engaging)"
+    rating: "Decent to Pretty Good"
+    comments: "The dialogue was pretty simple and not well constructed (which can be argued that was the point); the jokes led to some awkward moments (also can be argued was intentional); the emotional moments were well written and a highlight in the movie; the symbolism and metaphors of actions were well written; the foreshadowing was pretty amateur as it made the movie more predictable than engaging"
   }
   cinematography {
     cinematographer {
       name: "Peter Simonite"
     }
-    comments: "Good Cinematography (The black and white mixed with the shot selection helped with conveying the emotions of the main character)"
+    rating: "Good"
+    comments: "The black and white mixed with the shot selection helped with conveying the emotions of the main character"
   }
-  sound: "Good Sound (Used well in the boxing scenes as it made the punches sound crisper)"
   editing {
     editor {
       name: "Joe Klotz"
     }
-    comments: "Decent Editing (Uses pretty well for the most part, the editing in the final scenes was just very amateurish and really took away with how it ended)"
+    rating: "Decent"
+    comments: "Uses pretty well for the most part, the editing in the final scenes was just very amateurish and really took away with how it ended"
+  }
+  sound {
+    rating: "Good"
+    comments: "Used well in the boxing scenes as it made the punches sound crisper"
   }
   plot_structure: "Plot Structure was pretty simplistic as it builds around an overall simple idea (so it has enough time to slice out the different plot points and have them flow between each other)"
   pacing: "Pacing was very slow (and this might have been from following the style of Raging Bull and Rocky); the runtime could have been cut by 10-15 minutes by either making the pace a bit faster or cutting some scenes from the exposition"

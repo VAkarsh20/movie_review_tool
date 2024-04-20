@@ -5,53 +5,76 @@ review {
     director {
       name: "Lee Cronin"
     }
-    comments: "Pretty Bad to Decent Direction (While the actual horror elements were well directed and executed, the build-up to the suspense and the more dramatic moments were Bad (suffering from the same issue many modern horror movies have); also, does not really get the most out of his actors (except for Sutherland))"
+    rating: "Pretty Bad to Decent"
+    comments: "While the actual horror elements were well directed and executed, the build-up to the suspense and the more dramatic moments were Bad (suffering from the same issue many modern horror movies have); also, does not really get the most out of his actors (except for Sutherland)"
   }
   acting {
-    actor {
-      name: "Lily Sullivan"
-      comments: "Decent to Pretty Good from Lily Sullivan (Really came to shine in the more horror moments of the film but really did not hit the mark in the exposition and the more dramatic scenes of the movie; as the lead, she was able to hold her own in the moments that mattered most (horror parts))"
+    performance {
+      actor {
+        name: "Lily Sullivan"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Really came to shine in the more horror moments of the film but really did not hit the mark in the exposition and the more dramatic scenes of the movie; as the lead, she was able to hold her own in the moments that mattered most (horror parts)"
     }
-    actor {
-      name: "Alyssa Sutherland"
-      comments: "Pretty Good to Good from Alyssa Sutherland (Gave a very chilling performance that was a standout in this movie, showed the most range out of any actor and really brought more fear into the character)"
+    performance {
+      actor {
+        name: "Alyssa Sutherland"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Gave a very chilling performance that was a standout in this movie, showed the most range out of any actor and really brought more fear into the character"
     }
-    cast: "Decent from the rest of the cast (Faltered a bit in the more dramatic parts (typical of other horror movies), but though the horror acting was good; The child actors were actually decent overall with no major faults)"
-    comments: "Decent Acting"
+    cast {
+      rating: "Decent"
+      comments: "Faltered a bit in the more dramatic parts (typical of other horror movies), but though the horror acting was good; The child actors were actually decent overall with no major faults"
+    }
+    rating: "Decent"
   }
   story {
     writer {
       name: "Lee Cronin"
     }
-    comments: "Bad Story (The biggest issue of the movie because it feels like there really is no plot, the conflict is barely introduced as the film cares more about carnage than actually have any semblance of a story)"
+    rating: "Bad"
+    comments: "The biggest issue of the movie because it feels like there really is no plot, the conflict is barely introduced as the film cares more about carnage than actually have any semblance of a story"
   }
   screenplay {
     writer {
       name: "Lee Cronin"
     }
-    comments: "Bad Screenplay (The dialogue really reeks of poor horror dialogue as it feels corny at points; the symbolism is very shallow (and the symbols they do introduce are not really explained that well when they should considering they are causing the conflict); foreshadowing was pretty standard to other horror movies (not a major issue))"
+    rating: "Bad"
+    comments: "The dialogue really reeks of poor horror dialogue as it feels corny at points; the symbolism is very shallow (and the symbols they do introduce are not really explained that well when they should considering they are causing the conflict); foreshadowing was pretty standard to other horror movies (not a major issue)"
   }
   score {
     composer {
       name: "Stephen McKeon"
     }
-    comments: "Pretty Good Score (Used well in conjunction to sound to help build suspense and illicit fear)"
+    rating: "Pretty Good"
+    comments: "Used well in conjunction to sound to help build suspense and illicit fear"
   }
   cinematography {
     cinematographer {
       name: "Dave Garbett"
     }
-    comments: "Pretty Good Cinematography (Really enjoyed the fisheye lens during the door peephole scenes as it provided emphasis into the horror elements of the shot)"
+    rating: "Pretty Good"
+    comments: "Really enjoyed the fisheye lens during the door peephole scenes as it provided emphasis into the horror elements of the shot"
   }
-  sound: "Pretty Good Sound (Pretty standard in how it was used to illicit fear)"
   editing {
     editor {
       name: "Bryan Shaw"
     }
-    comments: "Decent Editing"
+    rating: "Decent"
   }
-  visual_effects: "Good Visual Effects (Used well throughout to help show the carnage of the scenes)"
-  makeup: "Pretty Good Makeup (Helped with showing the carnage and the gore of the scenes)"
+  sound {
+    rating: "Pretty Good"
+    comments: "Pretty standard in how it was used to illicit fear"
+  }
+  visual_effects {
+    rating: "Good"
+    comments: "Used well throughout to help show the carnage of the scenes"
+  }
+  makeup {
+    rating: "Pretty Good"
+    comments: "Helped with showing the carnage and the gore of the scenes"
+  }
   plot_structure: "Plot Structure was a mess as the short runtime really did not help establish a conflict; the exposition and resolutions introduce the conflict but in a very mysterious way; the rising action is incredibly short which means the conflict is barely established; the movie really cared more about the conflict as a vessel to show the carnage rather than establishing a good conflict to illicit something truly scary"
   pacing: "Pacing was good throughout throughout the movie as it was steady (considering it did not really care about plot development); there should have been 30 minutes added to the movie to actual show what the supernatural evil was and why the conflict matters"
   climax: "Climax was executed very well as the carnage and horror scenes definitely were scary and kept the audience on their seats (considering it did not really care about the plot in general)"

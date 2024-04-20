@@ -5,57 +5,76 @@ review {
     director {
       name: "Sam Raimi"
     }
-    comments: "Good Direction (Was able to take control of the different action scenes as well as the different character building scenes, all while sprinkling in different elements of horror that makes Sam Raimi famous)"
+    rating: "Good"
+    comments: "Was able to take control of the different action scenes as well as the different character building scenes, all while sprinkling in different elements of horror that makes Sam Raimi famous"
   }
   acting {
-    actor {
-      name: "Benedict Cumberbatch"
-      comments: "Very good from Benedict Cumberbatch (Continued his role as he now has the weight of carrying the Marvel franchise in this new phase)"
+    performance {
+      actor {
+        name: "Benedict Cumberbatch"
+      }
+      rating: "Very good"
+      comments: "Continued his role as he now has the weight of carrying the Marvel franchise in this new phase"
     }
-    actor {
-      name: "Elizabeth Olsen"
-      comments: "Good from Elizabeth Olsen (While there were many holes/I did not like her character, Olsen did a good job in trying to portray what they were going for in Wanda in this movie)"
+    performance {
+      actor {
+        name: "Elizabeth Olsen"
+      }
+      rating: "Good"
+      comments: "While there were many holes/I did not like her character, Olsen did a good job in trying to portray what they were going for in Wanda in this movie"
     }
-    actor {
-      name: "Benedict Wong"
-      comments: "Good from Benedict Wong (Standard Wong)"
+    performance {
+      actor {
+        name: "Benedict Wong"
+      }
+      rating: "Good"
+      comments: "Standard Wong"
     }
-    actor {
-      name: "Xochitl Gomez"
-      comments: "Very Good from Xochitl Gomez (I really enjoyed her performance as she played the teenage character with potential archetype very well (and I look forward to seeing more America Chavez in latter MCU content))"
+    performance {
+      actor {
+        name: "Xochitl Gomez"
+      }
+      rating: "Very Good"
+      comments: "I really enjoyed her performance as she played the teenage character with potential archetype very well (and I look forward to seeing more America Chavez in latter MCU content)"
     }
-    actor {
-      name: "Rachel McAdams"
-      comments: "Good from Rachel McAdams (played the ex-love interest very well)"
+    performance {
+      actor {
+        name: "Rachel McAdams"
+      }
+      rating: "Good"
+      comments: "Played the ex-love interest very well"
     }
-    cast: "Good from the rest of the cast"
-    comments: "Good Acting"
+    cast {
+      rating: "Good"
+    }
+    rating: "Good"
   }
   story {
     writer {
       name: "Michael Waldron"
     }
-    comments: "Pretty Bad Story (The entire story was very formulaic and easy to predict (took from the standard comic book boilerplate), and the Wanda Storyline was very poorly written to the point that it was more annoying than entertaining; also, there were many plot holes when it came to the multiverse)"
+    rating: "Pretty Bad"
+    comments: "The entire story was very formulaic and easy to predict (took from the standard comic book boilerplate), and the Wanda Storyline was very poorly written to the point that it was more annoying than entertaining; also, there were many plot holes when it came to the multiverse"
   }
   screenplay {
     writer {
       name: "Michael Waldron"
     }
-    comments: "Decent Screenplay (Typical Marvel Dialogue but there were many questionable lines that were more cringey than entertaining)"
+    rating: "Decent"
+    comments: "Typical Marvel Dialogue but there were many questionable lines that were more cringey than entertaining"
   }
   score {
     composer {
       name: "Danny Elfman"
     }
-    comments: "Good Score"
+    rating: "Good"
   }
   cinematography {
     cinematographer {
       name: "John Mathieson"
     }
-    comments: "Very Good Cinematography"
+    rating: "Very Good"
   }
-  sound: "Very Good Sound"
   editing {
     editor {
       name: "Bob Murawski"
@@ -63,14 +82,23 @@ review {
     editor {
       name: "Tia Nolan"
     }
-    comments: "Very Good Editing"
+    rating: "Very Good"
   }
-  visual_effects: "Great Visual Effects (Similar to previous Doctor Strange)"
-  costumes: "Good Costumes"
+  sound {
+    rating: "Very Good"
+  }
+  visual_effects {
+    rating: "Great"
+    comments: "Similar to previous Doctor Strange"
+  }
+  costumes {
+    rating: "Good"
+  }
   plot_structure: "Plot Structure was very formulaic as it followed the standard MCU/Superhero boilerplate (But it spends way too much time in the exposition to where the rest of the movie does not have that much time)"
   pacing: "Pacing was incredibly fast as the shortened runtime was easy to see (would have liked to have seen 20 minutes added towards the rising action)"
   climax: "Build to climax stood out and had good moments despite being overall pretty standard MCU; climax was the typical MCU climax (but had some moments that were very cringey)"
   tone: "Tone was the standard MCU tone (but I did enjoy some of the horror touches and homage to his earlier horror films)"
+  final_notes: ""
   overall: "Overall, a highly anticipated Marvel movie that plays too strongly to its predecessors as it is very formulaic in the MCU boilerplate and has pretty poor writing overall, but has some highlights when it comes to acting, direction, visuals, and new stylistic choices that make it a bit different from other MCU movies (even though by not a lot)"
 }
 release_year: 2022

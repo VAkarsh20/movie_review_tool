@@ -5,53 +5,71 @@ review {
     director {
       name: "Brian Helgeland"
     }
-    comments: "Terrible Direction (Has no control over any part of this movie; the movie is terrible on a macro-scale it feels very formulaic and any other movie from New England (but clashed with a forced drug trafficking storyline); the movie is Terrible on a micro-scale because there is absolutely no chemistry in the entire cast (really does not help his actors in any way) and the scenes just feel forced and choppy; the storytelling is terrible because everything just feels choppy and forced (with nothing feeling like it is happening for a reason))"
+    rating: "Terrible"
+    comments: "Has no control over any part of this movie; the movie is terrible on a macro-scale it feels very formulaic and any other movie from New England (but clashed with a forced drug trafficking storyline); the movie is Terrible on a micro-scale because there is absolutely no chemistry in the entire cast (really does not help his actors in any way) and the scenes just feel forced and choppy; the storytelling is terrible because everything just feels choppy and forced (with nothing feeling like it is happening for a reason)"
   }
   acting {
-    actor {
-      name: "Ben Foster"
-      comments: "Very Bad from Ben Foster (He feels so over-the-top that it is comical and he has no chemistry with any of the other characters (and is just so shelved off))"
+    performance {
+      actor {
+        name: "Ben Foster"
+      }
+      rating: "Very Bad"
+      comments: "He feels so over-the-top that it is comical and he has no chemistry with any of the other characters (and is just so shelved off)"
     }
-    actor {
-      name: "Toby Wallace"
-      comments: "Terrible from Toby Wallace (Just terrible all around as he is not convincing as the lead and just forces himself into every conversation and situation somewhat in a Deus Ex Machina way; so over-the-top that he is funny when he is meant to be serious and boring when he is meant to be funny; Has zero chemistry with Ben Foster and somehow negative chemistry with Jenna Ortega)"
+    performance {
+      actor {
+        name: "Toby Wallace"
+      }
+      rating: "Terrible"
+      comments: "Just terrible all around as he is not convincing as the lead and just forces himself into every conversation and situation somewhat in a Deus Ex Machina way; so over-the-top that he is funny when he is meant to be serious and boring when he is meant to be funny; Has zero chemistry with Ben Foster and somehow negative chemistry with Jenna Ortega"
     }
-    actor {
-      name: "Jenna Ortega"
-      comments: "Very Bad from Jenna Ortega (Incredibly forced and unnecessary as her interjections really have nothing to do with what is going on and she clearly hits a ceiling when it comes to the dramatic points;  the deadpan moments when it comes to the comedic parts does not work with the rest of the cast; has negative chemistry with Toby Wallace because it just feels forced and rushed)"
+    performance {
+      actor {
+        name: "Jenna Ortega"
+      }
+      rating: "Very Bad"
+      comments: "Incredibly forced and unnecessary as her interjections really have nothing to do with what is going on and she clearly hits a ceiling when it comes to the dramatic points;  the deadpan moments when it comes to the comedic parts does not work with the rest of the cast; has negative chemistry with Toby Wallace because it just feels forced and rushed"
     }
-    actor {
-      name: "Tommy Lee Jones"
-      comments: "Bad from Tommy Lee Jones (Plays himself giving no effort as his experience can only take him so far given how bad the script is (and it seems like he knows how bad the movie is and just wants to finish the job); at least elevates the scenes he is in (but by a marginal amount))"
+    performance {
+      actor {
+        name: "Tommy Lee Jones"
+      }
+      rating: "Bad"
+      comments: "Plays himself giving no effort as his experience can only take him so far given how bad the script is (and it seems like he knows how bad the movie is and just wants to finish the job); at least elevates the scenes he is in (but by a marginal amount)"
     }
-    cast: "Terrible from the rest of the cast (Just inexperience all around and terrible/unconvincing acting from people in this area/profession; no chemistry in the entire cast whatsoever)"
-    comments: "Terrible to Very Bad Acting"
+    cast {
+      rating: "Terrible"
+      comments: "Just inexperience all around and terrible/unconvincing acting from people in this area/profession; no chemistry in the entire cast whatsoever"
+    }
+    rating: "Terrible to Very Bad"
   }
   story {
     writer {
       name: "Brian Helgeland"
     }
-    comments: "Terrible Story (The concept was somewhat personal to the director but the overall story was horribly constructed as there just feels like there is no vision for what he is going for (just does a terrible job at clashing two different ideas into one); the story construction was poor because the conflict is introduced at the 1-hour 15-minute mark of a 2-hour movie, prioritizing a poorly written exposition that leaves for very little rising action and a rushed climax(could have cut like 20-30 minutes of the exposition and would have gotten the same film); the flow between sequences is just so forced and on a grand scheme makes no sense (especially in the shift in plot for the conflict); the characters are just so shallowly written that you don\342\200\231t really care for them or what they are going through (and it doesn\342\200\231t help that they do not have any chemistry, especially the relationship between Wallace and Ortega\342\200\231s characters as its just so rushed and forced))"
+    rating: "Terrible"
+    comments: "The concept was somewhat personal to the director but the overall story was horribly constructed as there just feels like there is no vision for what he is going for (just does a terrible job at clashing two different ideas into one); the story construction was poor because the conflict is introduced at the 1-hour 15-minute mark of a 2-hour movie, prioritizing a poorly written exposition that leaves for very little rising action and a rushed climax(could have cut like 20-30 minutes of the exposition and would have gotten the same film); the flow between sequences is just so forced and on a grand scheme makes no sense (especially in the shift in plot for the conflict); the characters are just so shallowly written that you don\342\200\231t really care for them or what they are going through (and it doesn\342\200\231t help that they do not have any chemistry, especially the relationship between Wallace and Ortega\342\200\231s characters as its just so rushed and forced)"
   }
   screenplay {
     writer {
       name: "Brian Helgeland"
     }
-    comments: "Terrible Screenplay (The dialogue just is so unnatural and incredibly stupid that it is very campy (it is impossible to think that people talk this way and the amount they repeat the word \342\200\230Finestkind\342\200\231 is laughable); the jokes are just so bad and sad at how bad they hit (like when Jenna Ortega\342\200\231s character calls the main character \342\200\230White Boy\342\200\231 when no aspects of her race/identity are ever mentioned in the movie); there is practically no symbolism as every metaphor they introduce is forced to the point that the message makes no sense and not believable; there is no foreshadowing (the movie just so shallow that hooks left at the beginning of the movie just make the story so predictable))"
+    rating: "Terrible"
+    comments: "The dialogue just is so unnatural and incredibly stupid that it is very campy (it is impossible to think that people talk this way and the amount they repeat the word \342\200\230Finestkind\342\200\231 is laughable); the jokes are just so bad and sad at how bad they hit (like when Jenna Ortega\342\200\231s character calls the main character \342\200\230White Boy\342\200\231 when no aspects of her race/identity are ever mentioned in the movie); there is practically no symbolism as every metaphor they introduce is forced to the point that the message makes no sense and not believable; there is no foreshadowing (the movie just so shallow that hooks left at the beginning of the movie just make the story so predictable)"
   }
   score {
     composer {
       name: "Carter Burwell"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
   cinematography {
     cinematographer {
       name: "Crille Forsberg"
     }
-    comments: "Very Bad Cinematography (So bad that it honestly felt nauseating at times; the handy-cam moments were just too shaky and the polished moments cut way too many times that it felt amateurish; over-used the of shot-reverse shot technique that it made me madder than focus on the characters in frame)"
+    rating: "Very Bad"
+    comments: "So bad that it honestly felt nauseating at times; the handy-cam moments were just too shaky and the polished moments cut way too many times that it felt amateurish; over-used the of shot-reverse shot technique that it made me madder than focus on the characters in frame"
   }
-  sound: "Decent Sound (Just felt like that of a standard action movie)"
   editing {
     editor {
       name: "Stuart Levy"
@@ -59,9 +77,17 @@ review {
     editor {
       name: "Claudia Castello"
     }
-    comments: "Very Bad Editing (The sequences are so so sharply edited that it felt like there is no sense of continuity they were going for (and it feels amateurish too))"
+    rating: "Very Bad"
+    comments: "The sequences are so so sharply edited that it felt like there is no sense of continuity they were going for (and it feels amateurish too)"
   }
-  visual_effects: "Decent Visual Effects (Mostly practical effects)"
+  sound {
+    rating: "Decent"
+    comments: "Just felt like that of a standard action movie"
+  }
+  visual_effects {
+    rating: "Decent"
+    comments: "Mostly practical effects"
+  }
   plot_structure: "Plot Structure was terrible because the movie spends too much time on the exposition (and does a bad job at that too) to where the conflict is introduced so late in the movie that there is no room to develop a rising action (and the climax suffers because of it because it feels rushed and forced)"
   pacing: "Pacing is a mess because it is incredibly fast in going through plot points (but there is just so much meanless plot that that it somewhat feels slow at the same time)"
   climax: "Climax is incredibly rushed and feels incredibly out of place (and it just feels like a child directed it)"

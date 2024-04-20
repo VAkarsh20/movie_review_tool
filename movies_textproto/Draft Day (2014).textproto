@@ -5,35 +5,57 @@ review {
     director {
       name: "Ivan Reitman"
     }
-    comments: "Very Bad Direction (The whole movie just felt like a mess as the acting, storytelling, editing, and tone-setting were just off as it tries way too hard to be a feel-good movie than tell a realistic story)"
+    rating: "Very Bad"
+    comments: "The whole movie just felt like a mess as the acting, storytelling, editing, and tone-setting were just off as it tries way too hard to be a feel-good movie than tell a realistic story"
   }
   acting {
-    actor {
-      name: "Kevin Costner"
-      comments: "Pretty Bad to Decent from Kevin Costner (The only competent performance in the movie as he does she his presence in all the scenes he is in, but he still is no where near the level he is capable of as he does not have chemistry with the cast and often feels forced into scenes)"
+    performance {
+      actor {
+        name: "Kevin Costner"
+      }
+      rating: "Pretty Bad to Decent"
+      comments: "The only competent performance in the movie as he does she his presence in all the scenes he is in, but he still is no where near the level he is capable of as he does not have chemistry with the cast and often feels forced into scenes"
     }
-    actor {
-      name: "Jennifer Garner"
-      comments: "Pretty Bad from Jennifer Garner (Her character is just there for the sole purpose of having a female character that understands sports, and because of this her performance just feels forced as she tries to please so many different angles)"
+    performance {
+      actor {
+        name: "Jennifer Garner"
+      }
+      rating: "Pretty Bad"
+      comments: "Her character is just there for the sole purpose of having a female character that understands sports, and because of this her performance just feels forced as she tries to please so many different angles"
     }
-    actor {
-      name: "Denis Leary"
-      comments: "Bad to Pretty Bad from Denis Leary (Tries way too hard to be the comedic relief character that he does not play off any of the characters well)"
+    performance {
+      actor {
+        name: "Denis Leary"
+      }
+      rating: "Bad to Pretty Bad"
+      comments: "Tries way too hard to be the comedic relief character that he does not play off any of the characters well"
     }
-    actor {
-      name: "Frank Langella"
-      comments: "Pretty Bad from Frank Langella (Acting just feels very forced (even though he is meant to be cold), just a very one-dimensional performance overall)"
+    performance {
+      actor {
+        name: "Frank Langella"
+      }
+      rating: "Pretty Bad"
+      comments: "Acting just feels very forced (even though he is meant to be cold), just a very one-dimensional performance overall"
     }
-    actor {
-      name: "Ellen Burstyn"
-      comments: "Pretty Bad from Ellen Burstyn (Ellen why are you in this movie, you are so much better than this role because the character is just so one-dimensional)"
+    performance {
+      actor {
+        name: "Ellen Burstyn"
+      }
+      rating: "Pretty Bad"
+      comments: "Ellen why are you in this movie, you are so much better than this role because the character is just so one-dimensional"
     }
-    actor {
-      name: "Chadwick Boseman"
-      comments: "Pretty Bad from Chadwick Boseman (His body really did not look like a Linebacker and it just felt like this role was not written for him (so he was acting as someone he was not supposed to be))"
+    performance {
+      actor {
+        name: "Chadwick Boseman"
+      }
+      rating: "Pretty Bad"
+      comments: "His body really did not look like a Linebacker and it just felt like this role was not written for him (so he was acting as someone he was not supposed to be)"
     }
-    cast: "Bad from the rest of the cast (Just filled with amateurs reading poorly written dialog and receiving poor direction)"
-    comments: "Bad Acting"
+    cast {
+      rating: "Bad"
+      comments: "Just filled with amateurs reading poorly written dialog and receiving poor direction"
+    }
+    rating: "Bad"
   }
   story {
     writer {
@@ -42,7 +64,8 @@ review {
     writer {
       name: "Scott Rothman"
     }
-    comments: "Very Bad Story (The story has very little plot overall and is just incredibly unrealistic (to the point where the movie just starts to not make sense for people who know football); there is also so many side-plots that are just unnecessary)"
+    rating: "Very Bad"
+    comments: "The story has very little plot overall and is just incredibly unrealistic (to the point where the movie just starts to not make sense for people who know football); there is also so many side-plots that are just unnecessary"
   }
   screenplay {
     writer {
@@ -51,21 +74,23 @@ review {
     writer {
       name: "Scott Rothman"
     }
-    comments: "Very Bad Screenplay (The dialog does not flow at all and is incredibly corny; the movie just jams in facts about football to make it seem it knows what it\'s talking about on the subject (but just comes off as if it is just posing); the symbolism and foreshadowing is just incredibly corny that its fun to watch how somebody actually wrote this; the message of the film is just so feel good its laughable)"
+    rating: "Very Bad"
+    comments: "The dialog does not flow at all and is incredibly corny; the movie just jams in facts about football to make it seem it knows what it\'s talking about on the subject (but just comes off as if it is just posing); the symbolism and foreshadowing is just incredibly corny that its fun to watch how somebody actually wrote this; the message of the film is just so feel good its laughable"
   }
   score {
     composer {
       name: "John Debney"
     }
-    comments: "Decent Score (Just sounds generic)"
+    rating: "Decent"
+    comments: "Just sounds generic"
   }
   cinematography {
     cinematographer {
       name: "Eric Steelberg"
     }
-    comments: "Pretty Bad Cinematography (Tries to give off this heist feel but just comes off as very amateur)"
+    rating: "Pretty Bad"
+    comments: "Tries to give off this heist feel but just comes off as very amateur"
   }
-  sound: "Decent Sound"
   editing {
     editor {
       name: "Sheldon Kahn"
@@ -73,10 +98,20 @@ review {
     editor {
       name: "Dana E. Glauberman"
     }
-    comments: "Terrible Editing (The movie just felt like it was made on Windows Movie Maker with the transitions and simultaneous cameras it uses; the transition slides also were incredibly corny)"
+    rating: "Terrible"
+    comments: "The movie just felt like it was made on Windows Movie Maker with the transitions and simultaneous cameras it uses; the transition slides also were incredibly corny"
   }
-  visual_effects: "Bad Visual Effects (The effects just felt corny (especially the title slides))"
-  production_design: "Decent Production Design (The sets did feel like they were in NFL facilities and at the draft)"
+  sound {
+    rating: "Decent"
+  }
+  visual_effects {
+    rating: "Bad"
+    comments: "The effects just felt corny (especially the title slides)"
+  }
+  production_design {
+    rating: "Decent"
+    comments: "The sets did feel like they were in NFL facilities and at the draft"
+  }
   plot_structure: "Plot Structure was incredibly formulaic and super predictable at what was going to happen next (it was obvious which part of the plot the movie was in)"
   pacing: "Pacing was incredibly slow for a movie that is meant to be fast paced (it just felt like they fit in so much unnecessary plot that the movie could have been cut 30 minutes to make the conflict feel more high stakes)"
   climax: "Climax was decent and probably the best part of the movie (but it was incredibly unrealistic, making it so hard to watch)"

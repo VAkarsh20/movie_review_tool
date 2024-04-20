@@ -5,19 +5,28 @@ review {
     director {
       name: "Baz Luhrmann"
     }
-    comments: "Pretty Good Direction (Did a decent job in getting the most out of his actors and was able to help build the overarching narrative very well, the issue was the actual plot points felt very rushed and jammed in to where it really was hard to help move the story forward; also, feels very similar to his other movies in terms of style (at least The Great Gatsby); another issue in his direction is that he tries to build stuff up but when events actually happen they are a bit subpar/lackluster)"
+    rating: "Pretty Good"
+    comments: "Did a decent job in getting the most out of his actors and was able to help build the overarching narrative very well, the issue was the actual plot points felt very rushed and jammed in to where it really was hard to help move the story forward; also, feels very similar to his other movies in terms of style (at least The Great Gatsby); another issue in his direction is that he tries to build stuff up but when events actually happen they are a bit subpar/lackluster"
   }
   acting {
-    actor {
-      name: "Austin Butler"
-      comments: "Incredible to Brilliant from Austin Butler (Really embodied and encapsulated Elvis to a T, it was also incredible that he was singing for the most part (at least the younger version of Elvis))"
+    performance {
+      actor {
+        name: "Austin Butler"
+      }
+      rating: "Incredible to Brilliant"
+      comments: "Really embodied and encapsulated Elvis to a T, it was also incredible that he was singing for the most part (at least the younger version of Elvis)"
     }
-    actor {
-      name: "Tom Hanks"
-      comments: "Good from Tom Hanks (played more to his experience here as he did what he could with the character given there was really not that much for him to work with)"
+    performance {
+      actor {
+        name: "Tom Hanks"
+      }
+      rating: "Good"
+      comments: "Played more to his experience here as he did what he could with the character given there was really not that much for him to work with"
     }
-    cast: "Pretty Good from the rest of the cast"
-    comments: "Good Acting"
+    cast {
+      rating: "Pretty Good"
+    }
+    rating: "Good"
   }
   story {
     writer {
@@ -26,7 +35,8 @@ review {
     writer {
       name: "Jeremy Doner"
     }
-    comments: "Pretty Bad Story (The movie does have pretty important elements in Elvis\' life but tries to jam in so many different points from his life that it never does a good job in explaining any of them and just feels rushed overall; also, the movie makes a lot of liberties at changing the narrative of the true story to make it play more favorably in Elvis\' way/dramatize the movie)"
+    rating: "Pretty Bad"
+    comments: "The movie does have pretty important elements in Elvis\' life but tries to jam in so many different points from his life that it never does a good job in explaining any of them and just feels rushed overall; also, the movie makes a lot of liberties at changing the narrative of the true story to make it play more favorably in Elvis\' way/dramatize the movie"
   }
   screenplay {
     writer {
@@ -41,22 +51,26 @@ review {
     writer {
       name: "Jeremy Doner"
     }
-    comments: "Good Screenplay (Nothing major with the dialogue and does a good job in helping work it around Elvis, but the narration elements of the story were a bit annoying but understandable)"
+    rating: "Good"
+    comments: "Nothing major with the dialogue and does a good job in helping work it around Elvis, but the narration elements of the story were a bit annoying but understandable"
   }
   score {
     composer {
       name: "Elliott Wheeler"
     }
-    comments: "Pretty Bad Score"
+    rating: "Pretty Bad"
   }
-  soundtrack: "Pretty Bad Soundtrack (The actual songs were fine, it was just annoying to hear contemporary music being played in a biopic from the 50s-70s because they should have just used music from that time-period (or at least make new songs that sound like music from then) to give it a more authentic feel of music Elvis would create)"
+  soundtrack {
+    rating: "Pretty Bad"
+    comments: "The actual songs were fine, it was just annoying to hear contemporary music being played in a biopic from the 50s-70s because they should have just used music from that time-period (or at least make new songs that sound like music from then) to give it a more authentic feel of music Elvis would create"
+  }
   cinematography {
     cinematographer {
       name: "Mandy Walker"
     }
-    comments: "Very Good Cinematography (Very similar to other Baz Luhrmann)"
+    rating: "Very Good"
+    comments: "Very similar to other Baz Luhrmann"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Matt Villa"
@@ -64,15 +78,29 @@ review {
     editor {
       name: "Jonathan Redmond"
     }
-    comments: "Great Editing (does a good job in helping make it feel more like a storybook)"
+    rating: "Great"
+    comments: "Does a good job in helping make it feel more like a storybook"
   }
-  visual_effects: "Good Visual Effects (while there were some hiccups in the beginning and it can be a lot at times, I feel like overall it does a good job in helping it give that storybook feel)"
-  makeup: "Great Makeup (really helped put on the weight of the actors very well)"
-  costumes: "Good Costumes (Helps give that Elvis feel)"
+  sound {
+    rating: "Good"
+  }
+  visual_effects {
+    rating: "Good"
+    comments: "While there were some hiccups in the beginning and it can be a lot at times, I feel like overall it does a good job in helping it give that storybook feel"
+  }
+  makeup {
+    rating: "Great"
+    comments: "Really helped put on the weight of the actors very well"
+  }
+  costumes {
+    rating: "Good"
+    comments: "Helps give that Elvis feel"
+  }
   plot_structure: "Plot Structure was the biggest flaw of this movie as the movie tries to jam in so many different points into Elvis\' life that it does not do a good job in explaining any of it; also it still tries to follow a traditional plot structure as it is a biopic but with everything else it really hinders it from being a well structured plot"
   pacing: "Pacing is incredibly fast even with a 2 hour and 40 minute runtime as the movie tries to fit in too much (the movie should have cut out about 30-40 minutes and go more in-depth to the points)"
   climax: "Build to climax was decent but a bit simplistic; climax was a captivating part of the movie but was a bit simplistic in its execution; also it was nice to see a full falling action and resolution but these elements could have been cut a bit shorter to help with the runtime"
   tone: "Tone was very similar to other Baz Luhrmann movies as it very extravagant in its presentation and showmanship to his other movies (which is a good thing given the subject of the movie)"
+  final_notes: ""
   overall: "Overall, a movie that is carried by the performance of its lead actor in the titular performance, but is held back by its poor story writing and plot structure"
 }
 release_year: 2022

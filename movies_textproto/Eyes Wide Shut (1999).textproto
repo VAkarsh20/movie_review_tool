@@ -5,19 +5,28 @@ review {
     director {
       name: "Stanley Kubrick"
     }
-    comments: "Good Direction (It was definitely Kubrick in style but the direction of people other than the leads (and even the leads) was a bit underwhelming at times)"
+    rating: "Good"
+    comments: "It was definitely Kubrick in style but the direction of people other than the leads (and even the leads) was a bit underwhelming at times"
   }
   acting {
-    actor {
-      name: "Tom Cruise"
-      comments: "Good from Tom Cruise (Plays a very Tom Cruise character throughout the movie but does shine in different parts)"
+    performance {
+      actor {
+        name: "Tom Cruise"
+      }
+      rating: "Good"
+      comments: "Plays a very Tom Cruise character throughout the movie but does shine in different parts"
     }
-    actor {
-      name: "Nicole Kidman"
-      comments: "Decent from Nicole Kidman (A very hit or miss performance from her as there are some moments where she is really good and some moments where she gives questionable deliveries)"
+    performance {
+      actor {
+        name: "Nicole Kidman"
+      }
+      rating: "Decent"
+      comments: "A very hit or miss performance from her as there are some moments where she is really good and some moments where she gives questionable deliveries"
     }
-    cast: "Pretty Bad to Decent from the rest of the cast"
-    comments: "Decent Acting"
+    cast {
+      rating: "Pretty Bad to Decent"
+    }
+    rating: "Decent"
   }
   story {
     writer {
@@ -26,7 +35,8 @@ review {
     writer {
       name: "Frederic Raphael"
     }
-    comments: "Good to Very Good Story (The story and story-telling of the first two acts is very captivating and very interesting but the final act really falls apart in terms of a climax (which really comes in the middle but there is a definite climax in the end) and resolution)"
+    rating: "Good to Very Good"
+    comments: "The story and story-telling of the first two acts is very captivating and very interesting but the final act really falls apart in terms of a climax (which really comes in the middle but there is a definite climax in the end) and resolution"
   }
   screenplay {
     writer {
@@ -35,29 +45,42 @@ review {
     writer {
       name: "Frederic Raphael"
     }
-    comments: "Decent Screenplay (The foreshadowing and symbolism of the movie is very good and pretty standard to Kubrick\'s style, but the dialogue is really simplistic and pretty bad at times)"
+    rating: "Decent"
+    comments: "The foreshadowing and symbolism of the movie is very good and pretty standard to Kubrick\'s style, but the dialogue is really simplistic and pretty bad at times"
   }
   score {
     composer {
       name: "Jocelyn Pook"
     }
-    comments: "Very Good Score (Really did a good job in helping music paint the scenes/mood of the movie and the record-player stopping the music was a nice touch)"
+    rating: "Very Good"
+    comments: "Really did a good job in helping music paint the scenes/mood of the movie and the record-player stopping the music was a nice touch"
   }
-  soundtrack: "Very Good Soundtrack (Extension of Score)"
+  soundtrack {
+    rating: "Very Good"
+    comments: "Extension of Score"
+  }
   cinematography {
     cinematographer {
       name: "Larry Smith"
     }
-    comments: "Very Good Cinematography (Extremely Kubrick with cinematography (long panning to show rooms and sharp shot reverse shots) but needs to be as it helps paint the scenes (especially in the party))"
+    rating: "Very Good"
+    comments: "Extremely Kubrick with cinematography (long panning to show rooms and sharp shot reverse shots) but needs to be as it helps paint the scenes (especially in the party)"
   }
-  sound: "Good to Very Good Sound (as seen with the record player note)"
   editing {
     editor {
       name: "Nigel Galt"
     }
-    comments: "Good Editing (Very Kubrick in style with its fades)"
+    rating: "Good"
+    comments: "Very Kubrick in style with its fades"
   }
-  costumes: "Very Good Costumes (Helps with giving the lavish, mysterious feels of the party)"
+  sound {
+    rating: "Good to Very Good"
+    comments: "As seen with the record player note"
+  }
+  costumes {
+    rating: "Very Good"
+    comments: "Helps with giving the lavish, mysterious feels of the party"
+  }
   plot_structure: "Plot Structure was in thirds with the first two acts being good in exposition and rising action but the last act really is not structured well as it is a bit rushed and does not come to any resolution in the end"
   pacing: "Pacing was more on the slower side (typical of Kubrick) with 20 minutes that could have either have been put into the end or just removed to make it a tighter runtime"
   climax: "Build to climax was pretty anticlimactic with the real climax happening in the middle of the movie; climax was very bland and boring as the real climax being in the middle (kinda blew because it was neither closed up or left open to interpretation. It was this weird middle ground and the actual ending was pretty anticlimactic)"

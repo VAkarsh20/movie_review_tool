@@ -5,77 +5,109 @@ review {
     director {
       name: "Charlie Day"
     }
-    comments: "Terrible Direction (The storytelling was very bad as it was faster than the plot was actually moving, the use of cinematography felt very delayed and slow (with the cut just being very boring with the amount of pauses), and he really did not get the most out of the actors (despite it being a very talented cast))"
+    rating: "Terrible"
+    comments: "The storytelling was very bad as it was faster than the plot was actually moving, the use of cinematography felt very delayed and slow (with the cut just being very boring with the amount of pauses), and he really did not get the most out of the actors (despite it being a very talented cast)"
   }
   acting {
-    actor {
-      name: "Charlie Day"
-      comments: "Very Bad from Charlie Day (While it is obvious he is trying to pay homage to Charlie Chaplin, his performance just feels phoned in with the silent/physical comedy not playing to his comedic strengths (Day is know for being a physical comic used with his voice to create these caricatures, but because the vocal element is taken away he really cannot play to his strengths))"
+    performance {
+      actor {
+        name: "Charlie Day"
+      }
+      rating: "Very Bad"
+      comments: "While it is obvious he is trying to pay homage to Charlie Chaplin, his performance just feels phoned in with the silent/physical comedy not playing to his comedic strengths (Day is know for being a physical comic used with his voice to create these caricatures, but because the vocal element is taken away he really cannot play to his strengths)"
     }
-    actor {
-      name: "Ken Jeong"
-      comments: "Terrible from Ken Jeong (Honestly one of the worst performances I have ever seen, he just is incredibly annoying at this character he is playing to where it is neither convincing or funny, and he really does not hit any of the dramatic notes when it is needed)"
+    performance {
+      actor {
+        name: "Ken Jeong"
+      }
+      rating: "Terrible"
+      comments: "Honestly one of the worst performances I have ever seen, he just is incredibly annoying at this character he is playing to where it is neither convincing or funny, and he really does not hit any of the dramatic notes when it is needed"
     }
-    actor {
-      name: "Kate Beckinsale"
-      comments: "Bad from Kate Beckinsale (Her character was just written very dull, so it was kinda hard for her to show off any talent, so it was just a pretty shallow performance)"
+    performance {
+      actor {
+        name: "Kate Beckinsale"
+      }
+      rating: "Bad"
+      comments: "Her character was just written very dull, so it was kinda hard for her to show off any talent, so it was just a pretty shallow performance"
     }
-    actor {
-      name: "Adrien Brody"
-      comments: "Decent from Adrien Brody (Shows some range of emotion, but its obvious he is pulling from experience rather than taking the direction he is given)"
+    performance {
+      actor {
+        name: "Adrien Brody"
+      }
+      rating: "Decent"
+      comments: "Shows some range of emotion, but its obvious he is pulling from experience rather than taking the direction he is given"
     }
-    actor {
-      name: "Jason Sudeikis"
-      comments: "Decent from Jason Sudeikis (Really pulls from experience as his one-dimensional character is pretty similar to other characters he has played in the past)"
+    performance {
+      actor {
+        name: "Jason Sudeikis"
+      }
+      rating: "Decent"
+      comments: "Really pulls from experience as his one-dimensional character is pretty similar to other characters he has played in the past"
     }
-    actor {
-      name: "Edie Falco"
-      comments: "Pretty Bad from Edie Falco (Not really given that much to work with as her character is a poorly written caricature of a Hollywood agent)"
+    performance {
+      actor {
+        name: "Edie Falco"
+      }
+      rating: "Pretty Bad"
+      comments: "Not really given that much to work with as her character is a poorly written caricature of a Hollywood agent"
     }
-    actor {
-      name: "Jason Bateman"
-      comments: "Decent from Jason Bateman"
+    performance {
+      actor {
+        name: "Jason Bateman"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Common"
-      comments: "Pretty Bad to Decent from Common"
+    performance {
+      actor {
+        name: "Common"
+      }
+      rating: "Pretty Bad to Decent"
     }
-    actor {
-      name: "Ray Liotta"
-      comments: "Decent to Pretty Good from Ray Liotta (Actually a character that shows a little range, which is a lot given the rest of the cast)"
+    performance {
+      actor {
+        name: "Ray Liotta"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Actually a character that shows a little range, which is a lot given the rest of the cast"
     }
-    actor {
-      name: "John Malkovich"
-      comments: "Decent from John Malkovich"
+    performance {
+      actor {
+        name: "John Malkovich"
+      }
+      rating: "Decent"
     }
-    cast: "Bad from the rest of the cast"
-    comments: "Bad Acting"
+    cast {
+      rating: "Bad"
+    }
+    rating: "Bad"
   }
   story {
     writer {
       name: "Charlie Day"
     }
-    comments: "Very Bad Story (While it does play homage to the silent Hollywood era, the story becomes incredibly predictable and is profound in no way; many of the elements are there to just fill time (which is saying a lot given that there is barely any plot in the movie))"
+    rating: "Very Bad"
+    comments: "While it does play homage to the silent Hollywood era, the story becomes incredibly predictable and is profound in no way; many of the elements are there to just fill time (which is saying a lot given that there is barely any plot in the movie)"
   }
   screenplay {
     writer {
       name: "Charlie Day"
     }
-    comments: "Terrible Screenplay (The dialogue just comes off as very unnatural and hard to listen to at times, the movie is not funny at all (I gave a slight positive reaction less then 10 times and never actually laughed), symbolism was pretty non-existent given how shallow the movie is, the foreshadowing borderline made the movie incredibly predictable)"
+    rating: "Terrible"
+    comments: "The dialogue just comes off as very unnatural and hard to listen to at times, the movie is not funny at all (I gave a slight positive reaction less then 10 times and never actually laughed), symbolism was pretty non-existent given how shallow the movie is, the foreshadowing borderline made the movie incredibly predictable"
   }
   score {
     composer {
       name: "Jon Brion"
     }
-    comments: "Pretty Bad Score"
+    rating: "Pretty Bad"
   }
   cinematography {
     cinematographer {
       name: "Nico Aguilar"
     }
-    comments: "Pretty Bad Cinematography (The most part was fine, it was just the shot-reverse-shots were so poorly done that is was so hard to watch)"
+    rating: "Pretty Bad"
+    comments: "The most part was fine, it was just the shot-reverse-shots were so poorly done that is was so hard to watch"
   }
-  sound: "Pretty Bad Sound"
   editing {
     editor {
       name: "Tim Roche"
@@ -83,7 +115,11 @@ review {
     editor {
       name: "Leslie Jones"
     }
-    comments: "Bad Editing (The cut felt incredibly choppy as there were so many awkward pauses that leave silence for jokes that are not even funny)"
+    rating: "Bad"
+    comments: "The cut felt incredibly choppy as there were so many awkward pauses that leave silence for jokes that are not even funny"
+  }
+  sound {
+    rating: "Pretty Bad"
   }
   plot_structure: "Plot Structure was very bad as the conflict and characters are so poorly introduced, the actual conflict was really dumb, and there is just no climax or resolution"
   pacing: "Pacing was one of the biggest issues of the movie as it moved faster than the actual storytelling (so there were so many moments where it felt like there were pauses to either catch up or the information given from the scene is just lost); There should have been a longer runtime to help slow down the pace (but I really wouldn\'t wanna watch any more of this movie)"

@@ -5,31 +5,50 @@ review {
     director {
       name: "Olivia Wilde"
     }
-    comments: "Bad Direction (Olivia Wilde does a poor job in getting the most out of her actors as well as building the story/suspense as there are many questionable and poorly executed scenes that really take away from me being interested in what is going on)"
+    rating: "Bad"
+    comments: "Olivia Wilde does a poor job in getting the most out of her actors as well as building the story/suspense as there are many questionable and poorly executed scenes that really take away from me being interested in what is going on"
   }
   acting {
-    actor {
-      name: "Florence Pugh"
-      comments: "Good from Florence Pugh (For the the most part of the movie, Pugh does a good job in portraying the protagonist and helping show how she is an outsider trying to find the truth (but there are still some questionable moments/scenes that hold her back from giving a memorable performance))"
+    performance {
+      actor {
+        name: "Florence Pugh"
+      }
+      rating: "Good"
+      comments: "For the the most part of the movie, Pugh does a good job in portraying the protagonist and helping show how she is an outsider trying to find the truth (but there are still some questionable moments/scenes that hold her back from giving a memorable performance)"
     }
-    actor {
-      name: "Harry Styles"
-      comments: "Bad from Harry Styles (His switches in accent really get annoying throughout the movie and there are many moments where he cannot act to the level of suspense/intensity of the movie (with the climax being a good example))"
+    performance {
+      actor {
+        name: "Harry Styles"
+      }
+      rating: "Bad"
+      comments: "His switches in accent really get annoying throughout the movie and there are many moments where he cannot act to the level of suspense/intensity of the movie (with the climax being a good example)"
     }
-    actor {
-      name: "Olivia Wilde"
-      comments: "Bad from Olivia Wilde (With her being the director (and doing a poor job at it), she really plays an overall bland character that is overall forgettable and not up to the standard she is trying to portray the movie as)"
+    performance {
+      actor {
+        name: "Olivia Wilde"
+      }
+      rating: "Bad"
+      comments: "With her being the director (and doing a poor job at it), she really plays an overall bland character that is overall forgettable and not up to the standard she is trying to portray the movie as"
     }
-    actor {
-      name: "Gemma Chan"
-      comments: "Decent from Gemma Chan (Her scenes are pretty memorable and she does a decent job in holding her own throughout the movie)"
+    performance {
+      actor {
+        name: "Gemma Chan"
+      }
+      rating: "Decent"
+      comments: "Her scenes are pretty memorable and she does a decent job in holding her own throughout the movie"
     }
-    actor {
-      name: "Chris Pine"
-      comments: "Pretty Good from Chris Pine (Really starts off slow as he plays a character he is not really accustomed to playing, but as the film progresses he starts become more believable as the creator of the world that has so many questions)"
+    performance {
+      actor {
+        name: "Chris Pine"
+      }
+      rating: "Pretty Good"
+      comments: "Really starts off slow as he plays a character he is not really accustomed to playing, but as the film progresses he starts become more believable as the creator of the world that has so many questions"
     }
-    cast: "Bad from the rest of the cast (the overall cast tries to play a 1950s type of cast but it really does not hit the mark and comes off as very tacky rather than representative of the time)"
-    comments: "Bad Acting"
+    cast {
+      rating: "Bad"
+      comments: "The overall cast tries to play a 1950s type of cast but it really does not hit the mark and comes off as very tacky rather than representative of the time"
+    }
+    rating: "Bad"
   }
   story {
     writer {
@@ -41,39 +60,51 @@ review {
     writer {
       name: "Katie Silberman"
     }
-    comments: "Pretty Bad Story (The overarching idea of the story is pretty interesting and kinda cool, but the storytelling mixed with many plot holes and useless plot elements really takes away from this story being memorable as it comes off as more of a clone to the Truman Show/Matrix than being unique in itself)"
+    rating: "Pretty Bad"
+    comments: "The overarching idea of the story is pretty interesting and kinda cool, but the storytelling mixed with many plot holes and useless plot elements really takes away from this story being memorable as it comes off as more of a clone to the Truman Show/Matrix than being unique in itself"
   }
   screenplay {
     writer {
       name: "Katie Silberman"
     }
-    comments: "Bad Screenplay (With the tone and acting trying to mimic the 1950s, the vernacular is very modern and creates a weird juxtaposition; the actual dialogue was very bland and choppy (with nothing flowing); they do have some symbolism (like the inclusion of the Sylvia Plath book to show how she is losing her mind) but the movie is just too boring and uninteresting to care about any of the symbols they put at us)"
+    rating: "Bad"
+    comments: "With the tone and acting trying to mimic the 1950s, the vernacular is very modern and creates a weird juxtaposition; the actual dialogue was very bland and choppy (with nothing flowing); they do have some symbolism (like the inclusion of the Sylvia Plath book to show how she is losing her mind) but the movie is just too boring and uninteresting to care about any of the symbols they put at us"
   }
   score {
     composer {
       name: "John Powell"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
   cinematography {
     cinematographer {
       name: "Matthew Libatique"
     }
-    comments: "Very Good Cinematography (Able to use lighting and different camera angles to help build symbolism, especially with the use of the sun blinding the camera)"
+    rating: "Very Good"
+    comments: "Able to use lighting and different camera angles to help build symbolism, especially with the use of the sun blinding the camera"
   }
   editing {
     editor {
       name: "Affonso Gon\303\247alves"
     }
-    comments: "Great Editing (The automation of routine and the hip-hop montages were used well to show how simulated the world they were living in is)"
+    rating: "Great"
+    comments: "The automation of routine and the hip-hop montages were used well to show how simulated the world they were living in is"
   }
-  visual_effects: "Pretty Good Visual Effects"
-  production_design: "Great Production Design (Really enjoyed the 50s sets they used to mimic this utopian world they tried to create)"
-  costumes: "Good Costumes"
+  visual_effects {
+    rating: "Pretty Good"
+  }
+  production_design {
+    rating: "Great"
+    comments: "Really enjoyed the 50s sets they used to mimic this utopian world they tried to create"
+  }
+  costumes {
+    rating: "Good"
+  }
   plot_structure: "Plot Structure was not that well set up as the exposition is not that well set up and the conflict being introduced was not that good"
   pacing: "Pacing felt super slow cause of how long the movie was (by the final third of the movie I was just bored from how long of a movie it was)"
   climax: "Build to the climax was very poorly executed (but it was a decent idea they were trying to go with); climax was pretty typical and predictable"
   tone: "Tone followed this mix of the 50s with a thriller and was not well established because of how the other movie parts were not executed well"
+  final_notes: ""
   overall: "Overall, a movie that was not executed well and really misses the mark in what it tries to show as it fails from poor direction and writing that make the movie more boring than thrilling"
 }
 release_year: 2022

@@ -5,53 +5,64 @@ review {
     director {
       name: "Phil Alden Robinson"
     }
-    comments: "Pretty Good to Good Direction"
+    rating: "Pretty Good to Good"
   }
   acting {
-    actor {
-      name: "Kevin Costner"
-      comments: "Pretty Good to Good from Kevin Costner (Kinda has the same expression throughout the movie (not bad but very static))"
+    performance {
+      actor {
+        name: "Kevin Costner"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Kinda has the same expression throughout the movie (not bad but very static)"
     }
-    actor {
-      name: "Amy Madigan"
-      comments: "Good to Very Good from Amy Madigan"
+    performance {
+      actor {
+        name: "Amy Madigan"
+      }
+      rating: "Good to Very Good"
     }
-    actor {
-      name: "James Earl Jones"
-      comments: "Good to Very Good from James Earl Jones"
+    performance {
+      actor {
+        name: "James Earl Jones"
+      }
+      rating: "Good to Very Good"
     }
-    cast: "Pretty Bad to Decent from the rest of the cast"
-    comments: "Decent to Pretty Good Acting"
+    cast {
+      rating: "Pretty Bad to Decent"
+    }
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
       name: "Phil Alden Robinson"
     }
-    comments: "Decent to Pretty Good Story (Though a majority of the movie stems away from the actual subject of the film as the film takes about 40 minutes into a pointless side quest)"
+    rating: "Decent to Pretty Good"
+    comments: "Though a majority of the movie stems away from the actual subject of the film as the film takes about 40 minutes into a pointless side quest"
   }
   screenplay {
     writer {
       name: "Phil Alden Robinson"
     }
-    comments: "Pretty Good Screenplay (Has iconic lines and good moments but the rest of the dialogue reeks of the 80s and is kinda bland)"
+    rating: "Pretty Good"
+    comments: "Has iconic lines and good moments but the rest of the dialogue reeks of the 80s and is kinda bland"
   }
   score {
     composer {
       name: "James Horner"
     }
-    comments: "Great Score"
+    rating: "Great"
   }
   cinematography {
     cinematographer {
       name: "John Lindley"
     }
-    comments: "Pretty Good Cinematography"
+    rating: "Pretty Good"
   }
   editing {
     editor {
       name: "Ian Crafford"
     }
-    comments: "Good Film Editing"
+    rating: "Good"
   }
   pacing: "Pacing was extremely fast in the beginning then pretty good in the middle and then pretty slow towards the end with a very abrupt ending (though the ending of the movie was decent to pretty good with everything coming back full circle (As all the points come to the purpose of Kevin Costner\'s character))"
   climax: "The build to the climax was very abrupt as you realize you missed the climax right as it is about to end; the runtime was on the shorter side but was very poorly used as there definitely could\'ve been 10-20 minutes added towards the climax/resolution"

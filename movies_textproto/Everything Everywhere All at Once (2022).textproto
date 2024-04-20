@@ -8,31 +8,49 @@ review {
     director {
       name: "Daniel Scheinert"
     }
-    comments: "Very Good to Great Direction (Did a really good job in helping choreograph the different fight scenes, fast cuts in helping drive the narrative, and getting the most out of their actors in many different parts in the film; sometimes they do get lost is in their own pace as they cannot keep up with the fast pace they have created and did not do the best in helping bring the whole thing home)"
+    rating: "Very Good to Great"
+    comments: "Did a really good job in helping choreograph the different fight scenes, fast cuts in helping drive the narrative, and getting the most out of their actors in many different parts in the film; sometimes they do get lost is in their own pace as they cannot keep up with the fast pace they have created and did not do the best in helping bring the whole thing home"
   }
   acting {
-    actor {
-      name: "Michelle Yeoh"
-      comments: "Great from Michelle Yeoh (Really is able to command the film and show multiple dimensions in her performance as she helps the character grown from her insecurities to a confident lead in the end)"
+    performance {
+      actor {
+        name: "Michelle Yeoh"
+      }
+      rating: "Great"
+      comments: "Really is able to command the film and show multiple dimensions in her performance as she helps the character grown from her insecurities to a confident lead in the end"
     }
-    actor {
-      name: "Stephanie Hsu"
-      comments: "Pretty Good to Good from Stephanie Hsu (Is fine in helping portray a multiple sided character that is a angsty teen with villain capabilities, but her performance can get really annoying at times as she plays too strong into the Villain and teen tropes to where her performance becomes a bit limited and annoying)"
+    performance {
+      actor {
+        name: "Stephanie Hsu"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Is fine in helping portray a multiple sided character that is a angsty teen with villain capabilities, but her performance can get really annoying at times as she plays too strong into the Villain and teen tropes to where her performance becomes a bit limited and annoying"
     }
-    actor {
-      name: "Ke Huy Quan"
-      comments: "Very Good from Ke Huy Quan (really steals the show sometimes as he still has that charm that Short Round had while still moving a bit past to show his ability to show multiple dimensions as an actor)"
+    performance {
+      actor {
+        name: "Ke Huy Quan"
+      }
+      rating: "Very Good"
+      comments: "Really steals the show sometimes as he still has that charm that Short Round had while still moving a bit past to show his ability to show multiple dimensions as an actor"
     }
-    actor {
-      name: "James Hong"
-      comments: "Good from James Hong (Plays the typical character that he usually plays but does a good job in doing it)"
+    performance {
+      actor {
+        name: "James Hong"
+      }
+      rating: "Good"
+      comments: "Plays the typical character that he usually plays but does a good job in doing it"
     }
-    actor {
-      name: "Jamie Lee Curtis"
-      comments: "Good to Very Good from Jamie Lee Curtis (Shows her experience in the role and is able to be a monotonous anti-hero very well)"
+    performance {
+      actor {
+        name: "Jamie Lee Curtis"
+      }
+      rating: "Good to Very Good"
+      comments: "Shows her experience in the role and is able to be a monotonous anti-hero very well"
     }
-    cast: "Good from the rest of the cast"
-    comments: "Good to Very Good Acting"
+    cast {
+      rating: "Good"
+    }
+    rating: "Good to Very Good"
   }
   story {
     writer {
@@ -41,7 +59,8 @@ review {
     writer {
       name: "Daniel Scheinert"
     }
-    comments: "Very Good Story (Very good concept and does a good job in explaining the concept, the storytelling of the film is also very good as the audience is very captivated by what is happening and what will happen next; there are some issues with overall plot construction and how everything is distributed)"
+    rating: "Very Good"
+    comments: "Very good concept and does a good job in explaining the concept, the storytelling of the film is also very good as the audience is very captivated by what is happening and what will happen next; there are some issues with overall plot construction and how everything is distributed"
   }
   screenplay {
     writer {
@@ -50,30 +69,43 @@ review {
     writer {
       name: "Daniel Scheinert"
     }
-    comments: "Great Screenplay (Very witty and the jokes are very good, there is also a lot of symbolism present in multiple ways (even absurd ones))"
+    rating: "Great"
+    comments: "Very witty and the jokes are very good, there is also a lot of symbolism present in multiple ways (even absurd ones)"
   }
   score {
     composer {
       name: "Son Lux"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
   cinematography {
     cinematographer {
       name: "Larkin Seiple"
     }
-    comments: "Great Cinematography (really comes to light in the fighting scenes)"
+    rating: "Great"
+    comments: "Really comes to light in the fighting scenes"
   }
-  sound: "Very Good Sound"
   editing {
     editor {
       name: "Paul Rogers"
     }
-    comments: "Incredible Editing (Is used in a very good way in helping tell the story and show the different worlds the characters are going through in parallel)"
+    rating: "Incredible"
+    comments: "Is used in a very good way in helping tell the story and show the different worlds the characters are going through in parallel"
   }
-  visual_effects: "Decent Visual Effects (Is fine given the budget but can really show sometimes in how cheap it is)"
-  makeup: "Good Makeup"
-  costumes: "Good Costumes (Helps in differentiating the different worlds)"
+  sound {
+    rating: "Very Good"
+  }
+  visual_effects {
+    rating: "Decent"
+    comments: "Is fine given the budget but can really show sometimes in how cheap it is"
+  }
+  makeup {
+    rating: "Good"
+  }
+  costumes {
+    rating: "Good"
+    comments: "Helps in differentiating the different worlds"
+  }
   plot_structure: "Plot Structure is the movie is a big issue as it is split into three parts but puts way too much into the first than the final two (especially the last one) as the final two parts feel a bit rushed (to where 10-20 minutes from the first part could be cut out and the exact same movie would be there)"
   pacing: "Pacing was incredibly fast to where many details can be lost if not paying attention (due to how content dense the movie is)"
   climax: "Build to climax is very well done and a good epiphany for the main character as she learns her importance; climax was very underwhelming as it tries a bit too hard to be feel good to where it just feels incredibly forced and unrealistic"

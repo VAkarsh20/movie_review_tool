@@ -5,23 +5,36 @@ review {
     director {
       name: "John McTiernan"
     }
-    comments: "Very Good Direction (Directs the movie very well on a macroscale as the action scenes are really well choreographed and pretty graphic for the 80s (something that will usher in a new era into the 90s); the direction on a microscale is very entertaining as these scenes brought out the comedy in the movie and painted the characters (especially John McClane, Hans Gruber, and Al Powell); the direction of actors is very 80s (though he does get a lot out of Bruce and a good amount out of Reginald VelJohnson and Alan Rickman); uses a very 80s campy style of storytelling (especially with the other-the-top action scenes) but blends comedy in well to make the film very enjoyable)"
+    rating: "Very Good"
+    comments: "Directs the movie very well on a macroscale as the action scenes are really well choreographed and pretty graphic for the 80s (something that will usher in a new era into the 90s); the direction on a microscale is very entertaining as these scenes brought out the comedy in the movie and painted the characters (especially John McClane, Hans Gruber, and Al Powell); the direction of actors is very 80s (though he does get a lot out of Bruce and a good amount out of Reginald VelJohnson and Alan Rickman); uses a very 80s campy style of storytelling (especially with the other-the-top action scenes) but blends comedy in well to make the film very enjoyable"
   }
   acting {
-    actor {
-      name: "Bruce Willis"
-      comments: "Very Good from Bruce Willis (Blends the line between action star and comedy actor very well as he has a command of the movie and establishes himself as a leading man)"
+    performance {
+      actor {
+        name: "Bruce Willis"
+      }
+      rating: "Very Good"
+      comments: "Blends the line between action star and comedy actor very well as he has a command of the movie and establishes himself as a leading man"
     }
-    actor {
-      name: "Alan Rickman"
-      comments: "Good from Alan Rickman (Plays the villain very well (though he has a lot of 80s camp in his role))"
+    performance {
+      actor {
+        name: "Alan Rickman"
+      }
+      rating: "Good"
+      comments: "Plays the villain very well (though he has a lot of 80s camp in his role)"
     }
-    actor {
-      name: "Reginald VelJohnson"
-      comments: "Good from Reginald VelJohnson (The real comedic relief for the movie and has really good chemistry with Bruce Willis)"
+    performance {
+      actor {
+        name: "Reginald VelJohnson"
+      }
+      rating: "Good"
+      comments: "The real comedic relief for the movie and has really good chemistry with Bruce Willis"
     }
-    cast: "Decent from the rest of the cast (Everyone is just 80s camp, though some performances are better than others)"
-    comments: "Pretty Good to Good Acting"
+    cast {
+      rating: "Decent"
+      comments: "Everyone is just 80s camp, though some performances are better than others"
+    }
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
@@ -30,7 +43,8 @@ review {
     writer {
       name: "Steven E. de Souza"
     }
-    comments: "Great Story (The concept is unique as it is a blend of Rambo and a cop comedy (all shrouded under the backdrop of Christmas); the story construction is pretty formulaic for an 80s action movie (but executes this formula to a tee); the flow between sequences executed very nicely as they use Comedy as a vehicle to move the story forward, stopping at certain points to have high power action scenes; the character writing is very good for John McClane as you get to see this badass cop trying to save his wife from these terrorists, but the rest of the characters are pretty shallow 80s characters (besides Hans Gruber and Al Powell))"
+    rating: "Great"
+    comments: "The concept is unique as it is a blend of Rambo and a cop comedy (all shrouded under the backdrop of Christmas); the story construction is pretty formulaic for an 80s action movie (but executes this formula to a tee); the flow between sequences executed very nicely as they use Comedy as a vehicle to move the story forward, stopping at certain points to have high power action scenes; the character writing is very good for John McClane as you get to see this badass cop trying to save his wife from these terrorists, but the rest of the characters are pretty shallow 80s characters (besides Hans Gruber and Al Powell)"
   }
   screenplay {
     writer {
@@ -39,21 +53,23 @@ review {
     writer {
       name: "Steven E. de Souza"
     }
-    comments: "Great Screenplay (The dialogue for this movie is incredibly well written as it is filled with so many iconic lines and has a good flow for an 80s movie; the humor for this movie is a real highlight as almost all of the jokes hit and are funny (with comedy being used as a way to move the story forward and paint John\342\200\231s personality); the movie builds tension is a very stereotypical 80s action movie way; there is surprisingly some symbolism in the movie (which is a lot given its an 80s action movie); the foreshadowing for the movie is really good as it helps reveal things later in the movie (though it could be argued it does make it a bit predictable))"
+    rating: "Great"
+    comments: "The dialogue for this movie is incredibly well written as it is filled with so many iconic lines and has a good flow for an 80s movie; the humor for this movie is a real highlight as almost all of the jokes hit and are funny (with comedy being used as a way to move the story forward and paint John\342\200\231s personality); the movie builds tension is a very stereotypical 80s action movie way; there is surprisingly some symbolism in the movie (which is a lot given its an 80s action movie); the foreshadowing for the movie is really good as it helps reveal things later in the movie (though it could be argued it does make it a bit predictable)"
   }
   score {
     composer {
       name: "Michael Kamen"
     }
-    comments: "Good Score (Used very well to help build tension and paint the action scenes (and the use of Christmas music does help the argument that it is a Christmas movie))"
+    rating: "Good"
+    comments: "Used very well to help build tension and paint the action scenes (and the use of Christmas music does help the argument that it is a Christmas movie)"
   }
   cinematography {
     cinematographer {
       name: "Jan de Bont"
     }
-    comments: "Good Cinematography (Filled with many iconic shots (though does take a lot from other 80s action movies))"
+    rating: "Good"
+    comments: "Filled with many iconic shots (though does take a lot from other 80s action movies)"
   }
-  sound: "Great Sound (Very 80s but helps paint the gunshots and explosions)"
   editing {
     editor {
       name: "Frank J. Urioste"
@@ -61,9 +77,17 @@ review {
     editor {
       name: "John F. Link"
     }
-    comments: "Good Editing (Felt very polished)"
+    rating: "Good"
+    comments: "Felt very polished"
   }
-  visual_effects: "Great Visual Effects (Great use of practical effects and pyrotechnics)"
+  sound {
+    rating: "Great"
+    comments: "Very 80s but helps paint the gunshots and explosions"
+  }
+  visual_effects {
+    rating: "Great"
+    comments: "Great use of practical effects and pyrotechnics"
+  }
   plot_structure: "Plot Structure was pretty similar to the 80s action movie template and sticks to the formula pretty well"
   pacing: "Pacing was good as it kept the same pace throughout the movie"
   climax: "Climax was executed very well and showed the character development/ the protagonist went as it came to this pinnacle moment"

@@ -5,47 +5,78 @@ review {
     director {
       name: "Craig Gillespie"
     }
-    comments: "Good Direction (Does a good job at telling the story and progressing the narrative forward on both a macro and a micro scale as he plays the line between comedy and drama to keep the movie entertaining yet focused; gets a lot out of his actors as he takes more traditionally comedic actors and gets them to be somewhat dramatic)"
+    rating: "Good"
+    comments: "Does a good job at telling the story and progressing the narrative forward on both a macro and a micro scale as he plays the line between comedy and drama to keep the movie entertaining yet focused; gets a lot out of his actors as he takes more traditionally comedic actors and gets them to be somewhat dramatic"
   }
   acting {
-    actor {
-      name: "Paul Dano"
-      comments: "Good from Paul Dano (Really embodies the character and uses a lot of his personal persona to tell this story; feels like the character was written for him)"
+    performance {
+      actor {
+        name: "Paul Dano"
+      }
+      rating: "Good"
+      comments: "Really embodies the character and uses a lot of his personal persona to tell this story; feels like the character was written for him"
     }
-    actor {
-      name: "Pete Davidson"
-      comments: "Pretty Good from Pete Davidson (Plays the typical Pete Davidson character)"
+    performance {
+      actor {
+        name: "Pete Davidson"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the typical Pete Davidson character"
     }
-    actor {
-      name: "Vincent D\'Onofrio"
-      comments: "Pretty Good from Vincent D\'Onofrio (Uses the most out of his screentime)"
+    performance {
+      actor {
+        name: "Vincent D\'Onofrio"
+      }
+      rating: "Pretty Good"
+      comments: "Uses the most out of his screentime"
     }
-    actor {
-      name: "America Ferrera"
-      comments: "Pretty Good to Good from America Ferrera (Shows more of her dramatic chops than the rest of the cast, but there are moments that are kind of cringe though)"
+    performance {
+      actor {
+        name: "America Ferrera"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Shows more of her dramatic chops than the rest of the cast, but there are moments that are kind of cringe though"
     }
-    actor {
-      name: "Nick Offerman"
-      comments: "Pretty Good to Good from Nick Offerman (Embodies the character well)"
+    performance {
+      actor {
+        name: "Nick Offerman"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Embodies the character well"
     }
-    actor {
-      name: "Anthony Ramos"
-      comments: "Pretty Good from Anthony Ramos (Has a good amount of charisma in the role)"
+    performance {
+      actor {
+        name: "Anthony Ramos"
+      }
+      rating: "Pretty Good"
+      comments: "Has a good amount of charisma in the role"
     }
-    actor {
-      name: "Sebastian Stan"
-      comments: "Good from Sebastian Stan (Really embodied the role as it felt very believable he was the CEO of Robinhood)"
+    performance {
+      actor {
+        name: "Sebastian Stan"
+      }
+      rating: "Good"
+      comments: "Really embodied the role as it felt very believable he was the CEO of Robinhood"
     }
-    actor {
-      name: "Shailene Woodley"
-      comments: "Pretty Good from Shailene Woodley (Works off of Dano well)"
+    performance {
+      actor {
+        name: "Shailene Woodley"
+      }
+      rating: "Pretty Good"
+      comments: "Works off of Dano well"
     }
-    actor {
-      name: "Seth Rogen"
-      comments: "Pretty Good to Good from Seth Rogen (Uses a lot of his experience to show both the comedic sides of the character along with some of the more dramatic parts)"
+    performance {
+      actor {
+        name: "Seth Rogen"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Uses a lot of his experience to show both the comedic sides of the character along with some of the more dramatic parts"
     }
-    cast: "Decent from the rest of the cast (The adult cast did a pretty good job in their roles, but the college students were incredibly cringe)"
-    comments: "Pretty Good Acting"
+    cast {
+      rating: "Decent"
+      comments: "The adult cast did a pretty good job in their roles, but the college students were incredibly cringe"
+    }
+    rating: "Pretty Good"
   }
   story {
     writer {
@@ -54,7 +85,8 @@ review {
     writer {
       name: "Rebecca Angelo"
     }
-    comments: "Pretty Good Story (Really entertaining story and does a pretty good job at being someone true to the story (at least with the main plotline because of how public it was); the more composite storylines were kinda irrelevant and one of them could have been cut to save on time; the story was laid out well and the more Reddit/memer side of the story felt like something Internet Historian would make; the use of real footage and interviews with the actors helped with keeping it more accurate)"
+    rating: "Pretty Good"
+    comments: "Really entertaining story and does a pretty good job at being someone true to the story (at least with the main plotline because of how public it was); the more composite storylines were kinda irrelevant and one of them could have been cut to save on time; the story was laid out well and the more Reddit/memer side of the story felt like something Internet Historian would make; the use of real footage and interviews with the actors helped with keeping it more accurate"
   }
   screenplay {
     writer {
@@ -63,27 +95,36 @@ review {
     writer {
       name: "Rebecca Angelo"
     }
-    comments: "Decent Screenplay (The dialogue embodies how Wall Street Bets and Roaring Kitty talked (which is a double-edged sword cause of how cringy it is), but was mostly pretty simplistic; the jokes were pretty funny and helped keep the movie entertaining; the symbolism is pretty overt and the message was on-the-nose; the foreshadowing is on par with other biopics)"
+    rating: "Decent"
+    comments: "The dialogue embodies how Wall Street Bets and Roaring Kitty talked (which is a double-edged sword cause of how cringy it is), but was mostly pretty simplistic; the jokes were pretty funny and helped keep the movie entertaining; the symbolism is pretty overt and the message was on-the-nose; the foreshadowing is on par with other biopics"
   }
   score {
     composer {
       name: "Will Bates"
     }
-    comments: "Decent Score (Somewhat there)"
+    rating: "Decent"
+    comments: "Somewhat there"
   }
-  soundtrack: "Good Soundtrack (Really stayed true to the time period and made the movie more entertaining)"
+  soundtrack {
+    rating: "Good"
+    comments: "Really stayed true to the time period and made the movie more entertaining"
+  }
   cinematography {
     cinematographer {
       name: "Nikolas Karakatsanis"
     }
-    comments: "Good Cinematography"
+    rating: "Good"
   }
-  sound: "Good Sound (Makes it feel very memey/Reddity)"
   editing {
     editor {
       name: "Kirk Baxter"
     }
-    comments: "Pretty Good Editing (Really feels like something Internet Historian would make)"
+    rating: "Pretty Good"
+    comments: "Really feels like something Internet Historian would make"
+  }
+  sound {
+    rating: "Good"
+    comments: "Makes it feel very memey/Reddity"
   }
   plot_structure: "Plot Structure was pretty good as it was a main storyline of what happened and multiple composite storylines that all follow the main storyline (with all of them having their narrative journey); one of these composite storylines could have been cut to make the movie a bit tighter as one main storyline and three composite storylines is a lot for a runtime of this size"
   pacing: "Pacing was pretty good as it wasn\'t too short or fast"

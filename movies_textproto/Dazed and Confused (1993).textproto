@@ -5,46 +5,64 @@ review {
     director {
       name: "Richard Linklater"
     }
-    comments: "Pretty Good Direction (Good when handling the the overarching scenes but pretty bad when handling dialogue between characters (often leaving a sense of unintended awkwardness))"
+    rating: "Pretty Good"
+    comments: "Good when handling the the overarching scenes but pretty bad when handling dialogue between characters (often leaving a sense of unintended awkwardness)"
   }
   acting {
-    actor {
-      name: "Matthew McConaughey"
-      comments: "Very Good from Matthew McConaughey (in his acting debut that set the tone for his entire celebrity persona)"
+    performance {
+      actor {
+        name: "Matthew McConaughey"
+      }
+      rating: "Very Good"
+      comments: "In his acting debut that set the tone for his entire celebrity persona"
     }
-    actor {
-      name: "Ben Affleck"
-      comments: "Good from Ben Affleck"
+    performance {
+      actor {
+        name: "Ben Affleck"
+      }
+      rating: "Good"
     }
-    cast: "Decent from the rest of the cast (ranged anywhere from pretty good to really bad (mainly due to most of them being very inexperienced and young))"
-    comments: "Pretty Bad Acting"
+    cast {
+      rating: "Decent"
+      comments: "Ranged anywhere from pretty good to really bad (mainly due to most of them being very inexperienced and young)"
+    }
+    rating: "Pretty Bad"
   }
   story {
     writer {
       name: "Richard Linklater"
     }
-    comments: "Decent Story (chronicling the stereotypical summer before high school American experience in the 70s)"
+    rating: "Decent"
+    comments: "Chronicling the stereotypical summer before high school American experience in the 70s"
   }
   screenplay {
     writer {
       name: "Richard Linklater"
     }
-    comments: "Decent to Pretty Good Screenplay (while some moments were very questionable, the movie is filled with a lot of iconic lines (especially everything that McConaughey says))"
+    rating: "Decent to Pretty Good"
+    comments: "While some moments were very questionable, the movie is filled with a lot of iconic lines (especially everything that McConaughey says)"
   }
   cinematography {
     cinematographer {
       name: "Lee Daniel"
     }
-    comments: "Great Cinematography (especially to go between different characters and highlight elements of the night-life of the youth; also good in highlighting elements/actions of what the characters were doing)"
+    rating: "Great"
+    comments: "Especially to go between different characters and highlight elements of the night-life of the youth; also good in highlighting elements/actions of what the characters were doing"
   }
-  sound: "Decent Sound (though the paddle scenes sound a bit cartoonish)"
   editing {
     editor {
       name: "Sandra Adair"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  production_design: "Pretty Good Production Design (helped capture the feeling of the 70s)"
+  sound {
+    rating: "Decent"
+    comments: "Though the paddle scenes sound a bit cartoonish"
+  }
+  production_design {
+    rating: "Pretty Good"
+    comments: "Helped capture the feeling of the 70s"
+  }
   plot_structure: "Plot Structure was evident though there were some parts that were better than others (the exposition was incredibly boring and dragging, the rising action was the best part of the movie as that was where the iconic moments of the movie come, the climax (if you call it a climax) was alright as it was more a continuation of the rising action, and the resolution tied the lose ends pretty well)"
   pacing: "Pacing was two sided (the first 30 minutes of the movie were incredibly slow and boring as there was a lot of awkwardness and lack of emotion, the rest of the movie the pacing was fine and pretty steady overall)"
   climax: "Build to the climax was not really evident as it was more a transition from one setting to another; the climax itself was not really evident as it was just a change in scenery (nothing suspenseful or super meaningful happened)"

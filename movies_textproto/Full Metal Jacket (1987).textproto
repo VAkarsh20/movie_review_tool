@@ -5,23 +5,32 @@ review {
     director {
       name: "Stanley Kubrick"
     }
-    comments: "Great Direction"
+    rating: "Great"
   }
   acting {
-    actor {
-      name: "Matthew Modine"
-      comments: "Good from Matthew Modine"
+    performance {
+      actor {
+        name: "Matthew Modine"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Vincent D\'Onofrio"
-      comments: "Good from Vincent D\'Onofrio"
+    performance {
+      actor {
+        name: "Vincent D\'Onofrio"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Lee Ermey"
-      comments: "Very Good from Lee Ermey"
+    performance {
+      actor {
+        name: "Lee Ermey"
+      }
+      rating: "Very Good"
     }
-    cast: "Pretty Good from the rest of the cast (Most were pretty good but some were mediocre)"
-    comments: "Good Acting"
+    cast {
+      rating: "Pretty Good"
+      comments: "Most were pretty good but some were mediocre"
+    }
+    rating: "Good"
   }
   story {
     writer {
@@ -33,7 +42,8 @@ review {
     writer {
       name: "Gustav Hasford"
     }
-    comments: "Good to Very Good Story (Very good in the boot camp (first 40%) and Good during the Vietnam War parts)"
+    rating: "Good to Very Good"
+    comments: "Very good in the boot camp (first 40%) and Good during the Vietnam War parts"
   }
   screenplay {
     writer {
@@ -45,13 +55,15 @@ review {
     writer {
       name: "Gustav Hasford"
     }
-    comments: "Great Screenplay (Deviates from the source material but is still very whitty and bends the line between comical and serious very well)"
+    rating: "Great"
+    comments: "Deviates from the source material but is still very whitty and bends the line between comical and serious very well"
   }
   cinematography {
     cinematographer {
       name: "Douglas Milsome"
     }
-    comments: "Very Good Cinematography (Very Kubrick in style but still is a bit different as it still has similar tones to traditional war movies)"
+    rating: "Very Good"
+    comments: "Very Kubrick in style but still is a bit different as it still has similar tones to traditional war movies"
   }
   pacing: "Pacing was generally very slow but consistent to Kubrick style pacing"
   climax: "The build to the climax is not that well done as there are many jumps in the narrative and the resolution does not really exist"

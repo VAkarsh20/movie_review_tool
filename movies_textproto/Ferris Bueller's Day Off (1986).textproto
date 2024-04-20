@@ -5,50 +5,61 @@ review {
     director {
       name: "John Hughes"
     }
-    comments: "Good Direction"
+    rating: "Good"
   }
   acting {
-    actor {
-      name: "Matthew Broderick"
-      comments: "Very Good from Matthew Broderick"
+    performance {
+      actor {
+        name: "Matthew Broderick"
+      }
+      rating: "Very Good"
     }
-    actor {
-      name: "Alan Ruck"
-      comments: "Good from Alan Ruck"
+    performance {
+      actor {
+        name: "Alan Ruck"
+      }
+      rating: "Good"
     }
-    cast: "Pretty Good from the rest of the cast"
-    comments: "Pretty Good to Good Acting"
+    cast {
+      rating: "Pretty Good"
+    }
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
       name: "John Hughes"
     }
-    comments: "Pretty Good Story (Pretty simplistic in its nature but contains very iconic scenes)"
+    rating: "Pretty Good"
+    comments: "Pretty simplistic in its nature but contains very iconic scenes"
   }
   screenplay {
     writer {
       name: "John Hughes"
     }
-    comments: "Pretty Good Screenplay (Iconic Lines and Scenes throughout the movie with its breaking the fourth wall but the overall screenplay was pretty simple and bland (reeks of the 80s); little to no noticable symbolism)"
+    rating: "Pretty Good"
+    comments: "Iconic Lines and Scenes throughout the movie with its breaking the fourth wall but the overall screenplay was pretty simple and bland (reeks of the 80s); little to no noticable symbolism"
   }
   score {
     composer {
       name: "Ira Newborn"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
-  soundtrack: "Very Good Soundtrack (Iconic)"
+  soundtrack {
+    rating: "Very Good"
+    comments: "Iconic"
+  }
   cinematography {
     cinematographer {
       name: "Tak Fujimoto"
     }
-    comments: "Pretty Good Cinematography"
+    rating: "Pretty Good"
   }
   editing {
     editor {
       name: "Paul Hirsch"
     }
-    comments: "Good Film Editing"
+    rating: "Good"
   }
   pacing: "Pacing was a valley (very fast towards the beginning and ends but pretty slow in the middle); the runtime was on the shorter side but 20 minutes in the middle definitely could have been cut to produce the same movie"
   climax: "The build to the climax was a short spike that is very fast with the actual climax being an iconic sequence where Ferris tries to get back home; the ending of the movie was decent with everything coming back full circle (With the post credits being very funny and iconic, something groundbreaking for its day)"

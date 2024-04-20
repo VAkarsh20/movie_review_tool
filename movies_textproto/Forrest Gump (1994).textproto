@@ -5,61 +5,87 @@ review {
     director {
       name: "Robert Zemeckis"
     }
-    comments: "Great to Incredible Direction (The ability to go from scene to scene while keeping the narrative going was a highlight; also, did a great job in conversation scenes and showing the vast scenary)"
+    rating: "Great to Incredible"
+    comments: "The ability to go from scene to scene while keeping the narrative going was a highlight; also, did a great job in conversation scenes and showing the vast scenary"
   }
   acting {
-    actor {
-      name: "Tom Hanks"
-      comments: "Incredible to Brilliant from Tom Hanks (Has the charm and ability to play someone who holds heart (even though he may be slow), also his ability to use expressions to show emotion was also a highlight)"
+    performance {
+      actor {
+        name: "Tom Hanks"
+      }
+      rating: "Incredible to Brilliant"
+      comments: "Has the charm and ability to play someone who holds heart (even though he may be slow), also his ability to use expressions to show emotion was also a highlight"
     }
-    actor {
-      name: "Robin Wright"
-      comments: "Very Good from Robin Wright (though she really was the antagonist of the movie given how much struggle she makes Forrest go through at each stage of his life)"
+    performance {
+      actor {
+        name: "Robin Wright"
+      }
+      rating: "Very Good"
+      comments: "Though she really was the antagonist of the movie given how much struggle she makes Forrest go through at each stage of his life"
     }
-    actor {
-      name: "Gary Sinise"
-      comments: "Great from Gary Sinise (the ability to show trauma and overcoming it)"
+    performance {
+      actor {
+        name: "Gary Sinise"
+      }
+      rating: "Great"
+      comments: "The ability to show trauma and overcoming it"
     }
-    actor {
-      name: "Sally Field"
-      comments: "Very Good to Great from Sally Field"
+    performance {
+      actor {
+        name: "Sally Field"
+      }
+      rating: "Very Good to Great"
     }
-    cast: "Good from the rest of the cast"
-    comments: "Very Good to Great Acting"
+    cast {
+      rating: "Good"
+    }
+    rating: "Very Good to Great"
   }
   story {
     writer {
       name: "Eric Roth"
     }
-    comments: "Brilliant Story (with how iconic each segment of Forrest\'s life makes him who he is and the storytelling from Tom Hanks to help drive the movie forward (and not just tell what is happening))"
+    rating: "Brilliant"
+    comments: "With how iconic each segment of Forrest\'s life makes him who he is and the storytelling from Tom Hanks to help drive the movie forward (and not just tell what is happening)"
   }
   screenplay {
     writer {
       name: "Eric Roth"
     }
-    comments: "Incredible Screenplay (filled with iconic lines)"
+    rating: "Incredible"
+    comments: "Filled with iconic lines"
   }
   score {
     composer {
       name: "Alan Silvestri"
     }
-    comments: "Good Score"
+    rating: "Good"
   }
-  soundtrack: "Good to Very Good Soundtrack (to help show which time period the story was in)"
+  soundtrack {
+    rating: "Good to Very Good"
+    comments: "To help show which time period the story was in"
+  }
   cinematography {
     cinematographer {
       name: "Don Burgess"
     }
-    comments: "Great Cinematography (especially its ability to show the vastness of many of the scenes)"
+    rating: "Great"
+    comments: "Especially its ability to show the vastness of many of the scenes"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Arthur Schmidt"
     }
-    comments: "Great to Incredible Editing (especially its ability to go between different parts of the story)"
+    rating: "Great to Incredible"
+    comments: "Especially its ability to go between different parts of the story"
   }
-  visual_effects: "Pretty Good Visual Effects (Pretty Good use of CGI (though it was a bit over-the-top at times))"
+  sound {
+    rating: "Good"
+  }
+  visual_effects {
+    rating: "Pretty Good"
+    comments: "Pretty Good use of CGI (though it was a bit over-the-top at times)"
+  }
   plot_structure: "Plot Structure was incredibly unique as each segment in the first 3/4 of the movie were more used as vignettes into Forrest\'s life and the final quarter is meant more to show the present and show what Forrest\'s future will be (however, the overarching plot structure does a great job in still introducing character, introducing some conflict, and showing character development through passage of time)"
   pacing: "Pacing was good as the movie never felt like it was dragging even though it was a bit on the longer side (partly due to the nature of how the story is built with different episodes from Forrest\'s life)"
   climax: "Build to the climax was kinda abrupt but the climax itself is the epiphany moment in Forrest\'s life in what his true purpose is (despite all that he has accomplished)"

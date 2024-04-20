@@ -5,60 +5,85 @@ review {
     director {
       name: "Steven Spielberg"
     }
-    comments: "Incredible Direction (Spielberg does an amazing job in helping movie the story forward and helping build emotion and a connections with ET and the younger characters in the film; also, his ability to conduct very grandiose scenes is something that is definitely applauded)"
+    rating: "Incredible"
+    comments: "Spielberg does an amazing job in helping movie the story forward and helping build emotion and a connections with ET and the younger characters in the film; also, his ability to conduct very grandiose scenes is something that is definitely applauded"
   }
   acting {
-    actor {
-      name: "Dee Wallace"
-      comments: "Pretty Good to Good from Dee Wallace (Plays the typical 80s mom character and is written as such)"
+    performance {
+      actor {
+        name: "Dee Wallace"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Plays the typical 80s mom character and is written as such"
     }
-    actor {
-      name: "Henry Thomas"
-      comments: "Good from Henry Thomas (Was able to hold his own as a child actor as the conduit between ET and the human world)"
+    performance {
+      actor {
+        name: "Henry Thomas"
+      }
+      rating: "Good"
+      comments: "Was able to hold his own as a child actor as the conduit between ET and the human world"
     }
-    actor {
-      name: "Robert MacNaughton"
-      comments: "Pretty Good to Good from Robert MacNaughton (Plays the older brother/bully character well and acts as a strong elder figure as he plays off Thomas well towards the climax)"
+    performance {
+      actor {
+        name: "Robert MacNaughton"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Plays the older brother/bully character well and acts as a strong elder figure as he plays off Thomas well towards the climax"
     }
-    actor {
-      name: "Drew Barrymore"
-      comments: "Good from Drew Barrymore (plays the innocent, youthful character very well and shows glimpses of what made her a big star in the coming years)"
+    performance {
+      actor {
+        name: "Drew Barrymore"
+      }
+      rating: "Good"
+      comments: "Plays the innocent, youthful character very well and shows glimpses of what made her a big star in the coming years"
     }
-    cast: "Decent from the rest of the cast (typical 80s supporting cast)"
-    comments: "Decent to Pretty Good Acting"
+    cast {
+      rating: "Decent"
+      comments: "Typical 80s supporting cast"
+    }
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
       name: "Melissa Mathison"
     }
-    comments: "Great to Incredible Story (The architecture of the story is laid out very nicely with the different elements helping make it iconic and a pioneering effort in the science-fiction genre)"
+    rating: "Great to Incredible"
+    comments: "The architecture of the story is laid out very nicely with the different elements helping make it iconic and a pioneering effort in the science-fiction genre"
   }
   screenplay {
     writer {
       name: "Melissa Mathison"
     }
-    comments: "Very Good Screenplay (Filled with iconic lines that are coupled with foreshadowing and symbolism to help drive the story forward; also the homages to Star Wars were a funny touch)"
+    rating: "Very Good"
+    comments: "Filled with iconic lines that are coupled with foreshadowing and symbolism to help drive the story forward; also the homages to Star Wars were a funny touch"
   }
   score {
     composer {
       name: "John Williams"
     }
-    comments: "Incredible Score (Iconic overall and used very well in the film, especially how it blends in to create the mood of the scenes)"
+    rating: "Incredible"
+    comments: "Iconic overall and used very well in the film, especially how it blends in to create the mood of the scenes"
   }
   cinematography {
     cinematographer {
       name: "Allen Daviau"
     }
-    comments: "Brilliant Cinematography (Especially with the angles and how they used light to emphasis the dark (blinding the face as well (which was a very nice touch in not showing the bad guys and painting them as elder figures the children should not trust)); also, the use of fog in the light helped create more of an ominous feeling)"
+    rating: "Brilliant"
+    comments: "Especially with the angles and how they used light to emphasis the dark (blinding the face as well (which was a very nice touch in not showing the bad guys and painting them as elder figures the children should not trust)); also, the use of fog in the light helped create more of an ominous feeling"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Carol Littleton"
     }
-    comments: "Very Good Editing"
+    rating: "Very Good"
   }
-  visual_effects: "Great Visual Effects (Groundbreaking for the time (especially the puppetry and use of flying), but did not age as well as other films from the time as the Green Screen is pretty obvious to see)"
+  sound {
+    rating: "Good"
+  }
+  visual_effects {
+    rating: "Great"
+    comments: "Groundbreaking for the time (especially the puppetry and use of flying), but did not age as well as other films from the time as the Green Screen is pretty obvious to see"
+  }
   plot_structure: "Plot Structure was laid out very nicely as each arc in the story did not feel like it was overstaying its place in the film (with all the elements building off of each other to help move the story forward)"
   pacing: "Pacing was consistent throughout the movie (with it not being too fast or too slow)"
   climax: "Build to climax was very evident and played out very well (with the characters planning on how they will let ET out); climax was executed very nicely and one of the most iconic moments in cinema history"

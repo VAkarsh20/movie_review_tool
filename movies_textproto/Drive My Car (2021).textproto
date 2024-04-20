@@ -5,11 +5,15 @@ review {
     director {
       name: "Ryusuke Hamaguchi"
     }
-    comments: "Great Direction (The way the director was able to get the most out of his actors while also putting together different shots to help display the loneliness and trauma of the characters was great to see)"
+    rating: "Great"
+    comments: "The way the director was able to get the most out of his actors while also putting together different shots to help display the loneliness and trauma of the characters was great to see"
   }
   acting {
-    cast: "Very Good from the rest of the cast (Not one performance was better than another (it felt like everyone played their role the way it was meant to be written and played their part in helping display their trauma))"
-    comments: "Very Good Acting"
+    cast {
+      rating: "Very Good"
+      comments: "Not one performance was better than another (it felt like everyone played their role the way it was meant to be written and played their part in helping display their trauma)"
+    }
+    rating: "Very Good"
   }
   story {
     writer {
@@ -18,7 +22,8 @@ review {
     writer {
       name: "Takamasa Oe"
     }
-    comments: "Good to Very Good Story (While the actual plot is minimal and a bit mismanaged, the different points that help show the characters overcoming their trauma was a nice subtle touch)"
+    rating: "Good to Very Good"
+    comments: "While the actual plot is minimal and a bit mismanaged, the different points that help show the characters overcoming their trauma was a nice subtle touch"
   }
   screenplay {
     writer {
@@ -27,26 +32,30 @@ review {
     writer {
       name: "Takamasa Oe"
     }
-    comments: "Great to Incredible Screenplay (Even though it is a translation, the screenplay felt very natural and personal; it was as if the characters were letting out all of their emotions when trying to move past the hardships they felt)"
+    rating: "Great to Incredible"
+    comments: "Even though it is a translation, the screenplay felt very natural and personal; it was as if the characters were letting out all of their emotions when trying to move past the hardships they felt"
   }
   score {
     composer {
       name: "Eiko Ishibashi"
     }
-    comments: "Bad Score (Poorly used (the movie rarely used the score as it opted for more ambient noise, but because of this it felt extremely slow; either use a score or do not use a score, do not just minimally use it))"
+    rating: "Bad"
+    comments: "Poorly used (the movie rarely used the score as it opted for more ambient noise, but because of this it felt extremely slow; either use a score or do not use a score, do not just minimally use it)"
   }
   cinematography {
     cinematographer {
       name: "Hidetoshi Shinomiya"
     }
-    comments: "Good Cinematography"
+    rating: "Good"
   }
-  sound: "Pretty Good Sound"
   editing {
     editor {
       name: "Azusa Yamazaki"
     }
-    comments: "Good Editing"
+    rating: "Good"
+  }
+  sound {
+    rating: "Pretty Good"
   }
   plot_structure: "Plot Structure was not managed well (The exposition was almost 30 minutes when it could have been 15, the middle acts could have cut like 20-30 minutes as most of it is just white noise/characters not really doing anything, and the resolution kinda felt out of place as it is part of the \"covid\" world when it really did not need to set in a contemporary world)"
   pacing: "Pacing was bad as the entire movie felt like it was dragging (Because the movie felt like it was 30-45 minutes longer than it should, it just has a lot of emptiness in it that makes the overall move feel slower (which does not help when they do not use a score))"
