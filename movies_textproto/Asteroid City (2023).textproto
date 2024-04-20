@@ -5,31 +5,46 @@ review {
     director {
       name: "Wes Anderson"
     }
-    comments: "Pretty Bad to Decent Direction (Anderson carries his very unique style from a macro scale as it feels like the set is a part of a stage/doll-house (which is kinda meta given the subject matter); the main issue with the movie is with the storytelling as the very convoluted and meta (which is Anderson\'s style), coupled with the very dull acting from the rest of the cast (something that Anderson for sure had a hand in))"
+    rating: "Pretty Bad to Decent"
+    comments: "Anderson carries his very unique style from a macro scale as it feels like the set is a part of a stage/doll-house (which is kinda meta given the subject matter); the main issue with the movie is with the storytelling as the very convoluted and meta (which is Anderson\'s style), coupled with the very dull acting from the rest of the cast (something that Anderson for sure had a hand in)"
   }
   acting {
-    actor {
-      name: "Jason Schwartzman"
-      comments: "Decent from Jason Schwartzman"
+    performance {
+      actor {
+        name: "Jason Schwartzman"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Scarlett Johansson"
-      comments: "Decent from Scarlett Johansson"
+    performance {
+      actor {
+        name: "Scarlett Johansson"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Tom Hanks"
-      comments: "Decent from Tom Hanks"
+    performance {
+      actor {
+        name: "Tom Hanks"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Jeffrey Wright"
-      comments: "Decent from Jeffrey Wright"
+    performance {
+      actor {
+        name: "Jeffrey Wright"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Bryan Cranston"
-      comments: "Decent to Pretty Good from Bryan Cranston (Only actor to show some ounce of emotion)"
+    performance {
+      actor {
+        name: "Bryan Cranston"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Only actor to show some ounce of emotion"
     }
-    cast: "Pretty Bad to Decent from the rest of the cast (The entire cast was very bland and it felt like none of the actors were able to work off of each other (which makes me think Wes Anderson really does not get the most out of his actors))"
-    comments: "Pretty Bad to Decent Acting"
+    cast {
+      rating: "Pretty Bad to Decent"
+      comments: "The entire cast was very bland and it felt like none of the actors were able to work off of each other (which makes me think Wes Anderson really does not get the most out of his actors)"
+    }
+    rating: "Pretty Bad to Decent"
   }
   story {
     writer {
@@ -38,35 +53,48 @@ review {
     writer {
       name: "Roman Coppola"
     }
-    comments: "Pretty Bad Story (The actual story elements were somewhat interesting, but the storytelling as a whole was convoluated for no reason and the meta storytelling of weaving the play with the writing of the play made the mode unnecessarly confusing)"
+    rating: "Pretty Bad"
+    comments: "The actual story elements were somewhat interesting, but the storytelling as a whole was convoluated for no reason and the meta storytelling of weaving the play with the writing of the play made the mode unnecessarly confusing"
   }
   screenplay {
     writer {
       name: "Wes Anderson"
     }
-    comments: "Pretty Bad Screenplay (The dialogue was incrediblely Wes Anderson but was not really interesting at all, the jokes were incredibly meta/non-sequitor, the symbolism was really faint and not really that compelling as a message, the foreshadowing was present but was also predictable)"
+    rating: "Pretty Bad"
+    comments: "The dialogue was incrediblely Wes Anderson but was not really interesting at all, the jokes were incredibly meta/non-sequitor, the symbolism was really faint and not really that compelling as a message, the foreshadowing was present but was also predictable"
   }
   score {
     composer {
       name: "Alexandre Desplat"
     }
-    comments: "Pretty Bad to Decent Score (was barely even present (which made the movie feel dull overall))"
+    rating: "Pretty Bad to Decent"
+    comments: "Was barely even present (which made the movie feel dull overall)"
   }
   cinematography {
     cinematographer {
       name: "Robert Yeoman"
     }
-    comments: "Good Cinematography (Was Wes Anderson to a Tee from the amount of shots/angle changes)"
+    rating: "Good"
+    comments: "Was Wes Anderson to a Tee from the amount of shots/angle changes"
   }
-  sound: "Decent Sound"
   editing {
     editor {
       name: "Barney Pilling"
     }
-    comments: "Decent Editing (Felt incredibly choppy when it was cutting between shots, but was pretty good when transitioning between scenes)"
+    rating: "Decent"
+    comments: "Felt incredibly choppy when it was cutting between shots, but was pretty good when transitioning between scenes"
   }
-  visual_effects: "Pretty Good Visual Effects (The low-budget feel gives makes it seem as if it is a play (which it is trying to do))"
-  production_design: "Good Production Design (Very Wes Anderson with its use of cheap sets and color palletes (something I do enjoy about his movies))"
+  sound {
+    rating: "Decent"
+  }
+  visual_effects {
+    rating: "Pretty Good"
+    comments: "The low-budget feel gives makes it seem as if it is a play (which it is trying to do)"
+  }
+  production_design {
+    rating: "Good"
+    comments: "Very Wes Anderson with its use of cheap sets and color palletes (something I do enjoy about his movies)"
+  }
   plot_structure: "Plot Structure was a mess as weaving between the top level narration with the play itself made it unnecessarily confusing with it leaving no room for the main story (the play) to actually develop"
   pacing: "Pacing was on the faster side as it tried to mimic that of a play (but it felt like there could have been 15-20 minutes of more plot to make the story more interesting)"
   climax: "Climax was incredibly boring as it did not really feel like anything happened"

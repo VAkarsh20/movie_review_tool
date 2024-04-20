@@ -5,60 +5,81 @@ review {
     director {
       name: "Danny Boyle"
     }
-    comments: "Good Direction (Some times were better than others cause it was a very raw experience overall)"
+    rating: "Good"
+    comments: "Some times were better than others cause it was a very raw experience overall"
   }
   acting {
-    actor {
-      name: "Cillian Murphy"
-      comments: "Very Good from Cillian Murphy"
+    performance {
+      actor {
+        name: "Cillian Murphy"
+      }
+      rating: "Very Good"
     }
-    actor {
-      name: "Naomie Harris"
-      comments: "Very Good from Naomie Harris"
+    performance {
+      actor {
+        name: "Naomie Harris"
+      }
+      rating: "Very Good"
     }
-    actor {
-      name: "Megan Burns"
-      comments: "Very Bad from Megan Burns (though a child actor so do not take seriously)"
+    performance {
+      actor {
+        name: "Megan Burns"
+      }
+      rating: "Very Bad"
+      comments: "Though a child actor so do not take seriously"
     }
-    actor {
-      name: "Brendan Gleeson"
-      comments: "Very Good from Brendan Gleeson"
+    performance {
+      actor {
+        name: "Brendan Gleeson"
+      }
+      rating: "Very Good"
     }
-    cast: "Pretty Good to Good from the rest of the cast"
-    comments: "Good Acting"
+    cast {
+      rating: "Pretty Good to Good"
+    }
+    rating: "Good"
   }
   story {
     writer {
       name: "Alex Garland"
     }
-    comments: "Good to Very Good Story (Though the inception of the idea of the virus is a very stupid idea)"
+    rating: "Good to Very Good"
+    comments: "Though the inception of the idea of the virus is a very stupid idea"
   }
   screenplay {
     writer {
       name: "Alex Garland"
     }
-    comments: "Good Screenplay"
+    rating: "Good"
   }
   score {
     composer {
       name: "John Murphy"
     }
-    comments: "Good to Very Good Score"
+    rating: "Good to Very Good"
   }
   cinematography {
     cinematographer {
       name: "Anthony Dod Mantle"
     }
-    comments: "Very Good to Great Cinematography (presents a raw feeling of fear and desolation; though it does help play into the movie reeking of the early 00s)"
+    rating: "Very Good to Great"
+    comments: "Presents a raw feeling of fear and desolation; though it does help play into the movie reeking of the early 00s"
   }
-  sound: "Very Bad Sound (inconsistent)"
   editing {
     editor {
       name: "Chris Gill"
     }
-    comments: "Bad Editing (The jump cuts and style reeks of the early 00s)"
+    rating: "Bad"
+    comments: "The jump cuts and style reeks of the early 00s"
   }
-  visual_effects: "Very Bad Visual Effects (CGI/effects that reek of the early 00s)"
+  sound {
+    rating: "Very Bad"
+    comments: "Inconsistent"
+  }
+  visual_effects {
+    rating: "Very Bad"
+    comments: "CGI/effects that reek of the early 00s"
+  }
   plot_structure: "Plot Structure was good for the most part (first 5-10 minutes was very bad but rest of the exposition was fine, all other plot points were fine with the climax being good (though the actual storytelling in this part was chaotic), the ending was not necessarily bad but it was extremely safe)"
   pacing: "Pacing was a good steady pace"
   tone: "I liked how the movie had its tone set more to finding hope rather than living in fear"

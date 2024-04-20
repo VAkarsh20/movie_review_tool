@@ -5,43 +5,69 @@ review {
     director {
       name: "Justine Triet"
     }
-    comments: "Very Good to Great Direction (The direction on a macroscale was good as it built the world well and helped establish the tension and conflict from the trial (though the use of cinematography and editing got a bit tacky at times); the direction on a microscale was great as she brought out the emotions from her actors and helped establish the importance of every scene in helping find the truth; the direction of actors was incredible as every performance felt elevated and contributed to moving the story forward; the storytelling was great as she tells two sides of the narrative (what actually happened, and what could have happened) as they characters look for the truth)"
+    rating: "Very Good to Great"
+    comments: "The direction on a macroscale was good as it built the world well and helped establish the tension and conflict from the trial (though the use of cinematography and editing got a bit tacky at times); the direction on a microscale was great as she brought out the emotions from her actors and helped establish the importance of every scene in helping find the truth; the direction of actors was incredible as every performance felt elevated and contributed to moving the story forward; the storytelling was great as she tells two sides of the narrative (what actually happened, and what could have happened) as they characters look for the truth"
   }
   acting {
-    actor {
-      name: "Sandra H\303\274ller"
-      comments: "Great to Incredible from Sandra H\303\274ller (A true standout as she excels in all the scenes (especially in her long monologues and 1-on-1 scenes); also shows subtly to portray her as a flawed character)"
+    performance {
+      actor {
+        name: "Sandra H\303\274ller"
+      }
+      rating: "Great to Incredible"
+      comments: "A true standout as she excels in all the scenes (especially in her long monologues and 1-on-1 scenes); also shows subtly to portray her as a flawed character"
     }
-    actor {
-      name: "Swann Arlaud"
-      comments: "Very Good from Swann Arlaud (Plays off of the protagonist well as their chemistry makes you want to know what really happened as you start to care for their fight)"
+    performance {
+      actor {
+        name: "Swann Arlaud"
+      }
+      rating: "Very Good"
+      comments: "Plays off of the protagonist well as their chemistry makes you want to know what really happened as you start to care for their fight"
     }
-    actor {
-      name: "Milo Machado Graner"
-      comments: "Good to Very Good from Milo Machado Graner (The emotional truth for the movie and shines when he is called upon (especially in the climax))"
+    performance {
+      actor {
+        name: "Milo Machado Graner"
+      }
+      rating: "Good to Very Good"
+      comments: "The emotional truth for the movie and shines when he is called upon (especially in the climax)"
     }
-    actor {
-      name: "Antoine Reinartz"
-      comments: "Good to Very Good from Antoine Reinartz (Plays the pseudo antagonist well as he pushes the truth out of the defendants and makes the audience truly question who is telling the truth)"
+    performance {
+      actor {
+        name: "Antoine Reinartz"
+      }
+      rating: "Good to Very Good"
+      comments: "Plays the pseudo antagonist well as he pushes the truth out of the defendants and makes the audience truly question who is telling the truth"
     }
-    actor {
-      name: "Samuel Theis"
-      comments: "Good from Samuel Theis (Does a good job and works well off of his scene partners (though there clearly is a difference in levels between him and Sandra H\303\274ller))"
+    performance {
+      actor {
+        name: "Samuel Theis"
+      }
+      rating: "Good"
+      comments: "Does a good job and works well off of his scene partners (though there clearly is a difference in levels between him and Sandra H\303\274ller)"
     }
-    actor {
-      name: "Jehnny Beth"
-      comments: "Pretty Good from Jehnny Beth"
+    performance {
+      actor {
+        name: "Jehnny Beth"
+      }
+      rating: "Pretty Good"
     }
-    actor {
-      name: "Saadia Bentaieb"
-      comments: "Good from Saadia Bentaieb"
+    performance {
+      actor {
+        name: "Saadia Bentaieb"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Messi"
-      comments: "Good from Messi (For being just a dog)"
+    performance {
+      actor {
+        name: "Messi"
+      }
+      rating: "Good"
+      comments: "For being just a dog"
     }
-    cast: "Pretty Good from the rest of the cast (Played their roles well, but this movie is really about the principal cast)"
-    comments: "Good to Very Good Acting"
+    cast {
+      rating: "Pretty Good"
+      comments: "Played their roles well, but this movie is really about the principal cast"
+    }
+    rating: "Good to Very Good"
   }
   story {
     writer {
@@ -50,7 +76,8 @@ review {
     writer {
       name: "Arthur Harari"
     }
-    comments: "Great Story (The concept was interesting as there were so many different storylines the deeper you looked into the movie (and it was intentionally a bit open-ended to make you question what really is the truth); the plot structure was laid out very well as each arc in the movie seems to have its purpose and builds to the next (though maybe a few scenes could have been trimmed); flow between sequences was good; character writing was incredible as they wrote such complex characters that you both root for and go against the more you learn about them, there were some aspects of the character writing I did not like (especially for Victor))"
+    rating: "Great"
+    comments: "The concept was interesting as there were so many different storylines the deeper you looked into the movie (and it was intentionally a bit open-ended to make you question what really is the truth); the plot structure was laid out very well as each arc in the movie seems to have its purpose and builds to the next (though maybe a few scenes could have been trimmed); flow between sequences was good; character writing was incredible as they wrote such complex characters that you both root for and go against the more you learn about them, there were some aspects of the character writing I did not like (especially for Victor)"
   }
   screenplay {
     writer {
@@ -59,26 +86,31 @@ review {
     writer {
       name: "Arthur Harari"
     }
-    comments: "Incredible Screenplay (The dialogue was incredible as it brought out the themes and the struggles the characters were going through; the humor was  used effectively when needed (though is as sparse as a drama would warrant); the symbolism was incredible as it is subtle yet profound because there was what happens on a surface level and what happens when you look deeper into the movie, the title in itself is symbolic and has many meanings (on the surface level and also when you look deeper); the foreshadowing was incredible as it really helps with unveiling the truth)"
+    rating: "Incredible"
+    comments: "The dialogue was incredible as it brought out the themes and the struggles the characters were going through; the humor was  used effectively when needed (though is as sparse as a drama would warrant); the symbolism was incredible as it is subtle yet profound because there was what happens on a surface level and what happens when you look deeper into the movie, the title in itself is symbolic and has many meanings (on the surface level and also when you look deeper); the foreshadowing was incredible as it really helps with unveiling the truth"
   }
   cinematography {
     cinematographer {
       name: "Simon Beaufils"
     }
-    comments: "Good Cinematography (Used well in a symbolic way to show the POV of different characters and show the weight of everyone's gaze as characters testify (though felt a bit gimmicky and tacky at times))"
+    rating: "Good"
+    comments: "Used well in a symbolic way to show the POV of different characters and show the weight of everyone\'s gaze as characters testify (though felt a bit gimmicky and tacky at times)"
   }
-  sound: "Pretty Good Sound"
   editing {
     editor {
       name: "Laurent S\303\251n\303\251chal"
     }
-    comments: "Decent Editing (Good for the most part but felt very tacky at times (especially with some of the shots and definitely during the reenactments and when they are mimicking the news broadcast))"
+    rating: "Decent"
+    comments: "Good for the most part but felt very tacky at times (especially with some of the shots and definitely during the reenactments and when they are mimicking the news broadcast)"
+  }
+  sound {
+    rating: "Pretty Good"
   }
   pacing: "Pacing was good as it never really felt fast or slow"
   climax: "Climax was carried out well as it was more of a vehicle for the truth to come out (rather than a big show)"
   tone: "Tone was pretty typical to courtroom dramas and European movies"
-  final_notes: "There isn't a score but I did like how they used the soundtrack (especially PIMP) because it helps bring out the tension in the movie"
-  overall: "Overall, a well-crafted courtroom drama that is carried out by the film's excellent writing and Sandra H\303\274ller's powerful performance as both create a complex character that you both support and cannot trust at the same time as the more you look for the truth, the more you question what is true"
+  final_notes: "There isn\'t a score but I did like how they used the soundtrack (especially PIMP) because it helps bring out the tension in the movie"
+  overall: "Overall, a well-crafted courtroom drama that is carried out by the film\'s excellent writing and Sandra H\303\274ller\'s powerful performance as both create a complex character that you both support and cannot trust at the same time as the more you look for the truth, the more you question what is true"
 }
 release_year: 2023
 review_date: "01/13/2024"

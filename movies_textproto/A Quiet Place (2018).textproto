@@ -5,19 +5,22 @@ review {
     director {
       name: "John Krasinski"
     }
-    comments: "Good Direction"
+    rating: "Good"
   }
   acting {
-    actor {
-      name: "Emily Blunt"
-      comments: "Very Good to Great from Emily Blunt"
+    performance {
+      actor {
+        name: "Emily Blunt"
+      }
+      rating: "Very Good to Great"
     }
-    actor {
-      name: "John Krasinski"
-      comments: "Good to Very Good from John Krasinski"
+    performance {
+      actor {
+        name: "John Krasinski"
+      }
+      rating: "Good to Very Good"
     }
-    cast: ""
-    comments: "Good Acting"
+    rating: "Good"
   }
   story {
     writer {
@@ -26,7 +29,7 @@ review {
     writer {
       name: "Scott Beck"
     }
-    comments: "Good Story"
+    rating: "Good"
   }
   screenplay {
     writer {
@@ -38,24 +41,28 @@ review {
     writer {
       name: "John Krasinski"
     }
-    comments: "Very Good Screenplay (Especially how it uses symbolism along with ASL to tell the story)"
+    rating: "Very Good"
+    comments: "Especially how it uses symbolism along with ASL to tell the story"
   }
   score {
     composer {
       name: "Marco Beltrami"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
   cinematography {
     cinematographer {
       name: "Charlotte Bruus Christensen"
     }
-    comments: "Good Cinematography"
+    rating: "Good"
   }
-  sound: "Great Sound"
+  sound {
+    rating: "Great"
+  }
   plot_structure: "Plot Structure was Good; Like how the movie ends on a cliff hanger to set up Part 2"
   pacing: "Short runtime is used effectively as no scene is really unused and there really isn\'t anything that needs to be added/cut"
   climax: "Build to the climax was great with the final 20 minutes being a very great executed sequence"
+  final_notes: ""
   overall: "Overall, a well made horror film on the apocalypse trope that is a fun watch that keeps you on your seat, leaving you with wanting more by the time its over"
 }
 release_year: 2018

@@ -5,31 +5,50 @@ review {
     director {
       name: "James Cameron"
     }
-    comments: "Very Good Direction (Has control of his scenes on a macro-scale as he used his experience directing sci-fi epics well; has some control over the scenes on a micro-scale as he elicits horror well, but there is definitely an element of 80s camp in the interpersonal scenes (especially in the first hour); tells the story well as he uses his signature sci-fi storytelling style (something that he later exploits in Avatar); uses cinematography/editing well in both as it helps paint the scenes (especially when capturing the bigger sets) and helps with creating horror with the fast cuts and POVs)"
+    rating: "Very Good"
+    comments: "Has control of his scenes on a macro-scale as he used his experience directing sci-fi epics well; has some control over the scenes on a micro-scale as he elicits horror well, but there is definitely an element of 80s camp in the interpersonal scenes (especially in the first hour); tells the story well as he uses his signature sci-fi storytelling style (something that he later exploits in Avatar); uses cinematography/editing well in both as it helps paint the scenes (especially when capturing the bigger sets) and helps with creating horror with the fast cuts and POVs"
   }
   acting {
-    actor {
-      name: "Sigourney Weaver"
-      comments: "Very Good from Sigourney Weaver (Controls her own very well and uses her experience from the previous role to convey the trauma her character faces by going back; does hit a limit at some points)"
+    performance {
+      actor {
+        name: "Sigourney Weaver"
+      }
+      rating: "Very Good"
+      comments: "Controls her own very well and uses her experience from the previous role to convey the trauma her character faces by going back; does hit a limit at some points"
     }
-    actor {
-      name: "Michael Biehn"
-      comments: "Decent from Michael Biehn (Nothing special or memorable with the performance, just one of the characters from the crew)"
+    performance {
+      actor {
+        name: "Michael Biehn"
+      }
+      rating: "Decent"
+      comments: "Nothing special or memorable with the performance, just one of the characters from the crew"
     }
-    actor {
-      name: "Paul Reiser"
-      comments: "Decent to Pretty Good from Paul Reiser (Steps away from his more comedic side to play more of a dramatic role (but hits his limits at certain points))"
+    performance {
+      actor {
+        name: "Paul Reiser"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Steps away from his more comedic side to play more of a dramatic role (but hits his limits at certain points)"
     }
-    actor {
-      name: "Lance Henriksen"
-      comments: "Decent to Pretty Good from Lance Henriksen (Very 80s performance but works well off of Weaver in showing the differences between humans and AI)"
+    performance {
+      actor {
+        name: "Lance Henriksen"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Very 80s performance but works well off of Weaver in showing the differences between humans and AI"
     }
-    actor {
-      name: "Carrie Henn"
-      comments: "Pretty Good from Carrie Henn (Does a good job at representing the emotional vulnerability of the audience and playing the innocent child)"
+    performance {
+      actor {
+        name: "Carrie Henn"
+      }
+      rating: "Pretty Good"
+      comments: "Does a good job at representing the emotional vulnerability of the audience and playing the innocent child"
     }
-    cast: "Bad to Pretty Bad from the rest of the cast (Just very 80s and filled with camp)"
-    comments: "Decent to Pretty Good Acting"
+    cast {
+      rating: "Bad to Pretty Bad"
+      comments: "Just very 80s and filled with camp"
+    }
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
@@ -41,36 +60,53 @@ review {
     writer {
       name: "Walter Hill"
     }
-    comments: "Pretty Good Story (The concept is pretty similar to other Sci-Fi/Horror movies (but the aspects of trauma were a good unique touch); the story construction was very predictable at times and just felt like it played to the period it was released (but was laid out well); the flow of sequences was fine (though it felt like the flow was a lot better in the second half than the first); the character writing of Ripley was very good as it was very well rounded to show the impact of the previous movie had on her mental health, and the character writing for Newt was good as it presents some sense of mystery and emotional vulnerability, but the rest of the characters were just so shallow as they were carbon copy characters from other 80s movies (especially the soldiers))"
+    rating: "Pretty Good"
+    comments: "The concept is pretty similar to other Sci-Fi/Horror movies (but the aspects of trauma were a good unique touch); the story construction was very predictable at times and just felt like it played to the period it was released (but was laid out well); the flow of sequences was fine (though it felt like the flow was a lot better in the second half than the first); the character writing of Ripley was very good as it was very well rounded to show the impact of the previous movie had on her mental health, and the character writing for Newt was good as it presents some sense of mystery and emotional vulnerability, but the rest of the characters were just so shallow as they were carbon copy characters from other 80s movies (especially the soldiers)"
   }
   screenplay {
     writer {
       name: "James Cameron"
     }
-    comments: "Decent Screenplay (The dialogue did not age well because it is super 80s and campy; the jokes were decently funny (but a bit forced); the horror elements were very good as it used a combination of sound and effects to scare the audience; symbolism is pretty overt but the underlying messages of trauma were written well; foreshadowing is very overt that it makes the movie predictable (typical of movies from the 80s))"
+    rating: "Decent"
+    comments: "The dialogue did not age well because it is super 80s and campy; the jokes were decently funny (but a bit forced); the horror elements were very good as it used a combination of sound and effects to scare the audience; symbolism is pretty overt but the underlying messages of trauma were written well; foreshadowing is very overt that it makes the movie predictable (typical of movies from the 80s)"
   }
   score {
     composer {
       name: "James Horner"
     }
-    comments: "Good Score (Used well to set the tone and elicit fear/build tension)"
+    rating: "Good"
+    comments: "Used well to set the tone and elicit fear/build tension"
   }
   cinematography {
     cinematographer {
       name: "Adrian Biddle"
     }
-    comments: "Very Good Cinematography (Very polished and used well to help build the world (and how scarey it was when dealing with the creatures))"
+    rating: "Very Good"
+    comments: "Very polished and used well to help build the world (and how scarey it was when dealing with the creatures)"
   }
-  sound: "Incredible Sound (Used very well to help boost the horror, action, and sci-fi elements and felt very polished)"
   editing {
     editor {
       name: "Ray Lovejoy"
     }
-    comments: "Very Good Editing (Helped make the movie feel polished and used well in the horror sequences, but felt very typical to other Sci-fi/Action movies of the 80s)"
+    rating: "Very Good"
+    comments: "Helped make the movie feel polished and used well in the horror sequences, but felt very typical to other Sci-fi/Action movies of the 80s"
   }
-  visual_effects: "Incredible Visual Effects (Was exceptional when showing the Aliens and was handled very well when showing the space scenes/machines; the use of pyrotechnics and practical effects was incredible as well as it helped show the chaos building as the movie went on)"
-  production_design: "Great Production Design (Really did a good job at making the movie feel like science fiction and in Space)"
-  makeup: "Very Good Makeup (Did a good job in showing the impact and byproduct of the aliens)"
+  sound {
+    rating: "Incredible"
+    comments: "Used very well to help boost the horror, action, and sci-fi elements and felt very polished"
+  }
+  visual_effects {
+    rating: "Incredible"
+    comments: "Was exceptional when showing the Aliens and was handled very well when showing the space scenes/machines; the use of pyrotechnics and practical effects was incredible as well as it helped show the chaos building as the movie went on"
+  }
+  production_design {
+    rating: "Great"
+    comments: "Really did a good job at making the movie feel like science fiction and in Space"
+  }
+  makeup {
+    rating: "Very Good"
+    comments: "Did a good job in showing the impact and byproduct of the aliens"
+  }
   plot_structure: "Plot Structure was pretty similar to Sci-fi movies from the 80s (but was mapped out very well and had the right amount of exposition and rising action to leave plenty of time for the climax to take up a significant portion of the movie)"
   pacing: "Pacing was a good quick pace (a stark difference from the first movie)"
   climax: "Climax was executed very well as it felt like it was going on for the final 40 minutes (with the audience being kept on its toes as the characters try to escape and fight the aliens)"

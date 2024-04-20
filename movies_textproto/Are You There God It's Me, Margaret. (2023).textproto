@@ -5,53 +5,70 @@ review {
     director {
       name: "Kelly Fremon Craig"
     }
-    comments: "Decent Direction (Very safe in its storytelling as it tells the boilerplate coming-of-age story, the actors give fine performances that are very serviceable (nothing too spectacular, but nothing bad))"
+    rating: "Decent"
+    comments: "Very safe in its storytelling as it tells the boilerplate coming-of-age story, the actors give fine performances that are very serviceable (nothing too spectacular, but nothing bad)"
   }
   acting {
-    actor {
-      name: "Rachel McAdams"
-      comments: "Pretty Good to Good from Rachel McAdams (Really uses her charm and charisma to the role as she really lights up the room and plays a very convincing mother and wife who has a crisis of faith)"
+    performance {
+      actor {
+        name: "Rachel McAdams"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Really uses her charm and charisma to the role as she really lights up the room and plays a very convincing mother and wife who has a crisis of faith"
     }
-    actor {
-      name: "Abby Ryder Fortson"
-      comments: "Pretty Good from Abby Ryder Fortson (Held her own pretty well as the lead and was pretty believable in the character she was portraying)"
+    performance {
+      actor {
+        name: "Abby Ryder Fortson"
+      }
+      rating: "Pretty Good"
+      comments: "Held her own pretty well as the lead and was pretty believable in the character she was portraying"
     }
-    actor {
-      name: "Benny Safdie"
-      comments: "Decent from Benny Safdie"
+    performance {
+      actor {
+        name: "Benny Safdie"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Kathy Bates"
-      comments: "Pretty Good to Good from Kathy Bates (Really just pools from previous characters she has portrayed (kinda felt like she wasn't acting))"
+    performance {
+      actor {
+        name: "Kathy Bates"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Really just pools from previous characters she has portrayed (kinda felt like she wasn\'t acting)"
     }
-    cast: "Decent from the rest of the cast (Does not include child actors)"
-    comments: "Decent to Pretty Good Acting"
+    cast {
+      rating: "Decent"
+      comments: "Does not include child actors"
+    }
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
       name: "Kelly Fremon Craig"
     }
-    comments: "Decent Story (Follows a pretty typical coming-of-age story template, but does keep it interesting with the crisis of faith aspect of the story; the story does fall apart towards the end)"
+    rating: "Decent"
+    comments: "Follows a pretty typical coming-of-age story template, but does keep it interesting with the crisis of faith aspect of the story; the story does fall apart towards the end"
   }
   screenplay {
     writer {
       name: "Kelly Fremon Craig"
     }
-    comments: "Decent Screenplay (The dialogue followed nicely as it was not trying to be profound in any way (was really geared more for a younger, teen audience); the symbolism decently prevalent throughout; the foreshadowing was not trying to be subtle in any way as it was predictable to mimic struggles with adolescence)"
+    rating: "Decent"
+    comments: "The dialogue followed nicely as it was not trying to be profound in any way (was really geared more for a younger, teen audience); the symbolism decently prevalent throughout; the foreshadowing was not trying to be subtle in any way as it was predictable to mimic struggles with adolescence"
   }
   score {
     composer {
       name: "Hans Zimmer"
     }
-    comments: "Pretty Good Score (Why are you scoring this movie Hans, you probably took like a day to make this)"
+    rating: "Pretty Good"
+    comments: "Why are you scoring this movie Hans, you probably took like a day to make this"
   }
   cinematography {
     cinematographer {
       name: "Tim Ives"
     }
-    comments: "Decent to Pretty Good Cinematography"
+    rating: "Decent to Pretty Good"
   }
-  sound: "Pretty Good Sound"
   editing {
     editor {
       name: "Nick Moore"
@@ -59,9 +76,14 @@ review {
     editor {
       name: "Oona Flaherty"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  production_design: "Pretty Good Production Design"
+  sound {
+    rating: "Pretty Good"
+  }
+  production_design {
+    rating: "Pretty Good"
+  }
   plot_structure: "Plot Structure was pretty boilerplate for the most part as it followed the generic coming-of-age drama (though it does falter a bit towards the end)"
   pacing: "Pacing was consistent throughout but is a bit rushed towards the end"
   climax: "Climax was not executed well at all as it is just incredibly rushed/fast with the actual message being portrayed being both not good and not explained well"

@@ -5,11 +5,13 @@ review {
     director {
       name: "Bob Clark"
     }
-    comments: "Pretty Good Direction"
+    rating: "Pretty Good"
   }
   acting {
-    cast: "Pretty Good from the rest of the cast"
-    comments: "Pretty Good Acting"
+    cast {
+      rating: "Pretty Good"
+    }
+    rating: "Pretty Good"
   }
   story {
     writer {
@@ -21,7 +23,8 @@ review {
     writer {
       name: "Bob Clark"
     }
-    comments: "Decent to Pretty Good Story (Pretty funny but is extremely slow in its pacing and is longer than it needs to be)"
+    rating: "Decent to Pretty Good"
+    comments: "Pretty funny but is extremely slow in its pacing and is longer than it needs to be"
   }
   screenplay {
     writer {
@@ -33,7 +36,8 @@ review {
     writer {
       name: "Bob Clark"
     }
-    comments: "Decent Screenplay (With \"You\'ll shoot your eye out kid\" being an iconic quote in all of cinema)"
+    rating: "Decent"
+    comments: "With \"You\'ll shoot your eye out kid\" being an iconic quote in all of cinema"
   }
   plot_structure: "Plot Structure is on the spectrum as the build to the climax is throughout the whole movie and pulls it off decently well but the movie needed to end after the last use of the \"iconic line\" because all the scenes after that are pretty pointless and make the movie feel like its dragging more than it should"
   pacing: "Pacing is very slow as the movie seems incredibly long despite the fact that it is surprisingly only a little over an hour and a half"

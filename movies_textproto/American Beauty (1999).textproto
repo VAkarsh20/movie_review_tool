@@ -5,51 +5,67 @@ review {
     director {
       name: "Sam Mendes"
     }
-    comments: "Great to Incredible Direction (Especially the ability to capture the symbols, illusions, and acting performances all at once)"
+    rating: "Great to Incredible"
+    comments: "Especially the ability to capture the symbols, illusions, and acting performances all at once"
   }
   acting {
-    actor {
-      name: "Kevin Spacey"
-      comments: "Brilliant from Kevin Spacey (Especially his ability to change moods very quickly and for him to display emotion through monotonous expressions (as if the character was written for Spacey to play, a true masterclass))"
+    performance {
+      actor {
+        name: "Kevin Spacey"
+      }
+      rating: "Brilliant"
+      comments: "Especially his ability to change moods very quickly and for him to display emotion through monotonous expressions (as if the character was written for Spacey to play, a true masterclass)"
     }
-    actor {
-      name: "Annette Bening"
-      comments: "Incredible from Annette Bening (with her ability to capture dying beauty and someone who is trying to escape her mid-life crisis)"
+    performance {
+      actor {
+        name: "Annette Bening"
+      }
+      rating: "Incredible"
+      comments: "With her ability to capture dying beauty and someone who is trying to escape her mid-life crisis"
     }
-    actor {
-      name: "Mena Suvari"
-      comments: "Very Good from Mena Suvari (was able to convey someone who was trying so hard to escape from being ordinary by lying about who she really is)"
+    performance {
+      actor {
+        name: "Mena Suvari"
+      }
+      rating: "Very Good"
+      comments: "Was able to convey someone who was trying so hard to escape from being ordinary by lying about who she really is"
     }
-    actor {
-      name: "Wes Bentley"
-      comments: "Good to Very Good from Wes Bentley"
+    performance {
+      actor {
+        name: "Wes Bentley"
+      }
+      rating: "Good to Very Good"
     }
-    cast: "Good from the rest of the cast"
-    comments: "Great Acting"
+    cast {
+      rating: "Good"
+    }
+    rating: "Great"
   }
   story {
     writer {
       name: "Alan Ball"
     }
-    comments: "Incredible Story (in a modern retelling of Lolita)"
+    rating: "Incredible"
+    comments: "In a modern retelling of Lolita"
   }
   screenplay {
     writer {
       name: "Alan Ball"
     }
-    comments: "Incredible to Brilliant Screenplay (the dialogue was extremely conversational and used as a real tool to help convey emotions and the message, the symbols were omnipresent (especially the rose to display beauty and innocence) in helping convey the message)"
+    rating: "Incredible to Brilliant"
+    comments: "The dialogue was extremely conversational and used as a real tool to help convey emotions and the message, the symbols were omnipresent (especially the rose to display beauty and innocence) in helping convey the message"
   }
   score {
     composer {
       name: "Thomas Newman"
     }
-    comments: "Good Score"
+    rating: "Good"
   }
   cinematography {
     cinematographer {
       name: "Conrad L. Hall"
     }
-    comments: "Great Cinematography to show perspective"
+    rating: "Great"
   }
   editing {
     editor {
@@ -58,9 +74,13 @@ review {
     editor {
       name: "Christopher Greenbury"
     }
-    comments: "Great to Incredible Editing (helps separate reality from illusions)"
+    rating: "Great to Incredible"
+    comments: "Helps separate reality from illusions"
   }
-  visual_effects: "Great to Incredible Visual Effects (see Editing)"
+  visual_effects {
+    rating: "Great to Incredible"
+    comments: "See Editing"
+  }
   plot_structure: "Plot Structure was Great because you see how each character goes through development at each stage (especially Lester)"
   pacing: "Pacing was Very Good (no need to cut or add any scenes)"
   climax: "Build to the climax was done very well because it is a gradual build throughout the entire movie; the climax itself was a carried out very well as you get to see Lester\'s real motivations in life and him being content for the first time in forever"

@@ -5,75 +5,109 @@ review {
     director {
       name: "Cameron Crowe"
     }
-    comments: "Good Direction (Was able to move the story forward with his well written screenplay/story, but did not really get the best of his actors)"
+    rating: "Good"
+    comments: "Was able to move the story forward with his well written screenplay/story, but did not really get the best of his actors"
   }
   acting {
-    actor {
-      name: "Patrick Fugit"
-      comments: "Pretty Good from Patrick Fugit (was able to play the child character very well but it was easy to see where his acting limits were in the more intense and dramatic scenes)"
+    performance {
+      actor {
+        name: "Patrick Fugit"
+      }
+      rating: "Pretty Good"
+      comments: "Was able to play the child character very well but it was easy to see where his acting limits were in the more intense and dramatic scenes"
     }
-    actor {
-      name: "Billy Crudup"
-      comments: "Good from Billy Crudup (does a decent job in changing his emotions to fit the scenes)"
+    performance {
+      actor {
+        name: "Billy Crudup"
+      }
+      rating: "Good"
+      comments: "Does a decent job in changing his emotions to fit the scenes"
     }
-    actor {
-      name: "Frances McDormand"
-      comments: "Very Good from Frances McDormand (Seasoned actor who plays the over-protective mom very well)"
+    performance {
+      actor {
+        name: "Frances McDormand"
+      }
+      rating: "Very Good"
+      comments: "Seasoned actor who plays the over-protective mom very well"
     }
-    actor {
-      name: "Kate Hudson"
-      comments: "Great Job from Kate Hudson (Really plays the ditsy girl well but also shows some character when trying to be more mature and have thoughts that are more than people think she\'s capable of)"
+    performance {
+      actor {
+        name: "Kate Hudson"
+      }
+      rating: "Great Job"
+      comments: "Really plays the ditsy girl well but also shows some character when trying to be more mature and have thoughts that are more than people think she\'s capable of"
     }
-    actor {
-      name: "Jason Lee"
-      comments: "Good performance form Jason Lee (Plays the serious/comedic relief role well as he can switch from both sides very well)"
+    performance {
+      actor {
+        name: "Jason Lee"
+      }
+      rating: "Good performance form Jason Lee (Plays the serious/comedic relief role well as he can switch"
     }
-    actor {
-      name: "Anna Paquin"
-      comments: "Good from Anna Paquin"
+    performance {
+      actor {
+        name: "Anna Paquin"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Philip Seymour Hoffman"
-      comments: "Very Good to Great from Philip Seymour Hoffman (Plays a role very suitable to his strengths and has a good mentorship relationship with the main character)"
+    performance {
+      actor {
+        name: "Philip Seymour Hoffman"
+      }
+      rating: "Very Good to Great"
+      comments: "Plays a role very suitable to his strengths and has a good mentorship relationship with the main character"
     }
-    actor {
-      name: "Jimmy Fallon"
-      comments: "Terrible from Jimmy Fallon (It was just so hard to watch how off-beat he was and it felt like he could not read any of his lines)"
+    performance {
+      actor {
+        name: "Jimmy Fallon"
+      }
+      rating: "Terrible"
+      comments: "It was just so hard to watch how off-beat he was and it felt like he could not read any of his lines"
     }
-    cast: "Decent from the rest of the cast (Anywhere from Pretty Bad to Pretty Good)"
-    comments: "Pretty Good Acting"
+    cast {
+      rating: "Decent"
+      comments: "Anywhere from Pretty Bad to Pretty Good"
+    }
+    rating: "Pretty Good"
   }
   story {
     writer {
       name: "Cameron Crowe"
     }
-    comments: "Good Story (Typical bildungsroman story mixed with different elements of early 2000s Rom-Com/Feel-good moments; the overall plot was structured well but the ending was a little too safe/feel-good for me)"
+    rating: "Good"
+    comments: "Typical bildungsroman story mixed with different elements of early 2000s Rom-Com/Feel-good moments; the overall plot was structured well but the ending was a little too safe/feel-good for me"
   }
   screenplay {
     writer {
       name: "Cameron Crowe"
     }
-    comments: "Great Screenplay (The dialogue was very well written and the movie flows very nicely from its different elements, the symbols and allusions to different rock elements were also nice to see)"
+    rating: "Great"
+    comments: "The dialogue was very well written and the movie flows very nicely from its different elements, the symbols and allusions to different rock elements were also nice to see"
   }
   score {
     composer {
       name: "Nancy Wilson"
     }
-    comments: "Pretty Good Score"
+    rating: "Pretty Good"
   }
-  soundtrack: "Very Good Soundtrack (Really helped capture the feel of the early 70s and its era in Rock)"
+  soundtrack {
+    rating: "Very Good"
+    comments: "Really helped capture the feel of the early 70s and its era in Rock"
+  }
   cinematography {
     cinematographer {
       name: "John Toll"
     }
-    comments: "Good Cinematography"
+    rating: "Good"
   }
-  sound: "Good to Very Good Sound (very noticeable in the music performances)"
   editing {
     editor {
       name: "Joe Hutshing Saar Klein"
     }
-    comments: "Good Editing"
+    rating: "Good"
+  }
+  sound {
+    rating: "Good to Very Good"
+    comments: "Very noticeable in the music performances"
   }
   plot_structure: "Plot Structure was laid out pretty nicely but the final 40 minutes of the movie feels like it starts to fall apart with the lack of effort put in by a lot of moving pieces (it is as if the movie should have ended at the 90 minute mark because the climax and resolution feel very forced)"
   pacing: "Pacing was good for the most part (it is just that the end really does not come together very nicely because it almost alludes to doing something new but just ends up being safe in the end)"

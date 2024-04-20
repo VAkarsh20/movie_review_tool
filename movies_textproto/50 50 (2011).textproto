@@ -5,68 +5,93 @@ review {
     director {
       name: "Jonathan Levine"
     }
-    comments: "Decent Direction (Executes a very formulaic feel-good movie of the early 2010s as he follows the formula to deliver a safe movie)"
+    rating: "Decent"
+    comments: "Executes a very formulaic feel-good movie of the early 2010s as he follows the formula to deliver a safe movie"
   }
   acting {
-    actor {
-      name: "Joseph Gordon-Levitt"
-      comments: "Good from Joseph Gordon-Levitt (Kinda limited with what he is given but does shine when given the opportunity to play)"
+    performance {
+      actor {
+        name: "Joseph Gordon-Levitt"
+      }
+      rating: "Good"
+      comments: "Kinda limited with what he is given but does shine when given the opportunity to play"
     }
-    actor {
-      name: "Seth Rogen"
-      comments: "Pretty Good to Good from Seth Rogen (Pulls from experience to play the comedic relief character but does shine during some of the dramatic moments)"
+    performance {
+      actor {
+        name: "Seth Rogen"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Pulls from experience to play the comedic relief character but does shine during some of the dramatic moments"
     }
-    actor {
-      name: "Anna Kendrick"
-      comments: "Decent from Anna Kendrick (Her character was really not that well written but she does a decent job at holding her own)"
+    performance {
+      actor {
+        name: "Anna Kendrick"
+      }
+      rating: "Decent"
+      comments: "Her character was really not that well written but she does a decent job at holding her own"
     }
-    actor {
-      name: "Bryce Dallas Howard"
-      comments: "Decent from Bryce Dallas Howard"
+    performance {
+      actor {
+        name: "Bryce Dallas Howard"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Anjelica Huston"
-      comments: "Decent to Pretty Good from Anjelica Huston"
+    performance {
+      actor {
+        name: "Anjelica Huston"
+      }
+      rating: "Decent to Pretty Good"
     }
-    cast: "Decent from the rest of the cast"
-    comments: "Decent to Pretty Good Acting"
+    cast {
+      rating: "Decent"
+    }
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
       name: "Will Reiser"
     }
-    comments: "Decent Story (Pretty safe as it is pretty formulaic and predictable; there also is not that much that happens in terms of story due to the shorter runtime)"
+    rating: "Decent"
+    comments: "Pretty safe as it is pretty formulaic and predictable; there also is not that much that happens in terms of story due to the shorter runtime"
   }
   screenplay {
     writer {
       name: "Will Reiser"
     }
-    comments: "Decent Screenplay (Pretty safe dialogue that has some good jokes in it, foreshadowing is pretty surface level as it was easy to predict what would happen, not that much symbolism in the movie)"
+    rating: "Decent"
+    comments: "Pretty safe dialogue that has some good jokes in it, foreshadowing is pretty surface level as it was easy to predict what would happen, not that much symbolism in the movie"
   }
   score {
     composer {
       name: "Michael Giacchino"
     }
-    comments: "Decent Score (Was barely present)"
+    rating: "Decent"
+    comments: "Was barely present"
   }
-  soundtrack: "Decent Soundtrack (Very early 2010s)"
+  soundtrack {
+    rating: "Decent"
+    comments: "Very early 2010s"
+  }
   cinematography {
     cinematographer {
       name: "Terry Stacey"
     }
-    comments: "Decent Cinematography"
+    rating: "Decent"
   }
-  sound: "Decent Sound"
   editing {
     editor {
       name: "Zene Baker"
     }
-    comments: "Decent Editing"
+    rating: "Decent"
+  }
+  sound {
+    rating: "Decent"
   }
   plot_structure: "Plot Structure was very formulaic as it was evident which part of the story arc the movie was in"
   pacing: "Pacing was a decent pace (maybe a bit slower but not terrible); 10-20 minutes of runtime could have been added to help with character building"
   climax: "Climax was predictable but did showcase some of the more dramatic elements of the movie"
   tone: "Tone reeked of the early 2010s feel-good comedy movie as it uses way too much from that formula to tell the story"
+  final_notes: ""
   overall: "Overall, a very safe, feel-good movie that has some good moments (like acting from the lead two), but reeks of the early 2010s in its tone and predictable plot"
 }
 release_year: 2011

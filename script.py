@@ -766,7 +766,7 @@ def convert_direction(old_field, filename):
     rating, comments = get_rating_and_comments(old_field.comments, "Direction", filename)
     new_direction = movie_pb2.Movie.Review.Direction(director = old_field.director, rating = rating)
     if comments != "":
-        new_direction.comments = comments.capitalize()
+        new_direction.comments = comments[0].capitalize() + comments[1:]
 
     return new_direction
 
@@ -784,7 +784,7 @@ def convert_acting(old_field, filename):
         cast = movie_pb2.Movie.Review.GenericCategory(rating = cast_rating)
 
         if cast_comments != "":
-            cast.comments = cast_comments.capitalize()
+            cast.comments = cast_comments[0].capitalize() + cast_comments[1:]
 
         new_acting.cast.MergeFrom(cast)
     
@@ -800,7 +800,7 @@ def convert_acting(old_field, filename):
         )
 
         if actor_comments != "":
-            performance.comments = actor_comments.capitalize()
+            performance.comments = actor_comments[0].capitalize() + actor_comments[1:]
 
         new_acting.performance.append(performance)
 
@@ -813,7 +813,7 @@ def convert_story(old_field, filename):
     rating, comments = get_rating_and_comments(old_field.comments, "Story", filename)
     new_story = movie_pb2.Movie.Review.Story(writer = old_field.writer, rating = rating)
     if comments != "":
-        new_story.comments = comments.capitalize()
+        new_story.comments = comments[0].capitalize() + comments[1:]
     return new_story
 
 def convert_screenplay(old_field, filename):
@@ -823,7 +823,7 @@ def convert_screenplay(old_field, filename):
     rating, comments = get_rating_and_comments(old_field.comments, "Screenplay", filename)
     new_field = movie_pb2.Movie.Review.Screenplay(writer = old_field.writer, rating = rating)
     if comments != "":
-        new_field.comments = comments.capitalize()
+        new_field.comments = comments[0].capitalize() + comments[1:]
     return new_field
 
 def convert_score(old_field, filename):
@@ -835,7 +835,7 @@ def convert_score(old_field, filename):
     rating, comments = get_rating_and_comments(old_field.comments, "Score", filename)
     new_field = movie_pb2.Movie.Review.Score(composer = old_field.composer, rating = rating)
     if comments != "":
-        new_field.comments = comments.capitalize()
+        new_field.comments = comments[0].capitalize() + comments[1:]
     return new_field
 
 def convert_cinematography(old_field, filename):
@@ -845,7 +845,7 @@ def convert_cinematography(old_field, filename):
     rating, comments = get_rating_and_comments(old_field.comments, "Cinematography", filename)
     new_field = movie_pb2.Movie.Review.Cinematography(cinematographer = old_field.cinematographer, rating = rating)
     if comments != "":
-        new_field.comments = comments.capitalize()
+        new_field.comments = comments[0].capitalize() + comments[1:]
     return new_field
 
 def convert_editing(old_field, filename):
@@ -855,7 +855,7 @@ def convert_editing(old_field, filename):
     rating, comments = get_rating_and_comments(old_field.comments, "Editing", filename)
     new_field = movie_pb2.Movie.Review.Editing(editor = old_field.editor, rating = rating)
     if comments != "":
-        new_field.comments = comments.capitalize()
+        new_field.comments = comments[0].capitalize() + comments[1:]
     return new_field
 
 def convert_generic(old_field, field_name, filename):
@@ -865,7 +865,7 @@ def convert_generic(old_field, field_name, filename):
     rating, comments = get_rating_and_comments_generic(old_field, field_name, filename)
     new_field = movie_pb2.Movie.Review.GenericCategory(rating = rating)
     if comments != "":
-        new_field.comments = comments.capitalize()
+        new_field.comments = comments[0].capitalize() + comments[1:]
     return new_field
 
 def convert_visual_effects(old_field, filename):
@@ -960,9 +960,12 @@ if __name__=="__main__":
 
     argc = len(sys.argv)
 
-    for filename in os.listdir('movies_textproto/'):
+    files = [x for x in os.listdir('movies_textproto/') if x.startswith("A")]
+
+    for filename in files:
         if filename == "reduxed":
             continue
+        
         try:
             original = read_old_format(filename.removesuffix(".textproto"))
         except ValueError as e:
@@ -971,6 +974,10 @@ if __name__=="__main__":
 
         if isinstance(original, movie_pb2.MovieOldFormat):
             proto = convert_old_format_to_new(original, filename)
+
+            with open('movies_textproto/' + filename, "w") as fd:
+                text_proto = text_format.MessageToString(proto)
+                fd.write(text_proto)
         
 
 

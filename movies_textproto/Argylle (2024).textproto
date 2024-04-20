@@ -5,73 +5,105 @@ review {
     director {
       name: "Matthew Vaughn"
     }
-    comments: "Very Bad Direction (The direction on a macroscale is very poor as the action sequences are not that well executed and the world is built using tacky CGI; the direction on a microscale makes no sense as it does not feel like the movie is going anywhere with its interpersonal scenes; the direction of actors is fine mainly because everyone in the cast is an experienced actor (so it makes me believe that no one was actually taking his direction); the storytelling is terrible as the movie constantly tries to go back and forth from with this first person POV where the protagonist is living out the stories she is creating, but then all of a sudden, this gets dropped at the halfway point of the point for their 'big twist'; the tension is not built at all as none of the scenes flow to build tension (all the action scenes just happen in a second))"
+    rating: "Very Bad"
+    comments: "The direction on a macroscale is very poor as the action sequences are not that well executed and the world is built using tacky CGI; the direction on a microscale makes no sense as it does not feel like the movie is going anywhere with its interpersonal scenes; the direction of actors is fine mainly because everyone in the cast is an experienced actor (so it makes me believe that no one was actually taking his direction); the storytelling is terrible as the movie constantly tries to go back and forth from with this first person POV where the protagonist is living out the stories she is creating, but then all of a sudden, this gets dropped at the halfway point of the point for their \'big twist\'; the tension is not built at all as none of the scenes flow to build tension (all the action scenes just happen in a second)"
   }
   acting {
-    actor {
-      name: "Henry Cavill"
-      comments: "Decent from Henry Cavill (Really is just sauve eye-candy; side note, but I feel bad for Henry Cavill because he's a decent actor but is just always in bad projects)"
+    performance {
+      actor {
+        name: "Henry Cavill"
+      }
+      rating: "Decent"
+      comments: "Really is just sauve eye-candy; side note, but I feel bad for Henry Cavill because he\'s a decent actor but is just always in bad projects"
     }
-    actor {
-      name: "Bryce Dallas Howard"
-      comments: "Decent to Pretty Good from Bryce Dallas Howard (Does a fine job, but it just honestly feels like she's not right for this character)"
+    performance {
+      actor {
+        name: "Bryce Dallas Howard"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Does a fine job, but it just honestly feels like she\'s not right for this character"
     }
-    actor {
-      name: "Sam Rockwell"
-      comments: "Pretty Good from Sam Rockwell (The only performance with any positive outcome on the movie as his charm and humor make the movie somewhat bearable (mainly because he is just playing himself the whole time))"
+    performance {
+      actor {
+        name: "Sam Rockwell"
+      }
+      rating: "Pretty Good"
+      comments: "The only performance with any positive outcome on the movie as his charm and humor make the movie somewhat bearable (mainly because he is just playing himself the whole time)"
     }
-    actor {
-      name: "Bryan Cranston"
-      comments: "Decent from Bryan Cranston (He's just playing himself as put no effort into the role)"
+    performance {
+      actor {
+        name: "Bryan Cranston"
+      }
+      rating: "Decent"
+      comments: "He\'s just playing himself as put no effort into the role"
     }
-    actor {
-      name: "Catherine O\'Hara"
-      comments: "Decent from Catherine O\'Hara (Really just pulled from her personality and acting experience)"
+    performance {
+      actor {
+        name: "Catherine O\'Hara"
+      }
+      rating: "Decent"
+      comments: "Really just pulled from her personality and acting experience"
     }
-    actor {
-      name: "Dua Lipa"
-      comments: "Pretty Bad from Dua Lipa (Just eye candy who cannot help that she's not an actress)"
+    performance {
+      actor {
+        name: "Dua Lipa"
+      }
+      rating: "Pretty Bad"
+      comments: "Just eye candy who cannot help that she\'s not an actress"
     }
-    actor {
-      name: "Ariana DeBose"
-      comments: "Decent from Ariana DeBose"
+    performance {
+      actor {
+        name: "Ariana DeBose"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "John Cena"
-      comments: "Decent from John Cena"
+    performance {
+      actor {
+        name: "John Cena"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Samuel L. Jackson"
-      comments: "Decent from Samuel L. Jackson (They really just wasted his talent in this movie because he's given the most boring character, even though he does a decent job in playing him)"
+    performance {
+      actor {
+        name: "Samuel L. Jackson"
+      }
+      rating: "Decent"
+      comments: "They really just wasted his talent in this movie because he\'s given the most boring character, even though he does a decent job in playing him"
     }
-    cast: "Decent from the rest of the cast (Everyone is just kinda there or are truly just background characters)"
-    comments: "Decent Acting"
+    cast {
+      rating: "Decent"
+      comments: "Everyone is just kinda there or are truly just background characters"
+    }
+    rating: "Decent"
   }
   story {
     writer {
       name: "Jason Fuchs"
     }
-    comments: "Very Bad Story (The concept is incredibly stupid as it feels like it was created by a five-year-old (especially as the movie drags out); the plot structure is terrible because the plot just constantly unravels into an uncontrollable mess that cannot be stopped, and they could have cut 30 mins of fluff and the movie still wouldn't have made any sense; the flow between sequences is practically non-existent because the plot just kept on going in an opposite direction that none of what is going on screen made any sense; the character writing is terrible because they just try to force so much into these characters that they just end up having no personalities or struggles that you care for)"
+    rating: "Very Bad"
+    comments: "The concept is incredibly stupid as it feels like it was created by a five-year-old (especially as the movie drags out); the plot structure is terrible because the plot just constantly unravels into an uncontrollable mess that cannot be stopped, and they could have cut 30 mins of fluff and the movie still wouldn\'t have made any sense; the flow between sequences is practically non-existent because the plot just kept on going in an opposite direction that none of what is going on screen made any sense; the character writing is terrible because they just try to force so much into these characters that they just end up having no personalities or struggles that you care for"
   }
   screenplay {
     writer {
       name: "Jason Fuchs"
     }
-    comments: "Very Bad Screenplay (The dialogue is very bad because there are moments where it is intentionally bad (mimicking the 'Argylle' book), but the rest is still very bad because it is written as if it is a parody of a parody of a spy movie (and this is evident when they 'overload the mainframe' by typing for 5 seconds); the humor is very bad because it tries to make you laugh so many times, but I laughed maybe like once; the symbolism is just inferred as they didn't write these characters deep enough to where you care how they're affected by what's going on; the foreshadowing is practically non-existent as the movie constantly tries to subvert your expectations to the point that it subverts any ounce of realism)"
+    rating: "Very Bad"
+    comments: "The dialogue is very bad because there are moments where it is intentionally bad (mimicking the \'Argylle\' book), but the rest is still very bad because it is written as if it is a parody of a parody of a spy movie (and this is evident when they \'overload the mainframe\' by typing for 5 seconds); the humor is very bad because it tries to make you laugh so many times, but I laughed maybe like once; the symbolism is just inferred as they didn\'t write these characters deep enough to where you care how they\'re affected by what\'s going on; the foreshadowing is practically non-existent as the movie constantly tries to subvert your expectations to the point that it subverts any ounce of realism"
   }
   score {
     composer {
       name: "Lorne Balfe"
     }
-    comments: "Bad Score (Just forced and feels like filler)"
+    rating: "Bad"
+    comments: "Just forced and feels like filler"
   }
   cinematography {
     cinematographer {
       name: "George Richmond"
     }
-    comments: "Very Bad Cinematography (The cinematography just looks so amateur at times because it clearly just shows they were using a green screen/CGI for most of the movie; the frame-rate changes throughout the movie threw me off as it makes me question where the 200 million dollar budget went; the POV, eye-blinking shots just felt so tacky and amateur)"
+    rating: "Very Bad"
+    comments: "The cinematography just looks so amateur at times because it clearly just shows they were using a green screen/CGI for most of the movie; the frame-rate changes throughout the movie threw me off as it makes me question where the 200 million dollar budget went; the POV, eye-blinking shots just felt so tacky and amateur"
   }
-  sound: "Decent Sound"
   editing {
     editor {
       name: "Lee Smith"
@@ -79,11 +111,24 @@ review {
     editor {
       name: "Tom Harrison-Read"
     }
-    comments: "Bad Editing (Just made the movie feel so tacky as many scenes, especially the action scenes, feel so poorly put together)"
+    rating: "Bad"
+    comments: "Just made the movie feel so tacky as many scenes, especially the action scenes, feel so poorly put together"
   }
-  visual_effects: "Very Bad Visual Effects (It just looks so obvious where they used green screens and CGI as none of the places look real, also the cat is CGI (which made me lose any hope that this movie was going to look realistic at all))"
-  production_design: "Bad Production Design (So obvious they used green screens instead of shooting on-site)"
-  makeup: "Bad Makeup (It hurts that they made this a PG-13 movie because there was barely any blood (which made no sense because there were a lot of chest and headshots))"
+  sound {
+    rating: "Decent"
+  }
+  visual_effects {
+    rating: "Very Bad"
+    comments: "It just looks so obvious where they used green screens and CGI as none of the places look real, also the cat is CGI (which made me lose any hope that this movie was going to look realistic at all)"
+  }
+  production_design {
+    rating: "Bad"
+    comments: "So obvious they used green screens instead of shooting on-site"
+  }
+  makeup {
+    rating: "Bad"
+    comments: "It hurts that they made this a PG-13 movie because there was barely any blood (which made no sense because there were a lot of chest and headshots)"
+  }
   pacing: "Pacing is incredibly slow because there is just so much meaningless plot (that you just feel bored half the time)"
   climax: "Climax is incredibly formulaic and predictable (which is given with the direction the movie was already heading)"
   tone: "Tone feels honestly more similar to Drunk History than a funny/light-hearted spy movie because it felt like they were retelling a plot that made no sense (because they were probably drunk when they wrote, directed, shot, scored, edited, marketed, and distributed this movie)"

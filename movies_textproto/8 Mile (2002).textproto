@@ -5,58 +5,82 @@ review {
     director {
       name: "Curtis Hanson"
     }
-    comments: "Good Direction (Helps move the story pretty well and does a good job getting a good amount out of the main actors (but really falters when working with the supporting/minor characters); the direction really gets highlighted during the rap battle scenes as he is able to create such a captivating environment with scenes that are just so entertaining to watch)"
+    rating: "Good"
+    comments: "Helps move the story pretty well and does a good job getting a good amount out of the main actors (but really falters when working with the supporting/minor characters); the direction really gets highlighted during the rap battle scenes as he is able to create such a captivating environment with scenes that are just so entertaining to watch"
   }
   acting {
-    actor {
-      name: "Eminem"
-      comments: "Good from Eminem (Has some moments of inexperience but really plays the lead well as he draws from personal experience to help tell the story)"
+    performance {
+      actor {
+        name: "Eminem"
+      }
+      rating: "Good"
+      comments: "Has some moments of inexperience but really plays the lead well as he draws from personal experience to help tell the story"
     }
-    actor {
-      name: "Mekhi Phifer"
-      comments: "Pretty Good to Good from Mekhi Phifer (Plays the best friend character well and is able to work with Eminem nicely)"
+    performance {
+      actor {
+        name: "Mekhi Phifer"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Plays the best friend character well and is able to work with Eminem nicely"
     }
-    actor {
-      name: "Brittany Murphy"
-      comments: "Pretty Good from Brittany Murphy (Is not really given that much to work with but does a pretty good job at playing the female lead well)"
+    performance {
+      actor {
+        name: "Brittany Murphy"
+      }
+      rating: "Pretty Good"
+      comments: "Is not really given that much to work with but does a pretty good job at playing the female lead well"
     }
-    actor {
-      name: "Kim Basinger"
-      comments: "Pretty Bad from Kim Basinger (Really suprising how poorly she plays this character given her last performance with this director won her an oscar; just does not hit any of the depressing notes that are needed from her character and does not work well with other actors)"
+    performance {
+      actor {
+        name: "Kim Basinger"
+      }
+      rating: "Pretty Bad"
+      comments: "Really suprising how poorly she plays this character given her last performance with this director won her an oscar; just does not hit any of the depressing notes that are needed from her character and does not work well with other actors"
     }
-    actor {
-      name: "Michael Shannon"
-      comments: "Pretty Good to Good from Michael Shannon (Really steals the show in the scenes he is in as he shows glimpses of an actors that will have acclaim in the future)"
+    performance {
+      actor {
+        name: "Michael Shannon"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Really steals the show in the scenes he is in as he shows glimpses of an actors that will have acclaim in the future"
     }
-    cast: "Bad to Pretty Bad from the rest of the cast (Just a lot of inexperience and lack of depth in any of the characters)"
-    comments: "Pretty Bad to Decent Acting"
+    cast {
+      rating: "Bad to Pretty Bad"
+      comments: "Just a lot of inexperience and lack of depth in any of the characters"
+    }
+    rating: "Pretty Bad to Decent"
   }
   story {
     writer {
       name: "Scott Silver"
     }
-    comments: "Very Good Story (The semi-autobiographical nature of the story really looks into Eminem\'s upbringing to show how hard it was for him to grow and make a name for himself in the rap community)"
+    rating: "Very Good"
+    comments: "The semi-autobiographical nature of the story really looks into Eminem\'s upbringing to show how hard it was for him to grow and make a name for himself in the rap community"
   }
   screenplay {
     writer {
       name: "Scott Silver"
     }
-    comments: "Pretty Good Screenplay (The dialogue is very simplistic and is a bit lacking in comparison to the other; the lyricism of the wraps are very well written and definitely a highlight of the movie; the foreshadowing and symbolism is a but surface level as the story really is meant to show the race divisions of Detroit and the Rap community)"
+    rating: "Pretty Good"
+    comments: "The dialogue is very simplistic and is a bit lacking in comparison to the other; the lyricism of the wraps are very well written and definitely a highlight of the movie; the foreshadowing and symbolism is a but surface level as the story really is meant to show the race divisions of Detroit and the Rap community"
   }
   score {
     composer {
       name: "Eminem"
     }
-    comments: "Great Score (The score is just an interpolation of Lose Yourself but that song is just so good that this is a plus)"
+    rating: "Great"
+    comments: "The score is just an interpolation of Lose Yourself but that song is just so good that this is a plus"
   }
-  soundtrack: "Great Soundtrack (Mostly about how Lose Yourself is such a good song but the Raps and Rap Battles are still iconic)"
+  soundtrack {
+    rating: "Great"
+    comments: "Mostly about how Lose Yourself is such a good song but the Raps and Rap Battles are still iconic"
+  }
   cinematography {
     cinematographer {
       name: "Rodrigo Prieto"
     }
-    comments: "Pretty Good Cinematography"
+    rating: "Pretty Good"
   }
-  sound: "Good Sound (Really helped when mixing the hip-hop elements with the story)"
   editing {
     editor {
       name: "Jay Rabinowitz"
@@ -64,15 +88,21 @@ review {
     editor {
       name: "Craig Kitson"
     }
-    comments: "Pretty Good Editing"
+    rating: "Pretty Good"
+  }
+  sound {
+    rating: "Good"
+    comments: "Really helped when mixing the hip-hop elements with the story"
   }
   plot_structure: "Plot Structure was pretty standard and boilerplate (the typical underdog story getting his shot at the end)"
   pacing: "Pacing was good (there was no need to cut or add any time)"
   climax: "Climax was great and the best part of the movie (it really shows how Rabbit finally gets the confidence to show off his lyricism as he spits some of the most famous bars not only in movie history but rap history)"
   tone: "Tone was set well (helped with really establishing the scene and the grime of the ghetto in Detroit)"
+  final_notes: ""
   overall: "Overall, an entertaining movie that has really great moments and showcases great hip-hop, all lead by a good performance from Eminem as he drives the movie to a great climax of Rap Battles, but is held back a bit from the pretty standard/boilerplate elements and not great performances from the minor characters"
 }
 release_year: 2002
 review_date: "01/18/2023"
+redux: false
 id: 314
 imdb_id: "tt0298203"

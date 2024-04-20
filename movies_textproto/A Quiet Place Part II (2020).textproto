@@ -5,57 +5,69 @@ review {
     director {
       name: "John Krasinski"
     }
-    comments: "Great Direction"
+    rating: "Great"
   }
   acting {
-    actor {
-      name: "Emily Blunt"
-      comments: "Very Good from Emily Blunt"
+    performance {
+      actor {
+        name: "Emily Blunt"
+      }
+      rating: "Very Good"
     }
-    actor {
-      name: "Cillian Murphy"
-      comments: "Very Good from Cillian Murphy"
+    performance {
+      actor {
+        name: "Cillian Murphy"
+      }
+      rating: "Very Good"
     }
-    actor {
-      name: "Millicent Simmonds"
-      comments: "Good from Millicent Simmonds"
+    performance {
+      actor {
+        name: "Millicent Simmonds"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Noah Jupe"
-      comments: "Good from Noah Jupe"
+    performance {
+      actor {
+        name: "Noah Jupe"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "John Krasinski"
-      comments: "Good from John Krasinski"
+    performance {
+      actor {
+        name: "John Krasinski"
+      }
+      rating: "Good"
     }
-    cast: ""
-    comments: "Good to Very Good Acting"
+    rating: "Good to Very Good"
   }
   story {
     writer {
       name: "John Krasinski"
     }
-    comments: "Good Story"
+    rating: "Good"
   }
   screenplay {
     writer {
       name: "John Krasinski"
     }
-    comments: "Good Screenplay (Uses less ASL makes the movie a bit more \'Blunt,\' but the movie uses plot points throughout the movie to tie the movie together)"
+    rating: "Good"
+    comments: "Uses less ASL makes the movie a bit more \'Blunt,\' but the movie uses plot points throughout the movie to tie the movie together"
   }
   score {
     composer {
       name: "Marco Beltrami"
     }
-    comments: "Decent to Pretty Good Score"
+    rating: "Decent to Pretty Good"
   }
   cinematography {
     cinematographer {
       name: "Polly Morgan"
     }
-    comments: "Great Cinematography"
+    rating: "Great"
   }
-  sound: "Great to Incredible Sound"
+  sound {
+    rating: "Great to Incredible"
+  }
   plot_structure: "Plot Structure was Good"
   pacing: "Short runtime is used effectively as no scene is really unused and there really isn\'t anything that needs to be added/cut"
   climax: "Build to the climax was great with the final 15 minutes being a very well executed sequence that kept me on the edge of my seat"

@@ -5,31 +5,46 @@ review {
     director {
       name: "James Cameron"
     }
-    comments: "Pretty Good Direction (Does a very good job at helping build the world and moving the story forward (plus helping create the action and suspense); does do a better job this time in getting more from his actors, but nothing seems very innovative since the last movie)"
+    rating: "Pretty Good"
+    comments: "Does a very good job at helping build the world and moving the story forward (plus helping create the action and suspense); does do a better job this time in getting more from his actors, but nothing seems very innovative since the last movie"
   }
   acting {
-    actor {
-      name: "Sam Worthington"
-      comments: "Decent from Sam Worthington (While there were similar flaws to the previous performance, he did improve a lot and shows a bit more experience this time around)"
+    performance {
+      actor {
+        name: "Sam Worthington"
+      }
+      rating: "Decent"
+      comments: "While there were similar flaws to the previous performance, he did improve a lot and shows a bit more experience this time around"
     }
-    actor {
-      name: "Zoe Salda\303\261a"
-      comments: "Pretty Good from Zoe Salda\303\261a"
+    performance {
+      actor {
+        name: "Zoe Salda\303\261a"
+      }
+      rating: "Pretty Good"
     }
-    actor {
-      name: "Sigourney Weaver"
-      comments: "Pretty Good from Sigourney Weaver"
+    performance {
+      actor {
+        name: "Sigourney Weaver"
+      }
+      rating: "Pretty Good"
     }
-    actor {
-      name: "Stephen Lang"
-      comments: "Pretty Good from Stephen Lang (Kinda just plays the same character as last time and just goes off of the same villain trope that is pretty standard)"
+    performance {
+      actor {
+        name: "Stephen Lang"
+      }
+      rating: "Pretty Good"
+      comments: "Kinda just plays the same character as last time and just goes off of the same villain trope that is pretty standard"
     }
-    actor {
-      name: "Kate Winslet"
-      comments: "Pretty Good from Kate Winslet"
+    performance {
+      actor {
+        name: "Kate Winslet"
+      }
+      rating: "Pretty Good"
     }
-    cast: "Pretty Bad to Decent from the rest of the cast"
-    comments: "Decent to Pretty Good Acting"
+    cast {
+      rating: "Pretty Bad to Decent"
+    }
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
@@ -47,7 +62,8 @@ review {
     writer {
       name: "Shane Salerno"
     }
-    comments: "Bad to Pretty Bad Story (It honestly feels like the same story as the last movie and suffers from the same flaws as well; moreover, the movie just tries to fit in so much plot that the final part of the story just becomes boring considering how long the movie is)"
+    rating: "Bad to Pretty Bad"
+    comments: "It honestly feels like the same story as the last movie and suffers from the same flaws as well; moreover, the movie just tries to fit in so much plot that the final part of the story just becomes boring considering how long the movie is"
   }
   screenplay {
     writer {
@@ -59,21 +75,23 @@ review {
     writer {
       name: "Amanda Silver"
     }
-    comments: "Pretty Bad to Decent Screenplay (The dialogue does improve a bit and does not feel as forced as last time (but still very similar to other Sci-Fi movies); the allegory for the story is literally the same as last time but it is just something else that is being exploited (once again exploiting natives for their resources and not caring about the humanity trope))"
+    rating: "Pretty Bad to Decent"
+    comments: "The dialogue does improve a bit and does not feel as forced as last time (but still very similar to other Sci-Fi movies); the allegory for the story is literally the same as last time but it is just something else that is being exploited (once again exploiting natives for their resources and not caring about the humanity trope)"
   }
   score {
     composer {
       name: "Simon Franglen"
     }
-    comments: "Good Score (Has some iconic elements to it and builds on the previous score)"
+    rating: "Good"
+    comments: "Has some iconic elements to it and builds on the previous score"
   }
   cinematography {
     cinematographer {
       name: "Russell Carpenter"
     }
-    comments: "Great Cinematography (It is easier to tell now what is done using cinematography and it is very well done (even though most of the movie is CGI))"
+    rating: "Great"
+    comments: "It is easier to tell now what is done using cinematography and it is very well done (even though most of the movie is CGI)"
   }
-  sound: "Very Good Sound"
   editing {
     editor {
       name: "Stephen Rivkin"
@@ -87,9 +105,15 @@ review {
     editor {
       name: "James Cameron"
     }
-    comments: "Very Good Editing"
+    rating: "Very Good"
   }
-  visual_effects: "Incredible Visual Effects (Even though it might become dated like the last movie, currently it was very stunning how pretty the movie was and how the use of CGI made this world not only above land but below it)"
+  sound {
+    rating: "Very Good"
+  }
+  visual_effects {
+    rating: "Incredible"
+    comments: "Even though it might become dated like the last movie, currently it was very stunning how pretty the movie was and how the use of CGI made this world not only above land but below it"
+  }
   plot_structure: "Plot Structure was the same but dragged out more"
   pacing: "Pacing was not the issue as it never felt super slow (but there is just so much plot that it drags for the final third of the movie to where it just gets really boring)"
   climax: "Climax was good as it is the most action packed part of the movie"

@@ -5,58 +5,82 @@ review {
     director {
       name: "Andrew Haigh"
     }
-    comments: "Decent to Pretty Good Direction (Has a very unique way of telling the story as subtly creates a sense of blur and mystery in what is reality and what is an illusion, and he uses cinematography and editing well to create this effect; has somewhat control on a microscale as the one-on-one scenes between actors are directed well; gets a decent amount from his actors (it is just the movie is a bit dry in getting as much as he can))"
+    rating: "Decent to Pretty Good"
+    comments: "Has a very unique way of telling the story as subtly creates a sense of blur and mystery in what is reality and what is an illusion, and he uses cinematography and editing well to create this effect; has somewhat control on a microscale as the one-on-one scenes between actors are directed well; gets a decent amount from his actors (it is just the movie is a bit dry in getting as much as he can)"
   }
   acting {
-    actor {
-      name: "Andrew Scott"
-      comments: "Very Good from Andrew Scott (The center of the movie and really embodies someone who is dealing with repressed trauma from the loss of his family, dealing with his sexuality in a heteronormative culture, and finding love when very few love him back)"
+    performance {
+      actor {
+        name: "Andrew Scott"
+      }
+      rating: "Very Good"
+      comments: "The center of the movie and really embodies someone who is dealing with repressed trauma from the loss of his family, dealing with his sexuality in a heteronormative culture, and finding love when very few love him back"
     }
-    actor {
-      name: "Paul Mescal"
-      comments: "Pretty Good from Paul Mescal (Mumbling the whole movie so it is so hard to hear what he is saying; does have good chemistry with Scott)"
+    performance {
+      actor {
+        name: "Paul Mescal"
+      }
+      rating: "Pretty Good"
+      comments: "Mumbling the whole movie so it is so hard to hear what he is saying; does have good chemistry with Scott"
     }
-    actor {
-      name: "Jamie Bell"
-      comments: "Good from Jamie Bell (Plays off of Scott very well (Especially in their one-on-one scenes))"
+    performance {
+      actor {
+        name: "Jamie Bell"
+      }
+      rating: "Good"
+      comments: "Plays off of Scott very well (Especially in their one-on-one scenes)"
     }
-    actor {
-      name: "Claire Foy"
-      comments: "Good from Claire Foy (Shows a lot of emotion when dealing with her son (especially in their one-on-one scenes and their final scene in the movie))"
+    performance {
+      actor {
+        name: "Claire Foy"
+      }
+      rating: "Good"
+      comments: "Shows a lot of emotion when dealing with her son (especially in their one-on-one scenes and their final scene in the movie)"
     }
-    cast: "Good from the rest of the cast (There is no other cast besides these four)"
-    comments: "Good Acting"
+    cast {
+      rating: "Good"
+      comments: "There is no other cast besides these four"
+    }
+    rating: "Good"
   }
   story {
     writer {
       name: "Andrew Haigh"
     }
-    comments: "Good Story (A unique story and is told very subtly (to help keep with the mystery and blur what is reality); this storytelling and construction is really minimal and leaves a lot open for interpretation on what actually happened; the flow between sequences is not really that clear (which can be argued is the point as it helps show how unreliable a storyteller the protagonist is); the character writing for the protagonist is good as the movie unpeels a lot about his backstory and trauma the more the movie goes on (with the ending showing who he really is))"
+    rating: "Good"
+    comments: "A unique story and is told very subtly (to help keep with the mystery and blur what is reality); this storytelling and construction is really minimal and leaves a lot open for interpretation on what actually happened; the flow between sequences is not really that clear (which can be argued is the point as it helps show how unreliable a storyteller the protagonist is); the character writing for the protagonist is good as the movie unpeels a lot about his backstory and trauma the more the movie goes on (with the ending showing who he really is)"
   }
   screenplay {
     writer {
       name: "Andrew Haigh"
     }
-    comments: "Very Good Screenplay (The dialogue is pretty minimal and simple (but does a good job and is profound when it needs to be); the romantic and emotional moments are captured very well in the screenplay and act as a good blueprint for the story to unravel; the symbolism is very profound and used very well to show the message and themes; the foreshadowing is very good and helps with creating the twist in the end)"
+    rating: "Very Good"
+    comments: "The dialogue is pretty minimal and simple (but does a good job and is profound when it needs to be); the romantic and emotional moments are captured very well in the screenplay and act as a good blueprint for the story to unravel; the symbolism is very profound and used very well to show the message and themes; the foreshadowing is very good and helps with creating the twist in the end"
   }
   score {
     composer {
       name: "Emilie Levienaise-Farrouch"
     }
-    comments: "Decent Score (Pretty minimal and just used to set the tone)"
+    rating: "Decent"
+    comments: "Pretty minimal and just used to set the tone"
   }
   cinematography {
     cinematographer {
       name: "Jamie D. Ramsay"
     }
-    comments: "Very Good Cinematography (Very artsy and helps show how skewed the protagonist\'s view of reality was)"
+    rating: "Very Good"
+    comments: "Very artsy and helps show how skewed the protagonist\'s view of reality was"
   }
-  sound: "Bad Sound (The dialogue sound mixing was bad because it was muffled and just hard to hear; the aspects of sound just felt like they were cheap (especially in the beginning))"
   editing {
     editor {
       name: "Jonathan Alberts"
     }
-    comments: "Decent to Pretty Good Editing (Artsy for the most part; felt a bit tacky at times (especially the opening shot and the drug scene))"
+    rating: "Decent to Pretty Good"
+    comments: "Artsy for the most part; felt a bit tacky at times (especially the opening shot and the drug scene)"
+  }
+  sound {
+    rating: "Bad"
+    comments: "The dialogue sound mixing was bad because it was muffled and just hard to hear; the aspects of sound just felt like they were cheap (especially in the beginning)"
   }
   plot_structure: "Plot Structure was a bit more complex as the dream sequences interject the story from moving forward as the protagonist uses them to fight his issues from the past (in a good); the culmination to the climax and the eventual exposition is laid out very well"
   pacing: "Pacing was slow (and the exposition was incredibly slow); the runtime could have been cut 10-15 minutes by making the pace a bit faster"

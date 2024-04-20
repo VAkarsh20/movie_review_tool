@@ -5,43 +5,56 @@ review {
     director {
       name: "Tony Kaye"
     }
-    comments: "Good Direction (while a lot of the conversational moments with smaller character or extras was pretty bad, the more important moments and grand scale moments were carried out very well)"
+    rating: "Good"
+    comments: "While a lot of the conversational moments with smaller character or extras was pretty bad, the more important moments and grand scale moments were carried out very well"
   }
   acting {
-    actor {
-      name: "Edward Norton"
-      comments: " Incredible from Edward Norton (range of emotions, ferocity, and epiphany were carried out very well)"
+    performance {
+      actor {
+        name: "Edward Norton"
+      }
+      rating: "Incredible"
+      comments: "Range of emotions, ferocity, and epiphany were carried out very well"
     }
-    actor {
-      name: "Edward Furlong"
-      comments: "Pretty Good from Edward Furlong (Good in some moments and Pretty bad and emotionless in others)"
+    performance {
+      actor {
+        name: "Edward Furlong"
+      }
+      rating: "Pretty Good"
+      comments: "Good in some moments and Pretty bad and emotionless in others"
     }
-    cast: "Pretty Bad to Decent from the rest of the cast (Minor characters were Decent to Pretty Good, extras and very small characters were Pretty Bad)"
-    comments: "Decent to Pretty Good Acting"
+    cast {
+      rating: "Pretty Bad to Decent"
+      comments: "Minor characters were Decent to Pretty Good, extras and very small characters were Pretty Bad"
+    }
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
       name: "David McKenna"
     }
-    comments: "Pretty Good to Good Story (Really liked the way the story was filtered between flashbacks in B&W and current in color, the fall and redemption of Vinyard was a bit formulaic, but the story towards the end really was carried out very well to show the message of the story)"
+    rating: "Pretty Good to Good"
+    comments: "Really liked the way the story was filtered between flashbacks in B&W and current in color, the fall and redemption of Vinyard was a bit formulaic, but the story towards the end really was carried out very well to show the message of the story"
   }
   screenplay {
     writer {
       name: "David McKenna"
     }
-    comments: "Pretty Good to Good Screenplay (Symbols were a bit overt (though they were good in what they were trying to show) and the dialogue was very meta and forced)"
+    rating: "Pretty Good to Good"
+    comments: "Symbols were a bit overt (though they were good in what they were trying to show) and the dialogue was very meta and forced"
   }
   score {
     composer {
       name: "Anne Dudley"
     }
-    comments: "Pretty Good Score"
+    rating: "Pretty Good"
   }
   cinematography {
     cinematographer {
       name: "Tony Kaye"
     }
-    comments: "Great to Incredible Cinematography (especially the way to show flashback being B&W (showing Vinyards past of separating color) with the present being in color (to show Vinyards future to look at multiple facets))"
+    rating: "Great to Incredible"
+    comments: "Especially the way to show flashback being B&W (showing Vinyards past of separating color) with the present being in color (to show Vinyards future to look at multiple facets)"
   }
   editing {
     editor {
@@ -50,7 +63,8 @@ review {
     editor {
       name: "Alan Heim"
     }
-    comments: "Great to Incredible Editing (helping with the cinematography)"
+    rating: "Great to Incredible"
+    comments: "Helping with the cinematography"
   }
   plot_structure: "Plot Structure was good as it is a story that mixes past and present to move the story forward"
   pacing: "Pacing was very good (nothing to really take out)"

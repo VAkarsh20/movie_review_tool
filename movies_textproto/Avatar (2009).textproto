@@ -5,57 +5,75 @@ review {
     director {
       name: "James Cameron"
     }
-    comments: "Pretty Good Direction (Does a Very good job at helping build the world and moving the story forward (plus helping create the action and suspense); but really does not do that well at directing his actors)"
+    rating: "Pretty Good"
+    comments: "Does a Very good job at helping build the world and moving the story forward (plus helping create the action and suspense); but really does not do that well at directing his actors"
   }
   acting {
-    actor {
-      name: "Sam Worthington"
-      comments: "Pretty Bad from Sam Worthington (His performance felt very monotonous and did not really do well as the lead character (plus the voice is the exact same voice he does for Black Ops so that was all I could think about))"
+    performance {
+      actor {
+        name: "Sam Worthington"
+      }
+      rating: "Pretty Bad"
+      comments: "His performance felt very monotonous and did not really do well as the lead character (plus the voice is the exact same voice he does for Black Ops so that was all I could think about)"
     }
-    actor {
-      name: "Zoe Saldana"
-      comments: "Pretty Good from Zoe Saldana"
+    performance {
+      actor {
+        name: "Zoe Saldana"
+      }
+      rating: "Pretty Good"
     }
-    actor {
-      name: "Stephen Lang"
-      comments: "Good from Stephen Lang (Really commands himself well as the antagonist of the movie and inserts his presence well in all the scenes he is in)"
+    performance {
+      actor {
+        name: "Stephen Lang"
+      }
+      rating: "Good"
+      comments: "Really commands himself well as the antagonist of the movie and inserts his presence well in all the scenes he is in"
     }
-    actor {
-      name: "Michelle Rodriguez"
-      comments: "Decent from Michelle Rodriguez"
+    performance {
+      actor {
+        name: "Michelle Rodriguez"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Sigourney Weaver"
-      comments: "Pretty Good from Sigourney Weaver"
+    performance {
+      actor {
+        name: "Sigourney Weaver"
+      }
+      rating: "Pretty Good"
     }
-    cast: "Pretty Bad to Decent from the rest of the cast"
-    comments: "Decent Acting"
+    cast {
+      rating: "Pretty Bad to Decent"
+    }
+    rating: "Decent"
   }
   story {
     writer {
       name: "James Cameron"
     }
-    comments: "Decent Story (While the actual story is not bad, it is a bland copy of other movies that fall under the trope of a colonizer assimilating with a native tribe, making the story very predictable)"
+    rating: "Decent"
+    comments: "While the actual story is not bad, it is a bland copy of other movies that fall under the trope of a colonizer assimilating with a native tribe, making the story very predictable"
   }
   screenplay {
     writer {
       name: "James Cameron"
     }
-    comments: "Decent Screenplay (The concepts and names felt like they were made on the spot and the overall dialogue is just very standard for a Sci-fi movie; the allegory for the story is also incredibly obvious that the movie feels very preachy (exploiting natives for their resources and not caring about the humanity trope))"
+    rating: "Decent"
+    comments: "The concepts and names felt like they were made on the spot and the overall dialogue is just very standard for a Sci-fi movie; the allegory for the story is also incredibly obvious that the movie feels very preachy (exploiting natives for their resources and not caring about the humanity trope)"
   }
   score {
     composer {
       name: "James Horner"
     }
-    comments: "Good Score (Has some iconic elements to it)"
+    rating: "Good"
+    comments: "Has some iconic elements to it"
   }
   cinematography {
     cinematographer {
       name: "Mauro Fiore"
     }
-    comments: "Good Cinematography (Kinda hard to gauge considering how much of the movie is CGI)"
+    rating: "Good"
+    comments: "Kinda hard to gauge considering how much of the movie is CGI"
   }
-  sound: "Very Good Sound"
   editing {
     editor {
       name: "Stephen Rivkin"
@@ -66,9 +84,15 @@ review {
     editor {
       name: "James Cameron"
     }
-    comments: "Very Good Editing"
+    rating: "Very Good"
   }
-  visual_effects: "Great Visual Effects (This is based on for the time; with the advancement in technology since this movie came out, the movie looks incredibly dated)"
+  sound {
+    rating: "Very Good"
+  }
+  visual_effects {
+    rating: "Great"
+    comments: "This is based on for the time; with the advancement in technology since this movie came out, the movie looks incredibly dated"
+  }
   plot_structure: "Plot Structure was very predictable given the trope"
   pacing: "Pacing was fine for the most part (even with the longer runtime it does not feel like it overstays its welcome)"
   climax: "Climax was very good as it is the most action packed part of the movie"

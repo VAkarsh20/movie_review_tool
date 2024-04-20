@@ -5,43 +5,70 @@ review {
     director {
       name: "George Lucas"
     }
-    comments: "Pretty Good to Good Direction (Does a Good job in moving the narrative forward and on an overall macro-scale, and does a pretty good job in the more interpersonal scenes and getting the most out of his actors (though it is obvious where he meets his limit for this))"
+    rating: "Pretty Good to Good"
+    comments: "Does a Good job in moving the narrative forward and on an overall macro-scale, and does a pretty good job in the more interpersonal scenes and getting the most out of his actors (though it is obvious where he meets his limit for this)"
   }
   acting {
-    actor {
-      name: "Richard Dreyfuss"
-      comments: "Pretty Good to Good from Richard Dreyfuss (Holds his own well and helps carry the scenes he is in (it\'s kinda hard to believe he is a teenager though))"
+    performance {
+      actor {
+        name: "Richard Dreyfuss"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Holds his own well and helps carry the scenes he is in (it\'s kinda hard to believe he is a teenager though)"
     }
-    actor {
-      name: "Ron Howard"
-      comments: "Pretty Good from Ron Howard (Holds his own well throughout the movie)"
+    performance {
+      actor {
+        name: "Ron Howard"
+      }
+      rating: "Pretty Good"
+      comments: "Holds his own well throughout the movie"
     }
-    actor {
-      name: "Paul Le Mat"
-      comments: "Decent to Pretty Good from Paul Le Mat (Really takes from James Dean with the role (but it borderline becomes copying than paying homage at points))"
+    performance {
+      actor {
+        name: "Paul Le Mat"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Really takes from James Dean with the role (but it borderline becomes copying than paying homage at points)"
     }
-    actor {
-      name: "Charles Martin Smith"
-      comments: "Decent to Pretty Good from Charles Martin Smith (Takes from the nerdy 60s kid trope)"
+    performance {
+      actor {
+        name: "Charles Martin Smith"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Takes from the nerdy 60s kid trope"
     }
-    actor {
-      name: "Candy Clark"
-      comments: "Decent to Pretty Good from Candy Clark (Holds her own well throughout the movie)"
+    performance {
+      actor {
+        name: "Candy Clark"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Holds her own well throughout the movie"
     }
-    actor {
-      name: "Mackenzie Phillips"
-      comments: "Decent to Pretty Good from Mackenzie Phillips (Holds her own well throughout the movie)"
+    performance {
+      actor {
+        name: "Mackenzie Phillips"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Holds her own well throughout the movie"
     }
-    actor {
-      name: "Cindy Williams"
-      comments: "Pretty Good from Cindy Williams (Shows some range of emotion and works well off of Ron Howard)"
+    performance {
+      actor {
+        name: "Cindy Williams"
+      }
+      rating: "Pretty Good"
+      comments: "Shows some range of emotion and works well off of Ron Howard"
     }
-    actor {
-      name: "Wolfman Jack"
-      comments: "Decent to Pretty Good from Wolfman Jack"
+    performance {
+      actor {
+        name: "Wolfman Jack"
+      }
+      rating: "Decent to Pretty Good"
     }
-    cast: "Decent to Pretty Good from the rest of the cast (The ensemble as a whole does its job in portraying the youth of the time (it is just that it\'s not extraordinary in any way given the inexperience of most of the actors))"
-    comments: "Decent to Pretty Good Acting"
+    cast {
+      rating: "Decent to Pretty Good"
+      comments: "The ensemble as a whole does its job in portraying the youth of the time (it is just that it\'s not extraordinary in any way given the inexperience of most of the actors)"
+    }
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
@@ -53,7 +80,8 @@ review {
     writer {
       name: "Willard Huyck"
     }
-    comments: "Good Story (The story construction is good and the vignette style across a single night helped with showing the youth of the time; the story ended very well as all the different storylines converged in the end and story elements/symbols are shown throughout the movie)"
+    rating: "Good"
+    comments: "The story construction is good and the vignette style across a single night helped with showing the youth of the time; the story ended very well as all the different storylines converged in the end and story elements/symbols are shown throughout the movie"
   }
   screenplay {
     writer {
@@ -65,7 +93,8 @@ review {
     writer {
       name: "Willard Huyck"
     }
-    comments: "Pretty Good Screenplay (The dialogue was pretty typical of the time (and sounded a bit more normal than typical George Lucas dialogue (it probably helped that he wasn\'t the sole screenwriter)); the comedic elements were decent (but a bit dated considering the jokes were tailored for an audience who lived during the 60s); the symbolism was present throughout the movie (like the white car); the foreshadowing was pretty predictable given the genre (though it executed pretty well))"
+    rating: "Pretty Good"
+    comments: "The dialogue was pretty typical of the time (and sounded a bit more normal than typical George Lucas dialogue (it probably helped that he wasn\'t the sole screenwriter)); the comedic elements were decent (but a bit dated considering the jokes were tailored for an audience who lived during the 60s); the symbolism was present throughout the movie (like the white car); the foreshadowing was pretty predictable given the genre (though it executed pretty well)"
   }
   cinematography {
     cinematographer {
@@ -77,9 +106,9 @@ review {
     cinematographer {
       name: "Haskell Wexler (visual consultant)"
     }
-    comments: "Good Cinematography (Especially with the car scenes)"
+    rating: "Good"
+    comments: "Especially with the car scenes"
   }
-  sound: "Pretty Good Sound (Sounded kinda cheap and cartoony at times)"
   editing {
     editor {
       name: "Verna Fields"
@@ -87,10 +116,19 @@ review {
     editor {
       name: "Marcia Lucas"
     }
-    comments: "Pretty Good Editing"
+    rating: "Pretty Good"
   }
-  visual_effects: "Pretty Good Visual Effects"
-  production_design: "Good Production Design (Helped with setting the time period)"
+  sound {
+    rating: "Pretty Good"
+    comments: "Sounded kinda cheap and cartoony at times"
+  }
+  visual_effects {
+    rating: "Pretty Good"
+  }
+  production_design {
+    rating: "Good"
+    comments: "Helped with setting the time period"
+  }
   plot_structure: "Plot Structure was a unique part of the movie as the vignette style of multiple storylines converging to a single conclusion helped with showing the different lives of the ensemble"
   pacing: "Pacing was fine (did not feel too fast or too slow); Runtime felt just right (maybe deleting about 5-10 minutes of the exposition could have helped with making the movie a bit more tight)"
   climax: "Climax was decent to pretty good (Did not feel incredibly captivating but did its purpose in helping converge the different storylines)"
