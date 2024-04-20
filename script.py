@@ -919,7 +919,11 @@ def convert_old_format_to_new(original, filename):
             review.sound.MergeFrom(convert_generic(original.review.sound, "Sound", filename))
         
         if original.review.visual_effects != "":
-            review.visual_effects.MergeFrom(convert_visual_effects(original.review.visual_effects, filename))
+            
+            if "Animation" in original.review.visual_effects:
+                review.animation.MergeFrom(convert_generic(original.review.visual_effects, "Animation", filename))
+            else:
+                review.visual_effects.MergeFrom(convert_generic(original.review.visual_effects, "Visual Effects", filename))
         
         if original.review.production_design != "":
             review.production_design.MergeFrom(convert_generic(original.review.production_design, "Production Design", filename))
