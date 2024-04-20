@@ -5,75 +5,105 @@ review {
     director {
       name: "Paul Thomas Anderson"
     }
-    comments: "Very Good Direction (While he does falter in some of the micro scenes and getting the most out of his actors, he does some very unique things in capturing scenes from a macro level that shows why he caught the eye of many when this movie came out (like the parallelism and ability to set scenes))"
+    rating: "Very Good"
+    comments: "While he does falter in some of the micro scenes and getting the most out of his actors, he does some very unique things in capturing scenes from a macro level that shows why he caught the eye of many when this movie came out (like the parallelism and ability to set scenes)"
   }
   acting {
-    actor {
-      name: "Mark Wahlberg"
-      comments: "Pretty Good from Mark Wahlberg (There are many moments in the film where he shows his limit (like in screaming matches), but he does show some talent when it comes to playing the very anxious character (something that characters later in his career tend not to be))"
+    performance {
+      actor {
+        name: "Mark Wahlberg"
+      }
+      rating: "Pretty Good"
+      comments: "There are many moments in the film where he shows his limit (like in screaming matches), but he does show some talent when it comes to playing the very anxious character (something that characters later in his career tend not to be)"
     }
-    actor {
-      name: "Julianne Moore"
-      comments: "Good to Very Good from Julianne Moore (Her performance starts out very rough in the beginning but gets better as the movie goes on to show how lost of a character she becomes (especially in the custody scenes))"
+    performance {
+      actor {
+        name: "Julianne Moore"
+      }
+      rating: "Good to Very Good"
+      comments: "Her performance starts out very rough in the beginning but gets better as the movie goes on to show how lost of a character she becomes (especially in the custody scenes)"
     }
-    actor {
-      name: "Burt Reynolds"
-      comments: "Very Good to Great from Burt Reynolds (Really commands every scene he is in and shows his experience in being the fatherly figure in the movie)"
+    performance {
+      actor {
+        name: "Burt Reynolds"
+      }
+      rating: "Very Good to Great"
+      comments: "Really commands every scene he is in and shows his experience in being the fatherly figure in the movie"
     }
-    actor {
-      name: "Don Cheadle"
-      comments: "Pretty Good to Good from Don Cheadle (Shows some depth in his performance but is not really given that much time to work with to make this a meanwhile performance)"
+    performance {
+      actor {
+        name: "Don Cheadle"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Shows some depth in his performance but is not really given that much time to work with to make this a meanwhile performance"
     }
-    actor {
-      name: "John C. Reilly"
-      comments: "Decent to Pretty Good from John C. Reilly (Actually plays a surprisingly funny comedic relief character at times in how he tries to size-up Dirk to hide his insecurities)"
+    performance {
+      actor {
+        name: "John C. Reilly"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Actually plays a surprisingly funny comedic relief character at times in how he tries to size-up Dirk to hide his insecurities"
     }
-    actor {
-      name: "William H. Macy"
-      comments: "Good to Very Good from William H. Macy (His performance was very funny as his function in the movie was really to be a comedic relief character that shows how far the adult entertainment industry can lead a person (to where there is no real out))"
+    performance {
+      actor {
+        name: "William H. Macy"
+      }
+      rating: "Good to Very Good"
+      comments: "His performance was very funny as his function in the movie was really to be a comedic relief character that shows how far the adult entertainment industry can lead a person (to where there is no real out)"
     }
-    actor {
-      name: "Heather Graham"
-      comments: "Pretty Good from Heather Graham"
+    performance {
+      actor {
+        name: "Heather Graham"
+      }
+      rating: "Pretty Good"
     }
-    cast: "Decent to Pretty Good from the rest of the cast"
-    comments: "Good Acting"
+    cast {
+      rating: "Decent to Pretty Good"
+    }
+    rating: "Good"
   }
   story {
     writer {
       name: "Paul Thomas Anderson"
     }
-    comments: "Decent to Pretty Good Story (While the movie is very entertaining and there are elements of the movie that are very important to the movie, there are many moments in the film that are just fluff to the point where they provide nothing to the story (especially the climax); though, the overall structure of the rise and fall of the characters was well done)"
+    rating: "Decent to Pretty Good"
+    comments: "While the movie is very entertaining and there are elements of the movie that are very important to the movie, there are many moments in the film that are just fluff to the point where they provide nothing to the story (especially the climax); though, the overall structure of the rise and fall of the characters was well done"
   }
   screenplay {
     writer {
       name: "Paul Thomas Anderson"
     }
-    comments: "Good Screenplay (There is a lot of parallelism throughout the movie which I really enjoyed but the dialogue was just very basic, unnatural, and hard to watch)"
+    rating: "Good"
+    comments: "There is a lot of parallelism throughout the movie which I really enjoyed but the dialogue was just very basic, unnatural, and hard to watch"
   }
   score {
     composer {
       name: "Michael Penn"
     }
-    comments: "Good Score (helps with giving off that 70s-80s vibe)"
+    rating: "Good"
+    comments: "Helps with giving off that 70s-80s vibe"
   }
   cinematography {
     cinematographer {
       name: "Robert Elswit"
     }
-    comments: "Great Cinematography (Really helped with establishing the scenes with the tracking shots that followed the characters around the space)"
+    rating: "Great"
+    comments: "Really helped with establishing the scenes with the tracking shots that followed the characters around the space"
   }
-  sound: "Decent to Pretty Good Sound"
   editing {
     editor {
       name: "Dylan Tichenor"
     }
-    comments: "Great Film Editing"
+    rating: "Great Film"
+  }
+  sound {
+    rating: "Decent to Pretty Good"
   }
   plot_structure: "Plot Structure on a macro scale was very good but it spend way too much time on the exposition to where the downfall was rushed and did not have that much content (along with having a useless climax)"
   pacing: "Pacing was good (not too slow and not too fast (though the downfall was a bit rushed), the runtime of the movie was way longer than it needed to be (like 20-30 minutes of the movie could have been cut out and it would have been the same movie))"
   climax: "Build to the climax was great and executed very nicely as it really helped portray the downfall of the characters; climax was actually irrelevant (if you cut it all out the same outcome would come (But the resolution was good in helping tie up all the lose ends))"
   tone: "Tone of the movie was well established and one of the highlights of the film as PTA did a great job in building up the glamour of the 70s and then shifting it to the downfall of the 80s very well"
+  final_notes: ""
   overall: "Overall, a Pretty Good movie that does a good job in helping establishing the scenes and vibe of the subject matter coupled with an interesting story, but is held back from issues in plot construction, some of the performances and writing, and an irrelevant climax (with other scenes being irrelevant as well)"
 }
 release_year: 1997

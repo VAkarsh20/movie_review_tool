@@ -5,29 +5,43 @@ review {
     director {
       name: "Denis Villeneuve"
     }
-    comments: "Pretty Good to Good Direction (Does a Great Job in storytelling/moving the story forward as he is able to build scenes/worlds and pieces them toghether with other story elements; the issues in the direction come with directors his actors as it has a similar style to the first film and because of it there is a lot of dull performances with dead air)"
+    rating: "Pretty Good to Good"
+    comments: "Does a Great Job in storytelling/moving the story forward as he is able to build scenes/worlds and pieces them toghether with other story elements; the issues in the direction come with directors his actors as it has a similar style to the first film and because of it there is a lot of dull performances with dead air"
   }
   acting {
-    actor {
-      name: "Ryan Gosling"
-      comments: "Pretty Good to Good from Ryan Gosling (Uses a lot of his facial experiences to help sell the scenes and acts as a replicant very well (which kinda hurts him because he really is not given that much to work with in terms of showing range))"
+    performance {
+      actor {
+        name: "Ryan Gosling"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Uses a lot of his facial experiences to help sell the scenes and acts as a replicant very well (which kinda hurts him because he really is not given that much to work with in terms of showing range)"
     }
-    actor {
-      name: "Harrison Ford"
-      comments: "Decent from Harrison Ford (Shows more experience and emotion from the last time but the performance just shows that he put no prep into the role as it just feels like he showed up with very little interest)"
+    performance {
+      actor {
+        name: "Harrison Ford"
+      }
+      rating: "Decent"
+      comments: "Shows more experience and emotion from the last time but the performance just shows that he put no prep into the role as it just feels like he showed up with very little interest"
     }
-    actor {
-      name: "Ana de Armas"
-      comments: "Good to Very Good from Ana de Armas (Really acts as the morality of the movie as she works well off of Gosling to help give humanity to his life despite being fake herself)"
+    performance {
+      actor {
+        name: "Ana de Armas"
+      }
+      rating: "Good to Very Good"
+      comments: "Really acts as the morality of the movie as she works well off of Gosling to help give humanity to his life despite being fake herself"
     }
-    cast: "Decent from the rest of the cast (just a lot of emotionless performances that don\'t really help or hurt the movie)"
-    comments: "Decent to Pretty Good Acting"
+    cast {
+      rating: "Decent"
+      comments: "Just a lot of emotionless performances that don\'t really help or hurt the movie"
+    }
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
       name: "Hampton Fancher"
     }
-    comments: "Good to Very Good Story (Really does a good job in differing from the previous movie as the plot this time around was more about K finding his own humanity rather than a Blade Runner trying to hunt down replicants; the movie also does share the same philosophical interpretations on what it means to be alive but it is less open ended than last time)"
+    rating: "Good to Very Good"
+    comments: "Really does a good job in differing from the previous movie as the plot this time around was more about K finding his own humanity rather than a Blade Runner trying to hunt down replicants; the movie also does share the same philosophical interpretations on what it means to be alive but it is less open ended than last time"
   }
   screenplay {
     writer {
@@ -36,7 +50,8 @@ review {
     writer {
       name: "Michael Green"
     }
-    comments: "Decent to Pretty Good Screenplay (The screenplay does improve as it flows more than the last movie (not by that much though) but the symbolism is not as good as the previous movie; the foreshadowing is still very on-par with the previous movie as it is very evident at what they are trying to build throughout the movie)"
+    rating: "Decent to Pretty Good"
+    comments: "The screenplay does improve as it flows more than the last movie (not by that much though) but the symbolism is not as good as the previous movie; the foreshadowing is still very on-par with the previous movie as it is very evident at what they are trying to build throughout the movie"
   }
   score {
     composer {
@@ -45,24 +60,33 @@ review {
     composer {
       name: "Hans Zimmer"
     }
-    comments: "Good to Very Good Score"
+    rating: "Good to Very Good"
   }
   cinematography {
     cinematographer {
       name: "Roger A. Deakins"
     }
-    comments: "Incredible to Brilliant Cinematography (Such a beautiful movie in how they try to set up these different worlds and how they use lighting to help set the ominous nature of the scenes)"
+    rating: "Incredible to Brilliant"
+    comments: "Such a beautiful movie in how they try to set up these different worlds and how they use lighting to help set the ominous nature of the scenes"
   }
-  sound: "Great Sound"
   editing {
     editor {
       name: "Joe Walker"
     }
-    comments: "Great Editing"
+    rating: "Great"
   }
-  visual_effects: "Incredible Visual Effects"
-  production_design: "Great Production Design"
-  costumes: "Very Good Costumes"
+  sound {
+    rating: "Great"
+  }
+  visual_effects {
+    rating: "Incredible"
+  }
+  production_design {
+    rating: "Great"
+  }
+  costumes {
+    rating: "Very Good"
+  }
   plot_structure: "Plot Structure was laid out very well as it was prevalent which part of the story the movie is in"
   pacing: "Pacing was on the slower side (with 20-30 minutes that could have been cut to make the movie a bit tighter and faster)"
   climax: "Build to climax was decent (but hard considering how slow the movie was progressing); climax was decent but not that interesting or entertaining"

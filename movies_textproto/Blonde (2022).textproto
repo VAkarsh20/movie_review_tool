@@ -5,39 +5,57 @@ review {
     director {
       name: "Andrew Dominik"
     }
-    comments: "Very Bad Direction (While there are some moments that I did like, there are incredibly way more moments that I absolutely hated about this movie because the overall storytelling and direction of actors is some of the worst I have ever seen as these flaws coupled with awkward dead space to make the movie seem more artsy makes the whole movie just terrible)"
+    rating: "Very Bad"
+    comments: "While there are some moments that I did like, there are incredibly way more moments that I absolutely hated about this movie because the overall storytelling and direction of actors is some of the worst I have ever seen as these flaws coupled with awkward dead space to make the movie seem more artsy makes the whole movie just terrible"
   }
   acting {
-    actor {
-      name: "Ana de Armas"
-      comments: "Decent from Ana de Armas (She does do well in a handful of instances (like the monologue by the bathtub) and gets the mannerisms of Monroe down very easily, the issue is that there are way too many misses in the performance (which I blame more on the direction and writing) and you can still hear her Cuban accent)"
+    performance {
+      actor {
+        name: "Ana de Armas"
+      }
+      rating: "Decent"
+      comments: "She does do well in a handful of instances (like the monologue by the bathtub) and gets the mannerisms of Monroe down very easily, the issue is that there are way too many misses in the performance (which I blame more on the direction and writing) and you can still hear her Cuban accent"
     }
-    actor {
-      name: "Adrien Brody"
-      comments: "Pretty Bad to Decent from Adrien Brody (While the performance isn\'t that bad, it is just not that memorable as it is very bland and dull)"
+    performance {
+      actor {
+        name: "Adrien Brody"
+      }
+      rating: "Pretty Bad to Decent"
+      comments: "While the performance isn\'t that bad, it is just not that memorable as it is very bland and dull"
     }
-    actor {
-      name: "Bobby Cannavale"
-      comments: "Pretty Bad to Decent from Bobby Cannavale (Another performance that just isn\'t that special and just lacks chemistry when trying to play off De Armas (Even though that may be the point))"
+    performance {
+      actor {
+        name: "Bobby Cannavale"
+      }
+      rating: "Pretty Bad to Decent"
+      comments: "Another performance that just isn\'t that special and just lacks chemistry when trying to play off De Armas (Even though that may be the point)"
     }
-    actor {
-      name: "Julianne Nicholson"
-      comments: "Very Bad from Julianne Nicholson (Just really lacks any direction and is very hard to watch at how bad and off beat it is, she also cannot play off any actors at all as her dialogue with other actors just seems so forced for someone who is supposed to be mentally unstable)"
+    performance {
+      actor {
+        name: "Julianne Nicholson"
+      }
+      rating: "Very Bad"
+      comments: "Just really lacks any direction and is very hard to watch at how bad and off beat it is, she also cannot play off any actors at all as her dialogue with other actors just seems so forced for someone who is supposed to be mentally unstable"
     }
-    cast: "Terrible from the rest of the cast (It feels like many of the actors are just amateurs and have never acted before as the scenes with other actors (especially when they are talking about Monroe) are just so hard to watch)"
-    comments: "Very Bad to Bad Acting"
+    cast {
+      rating: "Terrible"
+      comments: "It feels like many of the actors are just amateurs and have never acted before as the scenes with other actors (especially when they are talking about Monroe) are just so hard to watch"
+    }
+    rating: "Very Bad to Bad"
   }
   story {
     writer {
       name: "Andrew Dominik"
     }
-    comments: "Bad Story (The movie does a really bad job at choosing which events of Monroe\'s life to actually focus on as it is just awkward transitions and jumps into different parts of her life that it feels very unnatural; also, the movie is very predictable at times that it makes it very boring; many plot holes in the movie that just never get answered)"
+    rating: "Bad"
+    comments: "The movie does a really bad job at choosing which events of Monroe\'s life to actually focus on as it is just awkward transitions and jumps into different parts of her life that it feels very unnatural; also, the movie is very predictable at times that it makes it very boring; many plot holes in the movie that just never get answered"
   }
   screenplay {
     writer {
       name: "Andrew Dominik"
     }
-    comments: "Terrible Screenplay (One of the worst screenplays I have ever seen as it is just so unnatural, clunky, forced, and horribly written that it makes the movie very hard to watch; also the symbolism of the movie is just unimportant for how bad the actual dialogue is)"
+    rating: "Terrible"
+    comments: "One of the worst screenplays I have ever seen as it is just so unnatural, clunky, forced, and horribly written that it makes the movie very hard to watch; also the symbolism of the movie is just unimportant for how bad the actual dialogue is"
   }
   score {
     composer {
@@ -46,23 +64,34 @@ review {
     composer {
       name: "Warren Ellis"
     }
-    comments: "Pretty Good to Good Score (The piano theme of the movie actually was good and I did like it spread throughout the movie)"
+    rating: "Pretty Good to Good"
+    comments: "The piano theme of the movie actually was good and I did like it spread throughout the movie"
   }
   cinematography {
     cinematographer {
       name: "Chayse Irvin"
     }
-    comments: "Terrible Cinematography (There were so many flaws and shots in this movie that made it so hard to watch (like the random black and white shots, the forced shot-reverse-shots, and the POV shots) that make the movie just feel so amateur; the movie theater shots were pretty good but considering how bad the other shots in the movie were it does not cover for it)"
+    rating: "Terrible"
+    comments: "There were so many flaws and shots in this movie that made it so hard to watch (like the random black and white shots, the forced shot-reverse-shots, and the POV shots) that make the movie just feel so amateur; the movie theater shots were pretty good but considering how bad the other shots in the movie were it does not cover for it"
   }
-  sound: "Decent Sound"
   editing {
     editor {
       name: "Adam Robinson"
     }
-    comments: "Pretty Bad to Decent Editing (There were some editing techniques I did like (like the transitions from one scene to another and her showing her routine slowly killing her), but overall it just feels so amateur and very bad (like the blurring of the faces (which is something you can edit on like Tik Tok)))"
+    rating: "Pretty Bad to Decent"
+    comments: "There were some editing techniques I did like (like the transitions from one scene to another and her showing her routine slowly killing her), but overall it just feels so amateur and very bad (like the blurring of the faces (which is something you can edit on like Tik Tok))"
   }
-  visual_effects: "Very Bad Visual Effects (Feels incredibly tacky and amateur and the CGI of the baby is actually horrible and hard to watch; a lot of the effects just feels like a fever dream)"
-  costumes: "Pretty Bad Costumes (They reuse a lot of the iconic costumes a lot throughout the movie and the costumes were not that well designed overall (especially the iconic vent dress))"
+  sound {
+    rating: "Decent"
+  }
+  visual_effects {
+    rating: "Very Bad"
+    comments: "Feels incredibly tacky and amateur and the CGI of the baby is actually horrible and hard to watch; a lot of the effects just feels like a fever dream"
+  }
+  costumes {
+    rating: "Pretty Bad"
+    comments: "They reuse a lot of the iconic costumes a lot throughout the movie and the costumes were not that well designed overall (especially the iconic vent dress)"
+  }
   plot_structure: "Plot Structure is very inconsistent as there are so many jumps throughout the movie that are not subtle at all (leaving so many questions about what is going on in the plot)"
   pacing: "Pacing is incredibly slow despite all the jumps that the movie goes through as it just drags and feels very boring (The movie focuses too much on very small scenes and details); the overall runtime should have been cut by and hour and the movie would probably be the same)"
   climax: "Build to the climax was decent as it portrays her downfall and does a decent job at showing it (but the scenes with JFK were just very weird and hard to watch at how sexual they were); climax is just boring cause she\'s just crazy and seeing things and it\'s overall very artsy (And the ending itself is very poorly executed)"

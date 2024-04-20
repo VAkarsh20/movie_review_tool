@@ -8,43 +8,71 @@ review {
     director {
       name: "Kirk Wise"
     }
-    comments: "Very Good Direction (The direction on a macroscale captures the essence of Disney animation during its Renaissance as its picturesque, grand nature comes to life in both a musical and a dramatic sense; the direction on a microscale has the Disney animated charm as it represents the tug and pull between characters (most of the time Belle and what she wants from other characters as she seeks true love without sacrificing her independence); the direction of actors is good as it brings to life iconic characters from the Disney Renaissance; the storytelling was good as it resembled a story-book retelling of an old fantasy tale, which has similar flavors to other movies from the Disney Renaissance; the tension was built using traditional Disney ways with score and action)"
+    rating: "Very Good"
+    comments: "The direction on a macroscale captures the essence of Disney animation during its Renaissance as its picturesque, grand nature comes to life in both a musical and a dramatic sense; the direction on a microscale has the Disney animated charm as it represents the tug and pull between characters (most of the time Belle and what she wants from other characters as she seeks true love without sacrificing her independence); the direction of actors is good as it brings to life iconic characters from the Disney Renaissance; the storytelling was good as it resembled a story-book retelling of an old fantasy tale, which has similar flavors to other movies from the Disney Renaissance; the tension was built using traditional Disney ways with score and action"
   }
   acting {
-    actor {
-      name: "Paige O\'Hara"
-      comments: "Great from Paige O\'Hara (Really embodied Belle and brought her to life with her vocal performance)"
+    performance {
+      actor {
+        name: "Paige O\'Hara"
+      }
+      rating: "Great"
+      comments: "Really embodied Belle and brought her to life with her vocal performance"
     }
-    actor {
-      name: "Robby Benson"
-      comments: "Great from Robby Benson (Brought to life all the different sides of the beast as you saw his character change as the movie progressed)"
+    performance {
+      actor {
+        name: "Robby Benson"
+      }
+      rating: "Great"
+      comments: "Brought to life all the different sides of the beast as you saw his character change as the movie progressed"
     }
-    actor {
-      name: "Richard White"
-      comments: "Very Good from Richard White (Portrayed the over-the-top, egotistical, masculine character that wanted whatever he could take)"
+    performance {
+      actor {
+        name: "Richard White"
+      }
+      rating: "Very Good"
+      comments: "Portrayed the over-the-top, egotistical, masculine character that wanted whatever he could take"
     }
-    actor {
-      name: "Jerry Orbach"
-      comments: "Very Good from Jerry Orbach (Embodied the French servant well as he showed empathy in trying to be hospitable to his guests)"
+    performance {
+      actor {
+        name: "Jerry Orbach"
+      }
+      rating: "Very Good"
+      comments: "Embodied the French servant well as he showed empathy in trying to be hospitable to his guests"
     }
-    actor {
-      name: "David Ogden Stiers"
-      comments: "Very Good from David Ogden Stiers (Had a good chemistry, tension with Orbach as both acted as the two points-of-contact between Belle and this new world)"
+    performance {
+      actor {
+        name: "David Ogden Stiers"
+      }
+      rating: "Very Good"
+      comments: "Had a good chemistry, tension with Orbach as both acted as the two points-of-contact between Belle and this new world"
     }
-    actor {
-      name: "Angela Lansbury"
-      comments: "Very Good from Angela Lansbury (Filled the motherly figure void as she tried to get both Belle and the Beast to be empathetic towards each other)"
+    performance {
+      actor {
+        name: "Angela Lansbury"
+      }
+      rating: "Very Good"
+      comments: "Filled the motherly figure void as she tried to get both Belle and the Beast to be empathetic towards each other"
     }
-    actor {
-      name: "Rex Everhart"
-      comments: "Good to Very Good from Rex Everhart (Played somewhat of a 'smart' dunce well as he did everything for his daughter)"
+    performance {
+      actor {
+        name: "Rex Everhart"
+      }
+      rating: "Good to Very Good"
+      comments: "Played somewhat of a \'smart\' dunce well as he did everything for his daughter"
     }
-    actor {
-      name: "Jesse Corti"
-      comments: "Good from Jesse Corti (Good comedic relief to Gaston)"
+    performance {
+      actor {
+        name: "Jesse Corti"
+      }
+      rating: "Good"
+      comments: "Good comedic relief to Gaston"
     }
-    cast: "Good from the rest of the cast (Polished and buttressed the main cast in a traditional Disney style; all the singing voices felt polished as well)"
-    comments: "Very Good Acting"
+    cast {
+      rating: "Good"
+      comments: "Polished and buttressed the main cast in a traditional Disney style; all the singing voices felt polished as well"
+    }
+    rating: "Very Good"
   }
   story {
     writer {
@@ -77,31 +105,43 @@ review {
     writer {
       name: "Robert Lence"
     }
-    comments: "Good Story (The concept was good as it is a retelling of a famous classical tale; the plot structure was very typical to other Disney Renaissance films, there doesn't feel like there was a resolution because of how short the runtime was (pretty standard to other Disney Renaissance films so it's not too much of an issue); the flow between sequences was pretty standard to other Disney Renaissance movies; the character writing was pretty good but heavily relied on tropes to paint each character because the runtime was too short to give each character a holistic backstory)"
+    rating: "Good"
+    comments: "The concept was good as it is a retelling of a famous classical tale; the plot structure was very typical to other Disney Renaissance films, there doesn\'t feel like there was a resolution because of how short the runtime was (pretty standard to other Disney Renaissance films so it\'s not too much of an issue); the flow between sequences was pretty standard to other Disney Renaissance movies; the character writing was pretty good but heavily relied on tropes to paint each character because the runtime was too short to give each character a holistic backstory"
   }
   screenplay {
     writer {
       name: "Linda Woolverton"
     }
-    comments: "Good Screenplay (The dialogue was very good as it felt very polished and emulated both Disney animated movie and the time period/region; the humor was good as it helped give the movie a playful feel (something that would hit for both children and adults); the symbolism was good as it relied on typical fairytale tropes to display its messages; the foreshadowing was good as it laid roots down that come out towards the end (though it does rely a lot on the audiences knowledge of the story/fairytales to predict what will happen))"
+    rating: "Good"
+    comments: "The dialogue was very good as it felt very polished and emulated both Disney animated movie and the time period/region; the humor was good as it helped give the movie a playful feel (something that would hit for both children and adults); the symbolism was good as it relied on typical fairytale tropes to display its messages; the foreshadowing was good as it laid roots down that come out towards the end (though it does rely a lot on the audiences knowledge of the story/fairytales to predict what will happen)"
   }
   score {
     composer {
       name: "Alan Menken"
     }
-    comments: "Very Good Score (Used well to make the movie feel musical and helped accentuate the dramatic moments)"
+    rating: "Very Good"
+    comments: "Used well to make the movie feel musical and helped accentuate the dramatic moments"
   }
-  soundtrack: "Very Good to Great Soundtrack (Each song is iconic, with my favorite being 'Be Our Guest')"
-  sound: "Very Good Sound"
+  soundtrack {
+    rating: "Very Good to Great"
+    comments: "Each song is iconic, with my favorite being \'Be Our Guest\'"
+  }
   editing {
     editor {
       name: "John Carnochan"
     }
-    comments: "Very Good Editing (Helped give the movie a storybook feel)"
+    rating: "Very Good"
+    comments: "Helped give the movie a storybook feel"
   }
-  visual_effects: "Incredible Animation (The handcrafted animation style was very groundbreaking (especially when it was mixed with CGI in the waltz scene); the art and character designs are some of the most iconic in Disney history)"
+  sound {
+    rating: "Very Good"
+  }
+  animation {
+    rating: "Incredible"
+    comments: "The handcrafted animation style was very groundbreaking (especially when it was mixed with CGI in the waltz scene); the art and character designs are some of the most iconic in Disney history"
+  }
   pacing: "Pacing was kinda an issue because the movie moves incredibly fast (mainly because of its short runtime)"
-  climax: "Climax was executed well and showed how full circle Belle and The Beast's journeys have come"
+  climax: "Climax was executed well and showed how full circle Belle and The Beast\'s journeys have come"
   tone: "Tone was very typical to other movies from the Disney Renaissance (while having French and fantasy flavors)"
   final_notes: ""
   overall: "Overall, a very good movie that truly embodies the Disney Renaissance as the iconic animation, musical numbers, and vocal performances help give the movie more life beyond its short runtime"

@@ -8,51 +8,73 @@ review {
     director {
       name: "John Requa"
     }
-    comments: "Decent Direction (Uses the 2000s/early-2010s Rom-Com template to help drive the story forward, allows the ensemble to use their talents as it seems like they are taking a step back)"
+    rating: "Decent"
+    comments: "Uses the 2000s/early-2010s Rom-Com template to help drive the story forward, allows the ensemble to use their talents as it seems like they are taking a step back"
   }
   acting {
-    actor {
-      name: "Steve Carell"
-      comments: "Pretty Good from Steve Carell (Plays a very typical Steve Carell character, so pulls a lot from experience to play the role)"
+    performance {
+      actor {
+        name: "Steve Carell"
+      }
+      rating: "Pretty Good"
+      comments: "Plays a very typical Steve Carell character, so pulls a lot from experience to play the role"
     }
-    actor {
-      name: "Ryan Gosling"
-      comments: "Pretty Good from Ryan Gosling (Really uses his charm and charisma to guide his performance)"
+    performance {
+      actor {
+        name: "Ryan Gosling"
+      }
+      rating: "Pretty Good"
+      comments: "Really uses his charm and charisma to guide his performance"
     }
-    actor {
-      name: "Julianne Moore"
-      comments: "Decent from Julianne Moore (Is not really given too much material to work with)"
+    performance {
+      actor {
+        name: "Julianne Moore"
+      }
+      rating: "Decent"
+      comments: "Is not really given too much material to work with"
     }
-    actor {
-      name: "Emma Stone"
-      comments: "Decent from Emma Stone"
+    performance {
+      actor {
+        name: "Emma Stone"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "John Carroll Lynch"
-      comments: "Decent from John Carroll Lynch"
+    performance {
+      actor {
+        name: "John Carroll Lynch"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Marisa Tomei"
-      comments: "Decent from Marisa Tomei"
+    performance {
+      actor {
+        name: "Marisa Tomei"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Kevin Bacon"
-      comments: "Decent from Kevin Bacon"
+    performance {
+      actor {
+        name: "Kevin Bacon"
+      }
+      rating: "Decent"
     }
-    cast: "Decent from the rest of the cast"
-    comments: "Decent to Pretty Good Acting"
+    cast {
+      rating: "Decent"
+    }
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
       name: "Dan Fogelman"
     }
-    comments: "Pretty Bad to Decent Story (Entertaining story overall as it is a retelling of the makeover story similar Pretty Woman and She\'s All That, but it does share a lot of the same cliches as well has many of the same faults that Rom-Coms of the time period have (making the movie incredibly predictable); The story does fall apart in the final 30-40 minutes as it becomes incredibly predictable and borderline cringy)"
+    rating: "Pretty Bad to Decent"
+    comments: "Entertaining story overall as it is a retelling of the makeover story similar Pretty Woman and She\'s All That, but it does share a lot of the same cliches as well has many of the same faults that Rom-Coms of the time period have (making the movie incredibly predictable); The story does fall apart in the final 30-40 minutes as it becomes incredibly predictable and borderline cringy"
   }
   screenplay {
     writer {
       name: "Dan Fogelman"
     }
-    comments: "Decent Screenplay (Pretty Funny/light-hearted Rom-Com overall with safe dialogue, symbolism is pretty shallow as it follows the same message as many of the Rom-Coms of the era; the foreshadowing was more cliche than anything (which made the movie incredibly predictable))"
+    rating: "Decent"
+    comments: "Pretty Funny/light-hearted Rom-Com overall with safe dialogue, symbolism is pretty shallow as it follows the same message as many of the Rom-Coms of the era; the foreshadowing was more cliche than anything (which made the movie incredibly predictable)"
   }
   score {
     composer {
@@ -61,20 +83,23 @@ review {
     composer {
       name: "Nick Urata"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
   cinematography {
     cinematographer {
       name: "Andrew Dunn"
     }
-    comments: "Bad Cinematography (I\'m not sure if it was just the way I was viewing it but the filter they were using made the movie feel incredibly blurry as it gave this movie a dream-like feel)"
+    rating: "Bad"
+    comments: "I\'m not sure if it was just the way I was viewing it but the filter they were using made the movie feel incredibly blurry as it gave this movie a dream-like feel"
   }
-  sound: "Decent Sound"
   editing {
     editor {
       name: "Lee Haxall"
     }
-    comments: "Decent Editing"
+    rating: "Decent"
+  }
+  sound {
+    rating: "Decent"
   }
   plot_structure: "Plot Structure was pretty boilerplate for a Rom-Com but the final arc (last 30-49) becomes very cliche as it tries to show the \'meaning\' of the movie"
   pacing: "Pacing was decent for the most part but is incredibly rushed in the final 30-40 minutes of the movie (which is kinda sad considering this was where the message of the movie was supposed to be brought out); Runtime was fine (maybe an extra 10 minutes could\'ve helped with the ending)"

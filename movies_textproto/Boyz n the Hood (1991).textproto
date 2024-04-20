@@ -5,31 +5,37 @@ review {
     director {
       name: "John Singleton"
     }
-    comments: "Good to Very Good Direction"
+    rating: "Good to Very Good"
   }
   acting {
-    cast: "Good from the rest of the cast (The cast overall works well with each other (especially the main cast))"
-    comments: "Good Acting"
+    cast {
+      rating: "Good"
+      comments: "The cast overall works well with each other (especially the main cast)"
+    }
+    rating: "Good"
   }
   story {
     writer {
       name: "John Singleton"
     }
-    comments: "Great Story (Emotional and makes you feel for the character\'s struggles)"
+    rating: "Great"
+    comments: "Emotional and makes you feel for the character\'s struggles"
   }
   screenplay {
     writer {
       name: "John Singleton"
     }
-    comments: "Very Good Screenplay"
+    rating: "Very Good"
   }
   score {
     composer {
       name: "Stanley Clarke"
     }
-    comments: "Pretty Good Score (Gives it a very 80s Law and Order SVU vibes)"
+    rating: "Pretty Good"
+    comments: "Gives it a very 80s Law and Order SVU vibes"
   }
   pacing: "Good Pacing (Keeps a constant steady pace)"
+  final_notes: ""
   overall: "Overall, a Good movie to show the struggles of living in South Central LA and how those who dream to get out may not even get the chance"
 }
 release_year: 1991

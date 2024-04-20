@@ -5,23 +5,35 @@ review {
     director {
       name: "Ridley Scott"
     }
-    comments: "Pretty Bad to Decent Direction (He is able to move the story forward in an alright way, but the execution of the film just seems very bland with actors that are very disinterested)"
+    rating: "Pretty Bad to Decent"
+    comments: "He is able to move the story forward in an alright way, but the execution of the film just seems very bland with actors that are very disinterested"
   }
   acting {
-    actor {
-      name: "Harrison Ford"
-      comments: "Decent from Harrison Ford (A pretty lackluster performance from the lead as he really does not show any emotion throughout the entire movie (which takes away from his signature charm) and it just seems like he really does not want to be there, though there are some moments where he does do a good job)"
+    performance {
+      actor {
+        name: "Harrison Ford"
+      }
+      rating: "Decent"
+      comments: "A pretty lackluster performance from the lead as he really does not show any emotion throughout the entire movie (which takes away from his signature charm) and it just seems like he really does not want to be there, though there are some moments where he does do a good job"
     }
-    actor {
-      name: "Rutger Hauer"
-      comments: "Decent from Rutger Hauer (An alright performance that has some memorable moments, but is very 80s in how it presents a villain)"
+    performance {
+      actor {
+        name: "Rutger Hauer"
+      }
+      rating: "Decent"
+      comments: "An alright performance that has some memorable moments, but is very 80s in how it presents a villain"
     }
-    actor {
-      name: "Sean Young"
-      comments: "Pretty Bad to Decent from Sean Young (Plays a very bland and emotionless performance (which is fine for a replicant, but the point of her character is that she is not supposed to know that she is a replicant))"
+    performance {
+      actor {
+        name: "Sean Young"
+      }
+      rating: "Pretty Bad to Decent"
+      comments: "Plays a very bland and emotionless performance (which is fine for a replicant, but the point of her character is that she is not supposed to know that she is a replicant)"
     }
-    cast: "Pretty Bad to Decent from the rest of the cast"
-    comments: "Pretty Bad to Decent Acting"
+    cast {
+      rating: "Pretty Bad to Decent"
+    }
+    rating: "Pretty Bad to Decent"
   }
   story {
     writer {
@@ -30,7 +42,8 @@ review {
     writer {
       name: "David Peoples"
     }
-    comments: "Good Story (The only good part of the movie as it is a pretty well constructed plot that has memorable elements and philosophical interpretations on what it means to be alive)"
+    rating: "Good"
+    comments: "The only good part of the movie as it is a pretty well constructed plot that has memorable elements and philosophical interpretations on what it means to be alive"
   }
   screenplay {
     writer {
@@ -39,21 +52,23 @@ review {
     writer {
       name: "David Peoples"
     }
-    comments: "Decent to Pretty Good Screenplay (The very technical jargon was something suited for the film but the actual dialogue is a bit bland, there are also a lot of symbolism, foreshadowing, and philosophical questions created that I did like)"
+    rating: "Decent to Pretty Good"
+    comments: "The very technical jargon was something suited for the film but the actual dialogue is a bit bland, there are also a lot of symbolism, foreshadowing, and philosophical questions created that I did like"
   }
   score {
     composer {
       name: "Vangelis"
     }
-    comments: "Pretty Good Score (though iconic)"
+    rating: "Pretty Good"
+    comments: "Though iconic"
   }
   cinematography {
     cinematographer {
       name: "Jordan Cronenweth"
     }
-    comments: "Good to Very Good Cinematography (Helped create the futuristic feel)"
+    rating: "Good to Very Good"
+    comments: "Helped create the futuristic feel"
   }
-  sound: "Pretty Bad Sound (Sounded very 80s and was a bit cheap)"
   editing {
     editor {
       name: "Terry Rawlings"
@@ -61,10 +76,20 @@ review {
     editor {
       name: "Marsha Nakashima"
     }
-    comments: "Decent Editing"
+    rating: "Decent"
   }
-  visual_effects: "Pretty Good Visual Effects (Helped with creating the futuristic feel)"
-  production_design: "Pretty Good Production Design (Similar to Visual effects in its performance)"
+  sound {
+    rating: "Pretty Bad"
+    comments: "Sounded very 80s and was a bit cheap"
+  }
+  visual_effects {
+    rating: "Pretty Good"
+    comments: "Helped with creating the futuristic feel"
+  }
+  production_design {
+    rating: "Pretty Good"
+    comments: "Similar to Visual effects in its performance"
+  }
   plot_structure: "Plot Structure was good for the most part and one of the better parts for the movie"
   pacing: "Pacing was very slow (which added to how the movie felt very boring)"
   climax: "Build to climax felt very boring as it was present but I really was not that captivated in what was going on; climax was present and a bit less boring (does have the most memorable monologue from the movie)"

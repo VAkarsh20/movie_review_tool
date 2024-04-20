@@ -5,61 +5,85 @@ review {
     director {
       name: "Zach Cregger"
     }
-    comments: "Pretty Good Direction (Able to get the storytelling across very nicely as he builds the narrative driven by suspense; also able to get the most out of his actors and elicit fear (at least in the horror parts, the non-horror parts were pretty bland and amateur))"
+    rating: "Pretty Good"
+    comments: "Able to get the storytelling across very nicely as he builds the narrative driven by suspense; also able to get the most out of his actors and elicit fear (at least in the horror parts, the non-horror parts were pretty bland and amateur)"
   }
   acting {
-    actor {
-      name: "Georgina Campbell"
-      comments: "Pretty Good to Good from Georgina Campbell (Was able to hold her own very well being the lead character as her fear and anxiety builds throughout the movie the farther into the house she goes)"
+    performance {
+      actor {
+        name: "Georgina Campbell"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Was able to hold her own very well being the lead character as her fear and anxiety builds throughout the movie the farther into the house she goes"
     }
-    actor {
-      name: "Bill Skarsg\303\245rd"
-      comments: "Pretty Good from Bill Skarsg\303\245rd (Works off of Campbell very well and helps build some of the suspense himself with his mannerisms)"
+    performance {
+      actor {
+        name: "Bill Skarsg\303\245rd"
+      }
+      rating: "Pretty Good"
+      comments: "Works off of Campbell very well and helps build some of the suspense himself with his mannerisms"
     }
-    actor {
-      name: "Justin Long"
-      comments: "Pretty Good from Justin Long (Plays the aging/fading actor very well as he pulls from his experience)"
+    performance {
+      actor {
+        name: "Justin Long"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the aging/fading actor very well as he pulls from his experience"
     }
-    cast: "Pretty Good from the rest of the cast"
-    comments: "Pretty Good Acting"
+    cast {
+      rating: "Pretty Good"
+    }
+    rating: "Pretty Good"
   }
   story {
     writer {
       name: "Zach Cregger"
     }
-    comments: "Decent to Pretty Good Story (While the overall concept and layout is pretty cliche and simplistic, the storytelling is good and a lot of the elements play well together to drive the story forward; the ending is a bit questionable though)"
+    rating: "Decent to Pretty Good"
+    comments: "While the overall concept and layout is pretty cliche and simplistic, the storytelling is good and a lot of the elements play well together to drive the story forward; the ending is a bit questionable though"
   }
   screenplay {
     writer {
       name: "Zach Cregger"
     }
-    comments: "Decent to Pretty Good Screenplay (The dialogue in the non-horror parts was a bit bland/simplistic, but there were many symbols and elements of horror that were spread throughout the movie that makes it very suspenseful and capture the audience\'s attention)"
+    rating: "Decent to Pretty Good"
+    comments: "The dialogue in the non-horror parts was a bit bland/simplistic, but there were many symbols and elements of horror that were spread throughout the movie that makes it very suspenseful and capture the audience\'s attention"
   }
   score {
     composer {
       name: "Anna Drubich"
     }
-    comments: "Pretty Good Score"
+    rating: "Pretty Good"
   }
   cinematography {
     cinematographer {
       name: "Zach Kuperstein"
     }
-    comments: "Very Good Cinematography (The different angles used throughout the movie are very good in helping build suspense and helping build the world/house that is very eerie)"
+    rating: "Very Good"
+    comments: "The different angles used throughout the movie are very good in helping build suspense and helping build the world/house that is very eerie"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Joe Murphy"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  visual_effects: "Pretty Bad Visual Effects (Really shows how low budget the movie is as the visual effects really make the movie tacky and less scary)"
-  makeup: "Pretty Bad Makeup (Really tacky and really takes away with the movie being realistic at how bad it is)"
+  sound {
+    rating: "Good"
+  }
+  visual_effects {
+    rating: "Pretty Bad"
+    comments: "Really shows how low budget the movie is as the visual effects really make the movie tacky and less scary"
+  }
+  makeup {
+    rating: "Pretty Bad"
+    comments: "Really tacky and really takes away with the movie being realistic at how bad it is"
+  }
   plot_structure: "Plot Structure was pretty well laid out as it introduces the conflict very well and then builds it back up right after a switch in scenery (with the climax and end being very well defined)"
   pacing: "Pacing was good (not too slow or fast and the runtime was about right)"
   climax: "Build to climax was very typical of horror movies but does a decent job at building suspense and keeping the audience engaged; climax was good and suspenseful (but the ending is a bit questionable and really takes away from the movie being scary)"
   tone: "Tone was typical to that of many suspenseful horror movies (and the movie does a good job at building this)"
+  final_notes: ""
   overall: "Overall, a fun, suspenseful watch that builds story pretty well and does many elements of horror right as you go farther into the conflict, but is pretty bare-bones when it comes to filmmaking, acting, and writing"
 }
 release_year: 2022

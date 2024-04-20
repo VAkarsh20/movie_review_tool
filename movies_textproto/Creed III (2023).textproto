@@ -5,27 +5,41 @@ review {
     director {
       name: "Michael B. Jordan"
     }
-    comments: "Decent to Pretty Good Direction (For his directorial debut, Jordan does a decent to pretty good job at moving the story together while also providing a unique feel/style to the franchise; he gets a decent amount from his actors (but it is still pretty evident that there are some limitations from this rookie effort))"
+    rating: "Decent to Pretty Good"
+    comments: "For his directorial debut, Jordan does a decent to pretty good job at moving the story together while also providing a unique feel/style to the franchise; he gets a decent amount from his actors (but it is still pretty evident that there are some limitations from this rookie effort)"
   }
   acting {
-    actor {
-      name: "Michael B. Jordan"
-      comments: "Pretty Good from Michael B. Jordan (Really expanded his range this time as he can hang longer during some of the more emotional/dramatic scenes, but there is still some limitations in his performance that are obvious as he is still playing the Michel B. Jordan character)"
+    performance {
+      actor {
+        name: "Michael B. Jordan"
+      }
+      rating: "Pretty Good"
+      comments: "Really expanded his range this time as he can hang longer during some of the more emotional/dramatic scenes, but there is still some limitations in his performance that are obvious as he is still playing the Michel B. Jordan character"
     }
-    actor {
-      name: "Tessa Thompson"
-      comments: "Pretty Good from Tessa Thompson (Continued where she left off in the series, but is not really given that much to work with this time around as it is more someone comforting Creed rather than exploring her own issues)"
+    performance {
+      actor {
+        name: "Tessa Thompson"
+      }
+      rating: "Pretty Good"
+      comments: "Continued where she left off in the series, but is not really given that much to work with this time around as it is more someone comforting Creed rather than exploring her own issues"
     }
-    actor {
-      name: "Jonathan Majors"
-      comments: "Decent to Pretty Good from Jonathan Majors (Did fine to hold his own, but his character was not written in a way that gives him enough to play (it is a very closed off character))"
+    performance {
+      actor {
+        name: "Jonathan Majors"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Did fine to hold his own, but his character was not written in a way that gives him enough to play (it is a very closed off character)"
     }
-    actor {
-      name: "Phylicia Rashad"
-      comments: "Good from Phylicia Rashad"
+    performance {
+      actor {
+        name: "Phylicia Rashad"
+      }
+      rating: "Good"
     }
-    cast: "Decent from the rest of the cast"
-    comments: "Decent to Pretty Good Acting"
+    cast {
+      rating: "Decent"
+    }
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
@@ -37,7 +51,8 @@ review {
     writer {
       name: "Zach Baylin"
     }
-    comments: "Decent to Pretty Good Story (The story elements are pretty simplistic and basically all that was shown from the trailer (thus making it very predictable); the story really stems away from the Rocky legacy as his story line is basically extinct in this film; though there are issues, the story itself is fine and is told well as there were some elements that were handled well (particularly the parts not about boxing (like the issues with family) as that in itself makes it very similar to the first movie))"
+    rating: "Decent to Pretty Good"
+    comments: "The story elements are pretty simplistic and basically all that was shown from the trailer (thus making it very predictable); the story really stems away from the Rocky legacy as his story line is basically extinct in this film; though there are issues, the story itself is fine and is told well as there were some elements that were handled well (particularly the parts not about boxing (like the issues with family) as that in itself makes it very similar to the first movie)"
   }
   screenplay {
     writer {
@@ -46,21 +61,23 @@ review {
     writer {
       name: "Zach Baylin"
     }
-    comments: "Decent to Pretty Good Screenplay (The writing was very over-the-top like Creed II as it is all about fighting the system and trying to get out; the symbolism is decently prevalent as it is about allusions to the past (creating a lot of parallelism throughout the film); the major issue I had with the writing (though a very biased take) is how they barely mention Rocky as he is alluded to twice and his name is only mentioned once)"
+    rating: "Decent to Pretty Good"
+    comments: "The writing was very over-the-top like Creed II as it is all about fighting the system and trying to get out; the symbolism is decently prevalent as it is about allusions to the past (creating a lot of parallelism throughout the film); the major issue I had with the writing (though a very biased take) is how they barely mention Rocky as he is alluded to twice and his name is only mentioned once"
   }
   score {
     composer {
       name: "Joseph Shirley"
     }
-    comments: "Pretty Good Score (Not really used super well throughout the movie but was used well in the moments it was really needed in (especially when they used old themes from both the franchises))"
+    rating: "Pretty Good"
+    comments: "Not really used super well throughout the movie but was used well in the moments it was really needed in (especially when they used old themes from both the franchises)"
   }
   cinematography {
     cinematographer {
       name: "Kramer Morgenthau"
     }
-    comments: "Good to Very Good Cinematography (I actually really enjoyed this as it helped provide the hype of the movie and helped give that Anime feel that Jordan was looking for)"
+    rating: "Good to Very Good"
+    comments: "I actually really enjoyed this as it helped provide the hype of the movie and helped give that Anime feel that Jordan was looking for"
   }
-  sound: "Very Good Sound (Surprisingly the aspect of the movie that really stood out as I felt they really helped make the punches feel very crisp and actually helped a lot with building the boxing scenes)"
   editing {
     editor {
       name: "Tyler Nelson"
@@ -68,10 +85,21 @@ review {
     editor {
       name: "Jessica Baclesse"
     }
-    comments: "Good to Very Good Editing (Helped provide that Anime style that Jordan was going for and overall was a pretty well edited movie)"
+    rating: "Good to Very Good"
+    comments: "Helped provide that Anime style that Jordan was going for and overall was a pretty well edited movie"
   }
-  visual_effects: "Pretty Bad to Decent Visual Effects (While the effects themself were not that bad (I actually enjoyed them in giving that anime feel) I felt like the movie relies a bit too much on it during the fighting scenes (which takes away at what the real feel and nature Rocky traditionally was))"
-  costumes: "Decent Costumes (The trunks were decently designed but none of them felt really iconic like the other Rocky trunks)"
+  sound {
+    rating: "Very Good"
+    comments: "Surprisingly the aspect of the movie that really stood out as I felt they really helped make the punches feel very crisp and actually helped a lot with building the boxing scenes"
+  }
+  visual_effects {
+    rating: "Pretty Bad to Decent"
+    comments: "While the effects themself were not that bad (I actually enjoyed them in giving that anime feel) I felt like the movie relies a bit too much on it during the fighting scenes (which takes away at what the real feel and nature Rocky traditionally was)"
+  }
+  costumes {
+    rating: "Decent"
+    comments: "The trunks were decently designed but none of them felt really iconic like the other Rocky trunks"
+  }
   plot_structure: "Plot Structure was a real issue with this movie as it was way too short (15 minutes shorter than the other Creeds) and this led to a very poorly structured plot; the main issue of the movie is that it takes way too much time in trying to introduce the conflict that the actual fighting of the conflict and the scenes people really care about the most from a Rocky/Creed movie are starting to only happen with 30 minutes left; moreover, the movie does not really do a good job in building the setbacks in Adonis\' fighting journey as they are only mentioned rather than worked on; Runtime should have been 20 minutes longer to really help build the rise in the conflict as there were no real issue with the scenes in the movie, more of the lack of"
   pacing: "Pacing was good for the most part but it did feel like the last 30 minutes were rushing (something that the 20 minutes of runtime added could have helped)"
   climax: "Climax was executed decently well as it is the same fighting climax every other Rocky movie has (it was a bit unique in the story-telling and fighting style)"

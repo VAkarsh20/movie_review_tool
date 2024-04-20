@@ -5,33 +5,46 @@ review {
     director {
       name: "Darren Aronofsky"
     }
-    comments: "Incredible Direction (Only someone like Darren Aronofsky could have made this film)"
+    rating: "Incredible"
+    comments: "Only someone like Darren Aronofsky could have made this film"
   }
   acting {
-    actor {
-      name: "Natalie Portman"
-      comments: "Incredible from Natalie Portman"
+    performance {
+      actor {
+        name: "Natalie Portman"
+      }
+      rating: "Incredible"
     }
-    actor {
-      name: "Vincent Cassel"
-      comments: "Decent from Vincent Cassel (Hit or miss performance)"
+    performance {
+      actor {
+        name: "Vincent Cassel"
+      }
+      rating: "Decent"
+      comments: "Hit or miss performance"
     }
-    actor {
-      name: "Mila Kunis"
-      comments: "Very Good from Mila Kunis"
+    performance {
+      actor {
+        name: "Mila Kunis"
+      }
+      rating: "Very Good"
     }
-    actor {
-      name: "Winona Ryder"
-      comments: "Good from Winona Ryder (Very Winona Ryder Performance)"
+    performance {
+      actor {
+        name: "Winona Ryder"
+      }
+      rating: "Good"
+      comments: "Very Winona Ryder Performance"
     }
-    cast: "Good from the rest of the cast"
-    comments: "Good Acting"
+    cast {
+      rating: "Good"
+    }
+    rating: "Good"
   }
   story {
     writer {
       name: "Andres Heinz"
     }
-    comments: "Great to Incredible Story"
+    rating: "Great to Incredible"
   }
   screenplay {
     writer {
@@ -43,27 +56,34 @@ review {
     writer {
       name: "John McLaughlin"
     }
-    comments: "Great Screenplay (A very simple yet complex screenplay (Simple in terms of the dialogue as it was very forced/unnatural and made no sense at times, while very complex in terms of the content/subject mater/symbolism in how it presents it))"
+    rating: "Great"
+    comments: "A very simple yet complex screenplay (Simple in terms of the dialogue as it was very forced/unnatural and made no sense at times, while very complex in terms of the content/subject mater/symbolism in how it presents it)"
   }
   score {
     composer {
       name: "Clint Mansell"
     }
-    comments: "Good Score (blended in very nicely and really liked how they used romantic/swan lake motifs)"
+    rating: "Good"
+    comments: "Blended in very nicely and really liked how they used romantic/swan lake motifs"
   }
   cinematography {
     cinematographer {
       name: "Matthew Libatique"
     }
-    comments: "Great Cinematography (though nauseating at times)"
+    rating: "Great"
+    comments: "Though nauseating at times"
   }
   editing {
     editor {
       name: "Andrew Weisblum"
     }
-    comments: "Great Editing (Great editing/visual effects in how it was molded together to show the hallucinations)"
+    rating: "Great"
+    comments: "Great editing/visual effects in how it was molded together to show the hallucinations"
   }
-  visual_effects: "Great Visual Effects (See Editing)"
+  visual_effects {
+    rating: "Great"
+    comments: "See Editing"
+  }
   pacing: "Pacing was pretty fast fast/chaotic to mimic that of the mind of Nina (runtime was good (no need to add/cut scenes))"
   climax: "The build to the climax was great as you really do not know what is real and what is just made up in Nina\'s head (as she slowly drives into madness on her way to perfection)"
   final_notes: "Incredible symbolism and parallel construction on how the obsession of the artist turned the white/innocent swan that Nina was into the dark/lost soul black swan she became at the end of the movie (something that is parallel to Swan Lake)"

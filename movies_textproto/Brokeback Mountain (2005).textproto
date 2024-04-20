@@ -5,19 +5,26 @@ review {
     director {
       name: "Ang Lee"
     }
-    comments: "Incredible to Brilliant Direction (Both on a macro scale with the subjects in vast shots, and on a micro scale with interpersonal dialogue)"
+    rating: "Incredible to Brilliant"
+    comments: "Both on a macro scale with the subjects in vast shots, and on a micro scale with interpersonal dialogue"
   }
   acting {
-    actor {
-      name: "Heath Ledger"
-      comments: "Incredible from Heath Ledger"
+    performance {
+      actor {
+        name: "Heath Ledger"
+      }
+      rating: "Incredible"
     }
-    actor {
-      name: "Jake Gyllenhaal"
-      comments: "Incredible from Jake Gyllenhaal"
+    performance {
+      actor {
+        name: "Jake Gyllenhaal"
+      }
+      rating: "Incredible"
     }
-    cast: "Very Good to Great from the rest of the cast"
-    comments: "Great to Incredible Acting"
+    cast {
+      rating: "Very Good to Great"
+    }
+    rating: "Great to Incredible"
   }
   story {
     writer {
@@ -26,7 +33,8 @@ review {
     writer {
       name: "Diana Ossana"
     }
-    comments: "Incredible Story (though a bit confusing on passage of time)"
+    rating: "Incredible"
+    comments: "Though a bit confusing on passage of time"
   }
   screenplay {
     writer {
@@ -35,23 +43,27 @@ review {
     writer {
       name: "Diana Ossana"
     }
-    comments: "Incredible Screenplay (Beautiful)"
+    rating: "Incredible"
+    comments: "Beautiful"
   }
   score {
     composer {
       name: "Gustavo Santaolalla"
     }
-    comments: "Great Score (Molded well to the emotions of the characters and the beauty of the scenes)"
+    rating: "Great"
+    comments: "Molded well to the emotions of the characters and the beauty of the scenes"
   }
   cinematography {
     cinematographer {
       name: "Rodrigo Prieto"
     }
-    comments: "Incredible Cinematography (Able to capture the beauty of both the landscapes and how the leads were able to escape and find love there)"
+    rating: "Incredible"
+    comments: "Able to capture the beauty of both the landscapes and how the leads were able to escape and find love there"
   }
   plot_structure: "Plot Structure was consistent; Runtime was fine but there were definitely scenes that could have been cut to make it a bit shorter"
   pacing: "Pacing was fine but it was very confusing on what scenes took place in what year cause it jumps a lot (even showing it subtly would have helped)"
   climax: "There isn\'t that much of a climax (More of a build to a shock and reaction?)"
+  final_notes: ""
   overall: "Overall, a very beautiful movie (both in scenery and acting/dialogue) that is one of the best depictions of falling in love I have ever seen, as the two lead male characters have to escape to a beautiful seclusion to show their true love for each other, something society won\'t let them do"
 }
 release_year: 2005

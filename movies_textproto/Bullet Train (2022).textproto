@@ -5,60 +5,83 @@ review {
     director {
       name: "David Leitch"
     }
-    comments: "Decent Direction (The choreography of the action scenes was well done but the overall moving of the story forward with the very sharp cuts to try to create humor were not that well executed (with the actors also not really given that much to work with))"
+    rating: "Decent"
+    comments: "The choreography of the action scenes was well done but the overall moving of the story forward with the very sharp cuts to try to create humor were not that well executed (with the actors also not really given that much to work with)"
   }
   acting {
-    actor {
-      name: "Brad Pitt"
-      comments: "Good from Brad Pitt (Really has to pull from his experience in the role as he isn\'t given that much from the director or script to work with, but he still does do a fine job (mainly because he is playing someone who is close to his real life persona))"
+    performance {
+      actor {
+        name: "Brad Pitt"
+      }
+      rating: "Good"
+      comments: "Really has to pull from his experience in the role as he isn\'t given that much from the director or script to work with, but he still does do a fine job (mainly because he is playing someone who is close to his real life persona)"
     }
-    actor {
-      name: "Joey King"
-      comments: "Pretty Bad from Joey King (It is understandable that her character was portrayed to be annoying, but she really was not that good in the role)"
+    performance {
+      actor {
+        name: "Joey King"
+      }
+      rating: "Pretty Bad"
+      comments: "It is understandable that her character was portrayed to be annoying, but she really was not that good in the role"
     }
-    actor {
-      name: "Aaron Taylor-Johnson"
-      comments: "Good to Very Good from Aaron Taylor-Johnson (A joint performance with Brian Tyree Henry as they both really do a good job at playing off each other to build comedy and action)"
+    performance {
+      actor {
+        name: "Aaron Taylor-Johnson"
+      }
+      rating: "Good to Very Good"
+      comments: "A joint performance with Brian Tyree Henry as they both really do a good job at playing off each other to build comedy and action"
     }
-    actor {
-      name: "Brian Tyree Henry"
-      comments: "Good to Very Good from Brian Tyree Henry (See Aaron Taylor-Johnson)"
+    performance {
+      actor {
+        name: "Brian Tyree Henry"
+      }
+      rating: "Good to Very Good"
+      comments: "See Aaron Taylor-Johnson"
     }
-    cast: "Decent to Pretty Good from the rest of the cast (but there was a real issue of screen-time with a huge cast like this)"
-    comments: "Decent to Pretty Good Acting"
+    cast {
+      rating: "Decent to Pretty Good"
+      comments: "But there was a real issue of screen-time with a huge cast like this"
+    }
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
       name: "Zak Olkewicz"
     }
-    comments: "Pretty Bad Story (The actual concept and idea was decent but the overall story was very poorly laid out to the point that the ending becomes very tiring)"
+    rating: "Pretty Bad"
+    comments: "The actual concept and idea was decent but the overall story was very poorly laid out to the point that the ending becomes very tiring"
   }
   screenplay {
     writer {
       name: "Zak Olkewicz"
     }
-    comments: "Pretty Bad Screenplay (The dialogue was filled with way too much meta humor in that it tries so hard to be like Deadpool but just ends up being very annoying (though some jokes and moments were funny (like the cameos)))"
+    rating: "Pretty Bad"
+    comments: "The dialogue was filled with way too much meta humor in that it tries so hard to be like Deadpool but just ends up being very annoying (though some jokes and moments were funny (like the cameos))"
   }
   score {
     composer {
       name: "Dominic Lewis"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
   cinematography {
     cinematographer {
       name: "Jonathan Sela"
     }
-    comments: "Good Cinematography (Especially during the fight scenes)"
+    rating: "Good"
+    comments: "Especially during the fight scenes"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "El\303\255sabet Ronaldsd\303\263ttir"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  visual_effects: "Good Visual Effects"
+  sound {
+    rating: "Good"
+  }
+  visual_effects {
+    rating: "Good"
+  }
   plot_structure: "Plot Structure was very poorly laid out as it has a big issue in building things up as if they are important then bringing them down in minutes (with this happening so many times that it just gets boring towards the end)"
   pacing: "Pacing was very fast but could have still cut out some time (like 20 mins) because of how dense in content it is"
   climax: "Build to climax was there but not that exciting cause it was the standard preparing for a battle trope; climax was well done and a good fighting scene"

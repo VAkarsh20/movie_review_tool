@@ -919,7 +919,6 @@ def convert_old_format_to_new(original, filename):
             review.sound.MergeFrom(convert_generic(original.review.sound, "Sound", filename))
         
         if original.review.visual_effects != "":
-            
             if "Animation" in original.review.visual_effects:
                 review.animation.MergeFrom(convert_generic(original.review.visual_effects, "Animation", filename))
             else:
@@ -932,7 +931,7 @@ def convert_old_format_to_new(original, filename):
             review.makeup.MergeFrom(convert_generic(original.review.makeup, "Makeup", filename))
         
         if original.review.costumes != "":
-            review.makeup.MergeFrom(convert_generic(original.review.costumes, "Costumes", filename))
+            review.costumes.MergeFrom(convert_generic(original.review.costumes, "Costumes", filename))
         
         if original.review.plot_structure != "":
             review.plot_structure = original.review.plot_structure
@@ -960,7 +959,7 @@ if __name__=="__main__":
 
     argc = len(sys.argv)
 
-    files = [x for x in os.listdir('movies_textproto/') if x.startswith("A")]
+    files = [x for x in os.listdir('movies_textproto/') if x.startswith("C")]
 
     for filename in files:
         if filename == "reduxed":

@@ -5,52 +5,69 @@ review {
     director {
       name: "Roman Polanski"
     }
-    comments: "Great to Incredible Direction (Polanski really moves the story forward in the typical noir style, but adds his own twists that make this movie stand out from the rest)"
+    rating: "Great to Incredible"
+    comments: "Polanski really moves the story forward in the typical noir style, but adds his own twists that make this movie stand out from the rest"
   }
   acting {
-    actor {
-      name: "Jack Nicholson"
-      comments: "Very Good to Great from Jack Nicholson (Plays his character very well as it is a character who is constantly haunted by the demons he faced in his past)"
+    performance {
+      actor {
+        name: "Jack Nicholson"
+      }
+      rating: "Very Good to Great"
+      comments: "Plays his character very well as it is a character who is constantly haunted by the demons he faced in his past"
     }
-    actor {
-      name: "Faye Dunaway"
-      comments: "Good to Very Good from Faye Dunaway (Is able to go past the damsel in distress character as she offers her own reasons to why she is doing what she is doing)"
+    performance {
+      actor {
+        name: "Faye Dunaway"
+      }
+      rating: "Good to Very Good"
+      comments: "Is able to go past the damsel in distress character as she offers her own reasons to why she is doing what she is doing"
     }
-    cast: "Good from the rest of the cast"
-    comments: "Good to Very Good Acting"
+    cast {
+      rating: "Good"
+    }
+    rating: "Good to Very Good"
   }
   story {
     writer {
       name: "Robert Towne"
     }
-    comments: "Great Story (The different points and elements really work well with each other as the different clues foreshadow what is going to happen (as well as detail why the past is so important to the characters), the ending is really realistic of what actually may happen; but the way the actual story was laid out was a not really balanced as there were moments were it felt they were spending too much time on small things and too little time on big things)"
+    rating: "Great"
+    comments: "The different points and elements really work well with each other as the different clues foreshadow what is going to happen (as well as detail why the past is so important to the characters), the ending is really realistic of what actually may happen; but the way the actual story was laid out was a not really balanced as there were moments were it felt they were spending too much time on small things and too little time on big things"
   }
   screenplay {
     writer {
       name: "Robert Towne"
     }
-    comments: "Incredible Screenplay (Very true to the noir style and the symbolism is really prevalent in not only physical form but how it effects the characters (aka the meaning of \"Chinatown\"))"
+    rating: "Incredible"
+    comments: "Very true to the noir style and the symbolism is really prevalent in not only physical form but how it effects the characters (aka the meaning of \"Chinatown\")"
   }
   score {
     composer {
       name: "Jerry Goldsmith"
     }
-    comments: "Good Score"
+    rating: "Good"
   }
   cinematography {
     cinematographer {
       name: "John A. Alonzo"
     }
-    comments: "Good to Very Good Cinematography (really enjoyed the POV shots and the moving camera)"
+    rating: "Good to Very Good"
+    comments: "Really enjoyed the POV shots and the moving camera"
   }
-  sound: "Good Sound (typical of a 70s movie)"
   editing {
     editor {
       name: "Sam O\'Steen"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  visual_effects: "Good Visual Effects/Stunts"
+  sound {
+    rating: "Good"
+    comments: "Typical of a 70s movie"
+  }
+  visual_effects {
+    rating: "Good"
+  }
   plot_structure: "Plot Structure was not laid out in the best way (there is a lack of exposition (we are kinda just thrown into the lives of the characters), the middle parts of the movie spend a bit too much time on different smaller elements and very little time on important elements, and the ending/climax is also a bit rushed)"
   pacing: "Pacing was a bit all over the place as it can be either very slow or very fast at times (especially the end which is extremely fast)"
   climax: "Build to climax was present but extremely fast (though i did like this to an extent); climax was incredibly short but the best part of the movie (really shows what the overall meaning is)"

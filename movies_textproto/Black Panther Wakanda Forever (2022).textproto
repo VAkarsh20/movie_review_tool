@@ -5,49 +5,76 @@ review {
     director {
       name: "Ryan Coogler"
     }
-    comments: "Pretty Good Direction (Able to take command of his actors and drive the story forward (that be in a very Marvel way))"
+    rating: "Pretty Good"
+    comments: "Able to take command of his actors and drive the story forward (that be in a very Marvel way)"
   }
   acting {
-    actor {
-      name: "Letitia Wright"
-      comments: "Good to Very Good from Letitia Wright (Really shows a range of emotions throughout the movie and is able to get through some of the tough moments very well; she is able to command lead in this film and really play a character trying to go through the grieving process)"
+    performance {
+      actor {
+        name: "Letitia Wright"
+      }
+      rating: "Good to Very Good"
+      comments: "Really shows a range of emotions throughout the movie and is able to get through some of the tough moments very well; she is able to command lead in this film and really play a character trying to go through the grieving process"
     }
-    actor {
-      name: "Lupita Nyong\'o"
-      comments: "Pretty Good from Lupita Nyong\'o (Nothing spectacular but she does hold her own)"
+    performance {
+      actor {
+        name: "Lupita Nyong\'o"
+      }
+      rating: "Pretty Good"
+      comments: "Nothing spectacular but she does hold her own"
     }
-    actor {
-      name: "Danai Gurira"
-      comments: "Pretty Good from Danai Gurira"
+    performance {
+      actor {
+        name: "Danai Gurira"
+      }
+      rating: "Pretty Good"
     }
-    actor {
-      name: "Winston Duke"
-      comments: "Pretty Good to Good from Winston Duke (Really shows his presence with his charisma, power and humor in all the scenes he is in)"
+    performance {
+      actor {
+        name: "Winston Duke"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Really shows his presence with his charisma, power and humor in all the scenes he is in"
     }
-    actor {
-      name: "Dominique Thorne"
-      comments: "Decent from Dominique Thorne (A character kinda just thrown into the movie, but she does a decent job with what she was given)"
+    performance {
+      actor {
+        name: "Dominique Thorne"
+      }
+      rating: "Decent"
+      comments: "A character kinda just thrown into the movie, but she does a decent job with what she was given"
     }
-    actor {
-      name: "Tenoch Huerta Mej\303\255a"
-      comments: "Decent to Pretty Good from Tenoch Huerta Mej\303\255a (Plays the role decently well and shows some range (it just isn\'t really his fault given he isn\'t given that much to work with))"
+    performance {
+      actor {
+        name: "Tenoch Huerta Mej\303\255a"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Plays the role decently well and shows some range (it just isn\'t really his fault given he isn\'t given that much to work with)"
     }
-    actor {
-      name: "Martin Freeman"
-      comments: "Pretty Good from Martin Freeman (Continues where he left off from the previous film)"
+    performance {
+      actor {
+        name: "Martin Freeman"
+      }
+      rating: "Pretty Good"
+      comments: "Continues where he left off from the previous film"
     }
-    actor {
-      name: "Angela Bassett"
-      comments: "Very Good from Angela Bassett (The best performance of the movie as she uses her experience very well to be a powerful and loving figure that tries to pick up the pieces of a fractured nation)"
+    performance {
+      actor {
+        name: "Angela Bassett"
+      }
+      rating: "Very Good"
+      comments: "The best performance of the movie as she uses her experience very well to be a powerful and loving figure that tries to pick up the pieces of a fractured nation"
     }
-    cast: "Decent from the rest of the cast"
-    comments: "Pretty Good Acting"
+    cast {
+      rating: "Decent"
+    }
+    rating: "Pretty Good"
   }
   story {
     writer {
       name: "Ryan Coogler"
     }
-    comments: "Pretty Bad Story (The overall narrative follows the boilerplate Marvel formula, but the moments dealing with grief were surprising and pretty good overall (especially for a marvel movie); the conflict overall was very boring as the villains and their world were just not that interesting (and pretty similar to Avatar))"
+    rating: "Pretty Bad"
+    comments: "The overall narrative follows the boilerplate Marvel formula, but the moments dealing with grief were surprising and pretty good overall (especially for a marvel movie); the conflict overall was very boring as the villains and their world were just not that interesting (and pretty similar to Avatar)"
   }
   screenplay {
     writer {
@@ -56,22 +83,26 @@ review {
     writer {
       name: "Joe Robert Cole"
     }
-    comments: "Decent to Pretty Good Screenplay (Dialogue was pretty average for a marvel movie; the humor is very hit or miss (but when it hits it is very clever); the foreshadowing and symbolism was pretty predictable for a marvel movie)"
+    rating: "Decent to Pretty Good"
+    comments: "Dialogue was pretty average for a marvel movie; the humor is very hit or miss (but when it hits it is very clever); the foreshadowing and symbolism was pretty predictable for a marvel movie"
   }
   score {
     composer {
       name: "Ludwig G\303\266ransson"
     }
-    comments: "Very Good Score"
+    rating: "Very Good"
   }
-  soundtrack: "Pretty Bad to Decent Soundtrack (at least in comparison to the previous soundtrack cause it does not match on the same level)"
+  soundtrack {
+    rating: "Pretty Bad to Decent"
+    comments: "At least in comparison to the previous soundtrack cause it does not match on the same level"
+  }
   cinematography {
     cinematographer {
       name: "Autumn Durald Arkapaw"
     }
-    comments: "Decent to Pretty Bad Cinematography (For the most part it is pretty typical of other Marvel movies but there are moments when it gets very nauseating)"
+    rating: "Decent to Pretty Bad"
+    comments: "For the most part it is pretty typical of other Marvel movies but there are moments when it gets very nauseating"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Michael P. Shawver"
@@ -82,12 +113,26 @@ review {
     editor {
       name: "Jennifer Lame"
     }
-    comments: "Good Editing (There were some edits that were very good like the parallelism in the climax and when it shows the villains mom getting older, but some of the editing techniques were not that appealing (like the slow-motion editing))"
+    rating: "Good"
+    comments: "There were some edits that were very good like the parallelism in the climax and when it shows the villains mom getting older, but some of the editing techniques were not that appealing (like the slow-motion editing)"
   }
-  visual_effects: "Pretty Bad Visual Effects (Felt very tacky (especially with raising his body) and feels like how other Marvel movies are in recent times (which is not a good thing))"
-  production_design: "Good Production Design"
-  makeup: "Good Makeup"
-  costumes: "Pretty Bad to Decent Costumes (The overall Wakanda costumes were good, its just Shuri\'s fits when being a regular person were pretty bad)"
+  sound {
+    rating: "Good"
+  }
+  visual_effects {
+    rating: "Pretty Bad"
+    comments: "Felt very tacky (especially with raising his body) and feels like how other Marvel movies are in recent times (which is not a good thing)"
+  }
+  production_design {
+    rating: "Good"
+  }
+  makeup {
+    rating: "Good"
+  }
+  costumes {
+    rating: "Pretty Bad to Decent"
+    comments: "The overall Wakanda costumes were good, its just Shuri\'s fits when being a regular person were pretty bad"
+  }
   plot_structure: "Plot Structure was very typical of marvel movies"
   pacing: "Pacing was the same pacing of marvel movies"
   climax: "Build to climax was good and shows the transition of power in the movie; climax was very typical of Marvel movies; the ending was incredibly safe and very predictable"

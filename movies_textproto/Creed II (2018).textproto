@@ -5,27 +5,42 @@ review {
     director {
       name: "Steven Caple Jr."
     }
-    comments: "Good Direction (Was able to put together a good movie with its cut and getting the story to move forward)"
+    rating: "Good"
+    comments: "Was able to put together a good movie with its cut and getting the story to move forward"
   }
   acting {
-    actor {
-      name: "Michael B. Jordan"
-      comments: "Pretty Bad to Decent from Michael B. Jordan (Jordan plays the same character he plays in every movie (someone who feels he needs to prove doubters wrong trope) and really is one-dimensional in this performance; he is able to show emotion but he really cannot act emotional (especially in the love scenes with Tessa Thompson))"
+    performance {
+      actor {
+        name: "Michael B. Jordan"
+      }
+      rating: "Pretty Bad to Decent"
+      comments: "Jordan plays the same character he plays in every movie (someone who feels he needs to prove doubters wrong trope) and really is one-dimensional in this performance; he is able to show emotion but he really cannot act emotional (especially in the love scenes with Tessa Thompson)"
     }
-    actor {
-      name: "Sylvester Stallone"
-      comments: "Very Good from Sylvester Stallone (Not as good as his last Creed performance but still is a vital part of the movie and a reason to watch as he continues to be the father figure to Creed while he is trying to come to terms with being a father to his actual son)"
+    performance {
+      actor {
+        name: "Sylvester Stallone"
+      }
+      rating: "Very Good"
+      comments: "Not as good as his last Creed performance but still is a vital part of the movie and a reason to watch as he continues to be the father figure to Creed while he is trying to come to terms with being a father to his actual son"
     }
-    actor {
-      name: "Tessa Thompson"
-      comments: "Good from Tessa Thompson (The love scenes between her and Michael B. Jordan were not the best but besides that she was able to hold her own)"
+    performance {
+      actor {
+        name: "Tessa Thompson"
+      }
+      rating: "Good"
+      comments: "The love scenes between her and Michael B. Jordan were not the best but besides that she was able to hold her own"
     }
-    actor {
-      name: "Dolph Lundgren"
-      comments: "Good to Very Good from Dolph Lundgren (really took a once 1-dimensional character and gave him more personality to where you sympathize with his struggle)"
+    performance {
+      actor {
+        name: "Dolph Lundgren"
+      }
+      rating: "Good to Very Good"
+      comments: "Really took a once 1-dimensional character and gave him more personality to where you sympathize with his struggle"
     }
-    cast: "Decent from the rest of the cast"
-    comments: "Decent Acting"
+    cast {
+      rating: "Decent"
+    }
+    rating: "Decent"
   }
   story {
     writer {
@@ -34,7 +49,8 @@ review {
     writer {
       name: "Cheo Hodari Coker"
     }
-    comments: "Pretty Good Story (Some elements of the story were way too safe/mismanaged (the overall plot of fighting from the perspective of Creed (like the default in the first fight)), but I did enjoy the elements when it came to Rocky (and how it closed the character\'s story line), Drago (and how his story closed his arc from Rocky 4), and the Baby)"
+    rating: "Pretty Good"
+    comments: "Some elements of the story were way too safe/mismanaged (the overall plot of fighting from the perspective of Creed (like the default in the first fight)), but I did enjoy the elements when it came to Rocky (and how it closed the character\'s story line), Drago (and how his story closed his arc from Rocky 4), and the Baby"
   }
   screenplay {
     writer {
@@ -43,21 +59,22 @@ review {
     writer {
       name: "Sylvester Stallone"
     }
-    comments: "Decent Screenplay (The scenes when it came to Rocky and Drago were very well written and had that charm of the old movies, but all the scenes regarding just Creed and his relationship with other characters (besides Rocky) were pretty poorly written/felt unnatural)"
+    rating: "Decent"
+    comments: "The scenes when it came to Rocky and Drago were very well written and had that charm of the old movies, but all the scenes regarding just Creed and his relationship with other characters (besides Rocky) were pretty poorly written/felt unnatural"
   }
   score {
     composer {
       name: "Ludwig G\303\266ransson"
     }
-    comments: "Good Score (mixed the allusions to the original movies nicely)"
+    rating: "Good"
+    comments: "Mixed the allusions to the original movies nicely"
   }
   cinematography {
     cinematographer {
       name: "Kramer Morgenthau"
     }
-    comments: "Very Good Cinematography"
+    rating: "Very Good"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Dana E. Glauberman"
@@ -68,9 +85,14 @@ review {
     editor {
       name: "Paul Harb"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  makeup: "Good Makeup"
+  sound {
+    rating: "Good"
+  }
+  makeup {
+    rating: "Good"
+  }
   plot_structure: "Plot Structure was a bit mismanaged as it felt they were trying to fit in a little too much into this movie and did not have enough time to do so (though the moments from building to the climax to the resolution were executed very well)"
   pacing: "Pacing was alright"
   climax: "Build to climax was very typical of Rocky but was overall very good (a real turning point for the movie); climax had decent execution (it was basically the same as the last movie)"

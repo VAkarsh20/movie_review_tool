@@ -5,45 +5,62 @@ review {
     director {
       name: "Justin Chon"
     }
-    comments: "Decent to Pretty Good Direction (The actual artistic shots were very well executed and the ability to capture emotions was very nice, but the acting at many moments is really hard to watch at how bad it is)"
+    rating: "Decent to Pretty Good"
+    comments: "The actual artistic shots were very well executed and the ability to capture emotions was very nice, but the acting at many moments is really hard to watch at how bad it is"
   }
   acting {
-    actor {
-      name: "Justin Chon"
-      comments: "Great from Justin Chon (The only multi-dimensional performance in the whole movie as he really puts everything he has in playing this character as his struggle is the major driving element of the film)"
+    performance {
+      actor {
+        name: "Justin Chon"
+      }
+      rating: "Great"
+      comments: "The only multi-dimensional performance in the whole movie as he really puts everything he has in playing this character as his struggle is the major driving element of the film"
     }
-    actor {
-      name: "Alicia Vikander"
-      comments: "Pretty Good from Alicia Vikander (Able to hold her own throughout the movie but is really underwhelming at many points given she is an Oscar winning actress (especially in the angry and emotional scenes of the movie))"
+    performance {
+      actor {
+        name: "Alicia Vikander"
+      }
+      rating: "Pretty Good"
+      comments: "Able to hold her own throughout the movie but is really underwhelming at many points given she is an Oscar winning actress (especially in the angry and emotional scenes of the movie)"
     }
-    actor {
-      name: "Linh Dan Pham"
-      comments: "Pretty Good from Linh Dan Pham (Was able to hold her own in the movie and play a key character in helping show symbolism)"
+    performance {
+      actor {
+        name: "Linh Dan Pham"
+      }
+      rating: "Pretty Good"
+      comments: "Was able to hold her own in the movie and play a key character in helping show symbolism"
     }
-    actor {
-      name: "Sydney Kowalske"
-      comments: "Pretty Good from Sydney Kowalske"
+    performance {
+      actor {
+        name: "Sydney Kowalske"
+      }
+      rating: "Pretty Good"
     }
-    cast: "Very Bad from the rest of the cast (where at some points is it is very hard to watch at how bad they are)"
-    comments: "Decent Acting"
+    cast {
+      rating: "Very Bad"
+      comments: "Where at some points is it is very hard to watch at how bad they are"
+    }
+    rating: "Decent"
   }
   story {
     writer {
       name: "Justin Chon"
     }
-    comments: "Pretty Good Story (The actual plot overarching construction is good with many elements I did like, but there are many useless moments in the film just meant to fill time)"
+    rating: "Pretty Good"
+    comments: "The actual plot overarching construction is good with many elements I did like, but there are many useless moments in the film just meant to fill time"
   }
   screenplay {
     writer {
       name: "Justin Chon"
     }
-    comments: "Pretty Bad Screenplay (The symbolism of the film is very prevalent and shown very well and there are many scenes where the dialogue is good (especially Justin Chon\'s dialogue), but there are many moments in the film where the dialogue is very unrealistic and just feels very forced)"
+    rating: "Pretty Bad"
+    comments: "The symbolism of the film is very prevalent and shown very well and there are many scenes where the dialogue is good (especially Justin Chon\'s dialogue), but there are many moments in the film where the dialogue is very unrealistic and just feels very forced"
   }
   score {
     composer {
       name: "Roger Suen"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
   cinematography {
     cinematographer {
@@ -52,19 +69,24 @@ review {
     cinematographer {
       name: "Ante Cheng"
     }
-    comments: "Good to Very Good Cinematography (It really shines in the Bayou scenes and especially when its at night with the lighting)"
+    rating: "Good to Very Good"
+    comments: "It really shines in the Bayou scenes and especially when its at night with the lighting"
   }
-  sound: "Decent Sound"
   editing {
     editor {
       name: "Reynolds Barney"
     }
-    comments: "Good to Very Good Editing (The actual construction of scenes was very well put together from a macro sense)"
+    rating: "Good to Very Good"
+    comments: "The actual construction of scenes was very well put together from a macro sense"
+  }
+  sound {
+    rating: "Decent"
   }
   plot_structure: "Plot Structure was fine in the overarching sense but there were many elements in the movie that could have been cut to give the movie a more cleaner watch (like 10-15 minutes worth)"
   pacing: "Pacing was a bit on the slower side"
   climax: "Build to climax was good and one of the more emotional parts of the movie as you really do care for Justin Chon\'s character; climax was the most heartbreaking part of the movie as it is the most emotional moment"
   tone: "Tone was a bit too much on the feel-good side as it resembles that of a Lifetime movie at times"
+  final_notes: ""
   overall: "Overall, a movie that is carried solely by Justin Chon with a performance that makes the audience engaged with the film and his struggle (with some good elements of direction as well), but the movie heavily dragged back by the other characters and their scenes as it is really hard to watch at times"
 }
 release_year: 2021

@@ -5,69 +5,103 @@ review {
     director {
       name: "Elizabeth Banks"
     }
-    comments: "Very Bad to Bad Direction (The use of storytelling was lackluster as it was very anti-climatic the way the multiple storylines converged; the meta humor felt very childish as it felt more cheap than funny; did not get anything from the actors as it did not feel like they were playing off each other at all)"
+    rating: "Very Bad to Bad"
+    comments: "The use of storytelling was lackluster as it was very anti-climatic the way the multiple storylines converged; the meta humor felt very childish as it felt more cheap than funny; did not get anything from the actors as it did not feel like they were playing off each other at all"
   }
   acting {
-    actor {
-      name: "Keri Russell"
-      comments: "Decent to Prety Good from Keri Russell (The only somewhat memorable performance from the movie as it felt like she was holding her own solely from the experience she has and not from any direction given)"
+    performance {
+      actor {
+        name: "Keri Russell"
+      }
+      rating: "Decent to Prety Good"
+      comments: "The only somewhat memorable performance from the movie as it felt like she was holding her own solely from the experience she has and not from any direction given"
     }
-    actor {
-      name: "O\'Shea Jackson Jr."
-      comments: "Pretty Bad to Decent from O\'Shea Jackson Jr. (Felt like he was playing the similar character he has been playing since Straight Outta Compton as it is pretty one-dimensional (though does have some charm and humor at times))"
+    performance {
+      actor {
+        name: "O\'Shea Jackson Jr."
+      }
+      rating: "Pretty Bad to Decent"
+      comments: "Felt like he was playing the similar character he has been playing since Straight Outta Compton as it is pretty one-dimensional (though does have some charm and humor at times)"
     }
-    actor {
-      name: "Alden Ehrenreich"
-      comments: "Decent from Alden Ehrenreich (Had moments where he was fine and moments where he really could not hold his own, though overall was a decent performance)"
+    performance {
+      actor {
+        name: "Alden Ehrenreich"
+      }
+      rating: "Decent"
+      comments: "Had moments where he was fine and moments where he really could not hold his own, though overall was a decent performance"
     }
-    actor {
-      name: "Isiah Whitlock Jr."
-      comments: "Pretty Bad to Decent from Isiah Whitlock Jr. (One of the many one-dimensional performances in the movie)"
+    performance {
+      actor {
+        name: "Isiah Whitlock Jr."
+      }
+      rating: "Pretty Bad to Decent"
+      comments: "One of the many one-dimensional performances in the movie"
     }
-    actor {
-      name: "Margo Martindale"
-      comments: "Pretty Bad from Margo Martindale (A very emotionless performance from the movie despite her trying very hard to be shocking for humor (which is a shame cause she is actually very talented))"
+    performance {
+      actor {
+        name: "Margo Martindale"
+      }
+      rating: "Pretty Bad"
+      comments: "A very emotionless performance from the movie despite her trying very hard to be shocking for humor (which is a shame cause she is actually very talented)"
     }
-    actor {
-      name: "Ray Liotta"
-      comments: "Decent to Pretty Good from Ray Liotta (Pulls a lot from the experience as he plays a character that is very similar to others he has played recently)"
+    performance {
+      actor {
+        name: "Ray Liotta"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Pulls a lot from the experience as he plays a character that is very similar to others he has played recently"
     }
-    cast: "Bad from the rest of the cast (Just filled with many performances that don\'t work off of each other and inexperience overall (this does not include the child actors though))"
-    comments: "Bad Pretty Bad Acting"
+    cast {
+      rating: "Bad"
+      comments: "Just filled with many performances that don\'t work off of each other and inexperience overall (this does not include the child actors though)"
+    }
+    rating: "Bad Pretty Bad"
   }
   story {
     writer {
       name: "Jimmy Warden"
     }
-    comments: "Pretty Bad Story (Uses parallel storytelling to tell three different stories but does a pretty bad job at having them all converge at the end; the conflict was poorly introduced and poorly resolved; the ending is also incredibly predictable)"
+    rating: "Pretty Bad"
+    comments: "Uses parallel storytelling to tell three different stories but does a pretty bad job at having them all converge at the end; the conflict was poorly introduced and poorly resolved; the ending is also incredibly predictable"
   }
   screenplay {
     writer {
       name: "Jimmy Warden"
     }
-    comments: "Very Bad Screenplay (The dialogue felt very forced and corny, the jokes were not that funny at all as it felt more childish and shocking than actually telling something funny, very shallow overall in terms of symbolism and message)"
+    rating: "Very Bad"
+    comments: "The dialogue felt very forced and corny, the jokes were not that funny at all as it felt more childish and shocking than actually telling something funny, very shallow overall in terms of symbolism and message"
   }
   score {
     composer {
       name: "Mark Mothersbaugh"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
   cinematography {
     cinematographer {
       name: "John Guleserian"
     }
-    comments: "Pretty Bad Cinematography (Just felt very amateurish)"
+    rating: "Pretty Bad"
+    comments: "Just felt very amateurish"
   }
-  sound: "Pretty Bad Sound"
   editing {
     editor {
       name: "Joel Negron"
     }
-    comments: "Bad Editing (Felt very cheap)"
+    rating: "Bad"
+    comments: "Felt very cheap"
   }
-  visual_effects: "Bad Visual Effects (The CGI of the bear made it feel very much in the uncanny valley (which is a shame given the animal is the whole point of the movie))"
-  makeup: "Decent Makeup (Showing the gore and grime of the adventure)"
+  sound {
+    rating: "Pretty Bad"
+  }
+  visual_effects {
+    rating: "Bad"
+    comments: "The CGI of the bear made it feel very much in the uncanny valley (which is a shame given the animal is the whole point of the movie)"
+  }
+  makeup {
+    rating: "Decent"
+    comments: "Showing the gore and grime of the adventure"
+  }
   plot_structure: "Plot Structure was pretty simplistic as it just followed the template of having multiple storylines converge to a climax at the end (nothing that hurts or adds to the film)"
   pacing: "Pacing was pretty fast as it tries to tell three different stories at once (and has a very short runtime to do so)"
   climax: "Climax was decent (but the dialogue was a bit corny and the ending was pretty predictable)"

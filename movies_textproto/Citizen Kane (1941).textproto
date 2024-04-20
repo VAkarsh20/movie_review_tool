@@ -5,19 +5,28 @@ review {
     director {
       name: "Orson Welles"
     }
-    comments: "Incredible Direction (The ability to have a control of the scene and incorporate different technical elements to provide depth and meaning (while still being the lead of the movie) is incredible, especially given the time and how groundbreaking it was)"
+    rating: "Incredible"
+    comments: "The ability to have a control of the scene and incorporate different technical elements to provide depth and meaning (while still being the lead of the movie) is incredible, especially given the time and how groundbreaking it was"
   }
   acting {
-    actor {
-      name: "Orson Welles"
-      comments: "Great to Incredible from Orson Welles (Especially due to his other duties on the film, really was able to have a real control of the scenes he was in and provided the real larger than life character that Charles Kane was)"
+    performance {
+      actor {
+        name: "Orson Welles"
+      }
+      rating: "Great to Incredible"
+      comments: "Especially due to his other duties on the film, really was able to have a real control of the scenes he was in and provided the real larger than life character that Charles Kane was"
     }
-    actor {
-      name: "Dorothy Comingore"
-      comments: "Great from Dorothy Comingore (Was able to play the failed, drunken widow very well)"
+    performance {
+      actor {
+        name: "Dorothy Comingore"
+      }
+      rating: "Great"
+      comments: "Was able to play the failed, drunken widow very well"
     }
-    cast: "Very Good to Great from the rest of the cast"
-    comments: "Great Acting"
+    cast {
+      rating: "Very Good to Great"
+    }
+    rating: "Great"
   }
   story {
     writer {
@@ -26,7 +35,8 @@ review {
     writer {
       name: "Orson Welles"
     }
-    comments: "Great to Incredible Story (While the story in itself was pretty plan, the storytelling and the non-linear narrative were ahead of its time and really laid the groundwork for other major movies)"
+    rating: "Great to Incredible"
+    comments: "While the story in itself was pretty plan, the storytelling and the non-linear narrative were ahead of its time and really laid the groundwork for other major movies"
   }
   screenplay {
     writer {
@@ -35,30 +45,42 @@ review {
     writer {
       name: "Orson Welles"
     }
-    comments: "Incredible Screenplay (The dialogue was very of the time and written very well coupled with incredible use of symbolism through both physical objects and technical techniques)"
+    rating: "Incredible"
+    comments: "The dialogue was very of the time and written very well coupled with incredible use of symbolism through both physical objects and technical techniques"
   }
   score {
     composer {
       name: "Bernard Herrmann"
     }
-    comments: "Very Good Score (very of the time)"
+    rating: "Very Good"
+    comments: "Very of the time"
   }
   cinematography {
     cinematographer {
       name: "Gregg Toland"
     }
-    comments: "Brilliant Cinematography (Really was ahead of the time and played a major role in the storytelling, through deep focus and other techniques)"
+    rating: "Brilliant"
+    comments: "Really was ahead of the time and played a major role in the storytelling, through deep focus and other techniques"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Robert Wise"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  visual_effects: "Very Good Visual Effects"
-  production_design: "Good to Very Good Production Design"
-  makeup: "Great Makeup (especially the ability to make Kane look older throughout the years)"
+  sound {
+    rating: "Good"
+  }
+  visual_effects {
+    rating: "Very Good"
+  }
+  production_design {
+    rating: "Good to Very Good"
+  }
+  makeup {
+    rating: "Great"
+    comments: "Especially the ability to make Kane look older throughout the years"
+  }
   plot_structure: "Plot Structure was non-linear and laid out pretty well (something that films took from in the future)"
   pacing: "Pacing was incredibly fast to the point were it was hard to follow (like if you look away for a second and you miss so much)"
   climax: "Build to climax was decent and it shows how Kane tries to seclude himself from everyone as he starts to see himself as a failure with power; climax was decent as it is more about the seclusion with more emphasis on the resolution than the climax"

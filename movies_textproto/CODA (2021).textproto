@@ -5,54 +5,71 @@ review {
     director {
       name: "Sian Heder"
     }
-    comments: "Great Direction (especially the ability to control the scenes with deaf actors (especially during the signing arguments))"
+    rating: "Great"
+    comments: "Especially the ability to control the scenes with deaf actors (especially during the signing arguments)"
   }
   acting {
-    actor {
-      name: "Emilia Jones"
-      comments: "Very Good to Great from Emilia Jones (Able to hold her own and was great in the more emotionally intense scenes (played the angsty character very well as well))"
+    performance {
+      actor {
+        name: "Emilia Jones"
+      }
+      rating: "Very Good to Great"
+      comments: "Able to hold her own and was great in the more emotionally intense scenes (played the angsty character very well as well)"
     }
-    actor {
-      name: "Troy Kotsur"
-      comments: "Great to Incredible from Troy Kotsur (Stole the show with his comedic, humorous moments and was the real emotional rock for the family as his actions play a vital role in Jones\'s character finding herself)"
+    performance {
+      actor {
+        name: "Troy Kotsur"
+      }
+      rating: "Great to Incredible"
+      comments: "Stole the show with his comedic, humorous moments and was the real emotional rock for the family as his actions play a vital role in Jones\'s character finding herself"
     }
-    actor {
-      name: "Marlee Matlin"
-      comments: "Great from Marlee Matlin (plays her role very well and shows a lot of range)"
+    performance {
+      actor {
+        name: "Marlee Matlin"
+      }
+      rating: "Great"
+      comments: "Plays her role very well and shows a lot of range"
     }
-    cast: "Very Good from the rest of the cast"
-    comments: "Great Acting"
+    cast {
+      rating: "Very Good"
+    }
+    rating: "Great"
   }
   story {
     writer {
       name: "Sian Heder"
     }
-    comments: "Good to Very Good Story (The story is very predictable because of it being a bildungsroman movie but there are some unique elements that make it interesting to watch (like the juxtaposition of being a singer in a deaf family))"
+    rating: "Good to Very Good"
+    comments: "The story is very predictable because of it being a bildungsroman movie but there are some unique elements that make it interesting to watch (like the juxtaposition of being a singer in a deaf family)"
   }
   screenplay {
     writer {
       name: "Sian Heder"
     }
-    comments: "Very Good Screenplay (especially the usage of ASL in intense arguments, though the imagery/symbolism is a bit surface-level (mostly due to it being a coming of age story))"
+    rating: "Very Good"
+    comments: "Especially the usage of ASL in intense arguments, though the imagery/symbolism is a bit surface-level (mostly due to it being a coming of age story)"
   }
   score {
     composer {
       name: "Marius de Vries"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
   cinematography {
     cinematographer {
       name: "Paula Huidobro"
     }
-    comments: "Good Cinematography"
+    rating: "Good"
   }
-  sound: "Very Good Sound (especially with the lack of to mimic how the deaf characters are witnessing the scene)"
   editing {
     editor {
       name: "Geraud Brisson"
     }
-    comments: "Good Editing"
+    rating: "Good"
+  }
+  sound {
+    rating: "Very Good"
+    comments: "Especially with the lack of to mimic how the deaf characters are witnessing the scene"
   }
   plot_structure: "Plot Structure good (kinda just follows the generic bilsdungroman plot structure so there really are not issues)"
   pacing: "Pacing is good (would not really add or cut any scenes as the movie uses its runtime effectively)"
