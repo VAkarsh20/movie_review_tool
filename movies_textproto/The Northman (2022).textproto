@@ -5,35 +5,56 @@ review {
     director {
       name: "Robert Eggers"
     }
-    comments: "Good to Very Good Direction (I really enjoyed how he was able to progress the story forward with his use of continuous camera angles and action; also, he was able to get the most out of his actors in almost every scene)"
+    rating: "Good to Very Good"
+    comments: "I really enjoyed how he was able to progress the story forward with his use of continuous camera angles and action; also, he was able to get the most out of his actors in almost every scene"
   }
   acting {
-    actor {
-      name: "Alexander Skarsg\303\245rd"
-      comments: "Very Good from Alexander Skarsg\303\245rd (Played more of a reserved character that could not get that much out of his talent, but he was still able to play his role very well and play the menacing character filled with trauma)"
+    performance {
+      actor {
+        name: "Alexander Skarsg\303\245rd"
+      }
+      rating: "Very Good"
+      comments: "Played more of a reserved character that could not get that much out of his talent, but he was still able to play his role very well and play the menacing character filled with trauma"
     }
-    actor {
-      name: "Nicole Kidman"
-      comments: "Good to Very Good from Nicole Kidman (Her character was not showed as much as it should have but did a good job with the role she was given)"
+    performance {
+      actor {
+        name: "Nicole Kidman"
+      }
+      rating: "Good to Very Good"
+      comments: "Her character was not showed as much as it should have but did a good job with the role she was given"
     }
-    actor {
-      name: "Claes Bang"
-      comments: "Good from Claes Bang (Played the antagonist very well and was an easy target to why Amleth wanted to get revenge on him)"
+    performance {
+      actor {
+        name: "Claes Bang"
+      }
+      rating: "Good"
+      comments: "Played the antagonist very well and was an easy target to why Amleth wanted to get revenge on him"
     }
-    actor {
-      name: "Anya Taylor-Joy"
-      comments: "Very Good from Anya Taylor-Joy (The accent was needing to get used to, but she was able to carry out her character very well)"
+    performance {
+      actor {
+        name: "Anya Taylor-Joy"
+      }
+      rating: "Very Good"
+      comments: "The accent was needing to get used to, but she was able to carry out her character very well"
     }
-    actor {
-      name: "Ethan Hawke"
-      comments: "Good to Very Good from Ethan Hawke (Played his character well despite only being present in the beginning of the movie)"
+    performance {
+      actor {
+        name: "Ethan Hawke"
+      }
+      rating: "Good to Very Good"
+      comments: "Played his character well despite only being present in the beginning of the movie"
     }
-    actor {
-      name: "Willem Dafoe"
-      comments: "Good to Very Good from Willem Dafoe (Very small presence in the movie but he had a very memorable performance due to the character being very Dafoe-esque)"
+    performance {
+      actor {
+        name: "Willem Dafoe"
+      }
+      rating: "Good to Very Good"
+      comments: "Very small presence in the movie but he had a very memorable performance due to the character being very Dafoe-esque"
     }
-    cast: "Good from the rest of the cast"
-    comments: "Good to Very Good Acting"
+    cast {
+      rating: "Good"
+    }
+    rating: "Good to Very Good"
   }
   story {
     writer {
@@ -42,7 +63,8 @@ review {
     writer {
       name: "Robert Eggers"
     }
-    comments: "Good Story (Pretty predictable because of it being closely tied to Hamlet, but the actual elements I did enjoy)"
+    rating: "Good"
+    comments: "Pretty predictable because of it being closely tied to Hamlet, but the actual elements I did enjoy"
   }
   screenplay {
     writer {
@@ -51,7 +73,8 @@ review {
     writer {
       name: "Robert Eggers"
     }
-    comments: "Good Screenplay (Pretty simplistic due to it being a Norse epic (and how epics usually are), but had no major holes in it)"
+    rating: "Good"
+    comments: "Pretty simplistic due to it being a Norse epic (and how epics usually are), but had no major holes in it"
   }
   score {
     composer {
@@ -60,24 +83,35 @@ review {
     composer {
       name: "Sebastian Gainsborough"
     }
-    comments: "Very Good Score"
+    rating: "Very Good"
   }
   cinematography {
     cinematographer {
       name: "Jarin Blaschke"
     }
-    comments: "Great Cinematography (Especially how there were different tracking shots during the action scenes, as well as the different angles they chose throughout the movie)"
+    rating: "Great"
+    comments: "Especially how there were different tracking shots during the action scenes, as well as the different angles they chose throughout the movie"
   }
-  sound: "Very Good Sound"
   editing {
     editor {
       name: "Louise Ford"
     }
-    comments: "Very Good Editing"
+    rating: "Very Good"
   }
-  visual_effects: "Pretty Bad Visual Effects (especially during the hallucination scenes as they felt borderline cartoonish)"
-  production_design: "Good Production Design"
-  makeup: "Good Makeup (especially the use of blood to show carnage)"
+  sound {
+    rating: "Very Good"
+  }
+  visual_effects {
+    rating: "Pretty Bad"
+    comments: "Especially during the hallucination scenes as they felt borderline cartoonish"
+  }
+  production_design {
+    rating: "Good"
+  }
+  makeup {
+    rating: "Good"
+    comments: "Especially the use of blood to show carnage"
+  }
   plot_structure: "Plot Structure was well laid out well as it was pretty simplistic (followed the generic epic/Hamlet plot structure)"
   pacing: "Pacing was good (nothing to really cut out or add)"
   climax: "Build to climax was prevalent and carried out very well as it was something that the movie was building towards for the entire movie; climax was carried out very nicely as it was the battle/revenge that Amleth was fighting for for the entire movie"

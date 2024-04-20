@@ -5,27 +5,43 @@ review {
     director {
       name: "Stanley Kubrick"
     }
-    comments: "Very Good Direction (Great on a Macro scale of his entire shots, but pretty bad on a micro-scale during the dialogue-heavy interpersonal scenes; does a great job in moving the narrative forward as well as he uses his experience and signature Kubrick style to tell the story)"
+    rating: "Very Good"
+    comments: "Great on a Macro scale of his entire shots, but pretty bad on a micro-scale during the dialogue-heavy interpersonal scenes; does a great job in moving the narrative forward as well as he uses his experience and signature Kubrick style to tell the story"
   }
   acting {
-    actor {
-      name: "Jack Nicholson"
-      comments: "Very Good from Jack Nicholson (A bit over the top but really shows how demented and possed he is; also really steals all the scenes he is in (especially after the midway point and towards the end))"
+    performance {
+      actor {
+        name: "Jack Nicholson"
+      }
+      rating: "Very Good"
+      comments: "A bit over the top but really shows how demented and possed he is; also really steals all the scenes he is in (especially after the midway point and towards the end)"
     }
-    actor {
-      name: "Shelley Duvall"
-      comments: "Decent to Pretty Good from Shelley Duvall (A performance that wasn't even that bad; while there were some flaws (that were heavily criticized at the time), she does a pretty good job at being the terrified figure (and this was sadly carried out through the trauma she felt during the filming of the movie))"
+    performance {
+      actor {
+        name: "Shelley Duvall"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "A performance that wasn\'t even that bad; while there were some flaws (that were heavily criticized at the time), she does a pretty good job at being the terrified figure (and this was sadly carried out through the trauma she felt during the filming of the movie)"
     }
-    actor {
-      name: "Scatman Crothers"
-      comments: "Pretty Good from Scatman Crothers (Acts as a good outside figure looking in (but some of the shocked faces were borderline comical))"
+    performance {
+      actor {
+        name: "Scatman Crothers"
+      }
+      rating: "Pretty Good"
+      comments: "Acts as a good outside figure looking in (but some of the shocked faces were borderline comical)"
     }
-    actor {
-      name: "Danny Lloyd"
-      comments: "Pretty Good from Danny Lloyd (Does well with what he is given and has to do)"
+    performance {
+      actor {
+        name: "Danny Lloyd"
+      }
+      rating: "Pretty Good"
+      comments: "Does well with what he is given and has to do"
     }
-    cast: "Decent to Pretty Good from the rest of the cast (Does a pretty good with working off of the principal cast as their main role is to show the more mysterious/horror elements of the Overlook Hotel)"
-    comments: "Pretty Good to Good Acting"
+    cast {
+      rating: "Decent to Pretty Good"
+      comments: "Does a pretty good with working off of the principal cast as their main role is to show the more mysterious/horror elements of the Overlook Hotel"
+    }
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
@@ -34,7 +50,8 @@ review {
     writer {
       name: "Diane Johnson"
     }
-    comments: "Incredible Story (Takes an iconic Stephen King book and really brings it to life as Kubrick really incorporates some iconic story elements that really have become iconic in not only his filmography but in cinema history in general; the story is also laid out well and is progressed in a traditional Kubrick fashion)"
+    rating: "Incredible"
+    comments: "Takes an iconic Stephen King book and really brings it to life as Kubrick really incorporates some iconic story elements that really have become iconic in not only his filmography but in cinema history in general; the story is also laid out well and is progressed in a traditional Kubrick fashion"
   }
   screenplay {
     writer {
@@ -43,7 +60,8 @@ review {
     writer {
       name: "Diane Johnson"
     }
-    comments: "Very Good Screenplay (The dialogue is very iconic (filled with some of the most memorable lines in all of cinema history), but a lot of the regular dialogue in the movie is pretty bland; great use of symbolism and incredible use of foreshadowing (some of the best in Horror history))"
+    rating: "Very Good"
+    comments: "The dialogue is very iconic (filled with some of the most memorable lines in all of cinema history), but a lot of the regular dialogue in the movie is pretty bland; great use of symbolism and incredible use of foreshadowing (some of the best in Horror history)"
   }
   score {
     composer {
@@ -52,23 +70,35 @@ review {
     composer {
       name: "Rachel Elkind"
     }
-    comments: "Good Score (Used well to help build anxiety and tension, with it building up faster and faster after the halfway point)"
+    rating: "Good"
+    comments: "Used well to help build anxiety and tension, with it building up faster and faster after the halfway point"
   }
   cinematography {
     cinematographer {
       name: "John Alcott"
     }
-    comments: "Great Cinematography (Very Kubrick)"
+    rating: "Great"
+    comments: "Very Kubrick"
   }
-  sound: "Good Sound (Helped with building tension and anxiety)"
   editing {
     editor {
       name: "Ray Lovejoy"
     }
-    comments: "Bad Editing (Transitions felt very amateur, a lot of continuity issues, and the shot/reverse-shot editing just feels very stiff (which is a problem cause the movie relies on this technique heavily throughout the movie); overall, felt like the movie was edited from the 60s even though it came out in 1980)"
+    rating: "Bad"
+    comments: "Transitions felt very amateur, a lot of continuity issues, and the shot/reverse-shot editing just feels very stiff (which is a problem cause the movie relies on this technique heavily throughout the movie); overall, felt like the movie was edited from the 60s even though it came out in 1980"
   }
-  visual_effects: "Very Good Visual Effects (Helped with showing the possed nature of the hotel)"
-  production_design: "Great Production Design (Iconic and is very Kubrick in how grand it is)"
+  sound {
+    rating: "Good"
+    comments: "Helped with building tension and anxiety"
+  }
+  visual_effects {
+    rating: "Very Good"
+    comments: "Helped with showing the possed nature of the hotel"
+  }
+  production_design {
+    rating: "Great"
+    comments: "Iconic and is very Kubrick in how grand it is"
+  }
   plot_structure: "Plot Structure was good as the movie was laid out well as each part of the plot is hit as it builds to the climax in the end"
   pacing: "Pacing is great as the suspense building to the climax was incredible (with it building faster and faster throughout the movie); no need to add or cut time (mainly cause this was some of the best exposition I have seen in a Horror movie)"
   climax: "Climax is executed so well as it delivers given it was built up throughout the entire movie (with it being the most iconic part of the movie)"

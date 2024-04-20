@@ -5,57 +5,77 @@ review {
     director {
       name: "James Cameron"
     }
-    comments: "Very Good to Great from Direction (He is able to get a lot from the macro scale of the movie as he builds this grand voyage that comes to its demise, and he does a good job in the more interpersonal scenes as he makes the audience care for the characters; there are issues with how he cut the film and uses pacing as the final half of the movie feels very dragged out despite it being a chaotic event (to where the ending becomes a bit too boring despite it being captivating))"
+    rating: "Very Good to Great from"
+    comments: "He is able to get a lot from the macro scale of the movie as he builds this grand voyage that comes to its demise, and he does a good job in the more interpersonal scenes as he makes the audience care for the characters; there are issues with how he cut the film and uses pacing as the final half of the movie feels very dragged out despite it being a chaotic event (to where the ending becomes a bit too boring despite it being captivating)"
   }
   acting {
-    actor {
-      name: "Leonardo DiCaprio"
-      comments: "Good from Leonardo DiCaprio (Shows some of his inexperience but plays the lead role very well as he commands the scenes he is in)"
+    performance {
+      actor {
+        name: "Leonardo DiCaprio"
+      }
+      rating: "Good"
+      comments: "Shows some of his inexperience but plays the lead role very well as he commands the scenes he is in"
     }
-    actor {
-      name: "Kate Winslet"
-      comments: "Good to Very Good from Kate Winslet (Does not show too much depth throughout the movie but really does show the loving emotions well to make you care about the relationship she has with Jack)"
+    performance {
+      actor {
+        name: "Kate Winslet"
+      }
+      rating: "Good to Very Good"
+      comments: "Does not show too much depth throughout the movie but really does show the loving emotions well to make you care about the relationship she has with Jack"
     }
-    actor {
-      name: "Billy Zane"
-      comments: "Pretty Good to Good from Billy Zane (Takes a lot from the rich-villain trope as he uses that to fuel his performance (with nothing being too spectacular))"
+    performance {
+      actor {
+        name: "Billy Zane"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Takes a lot from the rich-villain trope as he uses that to fuel his performance (with nothing being too spectacular)"
     }
-    actor {
-      name: "Kathy Bates"
-      comments: "Good from Kathy Bates (Plays a very Kathy Bates character as she has the southern charm who is considerate when looking at the different socioeconomic situations)"
+    performance {
+      actor {
+        name: "Kathy Bates"
+      }
+      rating: "Good"
+      comments: "Plays a very Kathy Bates character as she has the southern charm who is considerate when looking at the different socioeconomic situations"
     }
-    actor {
-      name: "Gloria Stuart"
-      comments: "Pretty Good to Good from Gloria Stuart"
+    performance {
+      actor {
+        name: "Gloria Stuart"
+      }
+      rating: "Pretty Good to Good"
     }
-    cast: "Pretty Good from the rest of the cast"
-    comments: "Pretty Good to Good Acting"
+    cast {
+      rating: "Pretty Good"
+    }
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
       name: "James Cameron"
     }
-    comments: "Good to Very Good Story (Filled with many iconic moments and stays very true to what happened, the main issue is how not dense it is for its long runtime (meaning some scenes feel like they are dragged out longer than they need to be))"
+    rating: "Good to Very Good"
+    comments: "Filled with many iconic moments and stays very true to what happened, the main issue is how not dense it is for its long runtime (meaning some scenes feel like they are dragged out longer than they need to be)"
   }
   screenplay {
     writer {
       name: "James Cameron"
     }
-    comments: "Very Good Screenplay (The dialogue is of the time and very iconic, the movie is filled with a lot of foreshadowing (though a bit overt), and the symbolism between the separation of classes was a nice touch to see given how much of an issue it was on the actual ship)"
+    rating: "Very Good"
+    comments: "The dialogue is of the time and very iconic, the movie is filled with a lot of foreshadowing (though a bit overt), and the symbolism between the separation of classes was a nice touch to see given how much of an issue it was on the actual ship"
   }
   score {
     composer {
       name: "James Horner"
     }
-    comments: "Great Score (Very Iconic with one of the most iconic/best songs for film every created)"
+    rating: "Great"
+    comments: "Very Iconic with one of the most iconic/best songs for film every created"
   }
   cinematography {
     cinematographer {
       name: "Russell Carpenter"
     }
-    comments: "Great Cinematography (Helps paint how grand of an experience and event the Titanic was)"
+    rating: "Great"
+    comments: "Helps paint how grand of an experience and event the Titanic was"
   }
-  sound: "Very Good Sound"
   editing {
     editor {
       name: "Conrad Buff"
@@ -66,11 +86,22 @@ review {
     editor {
       name: "Richard A. Harris"
     }
-    comments: "Very Good Editing"
+    rating: "Very Good"
   }
-  visual_effects: "Great Visual Effects (Helped with painting the scene)"
-  production_design: "Very Good Production Design"
-  costumes: "Very Good Costumes (Helped with separating the different classes in the movie)"
+  sound {
+    rating: "Very Good"
+  }
+  visual_effects {
+    rating: "Great"
+    comments: "Helped with painting the scene"
+  }
+  production_design {
+    rating: "Very Good"
+  }
+  costumes {
+    rating: "Very Good"
+    comments: "Helped with separating the different classes in the movie"
+  }
   plot_structure: "Plot Structure was a major drawback for the movie as the climax was way longer than it needed to be (with it being dragged for the final hour and a half of the movie (which I do get cause they said the boat will sink within an hour))"
   pacing: "Pacing was on the slower side despite them trying to make a fast/tense mood in the climax (The runtime of the climax could have been cut in half (30-45 minutes) because it felt like there were many unnecessary scenes or scenes that were longer than they needed to be)"
   climax: "Climax was a big focal point for the movie and while there were many great/iconic moments it was longer than it needed to be"

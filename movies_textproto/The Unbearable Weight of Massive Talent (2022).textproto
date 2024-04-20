@@ -5,19 +5,28 @@ review {
     director {
       name: "Tom Gormican"
     }
-    comments: "Decent to Pretty Good Direction (Directs the movie as if it is a early 2010s comedy (which kinda is a big drawback given its almost a decade later, but does a good job in moving the story forward and getting a good amount out of his characters))"
+    rating: "Decent to Pretty Good"
+    comments: "Directs the movie as if it is a early 2010s comedy (which kinda is a big drawback given its almost a decade later, but does a good job in moving the story forward and getting a good amount out of his characters)"
   }
   acting {
-    actor {
-      name: "Nicolas Cage"
-      comments: "Good to Very Good from Nicolas Cage (He is basically playing himself in an exaggerated way so there really is not that much room for error)"
+    performance {
+      actor {
+        name: "Nicolas Cage"
+      }
+      rating: "Good to Very Good"
+      comments: "He is basically playing himself in an exaggerated way so there really is not that much room for error"
     }
-    actor {
-      name: "Pedro Pascal"
-      comments: "Good from Pedro Pascal (Does a good job in building off of Cage as someone who admires the actor\'s work (While also showing his ability to act as well))"
+    performance {
+      actor {
+        name: "Pedro Pascal"
+      }
+      rating: "Good"
+      comments: "Does a good job in building off of Cage as someone who admires the actor\'s work (While also showing his ability to act as well)"
     }
-    cast: "Pretty Good from the rest of the cast"
-    comments: "Pretty Good to Good Acting"
+    cast {
+      rating: "Pretty Good"
+    }
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
@@ -26,7 +35,8 @@ review {
     writer {
       name: "Kevin Etten"
     }
-    comments: "Decent to Pretty Good Story (It is a fun concept that can only go so far but the movie does a good job in being entertaining for what it is (Though it is filled with many cliches to make it very feel-good and the style the movie is trying to emulate))"
+    rating: "Decent to Pretty Good"
+    comments: "It is a fun concept that can only go so far but the movie does a good job in being entertaining for what it is (Though it is filled with many cliches to make it very feel-good and the style the movie is trying to emulate)"
   }
   screenplay {
     writer {
@@ -35,32 +45,41 @@ review {
     writer {
       name: "Kevin Etten"
     }
-    comments: "Pretty Good Screenplay (Overall simplistic screenplay with good funny moments that make the movie entertaining)"
+    rating: "Pretty Good"
+    comments: "Overall simplistic screenplay with good funny moments that make the movie entertaining"
   }
   score {
     composer {
       name: "Mark Isham"
     }
-    comments: "Decent Score (Very typical of 2010s movies in how it is used)"
+    rating: "Decent"
+    comments: "Very typical of 2010s movies in how it is used"
   }
   cinematography {
     cinematographer {
       name: "Nigel Bluck"
     }
-    comments: "Pretty Good Cinematography (was a fan of the filter they used throughout the movie)"
+    rating: "Pretty Good"
+    comments: "Was a fan of the filter they used throughout the movie"
   }
-  sound: "Decent Sound (Similar to that of other action comedies)"
   editing {
     editor {
       name: "Melissa Bretherton"
     }
-    comments: "Decent Editing"
+    rating: "Decent"
   }
-  visual_effects: "Decent Visual Effects"
+  sound {
+    rating: "Decent"
+    comments: "Similar to that of other action comedies"
+  }
+  visual_effects {
+    rating: "Decent"
+  }
   plot_structure: "Plot Structure was nicely laid out and very safe in that it is similar to other action comedies"
   pacing: "Pacing was a bit on the faster side at some points but is overall pretty nice (no need to add or cut any material)"
   climax: "Build to climax was very cliche and very similar to that of action comedy movies of the 2010s; climax was entertaining in how a action comedy can be"
   tone: "Tone was way too much like that of a early 2010s action comedy movies (which is kinda troubling given that this movie comes out after a decade later)"
+  final_notes: ""
   overall: "Overall, an entertaining movie that has some funny moments and noticeable acting (especially with Nic Cage), but reeks too much like a early 2010s comedy to the point where it feels very dated in its style (that is this movie would be a lot better if it came out 10 years earlier)"
 }
 release_year: 2022

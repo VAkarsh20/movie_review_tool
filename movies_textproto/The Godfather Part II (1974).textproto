@@ -5,27 +5,38 @@ review {
     director {
       name: "Francis Ford Coppola"
     }
-    comments: "Incredible Direction"
+    rating: "Incredible"
   }
   acting {
-    actor {
-      name: "Al Pacino"
-      comments: "Brilliant from Al Pacino"
+    performance {
+      actor {
+        name: "Al Pacino"
+      }
+      rating: "Brilliant"
     }
-    actor {
-      name: "Robert Duvall"
-      comments: "Great to Incredible from Robert Duvall"
+    performance {
+      actor {
+        name: "Robert Duvall"
+      }
+      rating: "Great to Incredible"
     }
-    actor {
-      name: "Diane Keaton"
-      comments: "Great to Incredible from Diane Keaton"
+    performance {
+      actor {
+        name: "Diane Keaton"
+      }
+      rating: "Great to Incredible"
     }
-    actor {
-      name: "Robert De Niro"
-      comments: "Great from Robert De Niro"
+    performance {
+      actor {
+        name: "Robert De Niro"
+      }
+      rating: "Great"
     }
-    cast: "Very Good to Great from the rest of the cast (A true masterclass in acting by the entire cast)"
-    comments: "Great to Incredible Acting"
+    cast {
+      rating: "Very Good to Great"
+      comments: "A true masterclass in acting by the entire cast"
+    }
+    rating: "Great to Incredible"
   }
   story {
     writer {
@@ -34,7 +45,8 @@ review {
     writer {
       name: "Mario Puzo"
     }
-    comments: "Great to Incredible Story (Sequel Part was Incredible to Brilliant and the Prequel part was Good and necessary (though I did not really care for it that much); storytelling was a bit confusing)"
+    rating: "Great to Incredible"
+    comments: "Sequel Part was Incredible to Brilliant and the Prequel part was Good and necessary (though I did not really care for it that much); storytelling was a bit confusing"
   }
   screenplay {
     writer {
@@ -43,21 +55,22 @@ review {
     writer {
       name: "Mario Puzo"
     }
-    comments: "Brilliant Screenplay (Mixed with the nuances of subtly, symbolism, and visual queues)"
+    rating: "Brilliant"
+    comments: "Mixed with the nuances of subtly, symbolism, and visual queues"
   }
   score {
     composer {
       name: "Nino Rota"
     }
-    comments: "Great Score"
+    rating: "Great"
   }
   cinematography {
     cinematographer {
       name: "Gordon Willis"
     }
-    comments: "Incredible Cinematography (Uses Sound/Cinematography/Editing to really show the mood of the scenes and emotions of the characters; a real standout in how it uses the camera to look into the eyes of Michael)"
+    rating: "Incredible"
+    comments: "Uses Sound/Cinematography/Editing to really show the mood of the scenes and emotions of the characters; a real standout in how it uses the camera to look into the eyes of Michael"
   }
-  sound: "Incredible Sound (See Cinematography)"
   editing {
     editor {
       name: "Peter Zinner"
@@ -68,7 +81,12 @@ review {
     editor {
       name: "Richard Marks"
     }
-    comments: "Incredible Editing (See Cinematography)"
+    rating: "Incredible"
+    comments: "See Cinematography"
+  }
+  sound {
+    rating: "Incredible"
+    comments: "See Cinematography"
   }
   plot_structure: "Plot Structure was good"
   pacing: "Pacing was slow and steady; Runtime was long but it is hard to take out/cut any scenes because each scene feels like it is important to the story (Though it could be argued that many of the prequel scenes were not that necessary)"

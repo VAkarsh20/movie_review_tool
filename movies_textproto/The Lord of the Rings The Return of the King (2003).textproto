@@ -5,11 +5,15 @@ review {
     director {
       name: "Peter Jackson"
     }
-    comments: "Incredible Direction (Does an amazing job in getting the most out of his actors and helping drive the story to a conclusion with many different moving parts going on at once)"
+    rating: "Incredible"
+    comments: "Does an amazing job in getting the most out of his actors and helping drive the story to a conclusion with many different moving parts going on at once"
   }
   acting {
-    cast: "Great from the rest of the cast (No one performance stands out as everyone acts as a unit to progress the story forward)"
-    comments: "Great Acting"
+    cast {
+      rating: "Great"
+      comments: "No one performance stands out as everyone acts as a unit to progress the story forward"
+    }
+    rating: "Great"
   }
   story {
     writer {
@@ -21,7 +25,8 @@ review {
     writer {
       name: "Peter Jackson"
     }
-    comments: "Great Story (The movie is incredibly dense in its story material as it builds off of the previous two movies to bring a conclusion to the three part epic; moreover, the parallelism of the of the different storylines help keeps the movie engaging as the audience gets to see how all the storylines converge to a conclusion)"
+    rating: "Great"
+    comments: "The movie is incredibly dense in its story material as it builds off of the previous two movies to bring a conclusion to the three part epic; moreover, the parallelism of the of the different storylines help keeps the movie engaging as the audience gets to see how all the storylines converge to a conclusion"
   }
   screenplay {
     writer {
@@ -33,31 +38,46 @@ review {
     writer {
       name: "Peter Jackson"
     }
-    comments: "Great to Incredible Screenplay (Very similar in style to the first two movies; the dialogue is very tight and flows very well throughout the movie as it helps drive the story forward; the symbolism throughout the movie is also on par with the previous movies (like showing the effects greed can have on corrupting an individual); the humor and wit of the movie is really good this time as well)"
+    rating: "Great to Incredible"
+    comments: "Very similar in style to the first two movies; the dialogue is very tight and flows very well throughout the movie as it helps drive the story forward; the symbolism throughout the movie is also on par with the previous movies (like showing the effects greed can have on corrupting an individual); the humor and wit of the movie is really good this time as well"
   }
   score {
     composer {
       name: "Howard Shore"
     }
-    comments: "Great Score (Carries on from the previous films)"
+    rating: "Great"
+    comments: "Carries on from the previous films"
   }
   cinematography {
     cinematographer {
       name: "Andrew Lesnie"
     }
-    comments: "Great Cinematography (Especially when trying to show how grand the sets and fights were)"
+    rating: "Great"
+    comments: "Especially when trying to show how grand the sets and fights were"
   }
-  sound: "Great Sound"
   editing {
     editor {
       name: "Jamie Selkirk"
     }
-    comments: "Great Editing"
+    rating: "Great"
   }
-  visual_effects: "Pretty Bad Visual Effects (While the actual CGI was very good, the green screen was so obvious in many of the scenes that it was so hard to pay attention to what was going on and take things seriously)"
-  production_design: "Great Production Design"
-  makeup: "Good to Very Good Makeup (It was great for the most part, but the transition makeup for Gollum was pretty bad)"
-  costumes: "Very Good Costumes"
+  sound {
+    rating: "Great"
+  }
+  visual_effects {
+    rating: "Pretty Bad"
+    comments: "While the actual CGI was very good, the green screen was so obvious in many of the scenes that it was so hard to pay attention to what was going on and take things seriously"
+  }
+  production_design {
+    rating: "Great"
+  }
+  makeup {
+    rating: "Good to Very Good"
+    comments: "It was great for the most part, but the transition makeup for Gollum was pretty bad"
+  }
+  costumes {
+    rating: "Very Good"
+  }
   plot_structure: "Plot Structure feels like it is trying to conclude all of the storylines from the previous movies as it serves as the conclusion for this trilogy (and less of a separate film) even though there is somewhat of a plot structure"
   pacing: "Pacing was fast (though slower from last time) as the movie still tries to be very story dense and fit as much as it can in the movie; the epilogue is incredible slow though and could definitely have been cut in half to keep the runtime shorter (overall the movie could have been cut 30 minutes and have had the same feel)"
   climax: "Build to climax was very good as it was more of a build to end all three of the movies; climax was incredible as the helps tie the ends of the entire trilogy as it keeps the audience engaged with what is going on and how the story will end"

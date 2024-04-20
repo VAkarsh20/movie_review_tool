@@ -5,48 +5,66 @@ review {
     director {
       name: "Lena Headey"
     }
-    comments: "Decent Direction (Does a decent job on both a macro and a micro-scale given the low budget and minimal source material; does a decent job telling the story (really lets the actors tell the story and have the twist and the emotional baggage carry the narrative forward); individually does a pretty good job getting the most out of the actors, but the chemistry between actors is not that good as there feels like there is an awkward tension like pause between lines in scenes)"
+    rating: "Decent"
+    comments: "Does a decent job on both a macro and a micro-scale given the low budget and minimal source material; does a decent job telling the story (really lets the actors tell the story and have the twist and the emotional baggage carry the narrative forward); individually does a pretty good job getting the most out of the actors, but the chemistry between actors is not that good as there feels like there is an awkward tension like pause between lines in scenes"
   }
   acting {
-    actor {
-      name: "Michelle Fairley"
-      comments: "Pretty Good from Michelle Fairley (Controls her scenes very well and shows what it means to be lonely)"
+    performance {
+      actor {
+        name: "Michelle Fairley"
+      }
+      rating: "Pretty Good"
+      comments: "Controls her scenes very well and shows what it means to be lonely"
     }
-    actor {
-      name: "Steven Waddington"
-      comments: "Pretty Bad from Steven Waddington (Does not really match the energy of his scene partners and just feels a bit out of place)"
+    performance {
+      actor {
+        name: "Steven Waddington"
+      }
+      rating: "Pretty Bad"
+      comments: "Does not really match the energy of his scene partners and just feels a bit out of place"
     }
-    actor {
-      name: "James Nelson-Joyce"
-      comments: "Decent to Pretty Good from James Nelson-Joyce (Shows a lot of emotion in the performance and works off of Fairley well in their one-on-one scenes (develop chemistry towards the end of the movie))"
+    performance {
+      actor {
+        name: "James Nelson-Joyce"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Shows a lot of emotion in the performance and works off of Fairley well in their one-on-one scenes (develop chemistry towards the end of the movie)"
     }
-    cast: "Pretty Bad from the rest of the cast (Just a lot of inexperience)"
-    comments: "Pretty Bad to Decent Acting"
+    cast {
+      rating: "Pretty Bad"
+      comments: "Just a lot of inexperience"
+    }
+    rating: "Pretty Bad to Decent"
   }
   story {
     writer {
       name: "Lena Headey"
     }
-    comments: "Decent Story (The concept is pretty minimal and just more of an outlet to display the emotions and relationships of the characters; the story construction was decent as it was pretty formulaic and easy to follow where it was going; the flow between sequences was decent as it was evident where each sequence was going to next; the character writing was pretty good as the relationship between the two leads shows a lot in terms of loneliness and separation)"
+    rating: "Decent"
+    comments: "The concept is pretty minimal and just more of an outlet to display the emotions and relationships of the characters; the story construction was decent as it was pretty formulaic and easy to follow where it was going; the flow between sequences was decent as it was evident where each sequence was going to next; the character writing was pretty good as the relationship between the two leads shows a lot in terms of loneliness and separation"
   }
   screenplay {
     writer {
       name: "Lena Headey"
     }
-    comments: "Decent Screenplay (The dialogue was pretty simple (but filled with emotion when it needed to be); the symbolism was somewhat there but the messages and illusions to loneliness and absentee relationships were pretty profound; the foreshadowing was somewhat there (but not a major focal point in the storytelling))"
+    rating: "Decent"
+    comments: "The dialogue was pretty simple (but filled with emotion when it needed to be); the symbolism was somewhat there but the messages and illusions to loneliness and absentee relationships were pretty profound; the foreshadowing was somewhat there (but not a major focal point in the storytelling)"
   }
   cinematography {
     cinematographer {
       name: "Jon Muschamp"
     }
-    comments: "Decent to Pretty Good Cinematography (Helped give it an artsy feel and used well in showing the emotions the characters are experiencing (especially the facial shots))"
+    rating: "Decent to Pretty Good"
+    comments: "Helped give it an artsy feel and used well in showing the emotions the characters are experiencing (especially the facial shots)"
   }
-  sound: "Decent Sound"
   editing {
     editor {
       name: "Eve Doherty"
     }
-    comments: "Decent Editing"
+    rating: "Decent"
+  }
+  sound {
+    rating: "Decent"
   }
   plot_structure: "Plot Structure was pretty simple as each element of the plot is evident and the story builds well to its climax (and follows through with its exposition)"
   pacing: "Pacing was slow (and very similar to other dramas); the runtime could have been cut by like 5-10 minutes if some of the exposition was cut"

@@ -5,52 +5,68 @@ review {
     director {
       name: "James Gunn"
     }
-    comments: "Very Good Direction"
+    rating: "Very Good"
   }
   acting {
-    actor {
-      name: "Margot Robbie"
-      comments: "Very Good to Great from Margot Robbie"
+    performance {
+      actor {
+        name: "Margot Robbie"
+      }
+      rating: "Very Good to Great"
     }
-    actor {
-      name: "Idris Elba"
-      comments: "Very Good to Great from Idris Elba"
+    performance {
+      actor {
+        name: "Idris Elba"
+      }
+      rating: "Very Good to Great"
     }
-    actor {
-      name: "Joel Kinnaman"
-      comments: "Very Good from Joel Kinnaman"
+    performance {
+      actor {
+        name: "Joel Kinnaman"
+      }
+      rating: "Very Good"
     }
-    actor {
-      name: "Sylvester Stallone"
-      comments: "Very Good to Great from Sylvester Stallone (Voice Acting, a little biased though)"
+    performance {
+      actor {
+        name: "Sylvester Stallone"
+      }
+      rating: "Very Good to Great"
+      comments: "Voice Acting, a little biased though"
     }
-    cast: "Good to Very Good from the rest of the cast"
-    comments: "Very Good Acting"
+    cast {
+      rating: "Good to Very Good"
+    }
+    rating: "Very Good"
   }
   story {
     writer {
       name: "James Gunn"
     }
-    comments: "Pretty Good to Good Story (though a bit formulaic by combining pieces from the original movie and Guardians of the Galaxy; also, while I liked that there were misdirections/twists, I felt there were a bit too many by the end)"
+    rating: "Pretty Good to Good"
+    comments: "Though a bit formulaic by combining pieces from the original movie and Guardians of the Galaxy; also, while I liked that there were misdirections/twists, I felt there were a bit too many by the end"
   }
   screenplay {
     writer {
       name: "James Gunn"
     }
-    comments: "Very Good to Great Screenplay (Very Tarantino-Esque as it is serious but is filled with great comedic dialogue to break tension; really liked how they used CGI/effects as a part of the storytelling)"
+    rating: "Very Good to Great"
+    comments: "Very Tarantino-Esque as it is serious but is filled with great comedic dialogue to break tension; really liked how they used CGI/effects as a part of the storytelling"
   }
   score {
     composer {
       name: "John Murphy"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
-  soundtrack: "Good Soundtrack (Though the mix with old and new songs kinda clashed at times for me)"
+  soundtrack {
+    rating: "Good"
+    comments: "Though the mix with old and new songs kinda clashed at times for me"
+  }
   cinematography {
     cinematographer {
       name: "Henry Braham"
     }
-    comments: "Good Cinematography"
+    rating: "Good"
   }
   editing {
     editor {
@@ -59,10 +75,15 @@ review {
     editor {
       name: "Christian Wagner"
     }
-    comments: "Incredible Editing"
+    rating: "Incredible"
   }
-  visual_effects: "Incredible Visual Effects (really liked how they used CGI as a part of the storytelling; liked the visual gore style cause it showed a blend of both cartoony yet realistic)"
-  production_design: "Great Production Design"
+  visual_effects {
+    rating: "Incredible"
+    comments: "Really liked how they used CGI as a part of the storytelling; liked the visual gore style cause it showed a blend of both cartoony yet realistic"
+  }
+  production_design {
+    rating: "Great"
+  }
   pacing: "Pacing was good to very good (a bit quick at the end but nothing terrible)"
   climax: "Build to the climax was very good with the overall climax being very well executed (bit long though); runtime was ok but 10-15 minutes of the movie could have been cut (especially at the end)"
   final_notes: "the major flaws of the movie were that it was extremely formulaic as the storytelling was basically a carbon-copy of Guardians of the Galaxy (with it having a comedic relief character non-human who speaks few words and a ex-pro wrestler being the tough guy) with the story of the original Suicide Squad and the gore of Invincible"

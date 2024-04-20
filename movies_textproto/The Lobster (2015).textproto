@@ -5,47 +5,77 @@ review {
     director {
       name: "Yorgos Lanthimos"
     }
-    comments: "Good Direction (The direction on a macroscale feels similar to his other movies (but in a pretty toned down way); the direction on a microscale is good because he helps establish the tone and the sense of anxiety with the deadpan and pauses in dialogue; the direction of actors is good because everyone's deadpan acting helped establish their character's social anxiety; the storytelling is pretty standard to both narrated movies and Lanthimos' style; he builds tension decently well as a lot of the moments of silence do bring out some anxiety for both the characters and the audience)"
+    rating: "Good"
+    comments: "The direction on a macroscale feels similar to his other movies (but in a pretty toned down way); the direction on a microscale is good because he helps establish the tone and the sense of anxiety with the deadpan and pauses in dialogue; the direction of actors is good because everyone\'s deadpan acting helped establish their character\'s social anxiety; the storytelling is pretty standard to both narrated movies and Lanthimos\' style; he builds tension decently well as a lot of the moments of silence do bring out some anxiety for both the characters and the audience"
   }
   acting {
-    actor {
-      name: "Colin Farrell"
-      comments: "Good to Very Good from Colin Farrell (Embodies someone with social anxiety and loneliness very well as his deadpan demeanor coupled with his intentional pauses help portray his character)"
+    performance {
+      actor {
+        name: "Colin Farrell"
+      }
+      rating: "Good to Very Good"
+      comments: "Embodies someone with social anxiety and loneliness very well as his deadpan demeanor coupled with his intentional pauses help portray his character"
     }
-    actor {
-      name: "Rachel Weisz"
-      comments: "Good from Rachel Weisz (A very experienced actor who has good chemistry with Farrell, while simultaneously shining in her own moments)"
+    performance {
+      actor {
+        name: "Rachel Weisz"
+      }
+      rating: "Good"
+      comments: "A very experienced actor who has good chemistry with Farrell, while simultaneously shining in her own moments"
     }
-    actor {
-      name: "Jessica Barden"
-      comments: "Pretty Good from Jessica Barden (Her deadpan style helps portray her social anxiety and loneliness well)"
+    performance {
+      actor {
+        name: "Jessica Barden"
+      }
+      rating: "Pretty Good"
+      comments: "Her deadpan style helps portray her social anxiety and loneliness well"
     }
-    actor {
-      name: "Olivia Colman"
-      comments: "Pretty Good to Good from Olivia Colman (Shines in her scenes as she establishes a sense of status being the manager of the hotel (something that will be a major key in her next collaboration with Lanthimos))"
+    performance {
+      actor {
+        name: "Olivia Colman"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Shines in her scenes as she establishes a sense of status being the manager of the hotel (something that will be a major key in her next collaboration with Lanthimos)"
     }
-    actor {
-      name: "Ariane Labed"
-      comments: "Pretty Good from Ariane Labed"
+    performance {
+      actor {
+        name: "Ariane Labed"
+      }
+      rating: "Pretty Good"
     }
-    actor {
-      name: "Angeliki Papoulia"
-      comments: "Pretty Good from Angeliki Papoulia (Helps establish a sense of a pseudo-antagonist with her relationship with Farrell)"
+    performance {
+      actor {
+        name: "Angeliki Papoulia"
+      }
+      rating: "Pretty Good"
+      comments: "Helps establish a sense of a pseudo-antagonist with her relationship with Farrell"
     }
-    actor {
-      name: "John C. Reilly"
-      comments: "Pretty Good to Good from John C. Reilly (Shows a good amount of emotion and a sense of desperation in trying to find a partner)"
+    performance {
+      actor {
+        name: "John C. Reilly"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Shows a good amount of emotion and a sense of desperation in trying to find a partner"
     }
-    actor {
-      name: "L\303\251a Seydoux"
-      comments: "Pretty Good from L\303\251a Seydoux (Her monotonous tone helps show how numb she was to loneliness as she was trying to lead her people)"
+    performance {
+      actor {
+        name: "L\303\251a Seydoux"
+      }
+      rating: "Pretty Good"
+      comments: "Her monotonous tone helps show how numb she was to loneliness as she was trying to lead her people"
     }
-    actor {
-      name: "Ben Whishaw"
-      comments: "Pretty Good to Good from Ben Whishaw (Embodies someone with social anxiety, loss, and loneliness with his lack of emotion and awkward social connection)"
+    performance {
+      actor {
+        name: "Ben Whishaw"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Embodies someone with social anxiety, loss, and loneliness with his lack of emotion and awkward social connection"
     }
-    cast: "Pretty Good from the rest of the cast (Everyone did their job in portraying people with social anxiety and loneliness as there is a lack of connection throughout the cast, leading this to be one of the better portrayals of social anxiety and loneliness)"
-    comments: "Pretty Good to Good Acting"
+    cast {
+      rating: "Pretty Good"
+      comments: "Everyone did their job in portraying people with social anxiety and loneliness as there is a lack of connection throughout the cast, leading this to be one of the better portrayals of social anxiety and loneliness"
+    }
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
@@ -54,7 +84,8 @@ review {
     writer {
       name: "Yorgos Lanthimos"
     }
-    comments: "Pretty Good Story (The concept is a very unique take on social anxiety and loneliness; the plot structure is kinda an issue as the movie focuses way too much on its exposition that it makes the rising action/the second half feel like it is dragging; the runtime could have been cut by like 20 minutes as the movie spends too long at the hotel; flow between sequences is intentionally rigid as it helps portray this disconnect the characters had with each other; character writing is good as it is a pretty accurate portrayal of social anxiety and loneliness, and how far people will go to ease their pain (especially with the main character))"
+    rating: "Pretty Good"
+    comments: "The concept is a very unique take on social anxiety and loneliness; the plot structure is kinda an issue as the movie focuses way too much on its exposition that it makes the rising action/the second half feel like it is dragging; the runtime could have been cut by like 20 minutes as the movie spends too long at the hotel; flow between sequences is intentionally rigid as it helps portray this disconnect the characters had with each other; character writing is good as it is a pretty accurate portrayal of social anxiety and loneliness, and how far people will go to ease their pain (especially with the main character)"
   }
   screenplay {
     writer {
@@ -63,23 +94,33 @@ review {
     writer {
       name: "Yorgos Lanthimos"
     }
-    comments: "Very Good Screenplay (The dialogue is pretty witty and well written as it helps portray the conflicts people are facing; the humor is very deadpan, and written well as it presented a lot of unintentional shocks and laughs; the symbolism is very prominent throughout the movie as the whole movie can be thought of as a symbol for social anxiety, loneliness, and the quest to ease this pain; the foreshadowing is good as it helps lay roots that will impact the character's actions towards the end)"
+    rating: "Very Good"
+    comments: "The dialogue is pretty witty and well written as it helps portray the conflicts people are facing; the humor is very deadpan, and written well as it presented a lot of unintentional shocks and laughs; the symbolism is very prominent throughout the movie as the whole movie can be thought of as a symbol for social anxiety, loneliness, and the quest to ease this pain; the foreshadowing is good as it helps lay roots that will impact the character\'s actions towards the end"
   }
   cinematography {
     cinematographer {
       name: "Thimios Bakatakis"
     }
-    comments: "Good Cinematography (A bit more toned down than Lanthimos' other movies, but still pretty European and auter-esque)"
+    rating: "Good"
+    comments: "A bit more toned down than Lanthimos\' other movies, but still pretty European and auter-esque"
   }
-  sound: "Pretty Good Sound"
   editing {
     editor {
       name: "Yorgos Mavropsaridis"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  visual_effects: "Good Visual Effects (Helps portray the animals)"
-  production_design: "Good Production Design (Helps portray the hotel and the forest)"
+  sound {
+    rating: "Pretty Good"
+  }
+  visual_effects {
+    rating: "Good"
+    comments: "Helps portray the animals"
+  }
+  production_design {
+    rating: "Good"
+    comments: "Helps portray the hotel and the forest"
+  }
   pacing: "Pacing is incredibly slow as its deadpan style makes the audience feel uncomfortable the more the movie goes on"
   climax: "Climax is decent as it presents critical choices for the characters to make"
   tone: "Tone was a deadpan take by Lanthimos"

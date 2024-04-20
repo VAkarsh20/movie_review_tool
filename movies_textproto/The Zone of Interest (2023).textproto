@@ -5,56 +5,80 @@ review {
     director {
       name: "Jonathan Glazer"
     }
-    comments: "Pretty Good Direction (The direction on a macroscale was good as he did a good job in building the world of this dream house next to Auschwitz (and showing the juxtaposition between the two); the direction on a microscale was decent as he does move the plot forward (but in a very experimental/slice-of-life way); the direction of actors is pretty good as not one performance feels like it outshines another, rather everyone is a part in capturing what is going on; the storytelling was kinda an issue as there isn't too much plot and the slice of life style got annoying/boring at times, the experimental non-sequitur shots were very traditional to his style (but I still didn't like them); he builds tension very well as he uses sound, score, cinematography, and the subject matter to portray the atrocities of the holocaust (and this was especially done well during the night vision scenes))"
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale was good as he did a good job in building the world of this dream house next to Auschwitz (and showing the juxtaposition between the two); the direction on a microscale was decent as he does move the plot forward (but in a very experimental/slice-of-life way); the direction of actors is pretty good as not one performance feels like it outshines another, rather everyone is a part in capturing what is going on; the storytelling was kinda an issue as there isn\'t too much plot and the slice of life style got annoying/boring at times, the experimental non-sequitur shots were very traditional to his style (but I still didn\'t like them); he builds tension very well as he uses sound, score, cinematography, and the subject matter to portray the atrocities of the holocaust (and this was especially done well during the night vision scenes)"
   }
   acting {
-    actor {
-      name: "Christian Friedel"
-      comments: "Pretty Good from Christian Friedel (He was really a subject rather than a character as we see the SS's perspective told from his eyes/scenes)"
+    performance {
+      actor {
+        name: "Christian Friedel"
+      }
+      rating: "Pretty Good"
+      comments: "He was really a subject rather than a character as we see the SS\'s perspective told from his eyes/scenes"
     }
-    actor {
-      name: "Sandra H\303\274ller"
-      comments: "Pretty Good to Good from Sandra H\303\274ller (Did a pretty good job in showing how attached she was to the house and how oblivious she was to what is going on next door)"
+    performance {
+      actor {
+        name: "Sandra H\303\274ller"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Did a pretty good job in showing how attached she was to the house and how oblivious she was to what is going on next door"
     }
-    cast: "Pretty Good from the rest of the cast (Every actor did their part in being a subject in the movie (rather than a character))"
-    comments: "Pretty Good Acting"
+    cast {
+      rating: "Pretty Good"
+      comments: "Every actor did their part in being a subject in the movie (rather than a character)"
+    }
+    rating: "Pretty Good"
   }
   story {
     writer {
       name: "Jonathan Glazer"
     }
-    comments: "Decent Story (The concept was very interesting as it helped show the lack of empathy the subjects had as they tried to build this dream house next to one of the worst concentration camps in the Holocaust; the plot structure was simple and was constructed that way (though the climax did have is issues), the runtime was kinda a mess because a lot of the scenes feel like they were stalling and the movie ends abruptly because the movie is only an hour and 45 minutes; flow between sequences is very stiff as the experimental style really prevented it from being smooth (especially during the experimental scenes); the character writing was decent as you saw who had empathy for what is going and who is completely oblivious to the torture they were committing)"
+    rating: "Decent"
+    comments: "The concept was very interesting as it helped show the lack of empathy the subjects had as they tried to build this dream house next to one of the worst concentration camps in the Holocaust; the plot structure was simple and was constructed that way (though the climax did have is issues), the runtime was kinda a mess because a lot of the scenes feel like they were stalling and the movie ends abruptly because the movie is only an hour and 45 minutes; flow between sequences is very stiff as the experimental style really prevented it from being smooth (especially during the experimental scenes); the character writing was decent as you saw who had empathy for what is going and who is completely oblivious to the torture they were committing"
   }
   screenplay {
     writer {
       name: "Jonathan Glazer"
     }
-    comments: "Decent Screenplay (The dialogue was very minimal and got really on-the-nose at points; the symbolism was incredibly profound as it relies a lot on juxtaposition to show how the subjects are oblivious to the horrors of Auschwitz by building this dream house next door (though it got really repetitive/forced at times), I respect them not showing any of the atrocities of Auschwitz as it helps symbolize how oblivious the family was to what was going on; the foreshadowing was kinda nonexistent are there really wasn't any plot to foreshadow (plus it is a historical drama so they could only do too much))"
+    rating: "Decent"
+    comments: "The dialogue was very minimal and got really on-the-nose at points; the symbolism was incredibly profound as it relies a lot on juxtaposition to show how the subjects are oblivious to the horrors of Auschwitz by building this dream house next door (though it got really repetitive/forced at times), I respect them not showing any of the atrocities of Auschwitz as it helps symbolize how oblivious the family was to what was going on; the foreshadowing was kinda nonexistent are there really wasn\'t any plot to foreshadow (plus it is a historical drama so they could only do too much)"
   }
   score {
     composer {
       name: "Mica Levi"
     }
-    comments: "Decent to Pretty Good Score (Used well in helping build tension, but nonexistent otherwise)"
+    rating: "Decent to Pretty Good"
+    comments: "Used well in helping build tension, but nonexistent otherwise"
   }
   cinematography {
     cinematographer {
       name: "\305\201ukasz \305\273al"
     }
-    comments: "Decent Cinematography (Relies heavily on wide-angle shots to tell the movie (so cinematography, for the most part, is a stylistic choice rather than a benefit); the night vision shots were kinda out of place and a bit too experimental for my liking, though the symbolism from these scenes was good in portraying some humanity in the world (and how it backfires))"
+    rating: "Decent"
+    comments: "Relies heavily on wide-angle shots to tell the movie (so cinematography, for the most part, is a stylistic choice rather than a benefit); the night vision shots were kinda out of place and a bit too experimental for my liking, though the symbolism from these scenes was good in portraying some humanity in the world (and how it backfires)"
   }
-  sound: "Great Sound (The horrors from the camp are dialed in at the right volume as it is so quiet yet so deafening at the same time)"
   editing {
     editor {
       name: "Paul Watts"
     }
-    comments: "Bad Editing (Just aids to this experimental style that I did not like because it took away from the flow and just felt very awkward at times)"
+    rating: "Bad"
+    comments: "Just aids to this experimental style that I did not like because it took away from the flow and just felt very awkward at times"
   }
-  production_design: "Very Good Production Design (A key component for the story as it shows the juxtaposition between the house and the camp right next door)"
-  costumes: "Pretty Good Costumes (Helped with establishing the time and subject matter)"
+  sound {
+    rating: "Great"
+    comments: "The horrors from the camp are dialed in at the right volume as it is so quiet yet so deafening at the same time"
+  }
+  production_design {
+    rating: "Very Good"
+    comments: "A key component for the story as it shows the juxtaposition between the house and the camp right next door"
+  }
+  costumes {
+    rating: "Pretty Good"
+    comments: "Helped with establishing the time and subject matter"
+  }
   pacing: "Pacing is incredibly slow (so much that it is just kinda painful to go through the plot, which kinda helps with the message)"
   climax: "Climax was incredibly anticlimactic as it tried hard to be symbolic but ended up just being a bit too experimental and caused the movie to end abruptly"
-  tone: "Tone is incredibly similar to 'Under the Skin' in how experimental it was (but it still had themes from the time period/subject)"
+  tone: "Tone is incredibly similar to \'Under the Skin\' in how experimental it was (but it still had themes from the time period/subject)"
   final_notes: "This is basically Juxtaposition: The Movie"
   overall: "Overall, a movie that, as a symbol, is profound since it uses juxtaposition well to get its message across, but, as a watchable movie, it has way too much of an experimental style for my liking"
 }

@@ -5,19 +5,29 @@ review {
     director {
       name: "Wes Anderson"
     }
-    comments: "Good Direction (Anderson does a very good job carrying out his macro-scale elements as it really feels like a doll-house (with this being meta given how the story is told) and he uses his very low-budget vfx style to give it a unique/cartoony feel; His storytelling is still very unnecessarily convoluted but it is still decent enough to follow; he gets more out of his actors this time but it still feels pretty bland overall)"
+    rating: "Good"
+    comments: "Anderson does a very good job carrying out his macro-scale elements as it really feels like a doll-house (with this being meta given how the story is told) and he uses his very low-budget vfx style to give it a unique/cartoony feel; His storytelling is still very unnecessarily convoluted but it is still decent enough to follow; he gets more out of his actors this time but it still feels pretty bland overall"
   }
   acting {
-    actor {
-      name: "Ralph Fiennes"
-      comments: "Good to Very Good from Ralph Fiennes (The central figure of the movie as he does a good job of playing off the other characters very well)"
+    performance {
+      actor {
+        name: "Ralph Fiennes"
+      }
+      rating: "Good to Very Good"
+      comments: "The central figure of the movie as he does a good job of playing off the other characters very well"
     }
-    actor {
-      name: "Tony Revolori"
-      comments: "Pretty Good from Tony Revolori (Works off of Fiennes well and holds his own throughout the movie)"
+    performance {
+      actor {
+        name: "Tony Revolori"
+      }
+      rating: "Pretty Good"
+      comments: "Works off of Fiennes well and holds his own throughout the movie"
     }
-    cast: "Pretty Good from the rest of the cast (Bland overall given its very Wes Anderson in style but they hold their own when called upon)"
-    comments: "Pretty Good to Good Acting"
+    cast {
+      rating: "Pretty Good"
+      comments: "Bland overall given its very Wes Anderson in style but they hold their own when called upon"
+    }
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
@@ -26,34 +36,44 @@ review {
     writer {
       name: "Hugo Guinness"
     }
-    comments: "Good Story (The layered story-telling was a bit unnecessary but the movie as a whole did have an interesting story that was explained well)"
+    rating: "Good"
+    comments: "The layered story-telling was a bit unnecessary but the movie as a whole did have an interesting story that was explained well"
   }
   screenplay {
     writer {
       name: "Wes Anderson"
     }
-    comments: "Good Screenplay (The dialogue was a bit on the quirky/bland side but overall was pretty interesting and flowed alright, the jokes were very non sequitur and meta (similiar to other Wes Anderson movies) but they did hit sometimes, symbolism was pretty prevelant throughout and foreshadowing was was a nice touch at points)"
+    rating: "Good"
+    comments: "The dialogue was a bit on the quirky/bland side but overall was pretty interesting and flowed alright, the jokes were very non sequitur and meta (similiar to other Wes Anderson movies) but they did hit sometimes, symbolism was pretty prevelant throughout and foreshadowing was was a nice touch at points"
   }
   score {
     composer {
       name: "Alexandre Desplat"
     }
-    comments: "Decent to Pretty Good Score (Pretty simple baroque score that is used decently well throughout the movie to establish the Wes Anderson tone)"
+    rating: "Decent to Pretty Good"
+    comments: "Pretty simple baroque score that is used decently well throughout the movie to establish the Wes Anderson tone"
   }
   cinematography {
     cinematographer {
       name: "Robert Yeoman"
     }
-    comments: "Good to Very Good Cinematography (Was Wes Anderson to a Tee from the amount of shots/angle changes, though the grand shots were shot well)"
+    rating: "Good to Very Good"
+    comments: "Was Wes Anderson to a Tee from the amount of shots/angle changes, though the grand shots were shot well"
   }
-  sound: "Pretty Good Sound"
   editing {
     editor {
       name: "Barney Pilling"
     }
-    comments: "Good Editing (Helped give it a very story-book cartoony feel (especially with the fast cuts between scenes))"
+    rating: "Good"
+    comments: "Helped give it a very story-book cartoony feel (especially with the fast cuts between scenes)"
   }
-  production_design: "Very Good Production Design (Very Wes Anderson as it made the movie overall feel like it was in a fantasy/story book world)"
+  sound {
+    rating: "Pretty Good"
+  }
+  production_design {
+    rating: "Very Good"
+    comments: "Very Wes Anderson as it made the movie overall feel like it was in a fantasy/story book world"
+  }
   plot_structure: "Plot Structure was pretty good for the most part as even though there were 4 layers of story they only really used the last two layers progress it (and did a good job overall laying out the different plot elements); this layered approach however felt very uncessary as the top two layers of storytelling were completely irrelevant as they only really have like 5 minutes of total runtime and are used at the beginning and end"
   pacing: "Pacing was a bit on the fast side as the narration really makes the movie feel faster than it should be (10-15 minutes towards the end could have helped to slow the pace down)"
   climax: "Climax was executed well and was somewhat entertaining"

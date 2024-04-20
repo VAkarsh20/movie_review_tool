@@ -5,27 +5,41 @@ review {
     director {
       name: "Rawson Marshall Thurber"
     }
-    comments: "Pretty Good Direction (comedic elements were executed well and it was pretty similar in feel to that of comedies from that time-frame)"
+    rating: "Pretty Good"
+    comments: "Comedic elements were executed well and it was pretty similar in feel to that of comedies from that time-frame"
   }
   acting {
-    actor {
-      name: "Jennifer Aniston"
-      comments: "Good to Very Good from Jennifer Aniston (really showed her experience in comedic acting from this role and did a good job being a presence to work off of for the other actors)"
+    performance {
+      actor {
+        name: "Jennifer Aniston"
+      }
+      rating: "Good to Very Good"
+      comments: "Really showed her experience in comedic acting from this role and did a good job being a presence to work off of for the other actors"
     }
-    actor {
-      name: "Jason Sudeikis"
-      comments: "Good to Very Good from Jason Sudeikis (really commanded all the scenes he was in and was the lightning rod for others to work on him)"
+    performance {
+      actor {
+        name: "Jason Sudeikis"
+      }
+      rating: "Good to Very Good"
+      comments: "Really commanded all the scenes he was in and was the lightning rod for others to work on him"
     }
-    actor {
-      name: "Emma Roberts"
-      comments: "Good from Emma Roberts"
+    performance {
+      actor {
+        name: "Emma Roberts"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Will Poulter"
-      comments: "Good from Will Poulter"
+    performance {
+      actor {
+        name: "Will Poulter"
+      }
+      rating: "Good"
     }
-    cast: "Pretty Good to Good from the rest of the cast (given what their roles in the movie were and the type of movie it is)"
-    comments: "Good Acting"
+    cast {
+      rating: "Pretty Good to Good"
+      comments: "Given what their roles in the movie were and the type of movie it is"
+    }
+    rating: "Good"
   }
   story {
     writer {
@@ -34,7 +48,8 @@ review {
     writer {
       name: "Steve Faber"
     }
-    comments: "Decent to Pretty Good Story (At its core the movie is pretty surface level in that its a fake family trying to smuggle drugs, but the overall story is funny and good to watch all the flawed characters grow in the process)"
+    rating: "Decent to Pretty Good"
+    comments: "At its core the movie is pretty surface level in that its a fake family trying to smuggle drugs, but the overall story is funny and good to watch all the flawed characters grow in the process"
   }
   screenplay {
     writer {
@@ -49,12 +64,14 @@ review {
     writer {
       name: "John Morris"
     }
-    comments: "Good Screenplay (Very funny movie that has some quotable lines/moments)"
+    rating: "Good"
+    comments: "Very funny movie that has some quotable lines/moments"
   }
   plot_structure: "Plot Structure was very nice and laid out well"
   pacing: "Pacing was good as it kept a consistent pace for the most part (though it does drag towards the end (so cutting like 5-10 minutes towards the end would have really helped))"
   climax: "Build to climax was very typical of movies from this time; climax was good (A generic mix of 2010s action with comedic elements)"
   tone: "Tone was set very nicely as you know it is a comedy from the way they play off the genre"
+  final_notes: ""
   overall: "Overall, a funny movie with good performances that is a fun watch that is not very serious, though the flawed characters growing from their journey is a nice touch"
 }
 release_year: 2013

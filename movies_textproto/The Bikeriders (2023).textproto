@@ -5,62 +5,93 @@ review {
     director {
       name: "Jeff Nichols"
     }
-    comments: "Good Direction (Controls everything very well on a macro-scale as the bike-riding and gang-affiliated scenes are very well choreographed and the most engaging parts of the movie (and this is only aided by the cinematography and editing); does a pretty good job on controlling the mirco-scale scenes (though they can get a bit repetitive); the storytelling is a little too similar to Goodfellas as it uses the first half to be a slice of life of the gang and the second half to show its descent into chaos; directs his actors well as the gang as it helps make the characters interesting)"
+    rating: "Good"
+    comments: "Controls everything very well on a macro-scale as the bike-riding and gang-affiliated scenes are very well choreographed and the most engaging parts of the movie (and this is only aided by the cinematography and editing); does a pretty good job on controlling the mirco-scale scenes (though they can get a bit repetitive); the storytelling is a little too similar to Goodfellas as it uses the first half to be a slice of life of the gang and the second half to show its descent into chaos; directs his actors well as the gang as it helps make the characters interesting"
   }
   acting {
-    actor {
-      name: "Jodie Comer"
-      comments: "Very Good from Jodie Comer (Really embodied the character and took it as far as the material could take her; was the true protagonist of the movie as we saw the world through her eyes)"
+    performance {
+      actor {
+        name: "Jodie Comer"
+      }
+      rating: "Very Good"
+      comments: "Really embodied the character and took it as far as the material could take her; was the true protagonist of the movie as we saw the world through her eyes"
     }
-    actor {
-      name: "Austin Butler"
-      comments: "Pretty Good to Good from Austin Butler (Was as good as he could be given his character isn\'t given that much to work with because of how mysterious and quiet he is)"
+    performance {
+      actor {
+        name: "Austin Butler"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Was as good as he could be given his character isn\'t given that much to work with because of how mysterious and quiet he is"
     }
-    actor {
-      name: "Tom Hardy"
-      comments: "Good from Tom Hardy (Used a lot of experience playing a hardened guy to carry his performance; has good chemistry with Austin Bulter)"
+    performance {
+      actor {
+        name: "Tom Hardy"
+      }
+      rating: "Good"
+      comments: "Used a lot of experience playing a hardened guy to carry his performance; has good chemistry with Austin Bulter"
     }
-    actor {
-      name: "Michael Shannon"
-      comments: "Pretty Good to Good from Michael Shannon (Isn\'t given that much screentime but makes the most of what he is given)"
+    performance {
+      actor {
+        name: "Michael Shannon"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Isn\'t given that much screentime but makes the most of what he is given"
     }
-    cast: "Pretty Good from the rest of the cast (Feels as if they are midwestern versions of Goodfellas or in the mob)"
-    comments: "Good Acting"
+    cast {
+      rating: "Pretty Good"
+      comments: "Feels as if they are midwestern versions of Goodfellas or in the mob"
+    }
+    rating: "Good"
   }
   story {
     writer {
       name: "Jeff Nichols"
     }
-    comments: "Good Story (The concept was very interesting as Nichols uses the source material well to create a very engaging story; The story construction felt very slice of life as the first hour was really about getting to know the people in the gang (which put a lot of emphasis on the end to show the downfall), but this presented some issues as not all the characters were that interesting so it dragged down the movie; the flow between sequences was not the best as the slice of life moments really don\'t build to anything and the flow in the second half feels kinda forced and rough; the character writing was very good as he wrote Kathy very well in being a caring partner trying to leave the culture and Benny as this ominous figure that has a sense of charisma)"
+    rating: "Good"
+    comments: "The concept was very interesting as Nichols uses the source material well to create a very engaging story; The story construction felt very slice of life as the first hour was really about getting to know the people in the gang (which put a lot of emphasis on the end to show the downfall), but this presented some issues as not all the characters were that interesting so it dragged down the movie; the flow between sequences was not the best as the slice of life moments really don\'t build to anything and the flow in the second half feels kinda forced and rough; the character writing was very good as he wrote Kathy very well in being a caring partner trying to leave the culture and Benny as this ominous figure that has a sense of charisma"
   }
   screenplay {
     writer {
       name: "Jeff Nichols"
     }
-    comments: "Good Screenplay (The dialogue was pretty simple as it complements how the people in that culture and time spoke, a good amount of the dialogue was actually said in real life/from the recordings; the humor felt inspired by the time period and had some flavors of Goodfellas with how jokes were spread around the gang; there was minimal symbolism (could see the clash between the new and the old guard with the use of cars), but the overall symbol of the fall of the golden generation of biker gangs was present; the foreshadowing was pretty overt)"
+    rating: "Good"
+    comments: "The dialogue was pretty simple as it complements how the people in that culture and time spoke, a good amount of the dialogue was actually said in real life/from the recordings; the humor felt inspired by the time period and had some flavors of Goodfellas with how jokes were spread around the gang; there was minimal symbolism (could see the clash between the new and the old guard with the use of cars), but the overall symbol of the fall of the golden generation of biker gangs was present; the foreshadowing was pretty overt"
   }
   score {
     composer {
       name: "David Wingo"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
-  soundtrack: "Pretty Good Soundtrack (helped with setting the tone)"
+  soundtrack {
+    rating: "Pretty Good"
+    comments: "Helped with setting the tone"
+  }
   cinematography {
     cinematographer {
       name: "Adam Stone"
     }
-    comments: "Very Good Cinematography (Felt very polished and was used very well in the biking scenes)"
+    rating: "Very Good"
+    comments: "Felt very polished and was used very well in the biking scenes"
   }
-  sound: "Great Sound (Felt very crisp and made the motorcycle scenes more memorable and engaging)"
   editing {
     editor {
       name: "Julie Monroe"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  production_design: "Pretty Good Production Design (Did a Pretty Good job at emulating the Midwest in that time period but did do that much research at emulating \'Chicago\')"
-  costumes: "Good Costumes (Enjoyed the biker jackets and the idea of colors as it is used as a good plot point)"
+  sound {
+    rating: "Great"
+    comments: "Felt very crisp and made the motorcycle scenes more memorable and engaging"
+  }
+  production_design {
+    rating: "Pretty Good"
+    comments: "Did a Pretty Good job at emulating the Midwest in that time period but did do that much research at emulating \'Chicago\'"
+  }
+  costumes {
+    rating: "Good"
+    comments: "Enjoyed the biker jackets and the idea of colors as it is used as a good plot point"
+  }
   plot_structure: "Plot Structure was very similar to Goodfellas as the first hour is meant to act as a \'slice of life\' into the biker gang and the second half is really about the downfall of the gang (but because of this the movie feels like it is dragging from the first half); about 10-15 minutes of the first half could have probably have been cut because of how repetitive it is"
   pacing: "Pacing was different for each part of the movie (the first half was pretty slow in establishing the characters and a bit too fast in the second half)"
   climax: "Climax was executed pretty well and shows the downfall of the golden generation in the gang (with it being engaging in certain scenes); the exposition does not do the best in carrying the momentum created from the climax but does a decent job at ending the movie"

@@ -5,52 +5,60 @@ review {
     director {
       name: "Damien Chazelle"
     }
-    comments: "Incredible Direction"
+    rating: "Incredible"
   }
   acting {
-    actor {
-      name: "Miles Teller"
-      comments: "Great from Miles Teller"
+    performance {
+      actor {
+        name: "Miles Teller"
+      }
+      rating: "Great"
     }
-    actor {
-      name: "J. K. Simmons"
-      comments: "Brilliant from J. K. Simmons"
+    performance {
+      actor {
+        name: "J. K. Simmons"
+      }
+      rating: "Brilliant"
     }
-    cast: "Good from the rest of the cast"
-    comments: "Very Good to Great Acting"
+    cast {
+      rating: "Good"
+    }
+    rating: "Very Good to Great"
   }
   story {
     writer {
       name: "Damien Chazelle"
     }
-    comments: "Brilliant Story"
+    rating: "Brilliant"
   }
   screenplay {
     writer {
       name: "Damien Chazelle"
     }
-    comments: "Brilliant Screenplay"
+    rating: "Brilliant"
   }
   score {
     composer {
       name: "Justin Hurwitz"
     }
-    comments: "Incredible Score"
+    rating: "Incredible"
   }
   cinematography {
     cinematographer {
       name: "Sharone Meir"
     }
-    comments: "Great Cinematography (Brilliant use of lighting to establish mood and themes)"
+    rating: "Great"
+    comments: "Brilliant use of lighting to establish mood and themes"
   }
   editing {
     editor {
       name: "Tom Cross"
     }
-    comments: "Incredible Editing"
+    rating: "Incredible"
   }
   pacing: "Pacing is Great to Incredible as it gives it a very artsy feel that slowly builds to a brilliant climax"
   climax: "climax is brilliant as it is filled with symbolism till the very last shot as JKs mouth is covered showing his recognition is all that Andrew needed to think he is one of the greats"
+  final_notes: ""
   overall: "Overall, one of, if not the best, movies to show the obsession of an artist that wants to make it to the top, stopping at nothing to get there, as they are pushed past their mental breaking point to achieve their goal"
 }
 release_year: 2014

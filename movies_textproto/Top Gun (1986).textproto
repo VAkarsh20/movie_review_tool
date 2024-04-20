@@ -5,27 +5,42 @@ review {
     director {
       name: "Tony Scott"
     }
-    comments: "Pretty Good Direction (Directed the action scenes pretty well but all the other scenes just reeked of the 80s and its style)"
+    rating: "Pretty Good"
+    comments: "Directed the action scenes pretty well but all the other scenes just reeked of the 80s and its style"
   }
   acting {
-    actor {
-      name: "Tom Cruise"
-      comments: "Good to Very Good from Tom Cruise (Played the hot head pretty well and really made it known the presence he had in every scene, but showed his inexperience when it came to different scenes (very Tom Cruise esque performance overall))"
+    performance {
+      actor {
+        name: "Tom Cruise"
+      }
+      rating: "Good to Very Good"
+      comments: "Played the hot head pretty well and really made it known the presence he had in every scene, but showed his inexperience when it came to different scenes (very Tom Cruise esque performance overall)"
     }
-    actor {
-      name: "Kelly McGillis"
-      comments: "Good from Kelly McGillis (Played the love interest trope well and had some depth to her character, but was pretty limited in how well she could show how much she loved her counterpart)"
+    performance {
+      actor {
+        name: "Kelly McGillis"
+      }
+      rating: "Good"
+      comments: "Played the love interest trope well and had some depth to her character, but was pretty limited in how well she could show how much she loved her counterpart"
     }
-    actor {
-      name: "Val Kilmer"
-      comments: "Good from Val Kilmer (Played the rival character trope the best he could, but was very limited in how much emotion he could show overall)"
+    performance {
+      actor {
+        name: "Val Kilmer"
+      }
+      rating: "Good"
+      comments: "Played the rival character trope the best he could, but was very limited in how much emotion he could show overall"
     }
-    actor {
-      name: "Anthony Edwards"
-      comments: "Good from Anthony Edwards (Played the comic relief sidekick well and showed the more moral/cautious side that Maverick needed to go to as he tried to pull him away from being being reckless, but had some really questionable delivery of lines with some of his material (which may not necessarily be his fault))"
+    performance {
+      actor {
+        name: "Anthony Edwards"
+      }
+      rating: "Good"
+      comments: "Played the comic relief sidekick well and showed the more moral/cautious side that Maverick needed to go to as he tried to pull him away from being being reckless, but had some really questionable delivery of lines with some of his material (which may not necessarily be his fault)"
     }
-    cast: "Decent to Pretty Good from the rest of the cast"
-    comments: "Pretty Good Acting"
+    cast {
+      rating: "Decent to Pretty Good"
+    }
+    rating: "Pretty Good"
   }
   story {
     writer {
@@ -34,7 +49,8 @@ review {
     writer {
       name: "Jack Epps Jr."
     }
-    comments: "Pretty Good Story (Was pretty standard for the first 2/3 of the movie and was very predictable (especially how 80s it was), but the moments building up to the climax were a bit new and something that I did not expect, though the ending was very predictable in the end; did do a good job in calling back different elements of the story throughout the movie; also the movie does do a good job at character writing for the fighter pilots as you do care for them)"
+    rating: "Pretty Good"
+    comments: "Was pretty standard for the first 2/3 of the movie and was very predictable (especially how 80s it was), but the moments building up to the climax were a bit new and something that I did not expect, though the ending was very predictable in the end; did do a good job in calling back different elements of the story throughout the movie; also the movie does do a good job at character writing for the fighter pilots as you do care for them"
   }
   screenplay {
     writer {
@@ -43,22 +59,27 @@ review {
     writer {
       name: "Jack Epps Jr."
     }
-    comments: "Pretty Good Screenplay (The actual dialogue was very 80s and pretty basic/surface level, but there were iconic lines and moments that I did enjoy; also, the minor use of symbolism was a nice touch for writing that was overall pretty surface level)"
+    rating: "Pretty Good"
+    comments: "The actual dialogue was very 80s and pretty basic/surface level, but there were iconic lines and moments that I did enjoy; also, the minor use of symbolism was a nice touch for writing that was overall pretty surface level"
   }
   score {
     composer {
       name: "Harold Faltermeyer"
     }
-    comments: "Great Score (See soundtrack comments)"
+    rating: "Great"
+    comments: "See soundtrack comments"
   }
-  soundtrack: "Great Soundtrack (The actual songs/score was Great to Incredible but the use of it was the problem as it felt like the kept overusing the same songs/themes throughout the movie (to the point were it got annoying))"
+  soundtrack {
+    rating: "Great"
+    comments: "The actual songs/score was Great to Incredible but the use of it was the problem as it felt like the kept overusing the same songs/themes throughout the movie (to the point were it got annoying)"
+  }
   cinematography {
     cinematographer {
       name: "Jeffrey L. Kimball"
     }
-    comments: "Very Good to Great Cinematography (especially in the flight scenes and given the time)"
+    rating: "Very Good to Great"
+    comments: "Especially in the flight scenes and given the time"
   }
-  sound: "Very Good Sound"
   editing {
     editor {
       name: "Chris Lebenzon"
@@ -66,14 +87,23 @@ review {
     editor {
       name: "Billy Weber"
     }
-    comments: "Very Good Editing"
+    rating: "Very Good"
   }
-  visual_effects: "Very Good Visual Effects"
-  costumes: "Good Costumes (especially the fighter-pilot attire)"
+  sound {
+    rating: "Very Good"
+  }
+  visual_effects {
+    rating: "Very Good"
+  }
+  costumes {
+    rating: "Good"
+    comments: "Especially the fighter-pilot attire"
+  }
   plot_structure: "Plot Structure was very generic and pretty boilerplate with most movies of the 80s (everything but the building to the climax was very predictable and even that was pretty standard once you knew the direction they were going)"
   pacing: "Pacing was good (the issue was that the movie just jumps at different points in the plot (which makes the audience think that 20 minutes could have really been added to bridge these gaps in plot))"
   climax: "Build to climax was the most unique part of the movie as it is good as it follows the standard buildup to a fight that many 80s movies do; climax was well done as it was a dogfight that the movie really builds to throughout the movie/what the audience really wanted to see; the execution of the scene was well done"
   tone: "Tone was incredibly 80s and that was what the movie was kinda known for (a fun movie about fighter pilots who have friendships and relationships with the people around them)"
+  final_notes: ""
   overall: "Overall, an iconic movie that is a fun watch but really does reek of the 80s with its writing and acting as the audience has to get past the pretty simple plot to see the moments that make Top Gun a famous movie for its time"
 }
 release_year: 1986

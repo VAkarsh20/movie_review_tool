@@ -5,43 +5,71 @@ review {
     director {
       name: "Cameron Crowe"
     }
-    comments: "Bad Direction (The direction on a macroscale feels incredibly late 00s/early 10s with its feel-good tone and its animal montages; the direction on a microscale is very bad as it never felt like there was a focus or goal with any of the scenes and the interpersonal scenes were more laughable than deep; the direction of actors is very bad because most of the line delivery in the movie is off, and it never felt like any chemistry was built in the cast; the storytelling was very similar to other Cameron Crowe movies (which meant it was very feel-good and predictable), and had a lot of flavors of other family movies from the time-period; there was one moment in the movie where they try to build tension, but it is very short and anti-climatic that it made me question what was the purpose of the scene)"
+    rating: "Bad"
+    comments: "The direction on a macroscale feels incredibly late 00s/early 10s with its feel-good tone and its animal montages; the direction on a microscale is very bad as it never felt like there was a focus or goal with any of the scenes and the interpersonal scenes were more laughable than deep; the direction of actors is very bad because most of the line delivery in the movie is off, and it never felt like any chemistry was built in the cast; the storytelling was very similar to other Cameron Crowe movies (which meant it was very feel-good and predictable), and had a lot of flavors of other family movies from the time-period; there was one moment in the movie where they try to build tension, but it is very short and anti-climatic that it made me question what was the purpose of the scene"
   }
   acting {
-    actor {
-      name: "Matt Damon"
-      comments: "Bad from Matt Damon (Had very bad line-delivery throughout the entire movie, felt comedic when he was supposed to be dramatic, and never built chemistry with any of the cast)"
+    performance {
+      actor {
+        name: "Matt Damon"
+      }
+      rating: "Bad"
+      comments: "Had very bad line-delivery throughout the entire movie, felt comedic when he was supposed to be dramatic, and never built chemistry with any of the cast"
     }
-    actor {
-      name: "Scarlett Johansson"
-      comments: "Bad from Scarlett Johansson (Her line delivery and tone throughout the movie just feels off-beat)"
+    performance {
+      actor {
+        name: "Scarlett Johansson"
+      }
+      rating: "Bad"
+      comments: "Her line delivery and tone throughout the movie just feels off-beat"
     }
-    actor {
-      name: "Thomas Haden Church"
-      comments: "Pretty Bad from Thomas Haden Church (Plays a similar character to the one he played in 'Sideways' (but does not have chemistry with Matt Damon as he had with Paul Giamatti))"
+    performance {
+      actor {
+        name: "Thomas Haden Church"
+      }
+      rating: "Pretty Bad"
+      comments: "Plays a similar character to the one he played in \'Sideways\' (but does not have chemistry with Matt Damon as he had with Paul Giamatti)"
     }
-    actor {
-      name: "Colin Ford"
-      comments: "Decent from Colin Ford (Child actor who has some good moments throughout the movie)"
+    performance {
+      actor {
+        name: "Colin Ford"
+      }
+      rating: "Decent"
+      comments: "Child actor who has some good moments throughout the movie"
     }
-    actor {
-      name: "Elle Fanning"
-      comments: "Decent from Elle Fanning (Child actor who develops some chemistry with Ford)"
+    performance {
+      actor {
+        name: "Elle Fanning"
+      }
+      rating: "Decent"
+      comments: "Child actor who develops some chemistry with Ford"
     }
-    actor {
-      name: "Maggie Elizabeth Jones"
-      comments: "Decent from Maggie Elizabeth Jones (Child actor who portrays the innocence of the situation)"
+    performance {
+      actor {
+        name: "Maggie Elizabeth Jones"
+      }
+      rating: "Decent"
+      comments: "Child actor who portrays the innocence of the situation"
     }
-    actor {
-      name: "Patrick Fugit"
-      comments: "Pretty Bad from Patrick Fugit (Just feels like he is in this movie because he worked with Crowe in the past)"
+    performance {
+      actor {
+        name: "Patrick Fugit"
+      }
+      rating: "Pretty Bad"
+      comments: "Just feels like he is in this movie because he worked with Crowe in the past"
     }
-    actor {
-      name: "John Michael Higgins"
-      comments: "Decent from John Michael Higgins (The only adult performance that didn't feel terrible because he portrays the character's antagonistic qualities well)"
+    performance {
+      actor {
+        name: "John Michael Higgins"
+      }
+      rating: "Decent"
+      comments: "The only adult performance that didn\'t feel terrible because he portrays the character\'s antagonistic qualities well"
     }
-    cast: "Bad from the rest of the cast (Does not include the child actors; it feels like every performance was off-beat as the line delivery and inflection never made sense)"
-    comments: "Bad to Pretty Bad Acting"
+    cast {
+      rating: "Bad"
+      comments: "Does not include the child actors; it feels like every performance was off-beat as the line delivery and inflection never made sense"
+    }
+    rating: "Bad to Pretty Bad"
   }
   story {
     writer {
@@ -50,7 +78,8 @@ review {
     writer {
       name: "Cameron Crowe"
     }
-    comments: "Very Bad Story (The concept was so dumb (even if it was based on a true story), and to make things worse, they made the movie incredibly feel good that it sucked any ounce of realism; the plot structure is incredibly formulaic and predictable (they could've even cut 30 minutes out of the movie and it would've been the same thing), the b-storyline about the protagonist grieving over his wife feels very shallow and under-developed; the flow between shots and sequences feels incredibly rigid with a forced plot; the character writing is boilerplate with no deviation (making their character arcs incredibly predictable))"
+    rating: "Very Bad"
+    comments: "The concept was so dumb (even if it was based on a true story), and to make things worse, they made the movie incredibly feel good that it sucked any ounce of realism; the plot structure is incredibly formulaic and predictable (they could\'ve even cut 30 minutes out of the movie and it would\'ve been the same thing), the b-storyline about the protagonist grieving over his wife feels very shallow and under-developed; the flow between shots and sequences feels incredibly rigid with a forced plot; the character writing is boilerplate with no deviation (making their character arcs incredibly predictable)"
   }
   screenplay {
     writer {
@@ -59,33 +88,45 @@ review {
     writer {
       name: "Cameron Crowe"
     }
-    comments: "Bad Screenplay (The dialogue is dumb and unnatural (so bad that it was just funny to comprehend how this was the final draft); the humor is just so forced/filled with dad humor (and was not funny at all); the symbolism was so overt that it was laughable (with the movie basically being a giant symbol for acceptance in the mourning process); the foreshadowing in the movie just made the movie even more predictable)"
+    rating: "Bad"
+    comments: "The dialogue is dumb and unnatural (so bad that it was just funny to comprehend how this was the final draft); the humor is just so forced/filled with dad humor (and was not funny at all); the symbolism was so overt that it was laughable (with the movie basically being a giant symbol for acceptance in the mourning process); the foreshadowing in the movie just made the movie even more predictable"
   }
   score {
     composer {
       name: "J\303\263nsi"
     }
-    comments: "Pretty Bad Score (Just feels like royalty-free music throughout the movie)"
+    rating: "Pretty Bad"
+    comments: "Just feels like royalty-free music throughout the movie"
   }
   cinematography {
     cinematographer {
       name: "Rodrigo Prieto"
     }
-    comments: "Pretty Good Cinematography (Even though there are some generic shots, the wildlife shots are captured well)"
+    rating: "Pretty Good"
+    comments: "Even though there are some generic shots, the wildlife shots are captured well"
   }
-  sound: "Decent Sound"
   editing {
     editor {
       name: "Mark Livolsi"
     }
-    comments: "Pretty Bad Editing (Feels very choppy and typical to movies from the period)"
+    rating: "Pretty Bad"
+    comments: "Feels very choppy and typical to movies from the period"
   }
-  visual_effects: "Pretty Good Visual Effects (More about the practical effects because I did respect them using real animals because they were well trained and were an integral part of the movie)"
-  production_design: "Decent Production Design (They bought the zoo)"
-  pacing: "Pacing is very slow as the movie just feels like it drags through its predictable plot (they could've cut 30-40 minutes out and it would've been the same movie)"
+  sound {
+    rating: "Decent"
+  }
+  visual_effects {
+    rating: "Pretty Good"
+    comments: "More about the practical effects because I did respect them using real animals because they were well trained and were an integral part of the movie"
+  }
+  production_design {
+    rating: "Decent"
+    comments: "They bought the zoo"
+  }
+  pacing: "Pacing is very slow as the movie just feels like it drags through its predictable plot (they could\'ve cut 30-40 minutes out and it would\'ve been the same movie)"
   climax: "Climax is incredibly anti-climatic because of how short and predictable it is"
   tone: "Tone is incredibly feel-good/family movie (with many flavors to other Cameron Crowe movies)"
-  final_notes: "This movie is just so memable that it is worth a watch (especially the fight about 'The Dream')"
+  final_notes: "This movie is just so memable that it is worth a watch (especially the fight about \'The Dream\')"
   overall: "Overall, an incredibly formulaic movie because it feels like Cameron Crowe put no effort into directing or writing this movie and instead tried to make the most feel-good/family movie ever, but it is still watchable because of how memable it is"
 }
 release_year: 2011

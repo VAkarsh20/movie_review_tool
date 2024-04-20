@@ -5,11 +5,15 @@ review {
     director {
       name: "Peter Jackson"
     }
-    comments: "Great to Incredible Direction (Really moves the story forward and gets the best out of his actors as it drives the audience to be enticed with what happens next throughout the story)"
+    rating: "Great to Incredible"
+    comments: "Really moves the story forward and gets the best out of his actors as it drives the audience to be enticed with what happens next throughout the story"
   }
   acting {
-    cast: "Great from the rest of the cast (No one performance stands out as everyone acts as a unit to progress the story forward)"
-    comments: "Great Acting"
+    cast {
+      rating: "Great"
+      comments: "No one performance stands out as everyone acts as a unit to progress the story forward"
+    }
+    rating: "Great"
   }
   story {
     writer {
@@ -21,7 +25,8 @@ review {
     writer {
       name: "Peter Jackson"
     }
-    comments: "Great to Incredible Story (really captivating on seeing how the journey progresses as we see the Fellowship go on this quest to Mordor, also the different elements of the story are very important as they comeback to play a role in the film)"
+    rating: "Great to Incredible"
+    comments: "Really captivating on seeing how the journey progresses as we see the Fellowship go on this quest to Mordor, also the different elements of the story are very important as they comeback to play a role in the film"
   }
   screenplay {
     writer {
@@ -33,31 +38,45 @@ review {
     writer {
       name: "Peter Jackson"
     }
-    comments: "Great Screenplay (While the very \"Middle English\"-esque text is hard to follow sometimes, the actual dialogue is very well written as we see the director use it well to help tell the story (especially in the narration parts); also, the symbolism throughout the movie (specifically, about a boy who is trying to grow up and be a hero trope))"
+    rating: "Great"
+    comments: "While the very \"Middle English\"-esque text is hard to follow sometimes, the actual dialogue is very well written as we see the director use it well to help tell the story (especially in the narration parts); also, the symbolism throughout the movie (specifically, about a boy who is trying to grow up and be a hero trope)"
   }
   score {
     composer {
       name: "Howard Shore"
     }
-    comments: "Great Score (with memorable themes)"
+    rating: "Great"
+    comments: "With memorable themes"
   }
   cinematography {
     cinematographer {
       name: "Andrew Lesnie"
     }
-    comments: "Pretty Good Cinematography (While for the most part it was very good at capturing the scenes, I found the slow-shaky shots incredibly annoying)"
+    rating: "Pretty Good"
+    comments: "While for the most part it was very good at capturing the scenes, I found the slow-shaky shots incredibly annoying"
   }
-  sound: "Very Good Sound"
   editing {
     editor {
       name: "John Gilbert"
     }
-    comments: "Very Good Editing"
+    rating: "Very Good"
   }
-  visual_effects: "Great Visual Effects (While there were some hiccups, the CGI was incredible for its time)"
-  production_design: "Great Production Design"
-  makeup: "Great Makeup"
-  costumes: "Very Good Costumes"
+  sound {
+    rating: "Very Good"
+  }
+  visual_effects {
+    rating: "Great"
+    comments: "While there were some hiccups, the CGI was incredible for its time"
+  }
+  production_design {
+    rating: "Great"
+  }
+  makeup {
+    rating: "Great"
+  }
+  costumes {
+    rating: "Very Good"
+  }
   plot_structure: "Plot Structure was well laid out as it is about a 1/3 of a full-length story (and treats it as such with all the elements of a solo movie, yet still taking into account there is more to go)"
   pacing: "Pacing was very fast (especially for a movie that is 3 hours long) as it felt like they were trying to fit so much in (which does make sense given how dense the books are)"
   climax: "Build to climax was good as we get to see them embark on one arc of their journey to Mordor; climax was well executed as we get to see the sacrifices the characters have to make to go on their quest"

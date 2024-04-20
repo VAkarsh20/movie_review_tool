@@ -5,23 +5,36 @@ review {
     director {
       name: "Nikolaj Arcel"
     }
-    comments: "Very Good Direction (Does a great job on a macro-scale as some of the scenes look stunning as he effectively uses cinematography and editing to capture their grand nature (like in the palaces and especially in the farming scenes); does a very good job on a micro-scale as he develops sequences very well; gets a lot out of his actors as they all work well with Mikkelson to drive the story forward; the biggest drawback is the storytelling as it is kinda predictable with what is going to happy next (especially with the conflict between the protagonist and the antagonist as its pretty generic and cliche with how its told))"
+    rating: "Very Good"
+    comments: "Does a great job on a macro-scale as some of the scenes look stunning as he effectively uses cinematography and editing to capture their grand nature (like in the palaces and especially in the farming scenes); does a very good job on a micro-scale as he develops sequences very well; gets a lot out of his actors as they all work well with Mikkelson to drive the story forward; the biggest drawback is the storytelling as it is kinda predictable with what is going to happy next (especially with the conflict between the protagonist and the antagonist as its pretty generic and cliche with how its told)"
   }
   acting {
-    actor {
-      name: "Mads Mikkelsen"
-      comments: "Very Good to Great from Mads Mikkelsen (Has somewhat of a grit to this performance that helps show who his character is; he controls every scene he is in and really lifts the performances around him as he acts as someone to work off of; shows his experience and why he is one of the most renowned Danish actors in cinema history)"
+    performance {
+      actor {
+        name: "Mads Mikkelsen"
+      }
+      rating: "Very Good to Great"
+      comments: "Has somewhat of a grit to this performance that helps show who his character is; he controls every scene he is in and really lifts the performances around him as he acts as someone to work off of; shows his experience and why he is one of the most renowned Danish actors in cinema history"
     }
-    actor {
-      name: "Amanda Collin"
-      comments: "Very Good from Amanda Collin (Very Good female lead to Mikkelsen as the two have great chemistry, but she also has moments where she shines on her own (especially in the climax); really embodies someone who is of the working class and looking for revenge)"
+    performance {
+      actor {
+        name: "Amanda Collin"
+      }
+      rating: "Very Good"
+      comments: "Very Good female lead to Mikkelsen as the two have great chemistry, but she also has moments where she shines on her own (especially in the climax); really embodies someone who is of the working class and looking for revenge"
     }
-    actor {
-      name: "Simon Bennebjerg"
-      comments: "Good from Simon Bennebjerg (Plays the pompous prick role well as he does his best effort to make sure everyone hates him (though this makes his performance a bit one-sided as he is written pretty shallowly))"
+    performance {
+      actor {
+        name: "Simon Bennebjerg"
+      }
+      rating: "Good"
+      comments: "Plays the pompous prick role well as he does his best effort to make sure everyone hates him (though this makes his performance a bit one-sided as he is written pretty shallowly)"
     }
-    cast: "Good from the rest of the cast (does their job helping move the story forward and working with Mikkelsen to make the scenes more interesting)"
-    comments: "Good to Very Good Acting"
+    cast {
+      rating: "Good"
+      comments: "Does their job helping move the story forward and working with Mikkelsen to make the scenes more interesting"
+    }
+    rating: "Good to Very Good"
   }
   story {
     writer {
@@ -30,7 +43,8 @@ review {
     writer {
       name: "Anders Thomas Jensen"
     }
-    comments: "Pretty Good to Good Story (The concept uses a baseline source material that is very interesting and draws your attention because its based on a true story; The story construction is kinda an issue because the conflict between the protagonist and the antagonist is pretty shallow since it just follows many cliches about the power trip of royalty, and this affects the plot as it has to construct itself around this major conflict (although the overarching storyline between the protagonist and the king and the protagonist developing relationships with the female lead and child are written well); the flow of sequences is fine and does a good job in making the story interesting; the character writing for the protagonist, the female lead, and child are good as their grit present them as more well-rounded characters trying to achieve something, but the writing for the other characters (especially the antagonist) is very shallow that you do not really care for them towards the end of the movie)"
+    rating: "Pretty Good to Good"
+    comments: "The concept uses a baseline source material that is very interesting and draws your attention because its based on a true story; The story construction is kinda an issue because the conflict between the protagonist and the antagonist is pretty shallow since it just follows many cliches about the power trip of royalty, and this affects the plot as it has to construct itself around this major conflict (although the overarching storyline between the protagonist and the king and the protagonist developing relationships with the female lead and child are written well); the flow of sequences is fine and does a good job in making the story interesting; the character writing for the protagonist, the female lead, and child are good as their grit present them as more well-rounded characters trying to achieve something, but the writing for the other characters (especially the antagonist) is very shallow that you do not really care for them towards the end of the movie"
   }
   screenplay {
     writer {
@@ -39,30 +53,46 @@ review {
     writer {
       name: "Anders Thomas Jensen"
     }
-    comments: "Good Screenplay (The dialogue is well written and comes off very polished (staying true to 1700s vernacular); the humor is used decently well to lift the tension in some of the traumatic scenes (especially with the antagonist to show how twisted he is); the use of symbolism is decently present, but the message just feels like it isn\342\200\231t clearly conveyed with the direction they chose in the end; the foreshadowing is pretty good)"
+    rating: "Good"
+    comments: "The dialogue is well written and comes off very polished (staying true to 1700s vernacular); the humor is used decently well to lift the tension in some of the traumatic scenes (especially with the antagonist to show how twisted he is); the use of symbolism is decently present, but the message just feels like it isn\342\200\231t clearly conveyed with the direction they chose in the end; the foreshadowing is pretty good"
   }
   score {
     composer {
       name: "Dan Romer"
     }
-    comments: "Very Good Score (Felt really similar to Joker and used well to set the tone)"
+    rating: "Very Good"
+    comments: "Felt really similar to Joker and used well to set the tone"
   }
   cinematography {
     cinematographer {
       name: "Rasmus Videb\303\246k"
     }
-    comments: "Great Cinematography (Really polished and helps show the vastness of the world and the emotions of the characters)"
+    rating: "Great"
+    comments: "Really polished and helps show the vastness of the world and the emotions of the characters"
   }
-  sound: "Very Good Sound (Felt very crisp and helped with building tension)"
   editing {
     editor {
       name: "Olivier Bugge Coutt\303\251"
     }
-    comments: "Very Good Editing (Used well in conjunction with the Cinematography to deliver a polished product)"
+    rating: "Very Good"
+    comments: "Used well in conjunction with the Cinematography to deliver a polished product"
   }
-  visual_effects: "Very Good Visual Effects (The use of practical effects makes the move stunning (especially the use of fire and blood))"
-  production_design: "Great Production Design (Helps with setting the time period as they build these grand palace sets as a dichotomy to the rural landscapes to show the separation of the classes)"
-  costumes: "Very Good Costumes (Helps with setting the time period and showing the juxtaposition between the upper and lower classes)"
+  sound {
+    rating: "Very Good"
+    comments: "Felt very crisp and helped with building tension"
+  }
+  visual_effects {
+    rating: "Very Good"
+    comments: "The use of practical effects makes the move stunning (especially the use of fire and blood)"
+  }
+  production_design {
+    rating: "Great"
+    comments: "Helps with setting the time period as they build these grand palace sets as a dichotomy to the rural landscapes to show the separation of the classes"
+  }
+  costumes {
+    rating: "Very Good"
+    comments: "Helps with setting the time period and showing the juxtaposition between the upper and lower classes"
+  }
   plot_structure: "Plot Structure was fine for the most part as all the overarching plot elements were there and built on each other in a standard fashion; the main issue is the conflict between the protagonist and antagonist is just a bit too cliche and forced that it has a major impact on how the rising action develops (but it does help with the climax though); the exposition just drags a lot and is very unnecessary/forced (could have been removed and the movie would have been the same)"
   pacing: "Pacing was a bit on the slower side as it followed the pace of other period dramas (but it does move faster than most movies in its genre)"
   climax: "Climax was very good itself and executed well (especially with Collin\342\200\231s performance); the exposition just really dampers this climax as it ruins the momentum built up by a well-executed sequence"

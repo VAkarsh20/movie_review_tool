@@ -5,37 +5,44 @@ review {
     director {
       name: "Sarah Polley"
     }
-    comments: "Decent Direction (Does a good job on the micro-level as the discussion scenes were well executed as the actors were able to flow off each other very nicely, but she falters on a macro scale as there is a lot of issues with storytelling and setting the tone (as it comes off as very boring))"
+    rating: "Decent"
+    comments: "Does a good job on the micro-level as the discussion scenes were well executed as the actors were able to flow off each other very nicely, but she falters on a macro scale as there is a lot of issues with storytelling and setting the tone (as it comes off as very boring)"
   }
   acting {
-    cast: "Good from the rest of the cast (The cast as a whole plays off each other very well in order to discuss the conflict and share their their differing opinions)"
-    comments: "Good Acting"
+    cast {
+      rating: "Good"
+      comments: "The cast as a whole plays off each other very well in order to discuss the conflict and share their their differing opinions"
+    }
+    rating: "Good"
   }
   story {
     writer {
       name: "Sarah Polley"
     }
-    comments: "Bad Story (While the actual conflict is interesting, the plot feels very poorly put together as it feels like nothing really happens in this movie as it is just the characters debating the same topic in multiple scenes)"
+    rating: "Bad"
+    comments: "While the actual conflict is interesting, the plot feels very poorly put together as it feels like nothing really happens in this movie as it is just the characters debating the same topic in multiple scenes"
   }
   screenplay {
     writer {
       name: "Sarah Polley"
     }
-    comments: "Pretty Bad Screenplay (The dialogue is not that captivating (at least outside of the discussion scenes) and the symbols and foreshadowing were a bit shallow in its presentation)"
+    rating: "Pretty Bad"
+    comments: "The dialogue is not that captivating (at least outside of the discussion scenes) and the symbols and foreshadowing were a bit shallow in its presentation"
   }
   score {
     composer {
       name: "Hildur Gu\303\260nad\303\263ttir"
     }
-    comments: "Decent Score (Present)"
+    rating: "Decent"
+    comments: "Present"
   }
   cinematography {
     cinematographer {
       name: "Luc Montpellier"
     }
-    comments: "Pretty Good Cinematography (Felt very Artist/A24 esque with the filter they used, but does a pretty good job in showing the darkness the characters are going through (despite the constant sunlight))"
+    rating: "Pretty Good"
+    comments: "Felt very Artist/A24 esque with the filter they used, but does a pretty good job in showing the darkness the characters are going through (despite the constant sunlight)"
   }
-  sound: "Decent Sound"
   editing {
     editor {
       name: "Christopher Donaldson"
@@ -43,9 +50,14 @@ review {
     editor {
       name: "Roslyn Kalloo"
     }
-    comments: "Decent Editing"
+    rating: "Decent"
   }
-  costumes: "Pretty Good Costumes"
+  sound {
+    rating: "Decent"
+  }
+  costumes {
+    rating: "Pretty Good"
+  }
   plot_structure: "Plot Structure was very poorly put together as it really does not feel like they build to the conflict at all in the movie as it feels like the same three scenes throughout the movie"
   pacing: "Pacing was incredibly slow as there really is not that much plot to progress the story forward"
   climax: "Climax was not captivating at all as it is just declared how they are going to combat the conflict and it is very rushed in showing this resolution"

@@ -5,65 +5,102 @@ review {
     director {
       name: "Paul King"
     }
-    comments: "Pretty Bad to Decent Direction (The direction on a grand scale was decent as he does a good job in building the magical world, but does not do as good of a job on the musical numbers as they were very cookie cutter and nothing felt spectacular; The direction on a microscale was decent as the interpersonal/dramatic scenes were pretty formulaic to other musicals; similarly, the storytelling felt very similar to other comedy musicals; the direction of actors was pretty good as no performance felt off (though the vocal performances were pretty generic as nobody stood out))"
+    rating: "Pretty Bad to Decent"
+    comments: "The direction on a grand scale was decent as he does a good job in building the magical world, but does not do as good of a job on the musical numbers as they were very cookie cutter and nothing felt spectacular; The direction on a microscale was decent as the interpersonal/dramatic scenes were pretty formulaic to other musicals; similarly, the storytelling felt very similar to other comedy musicals; the direction of actors was pretty good as no performance felt off (though the vocal performances were pretty generic as nobody stood out)"
   }
   acting {
-    actor {
-      name: "Timoth\303\251e Chalamet"
-      comments: "Pretty Bad to Decent from Timoth\303\251e Chalamet (Does a decent job holding his own as the lead but he is trying way too hard to be a \'Jim Carrey\' like character (and it is very obvious in scenes), his singing voice is pretty generic and feels like a typical NYU student)"
+    performance {
+      actor {
+        name: "Timoth\303\251e Chalamet"
+      }
+      rating: "Pretty Bad to Decent"
+      comments: "Does a decent job holding his own as the lead but he is trying way too hard to be a \'Jim Carrey\' like character (and it is very obvious in scenes), his singing voice is pretty generic and feels like a typical NYU student"
     }
-    actor {
-      name: "Calah Lane"
-      comments: "Pretty Good from Calah Lane (Holds her own pretty well and works off of Chalament nicely, does a pretty good job in the musical numbers)"
+    performance {
+      actor {
+        name: "Calah Lane"
+      }
+      rating: "Pretty Good"
+      comments: "Holds her own pretty well and works off of Chalament nicely, does a pretty good job in the musical numbers"
     }
-    actor {
-      name: "Keegan-Michael Key"
-      comments: "Pretty Good from Keegan-Michael Key (Basically just plays a mix of his characters from Key & Peele)"
+    performance {
+      actor {
+        name: "Keegan-Michael Key"
+      }
+      rating: "Pretty Good"
+      comments: "Basically just plays a mix of his characters from Key & Peele"
     }
-    actor {
-      name: "Paterson Joseph"
-      comments: "Decent to Pretty Good from Paterson Joseph (Does a decent job at playing a musical villain)"
+    performance {
+      actor {
+        name: "Paterson Joseph"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Does a decent job at playing a musical villain"
     }
-    actor {
-      name: "Matt Lucas"
-      comments: "Decent from Matt Lucas"
+    performance {
+      actor {
+        name: "Matt Lucas"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Mathew Baynton"
-      comments: "Decent from Mathew Baynton"
+    performance {
+      actor {
+        name: "Mathew Baynton"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Sally Hawkins"
-      comments: "Decent from Sally Hawkins (Barely in the movie)"
+    performance {
+      actor {
+        name: "Sally Hawkins"
+      }
+      rating: "Decent"
+      comments: "Barely in the movie"
     }
-    actor {
-      name: "Rowan Atkinson"
-      comments: "Pretty Good from Rowan Atkinson (Mr. Bean)"
+    performance {
+      actor {
+        name: "Rowan Atkinson"
+      }
+      rating: "Pretty Good"
+      comments: "Mr. Bean"
     }
-    actor {
-      name: "Jim Carter"
-      comments: "Decent from Jim Carter"
+    performance {
+      actor {
+        name: "Jim Carter"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Tom Davis"
-      comments: "Pretty Good from Tom Davis"
+    performance {
+      actor {
+        name: "Tom Davis"
+      }
+      rating: "Pretty Good"
     }
-    actor {
-      name: "Olivia Colman"
-      comments: "Pretty Good to Good from Olivia Colman (The best acting in the movie as you can tell she had to play more from experience with being a villain for the story)"
+    performance {
+      actor {
+        name: "Olivia Colman"
+      }
+      rating: "Pretty Good to Good"
+      comments: "The best acting in the movie as you can tell she had to play more from experience with being a villain for the story"
     }
-    actor {
-      name: "Hugh Grant"
-      comments: "Pretty Good from Hugh Grant (Does a good job for what he is called to do, but it just feels like this role is a cash grab for him)"
+    performance {
+      actor {
+        name: "Hugh Grant"
+      }
+      rating: "Pretty Good"
+      comments: "Does a good job for what he is called to do, but it just feels like this role is a cash grab for him"
     }
-    cast: "Pretty Bad from the rest of the cast (Just generic musical background actors, the singing also was pretty generic as nobody stood out)"
-    comments: "Decent Acting"
+    cast {
+      rating: "Pretty Bad"
+      comments: "Just generic musical background actors, the singing also was pretty generic as nobody stood out"
+    }
+    rating: "Decent"
   }
   story {
     writer {
       name: "Paul King"
     }
-    comments: "Pretty Bad Story (The concept was interesting as Willy Wonka\'s mysterious backstory was a question in the original story (but this intrigue is not replenished as his origin is pretty predictable and not that interesting); the story construction was fine as follows the comedy musical template; the flow between sequences is not that fluid as there is a musical number almost every 5 minutes (which hurts the plot from moving forward); the character writing is pretty shallow as they don\'t add anything to Wonka\'s character and the other characters are pretty cookie-cutter/predictable)"
+    rating: "Pretty Bad"
+    comments: "The concept was interesting as Willy Wonka\'s mysterious backstory was a question in the original story (but this intrigue is not replenished as his origin is pretty predictable and not that interesting); the story construction was fine as follows the comedy musical template; the flow between sequences is not that fluid as there is a musical number almost every 5 minutes (which hurts the plot from moving forward); the character writing is pretty shallow as they don\'t add anything to Wonka\'s character and the other characters are pretty cookie-cutter/predictable"
   }
   screenplay {
     writer {
@@ -72,7 +109,8 @@ review {
     writer {
       name: "Paul King"
     }
-    comments: "Bad Screenplay (The dialogue was incredibly corny and generic for a comedy musical; the humor was very predictable; the symbolism was pretty shallow; the foreshadowing was too overt to where the movie was incredibly predictable (which is mostly because the movie feels templated))"
+    rating: "Bad"
+    comments: "The dialogue was incredibly corny and generic for a comedy musical; the humor was very predictable; the symbolism was pretty shallow; the foreshadowing was too overt to where the movie was incredibly predictable (which is mostly because the movie feels templated)"
   }
   score {
     composer {
@@ -81,26 +119,43 @@ review {
     composer {
       name: "Neil Hannon"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
-  soundtrack: "Bad Soundtrack (Super generic songs that were not that catchy or well performed)"
+  soundtrack {
+    rating: "Bad"
+    comments: "Super generic songs that were not that catchy or well performed"
+  }
   cinematography {
     cinematographer {
       name: "Chung-hoon Chung"
     }
-    comments: "Good Cinematography (Helped with displaying how big and magical the world is)"
+    rating: "Good"
+    comments: "Helped with displaying how big and magical the world is"
   }
-  sound: "Pretty Good Sound"
   editing {
     editor {
       name: "Mark Everson"
     }
-    comments: "Pretty Good Editing"
+    rating: "Pretty Good"
   }
-  visual_effects: "Good Visual Effects (Used well with showing how vast and magical the world is (but the CGI of animals was very noticeable))"
-  production_design: "Pretty Good Production Design (Helped with creating the world (but most of it felt like CGI/Green Screens))"
-  makeup: "Pretty Good Makeup"
-  costumes: "Good to Very Good Costumes (Made Wonka\'s costume pay homage to Gene Wilder\'s)"
+  sound {
+    rating: "Pretty Good"
+  }
+  visual_effects {
+    rating: "Good"
+    comments: "Used well with showing how vast and magical the world is (but the CGI of animals was very noticeable)"
+  }
+  production_design {
+    rating: "Pretty Good"
+    comments: "Helped with creating the world (but most of it felt like CGI/Green Screens)"
+  }
+  makeup {
+    rating: "Pretty Good"
+  }
+  costumes {
+    rating: "Good to Very Good"
+    comments: "Made Wonka\'s costume pay homage to Gene Wilder\'s"
+  }
   plot_structure: "Plot Structure was very formulaic as it followed the musical template"
   pacing: "Pacing was all over the place as the constant interjection of musical numbers hurt the flow for the movie (especially given it a sub 2-hour movie)"
   climax: "Climax was pretty predictable and pretty underwhelming"

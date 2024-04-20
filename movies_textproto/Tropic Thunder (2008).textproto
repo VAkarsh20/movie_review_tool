@@ -5,15 +5,19 @@ review {
     director {
       name: "Ben Stiller"
     }
-    comments: "Great Direction"
+    rating: "Great"
   }
   acting {
-    actor {
-      name: "Robert Downey Jr."
-      comments: "Incredible from Robert Downey Jr."
+    performance {
+      actor {
+        name: "Robert Downey Jr."
+      }
+      rating: "Incredible"
     }
-    cast: "Very Good from the rest of the cast"
-    comments: "Very Good to Great Acting"
+    cast {
+      rating: "Very Good"
+    }
+    rating: "Very Good to Great"
   }
   story {
     writer {
@@ -22,7 +26,8 @@ review {
     writer {
       name: "Justin Theroux"
     }
-    comments: "Great Story (Extremely funny story that is effective satire to a core)"
+    rating: "Great"
+    comments: "Extremely funny story that is effective satire to a core"
   }
   screenplay {
     writer {
@@ -34,11 +39,13 @@ review {
     writer {
       name: "Etan Cohen"
     }
-    comments: "Very Good Screenplay (Filled with jokes that are reeks of 00s esque comedy but still very funny and quotable)"
+    rating: "Very Good"
+    comments: "Filled with jokes that are reeks of 00s esque comedy but still very funny and quotable"
   }
   plot_structure: "Plot Structure was simple with very cheesy plot cliches yet still effective at mocking hollywood and oscars"
   pacing: "Pacing was good"
   climax: "Build to climax was very good"
+  final_notes: ""
   overall: "Overall, a movie that is iconic for its edgy humor and star studded cast that was able to mock and make fun of the oscars so much that they could build an oscar campaign for RDJ, and actually get him a nomination (something legendary in itself)"
 }
 release_year: 2008

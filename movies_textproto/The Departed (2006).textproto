@@ -5,39 +5,47 @@ review {
     director {
       name: "Martin Scorsese"
     }
-    comments: "Incredible Direction"
+    rating: "Incredible"
   }
   acting {
-    cast: "Incredible from the rest of the cast (The cast as a whole (standouts being Leonardo DiCaprio (in his 2nd best role behind Wolf), Mark Walburg, and Jack Nicholson (Even though its pretty over-the-top)))"
-    comments: "Incredible Acting"
+    cast {
+      rating: "Incredible"
+      comments: "The cast as a whole (standouts being Leonardo DiCaprio (in his 2nd best role behind Wolf), Mark Walburg, and Jack Nicholson (Even though its pretty over-the-top))"
+    }
+    rating: "Incredible"
   }
   story {
     writer {
       name: "William Monahan"
     }
-    comments: "Incredible Story (Filled with symbols of the dark nature of the subject manner (the quest of the rat))"
+    rating: "Incredible"
+    comments: "Filled with symbols of the dark nature of the subject manner (the quest of the rat)"
   }
   screenplay {
     writer {
       name: "William Monahan"
     }
-    comments: "Incredible Screenplay (Mixes humor and trauma extremely effectively)"
+    rating: "Incredible"
+    comments: "Mixes humor and trauma extremely effectively"
   }
   cinematography {
     cinematographer {
       name: "Michael Ballhaus"
     }
-    comments: "Decent Cinematography (Not a huge fan of the still cuts edited with the shifting cinematography)"
+    rating: "Decent"
+    comments: "Not a huge fan of the still cuts edited with the shifting cinematography"
   }
   editing {
     editor {
       name: "Thelma Schoonmaker"
     }
-    comments: "Decent Editing (See cinematography)"
+    rating: "Decent"
+    comments: "See cinematography"
   }
   plot_structure: "Plot Structure was good for the most part (but the beginning was a bit hard to understand (but can get past this after the first 20-30 mins))"
   pacing: "Pacing was generally good but there are some slower parts meant for character development (not a huge problem); The movie was a bit on the longer side but there really isn\'t that many scenes that could be cut (so it gets a pass)"
   climax: "Build to the climax is incredible with the ending being extremely suspenseful and unpredictable"
+  final_notes: ""
   overall: "Overall, a movie that is a must watch, even with its small faults, as it uses Boston wit and humor laced into a story and screenplay to show the effects trauma and crime can have on people stuck in the rat race as the push through through what is ethical, in what is a Martin Scorsese masterpiece"
 }
 release_year: 2006

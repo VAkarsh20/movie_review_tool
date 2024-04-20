@@ -5,29 +5,34 @@ review {
     director {
       name: "William Friedkin"
     }
-    comments: "Great Direction"
+    rating: "Great"
   }
   acting {
-    cast: "Great from the rest of the cast (By the entire cast (Standouts were Miller, Burstyn, and Blair))"
-    comments: "Great Acting"
+    cast {
+      rating: "Great"
+      comments: "By the entire cast (Standouts were Miller, Burstyn, and Blair)"
+    }
+    rating: "Great"
   }
   story {
     writer {
       name: "William Peter Blatty"
     }
-    comments: "Very Good to Great Story"
+    rating: "Very Good to Great"
   }
   screenplay {
     writer {
       name: "William Peter Blatty"
     }
-    comments: "Great Screenplay (Filled with symbolism on Crisis of Faith)"
+    rating: "Great"
+    comments: "Filled with symbolism on Crisis of Faith"
   }
   score {
     composer {
       name: "Jack Nitzsche"
     }
-    comments: "Good Score (Iconic Theme but the lack of a score at most parts made the film more boring)"
+    rating: "Good"
+    comments: "Iconic Theme but the lack of a score at most parts made the film more boring"
   }
   editing {
     editor {
@@ -42,10 +47,16 @@ review {
     editor {
       name: "Bud Smith"
     }
-    comments: "Great Editing"
+    rating: "Great"
   }
-  visual_effects: "Great Visual Effects (For the time)"
-  makeup: "Great Makeup (For the time)"
+  visual_effects {
+    rating: "Great"
+    comments: "For the time"
+  }
+  makeup {
+    rating: "Great"
+    comments: "For the time"
+  }
   plot_structure: "Plot Structure was an issue (the first 30 minutes of the movie were extremely boring and pointless to the story (if this was cut and spread throughout the movie for the allusion of the possession and actual exorcism could make the movie a lot better))"
   pacing: "Pacing was completely off cause it was a tale of two movies: first half was extremely boring and slow while the second half was very fast paced and exciting"
   climax: "Climax was extremely intense and very scary as it shows the devil\'s work in the possession (Something that was very ahead of its time)"

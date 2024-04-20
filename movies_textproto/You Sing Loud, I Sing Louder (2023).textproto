@@ -5,19 +5,29 @@ review {
     director {
       name: "Emma Westenberg"
     }
-    comments: "Pretty Bad to Decent Direction (For a directorial debut on a low budget film, she makes the most out what she can as she gets a good amount from the lead two actors from a pretty minimal story; though she is a victim of her own circumstances as the low budget caps at how much she can actually get the most out of the extras and shooting the scenes; the more artsy parts of the movie were really hit or miss as some of the nature aspects were visually pleasing but the more drug induced scenes were just like a fever dream)"
+    rating: "Pretty Bad to Decent"
+    comments: "For a directorial debut on a low budget film, she makes the most out what she can as she gets a good amount from the lead two actors from a pretty minimal story; though she is a victim of her own circumstances as the low budget caps at how much she can actually get the most out of the extras and shooting the scenes; the more artsy parts of the movie were really hit or miss as some of the nature aspects were visually pleasing but the more drug induced scenes were just like a fever dream"
   }
   acting {
-    actor {
-      name: "Clara McGregor"
-      comments: "Pretty Good from Clara McGregor (Plays the role pretty well with only some minor hiccups as she plays off her father while still showing her own demons; there are a lot of awkward pauses in the performance but I think they may be more from the direction than the acting)"
+    performance {
+      actor {
+        name: "Clara McGregor"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the role pretty well with only some minor hiccups as she plays off her father while still showing her own demons; there are a lot of awkward pauses in the performance but I think they may be more from the direction than the acting"
     }
-    actor {
-      name: "Ewan McGregor"
-      comments: "Pretty Good to Good from Ewan McGregor (Really pulls from experience for this performance as it seems like he is transcending all the actors around him, though he does work well with his daughter)"
+    performance {
+      actor {
+        name: "Ewan McGregor"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Really pulls from experience for this performance as it seems like he is transcending all the actors around him, though he does work well with his daughter"
     }
-    cast: "Bad from the rest of the cast (Just a lot of inexperience and poor direction)"
-    comments: "Pretty Bad to Decent Acting"
+    cast {
+      rating: "Bad"
+      comments: "Just a lot of inexperience and poor direction"
+    }
+    rating: "Pretty Bad to Decent"
   }
   story {
     writer {
@@ -29,32 +39,39 @@ review {
     writer {
       name: "Ruby Caster"
     }
-    comments: "Pretty Bad to Decent Story (The concept of the story is pretty good as the road trip aspects mixed with the addiction parts really help portray the message of the story; but the more micro elements that help progress the story forward were pretty bad as a lot of them felt unnecessary and did not really add too much to overall story/message)"
+    rating: "Pretty Bad to Decent"
+    comments: "The concept of the story is pretty good as the road trip aspects mixed with the addiction parts really help portray the message of the story; but the more micro elements that help progress the story forward were pretty bad as a lot of them felt unnecessary and did not really add too much to overall story/message"
   }
   screenplay {
     writer {
       name: "Ruby Caster"
     }
-    comments: "Pretty Bad Screenplay (The dialogue was very amateur and pretty bland overall; there were a good amount of overt symbols but there were some subtle symbols I did appreciate; the foreshadowing of the movie is pretty good)"
+    rating: "Pretty Bad"
+    comments: "The dialogue was very amateur and pretty bland overall; there were a good amount of overt symbols but there were some subtle symbols I did appreciate; the foreshadowing of the movie is pretty good"
   }
   score {
     composer {
       name: "Raven Aartsen"
     }
-    comments: "Decent to Pretty Good Score (Helped give the movie a more artsy feel)"
+    rating: "Decent to Pretty Good"
+    comments: "Helped give the movie a more artsy feel"
   }
   cinematography {
     cinematographer {
       name: "Christopher Ripley"
     }
-    comments: "Pretty Bad Cinematography (Very hit or miss as some of the more shaky amateur shots made the movie incredible nauseating and hard to watch, but the more artsy shots did have some merit to them)"
+    rating: "Pretty Bad"
+    comments: "Very hit or miss as some of the more shaky amateur shots made the movie incredible nauseating and hard to watch, but the more artsy shots did have some merit to them"
   }
-  sound: "Decent Sound"
   editing {
     editor {
       name: "Autumn Dae"
     }
-    comments: "Pretty Bad to Decent Editing (Felt very amateurish as the movie trades in being more artsy than actually having a tighter edited movie)"
+    rating: "Pretty Bad to Decent"
+    comments: "Felt very amateurish as the movie trades in being more artsy than actually having a tighter edited movie"
+  }
+  sound {
+    rating: "Decent"
   }
   plot_structure: "Plot Structure was pretty prevalent as the different elements were laid out to show their importance to the story"
   pacing: "Pacing was a really slow as it went more for a artsy/indie feel than a more stereotypical hollywood movie (a stylistic choice I cannot really complain about); Runtime could have been cut 10-20 minutes to make the movie seem a bit more tighter and fast paced"

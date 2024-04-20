@@ -5,58 +5,81 @@ review {
     director {
       name: "John Lee Hancock"
     }
-    comments: "Pretty Bad Direction (The movie is told like a Hallmark movie as it is incredibly feel-good and uses a pretty safe style to tell the story; the macro and micro scenes are just bland overall (not all of them though); he does not lift the actors as it feels like Sandra Bullock is the only one really acting and it is hard for others to work off of her)"
+    rating: "Pretty Bad"
+    comments: "The movie is told like a Hallmark movie as it is incredibly feel-good and uses a pretty safe style to tell the story; the macro and micro scenes are just bland overall (not all of them though); he does not lift the actors as it feels like Sandra Bullock is the only one really acting and it is hard for others to work off of her"
   }
   acting {
-    actor {
-      name: "Sandra Bullock"
-      comments: "Very Good from Sandra Bullock (Commands her scenes very well and does a very good job in helping move the story forward; she really does not go above and beyond in any way with this role as it is written really poorly (but she does the best with what she is given); tries her best to pull the actors around her but the talent mismatch makes it hard for her to have chemistry)"
+    performance {
+      actor {
+        name: "Sandra Bullock"
+      }
+      rating: "Very Good"
+      comments: "Commands her scenes very well and does a very good job in helping move the story forward; she really does not go above and beyond in any way with this role as it is written really poorly (but she does the best with what she is given); tries her best to pull the actors around her but the talent mismatch makes it hard for her to have chemistry"
     }
-    actor {
-      name: "Tim McGraw"
-      comments: "Decent from Tim McGraw (A very unmemorable performance as nothing stands out as being good or bad)"
+    performance {
+      actor {
+        name: "Tim McGraw"
+      }
+      rating: "Decent"
+      comments: "A very unmemorable performance as nothing stands out as being good or bad"
     }
-    actor {
-      name: "Quinton Aaron"
-      comments: "Bad from Quinton Aaron (Has no emotion in any of his scenes and does not work well with the other actors at all (which is a shame considering he is the subject matter))"
+    performance {
+      actor {
+        name: "Quinton Aaron"
+      }
+      rating: "Bad"
+      comments: "Has no emotion in any of his scenes and does not work well with the other actors at all (which is a shame considering he is the subject matter)"
     }
-    actor {
-      name: "Kathy Bates"
-      comments: "Good from Kathy Bates (Really pulls from experience playing other characters as it feels like she did not prep at all for this role)"
+    performance {
+      actor {
+        name: "Kathy Bates"
+      }
+      rating: "Good"
+      comments: "Really pulls from experience playing other characters as it feels like she did not prep at all for this role"
     }
-    cast: "Bad from the rest of the cast (Just very bland/inexperiences performances all around (does not include the child actors though))"
-    comments: "Pretty Bad Acting"
+    cast {
+      rating: "Bad"
+      comments: "Just very bland/inexperiences performances all around (does not include the child actors though)"
+    }
+    rating: "Pretty Bad"
   }
   story {
     writer {
       name: "John Lee Hancock"
     }
-    comments: "Pretty Bad Story (The story is just very feel good (but it is interesting overall); the character development is probably the best part of the story (but it is a bit formulaic and predictable); the story elements had some interesting parts (especially the recruiting aspects), but the plot construction just falls apart (especially towards the end); the biggest issue with this movie is its historical accuracy as it takes many liberties from deviating from the truth to make the Tuohy seem a lot better than they are and Michael a lot more helpless than he is)"
+    rating: "Pretty Bad"
+    comments: "The story is just very feel good (but it is interesting overall); the character development is probably the best part of the story (but it is a bit formulaic and predictable); the story elements had some interesting parts (especially the recruiting aspects), but the plot construction just falls apart (especially towards the end); the biggest issue with this movie is its historical accuracy as it takes many liberties from deviating from the truth to make the Tuohy seem a lot better than they are and Michael a lot more helpless than he is"
   }
   screenplay {
     writer {
       name: "John Lee Hancock"
     }
-    comments: "Bad Screenplay (The dialogue is just so cringey and cliche that so many lines were predictable (it\'s like it was written by someone who writes for the Lifetime channel); there were some jokes that were somewhat funny but it is just very cringey for the most part; the symbolism is incredibly shallow and pretty overt; the foreshadowing is pretty nonexistent as the movie is just very linear and predictable about what is gonna happen next)"
+    rating: "Bad"
+    comments: "The dialogue is just so cringey and cliche that so many lines were predictable (it\'s like it was written by someone who writes for the Lifetime channel); there were some jokes that were somewhat funny but it is just very cringey for the most part; the symbolism is incredibly shallow and pretty overt; the foreshadowing is pretty nonexistent as the movie is just very linear and predictable about what is gonna happen next"
   }
   score {
     composer {
       name: "Carter Burwell"
     }
-    comments: "Pretty Bad to Decent Score"
+    rating: "Pretty Bad to Decent"
   }
   cinematography {
     cinematographer {
       name: "Alar Kivilo"
     }
-    comments: "Decent Cinematography (Best moments are during the football scenes but it is still not the best)"
+    rating: "Decent"
+    comments: "Best moments are during the football scenes but it is still not the best"
   }
-  sound: "Decent Sound (Only worth mentioning due to the football tackles)"
   editing {
     editor {
       name: "Mark Livolsi"
     }
-    comments: "Pretty Bad Editing (The opening editing scenes felt like it was edited on movie maker as it was so amateur that it left a sour tone of what the rest of the movie would be)"
+    rating: "Pretty Bad"
+    comments: "The opening editing scenes felt like it was edited on movie maker as it was so amateur that it left a sour tone of what the rest of the movie would be"
+  }
+  sound {
+    rating: "Decent"
+    comments: "Only worth mentioning due to the football tackles"
   }
   plot_structure: "Plot Structure was not that well constructed as it spends way too much time on the exposition and the resolution is way longer than it needs to be"
   pacing: "Pacing was fine but it just felt like many scenes were leading to nowhere; the final 20 minutes of the movie could have been cut as it is irrelevant to the story (and makes the family look worse given the current allegations)"

@@ -5,33 +5,37 @@ review {
     director {
       name: "M. Night Shyamalan"
     }
-    comments: "Good Direction (especially in the horror parts)"
+    rating: "Good"
+    comments: "Especially in the horror parts"
   }
   acting {
-    actor {
-      name: "Haley Joel Osment"
-      comments: "Very Good from Haley Joel Osment"
+    performance {
+      actor {
+        name: "Haley Joel Osment"
+      }
+      rating: "Very Good"
     }
-    cast: ""
-    comments: "Pretty Good to Good Acting"
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
       name: "M. Night Shyamalan"
     }
-    comments: "Good Story"
+    rating: "Good"
   }
   screenplay {
     writer {
       name: "M. Night Shyamalan"
     }
-    comments: "Good Screenplay (Some great aspects/iconic lines and some mediocre to decent ones)"
+    rating: "Good"
+    comments: "Some great aspects/iconic lines and some mediocre to decent ones"
   }
   score {
     composer {
       name: "James Newton Howard"
     }
-    comments: "Decent Score (Very James Newton Howard-esque)"
+    rating: "Decent"
+    comments: "Very James Newton Howard-esque"
   }
   plot_structure: "Plot Structure was ok but really doesn\'t go anywhere"
   pacing: "Pacing was fine (could be a bit slow at times and very rushed at others)"

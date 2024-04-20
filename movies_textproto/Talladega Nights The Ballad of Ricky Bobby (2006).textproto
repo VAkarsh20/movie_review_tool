@@ -5,11 +5,14 @@ review {
     director {
       name: "Adam McKay"
     }
-    comments: "Pretty Good Direction"
+    rating: "Pretty Good"
   }
   acting {
-    cast: "Pretty Good from the rest of the cast (A surprisingly studded all star cast where each actor plays their role very well, but there are issues (Cohen\'s accent was very annoying and characters, like Amy Adams, were overacting at times))"
-    comments: "Pretty Good Acting"
+    cast {
+      rating: "Pretty Good"
+      comments: "A surprisingly studded all star cast where each actor plays their role very well, but there are issues (Cohen\'s accent was very annoying and characters, like Amy Adams, were overacting at times)"
+    }
+    rating: "Pretty Good"
   }
   screenplay {
     writer {
@@ -18,17 +21,21 @@ review {
     writer {
       name: "Adam McKay"
     }
-    comments: "Very Good Screenplay (Very funny movie (Stupid funny but funny); Most jokes hit but when they miss its pretty eh; very Will Ferrell in its joke telling in that he breaks the pace or adds on to a joke to make it funnier (This either hits or can be annoying at times))"
+    rating: "Very Good"
+    comments: "Very funny movie (Stupid funny but funny); Most jokes hit but when they miss its pretty eh; very Will Ferrell in its joke telling in that he breaks the pace or adds on to a joke to make it funnier (This either hits or can be annoying at times)"
   }
-  sound: "Pretty Good Sound Editing/Mixing"
   editing {
     editor {
       name: "Brent White"
     }
-    comments: "Pretty Good Editing"
+    rating: "Pretty Good"
+  }
+  sound {
+    rating: "Pretty Good"
   }
   pacing: "Pacing was intentionally fast (which leaves no room for development)"
   climax: "the build to the climax really is ok but definitely could\'ve been better"
+  final_notes: ""
   overall: "Overall, a fun movie to watch for leisure that has many jokes that hit very well and are very quotable, even though it may be stupid funny"
 }
 release_year: 2006

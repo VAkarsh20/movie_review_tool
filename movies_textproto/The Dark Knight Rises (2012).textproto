@@ -5,11 +5,15 @@ review {
     director {
       name: "Christopher Nolan"
     }
-    comments: "Great Direction (Incredible Direction at a grand scale but the interpersonal scenes were kinda lacking at times)"
+    rating: "Great"
+    comments: "Incredible Direction at a grand scale but the interpersonal scenes were kinda lacking at times"
   }
   acting {
-    cast: "Very Good from the rest of the cast (Incredible acting by the main cast (Tom Hardy a huge standout), though the extras/side characters were pretty meh at times)"
-    comments: "Very Good Acting"
+    cast {
+      rating: "Very Good"
+      comments: "Incredible acting by the main cast (Tom Hardy a huge standout), though the extras/side characters were pretty meh at times"
+    }
+    rating: "Very Good"
   }
   story {
     writer {
@@ -18,7 +22,7 @@ review {
     writer {
       name: "David S. Goyer"
     }
-    comments: "Incredible Story"
+    rating: "Incredible"
   }
   screenplay {
     writer {
@@ -27,26 +31,30 @@ review {
     writer {
       name: "Christopher Nolan"
     }
-    comments: "Great to Incredible Screenplay (though some of the dialogue did feel stiff at times; filled with iconic quotes from Bane and others)"
+    rating: "Great to Incredible"
+    comments: "Though some of the dialogue did feel stiff at times; filled with iconic quotes from Bane and others"
   }
   score {
     composer {
       name: "Hans Zimmer"
     }
-    comments: "Incredible Score"
+    rating: "Incredible"
   }
   cinematography {
     cinematographer {
       name: "Wally Pfister"
     }
-    comments: "Incredible Cinematography (in Wally Pfister\'s last movie with Nolan)"
+    rating: "Incredible"
+    comments: "In Wally Pfister\'s last movie with Nolan"
   }
-  sound: "Incredible Sound"
   editing {
     editor {
       name: "Lee Smith"
     }
-    comments: "Incredible Editing"
+    rating: "Incredible"
+  }
+  sound {
+    rating: "Incredible"
   }
   plot_structure: "Plot Structure was very steady and built very well to the climax"
   climax: "Climax was Brilliant not only for the movie but for the trilogy as a whole"

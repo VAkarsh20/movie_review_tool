@@ -5,39 +5,63 @@ review {
     director {
       name: "David Gordon Green"
     }
-    comments: "Very Bad Direction (Does a very bad job at making the movie entertaining as the horror elements were just forced, there is just so much going on at once (especially during the exorcism), and he does not get the most out of his actors; the macro elements were just very unnecessary as it tries to do so much (when it should be trying to do so little))"
+    rating: "Very Bad"
+    comments: "Does a very bad job at making the movie entertaining as the horror elements were just forced, there is just so much going on at once (especially during the exorcism), and he does not get the most out of his actors; the macro elements were just very unnecessary as it tries to do so much (when it should be trying to do so little)"
   }
   acting {
-    actor {
-      name: "Leslie Odom Jr."
-      comments: "Pretty Good to Good from Leslie Odom Jr. (Does a good job as the lead as he helps move the story forward and shows range in reacting to what is going on with his daughter)"
+    performance {
+      actor {
+        name: "Leslie Odom Jr."
+      }
+      rating: "Pretty Good to Good"
+      comments: "Does a good job as the lead as he helps move the story forward and shows range in reacting to what is going on with his daughter"
     }
-    actor {
-      name: "Ann Dowd"
-      comments: "Decent to Pretty Good from Ann Dowd (Mostly uses experience and works plays off of the other characters, but holds her own)"
+    performance {
+      actor {
+        name: "Ann Dowd"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Mostly uses experience and works plays off of the other characters, but holds her own"
     }
-    actor {
-      name: "Jennifer Nettles"
-      comments: "Decent from Jennifer Nettles"
+    performance {
+      actor {
+        name: "Jennifer Nettles"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Norbert Leo Butz"
-      comments: "Bad from Norbert Leo Butz (Just felt very unnatural as he did not have chemistry with any of the castmates)"
+    performance {
+      actor {
+        name: "Norbert Leo Butz"
+      }
+      rating: "Bad"
+      comments: "Just felt very unnatural as he did not have chemistry with any of the castmates"
     }
-    actor {
-      name: "Lidya Jewett"
-      comments: "Decent to Pretty Good from Lidya Jewett (Does the best she can do with the direction she is given)"
+    performance {
+      actor {
+        name: "Lidya Jewett"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Does the best she can do with the direction she is given"
     }
-    actor {
-      name: "Olivia Marcum"
-      comments: "Decent to Pretty Good from Olivia Marcum (Does the best she can do with the direction she is given)"
+    performance {
+      actor {
+        name: "Olivia Marcum"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Does the best she can do with the direction she is given"
     }
-    actor {
-      name: "Ellen Burstyn"
-      comments: "Pretty Good from Ellen Burstyn (Uses her experience to do the best she can as she is given nothing to work with)"
+    performance {
+      actor {
+        name: "Ellen Burstyn"
+      }
+      rating: "Pretty Good"
+      comments: "Uses her experience to do the best she can as she is given nothing to work with"
     }
-    cast: "Bad from the rest of the cast (Just felt very forced and inexperienced, did not function well in working off of the main cast)"
-    comments: "Pretty Bad Acting"
+    cast {
+      rating: "Bad"
+      comments: "Just felt very forced and inexperienced, did not function well in working off of the main cast"
+    }
+    rating: "Pretty Bad"
   }
   story {
     writer {
@@ -49,7 +73,8 @@ review {
     writer {
       name: "David Gordon Green"
     }
-    comments: "Bad Story (Mismanaged and just does too much, the horror elements are not explained well; the story is a bit dragged out because of it trying to force too much)"
+    rating: "Bad"
+    comments: "Mismanaged and just does too much, the horror elements are not explained well; the story is a bit dragged out because of it trying to force too much"
   }
   screenplay {
     writer {
@@ -58,7 +83,8 @@ review {
     writer {
       name: "David Gordon Green"
     }
-    comments: "Very Bad Screenplay (Some of the dialogue is just so bad that it is laughable; the horror elements mostly used cheap tactics (with it relying heavily on fast cuts and jump scares); the symbolism is so overt (and does an injustice to the original film\'s message), and the message of the film is just forced and not explained well at all (which does the film a massive disserve given how controversial it is); foreshadowing was about as present as any horror movie was)"
+    rating: "Very Bad"
+    comments: "Some of the dialogue is just so bad that it is laughable; the horror elements mostly used cheap tactics (with it relying heavily on fast cuts and jump scares); the symbolism is so overt (and does an injustice to the original film\'s message), and the message of the film is just forced and not explained well at all (which does the film a massive disserve given how controversial it is); foreshadowing was about as present as any horror movie was"
   }
   score {
     composer {
@@ -67,23 +93,34 @@ review {
     composer {
       name: "Amman Abbasi"
     }
-    comments: "Pretty Good Score (Used well to create horror, interpolates the original theme a good amount)"
+    rating: "Pretty Good"
+    comments: "Used well to create horror, interpolates the original theme a good amount"
   }
   cinematography {
     cinematographer {
       name: "Michael Simmonds"
     }
-    comments: "Decent Cinematography"
+    rating: "Decent"
   }
-  sound: "Decent Sound (Helps with building some horror)"
   editing {
     editor {
       name: "Tim Alverson"
     }
-    comments: "Very Bad Editing (Just tries to do way too much (and it makes the movie more questionable than scary); relies way too much on fast cuts to illicit horror)"
+    rating: "Very Bad"
+    comments: "Just tries to do way too much (and it makes the movie more questionable than scary); relies way too much on fast cuts to illicit horror"
   }
-  visual_effects: "Bad Visual Effects (The actual sequences were not poorly animated, it was just they tried way too hard to incorporate CGI and visuals when they didn\'t need to)"
-  makeup: "Decent Makeup (Does not feel that realistic and feels like they did a lot more than they needed to)"
+  sound {
+    rating: "Decent"
+    comments: "Helps with building some horror"
+  }
+  visual_effects {
+    rating: "Bad"
+    comments: "The actual sequences were not poorly animated, it was just they tried way too hard to incorporate CGI and visuals when they didn\'t need to"
+  }
+  makeup {
+    rating: "Decent"
+    comments: "Does not feel that realistic and feels like they did a lot more than they needed to"
+  }
   plot_structure: "Plot Structure was not that well managed as they try hard to incorporate way too much and cannot resolve any of what they introduce (they have the main storyline, the second family\'s storyline, and elements from the original Exorcist movie)"
   pacing: "Pacing was a bit on the faster side (because they just try to do way too much and go over as much as they can); the runtime could\'ve been shortened to remove some plot points (but honestly I don\'t even think it would\'ve helped that much)"
   climax: "Climax was terribly executed as they have like way too many things going on at once (it is as if 3 different exorcisms are happening at the same time, and the twist is just so stupid and forced)"

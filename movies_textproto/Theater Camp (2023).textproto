@@ -8,27 +8,43 @@ review {
     director {
       name: "Nick Lieberman"
     }
-    comments: "Great Direction (Really told the story well through this mockumentary lens as we get to see a guerrilla style approach to how the theater camp is a mess; uses transitions very well instead of narration to help provide non-sequitur moments to move the plot forward (especially in a comedic way); really gets a lot out of the actors (especially the child actors) as they are allowed to play through improv to build comedy)"
+    rating: "Great"
+    comments: "Really told the story well through this mockumentary lens as we get to see a guerrilla style approach to how the theater camp is a mess; uses transitions very well instead of narration to help provide non-sequitur moments to move the plot forward (especially in a comedic way); really gets a lot out of the actors (especially the child actors) as they are allowed to play through improv to build comedy"
   }
   acting {
-    actor {
-      name: "Molly Gordon"
-      comments: "Good to Very Good from Molly Gordon (Really plays off of Platt's character well as she plays the out of touch with reality character very well)"
+    performance {
+      actor {
+        name: "Molly Gordon"
+      }
+      rating: "Good to Very Good"
+      comments: "Really plays off of Platt\'s character well as she plays the out of touch with reality character very well"
     }
-    actor {
-      name: "Ben Platt"
-      comments: "Very Good from Ben Platt (The real force that other characters play off of as he uses his theater experience well to show someone who is trapped in a world they do not want to leave)"
+    performance {
+      actor {
+        name: "Ben Platt"
+      }
+      rating: "Very Good"
+      comments: "The real force that other characters play off of as he uses his theater experience well to show someone who is trapped in a world they do not want to leave"
     }
-    actor {
-      name: "Noah Galvin"
-      comments: "Good from Noah Galvin (Plays the steady role very well throughout the movie but really comes out towards the end)"
+    performance {
+      actor {
+        name: "Noah Galvin"
+      }
+      rating: "Good"
+      comments: "Plays the steady role very well throughout the movie but really comes out towards the end"
     }
-    actor {
-      name: "Jimmy Tatro"
-      comments: "Very Good from Jimmy Tatro (Has basically perfected this role from all the similar roles he has been in as he effortlessly plays this douchey, finance bro)"
+    performance {
+      actor {
+        name: "Jimmy Tatro"
+      }
+      rating: "Very Good"
+      comments: "Has basically perfected this role from all the similar roles he has been in as he effortlessly plays this douchey, finance bro"
     }
-    cast: "Good to Very Good from the rest of the cast (Especially the child actors as they do a great job in using improv to help build scenes and create humor)"
-    comments: "Very Good Acting"
+    cast {
+      rating: "Good to Very Good"
+      comments: "Especially the child actors as they do a great job in using improv to help build scenes and create humor"
+    }
+    rating: "Very Good"
   }
   story {
     writer {
@@ -43,7 +59,8 @@ review {
     writer {
       name: "Noah Galvin"
     }
-    comments: "Great Story (The mockumentary structure really helps in keeping the story interesting as it allows this satire to make fun of what actually goes on at a theater camp; also the plot is laid out very well as it uses the transition slides to move the story forward while also adding humor)"
+    rating: "Great"
+    comments: "The mockumentary structure really helps in keeping the story interesting as it allows this satire to make fun of what actually goes on at a theater camp; also the plot is laid out very well as it uses the transition slides to move the story forward while also adding humor"
   }
   screenplay {
     writer {
@@ -58,26 +75,30 @@ review {
     writer {
       name: "Noah Galvin"
     }
-    comments: "Great Screenplay (Considering the movie was mostly improv it is very impressive what they got off as it incredibly funny and captivating what is going on in the scenes; the symbols and messages throughout the movie are pretty prevalent)"
+    rating: "Great"
+    comments: "Considering the movie was mostly improv it is very impressive what they got off as it incredibly funny and captivating what is going on in the scenes; the symbols and messages throughout the movie are pretty prevalent"
   }
   score {
     composer {
       name: "James McAlister"
     }
-    comments: "Pretty Good Score"
+    rating: "Pretty Good"
   }
   cinematography {
     cinematographer {
       name: "Nate Hurtsellers"
     }
-    comments: "Very Good Cinematography (The handheld style really gives the movie a documentary feel as if we are right next to the subjects of the movie)"
+    rating: "Very Good"
+    comments: "The handheld style really gives the movie a documentary feel as if we are right next to the subjects of the movie"
   }
-  sound: "Decent Sound"
   editing {
     editor {
       name: "Jon Philpot"
     }
-    comments: "Good Editing"
+    rating: "Good"
+  }
+  sound {
+    rating: "Decent"
   }
   plot_structure: "Plot Structure was laid out very well as it was very evident which part of the plot we were as the movie follows a countdown to the performance at the end"
   pacing: "Pacing was a good pace (no need to add or cut runtime)"

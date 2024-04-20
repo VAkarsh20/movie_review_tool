@@ -5,31 +5,46 @@ review {
     director {
       name: "Francis Ford Coppola"
     }
-    comments: "Pretty Bad Direction"
+    rating: "Pretty Bad"
   }
   acting {
-    actor {
-      name: "Al Pacino"
-      comments: "Good from Al Pacino (Was either Great and typical Michael or Bad and overacting/disappointing)"
+    performance {
+      actor {
+        name: "Al Pacino"
+      }
+      rating: "Good"
+      comments: "Was either Great and typical Michael or Bad and overacting/disappointing"
     }
-    actor {
-      name: "Diane Keaton"
-      comments: "Good from Diane Keaton"
+    performance {
+      actor {
+        name: "Diane Keaton"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Talia Shire"
-      comments: "Pretty Bad to Decent from Talia Shire"
+    performance {
+      actor {
+        name: "Talia Shire"
+      }
+      rating: "Pretty Bad to Decent"
     }
-    actor {
-      name: "Andy Garc\303\255a"
-      comments: "Pretty Bad to Decent from Andy Garc\303\255a"
+    performance {
+      actor {
+        name: "Andy Garc\303\255a"
+      }
+      rating: "Pretty Bad to Decent"
     }
-    actor {
-      name: "Sofia Coppola"
-      comments: "Terrible from Sofia Coppola (One of the worst (if not the worst) performances in film history)"
+    performance {
+      actor {
+        name: "Sofia Coppola"
+      }
+      rating: "Terrible"
+      comments: "One of the worst (if not the worst) performances in film history"
     }
-    cast: "Bad from the rest of the cast (Can clearly see how losing character from the previous movies effected this one)"
-    comments: "Bad Acting"
+    cast {
+      rating: "Bad"
+      comments: "Can clearly see how losing character from the previous movies effected this one"
+    }
+    rating: "Bad"
   }
   story {
     writer {
@@ -38,7 +53,8 @@ review {
     writer {
       name: "Francis Ford Coppola"
     }
-    comments: "Pretty Bad Story (The story of Michael\'s decline needed to be made and there were some good elements but the way they went about it really ruined his story arc; storytelling being a bit confusing)"
+    rating: "Pretty Bad"
+    comments: "The story of Michael\'s decline needed to be made and there were some good elements but the way they went about it really ruined his story arc; storytelling being a bit confusing"
   }
   screenplay {
     writer {
@@ -47,21 +63,22 @@ review {
     writer {
       name: "Francis Ford Coppola"
     }
-    comments: "Very Bad Screenplay (Extremely simple and Direct unlike its predecessors even though there are some elements of symbolism)"
+    rating: "Very Bad"
+    comments: "Extremely simple and Direct unlike its predecessors even though there are some elements of symbolism"
   }
   score {
     composer {
       name: "Carmine Coppola"
     }
-    comments: "Great Score"
+    rating: "Great"
   }
   cinematography {
     cinematographer {
       name: "Gordon Willis"
     }
-    comments: "Bad Cinematography (The use of new technology and techniques in sound/cinematography really gave the feeling an off feel as it looks completely different from its predecessors (making it very weird when they cut back to footage from the previous movies but still keep its original quality))"
+    rating: "Bad"
+    comments: "The use of new technology and techniques in sound/cinematography really gave the feeling an off feel as it looks completely different from its predecessors (making it very weird when they cut back to footage from the previous movies but still keep its original quality)"
   }
-  sound: "Bad Sound (See Cinematography)"
   editing {
     editor {
       name: "Barry Malkin"
@@ -72,7 +89,12 @@ review {
     editor {
       name: "Walter Murch"
     }
-    comments: "Terrible Editing (The cut for this movie was extremely off and really jumped around too much in the story, which made it feel many details were lost (even though there were style choices similar to the past movies))"
+    rating: "Terrible"
+    comments: "The cut for this movie was extremely off and really jumped around too much in the story, which made it feel many details were lost (even though there were style choices similar to the past movies)"
+  }
+  sound {
+    rating: "Bad"
+    comments: "See Cinematography"
   }
   plot_structure: "Plot Structure was bad"
   pacing: "Pacing was slow and steady; Runtime was long but the cut they chose for the movie made it really hard to believe that more scenes needed to be cut as it could be argued more scenes needed to be added/rearranged"

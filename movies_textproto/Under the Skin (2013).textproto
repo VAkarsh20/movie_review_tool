@@ -5,15 +5,22 @@ review {
     director {
       name: "Jonathan Glazer"
     }
-    comments: "Pretty Bad Direction (Good on a macro scale, bad on a micro-scale (especially with directing actors who weren\'t ScarJo), does a pretty bad job at moving the story forward as the style is just too subtle that the movie is not engaging at all)"
+    rating: "Pretty Bad"
+    comments: "Good on a macro scale, bad on a micro-scale (especially with directing actors who weren\'t ScarJo), does a pretty bad job at moving the story forward as the style is just too subtle that the movie is not engaging at all"
   }
   acting {
-    actor {
-      name: "Scarlett Johansson"
-      comments: "Pretty Good from Scarlett Johansson (More about her experiencing her world than her delivery of dialogue (though she perfected her accent), does a good job in showing someone void of emotions and experiencing emotions for the first time)"
+    performance {
+      actor {
+        name: "Scarlett Johansson"
+      }
+      rating: "Pretty Good"
+      comments: "More about her experiencing her world than her delivery of dialogue (though she perfected her accent), does a good job in showing someone void of emotions and experiencing emotions for the first time"
     }
-    cast: "Very Bad from the rest of the cast (Just a lot of inexperience and unintelligible moments, none of the actors work well off of ScarJo at all (even though it can be argued that is the point))"
-    comments: "Pretty Bad Acting"
+    cast {
+      rating: "Very Bad"
+      comments: "Just a lot of inexperience and unintelligible moments, none of the actors work well off of ScarJo at all (even though it can be argued that is the point)"
+    }
+    rating: "Pretty Bad"
   }
   story {
     writer {
@@ -22,7 +29,8 @@ review {
     writer {
       name: "Jonathan Glazer"
     }
-    comments: "Pretty Bad Story (The story is pretty absent and really open to interpretation (which is kinda a flaw cause it is a little too empty); the movie fills a lot of time with dead space to show the protagonist experiencing her world (but this comes with the expensive of keeping the film tighter and engaging); the mystery of the main character is nice cause it helps with keeping the interpretation of the movie open)"
+    rating: "Pretty Bad"
+    comments: "The story is pretty absent and really open to interpretation (which is kinda a flaw cause it is a little too empty); the movie fills a lot of time with dead space to show the protagonist experiencing her world (but this comes with the expensive of keeping the film tighter and engaging); the mystery of the main character is nice cause it helps with keeping the interpretation of the movie open"
   }
   screenplay {
     writer {
@@ -31,29 +39,42 @@ review {
     writer {
       name: "Jonathan Glazer"
     }
-    comments: "Pretty Bad to Decent Screenplay (Very little dialogue (which really hurts with building the world but adds mystery); the dialogue that is present is not good and really unintelligible; symbolism is incredibly subtle and really open for interpretation as it uses actions and imagery to display the meaning rather than words (the entire movie is about what it means to be a human and punishing temptation); foreshadowing was present as it kinda mirrors the beginning)"
+    rating: "Pretty Bad to Decent"
+    comments: "Very little dialogue (which really hurts with building the world but adds mystery); the dialogue that is present is not good and really unintelligible; symbolism is incredibly subtle and really open for interpretation as it uses actions and imagery to display the meaning rather than words (the entire movie is about what it means to be a human and punishing temptation); foreshadowing was present as it kinda mirrors the beginning"
   }
   score {
     composer {
       name: "Mica Levi"
     }
-    comments: "Pretty Good Score (Used well in helping build suspense, and its absence also helps with building tension as well)"
+    rating: "Pretty Good"
+    comments: "Used well in helping build suspense, and its absence also helps with building tension as well"
   }
   cinematography {
     cinematographer {
       name: "Daniel Landin"
     }
-    comments: "Decent to Pretty Good Cinematography (Good in a lot of the macro shots showing the world (or the protagonist\'s world/viewpoint), the micro shots were decent; the lighting was pretty bad as it was hard to see any of the images on scene sometimes)"
+    rating: "Decent to Pretty Good"
+    comments: "Good in a lot of the macro shots showing the world (or the protagonist\'s world/viewpoint), the micro shots were decent; the lighting was pretty bad as it was hard to see any of the images on scene sometimes"
   }
-  sound: "Decent Sound (A bit cheap but the movie\'s amplified sound during moments without score helps with building tension, the sound mixing of dialogue was very bad cause it was so hard to hear what anyone was saying (which may be because they were Scottish))"
   editing {
     editor {
       name: "Paul Watts"
     }
-    comments: "Pretty Good Editing (Good when it used in the more tense and artsy scenes; the cut could\'ve been tighter as some of the scenes were way longer than it should\'ve been)"
+    rating: "Pretty Good"
+    comments: "Good when it used in the more tense and artsy scenes; the cut could\'ve been tighter as some of the scenes were way longer than it should\'ve been"
   }
-  visual_effects: "Pretty Good Visual Effects (Given how low the budget was)"
-  makeup: "Decent Makeup (Especially during the \'Under the Skin\' scenes)"
+  sound {
+    rating: "Decent"
+    comments: "A bit cheap but the movie\'s amplified sound during moments without score helps with building tension, the sound mixing of dialogue was very bad cause it was so hard to hear what anyone was saying (which may be because they were Scottish)"
+  }
+  visual_effects {
+    rating: "Pretty Good"
+    comments: "Given how low the budget was"
+  }
+  makeup {
+    rating: "Decent"
+    comments: "Especially during the \'Under the Skin\' scenes"
+  }
   plot_structure: "Plot Structure was a big issue because it felt like nothing was going on (it was just the protagonist experiencing the world)"
   pacing: "Pacing was incredibly slow as the movie was very experimental in storytelling (so there was no dialogue or actions that help move the story at a reasonable pace); the runtime really could\'ve been cut by 20-30 minutes (but then that would\'ve taken away from the experimental nature of the movie)"
   climax: "Climax was intense but also anticlimactic as the scene was serious but the movie just abruptly ends"

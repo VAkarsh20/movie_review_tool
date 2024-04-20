@@ -5,39 +5,61 @@ review {
     director {
       name: "Andy Muschietti"
     }
-    comments: "Decent to Pretty Good Direction (Took a page out of the Deadpool/Spider-man playbook to tell a pretty meta story about a young superhero trying to find his purpose and get past his past traumas; does a decent job in the macro elements, but a better job in the more micro ones; gets a decent amount out of his actors)"
+    rating: "Decent to Pretty Good"
+    comments: "Took a page out of the Deadpool/Spider-man playbook to tell a pretty meta story about a young superhero trying to find his purpose and get past his past traumas; does a decent job in the macro elements, but a better job in the more micro ones; gets a decent amount out of his actors"
   }
   acting {
-    actor {
-      name: "Ezra Miller"
-      comments: "Pretty Good to Good from Ezra Miller (Holds their own very nicely and plays the double role very well; really embodies Barry\'s role well and does a pretty good job in the more emotional parts of the movie)"
+    performance {
+      actor {
+        name: "Ezra Miller"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Holds their own very nicely and plays the double role very well; really embodies Barry\'s role well and does a pretty good job in the more emotional parts of the movie"
     }
-    actor {
-      name: "Sasha Calle"
-      comments: "Decent from Sasha Calle (Her character was kinda written very bland and one-dimensional, so her performance can only go so far)"
+    performance {
+      actor {
+        name: "Sasha Calle"
+      }
+      rating: "Decent"
+      comments: "Her character was kinda written very bland and one-dimensional, so her performance can only go so far"
     }
-    actor {
-      name: "Michael Shannon"
-      comments: "Decent to Pretty Good from Michael Shannon (Not really given that much screen-time to work with, more just plays from experience when he needs to)"
+    performance {
+      actor {
+        name: "Michael Shannon"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Not really given that much screen-time to work with, more just plays from experience when he needs to"
     }
-    actor {
-      name: "Ron Livingston"
-      comments: "Decent to Pretty Good from Ron Livingston"
+    performance {
+      actor {
+        name: "Ron Livingston"
+      }
+      rating: "Decent to Pretty Good"
     }
-    actor {
-      name: "Maribel Verd\303\272"
-      comments: "Decent to Pretty Good from Maribel Verd\303\272 (Played the mother role well and worked off of Ezra well)"
+    performance {
+      actor {
+        name: "Maribel Verd\303\272"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Played the mother role well and worked off of Ezra well"
     }
-    actor {
-      name: "Kiersey Clemons"
-      comments: "Decent from Kiersey Clemons"
+    performance {
+      actor {
+        name: "Kiersey Clemons"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Michael Keaton"
-      comments: "Good from Michael Keaton (Really shows his experience in playing Batman as he has a real genuine joy in portraying the character again and really puts in the experience he has gain from his whole character to play an older version of the character)"
+    performance {
+      actor {
+        name: "Michael Keaton"
+      }
+      rating: "Good"
+      comments: "Really shows his experience in playing Batman as he has a real genuine joy in portraying the character again and really puts in the experience he has gain from his whole character to play an older version of the character"
     }
-    cast: "Decent from the rest of the cast"
-    comments: "Decent to Pretty Good Acting"
+    cast {
+      rating: "Decent"
+    }
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
@@ -49,27 +71,29 @@ review {
     writer {
       name: "Joby Harold"
     }
-    comments: "Decent Story (Structure was pretty solid and laid out well, the main issue is that its very similar to other time-travel/multi-verse movies and is very similar in plot to Spider-Man: No Way Home)"
+    rating: "Decent"
+    comments: "Structure was pretty solid and laid out well, the main issue is that its very similar to other time-travel/multi-verse movies and is very similar in plot to Spider-Man: No Way Home"
   }
   screenplay {
     writer {
       name: "Christina Hodson"
     }
-    comments: "Decent Screenplay (Dialogue was decent throughout (some lines were better written then others), humor was pretty good throughout the movie (even though it got a bit meta a times (not a terrible thing though cause its the character)), symbolism is pretty minor throughout; foreshadowing was a pretty good as it helped tie things together in the end (though it could be argued that it follows the template of other time-travel/multi-verse movies))"
+    rating: "Decent"
+    comments: "Dialogue was decent throughout (some lines were better written then others), humor was pretty good throughout the movie (even though it got a bit meta a times (not a terrible thing though cause its the character)), symbolism is pretty minor throughout; foreshadowing was a pretty good as it helped tie things together in the end (though it could be argued that it follows the template of other time-travel/multi-verse movies)"
   }
   score {
     composer {
       name: "Benjamin Wallfisch"
     }
-    comments: "Decent to Pretty Good Score (Worked in well throughout the movie)"
+    rating: "Decent to Pretty Good"
+    comments: "Worked in well throughout the movie"
   }
   cinematography {
     cinematographer {
       name: "Henry Braham"
     }
-    comments: "Pretty Good Cinematography"
+    rating: "Pretty Good"
   }
-  sound: "Good Sound"
   editing {
     editor {
       name: "Jason Ballantine"
@@ -77,11 +101,24 @@ review {
     editor {
       name: "Paul Machliss"
     }
-    comments: "Pretty Bad Editing (Fine for the most part but is just bad and noticeable when coupled with the CGI)"
+    rating: "Pretty Bad"
+    comments: "Fine for the most part but is just bad and noticeable when coupled with the CGI"
   }
-  visual_effects: "Bad Visual Effects (The more minor use of CGI was fine, but just felt over-saturated in the more grand elements; the Deep-fake/CGI of people was really in the uncanny valley as it was so obvious that the people were not real)"
-  production_design: "Pretty Good Production Design (Big fan of the Bat-cave and the Batman sets)"
-  costumes: "Pretty Good Costumes (Really big fan of how they paid homage to the old Batman)"
+  sound {
+    rating: "Good"
+  }
+  visual_effects {
+    rating: "Bad"
+    comments: "The more minor use of CGI was fine, but just felt over-saturated in the more grand elements; the Deep-fake/CGI of people was really in the uncanny valley as it was so obvious that the people were not real"
+  }
+  production_design {
+    rating: "Pretty Good"
+    comments: "Big fan of the Bat-cave and the Batman sets"
+  }
+  costumes {
+    rating: "Pretty Good"
+    comments: "Really big fan of how they paid homage to the old Batman"
+  }
   plot_structure: "Plot Structure was pretty standard as it followed a template that other time-travel/multiverse movies uses (with it being clear which part of the story arc the audience is in); the exposition was a bit long"
   pacing: "Pacing was a decent throughout the movie (the exposition was a bit longer/slower than I would have liked, but the movie hits its right pace towards the middle of the movie); the runtime for the movie was fine (maybe the exposition could have been 10 minutes shorter)"
   climax: "Climax was decent and shows the true revelation of what the movie is trying to show (which is nice as it uses the final fight as build to this rather than it being the climax itself)"

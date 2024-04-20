@@ -5,31 +5,49 @@ review {
     director {
       name: "Matt Reeves"
     }
-    comments: "Pretty Good Direction (On a macro scale, Reeves did a Great job in setting the tone and laying out the different concepts he wanted from the movie, but on a micro scale, it felt like some of the conversations were not fluid and it felt like a lot of the pieces did not connect)"
+    rating: "Pretty Good"
+    comments: "On a macro scale, Reeves did a Great job in setting the tone and laying out the different concepts he wanted from the movie, but on a micro scale, it felt like some of the conversations were not fluid and it felt like a lot of the pieces did not connect"
   }
   acting {
-    actor {
-      name: "Robert Pattinson"
-      comments: "Good from Robert Pattinson (He embodied the Batman role very well as you could tell how committed he was to playing the capped crusader (though physically it seemed he did not work out for it); though, he was not that convincing as Bruce Wayne (a big issue with the movie))"
+    performance {
+      actor {
+        name: "Robert Pattinson"
+      }
+      rating: "Good"
+      comments: "He embodied the Batman role very well as you could tell how committed he was to playing the capped crusader (though physically it seemed he did not work out for it); though, he was not that convincing as Bruce Wayne (a big issue with the movie)"
     }
-    actor {
-      name: "Zo\303\253 Kravitz"
-      comments: "Good from Zo\303\253 Kravitz (played the mystery of Selina Kyle very well and stole a good amount of scenes (though some scenes were questionable performances))"
+    performance {
+      actor {
+        name: "Zo\303\253 Kravitz"
+      }
+      rating: "Good"
+      comments: "Played the mystery of Selina Kyle very well and stole a good amount of scenes (though some scenes were questionable performances)"
     }
-    actor {
-      name: "Paul Dano"
-      comments: "Good to Very Good from Paul Dano (for the first 3/4 of the movie it felt like he was really stealing the show, but the final 1/4 of the movie, his performance really falls apart from being the menacing serial killer he is and to becoming a discord mod)"
+    performance {
+      actor {
+        name: "Paul Dano"
+      }
+      rating: "Good to Very Good"
+      comments: "For the first 3/4 of the movie it felt like he was really stealing the show, but the final 1/4 of the movie, his performance really falls apart from being the menacing serial killer he is and to becoming a discord mod"
     }
-    actor {
-      name: "Jeffrey Wright"
-      comments: "Very Good from Jeffrey Wright (Felt like a perfect casting and played the strengths of this role very well)"
+    performance {
+      actor {
+        name: "Jeffrey Wright"
+      }
+      rating: "Very Good"
+      comments: "Felt like a perfect casting and played the strengths of this role very well"
     }
-    actor {
-      name: "Colin Farrell"
-      comments: "Very Good from Colin Farrell (A real transformation and embodied the character very well (even though it was a bit over the top))"
+    performance {
+      actor {
+        name: "Colin Farrell"
+      }
+      rating: "Very Good"
+      comments: "A real transformation and embodied the character very well (even though it was a bit over the top)"
     }
-    cast: "Pretty Good to Good from the rest of the cast"
-    comments: "Good Acting"
+    cast {
+      rating: "Pretty Good to Good"
+    }
+    rating: "Good"
   }
   story {
     writer {
@@ -38,7 +56,8 @@ review {
     writer {
       name: "Peter Craig"
     }
-    comments: "Great Story (Felt very true to the comics and did a great job in putting together a realistic interpretation of Batman)"
+    rating: "Great"
+    comments: "Felt very true to the comics and did a great job in putting together a realistic interpretation of Batman"
   }
   screenplay {
     writer {
@@ -47,21 +66,23 @@ review {
     writer {
       name: "Peter Craig"
     }
-    comments: "Good Screenplay (The symbolism was prevalent and very well executed in showing its importance, though the dialogue felt very forced and not natural at all)"
+    rating: "Good"
+    comments: "The symbolism was prevalent and very well executed in showing its importance, though the dialogue felt very forced and not natural at all"
   }
   score {
     composer {
       name: "Michael Giacchino"
     }
-    comments: "Decent Score (Felt this was kind of a miss from the movie was it felt like the same motif playing over and over again and really takes a back seat to the iconic scores from the previous Batman movies)"
+    rating: "Decent"
+    comments: "Felt this was kind of a miss from the movie was it felt like the same motif playing over and over again and really takes a back seat to the iconic scores from the previous Batman movies"
   }
   cinematography {
     cinematographer {
       name: "Greig Fraser"
     }
-    comments: "Great Cinematography (The shift between general shots and reaction shots in the action scenes was a good stylistic choice, and the overall general shots taken was executed very well, but the intentional blur was a bit questionable at points)"
+    rating: "Great"
+    comments: "The shift between general shots and reaction shots in the action scenes was a good stylistic choice, and the overall general shots taken was executed very well, but the intentional blur was a bit questionable at points"
   }
-  sound: "Very Good Sound"
   editing {
     editor {
       name: "William Hoy"
@@ -69,15 +90,28 @@ review {
     editor {
       name: "Tyler Nelson"
     }
-    comments: "Very Good Editing"
+    rating: "Very Good"
   }
-  visual_effects: "Great Visual Effects (Except for a few scenes, overall really liked how a lot of the effects were done without CGI)"
-  production_design: "Great Production Design (Gave an overall dark Gotham feel that the movie was looking for)"
-  costumes: "Very Good Costumes (With the Serial Killer-esque Riddler Costume being the best, Batman had a very realistic costume)"
+  sound {
+    rating: "Very Good"
+  }
+  visual_effects {
+    rating: "Great"
+    comments: "Except for a few scenes, overall really liked how a lot of the effects were done without CGI"
+  }
+  production_design {
+    rating: "Great"
+    comments: "Gave an overall dark Gotham feel that the movie was looking for"
+  }
+  costumes {
+    rating: "Very Good"
+    comments: "With the Serial Killer-esque Riddler Costume being the best, Batman had a very realistic costume"
+  }
   plot_structure: "Plot Structure was fine for the first 3 acts but as soon as the it starts to get close to the climax (final 1/4 of the movie) it really starts to fall apart with the ending being kinda pointless and a bit boring"
   pacing: "Pacing felt good for the most part but for the final third of the movie it really hits how slow and dragging it is (Could have definitely cut 30-40 mins of the movie)"
   climax: "Build to climax not good as it feels like (SPOILER ALERT) as the interrogation scene is a bit pointless with nothing being added to the story except for the fact that (SPOILER ALERT) the riddler still won; climax was pretty boring as there were moments in the actual fight scene where it felt like Batman took very questionable moves (Also it just felt like Batman was fighting a bunch of Discord/Reddit mods)"
   tone: "Tone was set very nicely as it felt very dark and very Neo-Noir esque in its presentation and dialogue"
+  final_notes: ""
   overall: "Overall, a movie that has the potential to set up a good new Batman film series but suffers from a lot of flaws in its first encounter; it will be interesting to see where we are taken next as we follow this new, darker version of Batman"
 }
 release_year: 2022

@@ -5,41 +5,63 @@ review {
     director {
       name: "Gareth Edwards"
     }
-    comments: "Pretty Bad to Decent Direction (Edwards does a Good job on a macro-scale as the bigger scenes are well executed as we see the world he has created; he does a pretty good job at moving the story forward; the micro-scale/interpersonal scenes were bad because it just felt very rigid as there was no chemistry between the entire cast and each dramatic scene feels forced)"
+    rating: "Pretty Bad to Decent"
+    comments: "Edwards does a Good job on a macro-scale as the bigger scenes are well executed as we see the world he has created; he does a pretty good job at moving the story forward; the micro-scale/interpersonal scenes were bad because it just felt very rigid as there was no chemistry between the entire cast and each dramatic scene feels forced"
   }
   acting {
-    actor {
-      name: "John David Washington"
-      comments: "Pretty Bad to Decent from John David Washington (Does a pretty good job with his comedic timing to help alleviate some of the tension, and does a decent job in the action scenes; really hits a limit in the dramatic scenes as it becomes more comedic than dramatic)"
+    performance {
+      actor {
+        name: "John David Washington"
+      }
+      rating: "Pretty Bad to Decent"
+      comments: "Does a pretty good job with his comedic timing to help alleviate some of the tension, and does a decent job in the action scenes; really hits a limit in the dramatic scenes as it becomes more comedic than dramatic"
     }
-    actor {
-      name: "Gemma Chan"
-      comments: "Decent from Gemma Chan (Really is not given that much to work with because she barely has any dialog)"
+    performance {
+      actor {
+        name: "Gemma Chan"
+      }
+      rating: "Decent"
+      comments: "Really is not given that much to work with because she barely has any dialog"
     }
-    actor {
-      name: "Ken Watanabe"
-      comments: "Decent to Pretty Good from Ken Watanabe (Plays a lot from experience with this role)"
+    performance {
+      actor {
+        name: "Ken Watanabe"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Plays a lot from experience with this role"
     }
-    actor {
-      name: "Sturgill Simpson"
-      comments: "Decent from Sturgill Simpson"
+    performance {
+      actor {
+        name: "Sturgill Simpson"
+      }
+      rating: "Decent"
     }
-    actor {
-      name: "Allison Janney"
-      comments: "Pretty Good from Allison Janney (Holds her own well, and uses more of her experience than taking direction)"
+    performance {
+      actor {
+        name: "Allison Janney"
+      }
+      rating: "Pretty Good"
+      comments: "Holds her own well, and uses more of her experience than taking direction"
     }
-    actor {
-      name: "Madeleine Yuna Voyles"
-      comments: "Pretty Good from Madeleine Yuna Voyles (Holds her own in her scenes and does a good job in making you feel for her character)"
+    performance {
+      actor {
+        name: "Madeleine Yuna Voyles"
+      }
+      rating: "Pretty Good"
+      comments: "Holds her own in her scenes and does a good job in making you feel for her character"
     }
-    cast: "Pretty Bad to Decent from the rest of the cast (Everything just feels very forced)"
-    comments: "Pretty Bad to Decent Acting"
+    cast {
+      rating: "Pretty Bad to Decent"
+      comments: "Everything just feels very forced"
+    }
+    rating: "Pretty Bad to Decent"
   }
   story {
     writer {
       name: "Gareth Edwards"
     }
-    comments: "Pretty Good Story (The story was well laid out and had some unique concepts and characters, but it is pretty formulaic and predictable because it follows the same story template as Avatar and other movies of that trope)"
+    rating: "Pretty Good"
+    comments: "The story was well laid out and had some unique concepts and characters, but it is pretty formulaic and predictable because it follows the same story template as Avatar and other movies of that trope"
   }
   screenplay {
     writer {
@@ -48,13 +70,15 @@ review {
     writer {
       name: "Chris Weitz"
     }
-    comments: "Pretty Bad Screenplay (The dialogue was very cringey and corney (plus predictable); the jokes were decent (but kinda forced at times); the symbolism was very surface level and forced; the foreshadowing was decent (but a bit predictable at times))"
+    rating: "Pretty Bad"
+    comments: "The dialogue was very cringey and corney (plus predictable); the jokes were decent (but kinda forced at times); the symbolism was very surface level and forced; the foreshadowing was decent (but a bit predictable at times)"
   }
   score {
     composer {
       name: "Hans Zimmer"
     }
-    comments: "Pretty Good Score (Used well to build emotion)"
+    rating: "Pretty Good"
+    comments: "Used well to build emotion"
   }
   cinematography {
     cinematographer {
@@ -63,9 +87,9 @@ review {
     cinematographer {
       name: "Oren Soffer"
     }
-    comments: "Very Good Cinematography (Really helped with building the world and action scenes)"
+    rating: "Very Good"
+    comments: "Really helped with building the world and action scenes"
   }
-  sound: "Good Sound (Used well in the action scenes)"
   editing {
     editor {
       name: "Hank Corwin"
@@ -76,11 +100,23 @@ review {
     editor {
       name: "Scott Morris"
     }
-    comments: "Very Good Editing"
+    rating: "Very Good"
   }
-  visual_effects: "Great Visual Effects (Was the standout for the movie as it helped with creating the futuristic world)"
-  production_design: "Good Production Design (Heavily inspired by Blade Runner)"
-  costumes: "Good Costumes"
+  sound {
+    rating: "Good"
+    comments: "Used well in the action scenes"
+  }
+  visual_effects {
+    rating: "Great"
+    comments: "Was the standout for the movie as it helped with creating the futuristic world"
+  }
+  production_design {
+    rating: "Good"
+    comments: "Heavily inspired by Blade Runner"
+  }
+  costumes {
+    rating: "Good"
+  }
   plot_structure: "Plot Structure was pretty formulaic as it kept the same structure as movies with the same trope as Avatar"
   pacing: "Pacing was good (but felt like it dragged a bit towards the end); the runtime could have been cut by 5-10 minutes towards the end to make it a bit tighter"
   climax: "Climax was well executed as it acted as both an action-packed climax and an emotional climax"

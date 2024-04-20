@@ -8,67 +8,102 @@ review {
     director {
       name: "Michael Jelenic"
     }
-    comments: "Decent Direction (Was able to build the world really well, but was really capped at how much he could move the story forward and really did not go above and beyond in any way (just followed the generic children\'s animation template))"
+    rating: "Decent"
+    comments: "Was able to build the world really well, but was really capped at how much he could move the story forward and really did not go above and beyond in any way (just followed the generic children\'s animation template)"
   }
   acting {
-    actor {
-      name: "Chris Pratt"
-      comments: "Pretty Good from Chris Pratt (Better than I expected as the really molded the character to what he was able to do)"
+    performance {
+      actor {
+        name: "Chris Pratt"
+      }
+      rating: "Pretty Good"
+      comments: "Better than I expected as the really molded the character to what he was able to do"
     }
-    actor {
-      name: "Anya Taylor-Joy"
-      comments: "Good from Anya Taylor-Joy (Embodied the character well and get a lot of the Peach mannerisms)"
+    performance {
+      actor {
+        name: "Anya Taylor-Joy"
+      }
+      rating: "Good"
+      comments: "Embodied the character well and get a lot of the Peach mannerisms"
     }
-    actor {
-      name: "Charlie Day"
-      comments: "Good to Very Good from Charlie Day (Felt like the character was written very well for him as he was able to use his natural ability to bring Luigi to life)"
+    performance {
+      actor {
+        name: "Charlie Day"
+      }
+      rating: "Good to Very Good"
+      comments: "Felt like the character was written very well for him as he was able to use his natural ability to bring Luigi to life"
     }
-    actor {
-      name: "Jack Black"
-      comments: "Very Good from Jack Black (The best performance of the movie because it was very evident the amount of effort he put into voicing the role and really was the only choice to play Bowser)"
+    performance {
+      actor {
+        name: "Jack Black"
+      }
+      rating: "Very Good"
+      comments: "The best performance of the movie because it was very evident the amount of effort he put into voicing the role and really was the only choice to play Bowser"
     }
-    actor {
-      name: "Keegan-Michael Key"
-      comments: "Good from Keegan-Michael Key (Portrayed Toad very well)"
+    performance {
+      actor {
+        name: "Keegan-Michael Key"
+      }
+      rating: "Good"
+      comments: "Portrayed Toad very well"
     }
-    actor {
-      name: "Seth Rogen"
-      comments: "Pretty Good from Seth Rogen (It honestly just felt like Seth Rogen was playing Seth Rogen (which is fine cause I love him) as it did not feel like he was putting that much effort into molding to Donkey Kong)"
+    performance {
+      actor {
+        name: "Seth Rogen"
+      }
+      rating: "Pretty Good"
+      comments: "It honestly just felt like Seth Rogen was playing Seth Rogen (which is fine cause I love him) as it did not feel like he was putting that much effort into molding to Donkey Kong"
     }
-    actor {
-      name: "Fred Armisen"
-      comments: "Pretty Good to Good from Fred Armisen"
+    performance {
+      actor {
+        name: "Fred Armisen"
+      }
+      rating: "Pretty Good to Good"
     }
-    cast: "Pretty Good to Good from the rest of the cast"
-    comments: "Good Voice Acting"
+    cast {
+      rating: "Pretty Good to Good"
+    }
+    rating: "Good Voice"
   }
   story {
     writer {
       name: "Matthew Fogel"
     }
-    comments: "Decent Story (Really stayed true to the stories, but was super short as they tried to create a hero\'s journey but ultimately just gloss over the journey part)"
+    rating: "Decent"
+    comments: "Really stayed true to the stories, but was super short as they tried to create a hero\'s journey but ultimately just gloss over the journey part"
   }
   screenplay {
     writer {
       name: "Matthew Fogel"
     }
-    comments: "Decent Screenplay (The dialogue was pretty bland overall as it was typical children\'s movie dialogue (with there being nothing for adults besides nostalgia); the humor was a miss most of the time as it was just childish humor (which leaves nothing for adults); the allusions to the games were great as it really paid homage to the franchise (especially with the world building and how they moved in it to symbolize Super Mario Bros and Donkey Kong); symbolism and foreshadowing was about what you would expect from a kids movie (so not that much))"
+    rating: "Decent"
+    comments: "The dialogue was pretty bland overall as it was typical children\'s movie dialogue (with there being nothing for adults besides nostalgia); the humor was a miss most of the time as it was just childish humor (which leaves nothing for adults); the allusions to the games were great as it really paid homage to the franchise (especially with the world building and how they moved in it to symbolize Super Mario Bros and Donkey Kong); symbolism and foreshadowing was about what you would expect from a kids movie (so not that much)"
   }
   score {
     composer {
       name: "Brian Tyler"
     }
-    comments: "Very Good Score (Really liked how they interpolated the original Mario songs into the score)"
+    rating: "Very Good"
+    comments: "Really liked how they interpolated the original Mario songs into the score"
   }
-  soundtrack: "Bad Soundtrack (the use of 80s music really felt off throughout the movie as it did not help with establishing tone at all (Peaches was a good/funny song though))"
-  sound: "Very Good to Great Sound (Really helped give the original Super Mario Bros feel with they way they used sound)"
+  soundtrack {
+    rating: "Bad"
+    comments: "The use of 80s music really felt off throughout the movie as it did not help with establishing tone at all (Peaches was a good/funny song though)"
+  }
   editing {
     editor {
       name: "Eric Osmond"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  visual_effects: "Great Visual Effects (The best part of the movie as it helped provide parallels to the video games with they way they moved throughout the world in a platform style to mimic the original games (and Donkey Kong when during the Mario vs Donkey Kong scene))"
+  sound {
+    rating: "Very Good to Great"
+    comments: "Really helped give the original Super Mario Bros feel with they way they used sound"
+  }
+  visual_effects {
+    rating: "Great"
+    comments: "The best part of the movie as it helped provide parallels to the video games with they way they moved throughout the world in a platform style to mimic the original games (and Donkey Kong when during the Mario vs Donkey Kong scene)"
+  }
   plot_structure: "Plot Structure was the biggest issue of the movie as it really has no rising action for the Hero\'s journey (it more starts the journey, has one scene, then goes to the end of the journey); the movie really needed 30 minutes to help establish this rising action as well as establish Mario and Peach\'s relationship as it kinda feels like an after thought once it is originally introduced"
   pacing: "Pacing was steady throughout the movie (it just needed more runtime to help fill the void of missing plot)"
   climax: "Climax was very typical of Illumination movies as it is a major battle scene that was pretty predictable (still well animated though)"

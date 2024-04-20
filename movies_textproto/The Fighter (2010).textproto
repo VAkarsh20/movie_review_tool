@@ -5,27 +5,38 @@ review {
     director {
       name: "David O. Russell"
     }
-    comments: "Good Direction"
+    rating: "Good"
   }
   acting {
-    actor {
-      name: "Mark Wahlberg"
-      comments: "Good to Very Good from Mark Wahlberg (Though pretty shallow in terms of his lack of depth in the more depressing scenes)"
+    performance {
+      actor {
+        name: "Mark Wahlberg"
+      }
+      rating: "Good to Very Good"
+      comments: "Though pretty shallow in terms of his lack of depth in the more depressing scenes"
     }
-    actor {
-      name: "Christian Bale"
-      comments: "Incredible from Christian Bale"
+    performance {
+      actor {
+        name: "Christian Bale"
+      }
+      rating: "Incredible"
     }
-    actor {
-      name: "Amy Adams"
-      comments: "Very Good to Great from Amy Adams"
+    performance {
+      actor {
+        name: "Amy Adams"
+      }
+      rating: "Very Good to Great"
     }
-    actor {
-      name: "Melissa Leo"
-      comments: "Great from Melissa Leo"
+    performance {
+      actor {
+        name: "Melissa Leo"
+      }
+      rating: "Great"
     }
-    cast: "Pretty Good to Good from the rest of the cast"
-    comments: "Good to Very Good Acting"
+    cast {
+      rating: "Pretty Good to Good"
+    }
+    rating: "Good to Very Good"
   }
   story {
     writer {
@@ -37,7 +48,7 @@ review {
     writer {
       name: "Eric Johnson"
     }
-    comments: "Good Story"
+    rating: "Good"
   }
   screenplay {
     writer {
@@ -49,29 +60,36 @@ review {
     writer {
       name: "Eric Johnson"
     }
-    comments: "Decent to Pretty Good Screenplay (Pretty shallow and simple though, though it does have a good amount of comedic moments for a drama)"
+    rating: "Decent to Pretty Good"
+    comments: "Pretty shallow and simple though, though it does have a good amount of comedic moments for a drama"
   }
   score {
     composer {
       name: "Michael Brook"
     }
-    comments: "Pretty Bad Score (Just there and didn\'t really do anything)"
+    rating: "Pretty Bad"
+    comments: "Just there and didn\'t really do anything"
   }
-  soundtrack: "Pretty Bad to Decent Soundtrack (Choices were very typical of that of early 2010s movies which made it a bit cringe)"
+  soundtrack {
+    rating: "Pretty Bad to Decent"
+    comments: "Choices were very typical of that of early 2010s movies which made it a bit cringe"
+  }
   cinematography {
     cinematographer {
       name: "Hoyte van Hoytema"
     }
-    comments: "Great Cinematography (Especially how it gave it a very \"documentary style\" that mimics the beginning of the movie)"
+    rating: "Great"
+    comments: "Especially how it gave it a very \"documentary style\" that mimics the beginning of the movie"
   }
   editing {
     editor {
       name: "Pamela Martin"
     }
-    comments: "Decent Editing"
+    rating: "Decent"
   }
   pacing: "Pacing was pretty rushed as it skipped/merged a lot of events that actually happened when it really didn\'t; Runtime was ok but could have been a bit longer towards the end"
   climax: "the climax was very abrupt and pretty anticlimactic as the final fight and the reconciliation by the family is kinda felt as an after thought when it is meant to be the pinnacle of the movie"
+  final_notes: ""
   overall: "Overall, a good movie that is a fun watch that is driven by its performances but is held back a lot by it being a very simple retelling of what actually happened (even if some of the events were exaggerated)"
 }
 release_year: 2010

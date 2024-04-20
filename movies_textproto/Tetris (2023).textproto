@@ -5,49 +5,63 @@ review {
     director {
       name: "Jon S. Baird"
     }
-    comments: "Good Direction (Really helps set the tone and of the movie through a more lighthearted approach to storytelling; he gets a good amount out of his actors; the movie does feel very safe and nothing extraordinary in terms of its direction)"
+    rating: "Good"
+    comments: "Really helps set the tone and of the movie through a more lighthearted approach to storytelling; he gets a good amount out of his actors; the movie does feel very safe and nothing extraordinary in terms of its direction"
   }
   acting {
-    actor {
-      name: "Taron Egerton"
-      comments: "Very Good from Taron Egerton (Does a good job in commanding the lead in the movie and showing a range of emotion throughout, the source material really limits him from going above and beyond like his other roles though)"
+    performance {
+      actor {
+        name: "Taron Egerton"
+      }
+      rating: "Very Good"
+      comments: "Does a good job in commanding the lead in the movie and showing a range of emotion throughout, the source material really limits him from going above and beyond like his other roles though"
     }
-    actor {
-      name: "Toby Jones"
-      comments: "Pretty Good from Toby Jones"
+    performance {
+      actor {
+        name: "Toby Jones"
+      }
+      rating: "Pretty Good"
     }
-    actor {
-      name: "Nikita Yefremov"
-      comments: "Pretty Good to Good from Nikita Yefremov (A bit more of a reserved performance so there is not too much to work from (not entirely his fault as that was how the character was written), but he does do a good job playing off of Egerton throughout the movie)"
+    performance {
+      actor {
+        name: "Nikita Yefremov"
+      }
+      rating: "Pretty Good to Good"
+      comments: "A bit more of a reserved performance so there is not too much to work from (not entirely his fault as that was how the character was written), but he does do a good job playing off of Egerton throughout the movie"
     }
-    cast: "Pretty Good from the rest of the cast"
-    comments: "Pretty Good Acting"
+    cast {
+      rating: "Pretty Good"
+    }
+    rating: "Pretty Good"
   }
   story {
     writer {
       name: "Noah Pink"
     }
-    comments: "Very Good Story (The overall story is well laid out, though it is a bit overt in its storytelling, and the story elements build off of each other to create suspense for the climax)"
+    rating: "Very Good"
+    comments: "The overall story is well laid out, though it is a bit overt in its storytelling, and the story elements build off of each other to create suspense for the climax"
   }
   screenplay {
     writer {
       name: "Noah Pink"
     }
-    comments: "Pretty Good to Good Screenplay (A bit simplistic in the dialogue but flows well throughout; not too much symbolism because its a biopic; the humor throughout the movie was decent and helped make the film pretty lighthearted; no real foreshadowing)"
+    rating: "Pretty Good to Good"
+    comments: "A bit simplistic in the dialogue but flows well throughout; not too much symbolism because its a biopic; the humor throughout the movie was decent and helped make the film pretty lighthearted; no real foreshadowing"
   }
   score {
     composer {
       name: "Lorne Balfe"
     }
-    comments: "Good to Very Good Score (Really enjoyed how they interpolated the Tetris theme into it and used the score throughout to build suspense)"
+    rating: "Good to Very Good"
+    comments: "Really enjoyed how they interpolated the Tetris theme into it and used the score throughout to build suspense"
   }
   cinematography {
     cinematographer {
       name: "Alwin H. K\303\274chler"
     }
-    comments: "Good to Very Good Cinematography (Helps with placing emphasis on different subjects and was overall very professional throughout)"
+    rating: "Good to Very Good"
+    comments: "Helps with placing emphasis on different subjects and was overall very professional throughout"
   }
-  sound: "Good Sound (Enjoyed how it replaced sounds with 8-bit sounds to make the movie feel more like a video game from the 80s)"
   editing {
     editor {
       name: "Martin Walsh"
@@ -58,9 +72,17 @@ review {
     editor {
       name: "Ben Mills"
     }
-    comments: "Decent Editing (Really helped give that video game feel to the movie; the transitions between countries felt a bit amateurish though; There were also these weird freezes throughout the movie (do not know if this was intentional or if it was just from it being a world premiere and the is not fully polished yet))"
+    rating: "Decent"
+    comments: "Really helped give that video game feel to the movie; the transitions between countries felt a bit amateurish though; There were also these weird freezes throughout the movie (do not know if this was intentional or if it was just from it being a world premiere and the is not fully polished yet)"
   }
-  visual_effects: "Very Good Visual Effects (Gave the movie a more 80s, NES feel when it was used in conjunction with scenes; the 8-bit animated replacing shots were pretty good but felt a bit amateur (though overall I did enjoy them))"
+  sound {
+    rating: "Good"
+    comments: "Enjoyed how it replaced sounds with 8-bit sounds to make the movie feel more like a video game from the 80s"
+  }
+  visual_effects {
+    rating: "Very Good"
+    comments: "Gave the movie a more 80s, NES feel when it was used in conjunction with scenes; the 8-bit animated replacing shots were pretty good but felt a bit amateur (though overall I did enjoy them)"
+  }
   plot_structure: "Plot Structure was pretty standard as it followed the standard arc (with the all parts of the plot being evident)"
   pacing: "Pacing was pretty steady with no major issues (no need to add or cut anything)"
   climax: "Climax was executed well as it was a fun rush filled with action in a movie that does not have any (though it helps suspend the disbelief if this actually happened in real life)"

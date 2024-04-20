@@ -5,27 +5,42 @@ review {
     director {
       name: "Peter Atencio"
     }
-    comments: "Decent Direction (Safe Storytelling but was surprisingly able to move the story very well, got a good amount of the actors, and set the tone decently well)"
+    rating: "Decent"
+    comments: "Safe Storytelling but was surprisingly able to move the story very well, got a good amount of the actors, and set the tone decently well"
   }
   acting {
-    actor {
-      name: "Bert Kreischer"
-      comments: "Pretty Good from Bert Kreischer (Was literally playing himself)"
+    performance {
+      actor {
+        name: "Bert Kreischer"
+      }
+      rating: "Pretty Good"
+      comments: "Was literally playing himself"
     }
-    actor {
-      name: "Mark Hamill"
-      comments: "Pretty Good from Mark Hamill (Pulls a lot from his experience as an actor, but does have good comedic timing)"
+    performance {
+      actor {
+        name: "Mark Hamill"
+      }
+      rating: "Pretty Good"
+      comments: "Pulls a lot from his experience as an actor, but does have good comedic timing"
     }
-    actor {
-      name: "Jimmy Tatro"
-      comments: "Pretty Good from Jimmy Tatro (Plays the typical Jimmy Tatro/Frat character)"
+    performance {
+      actor {
+        name: "Jimmy Tatro"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the typical Jimmy Tatro/Frat character"
     }
-    actor {
-      name: "Iva Babi\304\207"
-      comments: "Decent to Pretty Good from Iva Babi\304\207 (A real star from the movie as she was able to play the stone-cold killer well and showed some dramatic moments of humanity well; the character was kinda restricted a bit in that were were some corny moments though)"
+    performance {
+      actor {
+        name: "Iva Babi\304\207"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "A real star from the movie as she was able to play the stone-cold killer well and showed some dramatic moments of humanity well; the character was kinda restricted a bit in that were were some corny moments though"
     }
-    cast: "Decent from the rest of the cast"
-    comments: "Decent to Pretty Acting"
+    cast {
+      rating: "Decent"
+    }
+    rating: "Decent to Pretty"
   }
   story {
     writer {
@@ -34,7 +49,8 @@ review {
     writer {
       name: "Scotty Landes"
     }
-    comments: "Decent Story (Does a good job in interpolating the old machine story into the new one as the past is used to help move the present forward; though does follow a lot of the same cliches other action-comedies have (making the movie very predictable overall))"
+    rating: "Decent"
+    comments: "Does a good job in interpolating the old machine story into the new one as the past is used to help move the present forward; though does follow a lot of the same cliches other action-comedies have (making the movie very predictable overall)"
   }
   screenplay {
     writer {
@@ -43,28 +59,34 @@ review {
     writer {
       name: "Scotty Landes"
     }
-    comments: "Decent Screenplay (Has a good amount of comedic moments that wer enjoyable to watch/funny to laugh at (though there are some noticeable misses); dialogue is pretty shallow and safe overall; the movie is pretty shallow in its symbolism and foreshadowing)"
+    rating: "Decent"
+    comments: "Has a good amount of comedic moments that wer enjoyable to watch/funny to laugh at (though there are some noticeable misses); dialogue is pretty shallow and safe overall; the movie is pretty shallow in its symbolism and foreshadowing"
   }
   score {
     composer {
       name: "Joseph Trapanese"
     }
-    comments: "Decent Score"
+    rating: "Decent"
   }
   cinematography {
     cinematographer {
       name: "Eigil Bryld"
     }
-    comments: "Decent to Pretty Good Cinematography"
+    rating: "Decent to Pretty Good"
   }
-  sound: "Decent to Pretty Good Sound"
   editing {
     editor {
       name: "Eleanor Infante"
     }
-    comments: "Decent Editing (I felt the cuts between scenes were kinda choppy (which was kinda a shame cause they could have made the transitions from the present to the past a lot smoother); but I really liked how they edited the text into the screen as it was very unique)"
+    rating: "Decent"
+    comments: "I felt the cuts between scenes were kinda choppy (which was kinda a shame cause they could have made the transitions from the present to the past a lot smoother); but I really liked how they edited the text into the screen as it was very unique"
   }
-  visual_effects: "Decent to Pretty Good Visual Effects"
+  sound {
+    rating: "Decent to Pretty Good"
+  }
+  visual_effects {
+    rating: "Decent to Pretty Good"
+  }
   plot_structure: "Plot Structure was pretty boilerplate as it followed the generic action-comedy template"
   pacing: "Pacing was steady throughout the whole movie (no need to cut or add any time)"
   climax: "Climax was executed well as it is a full action sequence that was well choreographed"

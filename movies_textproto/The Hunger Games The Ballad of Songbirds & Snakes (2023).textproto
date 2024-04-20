@@ -5,39 +5,64 @@ review {
     director {
       name: "Francis Lawrence"
     }
-    comments: "Pretty Bad Direction (The direction on a macroscale is good as the director uses the large sets, VFX, and cinematography to help paint these grand scenes in both the capital and the arena of The Hunger Games (while at the same time showing its grime and dark side), the direction of The Hunger Games was good and kept the movie engaging in the middle part; the direction on a microscale was bad as the interpersonal scenes did not feel fluid at all and were not well executed; the direction of actors was bad as none of of the performances felt like they were elevated by direction; storytelling was poor as there doesn\'t feel like a sense of where the movie is going as builds to one thing and drastically disposes of it in favor of a something else)"
+    rating: "Pretty Bad"
+    comments: "The direction on a macroscale is good as the director uses the large sets, VFX, and cinematography to help paint these grand scenes in both the capital and the arena of The Hunger Games (while at the same time showing its grime and dark side), the direction of The Hunger Games was good and kept the movie engaging in the middle part; the direction on a microscale was bad as the interpersonal scenes did not feel fluid at all and were not well executed; the direction of actors was bad as none of of the performances felt like they were elevated by direction; storytelling was poor as there doesn\'t feel like a sense of where the movie is going as builds to one thing and drastically disposes of it in favor of a something else"
   }
   acting {
-    actor {
-      name: "Tom Blyth"
-      comments: "Pretty Good from Tom Blyth (Shows some range of emotion and shows both the good and the bad side of Snow decently well)"
+    performance {
+      actor {
+        name: "Tom Blyth"
+      }
+      rating: "Pretty Good"
+      comments: "Shows some range of emotion and shows both the good and the bad side of Snow decently well"
     }
-    actor {
-      name: "Rachel Zegler"
-      comments: "Pretty Bad from Rachel Zegler (Her accent kept on slipping and she kinda feels out of place with the rest of the cast (and the chemistry between her and Blyth is not the best); her musical moments (while forced) were carried out well as she shows off how good of a singer she is)"
+    performance {
+      actor {
+        name: "Rachel Zegler"
+      }
+      rating: "Pretty Bad"
+      comments: "Her accent kept on slipping and she kinda feels out of place with the rest of the cast (and the chemistry between her and Blyth is not the best); her musical moments (while forced) were carried out well as she shows off how good of a singer she is"
     }
-    actor {
-      name: "Peter Dinklage"
-      comments: "Pretty Good from Peter Dinklage (Really just feels like he is playing many of the characters he has played in the past (the drunk character who has a lot to say) so he kinda just goes on his own)"
+    performance {
+      actor {
+        name: "Peter Dinklage"
+      }
+      rating: "Pretty Good"
+      comments: "Really just feels like he is playing many of the characters he has played in the past (the drunk character who has a lot to say) so he kinda just goes on his own"
     }
-    actor {
-      name: "Jason Schwartzman"
-      comments: "Good from Jason Schwartzman (The best performance of the movie as he plays the comedic relief character well)"
+    performance {
+      actor {
+        name: "Jason Schwartzman"
+      }
+      rating: "Good"
+      comments: "The best performance of the movie as he plays the comedic relief character well"
     }
-    actor {
-      name: "Hunter Schafer"
-      comments: "Pretty Bad from Hunter Schafer (Very emotionless and doesn\'t have any emotion with Blyth)"
+    performance {
+      actor {
+        name: "Hunter Schafer"
+      }
+      rating: "Pretty Bad"
+      comments: "Very emotionless and doesn\'t have any emotion with Blyth"
     }
-    actor {
-      name: "Josh Andr\303\251s Rivera"
-      comments: "Decent from Josh Andr\303\251s Rivera (Has moments where he shines and some moments where it feels like he\'s overacting)"
+    performance {
+      actor {
+        name: "Josh Andr\303\251s Rivera"
+      }
+      rating: "Decent"
+      comments: "Has moments where he shines and some moments where it feels like he\'s overacting"
     }
-    actor {
-      name: "Viola Davis"
-      comments: "Decent from Viola Davis (Not really her best performance as it is a lot of overacting (but it doesn\'t feel like it is a bad performance, just not the best direction))"
+    performance {
+      actor {
+        name: "Viola Davis"
+      }
+      rating: "Decent"
+      comments: "Not really her best performance as it is a lot of overacting (but it doesn\'t feel like it is a bad performance, just not the best direction)"
     }
-    cast: "Decent from the rest of the cast (Hard to comment as most of the cast is child actors who feel like they weren\'t given the best direction)"
-    comments: "Decent Acting"
+    cast {
+      rating: "Decent"
+      comments: "Hard to comment as most of the cast is child actors who feel like they weren\'t given the best direction"
+    }
+    rating: "Decent"
   }
   story {
     writer {
@@ -46,7 +71,8 @@ review {
     writer {
       name: "Michael Arndt"
     }
-    comments: "Bad Story (The concept was pretty good as it was interesting to see the early Hunger Games and the origins of President Snow (though the carrying out of this concept was very bad); the story contruction was terrible as first act drags so much that its boring and the third act is completely out of place as it felt like they forgot to make Snow the bad guy (the second act is pretty good as its just The Hunger Games and plays to the strengths of the franchise); storytelling/flow between sequences was bad as every scene just felt forced and nothing felt like it flowed between each other (and this is especially seen in the final act as the movie has to make up for making Snow be the good guy when hes supposed to be the bad guy); character writing was very bad (Snow is terribly written as they put so much emphasis on sympathiszing him and making him be the good guy that they run out of time in making him be the bad guy and rush/force this part of the character in the end, Lucy Gray Baird is not written either as you really don\'t cate about her as her singing just gets really annoying towards the end))"
+    rating: "Bad"
+    comments: "The concept was pretty good as it was interesting to see the early Hunger Games and the origins of President Snow (though the carrying out of this concept was very bad); the story contruction was terrible as first act drags so much that its boring and the third act is completely out of place as it felt like they forgot to make Snow the bad guy (the second act is pretty good as its just The Hunger Games and plays to the strengths of the franchise); storytelling/flow between sequences was bad as every scene just felt forced and nothing felt like it flowed between each other (and this is especially seen in the final act as the movie has to make up for making Snow be the good guy when hes supposed to be the bad guy); character writing was very bad (Snow is terribly written as they put so much emphasis on sympathiszing him and making him be the good guy that they run out of time in making him be the bad guy and rush/force this part of the character in the end, Lucy Gray Baird is not written either as you really don\'t cate about her as her singing just gets really annoying towards the end)"
   }
   screenplay {
     writer {
@@ -55,29 +81,41 @@ review {
     writer {
       name: "Michael Arndt"
     }
-    comments: "Pretty Bad Screenplay (The dialogue did not flow and was kinda forced; the tension build was good and carried out well in The Hunger Games act; the symbolism was very shallow as it does not do a good job in building Snow\'s journey for power; the foreshadowing was none-existent as the movie forces the ending because they forgot to make Snow the bad guy in the first two acts)"
+    rating: "Pretty Bad"
+    comments: "The dialogue did not flow and was kinda forced; the tension build was good and carried out well in The Hunger Games act; the symbolism was very shallow as it does not do a good job in building Snow\'s journey for power; the foreshadowing was none-existent as the movie forces the ending because they forgot to make Snow the bad guy in the first two acts"
   }
   score {
     composer {
       name: "James Newton Howard"
     }
-    comments: "Good Score (Carries different motifs from the original franchise)"
+    rating: "Good"
+    comments: "Carries different motifs from the original franchise"
   }
   cinematography {
     cinematographer {
       name: "Jo Willems"
     }
-    comments: "Good Cinematography (Helped show how grand the capital was and helped build the world (especially in The Hunger Games))"
+    rating: "Good"
+    comments: "Helped show how grand the capital was and helped build the world (especially in The Hunger Games)"
   }
-  sound: "Good Sound (Helped in the action scenes)"
   editing {
     editor {
       name: "Mark Yoshikawa"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
-  visual_effects: "Good Visual Effects (Helped make the movie feel like it was a part of the franchise and did not feel over-the-top in any way)"
-  production_design: "Good Production Design (Helped with building the world)"
+  sound {
+    rating: "Good"
+    comments: "Helped in the action scenes"
+  }
+  visual_effects {
+    rating: "Good"
+    comments: "Helped make the movie feel like it was a part of the franchise and did not feel over-the-top in any way"
+  }
+  production_design {
+    rating: "Good"
+    comments: "Helped with building the world"
+  }
   plot_structure: "Plot Structure was the biggest issue for the movie as 2 out of the three acts were pointless (the first act builds Snow to be a good guy and really drags, the second act is pretty good as it is just The Hunger Games, and the third act is just so forced as it clearly shows that they forgot to make Snow the bad guys so they rush to give him moments that show how he\'s not a good person); The movie could\'ve been split into two movies to help with runtime (with the entire third act being spun off to show how bad of a person Snow is as there are some moments in the second act that could allude to him being a bad guy, something a second movie could take and build on)"
   pacing: "Pacing was slow in the first and third act (especially in the third) but pretty good in the second act as the fast pace helped build tension in The Hunger Games"
   climax: "Climax was so underwhelming it was more laughable than entertaining"

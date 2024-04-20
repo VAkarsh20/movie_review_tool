@@ -5,11 +5,15 @@ review {
     director {
       name: "Peter Jackson"
     }
-    comments: "Very Good to Great Direction (Takes a step back from the previous movie as this movie is more about moving the story forward (which is does a great job at) but introduces many new things in this film that it is a bit hard to follow at times)"
+    rating: "Very Good to Great"
+    comments: "Takes a step back from the previous movie as this movie is more about moving the story forward (which is does a great job at) but introduces many new things in this film that it is a bit hard to follow at times"
   }
   acting {
-    cast: "Very Good from the rest of the cast (All the performances still act as pieces to a larger part but they are not as powerful as they were in the first film (specifically Gandolf) but Gollum did improve in this movie substantially)"
-    comments: "Very Good Acting"
+    cast {
+      rating: "Very Good"
+      comments: "All the performances still act as pieces to a larger part but they are not as powerful as they were in the first film (specifically Gandolf) but Gollum did improve in this movie substantially"
+    }
+    rating: "Very Good"
   }
   story {
     writer {
@@ -24,7 +28,8 @@ review {
     writer {
       name: "Peter Jackson"
     }
-    comments: "Good to Very Good Story (The story is still very captivating but there are so many parallel plots going that introduce new story elements so quickly that is a bit confusing at times on what is happening)"
+    rating: "Good to Very Good"
+    comments: "The story is still very captivating but there are so many parallel plots going that introduce new story elements so quickly that is a bit confusing at times on what is happening"
   }
   screenplay {
     writer {
@@ -39,31 +44,45 @@ review {
     writer {
       name: "Peter Jackson"
     }
-    comments: "Great Screenplay (Similar to the first film; while the very \"Middle English\"-esque text is hard to follow sometimes, the actual dialogue is very well written as we see the director use it well to help tell the story (especially in the narration parts); also, the symbolism throughout the movie (specifically, about a boy who is trying to grow-up and be a hero trope))"
+    rating: "Great"
+    comments: "Similar to the first film; while the very \"Middle English\"-esque text is hard to follow sometimes, the actual dialogue is very well written as we see the director use it well to help tell the story (especially in the narration parts); also, the symbolism throughout the movie (specifically, about a boy who is trying to grow-up and be a hero trope)"
   }
   score {
     composer {
       name: "Howard Shore"
     }
-    comments: "Great Score (with memorable themes, and actually may be a bit better this movie)"
+    rating: "Great"
+    comments: "With memorable themes, and actually may be a bit better this movie"
   }
   cinematography {
     cinematographer {
       name: "Andrew Lesnie"
     }
-    comments: "Very Good Cinematography (An improvement from the last film as there are more grandiose shots that are well executed)"
+    rating: "Very Good"
+    comments: "An improvement from the last film as there are more grandiose shots that are well executed"
   }
-  sound: "Great Sound"
   editing {
     editor {
       name: "Michael J. Horton"
     }
-    comments: "Very Good to Great Editing"
+    rating: "Very Good to Great"
   }
-  visual_effects: "Very Good Visual Effects (For the most part the CGI is good but there are more noticeable hiccups in this movie than the previous (especially in the mix between Live-Action and CGI))"
-  production_design: "Great Production Design"
-  makeup: "Great Makeup"
-  costumes: "Very Good Costumes"
+  sound {
+    rating: "Great"
+  }
+  visual_effects {
+    rating: "Very Good"
+    comments: "For the most part the CGI is good but there are more noticeable hiccups in this movie than the previous (especially in the mix between Live-Action and CGI)"
+  }
+  production_design {
+    rating: "Great"
+  }
+  makeup {
+    rating: "Great"
+  }
+  costumes {
+    rating: "Very Good"
+  }
   plot_structure: "Plot Structure just feels like it is moving the story forward and not like a separate film in the trilogy (like the first film) so there really is no typical plot structure"
   pacing: "Pacing was very fast (especially for a movie that is 3 hours long) as it felt like they were trying to fit so much in (which does make sense given how dense the books are) but unlike the last film I do not think it does as good of a job as it did in the previous one"
   climax: "Build to climax was good as it builds up to different epic battles that the characters must fight; climax was well executed as it goes between the different story line climaxes very well to keep the audience engaged"

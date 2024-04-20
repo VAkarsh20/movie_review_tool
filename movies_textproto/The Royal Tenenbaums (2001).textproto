@@ -5,11 +5,14 @@ review {
     director {
       name: "Wes Anderson"
     }
-    comments: "Good Direction"
+    rating: "Good"
   }
   acting {
-    cast: "Good from the rest of the cast (The cast overall was good (but individual performances were pretty good to decent from how bland they can be))"
-    comments: "Good Acting"
+    cast {
+      rating: "Good"
+      comments: "The cast overall was good (but individual performances were pretty good to decent from how bland they can be)"
+    }
+    rating: "Good"
   }
   story {
     writer {
@@ -18,7 +21,7 @@ review {
     writer {
       name: "Owen Wilson"
     }
-    comments: "Good Story"
+    rating: "Good"
   }
   screenplay {
     writer {
@@ -27,19 +30,21 @@ review {
     writer {
       name: "Owen Wilson"
     }
-    comments: "Good Screenplay (but quirky)"
+    rating: "Good"
+    comments: "But quirky"
   }
   cinematography {
     cinematographer {
       name: "Robert Yeoman"
     }
-    comments: "Good Cinematography (Was Wes Anderson to a Tee from the amount of shots/angle changes)"
+    rating: "Good"
+    comments: "Was Wes Anderson to a Tee from the amount of shots/angle changes"
   }
   editing {
     editor {
       name: "Dylan Tichenor"
     }
-    comments: "Good Editing"
+    rating: "Good"
   }
   final_notes: "There really was no real plot to movie but themes of overcoming a toxic family dynamic was shown very well"
   overall: "Overall, a pretty good watch that shows how broken pieces of a family can still come together to make a single unit through adversity in what is a prime example of Wes Anderson filmmaking with its quirks and cinematography"

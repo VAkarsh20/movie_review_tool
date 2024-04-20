@@ -5,27 +5,42 @@ review {
     director {
       name: "Joseph Kosinski"
     }
-    comments: "Very Good to Great Direction (Handles the action scenes very well through direction of actors and camera angles and handles the non-fighting scenes very well as he is able to get the most of his actors as they get into their characters)"
+    rating: "Very Good to Great"
+    comments: "Handles the action scenes very well through direction of actors and camera angles and handles the non-fighting scenes very well as he is able to get the most of his actors as they get into their characters"
   }
   acting {
-    actor {
-      name: "Tom Cruise"
-      comments: "Very Good from Tom Cruise (Carries where he left off from his original portrayal of the character but provides more depth into a very shallow character initially; really shows the growth in Tom Cruise\'s ability as while he does play his typical character, he has more range in what he can do with what he is provided)"
+    performance {
+      actor {
+        name: "Tom Cruise"
+      }
+      rating: "Very Good"
+      comments: "Carries where he left off from his original portrayal of the character but provides more depth into a very shallow character initially; really shows the growth in Tom Cruise\'s ability as while he does play his typical character, he has more range in what he can do with what he is provided"
     }
-    actor {
-      name: "Miles Teller"
-      comments: "Good to Very Good from Miles Teller (Carries his own very nicely and fills that void that Goose left, also adds his own flair to the character to make it an heir apparent)"
+    performance {
+      actor {
+        name: "Miles Teller"
+      }
+      rating: "Good to Very Good"
+      comments: "Carries his own very nicely and fills that void that Goose left, also adds his own flair to the character to make it an heir apparent"
     }
-    actor {
-      name: "Jennifer Connelly"
-      comments: "Good to Very Good from Jennifer Connelly (Played her strengths very well as she played the love interest trope using her experience as an actress, also looked very stunning)"
+    performance {
+      actor {
+        name: "Jennifer Connelly"
+      }
+      rating: "Good to Very Good"
+      comments: "Played her strengths very well as she played the love interest trope using her experience as an actress, also looked very stunning"
     }
-    actor {
-      name: "Jon Hamm"
-      comments: "Good to Very Good from Jon Hamm (An experienced actor that plays his role well)"
+    performance {
+      actor {
+        name: "Jon Hamm"
+      }
+      rating: "Good to Very Good"
+      comments: "An experienced actor that plays his role well"
     }
-    cast: "Good from the rest of the cast"
-    comments: "Good to Very Good Acting"
+    cast {
+      rating: "Good"
+    }
+    rating: "Good to Very Good"
   }
   story {
     writer {
@@ -34,7 +49,8 @@ review {
     writer {
       name: "Justin Marks"
     }
-    comments: "Good to Very Good Story (While the actual storyline mimics the original and it pretty simplistic, there are many callbacks to the original story that I really did like)"
+    rating: "Good to Very Good"
+    comments: "While the actual storyline mimics the original and it pretty simplistic, there are many callbacks to the original story that I really did like"
   }
   screenplay {
     writer {
@@ -46,7 +62,8 @@ review {
     writer {
       name: "Christopher McQuarrie"
     }
-    comments: "Good to Very Good Screenplay (Pretty simple dialogue, but the allusions to past Top Gun moments with the different symbolism aspects make it for an improvement on the first movie)"
+    rating: "Good to Very Good"
+    comments: "Pretty simple dialogue, but the allusions to past Top Gun moments with the different symbolism aspects make it for an improvement on the first movie"
   }
   score {
     composer {
@@ -58,25 +75,41 @@ review {
     composer {
       name: "Hans Zimmer"
     }
-    comments: "Good Score (See Soundtrack comments)"
+    rating: "Good"
+    comments: "See Soundtrack comments"
   }
-  soundtrack: "Good Soundtrack (Something that the first movie has over this as everything that is new just is not as good as the original, but they do use a good amount of the original\'s material (making it nostalgic))"
+  soundtrack {
+    rating: "Good"
+    comments: "Something that the first movie has over this as everything that is new just is not as good as the original, but they do use a good amount of the original\'s material (making it nostalgic)"
+  }
   cinematography {
     cinematographer {
       name: "Claudio Miranda"
     }
-    comments: "Incredible Cinematography (Especially in the fighter pilot scenes as the POV shots really are well made to show the pilot\'s reactions along with their surroundings, also the different angles used to help show emphasis were a nice touch)"
+    rating: "Incredible"
+    comments: "Especially in the fighter pilot scenes as the POV shots really are well made to show the pilot\'s reactions along with their surroundings, also the different angles used to help show emphasis were a nice touch"
   }
-  sound: "Incredible Sound (as shown in the fighter pilot scenes)"
   editing {
     editor {
       name: "Eddie Hamilton"
     }
-    comments: "Great Editing"
+    rating: "Great"
   }
-  visual_effects: "Great Visual Effects"
-  makeup: "Good to Very Good Makeup (Only worth mentioning because of how good Jennifer Connelly\'s hair was throughout the movie)"
-  costumes: "Very Good Costumes (Noticeable because of the pilot attire)"
+  sound {
+    rating: "Incredible"
+    comments: "As shown in the fighter pilot scenes"
+  }
+  visual_effects {
+    rating: "Great"
+  }
+  makeup {
+    rating: "Good to Very Good"
+    comments: "Only worth mentioning because of how good Jennifer Connelly\'s hair was throughout the movie"
+  }
+  costumes {
+    rating: "Very Good"
+    comments: "Noticeable because of the pilot attire"
+  }
   plot_structure: "Plot Structure was pretty standard (mostly follows the original with some touches every now and then) but does put balance on the most important parts of the movie (especially towards the end)"
   pacing: "Pacing was great for the most part as it was steady and helped keep the audience engaged"
   climax: "Build to climax was great as it helps build the tension that Maverick has throughout the movie and how much he really does trust and care for Rooster (something that really builds throughout the movie); climax was incredible as the final 40 minutes of the movie are incredibly captivating with the action/fighter pilot scenes and other parts (really is a must watch with its execution as well and is by far the best part of the movie)"

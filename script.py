@@ -959,7 +959,7 @@ if __name__=="__main__":
 
     argc = len(sys.argv)
 
-    files = [x for x in os.listdir('movies_textproto/') if x.startswith("S")]
+    files = [x for x in os.listdir('movies_textproto/') if x.startswith("Z")]
 
     for filename in files:
         if filename == "reduxed":

@@ -5,35 +5,49 @@ review {
     director {
       name: "Francis Ford Coppola"
     }
-    comments: "Incredible to Brilliant Direction"
+    rating: "Incredible to Brilliant"
   }
   acting {
-    actor {
-      name: "Marlon Brando"
-      comments: "Brilliant from Marlon Brando"
+    performance {
+      actor {
+        name: "Marlon Brando"
+      }
+      rating: "Brilliant"
     }
-    actor {
-      name: "Al Pacino"
-      comments: "Incredible from Al Pacino"
+    performance {
+      actor {
+        name: "Al Pacino"
+      }
+      rating: "Incredible"
     }
-    actor {
-      name: "James Caan"
-      comments: "Great to Incredible from James Caan"
+    performance {
+      actor {
+        name: "James Caan"
+      }
+      rating: "Great to Incredible"
     }
-    actor {
-      name: "Robert Duvall"
-      comments: "Great to Incredible from Robert Duvall"
+    performance {
+      actor {
+        name: "Robert Duvall"
+      }
+      rating: "Great to Incredible"
     }
-    actor {
-      name: "Diane Keaton"
-      comments: "Great from Diane Keaton"
+    performance {
+      actor {
+        name: "Diane Keaton"
+      }
+      rating: "Great"
     }
-    actor {
-      name: "Talia Shire"
-      comments: "Great from Talia Shire"
+    performance {
+      actor {
+        name: "Talia Shire"
+      }
+      rating: "Great"
     }
-    cast: "Very Good to Great from the rest of the cast"
-    comments: "Great to Incredible Acting"
+    cast {
+      rating: "Very Good to Great"
+    }
+    rating: "Great to Incredible"
   }
   story {
     writer {
@@ -42,7 +56,8 @@ review {
     writer {
       name: "Francis Ford Coppola"
     }
-    comments: "Incredible to Brilliant Story (though its storytelling is a bit confusing)"
+    rating: "Incredible to Brilliant"
+    comments: "Though its storytelling is a bit confusing"
   }
   screenplay {
     writer {
@@ -51,21 +66,22 @@ review {
     writer {
       name: "Francis Ford Coppola"
     }
-    comments: "Brilliant Screenplay (Mixed with the nuances of subtly and symbolism)"
+    rating: "Brilliant"
+    comments: "Mixed with the nuances of subtly and symbolism"
   }
   score {
     composer {
       name: "Nino Rota"
     }
-    comments: "Great Score"
+    rating: "Great"
   }
   cinematography {
     cinematographer {
       name: "Gordon Willis"
     }
-    comments: "Incredible Cinematography (uses Sound/Cinematography/Film Editing to really show the mood of the scenes and emotions of the characters)"
+    rating: "Incredible"
+    comments: "Uses Sound/Cinematography/Film Editing to really show the mood of the scenes and emotions of the characters"
   }
-  sound: "Incredible Sound (see Cinematography)"
   editing {
     editor {
       name: "William Reynolds"
@@ -73,7 +89,12 @@ review {
     editor {
       name: "Peter Zinner"
     }
-    comments: "Incredible Editing (See Cinematography)"
+    rating: "Incredible"
+    comments: "See Cinematography"
+  }
+  sound {
+    rating: "Incredible"
+    comments: "See Cinematography"
   }
   plot_structure: "Plot Structure was good and unexpecting (considering I did not expect how the turns of the story went the way they did)"
   pacing: "Pacing was slow and steady; Runtime was log but it is hard to take out/cut any scenes because each scene feels like it is important to the story"

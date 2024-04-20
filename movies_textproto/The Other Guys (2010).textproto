@@ -5,35 +5,55 @@ review {
     director {
       name: "Adam McKay"
     }
-    comments: "Very Good Direction (Was able to blend the comedic and action elements very well)"
+    rating: "Very Good"
+    comments: "Was able to blend the comedic and action elements very well"
   }
   acting {
-    actor {
-      name: "Will Ferrell"
-      comments: "Incredible from Will Ferrell (Incredible Chemistry between Will Ferrell and Mark Wahlburg as both actors\' strengths come out when working off each other)"
+    performance {
+      actor {
+        name: "Will Ferrell"
+      }
+      rating: "Incredible"
+      comments: "Incredible Chemistry between Will Ferrell and Mark Wahlburg as both actors\' strengths come out when working off each other"
     }
-    actor {
-      name: "Mark Wahlberg"
-      comments: "Incredible from Mark Wahlberg (See Will Ferrell)"
+    performance {
+      actor {
+        name: "Mark Wahlberg"
+      }
+      rating: "Incredible"
+      comments: "See Will Ferrell"
     }
-    actor {
-      name: "Michael Keaton"
-      comments: "Great from Michael Keaton (Really steals the show in his over-the-top nature)"
+    performance {
+      actor {
+        name: "Michael Keaton"
+      }
+      rating: "Great"
+      comments: "Really steals the show in his over-the-top nature"
     }
-    actor {
-      name: "Steve Coogan"
-      comments: "Good from Steve Coogan"
+    performance {
+      actor {
+        name: "Steve Coogan"
+      }
+      rating: "Good"
     }
-    actor {
-      name: "Samuel L. Jackson"
-      comments: "Good to Very Good from Samuel L. Jackson (In his very brief roles)"
+    performance {
+      actor {
+        name: "Samuel L. Jackson"
+      }
+      rating: "Good to Very Good"
+      comments: "In his very brief roles"
     }
-    actor {
-      name: "Dwayne Johnson"
-      comments: "Good to Very Good from Dwayne Johnson (In his very brief roles)"
+    performance {
+      actor {
+        name: "Dwayne Johnson"
+      }
+      rating: "Good to Very Good"
+      comments: "In his very brief roles"
     }
-    cast: "Pretty Good to Good from the rest of the cast"
-    comments: "Good to Very Good Acting"
+    cast {
+      rating: "Pretty Good to Good"
+    }
+    rating: "Good to Very Good"
   }
   story {
     writer {
@@ -42,7 +62,8 @@ review {
     writer {
       name: "Chris Henchy"
     }
-    comments: "Great Story (At its core, the movie is pretty surface level in that cops are trying to make a break for themselves, but the typical Adam McKay and Will Ferrell story elements really make different elements of the story funny)"
+    rating: "Great"
+    comments: "At its core, the movie is pretty surface level in that cops are trying to make a break for themselves, but the typical Adam McKay and Will Ferrell story elements really make different elements of the story funny"
   }
   screenplay {
     writer {
@@ -51,26 +72,32 @@ review {
     writer {
       name: "Chris Henchy"
     }
-    comments: "Incredible to Brilliant Screenplay (One of the funniest movies I have watched due to the quotable jokes and how stereotypical of a Will Ferrell movie this is)"
+    rating: "Incredible to Brilliant"
+    comments: "One of the funniest movies I have watched due to the quotable jokes and how stereotypical of a Will Ferrell movie this is"
   }
   cinematography {
     cinematographer {
       name: "Oliver Wood"
     }
-    comments: "Good Cinematography"
+    rating: "Good"
   }
-  sound: "Pretty Good Sound"
   editing {
     editor {
       name: "Brent White"
     }
-    comments: "Pretty Good Editing"
+    rating: "Pretty Good"
   }
-  visual_effects: "Pretty Good Visual Effects"
+  sound {
+    rating: "Pretty Good"
+  }
+  visual_effects {
+    rating: "Pretty Good"
+  }
   plot_structure: "Plot Structure was very nice and laid out well"
   pacing: "Pacing was good as it kept a consistent pace (with no scenes really needed to be cut, but some of the deleted scenes were very funny)"
   climax: "Build to climax was very typical of movies from this time (so pretty good); climax was good (A generic mix of 2000s action with comedic elements)"
   tone: "Tone was set very nicely as it followed the action comedy template very nicely"
+  final_notes: ""
   overall: "Overall, an incredibly funny movie that is incredibly quotable and a must watch for the jokes and the chemistry between Will Ferrell and Mark Wahlburg as it is a pillar in the buddy cop genre that began to take over the early 2010s"
 }
 release_year: 2010
