@@ -1,4 +1,4 @@
-from script import *
+from utils.migration_utils import *
 
 import unittest
 import movie_pb2

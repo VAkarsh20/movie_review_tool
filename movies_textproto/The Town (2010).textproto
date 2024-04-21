@@ -1,8 +1,154 @@
 title: "The Town"
-rating: 8.5
-review: "Good to Very Good direction (Especially when coordinating the heist scenes), Great acting by Ben Affleck, Great to Incredible Acting by Jeremy Renner, Very good acting by the rest of the cast, Decent Story (Good in terms of concepts but bad in terms of plot points, development, and story architecture), very good screenplay, Pacing was extremely fast and hard to follow plot points because of it, the exposition is very unorganized which makes it very confusing what is going on for like the first half of the movie, The final 45 minutes of the movie is great to incredible in terms of the suspense as it builds to the action that takes place, good cinematography, plot elements (resolution is very rushed, The climax is the best part of the movie as it is the most well structured, the rising action is also good as it helps develop the main character and him wanting to go clean, but the exposition, falling action, and resolution are not well executed which make the movie hard to follow and I was not that invested in the characters as we should be). Overall, what makes the movie is the acting by the cast, the action/intense scenes, and screenplay, but what makes the movie not great is the unorganized story arc and extremely fast pacing."
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Ben Affleck"
+    }
+    rating: "TODO"
+    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Ben Affleck"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Rebecca Hall"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Jon Hamm"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Jeremy Renner"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Blake Lively"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Titus Welliver"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Pete Postlethwaite"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Chris Cooper"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    cast {
+      rating: "TODO"
+      comments: "TODO"
+    }
+    rating: ""
+  }
+  story {
+    writer {
+      name: "Peter Craig"
+    }
+    writer {
+      name: "Ben Affleck"
+    }
+    writer {
+      name: "Aaron Stockard"
+    }
+    rating: "TODO"
+    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+  }
+  screenplay {
+    writer {
+      name: "Peter Craig"
+    }
+    writer {
+      name: "Ben Affleck"
+    }
+    writer {
+      name: "Aaron Stockard"
+    }
+    rating: "TODO"
+    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+  }
+  score {
+    composer {
+      name: "David Buckley"
+    }
+    composer {
+      name: "Harry Gregson-Williams"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  cinematography {
+    cinematographer {
+      name: "Robert Elswit"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  editing {
+    editor {
+      name: "Dylan Tichenor"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  sound {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
 release_year: 2010
-review_date: "08/18/2020"
-redux: false
+review_date: "04/20/2024"
+redux: true
 id: 156
 imdb_id: "tt0840361"

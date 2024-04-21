@@ -5,13 +5,6 @@ from csv import writer
 import subprocess
 
 # sudo hwclock -s
-
-def access_api():
-    
-    scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/auth/spreadsheets',"https://www.googleapis.com/auth/drive.file","https://www.googleapis.com/auth/drive"]
-    creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json", scope)
-    return gspread.authorize(creds)
-
 def initialize_to_sheets(proto):
 
     # Accessing API
@@ -32,22 +25,6 @@ def initialize_to_sheets(proto):
     else:
         print("Review is already initialized in row {}".format(cell.row))
 
-def post_to_csv(proto, review):
-
-    df = pd.read_csv("movies.csv")
-    # TODO: See if the match should be ID or IMDB ID
-    # Sees if review already exists, else append
-    if not df[df['Id'] == proto.id].empty:
-        df.at[int(proto.id) - 1, 'Rating'] = proto.rating
-        df.at[int(proto.id) - 1, 'Review'] = review
-        df.at[int(proto.id) - 1, 'Review Date'] = proto.review_date
-    else:
-        record = [proto.title, proto.rating, review, proto.release_year, proto.review_date, proto.id, proto.imdb_id]
-        df.loc[len(df)] = record
-    
-    df.to_csv('movies.csv', index=False)  
-           
-
 def post_to_sheets(proto, review):
 
     # Accessing API
@@ -67,3 +44,34 @@ def post_to_sheets(proto, review):
         sheet.update_cell(cell.row, 5, proto.review_date)
     else:
         print("Cannot post review")
+
+def reviews_sorted():
+
+    # Getting all the Titles and Ratings
+    df = pd.read_csv("movies.csv")[["Title", "Rating"]]
+
+    # Sorts in descending order and returning as a string
+    df = df.sort_values(by=['Rating'], ascending=False)
+    return df.to_string(index=False)
+
+# Helper Functions
+def access_api():
+    
+    scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/auth/spreadsheets',"https://www.googleapis.com/auth/drive.file","https://www.googleapis.com/auth/drive"]
+    creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json", scope)
+    return gspread.authorize(creds)
+
+def post_to_csv(proto, review):
+
+    df = pd.read_csv("movies.csv")
+    # TODO: See if the match should be ID or IMDB ID
+    # Sees if review already exists, else append
+    if not df[df['Id'] == proto.id].empty:
+        df.at[int(proto.id) - 1, 'Rating'] = proto.rating
+        df.at[int(proto.id) - 1, 'Review'] = review
+        df.at[int(proto.id) - 1, 'Review Date'] = proto.review_date
+    else:
+        record = [proto.title, proto.rating, review, proto.release_year, proto.review_date, proto.id, proto.imdb_id]
+        df.loc[len(df)] = record
+    
+    df.to_csv('movies.csv', index=False)
