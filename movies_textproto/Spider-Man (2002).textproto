@@ -1,125 +1,127 @@
 title: "Spider-Man"
-rating: 0.1
+rating: 8.5
 review {
-  direction {
-    director {
-      name: "Sam Raimi"
-    }
-    rating: "TODO"
-    comments: "Direction (the direction on a macroscale is very good as builds this comic-book version on New York City and ; microscale is; direction of actors is; storytelling is; tension is)"
-  }
-  acting {
-    performance {
-      actor {
-        name: "Tobey Maguire"
-      }
-      rating: "TODO"
-      comments: "from Tobey Maguire ()"
-    }
-    performance {
-      actor {
-        name: "Willem Dafoe"
-      }
-      rating: "TODO"
-      comments: "from Willem Dafoe ()"
-    }
-    performance {
-      actor {
-        name: "Kirsten Dunst"
-      }
-      rating: "TODO"
-      comments: "from Kirsten Dunst ()"
-    }
-    performance {
-      actor {
-        name: "James Franco"
-      }
-      rating: "TODO"
-      comments: "from James Franco ()"
-    }
-    performance {
-      actor {
-        name: "Cliff Robertson"
-      }
-      rating: "TODO"
-      comments: "from Cliff Robertson ()"
-    }
-    performance {
-      actor {
-        name: "Rosemary Harris"
-      }
-      rating: "TODO"
-      comments: "from Rosemary Harris ()"
-    }
-    cast {
-      rating: "TODO"
-      comments: "from the rest of the cast () ()"
-    }
-    rating: ""
-  }
-  story {
-    writer {
-      name: "David Koepp"
-    }
-    rating: "TODO"
-    comments: "Story (The concept is; the plot structure is; flow between sequences is; character writing is)"
-  }
-  screenplay {
-    writer {
-      name: "David Koepp"
-    }
-    rating: "TODO"
-    comments: "Screenplay (The dialogue is; the humor is; the symbolism is; the foreshadowing is)"
-  }
-  score {
-    composer {
-      name: "Danny Elfman"
-    }
-    rating: "TODO"
-    comments: "Score ()"
-  }
-  cinematography {
-    cinematographer {
-      name: "Don Burgess"
-    }
-    rating: "TODO"
-    comments: "Cinematography ()"
-  }
-  editing {
-    editor {
-      name: "Bob Murawski"
-    }
-    editor {
-      name: "Arthur Coburn"
-    }
-    rating: "TODO"
-    comments: "Editing ()"
-  }
-  sound {
-    rating: "TODO"
-    comments: "Sound ()"
-  }
-  visual_effects {
-    rating: "TODO"
-    comments: "Visual Effects ()"
-  }
-  production_design {
-    rating: "TODO"
-    comments: "Production Design ()"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "Makeup ()"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "Costumes ()"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+ direction {
+  director {
+   name: "Sam Raimi"
+  }
+  rating: "Good"
+  comments: "The direction on a macroscale is very good as builds this comic-book version of New York City and has memorable action sequences; the direction on a microscale is incredibly campy and 00s (but this helps make the movie enjoyable and memeable); the direction of actors is pretty bad as a lot of the performances feel overly campy and unnatural; the storytelling is very good as it feels very focused and structured, and Raimi does a good job in showing the origin of Spider-Man and how duty affects his decisions; he builds tension pretty well, as much as he can for a PG comic book movie"
+ }
+ acting {
+  performance {
+   actor {
+    name: "Tobey Maguire"
+   }
+   rating: "Decent to Pretty Good"
+   comments: "Incredibly campy and monotonous when he is Peter Parker, but he does hold his own well as Spider-Man; despite its surface-level flaws, his performance is just so memorable and iconic that it helps add to why people love this movie"
+  }
+  performance {
+   actor {
+    name: "Willem Dafoe"
+   }
+   rating: "Good"
+   comments: "I love how over-the-top and iconic this performance is as he does a good job at showing the two sides of Norman and how he can switch so seamlessly; has very good line delivery in the more iconic moments"
+  }
+  performance {
+   actor {
+    name: "Kirsten Dunst"
+   }
+   rating: "Decent"
+   comments: "A pretty shallow performance that does not have any chemistry with her castmates, but nothing is not a problem as she holds her own well)"
+  }
+  performance {
+   actor {
+    name: "James Franco"
+   }
+   rating: "Pretty Bad"
+   comments: "He does not connect with any of his classmates and his levels are just very off compared to the rest of the cast"
+  }
+  performance {
+   actor {
+    name: "Cliff Robertson"
+   }
+   rating: "Pretty Good"
+   comments: "Plays the fatherly figure well as he helps establish Peter's moral compass"
+  }
+  performance {
+   actor {
+    name: "Rosemary Harris"
+   }
+   rating: "Decent to Pretty Good"
+   comments: "Plays the motherly figure well and has some good comedic moments"
+  }
+  performance {
+   actor {
+    name: "J. K. Simmons"
+   }
+   rating: "Very Good"
+   comments: "By far the best performance of the movie as he is very true to the character and is the funniest character in the movie"
+  }
+  cast {
+   rating: "Pretty Bad"
+   comments: "So many campy, 2000s background performances"
+  }
+  rating: "Decent to Pretty Good"
+ }
+ story {
+  writer {
+   name: "David Koepp"
+  }
+  rating: "Great"
+  comments: "The concept is great as they do an amazing job at creating Spider-Man's backstory and how he establishes his obligation to help others because of his power, and they do a good job at showing how the Green Goblin is tempting him to fight for evil; the plot structure is laid out very well as it feels like every scene is integral to moving both the movie and Spider-Man's backstory, but it is not perfect because there are issues with how they deal with the passage of time; flow between sequences is pretty standard for a campy comic book movie; character writing is very good as the whole movie is about Peter finding his purpose in life and fulfilling the obligations he has because of his powers, and the Green Goblin acts as a good foil to this because he shows the volatility in public opinions on their heroes (so why even bother)"
+ }
+ screenplay {
+  writer {
+   name: "David Koepp"
+  }
+  rating: "Pretty Good"
+  comments: "The dialogue is incredibly campy and 00s, but I do love this because it is filled with iconic lines and is just funny to see how unnatural it is; the humor is pretty good, but the movie is more unintentionally funny than when it tries to be funny; the symbolism is pretty prevalent as the movie is about duty despite living in a corrupted world; the foreshadowing is as good as any other comic book movie, so it kinda makes the movie predictable"
+ }
+ score {
+  composer {
+   name: "Danny Elfman"
+  }
+  rating: "Great"
+  comments: "Very iconic"
+ }
+ cinematography {
+  cinematographer {
+   name: "Don Burgess"
+  }
+  rating: "Good"
+ }
+ editing {
+  editor {
+   name: "Bob Murawski"
+  }
+  editor {
+   name: "Arthur Coburn"
+  }
+  rating: "Good"
+  comments: "Incredibly 00s and is very campy, but still enjoyable"
+ }
+ sound {
+  rating: "Good"
+  comments: "Made the web-shooting and the Green Goblin sound iconic"
+ }
+ visual_effects {
+  rating: "Good"
+  comments: "Very 2000s, but still good for the time"
+ }
+ production_design {
+  rating: "Good"
+  comments: "Iconic and helped set this comic book version of New York"
+ }
+ costumes {
+  rating: "Great"
+  comments: "The Spider-Man and Green Goblin suits are some of the most iconic costumes not only in comic book history but film history"
+ }
+ pacing: "Pacing is good as the movie does not feel too fast or too slow"
+ climax: "Climax is executed well because is action-packed and shows Spider-Man's decision making"
+ tone: "Tone is very 2000s and campy (but this helps make the movie iconic)"
+ final_notes: "This is a minor detail but why does everyone call her 'Aunt May' (like I get MJ, but like why does Norman call her 'Aunt May')"
+ overall: "Overall, an iconic superhero movie that holds up well with its story and memeable moments as it ushered in the super-hero renaissance of the 21st century, even though it is very 00s and campy"
 }
 release_year: 2002
 review_date: "04/18/2024"

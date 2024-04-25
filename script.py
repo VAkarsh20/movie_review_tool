@@ -695,8 +695,10 @@ if __name__=="__main__":
 
     argc = len(sys.argv)
 
-    filename = "Dune Part 2 (2024)"
+    filename = "Spider-Man (2002)"
     proto = read_proto(filename=filename)
 
-    print(print_imdb_review(proto, filename))
+    # # print(print_imdb_review(proto, filename))
     # print(print_review(proto, filename))
+
+

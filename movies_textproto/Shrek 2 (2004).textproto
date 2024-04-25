@@ -1,5 +1,5 @@
 title: "Shrek 2"
-rating: 0.1
+rating: 9.2
 review {
   direction {
     director {
@@ -11,78 +11,77 @@ review {
     director {
       name: "Conrad Vernon"
     }
-    rating: "TODO"
-    comments: "Direction (macroscale is; microscale is; direction of actors is; storytelling is; tension is)"
+    rating: "Great"
+    comments: "The direction on a macroscale is great as it is once again a parody of the fairy-tale story (but from a different angle); the direction on a microscale is great as you see a sense of chemistry between the whole cast and the relationships/motivations the characters have; the storytelling is great as the whole movie is a parody/satire on the fairy-tale genre"
   }
   acting {
     performance {
       actor {
         name: "Mike Myers"
       }
-      rating: "TODO"
-      comments: "from Mike Myers ()"
+      rating: "Great"
+      comments: "Continues where he left off in the first movie as he brings Shrek to life"
     }
     performance {
       actor {
         name: "Eddie Murphy"
       }
-      rating: "TODO"
-      comments: "from Eddie Murphy ()"
+      rating: "Great"
+      comments: "Continues where he left off in the first movie as he brings Donkey to life and is the true comedic relief for the movie"
     }
     performance {
       actor {
         name: "Cameron Diaz"
       }
-      rating: "TODO"
-      comments: "from Cameron Diaz ()"
+      rating: "Good"
+      comments: "Not given as much of a presence in this movie but continues where she left off and still has good chemistry with Myers"
     }
     performance {
       actor {
         name: "Julie Andrews"
       }
-      rating: "TODO"
-      comments: "from Julie Andrews ()"
+      rating: "Good"
+      comments: "Plays the regal, mother figure well"
     }
     performance {
       actor {
         name: "Antonio Banderas"
       }
-      rating: "TODO"
-      comments: "from Antonio Banderas ()"
+      rating: "Great"
+      comments: "He's Puss in Boots; on a serious note, does a good job at parodying his 'Zorro' character"
     }
     performance {
       actor {
         name: "John Cleese"
       }
-      rating: "TODO"
-      comments: "from John Cleese ()"
+      rating: "Very Good"
+      comments: "Plays the father figure well and is very expressive in his emotions and motivations"
     }
     performance {
       actor {
         name: "Rupert Everett"
       }
-      rating: "TODO"
-      comments: "from Rupert Everett ()"
+      rating: "Good"
     }
     performance {
       actor {
         name: "Jennifer Saunders"
       }
-      rating: "TODO"
-      comments: "from Jennifer Saunders ()"
+      rating: "Very Good"
+      comments: "Brings out the character's strengths and does a good job at showing her motivation for what she wants"
     }
     cast {
-      rating: "TODO"
-      comments: "from the rest of the cast () ()"
+      rating: "Good"
+      comments: "Everyone does their job well as they help create the world of 'Far Far Away'"
     }
-    rating: ""
+    rating: "Great"
   }
   story {
     writer {
       name: "Andrew Adamson"
     }
-    rating: "TODO"
-    comments: "Story (The concept is; the plot structure is; flow between sequences is; character writing is)"
+    rating: "Great"
+    comments: "The concept is great as, on the surface, it is an animated take on the 'Meet the Parents' trope, but, on a deeper level, it is a satire on both the fair-tale genre and the 'Hollywood lifestyle'; the plot structure is great at it follows the same template as the last movie, but has a different spin on it; character writing is great as you get a deeper look at Shrek, Fiona, and Donkey and how they are willing to do anything for the people they love (even if it means sacrificing all they know)"
   }
   screenplay {
     writer {
@@ -97,15 +96,19 @@ review {
     writer {
       name: "David N. Weiss"
     }
-    rating: "TODO"
-    comments: "Screenplay (The dialogue is; the humor is; the symbolism is; the foreshadowing is)"
+    rating: "Great"
+    comments: "The dialogue is very well written and is very topical to the time; the humor is very good and very topical to the time (there are many pop-culture references from the period); the symbolism is good as the movie is all about the sacrifices people make for love and commentary on the 'Hollywood lifestyle'; the foreshadowing is pretty prevalent and helps tie the movie together in the end"
   }
   score {
     composer {
       name: "Harry Gregson-Williams"
     }
-    rating: "TODO"
-    comments: "Score ()"
+    rating: "Good"
+    comments: "Uses a lot of iconic themes from the last movie"
+  }
+  soundtrack: {
+    rating: "Incredible"
+    comments: "One of the best soundtracks in cinema history as it is filled with some many bangers and is used well in the story"
   }
   editing {
     editor {
@@ -114,37 +117,27 @@ review {
     editor {
       name: "Sim Evan-Jones"
     }
-    rating: "TODO"
-    comments: "Editing ()"
+    rating: "Very Good"
   }
   sound {
-    rating: "TODO"
-    comments: "Sound ()"
+    rating: "Good"
   }
   animation {
-    rating: "TODO"
-    comments: "Animation ()"
+    rating: "Great"
+    comments: "Very groundbreaking for the time; but 20 years later, it is pretty evident we have come a long way in CGI and animation"
   }
   production_design {
-    rating: "TODO"
-    comments: "Production Design ()"
+    rating: "Very Good"
+    comments: "Iconic and did a good job at parodying Hollywood mixed with fairy-tale elements"
   }
-  makeup {
-    rating: "TODO"
-    comments: "Makeup ()"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "Costumes ()"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  pacing: "Pacing is very good as it is short, sweet, and to the point"
+  climax: "Climax is executed very well and is a culmination of all the characters' journeys"
+  tone: "Tone is very satirical to fairy-tale, Grimms Brothers' movies"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a great follow-up to 'Shrek' that is a classic in its own right as it does a great job in building where they left off and being a great satire on fairy-tales and pop-culture from the time"
 }
 release_year: 2004
-review_date: "04/20/2024"
+review_date: "04/19/2024"
 redux: false
 id: 441
 imdb_id: "tt0298148"

@@ -1,9 +1,9 @@
-title: "Hereditary"
+title: "Spider-Man 2"
 rating: 0.1
 review {
   direction {
     director {
-      name: "Ari Aster"
+      name: "Sam Raimi"
     }
     rating: "TODO"
     comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
@@ -11,35 +11,42 @@ review {
   acting {
     performance {
       actor {
-        name: "Toni Collette"
+        name: "Tobey Maguire"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "Alex Wolff"
+        name: "Kirsten Dunst"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "Milly Shapiro"
+        name: "James Franco"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "Ann Dowd"
+        name: "Alfred Molina"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "Gabriel Byrne"
+        name: "Rosemary Harris"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Donna Murphy"
       }
       rating: "TODO"
       comments: "TODO"
@@ -52,38 +59,41 @@ review {
   }
   story {
     writer {
-      name: "Ari Aster"
+      name: "Alfred Gough"
+    }
+    writer {
+      name: "Miles Millar"
+    }
+    writer {
+      name: "Michael Chabon"
     }
     rating: "TODO"
     comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
   }
   screenplay {
     writer {
-      name: "Ari Aster"
+      name: "Alvin Sargent"
     }
     rating: "TODO"
     comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
   }
   score {
     composer {
-      name: "Colin Stetson"
+      name: "Danny Elfman"
     }
     rating: "TODO"
     comments: "TODO"
   }
   cinematography {
     cinematographer {
-      name: "Pawel Pogorzelski"
+      name: "Bill Pope"
     }
     rating: "TODO"
     comments: "TODO"
   }
   editing {
     editor {
-      name: "Jennifer Lame"
-    }
-    editor {
-      name: "Lucian Johnston"
+      name: "Bob Murawski"
     }
     rating: "TODO"
     comments: "TODO"
@@ -114,8 +124,8 @@ review {
   final_notes: ""
   overall: "Overall, "
 }
-release_year: 2018
-review_date: "04/24/2024"
-redux: true
-id: 69
-imdb_id: "tt7784604"
+release_year: 2004
+review_date: "04/23/2024"
+redux: false
+id: 442
+imdb_id: "tt0316654"
