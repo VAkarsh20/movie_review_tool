@@ -1,128 +1,138 @@
 title: "Spider-Man 2"
-rating: 0.1
+rating: 9.2
 review {
-  direction {
-    director {
-      name: "Sam Raimi"
-    }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
-  }
-  acting {
-    performance {
-      actor {
-        name: "Tobey Maguire"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Kirsten Dunst"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "James Franco"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Alfred Molina"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Rosemary Harris"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Donna Murphy"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    cast {
-      rating: "TODO"
-      comments: "TODO"
-    }
-    rating: ""
-  }
-  story {
-    writer {
-      name: "Alfred Gough"
-    }
-    writer {
-      name: "Miles Millar"
-    }
-    writer {
-      name: "Michael Chabon"
-    }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
-  }
-  screenplay {
-    writer {
-      name: "Alvin Sargent"
-    }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
-  }
-  score {
-    composer {
-      name: "Danny Elfman"
-    }
-    rating: "TODO"
-    comments: "TODO"
-  }
-  cinematography {
-    cinematographer {
-      name: "Bill Pope"
-    }
-    rating: "TODO"
-    comments: "TODO"
-  }
-  editing {
-    editor {
-      name: "Bob Murawski"
-    }
-    rating: "TODO"
-    comments: "TODO"
-  }
-  sound {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  visual_effects {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+ direction {
+  director {
+   name: "Sam Raimi"
+  }
+  rating: "Great"
+  comments: "The direction on a macroscale is great as uses improved technology and experience from the last film to do a better job at building this comic-book version of New York and creating more grand action sequences; the direction on a microscale is very good as it is a lot less campy and 00s, with it doing a better job at tackling topics on purpose and duty; the direction of actors is good as all the performances are improved since last time and the movie is less campy; the storytelling is very good as it feels very focused and structured, and Raimi does a good job at showing how doubt and purpose effect Peter's decisions; he builds tension very well"
+ }
+ acting {
+  performance {
+   actor {
+    name: "Tobey Maguire"
+   }
+   rating: "Good"
+   comments: "A strong improvement this time around as he is not campy and does a good job at showing his emotions and how they affect Spider-Man's decisions"
+  }
+  performance {
+   actor {
+    name: "Kirsten Dunst"
+   }
+   rating: "Pretty Good"
+   comments: "Develops chemistry with her castmates and does a good job at showing the love dynamic between MJ and Peter"
+  }
+  performance {
+   actor {
+    name: "James Franco"
+   }
+   rating: "Pretty Good"
+   comments: "The biggest improvement since the last film because he seems more controlled/comfortable and shows his acting ability; there still are some campy moments, but this adds to why this performance is memorable"
+  }
+  performance {
+   actor {
+    name: "Alfred Molina"
+   }
+   rating: "Very Good"
+   comments: "Does a very good job at showing the different sides of his character and the dichotomy between his real personality and the villain he is turned into"
+  }
+  performance {
+   actor {
+    name: "Rosemary Harris"
+   }
+   rating: "Good"
+   comments: "Does a good job at playing the motherly figure and is given more material to work with as she grieves over Ben's death"
+  }
+  performance {
+   actor {
+    name: "Donna Murphy"
+   }
+   rating: "Pretty Good"
+  }
+  performance {
+   actor {
+    name: "J. K. Simmons"
+   }
+   rating: "Great"
+   comments: "Still the best performance in the movie as he is given more to work with this time around and pushes the limits at how comedic his character can be"
+  }
+  cast {
+   rating: "Pretty Good"
+   comments: "The performances are less campy this time around and do a good job at supporting the main cast"
+  }
+  rating: "Good"
+ }
+ story {
+  writer {
+   name: "Alfred Gough"
+  }
+  writer {
+   name: "Miles Millar"
+  }
+  writer {
+   name: "Michael Chabon"
+  }
+  rating: "Great"
+  comments: "The concept is great as they built on everything they created in the first film and tackle deeper topics like balancing wants and obligations; the plot structure is laid out well; character writing is great as you really see the weight of the world affecting Peter and the dilemma to make decisions based on what he wants and what he has to do, and the villain writing is very good"
+ }
+ screenplay {
+  writer {
+   name: "Alvin Sargent"
+  }
+  rating: "Very Good"
+  comments: "The dialogue is a strong improvement as it is less campy and is more profound when it needs to be; the humor is very good as it is used effectively and gives the movie a more playful/comic-book feel, but there still are some campy moments that are still unintentionally funny; the symbolism is more prevalent as the whole movie is about Peter finding balance with so much weight put on him; the foreshadowing is good and helps tell the story"
+ }
+ score {
+  composer {
+   name: "Danny Elfman"
+  }
+  rating: "Great"
+  comments: "Still Iconic"
+ }
+soundtrack {
+  rating: "Decent"
+  comments: "Super 2000s and kinda disrupts the flow"
+}
+ cinematography {
+  cinematographer {
+   name: "Bill Pope"
+  }
+  rating: "Very Good"
+  comments: "Uses improved technology and widescreen to make the movie feel more clear and polished"
+ }
+ editing {
+  editor {
+   name: "Bob Murawski"
+  }
+  rating: "Very Good"
+  comments: "More polished and seamless (but there are still a lot of campy/00s edits that hold it back from being great)"
+ }
+ sound {
+  rating: "Great"
+  comments: "Feel very polished and help bring to life the fight scenes/world (especially in regards to Spider-Man's web-shooting and Doc Oc's mechanical arms)"
+ }
+ visual_effects {
+  rating: "Great"
+  comments: "Uses advanced technology very well to push the bounds of 00s visual effects to make this movie very iconic and groundbreaking (but it is still obvious where they used a blue screen and how far we've come in terms of VFX technology)"
+ }
+ production_design {
+  rating: "Very Good"
+  comments: "Iconic and helps set this comic book version of New York"
+ }
+ makeup {
+  rating: "Good"
+  comments: "Helps show the damage and scars Peter gets from how far he pushes Spider-Man"
+ }
+ costumes {
+  rating: "Great"
+  comments: "The Spider-Man suit is still iconic and the Doc Oc costume is designed very well"
+ }
+ pacing: "Pacing is very good and there is nothing to cut"
+ climax: "Climax is executed very well as it is action-packed and gives big revelations about Spider-Man/gives closure to Peter's internal conflict throughout the movie"
+ tone: "Tone is less campy and more comic-book/dramatic this time around (but still has its fair share of comedic moments)"
+ final_notes: "One of the biggest improvements I have seen from the first to the second movie in a series/trilogy I have ever seen"
+ overall: "Overall, a great super-hero movie that is a strong improvement over its predecessor with its acting, writing, and technicals as Sam Raimi pushes this film to the limit to make it one of the most groundbreaking comic-book adaptations of all time"
 }
 release_year: 2004
 review_date: "04/23/2024"

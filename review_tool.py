@@ -1,7 +1,7 @@
 import sys
-from sheets import initialize_to_sheets, post_to_sheets, reviews_sorted
-from letterboxd import post_to_letterboxd
-from imdb import post_to_imdb
+from tools.sheets import initialize_to_sheets, post_to_sheets, reviews_sorted
+from tools.letterboxd import post_to_letterboxd
+from tools.imdb import post_to_imdb
 import os
 
 import pandas as pd
@@ -12,23 +12,7 @@ import copy
 from utils.proto_utils import *
 from utils.print_utils import *
 
-# TODO: Redux is not created for Home Alone 2
-def move_redux_reviews(filename):
-    path = os.path.join(os.path.dirname(__file__), 'movies_textproto/')
-    count = 0
-    while os.path.exists(path + ("reduxed/" * count) + filename + ".textproto"):
-        count += 1
-
-    if not os.path.exists(path + ("reduxed/" * count)):
-        os.mkdir(path + ("reduxed/" * count))
-
-    while count > 0:
-        os.rename(path + ("reduxed/" * (count - 1)) + filename + ".textproto", path + ("reduxed/" * (count)) + filename + ".textproto")
-        count -= 1
-
-
-if __name__=="__main__":
-    
+if __name__=="__main__":    
     argc = len(sys.argv)
 
     # Reset clock
@@ -43,7 +27,6 @@ if __name__=="__main__":
             movie = create_proto()
             initialize_to_sheets(movie)
         write_proto(movie)
-    
     elif sys.argv[1] == "create_proto_free":
         # TODO: Deletes original version of the file
         if argc > 2 and sys.argv[2] == "redux":
@@ -54,12 +37,9 @@ if __name__=="__main__":
             movie = create_proto_free()
             initialize_to_sheets(movie)
         write_proto(movie)
-
     elif sys.argv[1] == "reviews_sorted":
         print(reviews_sorted())   
-    
     elif sys.argv[1] == "post_to_sheets":
-
         filename = input("What is the name of the movie?\n")
 
         # Get details for post
@@ -71,8 +51,7 @@ if __name__=="__main__":
         review = print_review(proto, filename)
         
         post_to_sheets(proto, review)
-    elif sys.argv[1] == "post_to_letterboxd":
-        
+    elif sys.argv[1] == "post_to_letterboxd":   
         filename = input("What is the name of the movie?\n")
 
         # Get details for post
@@ -85,7 +64,6 @@ if __name__=="__main__":
 
         post_to_letterboxd(proto, short_review)
     elif sys.argv[1] == "post_to_imdb":
-
         filename = input("What is the name of the movie?\n")
 
         # Get details for post

@@ -9,12 +9,12 @@ import movie_pb2
 from google.protobuf import text_format
 import sys
 from collections import defaultdict
-import sheets
+import tools.sheets as sheets
 import subprocess
 import yaml
-import rotten_tomatoes
-import letterboxd
-import imdb
+import tools.rotten_tomatoes as rotten_tomatoes
+import tools.letterboxd as letterboxd
+import tools.imdb as imdb
 import threading
 import re
 from tqdm import tqdm
@@ -159,181 +159,6 @@ def fill_in_acting(comments):
     last_comment = comments[start:-1].strip()
     if not fill_in_acting_comments(actors_dict, last_comment):
         res.append(last_comment + "\n")
-
-def fill_in_proto(field):
-
-    if "Direction" in field and proto.review.direction.comments == "Direction ()":
-        proto.review.direction.comments = field
-        return True
-    elif "Acting" in field and proto.review.acting.comments.strip() == "Acting":
-        fill_in_acting(field)
-        return True
-    elif "Story" in field and proto.review.story.comments == "Story ()":
-        proto.review.story.comments = field
-        return True
-    elif "Screenplay" in field and proto.review.screenplay.comments == "Screenplay ()":
-        proto.review.screenplay.comments = field
-        return True
-    elif "Score" in field and proto.review.score.comments == "Score ()":
-        proto.review.score.comments = field
-        return True
-    elif "Cinematography" in field and proto.review.cinematography.comments == "Cinematography ()":
-        proto.review.cinematography.comments = field
-        return True
-    elif "Sound" in field and proto.review.sound == "Sound ()":
-        proto.review.sound = field
-        return True
-    elif "Editing" in field and proto.review.editing.comments == "Editing ()":
-        proto.review.editing.comments = field
-        return True
-    elif "Visual Effects" in field and proto.review.visual_effects == "Visual Effects ()":
-        proto.review.visual_effects = field
-        return True
-    elif "Production Design" in field and proto.review.production_design == "Production Design ()":
-        proto.review.production_design = field
-        return True
-    elif "Makeup" in field and proto.review.makeup == "Makeup ()":
-        proto.review.makeup = field
-        return True
-    elif "Costumes" in field and proto.review.costumes == "Costumes ()":
-        proto.review.costumes = field
-        return True
-    elif "Plot Structure" in field and proto.review.plot_structure == "Plot Structure ":
-        proto.review.plot_structure = field
-        return True
-    elif "Pacing" in field and proto.review.pacing == "Pacing ":
-        proto.review.pacing = field
-        return True
-    # elif field.startswith("the build to climax") and proto.review.climax == "climax ":
-    #     proto.review.climax = field.replace("the build", "Build")
-    #     return True
-    # elif field.startswith("climax"):
-    #     proto.review.climax += "; {}".format(field)
-    #     return True
-    elif field.startswith("climax"):
-        proto.review.climax = field.capitalize()
-        return True
-    elif field.startswith("tone "):
-        proto.review.tone = field.capitalize()
-        return True
-    else:
-        return False
-
-def parse_review(df, filename):
-
-
-    global proto
-    proto = review_tool.read_proto(filename)
-
-    record = ""
-    if not df[df['Title'] == proto.title].empty:
-        record = df[df['Title'] == proto.title]
-    elif not df[df['Title'] == "{} (film)".format(proto.title)].empty: 
-        record = df[df['Title'] == "{} (film)".format(proto.title)]
-    else:
-        record = df[df['Title'] == "{} ({} film)".format(proto.title, proto.release_year)]
-
-    review = record["Review"].item()
-
-    start = 0
-    current = 0
-
-    period = review.split(". Overall, ")
-    comments = period[0]
-    overall = "Overall, " + period[1].rstrip(". ")
-
-    global res
-    res = []
-    stack = []
-    while current < len(comments):
-        if comments[current] == "(":
-            stack.append("(")
-        elif comments[current] == ")":
-            stack.pop()
-        if comments[current] == "," and len(stack) == 0:
-            field = comments[start:current].strip()
-            if not fill_in_proto(field):
-                res.append(field + "\n")
-            start = current + 1
-        current += 1
-    res.append(comments[start:].strip())
-    proto.review.overall = overall
-
-    if len(stack) > 0:
-        raise Exception("Review is invalid, there is an extra (")
-
-    with open("parsed.txt", "w") as fd:
-        fd.writelines(res)
-
-    with open("movies_textproto/" + filename + ".textproto", "w") as fd:
-        text_proto = text_format.MessageToString(proto)
-        fd.write(text_proto)
-
-
-def add_id(df, start_idx):
-
-    title = ""
-    new_df = df.copy()
-    count = 0
-    for i in range(start_idx, len(df)):
-
-        try: 
-
-            record = df.iloc[i]
-            title = record['Title']
-
-            if title in ["Best F(r)iends: Volume 1", "We Are Columbine"]:
-                continue
-
-            wiki_title = title.replace(" ", "_")
-            infobox = review_tool.parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
-
-            if title.endswith("film)"):
-                title = title[:title.rfind(' (')]
-
-            filename = (title + " ({})".format(review_tool.find_release_year(infobox))).replace(":","").replace("?","")
-
-            proto = review_tool.read_proto(filename)
-
-            proto.id = record['Id']
-
-            review = review_tool.print_review(proto)
-            with open("movies_textproto/" + filename + ".textproto", "w") as fd:
-                text_proto = text_format.MessageToString(proto)
-                fd.write(text_proto)
-
-        except:
-            raise Exception("Issue with {} {}".format(title, i))
-            continue
-    print(count)
-
-
-def add_imdb_id(start_idx, df):
-    title = ""
-    files = os.listdir("movies_textproto/")
-
-    id_to_imdb = dict(map(lambda x,y : (x,y) , df['Id'], df['imdbID']))
-
-    for i in range(start_idx, len(files)):
-
-        try: 
-            filename = files[i].replace(".textproto","")
-            proto = review_tool.read_proto(filename)
-
-            proto_id = proto.id
-            if proto_id > 315:
-                print(proto.title)
-                continue
-
-            proto.imdb_id = id_to_imdb[proto.id]
-
-            with open("movies_textproto/" + filename + ".textproto", "w") as fd:
-                text_proto = text_format.MessageToString(proto)
-                fd.write(text_proto)
-
-        except:
-            raise Exception("Issue with {} {}".format(title, i))
-            continue
 
 
 def change_date_format(date):
@@ -522,40 +347,6 @@ def filter_values():
             files.append("{} ({})".format(record["Title"].replace(":","").replace("/", " "), record["Release Year"]))
     return files
 
-
-def get_wiki_info():
-
-    # Parse Wikipedia
-    while True:
-        try: 
-            title = input("What is the film title?\n")
-            wiki_title = title.replace(" ", "_")
-            
-            imdb_id = get_imdb_id(wiki_title)
-            infobox = parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
-            
-            # Change the film title if it has a (film) tag end the end of the wikipedia search
-            if title.endswith("film)"):
-                title = title[:title.rfind(' (')]
-            
-            return title, imdb_id, infobox
-        except:
-            print("Film not found. Please try again.")
-            break
-    return None, None, None
-
-def get_imdb_id(film):
-    
-    links = " ".join(wikipedia.WikipediaPage(title=film).references)
-    imdb_id = set(re.findall(pattern = "tt[0-9]+", string=links))
-    # imdb_id = [x.replace("https://www.imdb.com/title/","").partition("/")[0] for x in links if("https://www.imdb.com/title/" in x)]
-
-    # if len(imdb_id) > 1 and len(set(imdb_id)) > 1:
-    if len(imdb_id) > 1:
-        raise Exception("More than one IMDB link for " + film)
-
-    return imdb_id.pop()
-
 def list_of_reviews_changed():
     df = pd.read_csv("movies.csv")
     df = df.loc[(df["Rating"] > 1.2) & (df["Rating"] < 9.0)][['Title', 'Rating', 'Release Year', 'Id']].sort_values(by=['Rating'])
@@ -700,5 +491,3 @@ if __name__=="__main__":
 
     # # print(print_imdb_review(proto, filename))
     # print(print_review(proto, filename))
-
-

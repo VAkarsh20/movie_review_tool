@@ -1,82 +1,82 @@
 title: "Hereditary"
-rating: 0.1
+rating: 8.9
 review {
   direction {
     director {
       name: "Ari Aster"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Very Good"
+    comments: "The direction on a macroscale is good as he builds this world well and shows the internal struggle for the protagonist, but it falters when he tries to establish the conflict; the direction on a microscale is great as you see how trauma is effecting these characters (especially the protagonist); the storytelling is good to an extent as you see how trauma is effecting Annie and how she is trying everything she can to try and relieve her pain/guilt, but the storytelling falls apart towards the end when they try to resolve the conflict; he builds tension incredibly well as it uses a lot of horror techniques plus the emotional weight of what is going on to"
   }
   acting {
     performance {
       actor {
         name: "Toni Collette"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Brilliant"
+      comments: "A perfect encapsulation of a mother grieving on all the loss in her life and how she is doing everything she can to relieve her trauma/pain; a performance that is multi-faceted as she steals the show in both solo shots and group settings"
     }
     performance {
       actor {
         name: "Alex Wolff"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Does a good job at playing a high-school teen filled with anxiety and guilt, and he does a good job in showing how the supernatural conflict is affecting him"
     }
     performance {
       actor {
         name: "Milly Shapiro"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Does exactly what is needed from her"
     }
     performance {
       actor {
         name: "Ann Dowd"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Shows her experience and acts as a conduit for Annie to help her grieve through her loss"
     }
     performance {
       actor {
         name: "Gabriel Byrne"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Has a good number of scenes where his levels don't match the rest of the cast, but comes into his own by the end of the movie"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Most of these characters are minor, but they do what they are told"
     }
-    rating: ""
+    rating: "Very Good"
   }
   story {
     writer {
       name: "Ari Aster"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Good"
+    comments: "The concept is very interesting as the movie boils down to a mother grieving the loss of her loved ones and going through every possible way to relieve her trauma/pain, but the supernatural concept is kinda forced in and not told well; the plot structure is a real mess as the conflict feels very forced and sudden, which leads to it being poorly executed (this movie would've really benefited from 20 minutes added to learn more about the backstory Annie's mother and how the overarching conflict has been effecting this family); character writing is very good for Annie as you get a sense of who she and how the deaths of everyone around her is effecting her psyche"
   }
   screenplay {
     writer {
       name: "Ari Aster"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Very Good"
+    comments: "The dialogue is very good and natural overall; the symbolism is pretty prominent and helps show what the overarching conflict is; the foreshadowing is very subtle and laced throughout the movie very well, but the main issue is that it is way too subtle that the ending just feels so forced (these are things that are picked up on a second watch but would make no sense on an initial watch)"
   }
   score {
     composer {
       name: "Colin Stetson"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Used well to establish tension"
   }
   cinematography {
     cinematographer {
       name: "Pawel Pogorzelski"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Used well for the most part but falls apart towards the end as the motion-blurring/low-budget shooting shows here"
   }
   editing {
     editor {
@@ -85,34 +85,30 @@ review {
     editor {
       name: "Lucian Johnston"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
+    comments: "There were many seamless shots that helped make this movie feel both polished and auter-esque"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
+    comments: "Used effectively to help build tension and illicit fear"
   }
   visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Does the most it can with a small budget"
   }
   production_design {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Really enjoyed the Dollhouse feel for the house as it mimicked Annie's art pieces"
   }
   makeup {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Typical horror makeup"
   }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing is good for the most part, but the 45 minutes feel too rushed; 20-30 minutes could have been added leading up to climax"
+  climax: "Climax is poorly executed as it feels rushed and forced and feels like a big narrative jump from the rest of the movie"
+  tone: "Tone is pretty true to other Supernatural movies (but does a good job at fitting in dramatic/deeper tones throughout the movie)"
+  final_notes: "This movie is a lot better on a second watch when you know what the conflict is/how it is built up, but a movie should not require a second watch to fix all the problems from an initial watch"
+  overall: "Overall, a very good horror movie that is carried by a brilliant performance from Toni Collete as she perfectly encapsulates a grieving mother and the lengths one would go to relieve her pain/trauma, but a poorly executed climax and a forced conflict hold this movie back from being truly great. While this film is better on a second watch, a movie should not require another viewing to fix major problems from an initial watch"
 }
 release_year: 2018
 review_date: "04/24/2024"

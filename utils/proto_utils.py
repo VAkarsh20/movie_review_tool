@@ -1,6 +1,6 @@
 import os
 from google.protobuf import text_format
-import movie_pb2
+from protos import movie_pb2
 from . wikipedia_utils import get_wiki_info
 from datetime import datetime
 import pandas as pd
@@ -65,6 +65,20 @@ def create_proto(redux=False):
 def create_proto_free(redux=False):
     title, imdb_id, infobox = get_wiki_info()
     return movie_pb2.MovieFree(title=title, rating=0.1, review="", release_year = find_release_year(infobox), review_date = find_review_date(), redux=redux, id=set_id(imdb_id, redux), imdb_id=imdb_id)
+
+# TODO: Redux is not created for Home Alone 2
+def move_redux_reviews(filename):
+    path = os.path.join(os.path.dirname(__file__), 'movies_textproto/')
+    count = 0
+    while os.path.exists(path + ("reduxed/" * count) + filename + ".textproto"):
+        count += 1
+
+    if not os.path.exists(path + ("reduxed/" * count)):
+        os.mkdir(path + ("reduxed/" * count))
+
+    while count > 0:
+        os.rename(path + ("reduxed/" * (count - 1)) + filename + ".textproto", path + ("reduxed/" * (count)) + filename + ".textproto")
+        count -= 1
 
 # Helper functions
 def get_field(infobox, key):

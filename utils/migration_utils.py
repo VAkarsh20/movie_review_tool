@@ -1,4 +1,4 @@
-import movie_pb2
+from protos import movie_pb2
 from google.protobuf import text_format
 
 # Converting functions                

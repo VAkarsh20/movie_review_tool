@@ -1,5 +1,5 @@
 from . proto_utils import *
-import movie_pb2
+from protos import movie_pb2
 
 def print_review(proto, filename, is_pretty=False):
     if proto.redux == True and filename != "":
@@ -174,7 +174,6 @@ def _combine_review_field(proto, is_pretty):
         review.insert(0, proto.review.overall + ".")
         return "\n\n".join(review)
     else:
-        print(review)
         return ", ".join(review) + ". {}.".format(proto.review.overall)
 
 def _combine_rating_and_comments(field, field_name="", is_pretty=False, is_acting=False):

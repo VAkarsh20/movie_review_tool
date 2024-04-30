@@ -1,0 +1,99 @@
+title: "Challengers"
+rating: 9.2
+review {
+ direction {
+  director {
+   name: "Luca Guadagnino"
+  }
+  rating: "Great"
+  comments: "The direction on a macroscale is great as he sets the overarching love triangle conflict well and accurately portrays both the intensity/mine-games of Tennis and various aspects of the organized sport (including the ATP Tour, the US Open series, the challenger circuit, the collegiate level, and the amateur circuit); the direction on a microscale is great as you see the triangle of relationships between the three main characters; the storytelling is great as they do an amazing job jumping between the past and the present to holistically share the match between all three of these characters; he builds tension very well as it mimics the intensity of tennis (especially in the climax/final match)"
+ }
+ acting {
+  performance {
+   actor {
+    name: "Zendaya"
+   }
+   rating: "Great"
+   comments: "Really carries the movie as she acts as the net between the two challengers and shows how she is the one really in control of the match of their lives"
+  }
+  performance {
+   actor {
+    name: "Josh O\'Connor"
+   }
+   rating: "Pretty Good"
+   comments: "The weakest one out of the main three characters as he is not really on the other two's level, but does hold his own when it counts"
+  }
+  performance {
+   actor {
+    name: "Mike Faist"
+   }
+   rating: "Very Good"
+   comments: "Has a lot of charisma and shows genuine concern for Zendaya's character, even though it may not always be reciprocated; does a very good job at matching the levels of his castmates and showing how his character has changed over the years"
+  }
+  cast {
+   rating: "Decent"
+   comments: "The movie is really about the main three as everyone else is merely a cameo; the tennis form for the actors is not the best as some either have great footwork but bad technique and vise versa"
+  }
+  rating: "Good to Very Good"
+ }
+ story {
+  writer {
+   name: "Justin Kuritzkes"
+  }
+  rating: "Incredible"
+  comments: "The concept is incredible as the movie is really about this love triangle between the three main characters, and tennis is merely a metaphor for how these characters interact with each other; the movie very accurately displays the various levels of organized tennis as well as the intensity/mental game of playing tennis; the plot structure is laid out very well as the movie does a good job in going between the current match and the past to holistically display the relationships between the three characters; character writing is great as you get a sense of the double-edged nature of Tashi's character, the fall from grace for Pat's character, the unreciprocated love for Art's character, and how Tashi is the net between these challengers"
+ }
+ screenplay {
+  writer {
+   name: "Justin Kuritzkes"
+  }
+  rating: "Incredible"
+  comments: "The dialogue is incredible as you see how conversations are a metaphorical tennis rally the way the characters recite lines back and forth to win each conversation, and the tennis vernacular is very accurate to the sport and the different time periods they move across; the symbolism is incredibly profound and prevalent as the movie is a metaphorical game of tennis the way Tashi is the net between these two characters; there is just so much symbolism that all my spoiler thoughts on the symbolism will be in the 'final notes' section; the foreshadowing is incredible as you the way the narrative is structured with it going between the present and the past because elements from the past come back to play a role in the present (especially in the climax)"
+ }
+ score {
+  composer {
+   name: "Trent Reznor"
+  }
+  composer {
+   name: "Atticus Ross"
+  }
+  rating: "Incredible"
+  comments: "Fits the mood incredibly well as it does an amazing job at establishing the intensity and tension of every scene; their best score since 'The Social Network'"
+ }
+ cinematography {
+  cinematographer {
+   name: "Sayombhu Mukdeeprom"
+  }
+  rating: "Very Good"
+  comments: "Does an amazing job of showing all the different angles of tennis (even though the first-person POVs are a bit tacky)"
+ }
+ editing {
+  editor {
+   name: "Marco Costa"
+  }
+  rating: "Pretty Bad"
+  comments: "While the editing was decent for the most part, there were so many continuity errors/simple blunders that could have easily been fixed in post (like the score on the ticker was wrong many times and there were moments where someone who serving when they should be returning), and it is very baffling these errors made the final cut considering this movie got pushed back more than half a year; the slow motion shots were fine to build tension, but they were overused in the climax"
+ }
+ sound {
+  rating: "Great"
+  comments: "Really good at getting the intensity of tennis and the crisp pop of hitting a tennis ball"
+ }
+ visual_effects {
+  rating: "Pretty Bad"
+  comments: "It made the movie super obvious they were not hitting the tennis balls as the spin/trajectory of the balls never actually matched how they were hit; side note, but there is no way Pat could serve that fast on a half-serve"
+ }
+ production_design {
+  rating: "Great"
+  comments: "Accurately portrays the different time periods of tennis and the US Open series"
+ }
+ pacing: "Pacing is perfect"
+ climax: "Climax is incredibly intense as it was the climax for both this close tennis match and the relationships between all of these characters; I enjoyed how the movie is left a bit open-ended as it brings different levels of interpretations on what happened"
+ tone: "Tone is really a romantic drama between these three characters and tennis acts as a background/setting"
+ final_notes: "This is one of the most accurate portrayals of tennis I have seen in media (minus how they actually played tennis); there is just so much symbolism for this movie (first: each conversation was a rally, second: Tashi was really the net between these two challengers (but on a more metaphorical level she is an obstacle between these two, so when the net is removed, these two challengers can finally embrace each other), third: the title itself is very symbolic (in the beginning, she adds the 's' to the title, so this is not an ATP Challenger, it is an ATP Challengers as she is trying to live her career vicariously through her husband (so when Art contemplates retirement, she does not know what she wants to do because this is all she knows (she thinks of herself as more than a ball and a racket, but in the end that all she is (and she doesn't know what she'll do with herself once her husband retires, She is clinging onto Pat because he still wants to play tennis and isn't giving up))), fourth: Tashi really is a homewrecker for these two challengers (there are a lot of homosexual undertones for this movie and Tashi is really the net/obstacle that got in the way betwen their friendship/relationship to where they feel free in the end when the obstacle is finally removed))"
+ overall: "Overall, a great movie that is carried by incredible writing, an incredible score, great direction, and memorable performances (especially Zendaya's) as the film uses tennis as a metaphor to explain the relationships of this love triangle, but this movie is held back by its noticeable editing/continuity blunders and unrealistic tennis technique"
+}
+release_year: 2024
+review_date: "04/26/2024"
+redux: false
+id: 443
+imdb_id: "tt16426418"

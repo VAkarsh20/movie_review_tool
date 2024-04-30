@@ -1,75 +1,72 @@
 title: "The Town"
-rating: 0.1
+rating: 8.6
 review {
   direction {
     director {
       name: "Ben Affleck"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Good to Very Good"
+    comments: "Does a very good job on a macroscale as he coordinates the heist scenes very well and shows the darker sides of Boston/Charlestown; does a good job on a microscale as the movie feels very authentically Boston, and he does a good job in the interpersonal scene and building Doug's relationships; directs his actors well as most feel authentically Boston; builds tension very well in the heist scenes)"
   }
   acting {
     performance {
       actor {
         name: "Ben Affleck"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good to Very Good"
+      comments: "Carries the movie well and feels very authentically Boston; builds chemistry with the rest of the cast (especially Renner and Hall)"
     }
     performance {
       actor {
         name: "Rebecca Hall"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Plays the female lead well and has chemistry with Affleck"
     }
     performance {
       actor {
         name: "Jon Hamm"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Plays a very similar character to his other performances (but still does a pretty good job)"
     }
     performance {
       actor {
         name: "Jeremy Renner"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Great"
+      comments: "A real scene stealer as he shows a wide range of emotions, feels authentically Boston, and shows a strong relationship/connection to Affleck"
     }
     performance {
       actor {
         name: "Blake Lively"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Plays the drunk bimbo pretty well"
     }
     performance {
       actor {
         name: "Titus Welliver"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
     }
     performance {
       actor {
         name: "Pete Postlethwaite"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
     }
     performance {
       actor {
         name: "Chris Cooper"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Everyone feels authentically Boston"
     }
-    rating: ""
+    rating: "Good"
   }
   story {
     writer {
@@ -81,8 +78,8 @@ review {
     writer {
       name: "Aaron Stockard"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Good"
+    comments: "The concept is very interesting as it mixes Heist elements with Bostonian elements very well, and the love interest is conveyed very well; the plot structure is laid out well; character writing is good for Dougie and James as you see how being a part of Charlestown has effected them, the rest of the characters are pretty cookie-cutter"
   }
   screenplay {
     writer {
@@ -94,8 +91,8 @@ review {
     writer {
       name: "Aaron Stockard"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Good"
+    comments: "The dialogue is very true to Boston and filled with many iconic lines; the humor is pretty good as it gives the movie a very New England feel; the symbolism is somewhat there; the foreshadowing is pretty good"
   }
   score {
     composer {
@@ -104,48 +101,40 @@ review {
     composer {
       name: "Harry Gregson-Williams"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Used well to help establish the tone"
   }
   cinematography {
     cinematographer {
       name: "Robert Elswit"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Feels very polished and helped make the heist scenes feel very crisp and well executed"
   }
   editing {
     editor {
       name: "Dylan Tichenor"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Feels very polished and helped make the heist scenes feel very crisp and well executed"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
+    comments: "Helps bring the gunfire to life"
   }
   visual_effects {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
+    comments: "Helps make the gun-fire and heist scenes very thrilling and entertaining"
   }
   costumes {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
+    comments: "The bank robbing costumes, especially the nun ones, have become very iconic and are emblematic of this movie"
   }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  pacing: "Pacing is good as it is fast and slow where it needs to be"
+  climax: "Climax is executed very well as it is the biggest heist and leaves the protagonist with a lot of decisions"
+  tone: "Tone is very heist/Boston"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a very good Bostonian heist movie that has memorable performances from Jeremy Renner and Ben Affleck, a well-written script, and well-executed action sequences"
 }
 release_year: 2010
 review_date: "04/20/2024"
