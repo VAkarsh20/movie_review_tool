@@ -1,0 +1,165 @@
+title: "Spider-Man 3"
+rating: 6.7
+review {
+  direction {
+    director {
+      name: "Sam Raimi"
+    }
+    rating: "Decent"
+    comments: "The direction on a macroscale is good as these are the highest budgeted action sequences, but it was very obvious this was a 3D movie (and it hasn't aged well); the direction on a microscale is a step back from the previous movie as the actors do not feel elevated, and the deeper concepts get muddled with the rest of the plot; the storytelling is a mess as the movie tries to tell so much in so little time; he builds tension well (but a step back from the previous movie as you know what is coming)"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Tobey Maguire"
+      }
+      rating: "Pretty Good"
+      comments: "A step back from the previous movie as he goes back to being campy/memey since he can really only show arrogance and anger (Bully Maguire); his performance is still memorable because he still has an aura that represents what the Sam Raimi trilogy is"
+    }
+    performance {
+      actor {
+        name: "Kirsten Dunst"
+      }
+      rating: "Good"
+      comments: "The only improvement from the last film as she is given more to work with MJ's increased depth"
+    }
+    performance {
+      actor {
+        name: "James Franco"
+      }
+      rating: "Pretty Good"
+      comments: "Shows that he is a good actor, but he is given nothing to work with because Harry is nerfed and forced in this movie"
+    }
+    performance {
+      actor {
+        name: "Thomas Haden Church"
+      }
+      rating: "Pretty Bad"
+      comments: "A very monotonous performance, but he does show emotion when talking about his backstory"
+    }
+    performance {
+      actor {
+        name: "Topher Grace"
+      }
+      rating: "Pretty Bad"
+      comments: "Such a fun, over-the-top performance that emulates what this movie is; he is not a good Venom"
+    }
+    performance {
+      actor {
+        name: "Bryce Dallas Howard"
+      }
+      rating: "Decent"
+      comments: "Kinda forced into this movie and does not really have chemistry with Maguire"
+    }
+    performance {
+      actor {
+        name: "James Cromwell"
+      }
+      rating: "Decent"
+      comments: "Isn't really given much to work with"
+    }
+    performance {
+      actor {
+        name: "Rosemary Harris"
+      }
+      rating: "Good"
+      comments: "Still plays the motherly figure well and carries the interpersonal scenes with Maguire"
+    }
+    performance {
+      actor {
+        name: "J. K. Simmons"
+      }
+      rating: "Very Good"
+      comments: "Still shines in his scenes, but his screentime is shorter and he isn't given as much to work with"
+    }
+    performance {
+      actor {
+        name: "Bruce Campbell"
+      }
+      rating: "Good"
+      comments: "Appreciate he was given an actual role in this movie as his comedic relief makes the scene he is in"
+    }
+    cast {
+      rating: "Decent"
+      comments: "The performances as pretty campy, but they support the main cast"
+    }
+    rating: "Decent to Pretty Good"
+  }
+  story {
+    writer {
+      name: "Sam Raimi"
+    }
+    writer {
+      name: "Ivan Raimi"
+    }
+    rating: "Bad"
+    comments: "The plot is not that great because it introduces too many characters, it has 3 villains and a new love interest, and only increases the runtime by 10 minutes, so the structure is just mismanaged and breezes through plot points; the character writing is a step back because it introduces too many characters and does not provide any depth to them"
+  }
+  screenplay {
+    writer {
+      name: "Sam Raimi"
+    }
+    writer {
+      name: "Ivan Raimi"
+    }
+    writer {
+      name: "Alvin Sargent"
+    }
+    rating: "Decent"
+    comments: "The dialogue is corny again as it is filled with many memeable lines (which also does make this movie iconic); the humor is unintentionally funny again because the movie reverted to being campy (enter Bully Maguire); the symbolism is there because the movie does tackle deep themes like arrogance, selfishness, and love, but not on a deeper level like the previous movie; the foreshadowing is pretty good"
+  }
+  score {
+    composer {
+      name: "Christopher Young"
+    }
+    rating: "Good to Very Good"
+    comments: "A step back from the previous films but still incorporates very good themes throughout the movie"
+  }
+  soundtrack {
+    rating: "Pretty Good"
+    comments: "Bully Maguire song"
+  }
+  cinematography {
+    cinematographer {
+      name: "Bill Pope"
+    }
+    rating: "Decent"
+    comments: "The movie is shot well, but the forced 3D shots have not aged well"
+  }
+  editing {
+    editor {
+      name: "Bob Murawski"
+    }
+    rating: "Good"
+  }
+  sound {
+    rating: "Very Good"
+    comments: "Feel polished and help bring to life the comic book characters"
+  }
+  visual_effects {
+    rating: "Very Good"
+    comments: "Some of the CGI are tacky as they tried to do forced 3D, but it is still leading for the time"
+  }
+  production_design {
+    rating: "Pretty Good"
+    comments: "Feels more like New York rather than 'Spider-Man's New York'"
+  }
+  makeup {
+    rating: "Good"
+    comments: "Helps show the scars and deformities in the characters"
+  }
+  costumes {
+    rating: "Incredible"
+    comments: "The Spider-Man and Black Spider-Man suits are incredibly iconic and the best in the franchise"
+  }
+  pacing: "Pacing was incredibly fast as they breeze through so many plot points (If they cut out one of the villains and added depth in the scenes it would help slow the pace down)"
+  climax: "Climax is executed well but there is so much happening at once"
+  tone: "Tone is back to being campy and comic-book esque"
+  final_notes: "This movie is very enjoyable for how memey it is"
+  overall: "Overall, a noticeable step back from the previous films as Sam Raimi tries to do much at once, but the film is still enjoyable with how campy and memey it is (like Bully Maguire)"
+}
+release_year: 2007
+review_date: "04/30/2024"
+redux: false
+id: 445
+imdb_id: "tt0413300"

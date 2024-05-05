@@ -27,6 +27,28 @@ class TestRatingUtils(unittest.TestCase):
     def test_rating_to_stars__correct_mapping(self, name, rating, stars):
         self.assertEqual(rating_to_stars(rating), stars, name)
 
+    # IMDb score
+    def test_rating_to_imdb_score__outside_range__raises_error(self):
+        with self.assertRaises(ValueError):
+            rating_to_imdb_score(10.0)
+
+    @parameterized.expand([
+        ["largest score", 9.9, 10],
+        ["10", 9.5, 10],
+        ["9", 9.0, 9],
+        ["8", 8.0, 8],
+        ["7", 7.0, 7],
+        ["6", 6.0, 6],
+        ["5", 5.0, 5],
+        ["4", 4.0, 4],
+        ["3", 3.0, 3],
+        ["2", 2.0, 2],
+        ["1", 1.0, 1],
+        ["0", 0.9, 0],
+    ])
+    def test_rating_to_imdb_score__correct_mapping(self, name, rating, imdb_score):
+        self.assertEqual(rating_to_imdb_score(rating), imdb_score, name)
+
     # Tags
     def test_rating_to_tag__outside_range__raises_error(self):
         with self.assertRaises(ValueError):

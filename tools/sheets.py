@@ -54,13 +54,6 @@ def reviews_sorted():
     df = df.sort_values(by=['Rating'], ascending=False)
     return df.to_string(index=False)
 
-# Helper Functions
-def access_api():
-    
-    scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/auth/spreadsheets',"https://www.googleapis.com/auth/drive.file","https://www.googleapis.com/auth/drive"]
-    creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json", scope)
-    return gspread.authorize(creds)
-
 def post_to_csv(proto, review):
 
     df = pd.read_csv("movies.csv")
@@ -75,3 +68,10 @@ def post_to_csv(proto, review):
         df.loc[len(df)] = record
     
     df.to_csv('movies.csv', index=False)
+
+# Helper Functions
+def access_api():
+    
+    scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/auth/spreadsheets',"https://www.googleapis.com/auth/drive.file","https://www.googleapis.com/auth/drive"]
+    creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json", scope)
+    return gspread.authorize(creds)

@@ -1,0 +1,129 @@
+title: "The Fall Guy"
+rating: 8.3
+review {
+  direction {
+    director {
+      name: "David Leitch"
+    }
+    rating: "Good"
+    comments: "The direction on a macroscale is well executed as the action sequences and stunts are very well choreographed and feel very personal to the direction (a former stuntman); the direction on a microscale is good as the interpersonal sequences bring out the humor and romance in the movie; direction of actors is good as it just felt like everyone had fun making this movie; storytelling is pretty similar to other action-comedies (with some 80s flavors); builds tension well"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Ryan Gosling"
+      }
+      rating: "Good to Very Good"
+      comments: "He shows that he is the master of over-the-top comedy as his charisma and timing is just perfect; his energy is infectious as he really brings out the best in everyone, and he has great chemistry with Emily Blunt"
+    }
+    performance {
+      actor {
+        name: "Emily Blunt"
+      }
+      rating: "Good to Very Good"
+      comments: "Commands every scene she is in and has an aura that is infectious; has very good comedic timing and great chemistry with Ryan Gosling"
+    }
+    performance {
+      actor {
+        name: "Aaron Taylor-Johnson"
+      }
+      rating: "Good"
+      comments: "Does a good job at playing the out-of-touch, empty-headed action star"
+    }
+    performance {
+      actor {
+        name: "Hannah Waddingham"
+      }
+      rating: "Good"
+      comments: "Has a lot of charisma and works well off of Emily Blunt and Ryan Gosling"
+    }
+    performance {
+      actor {
+        name: "Stephanie Hsu"
+      }
+      rating: "Pretty Good"
+      comments: "Barely in the movie but plays her part well"
+    }
+    performance {
+      actor {
+        name: "Winston Duke"
+      }
+      rating: "Pretty Good"
+      comments: "Plays his part well and has good chemistry with Ryan Gosling"
+    }
+    cast {
+      rating: "Pretty Good"
+      comments: "Action-comedy templated characters that are performed well"
+    }
+    rating: "Good"
+  }
+  story {
+    writer {
+      name: "Drew Pearce"
+    }
+    rating: "Pretty Good"
+    comments: "The concept is good as it is an action-comedy that is an homage to stuntmen, filmmaking, and the 80s; the plot structure follows the action-comedy template; the character writing is decent as it is pretty formulaic (but I did like how they gave more personality to the forgotten stuntmen)"
+  }
+  screenplay {
+    writer {
+      name: "Drew Pearce"
+    }
+    rating: "Good"
+    comments: "The dialogue is incredibly funny as it uses self-referential, dumb humor to make this movie a well-executed over-the-top comedy; the movie does a good job at incorporating meaningful romantic dialogue (even though it is a bit cliche); the foreshadowing is used very well to help tell the story (especially in the final hour)"
+  }
+  score {
+    composer {
+      name: "Dominic Lewis"
+    }
+    rating: "Decent"
+    comments: "Helps with establishing the tone and providing flavor to the action sequences"
+  }
+  soundtrack {
+    rating: "Good"
+    comments: "Makes up for the score as it helps give the movie an 80s vibe and set the tone of the sequences"
+  }
+  cinematography {
+    cinematographer {
+      name: "Jonathan Sela"
+    }
+    rating: "Very Good"
+    comments: "Polished and helps create very well executed action sequences; given that Emily Blunt's character is a former camera operation, it is only fitting the cinematography creates synergy with the stunt/action choreography"
+  }
+  editing {
+    editor {
+      name: "El\303\255sabet Ronaldsd\303\263ttir"
+    }
+    rating: "Good"
+    comments: "Very polished"
+  }
+  sound {
+    rating: "Good"
+    comments: "Helps bring out the action-sequences"
+  }
+  visual_effects {
+    rating: "Good"
+    comments: "Enjoyed how they favored practical effects over CGI, even making the CGI in the fake movie look amateurish, but I think the CGI they used was fine in the actual sequences"
+  }
+  production_design {
+    rating: "Pretty Good"
+    comments: "Enjoyed how they used Sydney and the sandy film set (the year of Sand is officially upon us)"
+  }
+  makeup {
+    rating: "Pretty Good"
+    comments: "Helps show the grit and grime stuntmen have to endure"
+  }
+  costumes {
+    rating: "Pretty Good"
+    comments: "Helps bring out the characters, and I enjoyed how complicated they made the alien suits"
+  }
+  pacing: "Pacing is good as it is fast in the action scenes and slow in the  interpersonal and comedic scenes"
+  climax: "Climax is executed very well as you see grand, well-executed action sequences that show the strengths of stunt-choreography, practical visual effects, and polished cinematography (with comedy acting as a glue to bring this all together)"
+  tone: "Tone is very similar to other over-the-top action-comedies (but pays homage to 80s action movies)"
+  final_notes: "This movie was so much fun to watch (its movies like these where you are happy to go to the theaters); this is the perfect movie post-Barbenheimer because this was Kentty (Ken + Kitty); this movie is 'we are back' personified"
+  overall: "Overall, a fun watch that blends action and comedy very well as David Leitch creates a love letter to his careers as a stuntman and a filmmaker, with polished technicals, hilarious humor, and memorable performances from Ryan Gosling and Emily Blunt bringing everything together"
+}
+release_year: 2024
+review_date: "05/01/2024"
+redux: false
+id: 446
+imdb_id: "tt1684562"

@@ -2,7 +2,8 @@ import os
 from google.protobuf import text_format
 from protos import movie_pb2
 from . wikipedia_utils import get_wiki_info
-from datetime import datetime
+from . date_utils import get_review_date
+from . text_utils import get_filename
 import pandas as pd
 
 # Read and Write functions
@@ -19,7 +20,7 @@ def read_proto(filename):
 
 def write_proto(proto):
 
-    filename = (proto.title + " ({})".format(proto.release_year) + ".textproto").replace(":","").replace("/", " ").replace("?", "")
+    filename = get_filename(proto.title, proto.release_year)
     path = ("movies_textproto/" + filename)
     if not os.path.exists(filename):
         with open(path, "w") as fd:
@@ -60,11 +61,11 @@ def create_proto(redux=False):
     )
 
     # creating the review object from the fields already initialized
-    return movie_pb2.Movie(title=title, rating=0.1, review=review, release_year = find_release_year(infobox), review_date = find_review_date(), redux=redux, id=set_id(imdb_id, redux), imdb_id=imdb_id)
+    return movie_pb2.Movie(title=title, rating=0.1, review=review, release_year = find_release_year(infobox), review_date = get_review_date(), redux=redux, id=set_id(imdb_id, redux), imdb_id=imdb_id)
 
 def create_proto_free(redux=False):
     title, imdb_id, infobox = get_wiki_info()
-    return movie_pb2.MovieFree(title=title, rating=0.1, review="", release_year = find_release_year(infobox), review_date = find_review_date(), redux=redux, id=set_id(imdb_id, redux), imdb_id=imdb_id)
+    return movie_pb2.MovieFree(title=title, rating=0.1, review="", release_year = find_release_year(infobox), review_date = get_review_date(), redux=redux, id=set_id(imdb_id, redux), imdb_id=imdb_id)
 
 # TODO: Redux is not created for Home Alone 2
 def move_redux_reviews(filename):
@@ -194,10 +195,6 @@ def find_release_year(infobox):
     release_year = infobox[release_key][0]
     return int(release_year.split('\xa0')[2]) if '\xa0' in release_year else int(release_year.partition(", ")[-1].partition(" ")[0])
 
-def find_review_date():
-    # Set the review date
-    today = datetime.now()
-    return "{}/{}/{}".format(today.strftime('%m'), today.strftime('%d'), today.strftime('%Y')) 
 
 # TODO: Do this without PD
 def set_id(imdb_id=None, redux=False):

@@ -95,63 +95,6 @@ class RottenTomatoesBot:
 #     def quit(self):
 #         self.driver.quit()
 
-
-# def rating_to_stars(rating):
-
-#     rating = int (rating * 10)
-
-#     # Mapping rating to its respective star
-#     if rating in range(95, 100):
-#         return 5
-#     elif rating in range(90, 95):
-#         return 4.5
-#     elif rating in range(80, 90):
-#         return 4
-#     elif rating in range(70, 78):
-#         return 3.5
-#     elif rating in range(60, 70):
-#         return 3
-#     elif rating in range(50, 60):
-#         return 2.5
-#     elif rating in range(40, 50):
-#         return 2.0
-#     elif rating in range(30, 40):
-#         return 1.5
-#     elif rating in range(20, 30):
-#         return 1.0
-#     elif rating in range(10, 20):
-#         return 0.5
-#     else:
-#         return 0
-
-# def rating_to_tag(rating):
-
-#     rating = int (rating * 10)
-
-#     # Mapping rating to its respective tag
-#     if rating in range(97, 100):
-#         return "Brilliant"
-#     elif rating in range(95, 97):
-#         return "Incredible"
-#     elif rating in range(90, 95):
-#         return "Great"
-#     elif rating in range(85, 90):
-#         return "Very Good"
-#     elif rating in range(80, 85):
-#         return "Good"
-#     elif rating in range(70, 80):
-#         return "Pretty Good"
-#     elif rating in range(60, 70):
-#         return "Decent"
-#     elif rating in range(50, 60):
-#         return "Pretty Bad"
-#     elif rating in range(40, 50):
-#         return "Bad"
-#     elif rating in range(30, 40):
-#         return "Very Bad"
-#     else:
-#         return "Terrible"
-
 # def change_date_format(date):
 #     month, day, year = date.split("/")
 #     return "{}-{}-{}".format(year, month, day)

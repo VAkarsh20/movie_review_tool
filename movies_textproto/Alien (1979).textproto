@@ -1,135 +1,126 @@
 title: "Alien"
-rating: 0.1
+rating: 7.8
 review {
-  direction {
-    director {
-      name: "Ridley Scott"
-    }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
-  }
-  acting {
-    performance {
-      actor {
-        name: "Tom Skerritt"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Sigourney Weaver"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Veronica Cartwright"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Harry Dean Stanton"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "John Hurt"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Ian Holm"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Yaphet Kotto"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    cast {
-      rating: "TODO"
-      comments: "TODO"
-    }
-    rating: ""
-  }
-  story {
-    writer {
-      name: "Dan O\'Bannon"
-    }
-    writer {
-      name: "Ronald Shusett"
-    }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
-  }
-  screenplay {
-    writer {
-      name: "Dan O\'Bannon"
-    }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
-  }
-  score {
-    composer {
-      name: "Jerry Goldsmith"
-    }
-    rating: "TODO"
-    comments: "TODO"
-  }
-  cinematography {
-    cinematographer {
-      name: "Derek Vanlint"
-    }
-    rating: "TODO"
-    comments: "TODO"
-  }
-  editing {
-    editor {
-      name: "Terry Rawlings"
-    }
-    editor {
-      name: "Peter Weatherley"
-    }
-    rating: "TODO"
-    comments: "TODO"
-  }
-  sound {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  visual_effects {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  direction {
+    director {
+      name: "Ridley Scott"
+    }
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale is good as he builds the  overarching conflict well and uses tension to bring out the horror in the alien and the fear of dying; the direction on a microscale is pretty good as each performance has a part in how they reach to what is going on; the storytelling is good as it progresses through a pretty simple story, and uses tension to heighten the stakes as the conflict unravels"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Tom Skerritt"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the captain well"
+    }
+    performance {
+      actor {
+        name: "Sigourney Weaver"
+      }
+      rating: "Good"
+      comments: "Controls the movie and does a good job at showing her fear and anxiety for what is going on"
+    }
+    performance {
+      actor {
+        name: "Veronica Cartwright"
+      }
+      rating: "Pretty Good"
+    }
+    performance {
+      actor {
+        name: "Harry Dean Stanton"
+      }
+      rating: "Pretty Good"
+    }
+    performance {
+      actor {
+        name: "John Hurt"
+      }
+      rating: "Pretty Good"
+    }
+    performance {
+      actor {
+        name: "Ian Holm"
+      }
+      rating: "Pretty Good"
+    }
+    performance {
+      actor {
+        name: "Yaphet Kotto"
+      }
+      rating: "Pretty Good"
+    }
+    cast {
+      rating: "Pretty Good"
+      comments: "The cast as a whole is filled with different archetypes for a crew movie and do a good job at reacting differently to the conflict and the alien"
+    }
+    rating: "Pretty Good to Good"
+  }
+  story {
+    writer {
+      name: "Dan O\'Bannon"
+    }
+    writer {
+      name: "Ronald Shusett"
+    }
+    rating: "Pretty Good"
+    comments: "The concept is pretty simple yet effective as the movie boils down to a hide-and-seek with the alien, and the movie does a good job at incorporating a twist to heighten the stakes; the plot structure is pretty simple, but the exposition feels very long; the character writing is pretty good as it fills all the archetypes of a “crew” movie, but also does a good job at providing some depth for Ripley as she tries to do the right thing and navigate through her fear"
+  }
+  screenplay {
+    writer {
+      name: "Dan O\'Bannon"
+    }
+    rating: "Pretty Good"
+    comments: "The dialogue is good and flows well; the symbolism is somewhat prominent as it tackles the concept of capitalism at the expense of human life; the foreshadowing is pretty standard for a horror movie"
+  }
+  score {
+    composer {
+      name: "Jerry Goldsmith"
+    }
+    rating: "Good"
+    comments: "Decent themes and helped establish tension and fear (but used more sparingly than I thought it would be)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Derek Vanlint"
+    }
+    rating: "Great"
+    comments: "Helps capture the world/ship and show the emotions and fear of the humans as they interact with the alien and conflict"
+  }
+  editing {
+    editor {
+      name: "Terry Rawlings"
+    }
+    editor {
+      name: "Peter Weatherley"
+    }
+    rating: "Great"
+    comments: "Make the movie feel very polished and used well to elicit horror"
+  }
+  sound {
+    rating: "Great"
+    comments: "Used well to show the fear in the environment and how scary the Alien is"
+  }
+  visual_effects {
+    rating: "Incredible"
+    comments: "Did an incredible job creating the alien and this space world/ship"
+  }
+  production_design {
+    rating: "Incredible"
+    comments: "The space-ship is iconic and they do an amazing job making this a futuristic sci-fi world"
+  }
+  makeup {
+    rating: "Very Good"
+    comments: "Did a good job in showing the impact and byproduct of the aliens"
+  }
+  pacing: "Pacing is very slow in the first hour as it feels like the movie is dragging through exposition, but, even though they pick up the pace, the movie still feels somewhat slow in the second half"
+  climax: "Climax is executed well as it shows the true carnage from the Alien and how afraid the crewmates are (but still feels a bit slow)"
+  tone: "Tone is a mix of multiple genres (sci-fi, horror, and action)"
+  final_notes: ""
+  overall: "Overall, an iconic horror film that is a major influence for the sci-fi genre as the movie does a pretty good job playing hind-and-seek with this mysterious Alien, even though it can be slow at times"
 }
 release_year: 1979
 review_date: "04/28/2024"

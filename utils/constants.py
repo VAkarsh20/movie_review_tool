@@ -13,6 +13,21 @@ stars_ratings_dict = {
     0.5: (1.0, 2.0)
 }
 
+# Mapping rating to its respective IMDb rating
+# Each range is as follows: [Start, End)
+imdb_ratings_dict = {
+    10: (9.5, 10.0),
+    9: (9.0, 9.5),
+    8: (8.0, 9.0),
+    7: (7.0, 8.0),
+    6: (6.0, 7.0),
+    5: (5.0, 6.0),
+    4: (4.0, 5.0),
+    3: (3.0, 4.0),
+    2: (2.0, 3.0),
+    1: (1.0, 2.0)
+}
+
 # Mapping rating to its respective tag
 # Each range is as follows: [Start, End)
 tags_ratings_dict = {

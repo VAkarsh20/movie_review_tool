@@ -3,6 +3,7 @@ from selenium.webdriver.firefox.service import Service as FirefoxService
 from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
+from utils.rating_utils import rating_to_tag, rating_to_imdb_score
 import protos.movie_pb2
 import pandas as pd
 import yaml
@@ -43,7 +44,7 @@ class IMDbBot:
 
         self.wait(10)
         stars = self.driver.find_elements(By.CLASS_NAME, "ice-star-wrapper")
-        imdb_rating = rating_to_imdb_rating(rating)
+        imdb_rating = rating_to_imdb_score(rating)
         stars[imdb_rating - 1].click()
 
         self.wait(10)
@@ -84,6 +85,14 @@ class IMDbBot:
     def quit(self):
         self.driver.quit()
 
+def post_to_imdb(proto, review):
+    bot = IMDbBot()
+    bot.login()
+    bot.import_review(proto.imdb_id, proto.rating, review)
+    if proto.rating >= 9.5:        
+        bot.add_to_cinema_personified_list(proto.imdb_id, proto.title, proto.release_year)
+    bot.quit()
+
 # inspired from https://github.com/TobiasPankner/Letterboxd-to-IMDb/blob/master/letterboxd2imdb.py
 def rate_on_imdb(imdb_id, rating):
     
@@ -120,70 +129,6 @@ def rate_on_imdb(imdb_id, rating):
             exit(1)
         else:
             raise ValueError(first_error_msg)
-
-def rating_to_imdb_rating(rating):
-
-    rating = int (rating * 10)
-
-    # Mapping rating to its respective rating
-    if rating in range(95, 100):
-        return 10
-    elif rating in range(90, 95):
-        return 9
-    elif rating in range(80, 90):
-        return 8
-    elif rating in range(70, 78):
-        return 7
-    elif rating in range(60, 70):
-        return 6
-    elif rating in range(50, 60):
-        return 5
-    elif rating in range(40, 50):
-        return 4
-    elif rating in range(30, 40):
-        return 3
-    elif rating in range(20, 30):
-        return 2
-    elif rating in range(10, 20):
-        return 1
-    else:
-        return 0
-
-def rating_to_tag(rating):
-
-    rating = int (rating * 10)
-
-    # Mapping rating to its respective tag
-    if rating in range(97, 100):
-        return "Brilliant"
-    elif rating in range(95, 97):
-        return "Incredible"
-    elif rating in range(90, 95):
-        return "Great"
-    elif rating in range(85, 90):
-        return "Very Good"
-    elif rating in range(80, 85):
-        return "Good"
-    elif rating in range(70, 80):
-        return "Pretty Good"
-    elif rating in range(60, 70):
-        return "Decent"
-    elif rating in range(50, 60):
-        return "Pretty Bad"
-    elif rating in range(40, 50):
-        return "Bad"
-    elif rating in range(30, 40):
-        return "Very Bad"
-    else:
-        return "Terrible"
-
-def post_to_imdb(proto, review):
-    bot = IMDbBot()
-    bot.login()
-    bot.import_review(proto.imdb_id, proto.rating, review)
-    if proto.rating >= 9.5:        
-        bot.add_to_cinema_personified_list(proto.imdb_id, proto.title, proto.release_year)
-    bot.quit()
 
 
 

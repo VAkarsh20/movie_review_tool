@@ -5,6 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import protos.movie_pb2
 from utils.rating_utils import *
+from utils.date_utils import change_date_format
 import pandas as pd
 import yaml
 import os
@@ -76,10 +77,6 @@ class LetterboxdBot:
         
     def quit(self):
         self.driver.quit()
-
-def change_date_format(date):
-    month, day, year = date.split("/")
-    return "{}-{}-{}".format(year, month, day)
 
 def create_letterboxd_csv(proto, short_review):
     df = pd.DataFrame(columns=["imdbID", "Title", "Year", "Rating","WatchedDate","Tags","Review"])
