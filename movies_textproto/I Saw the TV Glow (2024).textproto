@@ -1,9 +1,9 @@
-title: "Uncut Gems"
+title: "I Saw the TV Glow"
 rating: 0.1
 review {
   direction {
     director {
-      name: "Josh Safdie Benny Safdie"
+      name: "Jane Schoenbrun"
     }
     rating: "TODO"
     comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
@@ -11,42 +11,42 @@ review {
   acting {
     performance {
       actor {
-        name: "Adam Sandler"
+        name: "Justice Smith"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "LaKeith Stanfield"
+        name: "Brigette Lundy-Paine"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "Julia Fox"
+        name: "Ian Foreman"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "Kevin Garnett"
+        name: "Helena Howard"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "Idina Menzel"
+        name: "Fred Durst"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "Eric Bogosian"
+        name: "Danielle Deadwyler"
       }
       rating: "TODO"
       comments: "TODO"
@@ -59,50 +59,35 @@ review {
   }
   story {
     writer {
-      name: "Ronald Bronstein"
-    }
-    writer {
-      name: "Josh Safdie"
-    }
-    writer {
-      name: "Benny Safdie"
+      name: "Jane Schoenbrun"
     }
     rating: "TODO"
     comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
   }
   screenplay {
     writer {
-      name: "Ronald Bronstein"
-    }
-    writer {
-      name: "Josh Safdie"
-    }
-    writer {
-      name: "Benny Safdie"
+      name: "Jane Schoenbrun"
     }
     rating: "TODO"
     comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
   }
   score {
     composer {
-      name: "Daniel Lopatin"
+      name: "Alex G"
     }
     rating: "TODO"
     comments: "TODO"
   }
   cinematography {
     cinematographer {
-      name: "Darius Khondji"
+      name: "Eric K. Yue"
     }
     rating: "TODO"
     comments: "TODO"
   }
   editing {
     editor {
-      name: "Ronald Bronstein"
-    }
-    editor {
-      name: "Benny Safdie"
+      name: "Sofi Marshall"
     }
     rating: "TODO"
     comments: "TODO"
@@ -133,8 +118,8 @@ review {
   final_notes: ""
   overall: "Overall, "
 }
-release_year: 2019
-review_date: "05/22/2024"
-redux: true
-id: 127
-imdb_id: "tt5727208"
+release_year: 2024
+review_date: "05/27/2024"
+redux: false
+id: 454
+imdb_id: "tt15574270"
