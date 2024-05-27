@@ -1,3 +1,6 @@
+GEMINI_REQUEST_LIMIT = 15
+GEMINI_PROMPT = "Proofread (focus on spelling and grammar, do not provide any explantation, do not use a semi-colon in grammar fixes, replace the end of each sentence with a ';', the last sentence should not end with any punctuation)"
+
 # Mapping rating to its respective star
 # Each range is as follows: [Start, End)
 stars_ratings_dict = {

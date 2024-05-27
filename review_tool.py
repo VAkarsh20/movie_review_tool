@@ -3,6 +3,7 @@ from tools.sheets import initialize_to_sheets, post_to_sheets, reviews_sorted
 from tools.letterboxd import post_to_letterboxd
 from tools.imdb import post_to_imdb
 from tools.video_description import get_post_description
+from tools.proofread import proofread
 import os
 
 import pandas as pd
@@ -126,6 +127,12 @@ if __name__=="__main__":
         proto = read_proto(filename)
 
         print(get_post_description(proto))
+    elif sys.argv[1] == "proofread":
+        filename = input("What is the name of the movie?\n")
 
+        # Get details for post
+        proto = read_proto(filename)
+
+        print(proofread(proto))
     else:
         print("Invalid input. Please try again.")
