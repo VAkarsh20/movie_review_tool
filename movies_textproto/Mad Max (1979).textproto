@@ -1,0 +1,123 @@
+title: "Mad Max"
+rating: 6.6
+review {
+  direction {
+    director {
+      name: "George Miller"
+    }
+    rating: "Pretty Good"
+    comments: "Does an incredible job on a macroscale with how low-budget this movie is as the car-chases and action-sequences are well executed; the direction on a microscale is bad as the interpersonal scenes are poorly executed and you do not care for any of these characters; the storytelling is pretty bad as you never really develop a connection with any of these characters, and it is really hard to believe this is a post-apocalyptic world with how low-budget this movie is; he builds tension very well as the action sequences and climax are well executed"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Mel Gibson"
+      }
+      rating: "Pretty Good"
+      comments: "Shows promise as a future action star, even though he isn't given that much to work with"
+    }
+    performance {
+      actor {
+        name: "Joanne Samuel"
+      }
+      rating: "Decent"
+      comments: "Plays the female lead well enough and develops chemistry with Mel Gibson"
+    }
+    performance {
+      actor {
+        name: "Hugh Keays-Byrne"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the crazy lead villain well"
+    }
+    performance {
+      actor {
+        name: "Steve Bisley"
+      }
+      rating: "Decent"
+      comments: "Develops chemistry with Mel Gibson"
+    }
+    performance {
+      actor {
+        name: "Roger Ward"
+      }
+      rating: "Pretty Bad"
+      comments: "Very over-the-top and did not connect well with Gibson"
+    }
+    cast {
+      rating: "Bad"
+      comments: "About what you would expect from a movie this low-budget; it was hard to believe who these characters are playing; does not include child actors"
+    }
+    rating: "Pretty Bad"
+  }
+  story {
+    writer {
+      name: "George Miller"
+    }
+    writer {
+      name: "Byron Kennedy"
+    }
+    rating: "Pretty Bad"
+    comments: "This just feels like a concept film overall as the overarching idea is pretty cool (it is just hard to believe with how low-budget this movie is); the plot structure is not laid out well as the movie just feels like two separate halves; the character writing is decent as the protagonist and antagonist are pretty interesting, but the rest of the characters feel pretty forced"
+  }
+  screenplay {
+    writer {
+      name: "James McCausland"
+    }
+    writer {
+      name: "George Miller"
+    }
+    rating: "Pretty Bad"
+    comments: "The dialogue is unnatural and hard to follow at times; the symbolism is pretty prevalent as it tackles themes you would expect from a post-apocalyptic movie; the foreshadowing (and lack of foreshadowing) is very good as it does a good job at subverting your expectations and making this movie feel unique"
+  }
+  score {
+    composer {
+      name: "Brian May"
+    }
+    rating: "Decent"
+    comments: "Pretty low budget, but helps establish the scenes"
+  }
+  cinematography {
+    cinematographer {
+      name: "David Eggby"
+    }
+    rating: "Very Good"
+    comments: "Helps capture the action sequences and is very polished for how low-budget this movie is"
+  }
+  editing {
+    editor {
+      name: "Tony Paterson"
+    }
+    editor {
+      name: "Cliff Hayes"
+    }
+    rating: "Pretty Good"
+    comments: "Helps give the movie a unique feel"
+  }
+  sound {
+    rating: "Pretty Good"
+    comments: "The sound mixing and editing of the action sequences are great with how low-budget this movie is, but the ADR and dialogue are poorly mixed and hard to follow"
+  }
+  visual_effects {
+    rating: "Incredible"
+    comments: "The action sequences/car crashes are very well executed given how low-budget this movie is; really enjoyed the use of practical effects"
+  }
+  production_design {
+    rating: "Bad"
+    comments: "This is the biggest drawback from how low-budget this movie is as it is hard to believe this is a post-apocalyptic world if they just shot in present-day Australia"
+  }
+  costumes {
+    rating: "Pretty Good"
+    comments: "Gave Mad Max a signature look"
+  }
+  pacing: "Pacing is very fast as it tries to go through a lot of content in such a short period of time"
+  climax: "Climax is executed very well as it helps highlight the visual effects and action"
+  tone: "Tone is very post-apocalyptic and action-heavy (it's just they don't really capture the first part well because of the budget limitations)"
+  final_notes: "The movie just feels like a concept film as it tries to do the most it can with such a low budget"
+  overall: "Overall, this movie feels like a low-budget, concept film because it has an interesting idea and very well-executed action sequences, but the movie is constrained in how they can paint this world because of monetary restrictions"
+}
+release_year: 1979
+review_date: "05/18/2024"
+redux: false
+id: 449
+imdb_id: "tt0079501"

@@ -3,7 +3,7 @@ from selenium.webdriver.firefox.service import Service as FirefoxService
 from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
-import movie_pb2
+from protos import movie_pb2
 import pandas as pd
 import yaml
 import os

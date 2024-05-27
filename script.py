@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 import review_tool
 import os
-import movie_pb2
+from protos import movie_pb2
 from google.protobuf import text_format
 import sys
 from collections import defaultdict
@@ -22,6 +22,7 @@ import multiprocessing as mp
 from utils.proto_utils import *
 from utils.print_utils import *
 from google.protobuf.json_format import MessageToJson
+import google.generativeai as genai
 
 def create_df():
 
@@ -407,12 +408,136 @@ def set_id(imdb_id, redux):
         movie_id = len(os.listdir('movies_textproto/'))
     return movie_id
 
+def proofread_comments(comments, model):
+    # Define your text prompt
+    prompt = "Proofread (focus on spelling and grammar, do not provide any explantation, replace the end of each sentence with a ';', the last sentence should not end with any punctuation)"
+    
+    parts = comments.split(";")
+    result = model.generate_content("{}: {}".format(prompt, str(parts)))
+    return result.text.replace("**","").rstrip()
+
+def comment_spliter(proto):
+    yml = yaml.safe_load(open('login_details.yml'))
+
+    # Configure API key (replace with your actual key)
+    genai.configure(api_key=yml['gemini']['api_key'])
+
+    # Generate text using the prompt
+    model = genai.GenerativeModel("gemini-1.5-flash")
+
+    # Direction
+    if proto.review.direction.comments != "":
+        proto.review.direction.comments = proofread_comments(proto.review.direction.comments, model)
+
+    # Story
+    if proto.review.story.comments != "":
+        proto.review.story.comments = proofread_comments(proto.review.story.comments, model)
+
+    # Screenplay
+    if proto.review.screenplay.comments != "":
+        proto.review.screenplay.comments = proofread_comments(proto.review.screenplay.comments, model)
+ 
+    # # Acting
+    # if proto.review.acting.comments != "":
+
+    #     for actor in proto.review.acting.performance:
+    #         if actor.comments
+    #     if proto.review.acting.cast.rating != "":
+    #         acting.append(_combine_rating_and_comments(proto.review.acting.cast, "Rest of the cast", is_pretty, True))
+
+    #     acting = []
+    #     if is_pretty:
+    #         acting.append("Acting: " + proto.review.acting.rating)
+    #         for actor in proto.review.acting.performance:
+    #             acting.append(_combine_rating_and_comments(actor, actor.actor.name, is_pretty, True))
+    #         if proto.review.acting.cast.rating != "":
+    #             acting.append(_combine_rating_and_comments(proto.review.acting.cast, "Rest of the cast", is_pretty, True))
+    #         review.append("\n".join(acting))
+    #     else:
+    #         acting.append(proto.review.acting.rating + " Acting (")
+    #         for actor in proto.review.acting.performance:
+    #             acting.append("{}, ".format(_combine_rating_and_comments(actor, "from " + actor.actor.name)))
+    #         if proto.review.acting.cast.rating != "":
+    #             acting.append(_combine_rating_and_comments(proto.review.acting.cast, "from the rest of the cast") + ")")
+    #         else:
+    #             # Close the Acting field
+    #             acting[-1] = acting[-1][:-2] + ")"
+    #         review.append("".join(acting))
+
+    # Score
+    if proto.review.score.comments != "":
+        proto.review.score.comments = proofread_comments(proto.review.score.comments, model)
+    
+    # Soundtrack
+    if proto.review.soundtrack.comments != "":
+        proto.review.soundtrack.comments = proofread_comments(proto.review.soundtrack.comments, model)
+
+    # Cinematography
+    if proto.review.cinematography.comments != "":
+        proto.review.cinematography.comments = proofread_comments(proto.review.cinematography.comments, model)
+
+    # Editing
+    if proto.review.editing.comments != "":
+        proto.review.editing.comments = proofread_comments(proto.review.editing.comments, model)
+    
+    # Sound
+    if proto.review.sound.comments != "":
+        proto.review.sound.comments = proofread_comments(proto.review.sound.comments, model)
+    
+    # Visual Effects
+    if proto.review.visual_effects.comments != "":
+        proto.review.visual_effects.comments = proofread_comments(proto.review.visual_effects.comments, model)
+    
+    # Animation
+    if proto.review.animation.comments != "":
+        proto.review.animation.comments = proofread_comments(proto.review.animation.comments, model)
+    
+    # Production Design
+    if proto.review.production_design.comments != "":
+        proto.review.production_design.comments = proofread_comments(proto.review.production_design.comments, model)
+
+    # Makeup
+    if proto.review.makeup.comments != "":
+        proto.review.makeup.comments = proofread_comments(proto.review.makeup.comments, model)
+
+    # Costumes
+    if proto.review.costumes.comments != "":
+        proto.review.costumes.comments = proofread_comments(proto.review.costumes.comments, model)
+    
+    # Plot Structure
+    if proto.review.plot_structure != "":
+        proto.review.plot_structure = proofread_comments(proto.review.plot_structure, model)
+    
+    # Pacing
+    if proto.review.pacing != "":
+        proto.review.pacing = proofread_comments(proto.review.pacing, model)
+
+    # # Climax
+    # if proto.review.climax != "":
+    #     proto.review.climax = proofread_comments(proto.review.climax, model)
+
+    # # Tone
+    # if proto.review.tone != "":
+    #     proto.review.tone = proofread_comments(proto.review.tone, model)
+    
+    # # Final Notes
+    # if proto.review.final_notes != "":
+    #     proto.review.final_notes = proofread_comments(proto.review.final_notes, model)
+    
+    # # Overall
+    # if proto.review.overall not in ["","Overall, "]:
+    #     proto.review.final_notes = proofread_comments(proto.review.final_notes, model)
+    
+    print(proto)
+
 if __name__=="__main__":
 
     argc = len(sys.argv)
 
     filename = "Spider-Man (2002)"
     proto = read_proto(filename=filename)
+
+    comment_spliter(proto)
 
     # # print(print_imdb_review(proto, filename))
     # print(print_review(proto, filename))

@@ -1,8 +1,101 @@
 title: "The Big Short"
-rating: 7.9
-review: "Very good acting from core members, very good story, good screenplay, very entertaining, Tries to be very educational but falls at times it needs to be, only after a while do u understand what\'s going on."
+rating: 8.1
+review {
+  direction {
+    director {
+      name: "Adam McKay"
+    }
+    rating: "Good"
+    comments: "The direction on a macroscale is very unique as it is this fast-paced, guerilla documentary style that aims to be informative and emulate wall street; the direction on a microscale is very good as every performance feels very elevated and the chemistry in the cast helps move the story forward and portray lessons and messages the movie is trying to get across; the storytelling is pretty unique as it uses the fourth-wall and non-sequitur lessons to help feel like the movie is informing us about what was going on during the house-crisis, and he splits the movie into three storylines that intersect at certain points"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Christian Bale"
+      }
+      rating: "Great"
+      comments: "Really emulates the real-life Michael Burry and does a good job showing his inability to connect with others"
+    }
+    performance {
+      actor {
+        name: "Steve Carell"
+      }
+      rating: "Very Good"
+      comments: "Carries his scenes as he is the leader of his hedge-fun/scenes and does a good job showing his disgust at the system"
+    }
+    performance {
+      actor {
+        name: "Ryan Gosling"
+      }
+      rating: "Very Good"
+      comments: "Brings his signature over-the-top charm that helps make this movie entertaining, yet informative (he is literally me)"
+    }
+    performance {
+      actor {
+        name: "Brad Pitt"
+      }
+      rating: "Very Good"
+      comments: "Acts as a mentor for the younger investors and shows his disdain and separation for the banking industry"
+    }
+    cast {
+      rating: "Very Good"
+      comments: "Everyone plays their part really well and the chemistry helps make this a very cohesive cast"
+    }
+    rating: "Very Good to Great"
+  }
+  story {
+    writer {
+      name: "Charles Randolph"
+    }
+    writer {
+      name: "Adam McKay"
+    }
+    rating: "Very Good"
+    comments: "The concept is great as the movie shows the housing crisis and how three firms were able to predict this, while being informative at the same time; the plot structure is great for the most part as it does a good job at balancing three parallel storylines, but the ending feels a bit forced and preachy; the character writing is very good as you see how nobody is a hero as everyone thinks they are empathetic for this struggle yet are trying to profit off the situation"
+  }
+  screenplay {
+    writer {
+      name: "Charles Randolph"
+    }
+    writer {
+      name: "Adam McKay"
+    }
+    rating: "Very Good"
+    comments: "The dialogue is very fast-paced and helps give the movie a very unique feel; the fourth-wall breaking and meta-comedy helps make this movie feel informative and like they are talking to us; the symbolism is very forced and overt because of the comedic techniques, and even though it is preachy, it does do a good job explaining the situation and the greed of everyone; the foreshadowing is very overt and uses your knowledge of the true events"
+  }
+  score {
+    composer {
+      name: "Nicholas Britell"
+    }
+    rating: "Good"
+    comments: "Helps complement the tone"
+  }
+  soundtrack {
+    rating: "Good"
+    comments: "Helped establish the time period and set the mood (but was a little over-done in some places)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Barry Ackroyd"
+    }
+    rating: "Decent"
+    comments: "I did enjoy the guerilla, documentary style at points, but I felt like it was a little too much by the end"
+  }
+  editing {
+    editor {
+      name: "Hank Corwin"
+    }
+    rating: "Bad"
+    comments: "I understood what they were going for with this guerilla documentary style, but it just was a lot by the end as it was pretty chaotic and incoherent"
+  }
+  pacing: "Pacing is pretty fast to the point where it is hard to follow (but this helps set the fast-paced nature of Wall Street)"
+  climax: "Climax is pretty forced and incredibly preachy (though each of the storylines does have a concrete ending)"
+  tone: "Tone is very comedy-drama (a strong departure for McKay); It does have a very unique feel with its informative fourth-wall breaking nature"
+  final_notes: ""
+  overall: "Overall, a good movie that uses its very good cast and unique fourth-wall breaking, meta humor to explain the 2008 housing crisis, but its style makes it hard nauseating to watch at some points and the ending feels very forced and preachy"
+}
 release_year: 2015
-review_date: "09/18/2017"
-redux: false
+review_date: "05/12/2024"
+redux: true
 id: 45
 imdb_id: "tt1596363"

@@ -2,6 +2,7 @@ import sys
 from tools.sheets import initialize_to_sheets, post_to_sheets, reviews_sorted
 from tools.letterboxd import post_to_letterboxd
 from tools.imdb import post_to_imdb
+from tools.video_description import get_post_description
 import os
 
 import pandas as pd
@@ -11,6 +12,24 @@ import subprocess
 import copy
 from utils.proto_utils import *
 from utils.print_utils import *
+from utils.text_utils import *
+
+# TODO: Redux is not created for Home Alone 2
+# TODO: Redux not created for Star Wars Episode I because of '-' char
+# TODO: Redux is not created for The Big Short
+def move_redux_reviews(filename):
+    path = os.path.join(os.path.dirname(__file__), 'movies_textproto/')
+    count = 0
+    while os.path.exists(path + ("reduxed/" * count) + filename + ".textproto"):
+        print(path + ("reduxed/" * count) + filename + ".textproto")
+        count += 1
+
+    if not os.path.exists(path + ("reduxed/" * count)):
+        os.mkdir(path + ("reduxed/" * count))
+
+    while count > 0:
+        os.rename(path + ("reduxed/" * (count - 1)) + filename + ".textproto", path + ("reduxed/" * (count)) + filename + ".textproto")
+        count -= 1
 
 if __name__=="__main__":    
     argc = len(sys.argv)
@@ -22,7 +41,7 @@ if __name__=="__main__":
         # TODO: Deletes original version of the file
         if argc > 2 and sys.argv[2] == "redux":
             movie = create_proto(True)
-            move_redux_reviews("{} ({})".format(movie.title, movie.release_year))
+            move_redux_reviews(get_filename(movie.title, movie.release_year))
         else:
             movie = create_proto()
             initialize_to_sheets(movie)
@@ -31,7 +50,7 @@ if __name__=="__main__":
         # TODO: Deletes original version of the file
         if argc > 2 and sys.argv[2] == "redux":
             movie = create_proto(True)
-            move_redux_reviews("{} ({})".format(movie.title, movie.release_year))
+            move_redux_reviews(get_filename(movie.title, movie.release_year))
             initialize_to_sheets(movie)
         else:
             movie = create_proto_free()
@@ -100,5 +119,13 @@ if __name__=="__main__":
         p_letterboxd.join()
         p_imdb.start()
         p_imdb.join()
+    elif sys.argv[1] == "get_post_description":
+        filename = input("What is the name of the movie?\n")
+
+        # Get details for post
+        proto = read_proto(filename)
+
+        print(get_post_description(proto))
+
     else:
         print("Invalid input. Please try again.")

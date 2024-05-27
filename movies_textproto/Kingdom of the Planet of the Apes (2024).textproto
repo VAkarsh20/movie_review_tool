@@ -1,0 +1,110 @@
+title: "Kingdom of the Planet of the Apes"
+rating: 7.5
+review {
+  direction {
+    director {
+      name: "Wes Ball"
+    }
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale is very good as the action sequences are well choreographed and the world is built very well; the direction on a microscale is pretty good as the interpersonal scenes bring out a lot of the messages in the movie; the direction of actors is pretty good as the performances were entertaining (but it did not feel on the same level as the previous two movies); the storytelling is a rough as the movie does do a pretty good job at continuing the story from the previous movies, but what they are trying to build/show from the human's perspective was poorly displayed; they build tension well in the action sequences"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Owen Teague"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Does a pretty good job holding his own as the lead and helping move the story forward, but it's hard to follow up Andy Serkis as the leader of this franchise)"
+    }
+    performance {
+      actor {
+        name: "Freya Allan"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "A bit one-dimensional in the more interpersonal scenes, but she holds her own for the most part"
+    }
+    performance {
+      actor {
+        name: "Kevin Durand"
+      }
+      rating: "Pretty Good to Good"
+      comments: "An extravagant performance that really commands the scenes he is in (but there are some moments that truly hold this performance from being very good)"
+    }
+    performance {
+      actor {
+        name: "Peter Macon"
+      }
+      rating: "Pretty Good"
+      comments: "Does a good job at being the elderly/father figure to Noa"
+    }
+    performance {
+      actor {
+        name: "William H. Macy"
+      }
+      rating: "Pretty Good"
+      comments: "Basically just pulled from experience in playing a 'Frank Gallagher' type character"
+    }
+    cast {
+      rating: "Pretty Good"
+      comments: "Everyone plays their role well and does a good job at portraying intelligent apes"
+    }
+    rating: "Pretty Good"
+  }
+  story {
+    writer {
+      name: "Josh Friedman"
+    }
+    rating: "Decent"
+    comments: "The concept as a whole is pretty interesting as the movie tackles how people misconstrue and abuse the words of a prophet the longer time decays their philosophies, but I think what they are building towards at the end/for future movies is very stupid; the plot structure is laid out pretty well as most of the scenes felt necessary to tell the story, but the ideas in the climax/ending feel very forced; the character writing is pretty shallow (especially for the humans)"
+  }
+  screenplay {
+    writer {
+      name: "Josh Friedman"
+    }
+    rating: "Decent"
+    comments: "The dialogue is pretty emblematic of apes and how they would talk; the symbolism is decently profound as it tackles concepts of power, the decay of ideas over time, and the belief of dominant species; the foreshadowing is there (it is just not set up well)"
+  }
+  score {
+    composer {
+      name: "John Paesano"
+    }
+    rating: "Very Good"
+    comments: "Many beautiful themes that do a good job at bringing out the emotions in the scenes and building tension"
+  }
+  cinematography {
+    cinematographer {
+      name: "Gyula Pados"
+    }
+    rating: "Very Good"
+    comments: "Helps build the world and tension in the action scenes (especially how it supports the apes climbing)"
+  }
+  editing {
+    editor {
+      name: "Dan Zimmerman"
+    }
+    rating: "Good"
+    comments: "Felt very polished"
+  }
+  sound {
+    rating: "Great"
+    comments: "Helps bring to life this world and the apes"
+  }
+  visual_effects {
+    rating: "Great to Incredible"
+    comments: "Continues to show how this franchise is a pioneer in motion-capture and visual effects as everything looks stunning and realistic; CGI is an important tool in building the world as it shows the natural overgrowth in the collapsed human society"
+  }
+  production_design {
+    rating: "Very Good"
+    comments: "Even though it was most likely CGI, they built the world beautifully to show this overgrown nature on a collapsed humanity"
+  }
+  pacing: "Pacing is pretty slow in the interpersonal moments because it is very slice-of-life for the apes (so there is nothing you could do); I still think they could have cut like 10 minutes of this movie by making the movie be a bit faster"
+  climax: "Climax is executed very well as the action and CGI feel polished, but the ideas they were trying to portray from the human perspective feel very forced; the actual ending of the movie is bad as it forcefully tries to build to something that is very stupid (and it leaves many things unsettled)"
+  tone: "Tone is very similar to the other 'Planet of the Apes' movies as it feels like a dystopian Sci-Fi movie"
+  final_notes: "This movie just does not feel necessary (they should have just ended after 'War for the Planet of the Apes'"
+  overall: "Overall, an entertaining installment that continues to show why the 'Planet of the Apes' reboot franchise is a pioneer in motion-capture and visual effects, but its mismanaged ending and what they are building towards for future sequels make you wonder if this movie was really necessary. "
+}
+release_year: 2024
+review_date: "05/08/2024"
+redux: false
+id: 447
+imdb_id: "tt11389872"

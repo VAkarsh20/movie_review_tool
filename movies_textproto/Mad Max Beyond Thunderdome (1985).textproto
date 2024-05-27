@@ -1,0 +1,98 @@
+title: "Mad Max Beyond Thunderdome"
+rating: 6.8
+review {
+  direction {
+    director {
+      name: "George Miller"
+    }
+    director {
+      name: "George Ogilvie"
+    }
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale feels a bit formulaic as it feels similar to other 80s movies, but it still does have many signature Mad Max moments; the direction on a microscale is pretty good as the interpersonal scenes feel consistent this time around; storytelling is pretty formulaically 80s; builds tension decently well in the action sequences (but feels similar to other 80s movies)"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Mel Gibson"
+      }
+      rating: "Good"
+      comments: "Shows his experience as an action star and as Mad Max as he carries this movie"
+    }
+    performance {
+      actor {
+        name: "Tina Turner"
+      }
+      rating: "Decent"
+      comments: "Feels like she's in this movie because of her name, but holds her own well enough"
+    }
+    cast {
+      rating: "Decent"
+      comments: "Everyone continues to support Mel Gibson (but it feels more formulaically 80s this time around)"
+    }
+    rating: "Pretty Good"
+  }
+  story {
+    writer {
+      name: "George Miller"
+    }
+    writer {
+      name: "Terry Hayes"
+    }
+    rating: "Decent"
+    comments: "The concept is decent as it follows Mad Max on another adventure, but it tries to do a little too much; the plot structure is not as great this time around as they try to introduce a whole second act that feels kinda forced, and the ending just feels forced to make up for what they introduced in the second half; character writing is the same as the previous movie as it just feels like they made Mad Max do the same thing as last time"
+  }
+  screenplay {
+    writer {
+      name: "George Miller"
+    }
+    writer {
+      name: "Terry Hayes"
+    }
+    rating: "Pretty Bad"
+    comments: "The dialogue is still very unnatural, but it suffers from also being very 80s; the symbolism stems from the savior archetype; the foreshadowing makes the movie pretty formulaic, but the ending just feels very forced/deus ex machina"
+  }
+  score {
+    composer {
+      name: "Maurice Jarre"
+    }
+    rating: "Good"
+    comments: "Feels very 80s (like if we had Indiana Jones at home)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Dean Semler"
+    }
+    rating: "Very Good"
+    comments: "Feels very high-budget and is used very well"
+  }
+  editing {
+    editor {
+      name: "Richard Francis-Bruce"
+    }
+    rating: "Good"
+    comments: "Feels very polished"
+  }
+  sound {
+    rating: "Good"
+    comments: "Helps bring to life the action sequences"
+  }
+  visual_effects {
+    rating: "Very Good"
+    comments: "Uses a good amount of practical effects to help bring to life these action sequences"
+  }
+  production_design {
+    rating: "Good"
+    comments: "Helps show the desert and the wasteland"
+  }
+  pacing: "Pacing is a little bit on the slower side as the movie has a more unnecessary plot (the exposition could have been cut by like 15 minutes)"
+  climax: "Climax is executed well in terms of action (but the ending is just deus ex machina)"
+  tone: "Tone is very 80s action movie and not very post-apocalyptic (Feels like if we had Indiana Jones at home)"
+  final_notes: "This movie just feels like if they made Max Max a typical action movie from the 80s as they tried very hard to make this movie similar to Indiana Jones"
+  overall: "Overall, an entertaining action movie with well-executed action-sequences, but this film feels like a step back from its predecessor because it feels formulaically 80s (like if we had 'Indiana Jones at Home')"
+}
+release_year: 1985
+review_date: "05/20/2024"
+redux: false
+id: 451
+imdb_id: "tt0089530"

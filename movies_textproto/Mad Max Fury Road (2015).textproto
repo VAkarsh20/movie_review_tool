@@ -1,0 +1,123 @@
+title: "Mad Max: Fury Road"
+rating: 8.4
+review {
+  direction {
+    director {
+      name: "George Miller"
+    }
+    rating: "Very Good"
+    comments: "The direction on a macroscale feels incredibly grand and well executed as the action sequences are stunning and beautiful (really shows what he wanted to display in the 80s if he had the right technology); the direction on a microscale is good as you get a sense of character's internal struggles and what characters like Max and Furiosa want; the storytelling is good as there is a sense of where this movie is going (and the movie heavily relies on its rising action and climax as there is little to no exposition); they build tension very well in the action-sequences with how high-octane they are"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Tom Hardy"
+      }
+      rating: "Pretty Good"
+      comments: "Feels pretty separated from Mel Gibson's performance, but he makes it his own and plays the protagonist well"
+    }
+    performance {
+      actor {
+        name: "Charlize Theron"
+      }
+      rating: "Good"
+      comments: "Feels like the true protagonist of the movie as Max seems more like an observer to her struggle, and she effectively displays the struggle and how it dictates her actions"
+    }
+    performance {
+      actor {
+        name: "Nicholas Hoult"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Plays the War Boy well enough, but does not really develop chemistry with the rest of the cast"
+    }
+    performance {
+      actor {
+        name: "Hugh Keays-Byrne"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Is not really given that much to work with but plays the villain well"
+    }
+    cast {
+      rating: "Decent"
+      comments: "Everyone does their job in supporting the two leads as it really is about them (with some performances doing this better than others)"
+    }
+    rating: "Pretty Good"
+  }
+  story {
+    writer {
+      name: "George Miller"
+    }
+    writer {
+      name: "Brendan McCarthy"
+    }
+    writer {
+      name: "Nico Lathouris"
+    }
+    rating: "Pretty Good"
+    comments: "The concept is pretty unique for a Mad Max film as it is more about Furiosa's story arc as Max seems more like an observer in this new part of the wasteland; the plot structure is non-traditional because it is void of any exposition, we are plopped into this part of the wasteland and have to infer what is going on from Max's perspective (but this is a problem because it does not make you care for Max or Furiosa's backstory); character writing is pretty good for Mad Max and Furiosa as you get a sense of their characters and their motivations, but the rest of the characters are pretty formulaic"
+  }
+  screenplay {
+    writer {
+      name: "George Miller"
+    }
+    writer {
+      name: "Brendan McCarthy"
+    }
+    writer {
+      name: "Nico Lathouris"
+    }
+    rating: "Pretty Good to Good"
+    comments: "The dialogue is an improvement from the rest of the films, but is still not that amazing as it is pretty unnatural; the symbolism is more profound this time around as it deals more with survival, PTSD, feminism, and purpose; the foreshadowing is pretty good and helps set up the whole story-arc"
+  }
+  score {
+    composer {
+      name: "Junkie XL"
+    }
+    rating: "Good"
+    comments: "Helps paint the wasteland and make the action-sequences epic"
+  }
+  cinematography {
+    cinematographer {
+      name: "John Seale"
+    }
+    rating: "Incredible"
+    comments: "Helps make the wasteland and the action-sequences feel grand and epic"
+  }
+  editing {
+    editor {
+      name: "Margaret Sixel"
+    }
+    rating: "Decent"
+    comments: "Is polished and pretty unique, but I was not a fan of the technique and style in the action sequences (especially the motion-blur as well as the slow-motion and sped-up sequences)"
+  }
+  sound {
+    rating: "Incredible"
+    comments: "Helps bring to life the action sequences"
+  }
+  visual_effects {
+    rating: "Great"
+    comments: "Incredible grand and well painted as it felt like this was the first time George Miller got to paint the wasteland he wanted; the action sequences are exactly what Mad Max was supposed to be as it mixes CGI with practical effects to make captivating sequences; the only drawback was it was pretty obvious when they were using a blue screen"
+  }
+  production_design {
+    rating: "Incredible"
+    comments: "Uses CGI as well as real set design to paint a wasteland that genuinely felt post-apocalyptic"
+  }
+  makeup {
+    rating: "Incredible"
+    comments: "Helps paint these gritty, mad inhabitants of this wasteland"
+  }
+  costumes {
+    rating: "Great"
+    comments: "Helps paint the characters in this wasteland"
+  }
+  pacing: "Pacing is very fast as it feels like it speeds through the story (the movie would have benefited from 15-20 minutes to provide exposition and relationship building between Furiosa and Mad Max)"
+  climax: "Climax is incredible and really showcases what George Miller wanted to show in a final car sequence because it is stunning"
+  tone: "Tone is post-apocalyptic mixed with over-the-top action"
+  final_notes: "This felt like Geroge Miller finally had the technology to create a Mad Max he wanted"
+  overall: "Overall, a grand epic that is painted with high-octane action sequences and a beautifully mad wasteland as it feels like the technology finally caught up to George Miller's Mad Max vision, but this movie too fast and suffers from typical Mad Max writing issues"
+}
+release_year: 2015
+review_date: "05/21/2024"
+redux: false
+id: 452
+imdb_id: "tt1392190"

@@ -1,0 +1,120 @@
+title: "Furiosa: A Mad Max Saga"
+rating: 7.8
+review {
+  direction {
+    director {
+      name: "George Miller"
+    }
+    rating: "Good"
+    comments: "The direction on a macroscale picks off where 'Fury Road' left off as it continues to convey beautifully stunning action-sequences and paint a grand wasteland, and it feels even more realistic this time around; the direction on a microscale showcases the capability of these actors, but these interpersonal sequences are so scarce that it feels like they wasted the actor's talents; the storytelling is pretty good as the movie is structured into chapters, but it feels like some of these characters are too simple and bloated; builds tension well in the action sequences (especially how long they are because it leads to many twists and turns)"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Anya Taylor-Joy"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Showcases the anger and rage of Furiosa as she tries to find her way home, but her talents are wasted because she feels like a cameo in her own movie "
+    }
+    performance {
+      actor {
+        name: "Chris Hemsworth"
+      }
+      rating: "Good"
+      comments: "His over-the-top villain nature helps paint this character and create an egotistical dynamic that steals scenes from other actors; has great chemistry with Taylor-Joy"
+    }
+    performance {
+      actor {
+        name: "Tom Burke"
+      }
+      rating: "Decent"
+      comments: "Really isn't given any material to work with"
+    }
+    performance {
+      actor {
+        name: "Alyla Browne"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Plays the young Furiosa well"
+    }
+    cast {
+      rating: "Decent"
+      comments: "No memorable performances because everyone just feels like pawns in the overarching action sequences"
+    }
+    rating: "Decent to Pretty Good"
+  }
+  story {
+    writer {
+      name: "George Miller"
+    }
+    writer {
+      name: "Nico Lathouris"
+    }
+    rating: "Decent"
+    comments: "The concept is unintentionally interesting because this movie feels more like exposition for 'Fury Road' rather than 'Furiosa' (and this is actually good in some perspective because 'Fury Road' is void of this); the plot structure is very bloated because the movie has five chapters that feel longer than they need to be (especially considering there is barely any dialogue); the character writing is not that great because it does not provide any depth to Furiosa that is not already given in Fury Road, but the writing for Dementus is pretty good; the forced relationship between Furiosa and Praetorian Jack is not written that well; the story honestly feels like it is fan service for 'Fury Road' rather than being a stand-alone movie"
+  }
+  screenplay {
+    writer {
+      name: "George Miller"
+    }
+    writer {
+      name: "Nico Lathouris"
+    }
+    rating: "Decent"
+    comments: "The dialogue is intentionally void of dialogue to make the movie more focused on its action sequences, but this creates a problem when all the good lines are used up in the trailer; the humor is more childish and playground this time around (but it's still somewhat funny); the symbolism is somewhat prevalent as it deals with growth, life, and redemption; the foreshadowing is solely based on this movie being a prequel and that you already know what is going to happen"
+  }
+  score {
+    composer {
+      name: "Tom Holkenborg"
+    }
+    rating: "Good to Very Good"
+    comments: "Really feels grand and helps paint the scenes and action-sequences (but honestly feels like if we had 'Dune' at home)"
+  }
+  cinematography {
+    cinematographer {
+      name: "Simon Duggan"
+    }
+    rating: "Great"
+    comments: "Helps paint this world and its action-sequences"
+  }
+  editing {
+    editor {
+      name: "Margaret Sixel"
+    }
+    editor {
+      name: "Eliot Knapman"
+    }
+    rating: "Good"
+    comments: "Feels very polished and well executed"
+  }
+  sound {
+    rating: "Incredible"
+    comments: "Helps paint the action sequences and the motorcycle engines"
+  }
+  visual_effects {
+    rating: "Incredible"
+    comments: "Uses CGI and practical effects very well to create epic action-sequences"
+  }
+  production_design {
+    rating: "Incredible"
+    comments: "Uses CGI and on-set locations to make this world feel like a wasteland"
+  }
+  makeup {
+    rating: "Very Good"
+    comments: "Helps paint the inhabitants of this mad wasteland"
+  }
+  costumes {
+    rating: "Great"
+    comments: "Helps paint the inhabitants of this mad wasteland"
+  }
+  pacing: "Pacing is pretty slow because of multiple factors (it is a lot longer than it needs to be, the action sequences are very long, and the movie is void of dialogue); this movie would have benefited from 20-30 minutes cut and added to 'Fury Road'"
+  climax: "Climax is executed very well and helps tie this movie into 'Fury Road'"
+  tone: "Tone is very similar to 'Fury Road'"
+  final_notes: "Almost all of the best scenes and shots were used in the trailer; this movie just feels like George Miller said 'Hey guys, remember how I made Mad Max: Fury Road, well here's Fury Road Part 0"
+  overall: "Overall, a visually stunning and entertaining action epic that blends visual effects with expert execution to paint technically impressive action sequences set across the backdrop of a mad wasteland, but this movie feels more like fan service to Mad Max: Fury Road than a stand-alone movie as Furiosa feels like a cameo in her own movie"
+}
+release_year: 2024
+review_date: "05/21/2024"
+redux: false
+id: 453
+imdb_id: "tt12037194"

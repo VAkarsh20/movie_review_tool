@@ -1,0 +1,103 @@
+title: "Mad Max 2"
+rating: 8.2
+review {
+  direction {
+    director {
+      name: "George Miller"
+    }
+    rating: "Very Good"
+    comments: "Really built on what he created in the last film on a macroscale as he effectively uses a bigger budget to create more realistic action sequences to emulate what the first movie was trying to be; improves a lot on a microscale as the interpersonal scenes are better acted and Mel Gibson is given more to work with; the storytelling is good as the story is laid out pretty well and is engaging/interesting, but the style is pretty different from its predecessor's that this movie feels more like a spiritual continuation rather than a sequel; he builds tension very well as the action sequences are very engaging"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Mel Gibson"
+      }
+      rating: "Good"
+      comments: "Given a lot to work with this time around and effectively showcases himself as an action star and recluse that is reluctant to help others"
+    }
+    cast {
+      rating: "Decent"
+      comments: "Does a better job working off of Mel Gibson as their sole purpose is to support his character (though there are some over-the-top actors that didn’t gel well with the rest of the cast)"
+    }
+    rating: "Pretty Good"
+  }
+  story {
+    writer {
+      name: "Terry Hayes"
+    }
+    writer {
+      name: "George Miller"
+    }
+    writer {
+      name: "Brian Hannant"
+    }
+    rating: "Pretty Good"
+    comments: "The concept is good as they have Max go on another adventure and venture further down the madness of the wasteland, but it does not really feel like that much of a sequel; the plot structure is laid out well as you know what the story is building towards and Max's place in it; character writing is better as it shows how Max transitions from being a selfish recluse into a warrior that saves (similar to Han Solo in Star Wars)"
+  }
+  screenplay {
+    writer {
+      name: "Terry Hayes"
+    }
+    writer {
+      name: "George Miller"
+    }
+    writer {
+      name: "Brian Hannant"
+    }
+    rating: "Decent"
+    comments: "The dialogue is still pretty bad as it feels unnatural and very different stylistically to the previous film, but it still is a strong improvement; the symbolism is decently prevalent as it deals with the 'Han Solo' archetype; the foreshadowing is more prevalent this time around, but this kinda hurts the film as it makes it a bit more predictable"
+  }
+  score {
+    composer {
+      name: "Brian May"
+    }
+    rating: "Pretty Good"
+  }
+  cinematography {
+    cinematographer {
+      name: "Dean Semler"
+    }
+    rating: "Very Good"
+    comments: "Used its increased budget well as it feels elevated since it does an even better job at highlighting the action-sequences; does a very good job in building the wasteland"
+  }
+  editing {
+    editor {
+      name: "David Stiven"
+    }
+    editor {
+      name: "Tim Wellburn"
+    }
+    editor {
+      name: "Michael Balson"
+    }
+    rating: "Decent"
+    comments: "Fine, but feels a bit disjointed"
+  }
+  sound {
+    rating: "Good"
+    comments: "Helps bring to life the action sequences, the ADR feels better this time around"
+  }
+  visual_effects {
+    rating: "Incredible"
+    comments: "Does an amazing job while still being on a low budget as it uses practical effects to create captivating action sequences"
+  }
+  production_design {
+    rating: "Great"
+    comments: "Uses its increased budget well as the movie does feel like a wasteland this time around"
+  }
+  costumes {
+    rating: "Good"
+    comments: "Helps give this movie a 'Max Max' feel with his costume and the costumes for the villains"
+  }
+  pacing: "Pacing is good as the movie does not feel too fast or too slow"
+  climax: "Climax is executed very well and does a good job at closing the story"
+  tone: "Tone is very post-apocalyptic (and does a way better job at displaying this with an increased budget)"
+  final_notes: "This movie builds on what the first movie creates as it uses its low-budget wisely to create a mad wasteland"
+  overall: "Overall, a good film that uses a slightly increased budget to build on the first movie's concept as they do a better job at creating high-octane action sequences and painting this mad wasteland"
+}
+release_year: 1981
+review_date: "05/19/2024"
+redux: false
+id: 450
+imdb_id: "tt0082694"

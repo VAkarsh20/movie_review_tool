@@ -1,0 +1,111 @@
+title: "Hit Man"
+rating: 8.2
+review {
+  direction {
+    director {
+      name: "Richard Linklater"
+    }
+    rating: "Good"
+    comments: "The direction on a macroscale feels very feel-good and comedic; the direction on a microscale is good as this is where the comedy and the romance comes out of the movie; the storytelling is pretty straightforward as it follows a simple story (but is still very entertaining to see how far it goes)"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Glen Powell"
+      }
+      rating: "Good"
+      comments: "Has a lot of charisma and comedic timing as he carries every scene he is in and builds strong chemistry with the cast (especially Arjona)"
+    }
+    performance {
+      actor {
+        name: "Adria Arjona"
+      }
+      rating: "Pretty Good"
+      comments: "Plays off of Powell very well as she develops a strong romantic connection with his character"
+    }
+    performance {
+      actor {
+        name: "Austin Amelio"
+      }
+      rating: "Pretty Good"
+      comments: "Plays his character well and acts as somewhat of a pseudo-antagonist"
+    }
+    performance {
+      actor {
+        name: "Retta"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the comedic relief character well and works well with her castmates to build up the comedy"
+    }
+    performance {
+      actor {
+        name: "Sanjay Rao"
+      }
+      rating: "Pretty Good"
+      comments: "Plays his character well and has good chemistry in the police-unit scenes"
+    }
+    cast {
+      rating: "Decent"
+      comments: "The cast is relatively small, but there are some characters who are pretty good and do their job well and some who are over-the-top and inexperienced"
+    }
+    rating: "Pretty Good"
+  }
+  story {
+    writer {
+      name: "Richard Linklater"
+    }
+    writer {
+      name: "Glen Powell"
+    }
+    rating: "Good"
+    comments: "The concept is very entertaining as it is an interesting premise about a fake hit-man and brings out the confidence in a character that is stuck; the plot structure is pretty simple; character writing is surprisingly good as the movie does a good job at tackling messages on identity and hiding behind a disguise to exude false confidence"
+  }
+  screenplay {
+    writer {
+      name: "Richard Linklater"
+    }
+    writer {
+      name: "Glen Powell"
+    }
+    rating: "Good"
+    comments: "The dialogue is good as it is both comedic, yet sexy; the humor is pretty strong and uses a decent amount of improv to build jokes up; the symbolism is surprisingly prevalent as it is about hiding behind disguises/masks to find the confidence you always had; the foreshadowing is pretty prevalent because the story is pretty simple (so you knew where the story was going)"
+  }
+  score {
+    composer {
+      name: "Graham Reynolds"
+    }
+    rating: "Decent"
+  }
+  cinematography {
+    cinematographer {
+      name: "Shane F. Kelly"
+    }
+    rating: "Pretty Good"
+    comments: "For such a low budget, the movie felt very polished and well executed"
+  }
+  editing {
+    editor {
+      name: "Sandra Adair"
+    }
+    rating: "Pretty Good"
+    comments: "For such a low-budget movie, the movie felt very polished and well-put together"
+  }
+  makeup {
+    rating: "Pretty Good"
+    comments: "Acts a key symbol to help disguise Gary Johnson to be whoever he wants to be"
+  }
+  costumes {
+    rating: "Pretty Good"
+    comments: "Acts a key simple to help disguise Gary Johnson to be whoever he wants to be"
+  }
+  pacing: "Pacing is good as it doesn't feel too fast or too slow"
+  climax: "Climax is well executed as it is really about the relationship between the two leads and building on it even when it is falling apart (though there are some questionable decisions they made to make this movie safe and predictable)"
+  tone: "Tone plays to what the scenes are trying to accomplish as it is comedic when it is trying to be funny and seductive when it is trying to be romantic"
+  final_notes: "Saw Austin Premiere"
+  overall: "Overall, a good romantic comedy that uses strong chemistry between Glen Powell and Richard Linklater to deliver an entertaining experience that tethers the line between humor and romance very well"
+}
+release_year: 2023
+review_date: "05/15/2024"
+redux: false
+id: 448
+imdb_id: "tt20215968"

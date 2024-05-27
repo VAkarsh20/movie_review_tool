@@ -1,0 +1,147 @@
+title: "Star Wars: Episode I \342\200\223 The Phantom Menace"
+rating: 6.4
+review {
+  direction {
+    director {
+      name: "George Lucas"
+    }
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale is great as he uses his experience and creative mind to provide backstory into this galaxy far-far away, and the grand scenes (climax, lightsaber duels, and Podracing) are some of the best in the franchise; the direction on a microscale is very bad as he does not know how to direct actors or get natural feelings out of them; the storytelling is great as he shows why he is the master of storytelling by crafting a backstory to this timeless franchise; he builds tension well in the action/fight scenes"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Liam Neeson"
+      }
+      rating: "Good"
+      comments: "The true leader of the movie as he uses his experience to act as a father to both Anakin and Obi-wan and guide the story forward"
+    }
+    performance {
+      actor {
+        name: "Ewan McGregor"
+      }
+      rating: "Pretty Good"
+      comments: "Shows promise as Obi-Wan and does as much as he can with the material he is given"
+    }
+    performance {
+      actor {
+        name: "Natalie Portman"
+      }
+      rating: "Pretty Bad"
+      comments: "Such a monotonous performance that is filled with unnatural inflections, but she does show promise in some scenes (meaning these issues have more to do with George Lucas than her)"
+    }
+    performance {
+      actor {
+        name: "Jake Lloyd"
+      }
+      rating: "Decent"
+      comments: "He's not as bad as people remember him to be as he carries out what is told from him (the issues from his performance are more from George Lucas)"
+    }
+    performance {
+      actor {
+        name: "Ian McDiarmid"
+      }
+      rating: "Pretty Good"
+      comments: "Uses his experience playing the character to fuel his performance"
+    }
+    performance {
+      actor {
+        name: "Anthony Daniels"
+      }
+      rating: "Good"
+      comments: "Feels more like a cameo but continues where he left off"
+    }
+    performance {
+      actor {
+        name: "Kenny Baker"
+      }
+      rating: "Very Good"
+      comments: "Still shows he is the best character and comedic relief in the movie"
+    }
+    performance {
+      actor {
+        name: "Pernilla August"
+      }
+      rating: "Bad"
+      comments: "Has no chemistry with her castmates and is pretty toneless"
+    }
+    performance {
+      actor {
+        name: "Frank Oz"
+      }
+      rating: "Good"
+      comments: "Feels more like a cameo and his puppeteering is replaced with out-of-place CGI in the re-release"
+    }
+    cast {
+      rating: "Bad"
+      comments: "Either the performances are too short to rate or they are just so poorly directed and out of place that they are hard to watch"
+    }
+    rating: "Pretty Bad"
+  }
+  story {
+    writer {
+      name: "George Lucas"
+    }
+    rating: "Incredible"
+    comments: "The concept is great as it provides the backstory for the original trilogy and sets up the character arc of Anakin Skywalker (while having very unique Prequel moments like Podracing and the Battle of Naboo); the plot structure is laid out well as Lucas shows why he is the master of story building; character writing is great as you see how all these characters fall into place for the Anakin to be the chosen one (building connections that will eventually impact him in next movies)"
+  }
+  screenplay {
+    writer {
+      name: "George Lucas"
+    }
+    rating: "Very Bad"
+    comments: "The dialogue is atrocious and incredibly unnatural (which makes it very memeable); the humor misses way more than it tries to hit (making the movie unintentionally funny); the symbolism is pretty profound as it lays the groundwork for Anakin to be the chosen one; the foreshadowing is incredible as it helps lay the roots for the entire franchise (especially Anakin's story-arc)"
+  }
+  score {
+    composer {
+      name: "John Williams"
+    }
+    rating: "Brilliant"
+    comments: "Some of the best themes in the franchise as he does a good job reusing classics from the original trilogy and creating iconic themes that represent the prequels (like 'Duel of the Fates')"
+  }
+  cinematography {
+    cinematographer {
+      name: "David Tattersall"
+    }
+    rating: "Great"
+    comments: "Very polished and helps show this galaxy far far away (and all the incredible things in it)"
+  }
+  editing {
+    editor {
+      name: "Paul Martin Smith"
+    }
+    editor {
+      name: "Ben Burtt"
+    }
+    rating: "Pretty Bad"
+    comments: "It's decent for the most part but the lazy Windows Movie Maker edits hurt this movie"
+  }
+  sound {
+    rating: "Incredible"
+    comments: "Star Wars is built on its sounds and they do an incredible job continuing that tradition"
+  }
+  visual_effects {
+    rating: "Great"
+    comments: "Would have been incredible if they used the original release as it is very groundbreaking for the time, but the re-release additions hurt this movie as it feels like there were too many additions"
+  }
+  production_design {
+    rating: "Incredible"
+    comments: "Helps build the worlds inside Star Wars"
+  }
+  makeup {
+    rating: "Incredible"
+  }
+  costumes {
+    rating: "Incredible"
+  }
+  pacing: "Pacing is a bit on the faster side but fine for the most part"
+  climax: "Climax is executed very well as it had the best lightsaber duel to date and juggles 3 storylines at once"
+  tone: "Tone is very Sci-Fi and Prequel Star Wars (which helps make this movie memey and iconic)"
+  final_notes: "My retrospective review of this movie is higher than most because I grew up on these movies"
+  overall: "Overall, a Star Wars movie that is very emblematic of the prequel trilogy/George Lucas because it has some of the best and worst moments in the franchise"
+}
+release_year: 1999
+review_date: "05/05/2024"
+redux: true
+id: 111
+imdb_id: "tt0120915"
