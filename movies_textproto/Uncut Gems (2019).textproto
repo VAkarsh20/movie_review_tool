@@ -9,7 +9,7 @@ review {
       name: "Benny Safdie"
     }
     rating: "Great to Incredible"
-    comments: "The direction on a macroscale is great as they build this high anxiety environment that mimics the rush of sports-betting; the direction on a microscale is great as the interpersonal scenes are high-intensity and progressively make the movie feel more anxious; the direction of actors is best I have seen in a movie as the Safdie brothers take actors and celebrities out of their natural environment and create very polished performances (especially from Adam Sandler, Kevin Garnett, Julia Fox, and Adele Dazeem); the storytelling is great as the movie constineily builds on the anxiety to mimic the weight of Howie's debt and the rush he is trying to get to win this bet; they tension incredibly well as this whole movie is about the anxiety it induces"
+    comments: "The direction on a macroscale is great as they build this high-anxiety environment that mimics the rush of sports-betting; the direction on a microscale is great as the interpersonal scenes are high-intensity and progressively make the movie feel more anxious; the direction of actors is the best I have seen in a movie as the Safdie brothers take actors and celebrities out of their natural environment and create very polished performances (especially from Adam Sandler, Kevin Garnett, Julia Fox, and Adele Dazeem); the storytelling is great as the movie constantly builds on the anxiety to mimic the weight of Howie\'s debt and the rush he is trying to get to win this bet; they tension incredibly well as this whole movie is about the anxiety it induces"
   }
   acting {
     performance {
@@ -24,21 +24,21 @@ review {
         name: "LaKeith Stanfield"
       }
       rating: "Good"
-      comments: "Plays a character he is very comfortable with and plays well off of Sandler and his clients"
+      comments: "He plays a character he is very comfortable with and plays well off of Sandler and his clients"
     }
     performance {
       actor {
         name: "Julia Fox"
       }
       rating: "Good"
-      comments: "Plays the mistress very well and does has good chemistry with Sandler; does a very good job given that this is her first feature film role"
+      comments: "Plays the mistress very well and has good chemistry with Sandler; does a very good job given that this is her first feature film role"
     }
     performance {
       actor {
         name: "Kevin Garnett"
       }
       rating: "Good to Very Good"
-      comments: "Is a true standout in his scenes as he seems like a professional actor and works really off of Sandler"
+      comments: "He is a true standout in his scenes; he seems like a professional actor and works really well off of Sandler"
     }
     performance {
       actor {
@@ -49,7 +49,7 @@ review {
     }
     cast {
       rating: "Good"
-      comments: "Everyone plays their part well (especially given some of the cast aren't actors)"
+      comments: "Everyone plays their part well, especially given some of the cast aren\'t actors"
     }
     rating: "Very Good"
   }
@@ -64,7 +64,7 @@ review {
       name: "Benny Safdie"
     }
     rating: "Great"
-    comments: "The concept is great as it shows the high intentiy environment of both the Diamond District and Sports Gambling; the plot structure is laid out very well; the character writing is great as Howard Ratner is the personification of gambling addiction as he is losing his life the more he piles on his bets, and the character writing for the rest of the cast is equally as good (especially Kevin Garnett and his attraction to the Opal)"
+    comments: "The concept is great as it shows the high-intensity environment of both the Diamond District and sports gambling; the plot structure is laid out very well; the character writing is great as Howard Ratner is the personification of gambling addiction as he is losing his life the more he piles on his bets, and the character writing for the rest of the cast is equally as good (especially Kevin Garnett and his attraction to the Opal)"
   }
   screenplay {
     writer {
@@ -77,14 +77,14 @@ review {
       name: "Benny Safdie"
     }
     rating: "Great"
-    comments: "The dialogue is very sharp and filled with many memorable lines; the humor is good as Adam Sandler uses his comedic timing to lighten the mood; the symbolism is incredibly profound as it shows the effect gamlbing addiction can have on an individual; the foreshadowing is good as the way the movie plays out is how it should have"
+    comments: "The dialogue is very sharp and filled with many memorable lines; the humor is good as Adam Sandler uses his comedic timing to lighten the mood; the symbolism is incredibly profound as it shows the effect gambling addiction can have on an individual; the foreshadowing is good as the way the movie plays out is how it should have"
   }
   score {
     composer {
       name: "Daniel Lopatin"
     }
     rating: "Pretty Bad"
-    comments: "Really does not fit the mood, overbearing at times"
+    comments: "It really does not fit the mood; it is overbearing at times"
   }
   soundtrack {
     rating: "Good"
@@ -95,7 +95,7 @@ review {
       name: "Darius Khondji"
     }
     rating: "Good"
-    comments: "Polished and helps create this high intensity environment"
+    comments: "Polished and helps create this high-intensity environment"
   }
   editing {
     editor {
@@ -105,7 +105,7 @@ review {
       name: "Benny Safdie"
     }
     rating: "Good"
-    comments: "Polished and helps create this high intensity environment"
+    comments: "Polished and helps create this high-intensity environment"
   }
   sound {
     rating: "Good"
@@ -113,7 +113,7 @@ review {
   }
   visual_effects {
     rating: "Bad"
-    comments: "Feels very cheap and amatuerish"
+    comments: "Feels very cheap and amateurish"
   }
   production_design {
     rating: "Good"
@@ -121,13 +121,13 @@ review {
   }
   costumes {
     rating: "Good"
-    comments: "Adam Sandler's outfits really embodies someone who works in the Diamond District (and wants to show off being rich)"
+    comments: "Adam Sandler\'s outfits really embody someone who works in the Diamond District and wants to show off being rich"
   }
-  pacing: "Pacing is fast to mimic the high intensity and rush from sports gambling"
-  climax: "Climax is very well executed as it is the most intense part of the movie (the final 40 minutes feels like an anxiety attack)"
-  tone: "Tone is anxiety and sports gambling (mixed with comedy at some points)"
+  pacing: "Pacing is fast to mimic the high intensity and rush of sports gambling"
+  climax: "Climax is very well executed, as it is the most intense part of the movie (the final 40 minutes feels like an anxiety attack)"
+  tone: "The tone is anxiety and sports gambling (mixed with comedy at some points)"
   final_notes: "This movie is the butterfly effect of Derrick Rose getting injured (Derrick Rose tears his ACL -> Philadelphia upsets the Chicago Bulls -> Philadelphia plays Boston in the 2012 NBA Playoffs)"
-  overall: "Overall, an anxiety rush that is championed by an incredible performance from Adam Sandler and great filmmaking from the Safdie brothers as the movie's intensity mimics rush of sports gambling. Side note, this movie is the butterfly effect of Derrick Rose tearing his ACL"
+  overall: "Overall, an anxiety rush that is championed by an incredible performance from Adam Sandler and great filmmaking from the Safdie brothers as the movie\'s intensity mimics the rush of sports gambling; side note, this movie is the butterfly effect of Derrick Rose tearing his ACL"
 }
 release_year: 2019
 review_date: "05/22/2024"

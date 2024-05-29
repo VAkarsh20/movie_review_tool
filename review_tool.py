@@ -131,6 +131,6 @@ if __name__=="__main__":
         # Get details for post
         proto = read_proto(filename)
 
-        write_proto(proto)
+        write_proto(proofread(proto))
     else:
         print("Invalid input. Please try again.")
