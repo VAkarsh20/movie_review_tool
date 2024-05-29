@@ -17,19 +17,17 @@ from utils.text_utils import *
 
 # TODO: Redux is not created for Home Alone 2
 # TODO: Redux not created for Star Wars Episode I because of '-' char
-# TODO: Redux is not created for The Big Short
 def move_redux_reviews(filename):
     path = os.path.join(os.path.dirname(__file__), 'movies_textproto/')
     count = 0
-    while os.path.exists(path + ("reduxed/" * count) + filename + ".textproto"):
-        print(path + ("reduxed/" * count) + filename + ".textproto")
+    while os.path.exists(path + ("reduxed/" * count) + filename):
         count += 1
 
     if not os.path.exists(path + ("reduxed/" * count)):
         os.mkdir(path + ("reduxed/" * count))
 
     while count > 0:
-        os.rename(path + ("reduxed/" * (count - 1)) + filename + ".textproto", path + ("reduxed/" * (count)) + filename + ".textproto")
+        os.rename(path + ("reduxed/" * (count - 1)) + filename, path + ("reduxed/" * (count)) + filename)
         count -= 1
 
 if __name__=="__main__":    
@@ -133,6 +131,6 @@ if __name__=="__main__":
         # Get details for post
         proto = read_proto(filename)
 
-        print(proofread(proto))
+        write_proto(proto)
     else:
         print("Invalid input. Please try again.")

@@ -9,7 +9,7 @@ def get_wiki_info():
     tries = 3
     while tries > 0:
         try:
-            title = input("What is the film title?\n")
+            title = input("What is the film title on Wikipedia?\n")
             wiki_title = title.replace(" ", "_")
             imdb_id = get_imdb_id(wiki_title)
             infobox = parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
