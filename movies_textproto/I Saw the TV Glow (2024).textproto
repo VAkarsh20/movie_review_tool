@@ -1,122 +1,83 @@
 title: "I Saw the TV Glow"
-rating: 0.1
+rating: 5.1
 review {
   direction {
     director {
       name: "Jane Schoenbrun"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Pretty Bad"
+    comments: "The direction on a macroscale is pretty good because they do a pretty good job setting the aesthetic for the movie and building the world; the direction on a microscale is pretty bad because most of the interpersonal scenes feel very boring; the direction of actors is pretty bad because the performances feel bland and monotonous (with no chemistry between the two leads); the storytelling is not that good, but this is mainly because the story is poorly constructed; they build tension decently well"
   }
   acting {
     performance {
       actor {
         name: "Justice Smith"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Bad"
+      comments: "Very monotonous performance and his levels just don\'t match where they should be, but his performance gets better towards the end"
     }
     performance {
       actor {
         name: "Brigette Lundy-Paine"
       }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Ian Foreman"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Helena Howard"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Fred Durst"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Danielle Deadwyler"
-      }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Bad to Pretty Bad"
+      comments: "An incredibly monotonous performance that does not develop chemistry with their lead, but their monologue towards the end is pretty powerful because you can feel how personal it is"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Bad"
+      comments: "The movie is really about the two leads, but the rest of the cast does not do a good job in supporting them or helping tell the story"
     }
-    rating: ""
+    rating: "Bad to Pretty Bad"
   }
   story {
     writer {
       name: "Jane Schoenbrun"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Pretty Bad"
+    comments: "The concept is interesting and is built decently well; the plot structure is a mess because it feels like the exposition is too long and the conflict is introduced too late and the movie just ends very abruptly (it could have really benefited from 20 minutes of extra time); the character writing is not the best, but still prevalent as you see how the television show is an extension of their identity"
   }
   screenplay {
     writer {
       name: "Jane Schoenbrun"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Pretty Bad"
+    comments: "The dialogue is incredibly bland and monotonous (except for in the climax); the humor is pretty dry; the symbolism is incredibly profound as the movie is an allegory for transgender identity, and they do a good job finding the right balance of being overt/subtle about it; the movie does not really build towards anything, even though there is some foreshadowing"
   }
-  score {
-    composer {
-      name: "Alex G"
-    }
-    rating: "TODO"
-    comments: "TODO"
+  soundtrack {
+    rating: "Pretty Good"
+    comments: "Enjoyed the soundtrack because it helped set the aesthetic for the movie"
   }
   cinematography {
     cinematographer {
       name: "Eric K. Yue"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Enjoyed the framing and the wide-angle shots because it helped set the aesthetic for the movie; enjoyed the 90s television shots because it helped emulate that era"
   }
   editing {
     editor {
       name: "Sofi Marshall"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Used well with the cinematography to help set the aesthetic"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Used well to help show the cheap nature of 1990s television"
   }
   visual_effects {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "I enjoyed how tacky it was because it helped make this movie feel like a fever dream or surreal"
   }
   makeup {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "It helped make this movie feel surreal, like a fever dream"
   }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  pacing: "Pacing is incredibly slow because the movie is mostly exposition; the overarching conflict is presented too late"
+  climax: "Climax feels more like the inciting incident because it really introduces the conflict, but it is profound in its message"
+  tone: "The tone is surreal, mixed with 1990s television"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a fever dream that is a profound allegory for transgender identity, but its poor plot construction, bland dialogue, and monotonous performances do a poor job at being a vehicle for this message"
 }
 release_year: 2024
 review_date: "05/27/2024"

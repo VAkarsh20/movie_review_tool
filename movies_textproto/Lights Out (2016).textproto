@@ -1,0 +1,102 @@
+title: "Lights Out"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "David F. Sandberg"
+    }
+    rating: "Decent"
+    comments: "The direction on a macroscale is pretty good as they use paranomal horror techniques to build suspense; the direction on a microscale is decent for a low budget horror movie, but it still has its issues; the storytelling is not that great as the entire conflict feels rushed because there just is not enough runtime to tell a more hollistic story; they build tension well as this movie cares more about jumpscares and horror rather than storytelling"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Teresa Palmer"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Plays the horror lead well enough"
+    }
+    performance {
+      actor {
+        name: "Gabriel Bateman"
+      }
+      rating: "Decent"
+      comments: "Plays the horror child character role well enough"
+    }
+    performance {
+      actor {
+        name: "Alexander DiPersia"
+      }
+      rating: "Decent"
+      comments: "Plays the stereotypical boyfriend/partner role"
+    }
+    performance {
+      actor {
+        name: "Maria Bello"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Mostly pulls from her experience, but plays the 'mentally ill' steretype horror character well"
+    }
+    cast {
+      rating: "Decent"
+      comments: "There isn't really that much of a cast outside of the main actors"
+    }
+    rating: "Decent"
+  }
+  story {
+    writer {
+      name: "Eric Heisserer"
+    }
+    rating: "Pretty Bad"
+    comments: "The concept is pretty interesting as the 'Light's Out' concept combines paranomal tropes with 'asylm' tropes; the plot structure is not that great because the runtime is too short, so there isn't enough runway to lay out a hollistic story; the character writing uses stereotypical paranomal, insane tropes"
+  }
+  screenplay {
+    writer {
+      name: "Eric Heisserer"
+    }
+    rating: "Pretty Bad"
+    comments: "The dialogue is typical to horror movies in this genre; the foreshadowing is somewhat prevelant (but it also makes the movie a bit predictable)"
+  }
+  score {
+    composer {
+      name: "Benjamin Wallfisch"
+    }
+    rating: "Bad"
+    comments: "Does not fit the tone well"
+  }
+  cinematography {
+    cinematographer {
+      name: "Marc Spicer"
+    }
+    rating: "Pretty Good"
+    comments: "Helps support the horror elements and induce jumpscares"
+  }
+  editing {
+    editor {
+      name: "Kirk Morri"
+    }
+    editor {
+      name: "Michel Aller"
+    }
+    rating: "Pretty Good"
+    comments: "Helps support the horror elements"
+  }
+  sound {
+    rating: "Pretty Good"
+    comments: "Helps amplify the jumpscares"
+  }
+  visual_effects {
+    rating: "Pretty Good"
+    comments: "Used well to show the conflict and create horror"
+  }
+  pacing: "Pacing is too fast as the runtime is just too short (there really is only 2-3 plot points); they could have added 15 minutes to help support the movie"
+  climax: "Climax has good horror elements (but the conflict resolution is incredibly forced)"
+  tone: "Tone is paranomal/insnae horror"
+  final_notes: ""
+  overall: "Overall, a paranomal horror movie that does a pretty good job at illiciting fear through an interesting concept and jumpscares, but there just isn't enough runtime to make this a hollistic story"
+}
+release_year: 2016
+review_date: "05/29/2024"
+redux: false
+id: 455
+imdb_id: "tt4786282"
