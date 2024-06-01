@@ -1,0 +1,79 @@
+title: "In a Violent Nature"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Chris Nash"
+    }
+    rating: "TODO"
+    comments: "The direction on a macroscale is good as it creates this menacing aura of a slasher that terrorizes his grounds, and the kills are just very detailed and grotesque that it makes the movie worth watching on this alone; the direction on a microscale is typical of low-budget horror (so very bad); the storytelling is pretty good as they do give context behind the conflict and have it motivate the killer's intentions; they build tension very well as the kills are just so grotesque and the climax goes for more psychological torture that heightens an already tense environment"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Ry Barrett"
+      }
+      rating: "Decent"
+      comments: "While he is mute, his commanding presense really brings life to the killer and show how much of a big personality he is"
+    }
+    cast {
+      rating: "Very Bad"
+      comments: "Typical very bad, low-budget horror performances"
+    }
+    rating: "Bad"
+  }
+  story {
+    writer {
+      name: "Chris Nash"
+    }
+    rating: "Pretty Good"
+    comments: "Even though the concept is a little sterotypical, it interesting because it uses a 'wise-tale' to provide backstory into the killer, and this backstory helps shape the killer's image and actions; the plot structure is a little too elongated because it cares more about ambience than moving the story forward, and the expostion feels a lot longer than it needs to be; the character writing for the killer is good as it feels like they have created a new horror icon that rivals Leatherface and Freddie Kruger, but the writing for the rest of the cast is the typical bad horror teenager sterotype"
+  }
+  screenplay {
+    writer {
+      name: "Chris Nash"
+    }
+    rating: "Pretty Bad"
+    comments: "The dialogue is pretty minimal, but when it is there, it is bad; the humor is more cringy than funny; the actions create a menacing ambience that illicits fear from the persective of the killer; the symbolism is pretty minimal, but tackles themes of brutality; the foreshadowing is decent as helps paint the killer and his actions"
+  }
+  cinematography {
+    cinematographer {
+      name: "Pierce Derks"
+    }
+    rating: "Good"
+    comments: "The panning, and tracking shots help show the movie movie form the perspective of the killer, and do a good job at making this film be unique"
+  }
+  editing {
+    editor {
+      name: "Alex Jacobs"
+    }
+    rating: "Pretty Bad"
+    comments: "It was fine for its low-budget, but the movie is not the seamless in its transitions"
+  }
+  sound {
+    rating: "Pretty Good"
+    comments: "Because there is no score, the amplified sounds really do a good job at building tension"
+  }
+  visual_effects {
+    rating: "Good"
+    comments: "Some of the most detailed and unique kills as they make the movie worth watching along (especially for how low budget this movie is)"
+  }
+  makeup {
+    rating: "Pretty Good"
+    comments: "Does a pretty good at making making the killer look like a mythical freak"
+  }
+  costumes {
+    rating: "Pretty Good"
+    comments: "Helps give Johnny an iconic look"
+  }
+  pacing: "Pacing is very slow as the movie really focuses on showing it's surroundings through long behind-the-back tracking shots of the killer walking (the movie could have been cut by 10 minutes form this alone, but this would also take away from it's aesthetic)"
+  climax: "Climax is a differnt type of horror as they focus more on psychological horror rather than slasher horror (and while I did respect this, I felt it made the ending not as strong as the rest of the movie)"
+  tone: "Tone is similiar to other slasher movies (especially 'The Texas Chainsaw Massacre')"
+  final_notes: "This movie feels like a modern-day retelling of 'The Texas Chainsaw Massacre'"
+  overall: "Overall, a slasher film that creates a new horror icon who carries out some of the most detailed kills I have ever seen, but this movie is filled with many of the typical low-budget horror issues that pull it back from being something truly iconic"
+}
+release_year: 2024
+review_date: "05/31/2024"
+redux: false
+id: 456
+imdb_id: "tt30321146"

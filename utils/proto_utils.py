@@ -113,6 +113,7 @@ def get_generic(category):
     # Create generic object
     return movie_pb2.Movie.Review.GenericCategory(rating="TODO", comments = "TODO")
 
+# TODO: Make Try Catch for if there is no Acting field
 def get_acting(infobox):
     # Create acting object
     acting = movie_pb2.Movie.Review.Acting()
