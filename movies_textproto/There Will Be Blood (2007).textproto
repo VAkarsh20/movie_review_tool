@@ -1,12 +1,12 @@
 title: "There Will Be Blood"
-rating: 0.1
+rating: 9.2
 review {
   direction {
     director {
       name: "Paul Thomas Anderson"
     }
-    rating: "TODO"
-    comments: "The direction on a macroscale is grand as PTA builds this desert wasteland that is conflicted between greed and religion; the direction on a microscale is great as you see the relationship between director and the lead helping drive the narrative; the storytelling is very good as he uses tension and the conflict to really drive the story forward, and he really lets Daniel Day-Lewis play to help drive Daniel Plainview's personal interests; he builds tension incredibly well as the movie heavily relies on tension to make the movie engaging and captivating"
+    rating: "Great"
+    comments: "The direction on a macroscale is grand as PTA builds this desert wasteland that is conflicted between greed and religion; the direction on a microscale is great as you see the relationship between the director and the lead helping drive the narrative; the storytelling is very good as he uses tension and the conflict to really drive the story forward, and he really lets Daniel Day-Lewis play to help drive Daniel Plainview\'s personal interests; he builds tension incredibly well as the movie heavily relies on tension to make the movie engaging and captivating"
   }
   acting {
     performance {
@@ -14,18 +14,18 @@ review {
         name: "Daniel Day-Lewis"
       }
       rating: "Incredible"
-      comments: "The textbook definition of method acting as he fully immerses himself in the role and his portryal of Daniel Plainview is integral to driving the story forward (especially his selfish greedy interests)"
+      comments: "The textbook definition of method acting, as he fully immerses himself in the role, and his portrayal of Daniel Plainview is integral to driving the story forward, especially his selfish, greedy interests"
     }
     performance {
       actor {
         name: "Paul Dano"
       }
       rating: "Very Good"
-      comments: "Plays well off of Daniel Day-Lewis as battling and tension symbolizes the conflict between greed and religion"
+      comments: "Plays well off of Daniel Day-Lewis as battling and tension symbolize the conflict between greed and religion"
     }
     cast {
       rating: "Good"
-      comments: "The rest of the cast really are minor characters as this movie is really about Daniel Day-Lewis and his conflcit between Paul Dano"
+      comments: "The rest of the cast really are minor characters as this movie is really about Daniel Day-Lewis and his conflict between Paul Dano"
     }
     rating: "Great"
   }
@@ -34,28 +34,28 @@ review {
       name: "Paul Thomas Anderson"
     }
     rating: "Great"
-    comments: "The concept is great as the story of Daniel Plainview is an allegory on the rise of capitalism at the turn of the century; the plot structure is laid out very well; the character writing is incredible as Daniel Plainview iconically portays the greed of men and the lengths they will go to appease it"
+    comments: "The concept is great, as the story of Daniel Plainview is an allegory on the rise of capitalism at the turn of the century; the plot structure is laid out very well; the character writing is incredible, as Daniel Plainview iconically portrays the greed of men and the lengths they will go to appease it"
   }
   screenplay {
     writer {
       name: "Paul Thomas Anderson"
     }
     rating: "Great"
-    comments: "The dialogue is well crafted and filled with iconic lines that highlight who Daniel Plainview is; the symbolism is incredibly profound as the movie touches on the rise of capitalism at the turn of the century and the conflict between greed and religion; the foreshadowing is great as film really comes full circle as PTA plants seeds that grow and come out in the end"
+    comments: "The dialogue is well-crafted and filled with iconic lines that highlight who Daniel Plainview is; the symbolism is incredibly profound as the movie touches on the rise of capitalism at the turn of the century and the conflict between greed and religion; the foreshadowing is great as the film really comes full circle as PTA plants seeds that grow and come out in the end"
   }
   score {
     composer {
       name: "Jonny Greenwood"
     }
     rating: "Great"
-    comments: "Complements this gritty western style for the movie and does an amazing job building tension"
+    comments: "Complements this gritty Western style for the movie and does an amazing job building tension"
   }
   cinematography {
     cinematographer {
       name: "Robert Elswit"
     }
     rating: "Great"
-    comments: "Helps paint and build this world and show the perils its filled with"
+    comments: "Helps paint and build this world and show the perils it\'s filled with"
   }
   editing {
     editor {
@@ -69,26 +69,26 @@ review {
     comments: "Helps with building the tension and painting the era"
   }
   visual_effects {
-    rating: "TODO"
+    rating: "Great"
     comments: "Filled with many great practical effects that show the magnitude and dangers of oil drilling"
   }
   production_design {
     rating: "Incredible"
-    comments: "Really captures this baren desert that is filled with oil underneath, and it helps set the time-period for the movie"
+    comments: "Really captures this barren desert that is filled with oil underneath; it helps set the time-period for the movie"
   }
   makeup {
     rating: "Very Good"
-    comments: "Helps with showing the grit of oil-drilling"
+    comments: "Helps with showing the grit of oil drilling"
   }
   costumes {
     rating: "Incredible"
     comments: "Helps give Daniel Plainview his iconic look and helps paint the characters for the time"
   }
-  pacing: "Pacing is very slow as this movie is a slow burn that builds tension (but there could have been moments that were cut to help fix the pace)"
-  climax: "Climax is incredibly tense and reveals many seeds that were planted throughout the movie (all carried about by an incredible performance from Daniel Day-Lewis to show how lost and greedy Daniel Plainview is)"
-  tone: "Tone feels very western yet period (helps show the greed of capitalism at the turn of the century)"
+  pacing: "Pacing is very slow, as this movie is a slow burn that builds tension; but there could have been moments that were cut to help fix the pace"
+  climax: "The climax is incredibly tense and reveals many seeds that were planted throughout the movie; all carried about by an incredible performance from Daniel Day-Lewis to show how lost and greedy Daniel Plainview is"
+  tone: "The tone feels very Western yet period; it helps show the greed of capitalism at the turn of the century"
   final_notes: ""
-  overall: "Overall, a great film that is carried about by an incredible performance from Daniel Day Lewis and great filmmaking from PTA as their relationship creates Daniel Plainview's iconic story that symbolizes the rise of capitalism at the turn of the century and the conflict between greed and religion"
+  overall: "Overall, a great film that is carried about by an incredible performance from Daniel Day-Lewis and great filmmaking from PTA; as their relationship creates Daniel Plainview\'s iconic story that symbolizes the rise of capitalism at the turn of the century and the conflict between greed and religion"
 }
 release_year: 2007
 review_date: "06/8/2024"

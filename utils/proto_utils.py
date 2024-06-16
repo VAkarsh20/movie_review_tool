@@ -219,6 +219,10 @@ def sanity_check(proto):
         raise ValueError("Editing needs to be given a tier")
     if proto.review.sound.rating == "TODO":
         raise ValueError("Sound needs to be given a tier")
+    if proto.review.visual_effects.rating == "TODO":
+        raise ValueError("Visual Effects needs to be given a tier")
+    if proto.review.animation.rating == "TODO":
+        raise ValueError("Animation needs to be given a tier")
     if proto.review.production_design.rating == "TODO":
         raise ValueError("Production Design needs to be given a tier")
     if proto.review.makeup.rating == "TODO":

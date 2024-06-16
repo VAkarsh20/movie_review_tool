@@ -5,78 +5,57 @@ review {
     director {
       name: "Pete Docter"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Incredible"
+    comments: "The direction on a macroscale is incredible as they build this vibrant world inside the mind that is filled with so much color and animation, resembling the complex mind of a growing child; the direction on a microscale is incredible as the he uses this enseomble cast to show how the differnet emotions interact with each other, and the performances really do feel like they emulate their emotions; storytelling is good as it uses simple story to show the complex interworkings of the mind; they build tension very well as it shows how the mind is changing over time"
   }
   acting {
     performance {
       actor {
         name: "Amy Poehler"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Great"
+      comments: "Acts as the leader for Riley as she tries her best to make her happy and protected, even when she shouldn't"
     }
     performance {
       actor {
         name: "Phyllis Smith"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Incredible"
+      comments: "A real standout for the movie as she embodies not only sadness but nurturing; her relationship with Joy changes overtime as they go from dueling protagonists to close companions"
     }
     performance {
       actor {
         name: "Richard Kind"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Very Good to Great"
+      comments: "Shows the joyful and imaginative nature of Riley as a child, and how aspects of her mind become forgotten over time"
     }
     performance {
       actor {
         name: "Bill Hader"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Very Good"
+      comments: "Embodies Fear well"
     }
     performance {
       actor {
         name: "Lewis Black"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Very Good"
+      comments: "The real comedic relief character for the movie as his animated nature brings her anger personality"
     }
     performance {
       actor {
         name: "Mindy Kaling"
       }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Kaitlyn Dias"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Diane Lane"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Kyle MacLachlan"
-      }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Very Good"
+      comments: "Feels like she's playing a character she's accustomed to as she plays the 'Valley girl' disgust very well"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Very Good"
+      comments: "Everyone in the cast really contributes to the movie as they are important for shaping Riley's life and mind"
     }
-    rating: ""
+    rating: "Great"
   }
   story {
     writer {
@@ -85,8 +64,8 @@ review {
     writer {
       name: "Ronnie del Carmen"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Incredible"
+    comments: "The concept is incredible as it uses a playful way to show the complexities of a growing child's mind; the plot structure is simple as it tries not to overcomplicate itself; the character writing is incredible as it personifies the different emotions of Riley's mind and shows their importance for making her who she is"
   }
   screenplay {
     writer {
@@ -98,58 +77,34 @@ review {
     writer {
       name: "Josh Cooley"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Incredible"
+    comments: "The dialogue is great as it feels very polished and is filed with many profound lines that help display the movie's message; the humor is pretty standard for a Pixar movie; the symbolism is incredible as it not only shows the emotions of a child's mind, but shows how overtime these emotions become more fluid and nauonced; the movie also shows how needs change as people grow up, and how the mind adapts to try to protect itself; the foreshadowing is great"
   }
   score {
     composer {
       name: "Michael Giacchino"
     }
-    rating: "TODO"
-    comments: "TODO"
-  }
-  cinematography {
-    cinematographer {
-      name: "Patrick Lin (camera)"
-    }
-    cinematographer {
-      name: "Kim White (lighting)"
-    }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Great"
+    comments: "Feels traditional to his other Pixar scores and helps provide personality to the world"
   }
   editing {
     editor {
       name: "Kevin Nolting"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Great"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Great"
   }
-  visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+  animation {
+    rating: "Incredible"
+    comments: "Groundbreaking for the time as they create they vibrant world that is filled with many colors and emotions, and the character designs really accentuate the personalities of the emotions"
   }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  pacing: "Pacing is the right pace for its short runtime"
+  climax: "Climax is incredibly profound as it is some of the hardest hitting moments I have seen from a children's movie (and shows ephiphanies for many of the characters)"
+  tone: "Tone is very Pixar/Children's animation"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a incredible film that uses incredible direction, writing, acting, and animation to create this vibrant and colorful world to symbolize the complexities of a growing child's mind, and how the mind changes over time to protect and nurture"
 }
 release_year: 2015
 review_date: "06/15/2024"
