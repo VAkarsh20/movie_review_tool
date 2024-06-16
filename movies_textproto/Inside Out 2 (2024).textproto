@@ -1,0 +1,148 @@
+title: "Inside Out 2"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Kelsey Mann"
+    }
+    rating: "TODO"
+    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Amy Poehler"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Maya Hawke"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Kensington Tallman"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Liza Lapira"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Tony Hale"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Lewis Black"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Phyllis Smith"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Ayo Edebiri"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    cast {
+      rating: "TODO"
+      comments: "TODO"
+    }
+    rating: ""
+  }
+  story {
+    writer {
+      name: "Kelsey Mann"
+    }
+    writer {
+      name: "Meg LeFauve"
+    }
+    rating: "TODO"
+    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+  }
+  screenplay {
+    writer {
+      name: "Meg LeFauve"
+    }
+    writer {
+      name: "Dave Holstein"
+    }
+    rating: "TODO"
+    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+  }
+  score {
+    composer {
+      name: "Andrea Datzman"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  cinematography {
+    cinematographer {
+      name: "Adam Habib"
+    }
+    cinematographer {
+      name: "Jonathan Pytko"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  editing {
+    editor {
+      name: "Maurissa Horwitz"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  sound {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2024
+review_date: "06/15/2024"
+redux: false
+id: 459
+imdb_id: "tt22022452"

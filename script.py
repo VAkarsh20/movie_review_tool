@@ -413,7 +413,7 @@ if __name__=="__main__":
 
     argc = len(sys.argv)
 
-    filename = "Spider-Man (2002)"
+    filename = "Spider-Man No Way Home (2021)"
     proto = read_proto(filename=filename)
 
-    comment_spliter(proto)
+    print(print_imdb_review(proto, filename))
