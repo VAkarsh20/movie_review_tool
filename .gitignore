@@ -7,6 +7,7 @@ login_details.yml
 # Cookies
 imdb_cookies.pkl
 rotten_tomatoes_cookies.pkl
+letterboxd_cookies.pkl
 
 # Experimental Code
 script.py

@@ -8,6 +8,7 @@ from utils.rating_utils import *
 from utils.date_utils import change_date_format
 import pandas as pd
 import yaml
+import pickle
 import os
 import time
 
@@ -26,16 +27,32 @@ class LetterboxdBot:
     def wait(self, seconds):
         self.driver.maximize_window()
         self.driver.implicitly_wait(seconds)
+    
+    def load_cookies(self):
+        cookies = pickle.load(open("letterboxd_cookies.pkl", "rb"))
 
-    def login(self, username, password):
-        self.driver.get("https://letterboxd.com/import/")
+        for cookie in cookies:
+            cookie['domain'] = ".letterboxd.com"
+            try:
+                self.driver.add_cookie(cookie)
+            except Exception as e:
+                print(e)
 
+    # Deprecated, use login
+    def login_with_credentials(self, username, password):
         self.wait(15)
         self.driver.find_element(By.NAME, "username").send_keys(username)
         self.driver.find_element(By.NAME, "password").send_keys(password)
         self.driver.find_element(By.XPATH,"/html/body/div[1]/div/form/div/div[3]/button").click()
+
+
+    def login(self):
+        self.driver.get("https://letterboxd.com/")
+        self.load_cookies()
+        time.sleep(5)
     
     def import_review(self):
+        self.driver.get("https://letterboxd.com/import/")
         self.wait(15)
         self.driver.find_element(By.ID, "upload-imdb-import").send_keys("/mnt/c/Users/vakar/personal-repos/movies/movie_review_tool/letterboxd_upload.csv")
         
@@ -87,23 +104,26 @@ def create_letterboxd_csv(proto, short_review):
     df.to_csv("letterboxd_upload.csv", index=False)
 
 def post_to_letterboxd(proto, short_review):
-    yml = yaml.safe_load(open('login_details.yml'))
-    username = yml['letterboxd']['username']
-    password = yml['letterboxd']['password']
+    # Deprecated
+    # yml = yaml.safe_load(open('login_details.yml'))
+    # username = yml['letterboxd']['username']
+    # password = yml['letterboxd']['password']
 
     create_letterboxd_csv(proto, short_review)
 
     letterboxd_bot = LetterboxdBot()
 
-    letterboxd_bot.login(username, password)
+    # letterboxd_bot.login_with_credentials(username, password)
+    letterboxd_bot.login()
     letterboxd_bot.import_review()
 
     if proto.rating >= 8.5:
         letterboxd_bot.liked_film(proto.title)
-    os.remove("letterboxd_upload.csv")
 
     if proto.rating >= 9.5:
         letterboxd_bot.add_to_cinema_personified_list()
+    
+    os.remove("letterboxd_upload.csv")
 
 
     # TODO: Stuck on There was an OSError: [Errno 2] No such file or directory: 'letterboxd_upload.csv' after done.

@@ -12,6 +12,7 @@ import requests
 import pickle
 import tqdm
 from google.protobuf import text_format
+import time
 
 class IMDbBot:
     def __init__(self):
@@ -32,10 +33,10 @@ class IMDbBot:
                 print(e)
 
     def login(self):
-        
         self.driver.get("https://www.imdb.com/")
-
         self.load_cookies()
+        time.sleep(5)
+
     
     def import_review(self, imdb_id, rating, review):
 

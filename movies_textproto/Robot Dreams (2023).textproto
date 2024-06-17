@@ -1,12 +1,12 @@
 title: "Robot Dreams"
-rating: 0.1
+rating: 8.2
 review {
   direction {
     director {
       name: "Pablo Berger"
     }
     rating: "Good"
-    comments: "The drection on a macroscale is very cute as they create this animated animal parody world; the direction on a microscale is good as it uses a lot of action-based sequences to describe what is going on, and subtly convey the emotions of the character; the storytelling is pretty simple, but uses a lot of fake sequences to subvert the expectations of the audience"
+    comments: "The direction on a macroscale is very cute, as they create this animated animal parody world; the direction on a microscale is good, as it uses a lot of action-based sequences to describe what is going on and subtly convey the emotions of the character; the storytelling is pretty simple, but uses a lot of fake sequences to subvert the expectations of the audience"
   }
   story {
     writer {
@@ -20,7 +20,7 @@ review {
       name: "Pablo Berger"
     }
     rating: "Good"
-    comments: "The lack of dialogue is profound as it amplifies the feeling of loneliness that the characters expereince; the humor is pretty playful; the symbolism is profound as the whole movie an allegory for loneliness and the importance of companionship; there is a lack of foreshadowing because they try to subvert your expectations by interweaving dream and real sequences"
+    comments: "The lack of dialogue is profound as it amplifies the feeling of loneliness that the characters experience; the humor is pretty playful; the symbolism is profound as the whole movie an allegory for loneliness and the importance of companionship; there is a lack of foreshadowing because they try to subvert your expectations by interweaving dream and real sequences"
   }
   score {
     composer {
@@ -50,9 +50,9 @@ review {
   }
   pacing: "Pacing is fine for the most part but drags a lot during the end"
   climax: "Climax is a little bit too long and really subverts your expectations; even though I was personally not a fan of the ending, I respect what they were going for because it was pretty realistic"
-  tone: "Tone is very cute and playful (but very sad at the same time with what is going on)"
-  final_notes: "The dream sequences got a bit too repeatitive towards the end (but I understand why there were included)"
-  overall: "Overall, a very cute, but sad movie that uses a friendship between an aniamted dog and robot as an allegory for loneliness and the need for companionship"
+  tone: "Tone is very cute and playful, but very sad at the same time with what is going on"
+  final_notes: "The dream sequences got a bit too repetitive towards the end; but I understand why they were included"
+  overall: "Overall, a very cute, but sad movie that uses a friendship between an animated dog and robot as an allegory for loneliness and the need for companionship"
 }
 release_year: 2023
 review_date: "06/16/2024"
