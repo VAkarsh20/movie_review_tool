@@ -1,12 +1,12 @@
 title: "Inside Out"
-rating: 0.1
+rating: 9.5
 review {
   direction {
     director {
       name: "Pete Docter"
     }
     rating: "Incredible"
-    comments: "The direction on a macroscale is incredible as they build this vibrant world inside the mind that is filled with so much color and animation, resembling the complex mind of a growing child; the direction on a microscale is incredible as the he uses this enseomble cast to show how the differnet emotions interact with each other, and the performances really do feel like they emulate their emotions; storytelling is good as it uses simple story to show the complex interworkings of the mind; they build tension very well as it shows how the mind is changing over time"
+    comments: "The direction on a macroscale is incredible as they build this vibrant world inside the mind that is filled with so much color and animation, resembling the complex mind of a growing child; the direction on a microscale is incredible as the he uses this ensemble cast to show how the different emotions interact with each other, and the performances really do feel like they emulate their emotions; storytelling is good as it uses simple stories to show the complex interworkings of the mind; they build tension very well as it shows how the mind is changing over time"
   }
   acting {
     performance {
@@ -14,7 +14,7 @@ review {
         name: "Amy Poehler"
       }
       rating: "Great"
-      comments: "Acts as the leader for Riley as she tries her best to make her happy and protected, even when she shouldn't"
+      comments: "Acts as the leader for Riley as she tries her best to make her happy and protected, even when she shouldn\'t"
     }
     performance {
       actor {
@@ -35,25 +35,25 @@ review {
         name: "Bill Hader"
       }
       rating: "Very Good"
-      comments: "Embodies Fear well"
+      comments: "Embodies fear well"
     }
     performance {
       actor {
         name: "Lewis Black"
       }
       rating: "Very Good"
-      comments: "The real comedic relief character for the movie as his animated nature brings her anger personality"
+      comments: "The real comedic relief character for the movie with his animated nature as it brings out her angry personality"
     }
     performance {
       actor {
         name: "Mindy Kaling"
       }
       rating: "Very Good"
-      comments: "Feels like she's playing a character she's accustomed to as she plays the 'Valley girl' disgust very well"
+      comments: "Feels like she\'s playing a character she\'s accustomed to as she plays the \'Valley girl\' disgust very well"
     }
     cast {
       rating: "Very Good"
-      comments: "Everyone in the cast really contributes to the movie as they are important for shaping Riley's life and mind"
+      comments: "Everyone in the cast really contributes to the movie, as they are important for shaping Riley\'s life and mind"
     }
     rating: "Great"
   }
@@ -65,7 +65,7 @@ review {
       name: "Ronnie del Carmen"
     }
     rating: "Incredible"
-    comments: "The concept is incredible as it uses a playful way to show the complexities of a growing child's mind; the plot structure is simple as it tries not to overcomplicate itself; the character writing is incredible as it personifies the different emotions of Riley's mind and shows their importance for making her who she is"
+    comments: "The concept is incredible as it uses a playful way to show the complexities of a growing child\'s mind; the plot structure is simple as it tries not to overcomplicate itself; the character writing is incredible as it personifies the different emotions of Riley\'s mind and shows their importance for making her who she is"
   }
   screenplay {
     writer {
@@ -78,7 +78,7 @@ review {
       name: "Josh Cooley"
     }
     rating: "Incredible"
-    comments: "The dialogue is great as it feels very polished and is filed with many profound lines that help display the movie's message; the humor is pretty standard for a Pixar movie; the symbolism is incredible as it not only shows the emotions of a child's mind, but shows how overtime these emotions become more fluid and nauonced; the movie also shows how needs change as people grow up, and how the mind adapts to try to protect itself; the foreshadowing is great"
+    comments: "The dialogue is great as it feels very polished and is filled with many profound lines that help display the movie\'s message; the humor is pretty standard for a Pixar movie; the symbolism is incredible as it not only shows the emotions of a child\'s mind, but shows how overtime these emotions become more fluid and nuanced; the movie also shows how needs change as people grow up, and how the mind adapts to try to protect itself; the foreshadowing is great"
   }
   score {
     composer {
@@ -98,13 +98,13 @@ review {
   }
   animation {
     rating: "Incredible"
-    comments: "Groundbreaking for the time as they create they vibrant world that is filled with many colors and emotions, and the character designs really accentuate the personalities of the emotions"
+    comments: "Groundbreaking for its time as they create a vibrant world that is filled with many colors and emotions; the character designs really accentuate the personalities of the emotions"
   }
   pacing: "Pacing is the right pace for its short runtime"
-  climax: "Climax is incredibly profound as it is some of the hardest hitting moments I have seen from a children's movie (and shows ephiphanies for many of the characters)"
-  tone: "Tone is very Pixar/Children's animation"
+  climax: "Climax is incredibly profound, as it is some of the hardest-hitting moments I have seen from a children\'s movie, and shows epiphanies for many of the characters"
+  tone: "Tone is very Pixar/children\'s animation"
   final_notes: ""
-  overall: "Overall, a incredible film that uses incredible direction, writing, acting, and animation to create this vibrant and colorful world to symbolize the complexities of a growing child's mind, and how the mind changes over time to protect and nurture"
+  overall: "Overall, an incredible film that uses incredible direction, writing, acting, and animation to create this vibrant and colorful world to symbolize the complexities of a growing child\'s mind, and how the mind changes over time to protect and nurture"
 }
 release_year: 2015
 review_date: "06/15/2024"

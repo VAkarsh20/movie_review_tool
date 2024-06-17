@@ -1,75 +1,75 @@
 title: "Inside Out 2"
-rating: 0.1
+rating: 7.8
 review {
   direction {
     director {
       name: "Kelsey Mann"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Pretty Good"
+    comments: "The direciton on a macroscale is great as they continue to build this vibrant world inside the mind, and they go even further this time with more stunning visuals; the direction on a microscale this time is pretty good as it continues to personify the original emotions, but is a step back from its predessor as they do not do a good job in directing the new emotions or connecting different elements together; the storytelling is a bit more convoluted this time around as they try to incorporate too many things, and because of this, the movie feels a bit more shallow; they build tension well, especially in the climax when there is a rush of emotions"
   }
   acting {
     performance {
       actor {
         name: "Amy Poehler"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Great"
+      comments: "Continues where she left off as she embodies the delusional protective nature of Joy in trying to do what's best for Riley"
     }
     performance {
       actor {
         name: "Maya Hawke"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Does not feel as strong of a performace as the rest of the cast as she does not really personify anxiety that well, but still holds her own"
     }
     performance {
       actor {
         name: "Kensington Tallman"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Does a pretty good job in showing how Riley is changing and going through puberty"
     }
     performance {
       actor {
         name: "Liza Lapira"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Not as strong of a performance as Mindy Kaling, but still holds her own"
     }
     performance {
       actor {
         name: "Tony Hale"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Not as strong of a performance as Bill Hader, but still holds his own"
     }
     performance {
       actor {
         name: "Lewis Black"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Very Good"
+      comments: "Continues where he left off in the previous film as he is even more animated and given more material to work with to provide more comedy to the movie"
     }
     performance {
       actor {
         name: "Phyllis Smith"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Great"
+      comments: "Still a very strong performance for the franchise as she is given more of a leadership role this time around, but is not given as much screentime to show her significance to Riley"
     }
     performance {
       actor {
         name: "Ayo Edebiri"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Does not really use her personality for the character, but this is becasue the character is very blandly written"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent to Pretty Good"
+      comments: "The rest of the returning cast is fine as they use their experience to shape their character, but the new cast memembers really just give formualic pixar line delievery"
     }
-    rating: ""
+    rating: "Pretty Good"
   }
   story {
     writer {
@@ -78,8 +78,8 @@ review {
     writer {
       name: "Meg LeFauve"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Pretty Good"
+    comments: "The concept is good as it deals with Riley navigating through Puberty, and does a good job in showing how her mind changes because of it; the plot structure is not as strong this time around as it tries to jam in too many new things, and because of that it does not do a good job introducing or closing new points (especially in the exposition with the 'belief' system); character writing is not as strong this time around as it feels like the characters did not learn anything from the last movie, except for sadness, and the new emotions do not feel as nuanced or are accurately written (like anxiety as a character)"
   }
   screenplay {
     writer {
@@ -88,58 +88,34 @@ review {
     writer {
       name: "Dave Holstein"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Good"
+    comments: "The dialogue is still pretty strong and is filled with many profound lines (especially towards the end); the try to be funny way more this time around, and they do a good job at it because a lot of the jokes are genuniely funny; the symbolism is still profound as they do a good job showing the impact puberty has on new and exisitng emotions, and they do a great job dealing with anxiety as a concept; the foreshadowing is pretty good, but not as good as the previous movie as it does not feel like all the loose ends are tied up"
   }
   score {
     composer {
       name: "Andrea Datzman"
     }
-    rating: "TODO"
-    comments: "TODO"
-  }
-  cinematography {
-    cinematographer {
-      name: "Adam Habib"
-    }
-    cinematographer {
-      name: "Jonathan Pytko"
-    }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Just reuses a lot of the same themes from the previous movie"
   }
   editing {
     editor {
       name: "Maurissa Horwitz"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Great"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
   }
-  visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+  animation {
+    rating: "Brilliant"
+    comments: "Incredibly vibrant and corlorful as they use improved technology to take this world to a whole knew level, and the visuals are so stunning and beautiful; it is pretty evident they used 'Uncut Gems' as a visual inspiration"
   }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing is bit of a mess because the exposition and rising action feel very rushed from adding too many new things, but the climax feels like it adjusts to the right pace"
+  climax: "Climax is incredibly profound as it feels like they finally got their footing and handle the overarching conflcit very well (and it is a very realistic and nuanced way to handle the topic)"
+  tone: "Tone is very similiar to the first film (almost as if its the same movie)"
+  final_notes: "This movie feels very similiar to the first movie as if the emotions did not learn anything; the concept of anxiety is handled very well, but the character of anxiety is not as it feels pretty shallow"
+  overall: "Overall, a pretty good movie that accurately shows the pubescent mind's changing emotions in a beautifully vibrant way, but is a step back from its predecessor as they introduce too many new ideas and do not do a good job explaining them"
 }
 release_year: 2024
 review_date: "06/15/2024"
