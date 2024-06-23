@@ -1,4 +1,5 @@
 import pickle
+import time
 
 def load_cookies(driver, filename, domain):
     cookies = pickle.load(open(filename, "rb"))
@@ -13,4 +14,4 @@ def load_cookies(driver, filename, domain):
 
 def exception_handler(message):
     print(message)
-    time.sleep(20)
+    time.sleep(10)

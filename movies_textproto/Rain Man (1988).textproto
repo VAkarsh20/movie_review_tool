@@ -6,42 +6,42 @@ review {
       name: "Barry Levinson"
     }
     rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    comments: "The direction on a macroscale is very 80s; the direction on a microscale is pretty 80s, but does have good interpersonal moments between the two leads; the storytelling is pretty 80s, but clear; they build tension pretty well"
   }
   acting {
     performance {
       actor {
         name: "Dustin Hoffman"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "A preformance that hasn't aged the best, but is still good and is scene-stealer; has good chemistry with Tom Cruise"
     }
     performance {
       actor {
         name: "Tom Cruise"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Pretty over-the-top, but has good charisma and chemistry with Dustin Hoffman"
     }
     performance {
       actor {
         name: "Valeria Golino"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Kinda a forced female interest, but does not do anything wrong"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Very minor characters as the movie is really about the two leads"
     }
-    rating: ""
+    rating: "Pretty Good"
   }
   story {
     writer {
       name: "Barry Morrow"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Pretty Good"
+    comments: "The concept is a pretty simple road comedy, but is more about the relationship between two long lost brothers; the plot structure is pretty simple as it is about the journey to get from point a to point b, but the climax and exposition feel very dragged out; the character writing is pretty good as you see how gifted Raymond is with his ability and how much Charlie grows to love him as they get to know each other"
   }
   screenplay {
     writer {
@@ -51,54 +51,37 @@ review {
       name: "Ronald Bass"
     }
     rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    comments: "The dialogue is pretty standard for an 80s movie, but has some iconic lines and moments; the humor is pretty standard; the symbolism is pretty simple as it is about two brothers bonding, but the movie does bring awareness to Autism (which was pretty groundbreaking for the time, even though it can be steretypical at times); the foreshadowing is pretty standard for an 80s movie"
   }
   score {
     composer {
       name: "Hans Zimmer"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Pretty 80s, but helps complement the tone"
   }
   cinematography {
     cinematographer {
       name: "John Seale"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
   }
   editing {
     editor {
       name: "Stu Linder"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Pretty 80s"
   }
-  visual_effects {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+
+  pacing: "Pacing is pretty 80s"
+  climax: "Climax is pretty dragged out and borderline uncessary (could have cut 20 minutes and it would have been the same movie)"
+  tone: "Tone is an 80s road comedy"
+  final_notes: "The movie was groundbreaking for showing Autism to a larger audience and bringing awareness to the condition (even though it can play into steretypes at points)"
+  overall: "Overall, a typical 80s road comedy that has iconic moments and is groundbreaking for bringing awareness to Autism, even though it can be steretypical at times"
 }
 release_year: 1988
 review_date: "06/19/2024"

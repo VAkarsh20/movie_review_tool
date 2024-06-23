@@ -34,13 +34,13 @@ class LetterboxdBot:
     def login(self):
         # Getting home page
         try:
-            self.driver.get(LETTERBOXD_HOME_PAGE_URL)
+            self.driver.get(LETTERBOXD_IMPORT_PAGE_URL)
         except Exception as e:
-            exception_handler("Exception thrown when getting letterboxd home page: {}".format(e))
+            exception_handler("Exception thrown when getting letterboxd import page: {}".format(e))
 
         if LOGIN_WITH_COOKIES:
             self.driver = load_cookies(self.driver, LETTERBOXD_COOKIES_PKL, LETTERBOXD_DOMAIN)
-            time.sleep(5)
+            time.sleep(10)
         else:
             yml = yaml.safe_load(open('login_details.yml'))['letterboxd']
 

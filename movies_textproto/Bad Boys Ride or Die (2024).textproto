@@ -1,12 +1,12 @@
-title: "Bad Boys Ride or Die"
-rating: 0.1
+title: "Bad Boys: Ride or Die"
+rating: 5.4
 review {
   direction {
     director {
       name: "Adil & Bilall"
     }
-    rating: "TODO"
-    comments: "The direction on a macroscale tries to be unique for an action comedy, but sounds better on paper than it does in practice as the movie just feels goofy and stupid; the direction on a microscale is; direction of actors feels very stiff and forced; the storytelling is pretty generic to other action-comedies; they don't build tension well because the movie is pretty predictable"
+    rating: "Pretty Bad"
+    comments: "The direction on a macroscale tries to be unique for an action comedy, but sounds better on paper than it does in practice as the movie just feels goofy and stupid; the direction on a microscale feels very stiff and forced; the storytelling is pretty generic to other action-comedies; they don\'t build tension well because the movie is pretty predictable"
   }
   acting {
     performance {
@@ -14,7 +14,7 @@ review {
         name: "Will Smith"
       }
       rating: "Good"
-      comments: "The real star of the show as he uses his natural charisma and experience playing this character to take over all his scenes"
+      comments: "The real star of the show, as he uses his natural charisma and experience playing this character to take over all his scenes"
     }
     performance {
       actor {
@@ -49,14 +49,14 @@ review {
         name: "Eric Dane"
       }
       rating: "Pretty Good"
-      comments: "Plays the villian role well and has good chemistry with Will Smith"
+      comments: "Plays the villain role well and has good chemistry with Will Smith"
     }
     performance {
       actor {
         name: "Ioan Gruffudd"
       }
       rating: "Decent"
-      comments: "Barely has any screentime, but is fine with what he is given"
+      comments: "He barely has any screentime, but is fine with what he is given"
     }
     performance {
       actor {
@@ -69,11 +69,11 @@ review {
         name: "Joe Pantoliano"
       }
       rating: "Pretty Bad"
-      comments: "Feels like he is acting to nothing and is more a cameo than an actual character"
+      comments: "Feels like he is acting to nothing and is more of a cameo than an actual character"
     }
     cast {
       rating: "Pretty Bad"
-      comments: "Just a lot of typical action-comedy over-the-top performances"
+      comments: "Just a lot of typical action-comedy, over-the-top performances"
     }
     rating: "Decent to Pretty Good"
   }
@@ -85,7 +85,7 @@ review {
       name: "Will Beall"
     }
     rating: "Bad"
-    comments: "The concept is pretty forced and dumb; the plot structure is formulaic; the character writing is pretty bland and forced (this might be one of the worst interpretations of Panic Attacks/Anxiety I have ever seen in a movie because it is so shallow)"
+    comments: "The concept is pretty forced and dumb; the plot structure is formulaic; the character writing is pretty bland and forced (this might be one of the worst interpretations of panic attacks/anxiety I have ever seen in a movie because it is so shallow)"
   }
   screenplay {
     writer {
@@ -95,14 +95,14 @@ review {
       name: "Will Beall"
     }
     rating: "Pretty Bad"
-    comments: "The dialogue is typical action-comedy dialogue; they try to be funny way too often, and the hit rate is only 1/4; the symbolism is so forced that is laughable, especially about the concept of fatherhood, living, and anxiety; the foreshadowing is present, but it only makes the movie more predictable"
+    comments: "The dialogue is typical action-comedy dialogue; they try to be funny way too often, and the hit rate is only 1/4; the symbolism is so forced that it is laughable, especially about the concept of fatherhood, living, and anxiety; the foreshadowing is present, but it only makes the movie more predictable"
   }
   score {
     composer {
       name: "Lorne Balfe"
     }
     rating: "Decent"
-    comments: "Helps establish the tone and the Miami vibes"
+    comments: "Helps establish the tone and the Miami vibe"
   }
   soundtrack {
     rating: "Decent"
@@ -130,11 +130,11 @@ review {
   }
   visual_effects {
     rating: "Decent"
-    comments: "The practical effects are fine, but the CGI is very noticable"
+    comments: "The practical effects are fine, but the CGI is very noticeable"
   }
-  pacing: "Pacing is fine as there really isn't that much story"
-  climax: "Climax is executed decently well as it is a typical shootout (but tries to do many new type of shots that are not executed well)"
-  tone: "Tone is very similiar to the other movies in the franchise"
+  pacing: "Pacing is fine as there really isn\'t that much story"
+  climax: "The climax is executed decently well, as it is a typical shootout; it tries to do many new types of shots that are not executed well"
+  tone: "Tone is very similar to the other movies in the franchise"
   final_notes: ""
   overall: "Overall, a movie that does not feel necessary as it does not really provide anything new in the franchise and feels goofy and stupid by trying new types of shots and editing techiques"
 }
