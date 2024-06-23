@@ -13,6 +13,8 @@ import pickle
 import tqdm
 from google.protobuf import text_format
 import time
+from utils.constants import *
+from utils.selenium_utils import load_cookies, exception_handler
 
 class IMDbBot:
     def __init__(self):
@@ -22,64 +24,103 @@ class IMDbBot:
         self.driver.maximize_window()
         self.driver.implicitly_wait(seconds)
 
-    def load_cookies(self):
-        cookies = pickle.load(open("imdb_cookies.pkl", "rb"))
-
-        for cookie in tqdm.tqdm(cookies):
-            cookie['domain'] = ".imdb.com"
-            try:
-                self.driver.add_cookie(cookie)
-            except Exception as e:
-                print(e)
-
     def login(self):
-        self.driver.get("https://www.imdb.com/")
-        self.load_cookies()
+        self.driver.get(IMDB_HOME_PAGE_URL)
+        self.driver = load_cookies(self.driver, "imdb_cookies.pkl", ".imdb.com")
         time.sleep(5)
 
     
     def import_review(self, imdb_id, rating, review):
 
-        self.wait(5)
-        self.driver.get("https://contribute.imdb.com/review/{}/add?".format(imdb_id))
+        # Getting review page
+        try:
+            self.wait(5)
+            self.driver.get(IMDB_ADD_MOVIE_REVIEW_PAGE_URL.format(imdb_id))
+        except Exception as e:
+            exception_handler("Exception thrown when getting review page: {}".format(e))
 
-        self.wait(10)
-        stars = self.driver.find_elements(By.CLASS_NAME, "ice-star-wrapper")
+        # Clicking stars
         imdb_rating = rating_to_imdb_score(rating)
-        stars[imdb_rating - 1].click()
+        try:
+            self.wait(10)
+            stars = self.driver.find_elements(By.CLASS_NAME, IMDB_STARS_ELEMENTS_CLASS_NAME)
+        except Exception as e:
+            exception_handler("Exception thrown when finding stars element: {}".format(e))
+        try:    
+            stars[imdb_rating - 1].click()
+        except ValueError as e:
+            exception_handler("ValueError thrown when trying to click stars: {}".format(e))
 
-        self.wait(10)
+        # Sending headline
         title = "{} Movie".format(rating_to_tag(rating))
         if rating >= 9.5:
             title = "Cinema Personified: " + title
-        self.driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div/div[1]/div[5]/div[1]/input').clear()
-        self.driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div/div[1]/div[5]/div[1]/input').send_keys(title)
+        try:
+            self.wait(10)
+            self.driver.find_element(By.XPATH, IMDB_HEADLINE_ELEMENT_XPATH).clear()
+            self.driver.find_element(By.XPATH, IMDB_HEADLINE_ELEMENT_XPATH).send_keys(title)
+        except Exception as e:
+            exception_handler("Exception thrown when accessing headline element: {}".format(e))
 
-        self.wait(10)
-        self.driver.find_element(By.XPATH,'/html/body/div[1]/div/div/div/div[1]/div[5]/div[2]/textarea').clear()
-        self.driver.find_element(By.XPATH,'/html/body/div[1]/div/div/div/div[1]/div[5]/div[2]/textarea').send_keys(review)
+        # Sending review
+        try:
+            self.wait(10)
+            self.driver.find_element(By.XPATH,IMDB_REVIEW_ELEMENT_XPATH).clear()
+            self.driver.find_element(By.XPATH,IMDB_REVIEW_ELEMENT_XPATH).send_keys(review)
+        except Exception as e:
+            exception_handler("Exception thrown when accessing review element: {}".format(e))
 
-        self.wait(10)
-        self.driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div/div[1]/div[5]/div[3]/div/ul/li[2]').click()
+        # Spoilers
+        try:
+            self.wait(10)
+            self.driver.find_element(By.XPATH, IMDB_NO_SPOLIERS_ELEMENT_XPATH).click()
+        except Exception as e:
+            exception_handler("Exception thrown when clicking spoiler element: {}".format(e))
 
-        self.wait(10)
-        self.driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div/div[2]/span/span/input').click()
+        # Submit
+        try:
+            self.wait(10)
+            self.driver.find_element(By.XPATH, IMDB_SUBMIT_ELEMENT_XPATH).click()
+        except Exception as e:
+            exception_handler("Exception thrown when clicking submit element: {}".format(e))
 
-        self.wait(10)
-        self.driver.get("https://www.imdb.com/title/{}".format(imdb_id))
+        # Get movie imdb page
+        try:
+            self.wait(10)
+            self.driver.get(IMDB_MOVIE_PAGE_URL.format(imdb_id))
+        except Exception as e:
+            exception_handler("Exception thrown when getting imdb movie page: {}".format(e))
     
     # TODO: Check if film is already in the list
     def add_to_cinema_personified_list(self, imdb_id, title, year):
+
+        # Getting Cinema Personified list page
+        try:
+            self.wait(10)
+            self.driver.get(IMDB_CINEMA_PERSONIFIED_LIST_URL)
+        except Exception as e:
+            exception_handler("Exception thrown when getting cinema personified list: {}".format(e))
         
-        self.wait(10)
-        self.driver.get("https://www.imdb.com/list/ls520163773/edit?ref_=ttls_edt")
-        self.driver.find_element(By.XPATH, '//*[@id="add-to-list-search"]').send_keys("{} {} ({})".format(imdb_id, title, year))
+        # Searching for movie
+        try:
+            self.wait(10)
+            self.driver.find_element(By.XPATH, IMDB_ADD_TO_LIST_SEARCH_ELEMENT_XPATH).send_keys("{} {} ({})".format(imdb_id, title, year))
+        except Exception as e:
+            exception_handler("Exception thrown when sending keys to add to list search: {}".format(e))
 
-        self.wait(10)
-        self.driver.find_element(By.XPATH, "/html/body/div[2]/div/div[2]/div[3]/div[1]/div[2]/div[5]/div/span[2]/div/a").click()
+        # Clicking movie
+        try:
+            self.wait(10)
+            self.driver.find_element(By.XPATH, IMDB_FIRST_MOVIE_IN_SEARCH_ELEMENT_XPATH).click()
+        except Exception as e:
+            exception_handler("Exception thrown when clicking movie in list search: {}".format(e))
 
-        self.wait(10)
-        self.driver.find_element(By.XPATH, '/html/body/div[2]/div/div[2]/div[3]/div[1]/div[1]/button').click()
+        # Saving list
+        try:
+            self.wait(10)
+            self.driver.find_element(By.XPATH, IMDB_SAVE_LIST_ELEMENT_XPATH).click()
+        except Exception as e:
+            exception_handler("Exception thrown when saving movie in Cinema Personified list: {}".format(e))
 
         self.wait(15)
         

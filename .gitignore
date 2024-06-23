@@ -4,6 +4,9 @@ credentials.json
 # Letterboxd login information
 login_details.yml
 
+# Local filepaths
+local_filepaths.yml
+
 # Cookies
 imdb_cookies.pkl
 rotten_tomatoes_cookies.pkl

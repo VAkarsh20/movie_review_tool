@@ -6,6 +6,9 @@ from selenium.webdriver.common.action_chains import ActionChains
 import protos.movie_pb2
 from utils.rating_utils import *
 from utils.date_utils import change_date_format
+from utils.constants import *
+from utils.selenium_utils import load_cookies, exception_handler
+from utils.flags import LOGIN_WITH_COOKIES
 import pandas as pd
 import yaml
 import pickle
@@ -27,70 +30,92 @@ class LetterboxdBot:
     def wait(self, seconds):
         self.driver.maximize_window()
         self.driver.implicitly_wait(seconds)
-    
-    def load_cookies(self):
-        cookies = pickle.load(open("letterboxd_cookies.pkl", "rb"))
-
-        for cookie in cookies:
-            cookie['domain'] = ".letterboxd.com"
-            try:
-                self.driver.add_cookie(cookie)
-            except Exception as e:
-                print(e)
-
-    # Deprecated, use login
-    def login_with_credentials(self, username, password):
-        self.wait(15)
-        self.driver.find_element(By.NAME, "username").send_keys(username)
-        self.driver.find_element(By.NAME, "password").send_keys(password)
-        self.driver.find_element(By.XPATH,"/html/body/div[1]/div/form/div/div[3]/button").click()
-
 
     def login(self):
-        self.driver.get("https://letterboxd.com/")
-        self.load_cookies()
-        time.sleep(5)
+        # Getting home page
+        try:
+            self.driver.get(LETTERBOXD_HOME_PAGE_URL)
+        except Exception as e:
+            exception_handler("Exception thrown when getting letterboxd home page: {}".format(e))
+
+        if LOGIN_WITH_COOKIES:
+            self.driver = load_cookies(self.driver, LETTERBOXD_COOKIES_PKL, LETTERBOXD_DOMAIN)
+            time.sleep(5)
+        else:
+            yml = yaml.safe_load(open('login_details.yml'))['letterboxd']
+
+            # Logging in
+            try:
+                self.wait(15)
+                self.driver.find_element(By.NAME, "username").send_keys(yml['username'])
+                self.driver.find_element(By.NAME, "password").send_keys(yml['password'])
+                self.driver.find_element(By.XPATH,LETTERBOXD_SIGN_IN_ELEMENT_XPATH).click()
+            except Exception as e:
+                exception_handler("Exception thrown when logging in: {}".format(e))
     
     def import_review(self):
-        self.driver.get("https://letterboxd.com/import/")
-        self.wait(15)
-        self.driver.find_element(By.ID, "upload-imdb-import").send_keys("/mnt/c/Users/vakar/personal-repos/movies/movie_review_tool/letterboxd_upload.csv")
+        # Getting import page
+        try:
+            self.wait(10)
+            self.driver.get(LETTERBOXD_IMPORT_PAGE_URL)
+        except Exception as e:
+            exception_handler("Exception thrown when getting import page: {}".format(e))
         
-        self.wait(45)
-        self.driver.find_element(By.XPATH,'//*[@id="content"]/div/div[1]/a[2]').click()
+        # Uploading letterboxd csv
+        try:
+            self.wait(10)
+            file = yaml.safe_load(open('local_filepaths.yml'))[LETTERBOXD_UPLOAD_FILE]["filepath"]
+            self.driver.find_element(By.ID, LETTERBOXD_UPLOAD_IMDB_IMPORT_ELEMENT_ID).send_keys(file)
+        except Exception as e:
+            exception_handler("Exception thrown when uploading letterboxd csv: {}".format(e))
+        
+        # Submitting review
+        try:
+            self.wait(45)
+            self.driver.find_element(By.XPATH, LETTERBOXD_SUBMIT_REVIEW_ELEMENT_XPATH).click()
+        except Exception as e:
+            exception_handler("Exception thrown when submitting review: {}".format(e))
 
     # TODO: Edge Case, movie that was originally a like but after redux is not
     def liked_film(self, title):
-        self.wait(10)
-        self.driver.get("https://letterboxd.com/akarshv/")
+        try:
+            self.wait(10)
+            self.driver.get(LETTERBOXD_USER_PAGE_URL)
+        except Exception as e:
+            exception_handler("Exception thrown when getting user page: {}".format(e))
 
-        self.wait(10)
-        self.driver.find_element("link text", title).click()
+        try:
+            self.wait(10)
+            self.driver.find_element(LETTERBOXD_MOVIE_IMAGE_ELEMENT, title).click()
+        except Exception as e:
+            exception_handler("Exception thrown when clicking movie: {}".format(e))
 
-        self.wait(10)
-        if self.driver.find_element(By.XPATH, '//*[@id="userpanel"]/ul/li[1]/span[2]/span/span/span').text == "Like":
-            self.driver.find_element(By.XPATH, "/html/body/div[2]/div/div/aside/section[1]/ul/li[1]/span[2]/span/span/span").click()
-
-        # Deprecated way
-        # self.wait(10)
-        # self.driver.find_element("link text", "Edit or delete this review…").click()
-
-        # self.wait(10)
-        # self.driver.find_element(By.XPATH, '//*[@id="film-like-checkbox"]').click()
-
-        # self.wait(10)
-        # self.driver.find_element(By.XPATH, '//*[@id="diary-entry-submit-button"]').click()
+        try:
+            self.wait(10)
+            if self.driver.find_element(By.XPATH, LETTERBOXD_LIKE_TEXT_ELEMENT_XPATH).text == LETTERBOXD_LIKE:
+                self.driver.find_element(By.XPATH, LETTERBOXD_LIKE_BUTTON_ELEMENT_XPATH).click()
+        except Exception as e:
+            exception_handler("Exception thrown when liking movie: {}".format(e))
     
     # TODO: Check if film is already in the list
     def add_to_cinema_personified_list(self):
-        self.wait(10)
-        self.driver.find_element("link text", "Add this film to lists…").click()
+        try:
+            self.wait(10)
+            self.driver.find_element(LETTERBOXD_MOVIE_IMAGE_ELEMENT, LETTERBOXD_ADD_FILM_TO_LISTS).click()
+        except Exception as e:
+            exception_handler("Exception thrown when clicking add film to list: {}".format(e))
 
-        self.wait(10)
-        self.driver.find_element(By.XPATH, '/html/body/div[6]/div[1]/div[2]/div[2]/div[1]/div/form/div[2]/div[1]/label').click()
+        try:
+            self.wait(10)
+            self.driver.find_element(By.XPATH, LETTERBOXD_CINEMA_PERSONIFIED_LIST_ELEMENT_XPATH).click()
+        except Exception as e:
+            exception_handler("Exception thrown when clicking Cinema Personified list: {}".format(e))
 
-        self.wait(10)
-        self.driver.find_element(By.XPATH, '//*[@id="add-to-a-list-modal"]/form/div[3]/div[2]/input').click()
+        try:
+            self.wait(10)
+            self.driver.find_element(By.XPATH, LETTERBOXD_ADD_TO_LIST_ELEMENT_XPATH).click()
+        except Exception as e:
+            exception_handler("Exception thrown when clicking add: {}".format(e))
         
     def quit(self):
         self.driver.quit()
@@ -101,19 +126,13 @@ def create_letterboxd_csv(proto, short_review):
     record = [proto.imdb_id, proto.title, proto.release_year, rating_to_stars(proto.rating), change_date_format(proto.review_date), rating_to_tag(proto.rating), short_review]
     df.loc[1] = record
 
-    df.to_csv("letterboxd_upload.csv", index=False)
+    df.to_csv(LETTERBOXD_UPLOAD_CSV, index=False)
 
 def post_to_letterboxd(proto, short_review):
-    # Deprecated
-    # yml = yaml.safe_load(open('login_details.yml'))
-    # username = yml['letterboxd']['username']
-    # password = yml['letterboxd']['password']
-
     create_letterboxd_csv(proto, short_review)
 
     letterboxd_bot = LetterboxdBot()
 
-    # letterboxd_bot.login_with_credentials(username, password)
     letterboxd_bot.login()
     letterboxd_bot.import_review()
 
@@ -123,7 +142,7 @@ def post_to_letterboxd(proto, short_review):
     if proto.rating >= 9.5:
         letterboxd_bot.add_to_cinema_personified_list()
     
-    os.remove("letterboxd_upload.csv")
+    os.remove(LETTERBOXD_UPLOAD_CSV)
 
 
     # TODO: Stuck on There was an OSError: [Errno 2] No such file or directory: 'letterboxd_upload.csv' after done.

@@ -1,0 +1,145 @@
+title: "Bad Boys Ride or Die"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Adil & Bilall"
+    }
+    rating: "TODO"
+    comments: "The direction on a macroscale tries to be unique for an action comedy, but sounds better on paper than it does in practice as the movie just feels goofy and stupid; the direction on a microscale is; direction of actors feels very stiff and forced; the storytelling is pretty generic to other action-comedies; they don't build tension well because the movie is pretty predictable"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Will Smith"
+      }
+      rating: "Good"
+      comments: "The real star of the show as he uses his natural charisma and experience playing this character to take over all his scenes"
+    }
+    performance {
+      actor {
+        name: "Martin Lawrence"
+      }
+      rating: "Pretty Good"
+      comments: "Has good chemistry with Smith and plays the comedic relief character decently well, but is a bit too over-the-top at points"
+    }
+    performance {
+      actor {
+        name: "Vanessa Hudgens"
+      }
+      rating: "Decent"
+      comments: "Feels like a cameo"
+    }
+    performance {
+      actor {
+        name: "Alexander Ludwig"
+      }
+      rating: "Decent"
+      comments: "Feels like a cameo"
+    }
+    performance {
+      actor {
+        name: "Paola N\303\272\303\261ez"
+      }
+      rating: "Decent"
+      comments: "Pretty toneless performance, but nothing overtly bad"
+    }
+    performance {
+      actor {
+        name: "Eric Dane"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the villian role well and has good chemistry with Will Smith"
+    }
+    performance {
+      actor {
+        name: "Ioan Gruffudd"
+      }
+      rating: "Decent"
+      comments: "Barely has any screentime, but is fine with what he is given"
+    }
+    performance {
+      actor {
+        name: "Jacob Scipio"
+      }
+      rating: "Decent"
+    }
+    performance {
+      actor {
+        name: "Joe Pantoliano"
+      }
+      rating: "Pretty Bad"
+      comments: "Feels like he is acting to nothing and is more a cameo than an actual character"
+    }
+    cast {
+      rating: "Pretty Bad"
+      comments: "Just a lot of typical action-comedy over-the-top performances"
+    }
+    rating: "Decent to Pretty Good"
+  }
+  story {
+    writer {
+      name: "Chris Bremner"
+    }
+    writer {
+      name: "Will Beall"
+    }
+    rating: "Bad"
+    comments: "The concept is pretty forced and dumb; the plot structure is formulaic; the character writing is pretty bland and forced (this might be one of the worst interpretations of Panic Attacks/Anxiety I have ever seen in a movie because it is so shallow)"
+  }
+  screenplay {
+    writer {
+      name: "Chris Bremner"
+    }
+    writer {
+      name: "Will Beall"
+    }
+    rating: "Pretty Bad"
+    comments: "The dialogue is typical action-comedy dialogue; they try to be funny way too often, and the hit rate is only 1/4; the symbolism is so forced that is laughable, especially about the concept of fatherhood, living, and anxiety; the foreshadowing is present, but it only makes the movie more predictable"
+  }
+  score {
+    composer {
+      name: "Lorne Balfe"
+    }
+    rating: "Decent"
+    comments: "Helps establish the tone and the Miami vibes"
+  }
+  soundtrack {
+    rating: "Decent"
+    comments: "Helps give the movie Miami vibes"
+  }
+  cinematography {
+    cinematographer {
+      name: "Robrecht Heyvaert"
+    }
+    rating: "Very Bad"
+    comments: "They try to be unique with all new shots, but these shots are so poorly executed that it makes the movie feel incredibly goofy and stupid"
+  }
+  editing {
+    editor {
+      name: "Asaf Eisenberg"
+    }
+    editor {
+      name: "Dan Lebental"
+    }
+    rating: "Very Bad"
+    comments: "They tried to make this movie look so cool and seamless with its transitions, but it ends up making the movie look tacky"
+  }
+  sound {
+    rating: "Pretty Good"
+  }
+  visual_effects {
+    rating: "Decent"
+    comments: "The practical effects are fine, but the CGI is very noticable"
+  }
+  pacing: "Pacing is fine as there really isn't that much story"
+  climax: "Climax is executed decently well as it is a typical shootout (but tries to do many new type of shots that are not executed well)"
+  tone: "Tone is very similiar to the other movies in the franchise"
+  final_notes: ""
+  overall: "Overall, a movie that does not feel necessary as it does not really provide anything new in the franchise and feels goofy and stupid by trying new types of shots and editing techiques"
+}
+release_year: 2024
+review_date: "06/19/2024"
+redux: false
+id: 461
+imdb_id: "tt4919268"

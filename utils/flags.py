@@ -1,0 +1,1 @@
+LOGIN_WITH_COOKIES = True
