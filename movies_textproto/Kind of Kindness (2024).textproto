@@ -5,71 +5,69 @@ review {
     director {
       name: "Yorgos Lanthimos"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Decent"
+    comments: "The direction on a macroscale is good as he uses his signature auter style to build the world, and feels Kubrick-esque as some points; the direction on a microscale is bad because the direction of actors is incredibly stiff and the interpersonal scenes do not really move the story forward; the storytelling is a bit mismanged because the stories do not feel like they are moving forward (making them feel very bloated and dragging); they build tension not that well"
   }
   acting {
     performance {
       actor {
         name: "Emma Stone"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good to Good"
+      comments: "For the first story, shes really a cameo; for the second story, she does a pretty good job being a supporting character to Jesse Plemons; for the third story, she does a good job playing her role in the organization and having a sense of paranoia trying to keep her place"
     }
     performance {
       actor {
         name: "Jesse Plemons"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good to Good"
+      comments: "For all three of the stories, he does a pretty good to good job being a polished character that is motivated, but he is more of a minor character in the third story"
     }
     performance {
       actor {
         name: "Willem Dafoe"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Feels like he is acting in a siloh at some points, but uses his experience to propel his story forward"
     }
     performance {
       actor {
         name: "Margaret Qualley"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
     }
     performance {
       actor {
         name: "Hong Chau"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Feels like she is monotonously delivering lines, but holds her own"
     }
     performance {
       actor {
         name: "Joe Alwyn"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Feels like a minor character in all three of the stories, but does not do anything terribly bad"
     }
     performance {
       actor {
         name: "Mamoudou Athie"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
     }
     performance {
       actor {
         name: "Hunter Schafer"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "A cameo"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Bad"
+      comments: "There is so much bad line delivery that it makes \'The Room\' look like a masterclass; most of the actors feel like they are acting in silohs"
     }
-    rating: ""
+    rating: "Pretty Bad to Decent"
   }
   story {
     writer {
@@ -78,8 +76,8 @@ review {
     writer {
       name: "Efthimis Filippou"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Bad"
+    comments: "The concept is an anthology movie of three stories which are loosely connected, but the concept of each story is not really that interesting (really is trying to be perverted for no reason); the plot structure is for all three stories are similiar as they intentially leave out exposition and focus mainly on rising action, which could've been a good stylistic choice if each of these three stories weren't so bloated and drag (so this movie could have really benefited from having 12-20 minutes of each story be an exposition to make the movie feel more complete); the character writing is not good for any of these three stories because it keeps them intentially void to create a sense of mystery, but this backfires becasue it makes you not really care for these characters"
   }
   screenplay {
     writer {
@@ -88,70 +86,50 @@ review {
     writer {
       name: "Efthimis Filippou"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Bad"
+    comments: "The dialogue is boring and incredibly unnatural; the humor is very dry and more shock; the symbolism is pretty shallow for all three of the movies; the foreshadowing is non-existent becasue the stories try to subvert your expectations, but for some reason I already knew what was going to happen so it ended up just being predictable"
   }
   score {
     composer {
       name: "Jerskin Fendrix"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Sparsely used because it is only there to transition between scenes and add tension"
   }
   cinematography {
     cinematographer {
       name: "Robbie Ryan"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Feels very similiar to his signature style as it feels like a doll house and some points and uses a lot of sideways dolly shots; the movie also feels like an homage to Kubrick in some moments"
   }
   editing {
     editor {
       name: "Yorgos Mavropsaridis"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Fine for an auter driven movie, but it felt like the production was rushed a bit as the scenes did not feel as polished as his other movies"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Prety Good"
+    comments: "Helped amplify the scenes with the lack of score and luls in dialogue"
   }
   visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Mostly uses practical effects"
   }
   production_design {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Mostly uses contemporary settings and feels a lot cheaper than his other movies (the budget for this movie was 15 million)"
   }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing for all three movies were incredibly slow as almost all three of the stories at least 15-20 minutes could have been cut to make it feel less bloated (or keep the same runtime and have the first 15-20 minutes be exposition)"
+  climax: "Climax for all three of the movies ended up just being predictable despite trying to subvert my expectations (though the third story was the most interesting)"
+  tone: "Tone was very absurdist and contemporary"
+  final_notes: "The whole movie feels like it suffers from a rushed production because it premiered less than a year after \'Poor Things\', so Lanthimos could have really beneifted from taking some time fully polish this idea"
+  overall: "Overall, a step back in Yorgos Lanthimos' filmography as it feels like he rushed the production of this movie with its poor direction of actors and bad writing, but there were some stylistic choices that I did enjoy as it showed off his signature charm and felt very Kubrick-esque"
 }
 release_year: 2024
 review_date: "06/26/2024"
 redux: false
 id: 464
 imdb_id: "tt22408160"
-
-
-
-Feels like they rushed production
-
-Direciton on a macroscale was good (Yorgos + Kubrick)
-
-Direciton on a microscale was bad, a lot of the line delivery was monotonous and bad and it felt like they were acting in silohs
-
-Cheep production design (Movie budget was 15 mil)
-
-Stories were bloated and dragged, could have been cut 15-20 minutes minutes each and it would have been the same movie. Or at least give exposition if you wanted to make a more complete short story (but not having any is a stylistic choice itsefl)

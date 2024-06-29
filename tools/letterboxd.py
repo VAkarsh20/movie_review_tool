@@ -56,7 +56,7 @@ class LetterboxdBot:
     def import_review(self):
         # Getting import page
         try:
-            self.wait(10)
+            self.wait(15)
             self.driver.get(LETTERBOXD_IMPORT_PAGE_URL)
         except Exception as e:
             exception_handler("Exception thrown when getting import page: {}".format(e))

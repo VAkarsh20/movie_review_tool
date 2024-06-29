@@ -1,12 +1,12 @@
 title: "X"
-rating: 0.1
+rating: 8.6
 review {
   direction {
     director {
       name: "Ti West"
     }
     rating: "Very Good"
-    comments: "The direction on a macroscale is very controlled as it injected horror at the right moments and paid homage to many horror movie classics; the direction on a microscale is good as the interpersonal scenes did a good job building the characters and setting up the differnet internal conflicts; the storytelling was very similiar to \'The Texas Chainsaw Massacre\' but was still clear; they build tension very well (especially in the horror scenes)"
+    comments: "The direction on a macroscale is very controlled as it injected horror at the right moments and paid homage to many horror movie classics; the direction on a microscale is good as the interpersonal scenes did a good job building the characters and setting up the different internal conflicts; the storytelling was very similar to \'The Texas Chainsaw Massacre\' but was still clear; they build tension very well (especially in the horror scenes)"
   }
   acting {
     performance {
@@ -14,14 +14,14 @@ review {
         name: "Mia Goth"
       }
       rating: "Good to Very Good"
-      comments: "Establishes herself as a scream-queen and really carries the narrative forward"
+      comments: "Establishes herself as a scream queen and really carries the narrative forward"
     }
     performance {
       actor {
         name: "Jenna Ortega"
       }
       rating: "Pretty Good"
-      comments: "Has some moments where she doesn't match the levels of the other castmembers, but holds her own for the most part"
+      comments: "She has some moments where she doesn\'t match the levels of the other cast members, but she holds her own for the most part"
     }
     performance {
       actor {
@@ -40,18 +40,18 @@ review {
         name: "Owen Campbell"
       }
       rating: "Good"
-      comments: "Plays the pretenious, insecure filmmaker role well"
+      comments: "Plays the pretentious, insecure filmmaker role well"
     }
     performance {
       actor {
         name: "Scott Mescudi"
       }
       rating: "Good"
-      comments: "Has a lot of charisma and makes his presense known in scenes"
+      comments: "Has a lot of charisma and makes his presence known in scenes"
     }
     cast {
       rating: "Good"
-      comments: "The cast as a whole works well togheter as everyone can play off of each other and move the story forward"
+      comments: "The cast as a whole works well together as everyone can play off of each other and move the story forward"
     }
     rating: "Good"
   }
@@ -60,14 +60,14 @@ review {
       name: "Ti West"
     }
     rating: "Good"
-    comments: "The concept is very similiar to \'The Texas Chainsaw Massacre\', but pays homage to other movies as well; the plot structure is very similiar to \'The Texas Chainsaw Massacre\'; the character writing is good as they provide a good amount of depth for these characters, especially Maxine and Pearl"
+    comments: "The concept is very similar to \'The Texas Chainsaw Massacre\', but pays homage to other movies as well; the plot structure is very similar to \'The Texas Chainsaw Massacre\'; the character writing is good as they provide a good amount of depth for these characters, especially Maxine and Pearl"
   }
   screenplay {
     writer {
       name: "Ti West"
     }
     rating: "Very Good"
-    comments: "The dialogue is pretty polished for a slasher film; the movie never overdues the horror as they place it at the right moments and execute it well; the movie is giant homage to other slash horror movies like \'The Shining\' and \'Psycho\', but most importantly, \'The Texas Chainsaw Massacre\'; the foreshadowing is very good for a horror movie as it helps make the narrative feel balanced"
+    comments: "The dialogue is pretty polished for a slasher film; the movie never overdues the horror as they place it at the right moments and execute it well; the movie is a giant homage to other slash horror movies like \'The Shining\' and \'Psycho\', but most importantly, \'The Texas Chainsaw Massacre\'; the foreshadowing is very good for a horror movie as it helps make the narrative feel balanced"
   }
   score {
     composer {
@@ -77,7 +77,7 @@ review {
       name: "Chelsea Wolfe"
     }
     rating: "Good"
-    comments: "Used well to set the time-period, tone, and tension"
+    comments: "Used well to set the time period, tone, and tension"
   }
   soundtrack {
     rating: "Good"
@@ -88,7 +88,7 @@ review {
       name: "Eliot Rockett"
     }
     rating: "Good"
-    comments: "Feels very polished and uses a wide-array of angles to paint scenes; pays homage to many slasher films"
+    comments: "Feels very polished and uses a wide array of angles to paint scenes; it pays homage to many slasher films"
   }
   editing {
     editor {
@@ -98,7 +98,7 @@ review {
       name: "Ti West"
     }
     rating: "Very Good"
-    comments: "Feels very seamless and polished as it helps move scenes forward and create suspense"
+    comments: "Feels very seamless and polished, as it helps move scenes forward and create suspense"
   }
   sound {
     rating: "Very Good"
@@ -106,17 +106,17 @@ review {
   }
   production_design {
     rating: "Very Good"
-    comments: "Feels very similiar/pays homage to \'The Texas Chainsaw Massacre\'"
+    comments: "Feels very similar; pays homage to \'The Texas Chainsaw Massacre\'"
   }
   makeup {
     rating: "Very Good"
     comments: "Helps bring to life the characters, especially the elderly, and paint the blood and grime of a slasher movie"
   }
-  pacing: "Pacing is right as the movie moves at the right pace for a slasher film"
-  climax: "Climax is executed very well as captializes on the build in suspense throughout the movie"
-  tone: "Tone is very similiar to \'The Texas Chainsaw Massacre\' (with some flavors of \'Boogie Nights\')"
-  final_notes: "The movie is mostly a giant homage to \'The Texas Chainsaw Massacre\'; they were able to do so much with such a little budget ($1 million)"
-  overall: "Overall, "
+  pacing: "Pacing is right, as the movie moves at the right pace for a slasher film"
+  climax: "Climax is executed very well as it capitalizes on the build-in suspense throughout the movie"
+  tone: "Tone is very similar to \'The Texas Chainsaw Massacre\' (with some flavors of \'Boogie Nights\')"
+  final_notes: "The movie is mostly a giant homage to \"The Texas Chainsaw Massacre\"; they were able to do so much with such a little budget ($1 million)"
+  overall: "Overall, a very good horror movie that uses the \'The Texas Chainsaw Massacre\' blueprint and goes more in-depth to provide well executed horror sequences and detailed characters"
 }
 release_year: 2022
 review_date: "06/23/2024"
