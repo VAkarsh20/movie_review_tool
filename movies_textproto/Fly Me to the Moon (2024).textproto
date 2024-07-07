@@ -1,0 +1,108 @@
+title: "Fly Me to the Moon"
+rating: 4.8
+review {
+  direction {
+    director {
+      name: "Greg Berlanti"
+    }
+    rating: "Bad"
+    comments: "The direction on a macroscale is very formulaic and simple, but it does pay homage to the 1960s; the direction on a microscale is bad, as many of the interpersonal scenes feel forced and unnatural, but the attempts at humor weren\'t terrible (it just only hits 1/4 times); the storytelling is simple, but mismanaged because the plot is poorly constructed"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Scarlett Johansson"
+      }
+      rating: "Pretty Good"
+      comments: "She mainly uses her charisma and experience to help push this performance forward; but there are some moments where it does feel still and unnatural"
+    }
+    performance {
+      actor {
+        name: "Channing Tatum"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "This role really feels like it is written for Channing Tatum as he does do a pretty good job in the comedic moments, it just feels like he hits noticeable limits when it comes to the dramatic/romantic scenes"
+    }
+    performance {
+      actor {
+        name: "Ray Romano"
+      }
+      rating: "Pretty Good"
+      comments: "He has good comedic timing and does well supporting his castmates"
+    }
+    performance {
+      actor {
+        name: "Woody Harrelson"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Plays a character he is used to playing, but they do not really use his talents well"
+    }
+    cast {
+      rating: "Pretty Bad"
+      comments: "Very stereotypical background characters that don\'t really add anything"
+    }
+    rating: "Decent"
+  }
+  story {
+    writer {
+      name: "Bill Kirstein"
+    }
+    writer {
+      name: "Keenan Flynn"
+    }
+    rating: "Bad"
+    comments: "The concept is not really that good because it never really chooses what the actual conflict is; it tries to do too much at once; I applaud them for being up-front that this movie is not factually accurate, but this movie just feels incredibly fake, which does emulate how they are trying to \'sell\' the moon landing; the plot structure is a bit of a mess because the advertised conflict is introduced halfway into the movie, so it movie just feels mismanaged as it tries to juggle multiple things going on at once; the plot feels very templated; the character writing is pretty shallow, but fine (about as deep as I would expect this movie to go)"
+  }
+  screenplay {
+    writer {
+      name: "Rose Gilroy"
+    }
+    rating: "Bad"
+    comments: "The dialogue is just bad and forced because none of it feels real, borderline feels like parody; the humor is pretty silly and stupid, but does hit sometimes, even if it is only 1/4 times; the symbolism is pretty surface level, but this movie isn\'t trying to take itself too seriously so this is not really an issue; the foreshadowing is decently prevalent, but this movies the movie somewhat predictable"
+  }
+  score {
+    composer {
+      name: "Daniel Pemberton"
+    }
+    rating: "Decent"
+  }
+  cinematography {
+    cinematographer {
+      name: "Dariusz Wolski"
+    }
+    rating: "Pretty Bad"
+    comments: "There are some shots that felt really silly, but overall, I just wasn\'t a fan of how this movie was shot"
+  }
+  editing {
+    editor {
+      name: "Harry Jierjian"
+    }
+    rating: "Pretty Bad"
+    comments: "It felt very cartoonish and forced how they tried to make this movie feel like the 1960s"
+  }
+  sound {
+    rating: "Decent"
+  }
+  visual_effects {
+    rating: "Bad"
+    comments: "Many of the visual effects feel fake"
+  }
+  production_design {
+    rating: "Pretty Bad"
+    comments: "Many of the sets feel like parody sets"
+  }
+  costumes {
+    rating: "Bad"
+    comments: "The real NASA space-outs feel like they are fake, and I could see Channing Tatum\'s undershirt for like the entire movie; the 60s outfits were pretty standard"
+  }
+  pacing: "Pacing is fine; it\'s just the plot is mismanaged"
+  climax: "The climax was poorly executed as it was more laughable at how fake and meta it was"
+  tone: "The tone is very 1960s, mixed with comedy"
+  final_notes: "I do give this movie credit for not taking itself too seriously, as it is a fun bad movie with how fake it is; I don\'t know where the 100 million dollars went because this movie felt like it was made for 30 million"
+  overall: "Overall, a movie about selling a fake moon landing that ultimately feels fake with its bad writing and cheap feel, but the movie is so silly and bad that it is watchable"
+}
+release_year: 2024
+review_date: "07/06/2024"
+redux: false
+id: 465
+imdb_id: "tt1896747"

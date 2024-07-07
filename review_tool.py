@@ -82,8 +82,7 @@ if __name__=="__main__":
 
         post_to_letterboxd(proto, short_review)
     elif sys.argv[1] == "post_to_imdb":
-        # filename = input("What is the name of the movie?\n")
-        filename = "Robot Dreams (2023)"
+        filename = input("What is the name of the movie?\n")
 
         # Get details for post
         proto = read_proto(filename)

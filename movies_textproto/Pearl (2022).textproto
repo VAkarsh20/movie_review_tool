@@ -1,0 +1,120 @@
+title: "Pearl"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Ti West"
+    }
+    rating: "TODO"
+    comments: "The direction on a macroscale is very good as it is an homage to the film silent era; the direction on a microscale is very good as it shows the conflict for Pearl and her delusional struggle to be a star, and the lengths she will go to get there; the storytelling is very good as uses tension to show how far Pearl will go to become a star and gain freedom, and it uses references from \'X\' to fill gaps in both movies; he builds tension very well as it key element of horror for this movie, showing how sick and twisted Pearl is"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Mia Goth"
+      }
+      rating: "Very Good"
+      comments: "Shows how delusion and feeling captive can turn someone into an obsessed artist who will go at any length to get what she wants, and she really reaches levels that really paint Pearl into a twisted chraacter"
+    }
+    performance {
+      actor {
+        name: "David Corenswet"
+      }
+      rating: "Good"
+      comments: "Plays off of Goth well and shows this contrast between reality and delusion"
+    }
+    performance {
+      actor {
+        name: "Tandi Wright"
+      }
+      rating: "Good to Very Good"
+      comments: "Plays the disapproving mother character well and shows a more strict status to Goth in their scenes"
+    }
+    performance {
+      actor {
+        name: "Emma Jenkins-Purro"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the rich, 1910s southern women well and helps support Goth"
+    }
+    cast {
+      rating: "Good"
+      comments: "The cast is very small, but the cast as a whole works well with each other"
+    }
+    rating: "Good to Very Good"
+  }
+  story {
+    writer {
+      name: "Ti West"
+    }
+    writer {
+      name: "Mia Goth"
+    }
+    rating: "TODO"
+    comments: "The concept is very good it is an interesting story about the obsession of a delusion artist; the movie works extremely well with \'X\' as uses references from the first movie to help tell this movie, and it helps fill gaps created from \'X\'; the plot structure is laid out well (but could have maybe been cut by like 5-10 minutes); the character writing is very good as it shows the twisted nature of Pearl, her delusional obsession, and how she becomes the villian in \'X\'"
+  }
+  screenplay {
+    writer {
+      name: "Ti West"
+    }
+    writer {
+      name: "Mia Goth"
+    }
+    rating: "TODO"
+    comments: "The dialogue is pretty sound and filled with many profound lines (especially during the final 40 minutes); the symbolism is very strong as it helps show the obsession of a delusion artist; the paralellism between the Spanish Flu and Covid made this movie very topical; the foreshadowing is good as it uses \'X\' to help lay the blueprint for where this movie is going"
+  }
+  score {
+    composer {
+      name: "Tyler Bates"
+    }
+    composer {
+      name: "Tim Williams"
+    }
+    rating: "Good"
+    comments: "Helps create this silent era fantasy through its post-romantic era themes"
+  }
+  cinematography {
+    cinematographer {
+      name: "Eliot Rockett"
+    }
+    rating: "Good"
+    comments: "Fells very polished and helps show Pearl's isolation on the farm"
+  }
+  editing {
+    editor {
+      name: "Ti West"
+    }
+    rating: "Good"
+    comments: "Felt very polished and helped create suspense"
+  }
+  sound {
+    rating: "Very Good"
+    comments: "Used well to help create suspense"
+  }
+  visual_effects {
+    rating: "Good"
+    comments: "Uses a lot of practical effects, but this movie is more about building tension rather than being a slasher film"
+  }
+  production_design {
+    rating: "Very Good"
+    comments: "Helps portray the 1910s and the Spanish Flu that plagued the nation; helps show how the set from \'X\' used to be very vibrant 60 years before"
+  }
+  makeup {
+    rating: "Good"
+    comments: "HElped show the disease and burn marks of the characters"
+  }
+  costumes {
+    rating: "Good"
+    comments: "Helped with portraying the times"
+  }
+  pacing: "Pacing is right"
+  climax: "Climax is executed very well as the final 30-40 minutes really shows the lengths Pearl will go to to become a star"
+  tone: "Tone is very emblematic of a romanticized silent era and is mixed with pyscholigical horror themes"
+  final_notes: "There should be a cut with both \'X\' and \'Pearl\' together because both films complement each other very well"
+  overall: "Overall, a horror film that complements \'X\' very well by showing the obsession of the delusional antagonist from the first film, all carried out by a well written script and a captivating performance from Mia Goth"
+}
+release_year: 2022
+review_date: "07/07/2024"
+redux: false
+id: 466
+imdb_id: "tt18925334"
