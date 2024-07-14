@@ -1,12 +1,12 @@
 title: "Maxxxine"
-rating: 0.1
+rating: 5.0
 review {
   direction {
     director {
       name: "Ti West"
     }
-    rating: "TODO"
-    comments: "The direction on a macroscale is decent as they show the dicotomy of 1980s LA with the glamour of Hollywood and the Fear of the Nightstalker, but he does a bad job with a bigger budget and the more responsiblities that come with it; the direction on a microscale is bad as a lot of the performances feel phoned in and the interpersonal scenes do not feel like they move the story at all; the storytelling is not good as it does not feel like the movie is moving towards anything, and this is only further supported in the climax; they build tension decently well through the visions, but not as good as the first two movies"
+    rating: "Pretty Bad"
+    comments: "The direction on a macroscale is decent as they show the dichotomy of 1980s LA with the glamour of Hollywood and the fear of the Night Stalker, but he does a bad job with a bigger budget and the more responsibilities that come with it; the direction on a microscale is bad as a lot of the performances feel phoned in and the interpersonal scenes do not feel like they move the story at all; the storytelling is not good as it does not feel like the movie is moving towards anything, and this is only further supported in the climax; they build tension decently well through the visions, but not as good as the first two movies"
   }
   acting {
     performance {
@@ -14,14 +14,14 @@ review {
         name: "Mia Goth"
       }
       rating: "Pretty Good"
-      comments: "Uses her experience in the franchise to help portray the chracter, but her performace feels more phoned in this time around as I didn't believe her internal conflict"
+      comments: "Uses her experience in the franchise to help portray the character, but her performance feels more phoned in this time around as I didn\'t believe her internal conflict"
     }
     performance {
       actor {
         name: "Elizabeth Debicki"
       }
       rating: "Decent"
-      comments: "Plays a stubborn character that is very neautral to Goth"
+      comments: "Plays a stubborn character that is very neutral to Goth"
     }
     performance {
       actor {
@@ -35,14 +35,14 @@ review {
         name: "Michelle Monaghan"
       }
       rating: "Pretty Bad"
-      comments: "Feels like there is no effort put into this performance and really falls apart in the climax"
+      comments: "It feels like there is no effort put into this performance and it really falls apart in the climax"
     }
     performance {
       actor {
         name: "Bobby Cannavale"
       }
       rating: "Pretty Bad"
-      comments: "So over the top and bad that its more laughable than believable"
+      comments: "So over the top and bad that it\'s more laughable than believable"
     }
     performance {
       actor {
@@ -56,7 +56,7 @@ review {
         name: "Lily Collins"
       }
       rating: "Very Bad"
-      comments: "She's in the movie for like one scene, and in that one scene she keeps on switching between an English and Irish accent mid-sentence"
+      comments: "She is in the movie for like one scene, and in that one scene she keeps switching between an English and Irish accent mid-sentence"
     }
     performance {
       actor {
@@ -74,7 +74,7 @@ review {
     }
     cast {
       rating: "Bad"
-      comments: "There are so many minor characters that just has poor line delievery and do a bad job supporting the main cast"
+      comments: "There are so many minor characters that just have poor line delivery and do a bad job supporting the main cast"
     }
     rating: "Bad to Pretty Bad"
   }
@@ -83,14 +83,14 @@ review {
       name: "Ti West"
     }
     rating: "Bad"
-    comments: "The concept is not interesting as it does a bad job showing how the external conflict is effecting Maxine; Maxine's internal conflict is fine, but it feels like it doesn't build from her last film; the plot structure is poorly managed, especially in the final 40 minutes; the character writing is not good becasue it does a bad job providing any depth to Maxine, but it does a decent job showing the trauma she experienced from the last movie"
+    comments: "The concept is not interesting as it does a bad job showing how the external conflict is affecting Maxine; Maxine\'s internal conflict is fine, but it feels like it doesn\'t build from her last film; the plot structure is poorly managed, especially in the final 40 minutes; the character writing is not good because it does a bad job providing any depth to Maxine, but it does a decent job showing the trauma she experienced from the last movie"
   }
   screenplay {
     writer {
       name: "Ti West"
     }
-    rating: "TODO"
-    comments: "The dialogue is corny and unnatural that its geninuely laughable how it made it into the movie; the symbolism is somewhat prevelant as it movie deals with struggling artists in Hollywood and how trauma effects an individual; the foreshadowing is somewhat prevelant"
+    rating: "Pretty Bad"
+    comments: "The dialogue is corny and unnatural that it\'s genuinely laughable how it made it into the movie; the symbolism is somewhat prevalent as the movie deals with struggling artists in Hollywood and how trauma affects an individual; the foreshadowing is somewhat prevalent"
   }
   score {
     composer {
@@ -123,17 +123,17 @@ review {
   }
   visual_effects {
     rating: "Pretty Bad"
-    comments: "Somehow the kills feel cheaper this time around despite a bigger budget"
+    comments: "Somehow the kills feel cheaper this time around, despite a bigger budget"
   }
   production_design {
     rating: "Good"
-    comments: "They did a good job showing the glitz and glamour of 1980s Hollywood and did a good job incorprating the Warner Bros lot"
+    comments: "They did a good job showing the glitz and glamour of 1980s Hollywood and did a good job incorporating the Warner Bros lot"
   }
-  pacing: "Pacing faulters from the plot being very mismanaged"
-  climax: "Climax is poorly executed as it feels like it is completely disjoint from the rest of the movie (and there are some moments that are just so funny at how they even got inclueded); the movie should have just ended at the climax because the exposition was actually pointless"
-  tone: "Tone is very 1980s mixed with slasher elemetns"
-  final_notes: "This is a strong step back from the previous two movies as this movie feels more like a spirtual successor rather than a sequel to '\X\'; the biggest issue from this movie is conflict as it geninuely ruins how the rest of the movie turns out; all these issues stem from the fact that it has an increased budget and that removed the charm these movies had"
-  overall: "Overall, a substantial step back from the previous two movies in the \'X\' trilogy as all of its issues stem from that fact that an increased budget made this movie lose its charm"
+  pacing: "Pacing falters from the plot being very mismanaged"
+  climax: "Climax is poorly executed as it feels like it is completely disjoint from the rest of the movie (and there are some moments that are just so funny at how they even got included); the movie should have just ended at the climax because the exposition was actually pointless"
+  tone: "Tone is very 1980s, mixed with slasher elements"
+  final_notes: "This is a strong step back from the previous two movies as this movie feels more like a spiritual successor rather than a sequel to \"X\" ; the biggest issue from this movie is conflict as it genuinely ruins how the rest of the movie turns out; all these issues stem from the fact that it has an increased budget and that removed the charm these movies had"
+  overall: "Overall, a substantial step back from the previous two movies in the \'X\' trilogy, as all of its issues stem from the fact that an increased budget made this movie lose its charm"
 }
 release_year: 2024
 review_date: "07/07/2024"

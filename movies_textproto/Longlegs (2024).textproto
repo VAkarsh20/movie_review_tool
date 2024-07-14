@@ -1,0 +1,106 @@
+title: "Longlegs"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Osgood Perkins"
+    }
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale is good as is creates this menacing, erie tone that really elevates the fear of hunting down this serial killer; the direction on a microscale is really pretty bland as a lot of the dialogue and performances feel very monotonous; the direction of actors is not that good as none of the performances feel very elevated (and it feels like Nic Cage is just pulling from experience for his character); the storytelling is good as it explains the conflict well and uses tension and the protagonist to move the story forward; they build tension very well as it is a key aspect when hunting down the serial killer (especially in the beginning and the end)"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Maika Monroe"
+      }
+      rating: "Pretty Good"
+      comments: "Showcases her fear for the situation and holds her own as the lead, but feels very monotnous in the interpersonal scenes"
+    }
+    performance {
+      actor {
+        name: "Nicolas Cage"
+      }
+      rating: "Prety Good"
+      comments: "Very chilling and feels like he is pulling from a lot of experience playing over-the-top 'Nic Cage' characters"
+    }
+    performance {
+      actor {
+        name: "Blair Underwood"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Plays the chief role well and has decent chemistry with Monroe"
+    }
+    performance {
+      actor {
+        name: "Alicia Witt"
+      }
+      rating: "Decent"
+      comments: "A pretty monotnous performance, but helps show how decencitized she is the situation"
+    }
+    cast {
+      rating: "Pretty Bad to Decent"
+      comments: "Just a lot of monotnous, inexperienced characters"
+    }
+    rating: "Decent to Pretty Good"
+  }
+  story {
+    writer {
+      name: "Osgood Perkins"
+    }
+    rating: "Good"
+    comments: "The concept is very intersting as it plays to the satanist serial killer trope very well; the plot structure is good as it pulls a lot from the 'The Silence of the Lambs' and 'Se7en' formula; the character writing is pretty good as you really understand the protagonist's motives and create an iconic serial killer"
+  }
+  screenplay {
+    writer {
+      name: "Osgood Perkins"
+    }
+    rating: "Decent"
+    comments: "The dialogue is very bland and monotnous, holds the movie back from being iconic; the symbolism is very profound to explain the motives of the killer; the foreshadowing is very good as it helps bring the movie full circle"
+  }
+  score {
+    composer {
+      name: "Zilgi"
+    }
+    rating: "Pretty Good"
+    comments: "Helps build tension"
+  }
+  cinematography {
+    cinematographer {
+      name: "Andr\303\251s Arochi"
+    }
+    rating: "Very Good"
+    comments: "Really enjoyed how this movie was shot as they used wide-angle and behind the back following shots to really build this erie world"
+  }
+  editing {
+    editor {
+      name: "Greg Ng"
+    }
+    editor {
+      name: "Graham Fortin"
+    }
+    rating: "Good"
+    comments: "Helped give the movie a very 'Se7en', serial killer movie feel"
+  }
+  sound {
+    rating: "Good"
+    comments: "Used well to help establish tension"
+  }
+  visual_effects {
+    rating: "Decent"
+    comments: "Pretty standard for a low-budget horror film"
+  }
+  makeup {
+    rating: "Pretty Good"
+    comments: "Helps transform Longlegs into an iconic looking serial killer"
+  }
+  pacing: "Pacing is slow as the movie could have been trimmed by like 15-20 minutes (especially the 20 minutes leading to the climax)"
+  climax: "Climax is executed very well and helps bring the movie full circle; the build to the climax dragged a lot and could have been cut by like 10 minutes"
+  tone: "Tone is very erie and similiar to other horror films (especially 'Se7en')"
+  final_notes: ""
+  overall: "Overall, a pretty good serial killer movie that has a good story, an iconic serial killer, and is shot very well, but is held back from itself being iconic by its poor dialogue, poor direction of actors, and bland performances from the supporting cast"
+}
+release_year: 2024
+review_date: "07/13/2024"
+redux: false
+id: 468
+imdb_id: "tt23468450"
