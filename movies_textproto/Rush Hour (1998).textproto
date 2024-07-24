@@ -1,61 +1,47 @@
 title: "Rush Hour"
-rating: 0.1
+rating: 6.9
 review {
   direction {
     director {
       name: "Brett Ratner"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Decent to Pretty Good"
+    comments: "The direction on a macroscale feels very 90s television, mixed with 90s action; the direction on a microscale is very 90s sitcom, but still enjoyable; the storytelling is pretty simple and similiar to other action-comedies from the time period"
   }
   acting {
     performance {
       actor {
         name: "Jackie Chan"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Has his signature Jackie Chan charm and has amazing chemistry with Chris Tucker"
     }
     performance {
       actor {
         name: "Chris Tucker"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Has his signature Chris Tucker charm and has amazing chemistry with Jackie Chan"
     }
     performance {
       actor {
         name: "Tom Wilkinson"
       }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Chris Penn"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Elizabeth Pe\303\261a"
-      }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Standard English performance"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Decent performances all around, help move the story forward"
     }
-    rating: ""
+    rating: "Pretty Good"
   }
   story {
     writer {
       name: "Ross LaManna"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Decent"
+    comments: "The concept is a buddy cop comedy that is cultural melting pot between Hong Kong and LA; the plot structure is a simple buddy cop; the character writing for the two leads is very good as you can see how their chemistry is building throughout the movie"
   }
   screenplay {
     writer {
@@ -64,55 +50,43 @@ review {
     writer {
       name: "Ross LaManna"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Pretty Good"
+    comments: "The dialogue is pretty good as it injects comedy well; the humor is very good as it has an iconic edgy charm to it that makes this movie memorable, the chemistry between Chan and Tucker helps make this movie iconic; the symbolism is somewhat prevelant; the foreshadowing is pretty predictable"
   }
   score {
     composer {
       name: "Lalo Schifrin"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+  }
+  soundtrack {
+    rating: "Decent"
   }
   cinematography {
     cinematographer {
       name: "Adam Greenberg"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Felt very low-budget 90s action-movie"
   }
   editing {
     editor {
       name: "Mark Helfrich"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
   }
   visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Used well in the action sequences"
   }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  pacing: "Pacing is good"
+  climax: "Climax is executed well and shows how much trust Carter and Lee have with each other"
+  tone: "Tone is very 90s Action-Comedy (but definitely feels Rated R)"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a fun buddy cop comedy that is iconic for its over-the-line humor and great chemistry between Jackie Chan and Chris Tucker, but feels incredibly formulaic and 90s"
 }
 release_year: 1998
 review_date: "07/23/2024"
