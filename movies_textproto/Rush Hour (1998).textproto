@@ -6,7 +6,7 @@ review {
       name: "Brett Ratner"
     }
     rating: "Decent to Pretty Good"
-    comments: "The direction on a macroscale feels very 90s television, mixed with 90s action; the direction on a microscale is very 90s sitcom, but still enjoyable; the storytelling is pretty simple and similiar to other action-comedies from the time period"
+    comments: "The direction on a macroscale feels very 90s television, mixed with 90s action; the direction on a microscale is very 90s sitcom, but still enjoyable; the storytelling is pretty simple and similar to other action-comedies from the time period"
   }
   acting {
     performance {
@@ -32,7 +32,7 @@ review {
     }
     cast {
       rating: "Decent"
-      comments: "Decent performances all around, help move the story forward"
+      comments: "Decent performances all around help move the story forward"
     }
     rating: "Pretty Good"
   }
@@ -41,7 +41,7 @@ review {
       name: "Ross LaManna"
     }
     rating: "Decent"
-    comments: "The concept is a buddy cop comedy that is cultural melting pot between Hong Kong and LA; the plot structure is a simple buddy cop; the character writing for the two leads is very good as you can see how their chemistry is building throughout the movie"
+    comments: "The concept is a buddy cop comedy that is a cultural melting pot between Hong Kong and LA; the plot structure is a simple buddy cop; the character writing for the two leads is very good, as you can see how their chemistry is building throughout the movie"
   }
   screenplay {
     writer {
@@ -51,7 +51,7 @@ review {
       name: "Ross LaManna"
     }
     rating: "Pretty Good"
-    comments: "The dialogue is pretty good as it injects comedy well; the humor is very good as it has an iconic edgy charm to it that makes this movie memorable, the chemistry between Chan and Tucker helps make this movie iconic; the symbolism is somewhat prevelant; the foreshadowing is pretty predictable"
+    comments: "The dialogue is pretty good as it injects comedy well; the humor is very good as it has an iconic edgy charm to it that makes this movie memorable; the chemistry between Chan and Tucker helps make this movie iconic; the symbolism is somewhat prevalent; the foreshadowing is pretty predictable"
   }
   score {
     composer {
@@ -67,7 +67,7 @@ review {
       name: "Adam Greenberg"
     }
     rating: "Decent"
-    comments: "Felt very low-budget 90s action-movie"
+    comments: "Felt very low-budget, 90s action movie"
   }
   editing {
     editor {
@@ -83,10 +83,10 @@ review {
     comments: "Used well in the action sequences"
   }
   pacing: "Pacing is good"
-  climax: "Climax is executed well and shows how much trust Carter and Lee have with each other"
-  tone: "Tone is very 90s Action-Comedy (but definitely feels Rated R)"
+  climax: "The climax is executed well and shows how much trust Carter and Lee have with each other"
+  tone: "Tone is very 90s action-comedy (but definitely feels rated R)"
   final_notes: ""
-  overall: "Overall, a fun buddy cop comedy that is iconic for its over-the-line humor and great chemistry between Jackie Chan and Chris Tucker, but feels incredibly formulaic and 90s"
+  overall: "Overall, a fun buddy-cop comedy that is iconic for its over-the-line humor and great chemistry between Jackie Chan and Chris Tucker, but feels incredibly formulaic and 90s"
 }
 release_year: 1998
 review_date: "07/23/2024"
