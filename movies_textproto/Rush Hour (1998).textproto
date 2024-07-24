@@ -1,9 +1,9 @@
-title: "Deadpool"
+title: "Rush Hour"
 rating: 0.1
 review {
   direction {
     director {
-      name: "Tim Miller"
+      name: "Brett Ratner"
     }
     rating: "TODO"
     comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
@@ -11,42 +11,35 @@ review {
   acting {
     performance {
       actor {
-        name: "Ryan Reynolds"
+        name: "Jackie Chan"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "Morena Baccarin"
+        name: "Chris Tucker"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "Ed Skrein"
+        name: "Tom Wilkinson"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "T. J. Miller"
+        name: "Chris Penn"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "Gina Carano"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Brianna Hildebrand"
+        name: "Elizabeth Pe\303\261a"
       }
       rating: "TODO"
       comments: "TODO"
@@ -59,41 +52,38 @@ review {
   }
   story {
     writer {
-      name: "Rhett Reese"
-    }
-    writer {
-      name: "Paul Wernick"
+      name: "Ross LaManna"
     }
     rating: "TODO"
     comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
   }
   screenplay {
     writer {
-      name: "Rhett Reese"
+      name: "Jim Kouf"
     }
     writer {
-      name: "Paul Wernick"
+      name: "Ross LaManna"
     }
     rating: "TODO"
     comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
   }
   score {
     composer {
-      name: "Tom Holkenborg"
+      name: "Lalo Schifrin"
     }
     rating: "TODO"
     comments: "TODO"
   }
   cinematography {
     cinematographer {
-      name: "Ken Seng"
+      name: "Adam Greenberg"
     }
     rating: "TODO"
     comments: "TODO"
   }
   editing {
     editor {
-      name: "Julian Clarke"
+      name: "Mark Helfrich"
     }
     rating: "TODO"
     comments: "TODO"
@@ -124,8 +114,8 @@ review {
   final_notes: ""
   overall: "Overall, "
 }
-release_year: 2016
+release_year: 1998
 review_date: "07/23/2024"
-redux: true
-id: 31
-imdb_id: "tt1431045"
+redux: false
+id: 469
+imdb_id: "tt0120812"

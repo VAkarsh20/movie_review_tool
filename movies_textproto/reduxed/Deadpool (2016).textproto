@@ -126,6 +126,6 @@ review {
 }
 release_year: 2016
 review_date: "07/23/2024"
-redux: true
-id: 31
+redux: false
+id: 471
 imdb_id: "tt1431045"

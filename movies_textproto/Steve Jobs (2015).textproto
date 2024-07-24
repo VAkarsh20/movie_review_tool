@@ -1,9 +1,9 @@
-title: "Deadpool"
+title: "Steve Jobs"
 rating: 0.1
 review {
   direction {
     director {
-      name: "Tim Miller"
+      name: "Danny Boyle"
     }
     rating: "TODO"
     comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
@@ -11,42 +11,42 @@ review {
   acting {
     performance {
       actor {
-        name: "Ryan Reynolds"
+        name: "Michael Fassbender"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "Morena Baccarin"
+        name: "Kate Winslet"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "Ed Skrein"
+        name: "Seth Rogen"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "T. J. Miller"
+        name: "Jeff Daniels"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "Gina Carano"
+        name: "Michael Stuhlbarg"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "Brianna Hildebrand"
+        name: "Katherine Waterston"
       }
       rating: "TODO"
       comments: "TODO"
@@ -59,41 +59,35 @@ review {
   }
   story {
     writer {
-      name: "Rhett Reese"
-    }
-    writer {
-      name: "Paul Wernick"
+      name: "Aaron Sorkin"
     }
     rating: "TODO"
     comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
   }
   screenplay {
     writer {
-      name: "Rhett Reese"
-    }
-    writer {
-      name: "Paul Wernick"
+      name: "Aaron Sorkin"
     }
     rating: "TODO"
     comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
   }
   score {
     composer {
-      name: "Tom Holkenborg"
+      name: "Daniel Pemberton"
     }
     rating: "TODO"
     comments: "TODO"
   }
   cinematography {
     cinematographer {
-      name: "Ken Seng"
+      name: "Alwin K\303\274chler"
     }
     rating: "TODO"
     comments: "TODO"
   }
   editing {
     editor {
-      name: "Julian Clarke"
+      name: "Elliot Graham"
     }
     rating: "TODO"
     comments: "TODO"
@@ -124,8 +118,8 @@ review {
   final_notes: ""
   overall: "Overall, "
 }
-release_year: 2016
+release_year: 2015
 review_date: "07/23/2024"
-redux: true
-id: 31
-imdb_id: "tt1431045"
+redux: false
+id: 470
+imdb_id: "tt2080374"

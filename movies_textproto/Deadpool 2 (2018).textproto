@@ -1,9 +1,9 @@
-title: "Deadpool"
+title: "Deadpool 2"
 rating: 0.1
 review {
   direction {
     director {
-      name: "Tim Miller"
+      name: "David Leitch"
     }
     rating: "TODO"
     comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
@@ -18,6 +18,13 @@ review {
     }
     performance {
       actor {
+        name: "Josh Brolin"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
         name: "Morena Baccarin"
       }
       rating: "TODO"
@@ -25,7 +32,14 @@ review {
     }
     performance {
       actor {
-        name: "Ed Skrein"
+        name: "Julian Dennison"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Zazie Beetz"
       }
       rating: "TODO"
       comments: "TODO"
@@ -39,14 +53,14 @@ review {
     }
     performance {
       actor {
-        name: "Gina Carano"
+        name: "Brianna Hildebrand"
       }
       rating: "TODO"
       comments: "TODO"
     }
     performance {
       actor {
-        name: "Brianna Hildebrand"
+        name: "Jack Kesy"
       }
       rating: "TODO"
       comments: "TODO"
@@ -64,6 +78,9 @@ review {
     writer {
       name: "Paul Wernick"
     }
+    writer {
+      name: "Ryan Reynolds"
+    }
     rating: "TODO"
     comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
   }
@@ -74,26 +91,35 @@ review {
     writer {
       name: "Paul Wernick"
     }
+    writer {
+      name: "Ryan Reynolds"
+    }
     rating: "TODO"
     comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
   }
   score {
     composer {
-      name: "Tom Holkenborg"
+      name: "Tyler Bates"
     }
     rating: "TODO"
     comments: "TODO"
   }
   cinematography {
     cinematographer {
-      name: "Ken Seng"
+      name: "Jonathan Sela"
     }
     rating: "TODO"
     comments: "TODO"
   }
   editing {
     editor {
-      name: "Julian Clarke"
+      name: "Dirk Westervelt"
+    }
+    editor {
+      name: "Craig Alpert"
+    }
+    editor {
+      name: "El\303\255sabet Ronaldsd\303\263ttir"
     }
     rating: "TODO"
     comments: "TODO"
@@ -124,8 +150,8 @@ review {
   final_notes: ""
   overall: "Overall, "
 }
-release_year: 2016
+release_year: 2018
 review_date: "07/23/2024"
-redux: true
-id: 31
-imdb_id: "tt1431045"
+redux: false
+id: 471
+imdb_id: "tt5463162"
