@@ -5,71 +5,71 @@ review {
     director {
       name: "David Leitch"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Good to Very Good"
+    comments: "The direction on a macroscale is good as they picked up where they left off, but the movie feels more relaxed this time because they are playing with house money; the direction on a microscale is very good as they really lean into the comedic elements of this movie and bring out the best in Deadpool and his metacomedy; the storytelling starts off similiar to the first film in how they go back and forth between the past and the present, but only does this for the first quarter as the rest of the movie is pretty linear"
   }
   acting {
     performance {
       actor {
         name: "Ryan Reynolds"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Very Good"
+      comments: "Continues where he left off as he perfectly embodies the role as it feels like he is Deadpool, from his comedic mannerisms to his meta forthwall breaking, but feels more relaxed this time around as he is more comfortable and is playing with house money this time around"
     }
     performance {
       actor {
         name: "Josh Brolin"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good to Good"
+      comments: "Plays his character well to show his motives and has a good relationship with Reynolds, but his character is overall pretty flat"
     }
     performance {
       actor {
         name: "Morena Baccarin"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Continues where she left off and has good chemistry with Reynolds, but she really isn't given that much screentime in this movie"
     }
     performance {
       actor {
         name: "Julian Dennison"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Plays the rageful teenager filled with trauma well and plays off of Deadpool nicely"
     }
     performance {
       actor {
         name: "Zazie Beetz"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "She does her best and has good charisma and chemistry with Reynolds, but her character is written pretty flat overall"
     }
     performance {
       actor {
         name: "T. J. Miller"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Pretty Good side-kick to Deadpool"
     }
     performance {
       actor {
         name: "Brianna Hildebrand"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent to Pretty Good"
+      comments: "Plays the teenager role well, but is given less to work with this time around"
     }
     performance {
       actor {
-        name: "Jack Kesy"
+        name: "Karan Soni"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good to Good"
+      comments: "Given more to work with as his Indian comedic relief really has more of a part in the comedy as it helps juxtapose the bad-ass nature of Deadpool"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Nobody feels really outstanding but everyone plays their part"
     }
-    rating: ""
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
@@ -81,8 +81,8 @@ review {
     writer {
       name: "Ryan Reynolds"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Decent to Pretty Good"
+    comments: "The concept is pretty funny as this movie basically is just a metacomedy on how successful the first movie was, so the whole movie felt like they were playing with house-money; the overall narrative is pretty formulaic and typical to other superhero movies; the plot structure is pretty similiar to other super-hero movies, but does have a unique structure in the first 30 minutes; the character writing for Deapool is pretty good as the whole movie about him fighting guilt and loss, but the rest of the characters feel very flat"
   }
   screenplay {
     writer {
@@ -94,22 +94,21 @@ review {
     writer {
       name: "Ryan Reynolds"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Very Good"
+    comments: "The dialogue is better this time around as funnier by continuing the metacomedy from the first film and being more relaxed when making jokes, whe whole movie felt like it was playing with house money from the success from the first movie; the humor is an improvement this time around as it is a lot funnier; the symbolism is somewhat prevelant this time around as the movie deals with guilt and loss (but in a somewhat surface-level way); the foreshadowing is pretty standard, but the ending honestly throws away what they were building"
   }
   score {
     composer {
       name: "Tyler Bates"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
   }
   cinematography {
     cinematographer {
-      name: "Jonathan Sela"
+      name: "Ken Seng"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Used well to give the action sequences personality"
   }
   editing {
     editor {
@@ -121,34 +120,26 @@ review {
     editor {
       name: "El\303\255sabet Ronaldsd\303\263ttir"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
+    comments: "Feels very crisp and helps make this movie feel unique"
   }
   sound {
-    rating: "TODO"
+    rating: "Very Good"
     comments: "TODO"
   }
   visual_effects {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Feels a bit oversaturated"
   }
   costumes {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
+    comments: "Deadpool\'s costume is very iconic, as it stays really true to the comic books"
   }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  pacing: "Pacing is pretty good as they use comedy to slow things down"
+  climax: "Climax is a typical comic book ending, but mixed with a lot of humur; the post-credit scene basically removes whatever they were trying to build and feels very unnecessary"
+  tone: "Tone is very metacomedy mixed with superhero movie (making it uniquely Deadpool)"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a very good sequel that is funnier than the first as it feels like they were playing with house money when they made this movie, but reverts back to being a traditional superhero movie with its linear structure and shallow character writing"
 }
 release_year: 2018
 review_date: "07/23/2024"

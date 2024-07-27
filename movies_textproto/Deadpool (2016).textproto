@@ -6,7 +6,7 @@ review {
       name: "Tim Miller"
     }
     rating: "Very Good"
-    comments: "The direction on a macroscale is very good as it interjects meta humor into traditional comic-book action sequences, and they do a good job laying the groundwork for this movie to be a meta-satire; the direction on a microscale is very good as these scenes really bring out the meta humor and the charaters/relationships; the storytelling is very good as they do a good job jumping from past to present to provide an origin story while also showing how far Deadpool as come on his journey"
+    comments: "The direction on a macroscale is very good as it interjects meta humor into traditional comic-book action sequences, and they do a good job laying the groundwork for this movie to be a meta-satire; the direction on a microscale is very good as these scenes really bring out the meta humor and the characters/relationships; the storytelling is very good as they do a good job jumping from past to present to provide an origin story while also showing how far Deadpool has come on his journey"
   }
   acting {
     performance {
@@ -42,7 +42,7 @@ review {
         name: "Gina Carano"
       }
       rating: "Decent"
-      comments: "Really isn't given that many lines but plays her part well in the fighting scenes"
+      comments: "Really isn\'t given that many lines but plays her part well in the fighting scenes"
     }
     performance {
       actor {
@@ -62,7 +62,7 @@ review {
       rating: "Decent"
       comments: "Nobody feels really outstanding but everyone plays their part"
     }
-    rating: ""
+    rating: "Pretty Good"
   }
   story {
     writer {
@@ -72,7 +72,7 @@ review {
       name: "Paul Wernick"
     }
     rating: "Great"
-    comments: "The concept is very unique as its a meta-comedy based on a often-overlooked superhero, creating a narrative that really plays to his strengths; the plot structure is unique as it uses the first half to jump back and forth between the past the present to set Deadpools origin story, and after this halfway point it jumps into the climax; the character writing is very good as they stay really faithful to the comics in creaeting Deadpool"
+    comments: "The concept is very unique, as it is a meta-comedy based on an often-overlooked superhero, creating a narrative that really plays to his strengths; the plot structure is unique, as it uses the first half to jump back and forth between the past and the present to set Deadpool\'s origin story, and after this halfway point, it jumps into the climax; the character writing is very good, as they stay really faithful to the comics in creating Deadpool"
   }
   screenplay {
     writer {
@@ -82,7 +82,7 @@ review {
       name: "Paul Wernick"
     }
     rating: "Great"
-    comments: "The dialogue is really good as it is filled with metacomedy/fourth-wall breaking, and helps make the movie funny and enjoyable; the humor makes this movie as it is one of the funniest superhero movies ever, pushing boundaries that others have never gone; the foreshadowing is good as it uses cliches, but borderline parodies them simulatniously"
+    comments: "The dialogue is really good, as it is filled with metacomedy/fourth-wall breaking, and helps make the movie funny and enjoyable; the humor makes this movie one of the funniest superhero movies ever, pushing boundaries that others have never gone; the foreshadowing is good, as it uses cliches, but borderline parodies them simultaneously"
   }
   score {
     composer {
@@ -98,7 +98,7 @@ review {
       name: "Ken Seng"
     }
     rating: "Good"
-    comments: "Used well to give the action-sequences personality"
+    comments: "Used well to give the action sequences personality"
   }
   editing {
     editor {
@@ -116,13 +116,13 @@ review {
   }
   costumes {
     rating: "Very Good"
-    comments: "Deadpool's costume is very iconic as they stay really true to the comic books"
+    comments: "Deadpool\'s costume is very iconic, as it stays really true to the comic books"
   }
-  pacing: "Pacing is good as it slows down the pace in the right moments to interject comedy"
-  climax: "Climax is a typical superhero cilmax (mixed with comedic moments)"
-  tone: "Tone is very metacomedy mixed with superhero movie (making it uniquely Deadpool)"
+  pacing: "Pacing is good, as it slows down the pace in the right moments to interject comedy"
+  climax: "Climax is a typical superhero climax (mixed with comedic moments)"
+  tone: "Tone is very metacomedy mixed with a superhero movie, making it uniquely Deadpool"
   final_notes: ""
-  overall: "Overall, a unique superhero movie that plays to strengths of Ryan Reynolds by using metacomedy/fourth-wall breaking mixed with action to be emblematically Deadpool"
+  overall: "Overall, a unique superhero movie that plays to the strengths of Ryan Reynolds by using metacomedy and fourth-wall breaking mixed with action to be true to Deadpool"
 }
 release_year: 2016
 review_date: "07/23/2024"

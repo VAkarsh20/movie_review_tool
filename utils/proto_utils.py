@@ -129,7 +129,7 @@ def get_acting(infobox):
     acting.cast.CopyFrom(get_generic("TODO"))
 
     # Overall Rating on Acting
-    acting.rating = ""
+    acting.rating = "TODO"
 
     return acting
 
@@ -202,6 +202,8 @@ def sanity_check(proto):
     if proto.review.direction.rating == "TODO":
         raise ValueError("Direction needs to be given a tier")
     acting = proto.review.acting
+    if acting.rating == "TODO":
+        raise ValueError("Acting needs to be given a tier")
     for performance in proto.review.acting.performance:
         if performance.rating == "TODO":
             raise ValueError("{} needs to be given a tier".format(performance.actor.name))
