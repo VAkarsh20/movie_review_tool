@@ -1,59 +1,66 @@
 title: "Deadpool"
-rating: 0.1
+rating: 9.1
 review {
   direction {
     director {
       name: "Tim Miller"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Very Good"
+    comments: "The direction on a macroscale is very good as it interjects meta humor into traditional comic-book action sequences, and they do a good job laying the groundwork for this movie to be a meta-satire; the direction on a microscale is very good as these scenes really bring out the meta humor and the charaters/relationships; the storytelling is very good as they do a good job jumping from past to present to provide an origin story while also showing how far Deadpool as come on his journey"
   }
   acting {
     performance {
       actor {
         name: "Ryan Reynolds"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Very Good"
+      comments: "Perfectly embodies the role as it feels like he is Deadpool, from his comedic mannerisms to his meta forthwall breaking"
     }
     performance {
       actor {
         name: "Morena Baccarin"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "A good love interest and has great chemistry with Reynolds"
     }
     performance {
       actor {
         name: "Ed Skrein"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Pretty Good Villian"
     }
     performance {
       actor {
         name: "T. J. Miller"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good to Good"
+      comments: "Pretty Good side-kick to Deadpool"
     }
     performance {
       actor {
         name: "Gina Carano"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Really isn't given that many lines but plays her part well in the fighting scenes"
     }
     performance {
       actor {
         name: "Brianna Hildebrand"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Plays the teenager role well"
+    }
+    performance {
+      actor {
+        name: "Karan Soni"
+      }
+      rating: "Pretty Good"
+      comments: "His Indian comedic relief really has a part in the comedy as it helps juxtapose the bad-ass nature of Deadpool"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Nobody feels really outstanding but everyone plays their part"
     }
     rating: ""
   }
@@ -64,8 +71,8 @@ review {
     writer {
       name: "Paul Wernick"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Great"
+    comments: "The concept is very unique as its a meta-comedy based on a often-overlooked superhero, creating a narrative that really plays to his strengths; the plot structure is unique as it uses the first half to jump back and forth between the past the present to set Deadpools origin story, and after this halfway point it jumps into the climax; the character writing is very good as they stay really faithful to the comics in creaeting Deadpool"
   }
   screenplay {
     writer {
@@ -74,55 +81,48 @@ review {
     writer {
       name: "Paul Wernick"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Great"
+    comments: "The dialogue is really good as it is filled with metacomedy/fourth-wall breaking, and helps make the movie funny and enjoyable; the humor makes this movie as it is one of the funniest superhero movies ever, pushing boundaries that others have never gone; the foreshadowing is good as it uses cliches, but borderline parodies them simulatniously"
   }
   score {
     composer {
       name: "Tom Holkenborg"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+  }
+  soundtrack {
+    rating: "Pretty Good"
   }
   cinematography {
     cinematographer {
       name: "Ken Seng"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Used well to give the action-sequences personality"
   }
   editing {
     editor {
       name: "Julian Clarke"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
+    comments: "Feels very crisp and helps make this movie feel unique"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
   }
   visual_effects {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "A bit dated, but fine for the times"
   }
   costumes {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
+    comments: "Deadpool's costume is very iconic as they stay really true to the comic books"
   }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  pacing: "Pacing is good as it slows down the pace in the right moments to interject comedy"
+  climax: "Climax is a typical superhero cilmax (mixed with comedic moments)"
+  tone: "Tone is very metacomedy mixed with superhero movie (making it uniquely Deadpool)"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a unique superhero movie that plays to strengths of Ryan Reynolds by using metacomedy/fourth-wall breaking mixed with action to be emblematically Deadpool"
 }
 release_year: 2016
 review_date: "07/23/2024"

@@ -1,0 +1,125 @@
+title: "Twisters"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Lee Isaac Chung"
+    }
+    rating: "TODO"
+    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Daisy Edgar-Jones"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Glen Powell"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Anthony Ramos"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Brandon Perea"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Maura Tierney"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Sasha Lane"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    cast {
+      rating: "TODO"
+      comments: "TODO"
+    }
+    rating: ""
+  }
+  story {
+    writer {
+      name: "Joseph Kosinski"
+    }
+    rating: "TODO"
+    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+  }
+  screenplay {
+    writer {
+      name: "Mark L. Smith"
+    }
+    rating: "TODO"
+    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+  }
+  score {
+    composer {
+      name: "Benjamin Wallfisch"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  cinematography {
+    cinematographer {
+      name: "Dan Mindel"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  editing {
+    editor {
+      name: "Terilyn A. Shropshire"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  sound {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2024
+review_date: "07/24/2024"
+redux: false
+id: 472
+imdb_id: "tt12584954"

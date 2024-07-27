@@ -6,7 +6,7 @@ review {
       name: "Danny Boyle"
     }
     rating: "Decent"
-    comments: "The direction on a macroscale is decent as they have a structure that they go through very well, but does not feel like it is very focused at times; the direction on a microscale is pretty good as the performances really make this movie, and they come to life in the interpersional scenes, but they are sometimes forced and unfocused; the storytelling is pretty good for the product launches, but not very focused for Job's personal dilemma as it feels very forced"
+    comments: "The direction on a macroscale is decent as they have a structure that they go through very well, but it does not feel like it is very focused at times; the direction on a microscale is pretty good as the performances really make this movie, and they come to life in the interpersonal scenes, but they are sometimes forced and unfocused; the storytelling is pretty good for the product launches, but not very focused for Job\'s personal dilemma as it feels very forced"
   }
   acting {
     performance {
@@ -14,42 +14,42 @@ review {
         name: "Michael Fassbender"
       }
       rating: "Very Good to Great"
-      comments: "Steals the scene and feels very similiar to Steve Jobs, and the ruthless visionary he is"
+      comments: "Steals the scene and feels very similar to Steve Jobs, and the ruthless visionary he is"
     }
     performance {
       actor {
         name: "Kate Winslet"
       }
       rating: "Good to Very Good"
-      comments: "Plays Job's work-wife well and tries to be his moral compass even when he doesn't want one; has very good chemistry with Fassbender"
+      comments: "Plays Job\'s work-wife well and tries to be his moral compass even when he doesn\'t want one;  has very good chemistry with Fassbender"
     }
     performance {
       actor {
         name: "Seth Rogen"
       }
       rating: "Pretty Good"
-      comments: "Plays the part well and has good chemistry with Fassbender, but just feels like he's playing Seth Rogen"
+      comments: "Plays the part well and has good chemistry with Fassbender, but just feels like he\'s playing Seth Rogen"
     }
     performance {
       actor {
         name: "Jeff Daniels"
       }
       rating: "Good"
-      comments: "Feels like an established actor and plays of of Fassbender well"
+      comments: "Feels like an established actor and plays off of Fassbender well"
     }
     performance {
       actor {
         name: "Michael Stuhlbarg"
       }
       rating: "Pretty Good"
-      comments: "Not really given much to work with but really helps support Fassbender in showing Job's arrogance"
+      comments: "Not really given much to work with, but it really helps support Fassbender in showing Job\'s arrogance"
     }
     performance {
       actor {
         name: "Katherine Waterston"
       }
       rating: "Decent"
-      comments: "Was fine but did not really feel like she had much chemistry with Fassbender"
+      comments: "It was fine but did not really feel like she had much chemistry with Fassbender"
     }
     cast {
       rating: "Decent"
@@ -62,14 +62,14 @@ review {
       name: "Aaron Sorkin"
     }
     rating: "Decent to Pretty Good"
-    comments: "The concept is a cool idea because it is not traditional to other biopics, it is centered around 3 pivotable product launches for Steve Jobs; while I thought the idea was cool, I did not feel it was executed well because I felt the first launch was not relevant as it really did not talk about Steve Jobs in the 00s (it just alludes to it in a very bad way); the plot structure is broken up into 3 parts; the character writing is pretty good for the most part as it centers around Steve Jobs and how he interacts with everyone around him, but I felt like it really forced the relationship storyline with his daughter"
+    comments: "The concept is a cool idea because it is not traditional to other biopics, it is centered around three pivotal product launches for Steve Jobs; while I thought the idea was cool, I did not feel it was executed well because I felt the first launch was not relevant as it really did not talk about Steve Jobs in the 00s (it just alludes to it in a very bad way); the plot structure is broken up into three parts; the character writing is pretty good for the most part as it centers around Steve Jobs and how he interacts with everyone around him, but I felt like it really forced the relationship storyline with his daughter"
   }
   screenplay {
     writer {
       name: "Aaron Sorkin"
     }
-    rating: "TODO"
-    comments: "The dialogue is very Aaron Sorkin and honestly feels like if we had the Social Network at home; the humor is pretty good as it is typical to other Sorkin scripts; the symbolism is decent but kinda surface-level and forced; the foreshadowing is kinda overt that it hurts the movie a lot"
+    rating: "Pretty Good"
+    comments: "The dialogue is very Aaron Sorkin, and honestly feels like if we had the Social Network at home; the humor is pretty good, as it is typical to other Sorkin scripts; the symbolism is decent but kinda surface-level and forced; the foreshadowing is kinda overt that it hurts the movie a lot"
   }
   score {
     composer {
@@ -88,7 +88,7 @@ review {
       name: "Elliot Graham"
     }
     rating: "Bad"
-    comments: "Felt very chunky and choppy as the movie did not feel that coherent at all"
+    comments: "I felt very chunky and choppy, as the movie did not feel that coherent at all"
   }
   visual_effects {
     rating: "Pretty Bad"
@@ -98,11 +98,11 @@ review {
     rating: "Pretty Good"
     comments: "Helped age Steve Jobs"
   }
-  pacing: "Pacing is kinda poor as it feels like they spent too much time on the first two launches that the third launch feels very forced"
-  climax: "Climax is very underwhelming as it tries to tie up a lot of loose ends and does it in a very forced way"
-  tone: "Tone is very similiar to other Tech biopics, especially 'The Social Network'"
-  final_notes: "The is the most we have 'The Social Newtwork' at home movie ever"
-  overall: "Overall, a decent biopic that is carried out by a memorable performance from Michael Fassbender to show the ruthless vision of Steve Jobs, but this movie just feels like if we had 'The Social Network' at home"
+  pacing: "Pacing is kind of poor, as it feels like they spent too much time on the first two launches, that the third launch feels very forced"
+  climax: "The climax is very underwhelming as it tries to tie up a lot of loose ends and does it in a very forced way"
+  tone: "Tone is very similar to other tech biopics, especially \"The Social Network\""
+  final_notes: "This is the most we have \"The Social Network\" at home movie ever"
+  overall: "Overall, a decent biopic that is carried out by a memorable performance from Michael Fassbender to show the ruthless vision of Steve Jobs, but this movie just feels like if we had \"The Social Network\" at home"
 }
 release_year: 2015
 review_date: "07/23/2024"
