@@ -6,42 +6,42 @@ review {
       name: "Shawn Levy"
     }
     rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    comments: "The direction on a macroscale feels like a blend of 20th Century Fox Marvel with the MCU as it has elements of both, with Deadpool serving as the bridge; the direction on a microscale is body-cop/dueling protagonist movie between Deadpool and Wolverine; the storytelling is a step back as it tries to do too much, it tries be this love-letter to 20th Century Fox but sacrifies it being an MCU movie or tying back to the original Deadpool movies"
   }
   acting {
     performance {
       actor {
         name: "Ryan Reynolds"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Very Good"
+      comments: "Continues where he left off, as he perfectly embodies the role, as it feels like he is Deadpool; from his comedic mannerisms to his meta, fourth-wall breaking, but feels more relaxed this time around, as he is still comfortable in the role and pokes fun at the MCU in order to save his connection to 20th Century Fox; Has great chemistry with Hugh Jackman"
     }
     performance {
       actor {
         name: "Hugh Jackman"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Very Good"
+      comments: "Continues where he left off in \"Logan\" as he shows why he is the only person who will play Wolverine; has great chemistry with Ryan Reynolds"
     }
     performance {
       actor {
         name: "Emma Corrin"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "A good villian who has good charisma and good line delivery; they have great chemistry with the two leads"
     }
     performance {
       actor {
         name: "Matthew Macfadyen"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Tom Wambsgans being Tom Wambsgans"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "All the perfomrnaces in this movie feel elevated this time around as opposed to the minor characters in the first two Deadpool movies; for the cameos, they do a good job in their roles; for the original Deadpool movies, they feel more like cameos and are underutilized"
     }
-    rating: ""
+    rating: "Good to Very Good"
   }
   story {
     writer {
@@ -59,8 +59,8 @@ review {
     writer {
       name: "Shawn Levy"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Decent"
+    comments: "The concept is really a buddy-cop movie between Deadpool & Wolverine, but they try to do too much that the movie does not really feel focused on what they want to tell, they try to have this movie connect to the original Deadpool movies but they are more focused with being this love-letter to 20th Century Fox and having an MCU tie-in; this movie feels more like a spiritual successor to the original Deadpool movies rather than a sequel; the plot structure is fine as it follows the traditional Marvel template; the character writing is good for the two protagonists as the movie is about redemption and finding purpose"
   }
   screenplay {
     writer {
@@ -78,22 +78,25 @@ review {
     writer {
       name: "Shawn Levy"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Very Good"
+    comments: "The dialogue is still good as it still is filled with metacomedy and forthwall breaking, and it does a very good job at taking jabs at the MCU; the humor is still good and helps make this feel like a Deadpool movie, but it does feel a bit seperated from the first two movies; the symbolism is pretty strong as the whole movie is about redemption and finding purpose; the foreshadowing is pretty standard with other Marvel movies, so it makes it a bit predictable"
   }
   score {
     composer {
       name: "Rob Simonsen"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+  }
+  soundtrack {
+    rating: "Very Good"
+    comments: "Used very well and help make this movie fun and feel very Deadpool"
   }
   cinematography {
     cinematographer {
       name: "George Richmond"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good to Great"
+    comments: "The action-sequences feel very above and beyond and a new benchmark for superhero movies to follows, especially with some of the new shot techniques they tried"
   }
   editing {
     editor {
@@ -102,34 +105,29 @@ review {
     editor {
       name: "Shane Reid"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
+    comments: "The whole movie feels very seamless and polished, it feels like they used the expanded budget well in the technical process"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
   }
   visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
+    comments: "An improvement on both the Deadpool movies and recent MCU films as it feels very detailed and helps show the blood and action Deadpool was trying to get at in the first two movies"
   }
   production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Helps paint the world, in a somewhat comedic way"
   }
   costumes {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
+    comments: "Uses the iconic Deadpool and Wolverine costumes to make this movie an homage to the original comic-book characters"
   }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing is good for the most part, but kinda drags in some points (maybe 10-15 minutes could have been cut)"
+  climax: "Climax is well executed and helps bring toghether the movie (especially the large fight-scene in the end)"
+  tone: "Tone is very metacomedy mixed with superhero movie; while the movie does have some MCU elements, it feels like this movie still feels like a Deadpool movie"
+  final_notes: "It felt like this movie has given less restirtion that other MCU movies (but there still are moments where it felt like Feige steped in)"
+  overall: "Overall, an entertaining return for Deadpool & Wolverine as the humor and chemistry between the two leads establish their comedic metacomedic entarnce MCU and send off a love-letter to 20th Century Fox, which ultamiely holds this movie back a bit because it is not focused on which narrative they want to tell"
 }
 release_year: 2024
 review_date: "07/25/2024"

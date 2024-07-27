@@ -1,12 +1,12 @@
 title: "Twisters"
-rating: 0.1
+rating: 4.9
 review {
   direction {
     director {
       name: "Lee Isaac Chung"
     }
     rating: "Decent"
-    comments: "The direction on a macroscale is good because the disaster moments are well executed and use tension and fear to make the movie engaging, the overall world-building is pretty formulaic; the microscale is decent as the performances are fine and decently acted, it is just very limited by a bad script; the storytelling is pretty simple and formulaic; they build tension well as the whole movie is built on its tense, disaster moments"
+    comments: "The direction on a macroscale is good because the disaster moments are well executed and use tension and fear to make the movie engaging; the overall world-building is pretty formulaic; the microscale is decent as the performances are fine and decently acted; it is just very limited by a bad script; the storytelling is pretty simple and formulaic; they build tension well as the whole movie is built on its tense, disaster moments"
   }
   acting {
     performance {
@@ -14,32 +14,32 @@ review {
         name: "Daisy Edgar-Jones"
       }
       rating: "Decent to Pretty Good"
-      comments: "Plays the lead pretty well and shows a pretty good range of emotions, but her performance is a bit limited at times and her accent keeps throwing me off"
+      comments: "Plays the lead pretty well and shows a pretty good range of emotions; but her performance is a bit limited at times and her accent keeps throwing me off"
     }
     performance {
       actor {
         name: "Glen Powell"
       }
       rating: "Pretty Good"
-      comments: "Plays a very typical Glen Powell role, so has a lot of southern charisma and good chemistry with his female lead"
+      comments: "Plays a very typical Glen Powell role, so he has a lot of southern charisma and good chemistry with his female lead"
     }
     performance {
       actor {
         name: "Anthony Ramos"
       }
       rating: "Decent"
-      comments: "Does a decent job with what he is given as he has good chemistry with Edgar-Jones and shows some emotion, but he is just given the worst lines in the movie so its not really his fault"
+      comments: "He does a decent job with what he is given, as he has good chemistry with Edgar-Jones and shows some emotion; however, he is just given the worst lines in the movie, so it is not really his fault"
     }
     performance {
       actor {
         name: "David Corenswet"
       }
       rating: "Pretty Bad"
-      comments: "He is acting like he doesn't want to be in the movie"
+      comments: "He is acting as if he does not want to be in the movie"
     }
     cast {
       rating: "Bad to Pretty Bad"
-      comments: "Just a lot of bland performances all around, some better than others"
+      comments: "Just a lot of bland performances all around; some were better than others"
     }
     rating: "Pretty Bad"
   }
@@ -48,21 +48,21 @@ review {
       name: "Joseph Kosinski"
     }
     rating: "Bad"
-    comments: "The concept is just a rehash of the first movie; the plot structure is pretty formulaic; character writing is pretty good for Edgar-Jones' character but pretty shallow for the rest; they could've done a lot more with Powell's character"
+    comments: "The concept is just a rehash of the first movie; the plot structure is pretty formulaic; character writing is pretty good for Edgar-Jones\' character but pretty shallow for the rest; they could have done a lot more with Powell\'s character"
   }
   screenplay {
     writer {
       name: "Mark L. Smith"
     }
     rating: "Very Bad"
-    comments: "The dialogue is very bad and borderline laughable; the humor is somewhat used, but it is more unintentially funny; the symbolism is somewhat prevelant as it deals with trauma and loss, but in a somewhat formulaic way; the foreshadowing makes the movie very predictable"
+    comments: "The dialogue is very bad and borderline laughable; the humor is somewhat used, but it is more unintentionally funny; the symbolism is somewhat prevalent as it deals with trauma and loss, but in a somewhat formulaic way; the foreshadowing makes the movie very predictable"
   }
   score {
     composer {
       name: "Benjamin Wallfisch"
     }
     rating: "Decent to Pretty Good"
-    comments: "Has some good themes and used well to build tension"
+    comments: "It has some good themes and is used well to build tension"
   }
   cinematography {
     cinematographer {
@@ -76,7 +76,7 @@ review {
       name: "Terilyn A. Shropshire"
     }
     rating: "Pretty Good"
-    comments: "Used pretty well in the disaster moments, but can get tacky at times"
+    comments: "Used pretty well in disaster moments, but can get tacky at times"
   }
   sound {
     rating: "Good"
@@ -84,17 +84,17 @@ review {
   }
   visual_effects {
     rating: "Pretty Good"
-    comments: "Pretty obvious when they use it, but is still find and helps paint the movie"
+    comments: "Pretty obvious when they use it, but it is still fine and helps paint the movie"
   }
   production_design {
     rating: "Good"
-    comments: "Helps pain Tornado Alley"
+    comments: "Helps with pain in Tornado Alley"
   }
   pacing: "Pacing is fine"
-  climax: "Climax is pretty predictable, but is the most action-packed"
-  tone: "Tone is very similiar to other disaster movies (but has a B-film tone at times)"
+  climax: "The climax is pretty predictable, but it is the most action-packed"
+  tone: "Tone is very similar to other disaster movies, but has a B-film tone at times"
   final_notes: ""
-  overall: "Overall, an entertaining movie only for its disaster moments as every positive for this movie gets swallowed up by its bad writing and tacky visual effects"
+  overall: "Overall, an entertaining movie only for its disaster moments as every positive for this movie gets swallowed up by its bad writing"
 }
 release_year: 2024
 review_date: "07/24/2024"
