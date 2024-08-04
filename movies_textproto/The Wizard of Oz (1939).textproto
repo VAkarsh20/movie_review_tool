@@ -1,0 +1,147 @@
+title: "The Wizard of Oz"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Victor Fleming"
+    }
+    rating: "Very Good"
+    comments: "The direction on a macroscale is incredibly grand as it creates this magical, technicolor world through groundbreaking movie magic; the direction on a microscale is pretty standard to the Golden Age of Hollywood; the storytelling is pretty linear and simple; tension is"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Judy Garland"
+      }
+      rating: "Good to Very Good"
+      comments: "Carries the film as the innocent Dorothy who wants the best for her friends and just wants to go home; does very well in the iconic musical numbers"
+    }
+    performance {
+      actor {
+        name: "Frank Morgan"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the Wizard well and has good chemistry with Garland"
+    }
+    performance {
+      actor {
+        name: "Ray Bolger"
+      }
+      rating: "Good"
+      comments: "Plays the Scarecrow well and has very good chemistry with the cast"
+    }
+    performance {
+      actor {
+        name: "Bert Lahr"
+      }
+      rating: "Good"
+      comments: "Has an over-the-top nature that is very true to slapstic comedy from the time-period; has very good chemistry with the cast"
+    }
+    performance {
+      actor {
+        name: "Jack Haley"
+      }
+      rating: "Good"
+      comments: "Plays the Tin Man well and has good chemistry with the rest of the cast"
+    }
+    performance {
+      actor {
+        name: "Billie Burke"
+      }
+      rating: "Pretty Good"
+    }
+    performance {
+      actor {
+        name: "Margaret Hamilton"
+      }
+      rating: "Good"
+      comments: "Plays the villian role well and true to the golden age of Hollywood"
+    }
+    cast {
+      rating: "Pretty Good"
+      comments: "More minor characters, but they interact with the main cast well"
+    }
+    rating: "Good"
+  }
+  story {
+    writer {
+      name: "Noel Langley"
+    }
+    writer {
+      name: "Florence Ryerson"
+    }
+    writer {
+      name: "Edgar Allan Woolf"
+    }
+    rating: "Good to Very Good"
+    comments: "The concept is an iconic fantasy based on a beloved children's novel; the plot structure is very linear and simple; flow between sequences is; character writing is good for the time as each character has a single want they are willing to go on a journey for"
+  }
+  screenplay {
+    writer {
+      name: "Noel Langley"
+    }
+    writer {
+      name: "Florence Ryerson"
+    }
+    writer {
+      name: "Edgar Allan Woolf"
+    }
+    rating: "Good to Very Good"
+    comments: "The dialogue is filled with many iconic lines and true to the time-period; the humor is very similiar to other golden age musicals; the symbolism is pretty overt, but still iconic; the foreshadowing is pretty simple but a key element for closing the movie"
+  }
+  score {
+    composer {
+      name: "Herbert Stothart"
+    }
+    rating: "Very Good"
+    comments: "Filled with many iconic themes"
+  }
+  soundtrack {
+    rating: "Incredible"
+    comments: "Filled with many iconic songs"
+  }
+  cinematography {
+    cinematographer {
+      name: "Harold Rosson"
+    }
+    rating: "Brilliant"
+    comments: "Grounbreaking for its use of technicolor and forced perspective to make Oz feel so grand"
+  }
+  editing {
+    editor {
+      name: "Blanche Sewell"
+    }
+    rating: "Pretty Good"
+    comments: "Pretty true to the time"
+  }
+  sound {
+    rating: "Pretty Good"
+    comments: "Pretty true to the time"
+  }
+  visual_effects {
+    rating: "Very Good"
+    comments: "Groundbreaking to make Oz feel like a magical place"
+  }
+  production_design {
+    rating: "Brilliant"
+    comments: "Helps provide color and magic to make Oz such an iconic setting"
+  }
+  makeup {
+    rating: "Incredible"
+    comments: "Helps bring to life the chracters in an iconic way"
+  }
+  costumes {
+    rating: "Incredible"
+    comments: "Helps bring to life the chracters in an iconic way"
+  }
+  pacing: "Pacing is good as the movie stays on a pretty linear course"
+  climax: "Climax is executed well"
+  tone: "Tone is very similiar to other magical musicals"
+  final_notes: "Grounbreaking film for its soundtrack and use of technicolor"
+  overall: "Overall, a groundbreaking film for its soundtrack and use of technicolor as the artistic and technical aspects paint Oz and make this such an iconic movie"
+}
+release_year: 1939
+review_date: "08/04/2024"
+redux: false
+id: 474
+imdb_id: "tt0032138"
