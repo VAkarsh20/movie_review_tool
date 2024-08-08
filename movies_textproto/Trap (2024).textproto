@@ -1,0 +1,109 @@
+title: "Trap"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "M. Night Shyamalan"
+    }
+    rating: "Bad"
+    comments: "The direction on a macroscale is incredibly forced and rushed in the first half, but pretty standard horror thriller world building the final 40 minutes; the direction on a microscale is very bad as so much of the line delievery is disconnected and the performances just feel so forced; the storytelling is very simple and feels dumbed down; they build tension well as this is the only engaging part of the movie (especially in the final 30 minutes)"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Josh Hartnett"
+      }
+      rating: "Pretty Bad to Decent"
+      comments: "His line delivery and mannerisms in the first feel so off, but I feel this has more to do with bad direction than acting; he picks up his game in the second half of the movie, but by this point it feels a little too late"
+    }
+    performance {
+      actor {
+        name: "Ariel Donoghue"
+      }
+      rating: "Decent"
+      comments: "Decent child acting and plays off of Hartnett well"
+    }
+    performance {
+      actor {
+        name: "Saleka Night Shyamalan"
+      }
+      rating: "Pretty Bad"
+      comments: "Just feels like a plant in the movie, and has a lot of monotonous line delievery"
+    }
+    performance {
+      actor {
+        name: "Hayley Mills"
+      }
+      rating: "Decent"
+    }
+    performance {
+      actor {
+        name: "Alison Pill"
+      }
+      rating: "Pretty Bad to Decent"
+      comments: "Plays the wife well, but kinda faulters a bit when it comes to the climax"
+    }
+    performance {
+      actor {
+        name: "Jonathan Langdon"
+      }
+      rating: "Decent"
+      comments: "Decent comedic relief"
+    }
+    
+    cast {
+      rating: "Very Bad"
+      comments: "Just so many inexperienced actors that do not feel connected to the main cast"
+    }
+    rating: "Bad to Pretty Bad"
+  }
+  story {
+    writer {
+      name: "M. Night Shyamalan"
+    }
+    rating: "TODO"
+    comments: "The concept is interesting, it just isn't executed well; the plot structure is linear and straight-forward; character writing is very dry as the movie cannot really provide any depth into the main character because the movie is PG-13"
+  }
+  screenplay {
+    writer {
+      name: "M. Night Shyamalan"
+    }
+    rating: "TODO"
+    comments: "The dialogue is attroious and unnatural; the humor is more unintentionally funny with how bad some of the moments are; the twist is pretty tame and predictable for an M. Night Shyamalan movie, but is still entertaining"
+  }
+  score {
+    composer {
+      name: "Herd\303\255s Stef\303\241nsd\303\263ttir"
+    }
+    rating: "Pretty Bad"
+    comments: "Poorly used as the lack of score in some moments make scenes feel very try"
+  }
+  soundtrack {
+    rating: "Decent"
+    comments: "Fine, but this movie just feels like Shyamalan is trying to show off his daughter"
+  }
+  cinematography {
+    cinematographer {
+      name: "Sayombhu Mukdeeprom"
+    }
+    rating: "Bad to Pretty Bad"
+    comments: "So many shots in the first half feel way too close to the camera and do not use the screen canvas well at all; some of the shots in the climax are well executed"
+  }
+  editing {
+    editor {
+      name: "No\303\253mi Preiswerk"
+    }
+    rating: "Bad to Pretty Bad"
+    comments: "Many of the shots in the first half are not well put togehter, but the climax had some pretty good cuts"
+  }
+  pacing: "Pacing is incredibly fast (the whole movie just feels like its at 1.5x speed)"
+  climax: "Climax is decently executed compared to the rest of the movie (but still not the best)"
+  tone: "Tone is very thriller (almost feels like its forced though)"
+  final_notes: "This movie is really held back by its PG-13 rating because it feels very censored and cannot be a well-written serial killer movie because of it"
+  overall: "Overall, a poorly executed thriller that suffers from being censored by its PG-13 rating as it shallowly treds water without ever going in deep, but its so stupidly bad that it is entertaining at times"
+}
+release_year: 2024
+review_date: "08/06/2024"
+redux: false
+id: 476
+imdb_id: "tt26753003"
