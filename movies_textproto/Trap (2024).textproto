@@ -61,14 +61,14 @@ review {
     writer {
       name: "M. Night Shyamalan"
     }
-    rating: "TODO"
+    rating: "Bad"
     comments: "The concept is interesting, it just isn't executed well; the plot structure is linear and straight-forward; character writing is very dry as the movie cannot really provide any depth into the main character because the movie is PG-13"
   }
   screenplay {
     writer {
       name: "M. Night Shyamalan"
     }
-    rating: "TODO"
+    rating: "Very Bad"
     comments: "The dialogue is attroious and unnatural; the humor is more unintentionally funny with how bad some of the moments are; the twist is pretty tame and predictable for an M. Night Shyamalan movie, but is still entertaining"
   }
   score {
