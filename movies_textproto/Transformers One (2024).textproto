@@ -1,12 +1,12 @@
 title: "Transformers One"
-rating: 0.1
+rating: 5.4
 review {
   direction {
     director {
       name: "Josh Cooley"
     }
-    rating: "Decent"
-    comments: "The direction on a macroscale is decent as the world-building and action-sequences are well choreographed, but the other aspects felt kinda flat and bland; the direction on a microscale feels kinda bland as the relationships feel very surface level, but the comedic moments were decently executed; direction of voice actors was very bland; the storytelling is pretty linear and safe overall"
+    rating: "Pretty Bad to Decent"
+    comments: "The direction on a macroscale is decent, as the world-building and action sequences are well choreographed, but the other aspects felt kind of flat and bland; the direction on a microscale feels kind of bland, as the relationships feel very surface level, but the comedic moments were decently executed; direction of voice actors was very bland; the storytelling is pretty linear and safe overall"
   }
   acting {
     performance {
@@ -14,7 +14,7 @@ review {
         name: "Chris Hemsworth"
       }
       rating: "Bad to Pretty Bad"
-      comments: "Really does not feel like the character and does not sound convincing as Optimus Prime; felt like he was doing a minor american inflection with little emotion"
+      comments: "Really does not feel like the character and does not sound convincing as Optimus Prime; it felt like he was doing a minor American inflection with little emotion"
     }
     performance {
       actor {
@@ -35,32 +35,32 @@ review {
         name: "Keegan-Michael Key"
       }
       rating: "Decent to Pretty Good"
-      comments: "The only positive vocal performance in the movie as he uses a very similiar to style to his 'Toad' character in the Mario movie to act as the friendly, comedic relief"
+      comments: "The only positive vocal performance in the movie as he uses a very similar style to his \"Toad\" character in the Mario movie to act as the friendly, comedic relief"
     }
     performance {
       actor {
         name: "Steve Buscemi"
       }
       rating: "Pretty Bad"
-      comments: "Just feels like he's there and not using any of his experience voice acting"
+      comments: "Just feels like he\'s there and not using any of his experience in voice acting"
     }
     performance {
       actor {
         name: "Laurence Fishburne"
       }
       rating: "Decent"
-      comments: "Feels very eldarly and helps act as that figure to the cast"
+      comments: "Feels very elderly and helps act as that figure to the cast"
     }
     performance {
       actor {
         name: "Jon Hamm"
       }
       rating: "Bad to Pretty Bad"
-      comments: "Really just playing Jon Hamm and does little work in establishing a large range"
+      comments: "It really just plays Jon Hamm and does little work in establishing a large range"
     }
     cast {
       rating: "Bad"
-      comments: "More for the main cast, but this movie is a prime example of the problem you get when you hire a-list actors to do voice roles instead of voice actors; they tried fill this cast with a-list actors so that it can sell this movie, but it really should just use the IP to sell this movie instead"
+      comments: "More for the main cast, but this movie is a prime example of the problem you get when you hire A-list actors to do voice roles instead of voice actors; they tried to fill this cast with A-list actors so that it can sell this movie, but it really should just use the IP to sell this movie instead"
     }
     rating: "Bad to Pretty Bad"
   }
@@ -72,7 +72,7 @@ review {
       name: "Gabriel Ferrari"
     }
     rating: "Pretty Bad"
-    comments: "The concept feels very true to the Transformers story and series, I just thought it was uninteresting; the plot structure is very linear and straightforward; character writing tries to establish this relationships and backstory for these important Transformers, I just thought it was very shallow and bland"
+    comments: "The concept feels very true to the Transformers story and series; I just thought it was uninteresting; the plot structure is very linear and straightforward; character writing tries to establish these relationships and backstory for these important Transformers; I just thought it was very shallow and bland"
   }
   screenplay {
     writer {
@@ -85,7 +85,7 @@ review {
       name: "Gabriel Ferrari"
     }
     rating: "Decent"
-    comments: "The dialogue is pretty simple and predictable; the humor is suprisingly good as they use a lot of physical comedy to tell jokes; the symbolism is pretty surface level and cliche; the foreshadowing is pretty overt as the movie is very predictable"
+    comments: "The dialogue is pretty simple and predictable; the humor is surprisingly good as they use a lot of physical comedy to tell jokes; the symbolism is pretty surface-level and cliche; the foreshadowing is pretty overt as the movie is very predictable"
   }
   score {
     composer {
@@ -94,9 +94,6 @@ review {
     rating: "Decent"
   }
   soundtrack {
-    composer {
-      name: "Brian Tyler"
-    }
     rating: "Bad"
     comments: "No Linkin Park"
   }
@@ -109,17 +106,17 @@ review {
   }
   sound {
     rating: "Good"
-    comments: "Definitely feels like Michael Bay had some involvement in this movie as it helps personify the Transformers and the action sequences"
+    comments: "Definitely feels like Michael Bay had some involvement in this movie, as it helps personify the Transformers and the action sequences"
   }
   animation {
     rating: "Pretty Bad"
-    comments: "More of a personal preference, but I did not like animation style; I thought the world and the action sequences had good animation, but the character design and the less intense scenes looks uninspiring"
+    comments: "More of a personal preference, but I did not like the animation style; I thought the world and the action sequences had good animation, but the character design and the less intense scenes look uninspiring"
   }
   pacing: "Pacing is pretty good"
-  climax: "Climax is well executed as the fight sequences were well choreographed and the story was engaging"
-  tone: "Tone is kinda mess as the movie does not know what audience to appeal to (its trying to appeal to an older demographic that are fans of Transformers through references and swearing while simulationously try to appeal to children through tone and jokes)"
-  final_notes: "This movie is a prime example just using voice actors instead of a-list actors because you should just let the IP sell this movie"
-  overall: "Overall, a movie with some entertaining moments, but is a prime example of how you don't need an a-list cast to market this movie, the IP will market this movie and you should just use a talented voice actor led cast instead"
+  climax: "The climax is well executed, as the fight sequences were well choreographed and the story was engaging"
+  tone: "The tone is kind of a mess as the movie does not know what audience to appeal to; it is trying to appeal to an older demographic that are fans of Transformers through references and swearing while simultaneously trying to appeal to children through tone and jokes"
+  final_notes: "This movie is a prime example of just using voice actors instead of A-list actors because you should just let the IP sell the movie"
+  overall: "Overall, a movie with some well-executed action sequences and funny moments, but it is a prime example of how you don\'t need an A-list cast to market this movie; the IP will market this movie, and instead, you should use a talented voice actor-led cast"
 }
 release_year: 2024
 review_date: "08/15/2024"
