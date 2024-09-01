@@ -1,0 +1,104 @@
+title: "2001: A Space Odyssey"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Stanley Kubrick"
+    }
+    rating: "TODO"
+    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Keir Dullea"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Gary Lockwood"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    cast {
+      rating: "TODO"
+      comments: "TODO"
+    }
+    rating: "TODO"
+  }
+  story {
+    writer {
+      name: "Stanley Kubrick"
+    }
+    writer {
+      name: "Arthur C. Clarke"
+    }
+    rating: "TODO"
+    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+  }
+  screenplay {
+    writer {
+      name: "Stanley Kubrick"
+    }
+    writer {
+      name: "Arthur C. Clarke"
+    }
+    rating: "TODO"
+    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+  }
+  cinematography {
+    cinematographer {
+      name: "Geoffrey Unsworth"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  editing {
+    editor {
+      name: "Ray Lovejoy"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  sound {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1968
+review_date: "08/29/2024"
+redux: false
+id: 481
+imdb_id: "tt0062622"
+
+* The movie is visually stunning
+* The movie is groundbreaking for not only film but for technology
+* The movie is brilliant in its cinematography and production design as it feels incredibly Kubrick
+* The movie is a little too Avant-Guard (which takes away from it being enjoyable)
+* The movie is incredibly slow (The movie includes so much filler that it really hurts from how enjoyable the movie is)
+* The first half could have been cut in half and it would've been the same film
+* There were some editing slips that hurt how fluid the movie was

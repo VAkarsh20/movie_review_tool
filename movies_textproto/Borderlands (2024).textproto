@@ -1,12 +1,12 @@
 title: "Borderlands"
-rating: 0.1
+rating: 2.6
 review {
   direction {
     director {
       name: "Eli Roth"
     }
     rating: "Terrible"
-    comments: "The direction on a macroscale is terrible as all the action sequences are poorly executed and the world is over-saturated in CGI (though it does look somewhat similiar to the games); the direction on a microscale is terriblely executed; the storytelling is so predictable and lazy; the tension is non-existent; the cut just feels censored and poorly made"
+    comments: "The direction on a macroscale is terrible, as all the action sequences are poorly executed and the world is over-saturated in CGI (though it does look somewhat similar to the games); the direction on a microscale is terribly executed; the storytelling is so predictable and lazy; the tension is nonexistent; the cut just feels censored and poorly made"
   }
   acting {
     performance {
@@ -14,21 +14,21 @@ review {
         name: "Cate Blanchett"
       }
       rating: "Bad"
-      comments: "Puts in like zero effort, maybe because she realized how bad this project was after she signed on; does not embody the main-character at all"
+      comments: "Puts in like zero effort, maybe because she realized how bad this project was after she signed on;  does not embody the main character at all"
     }
     performance {
       actor {
         name: "Kevin Hart"
       }
       rating: "Bad"
-      comments: "Basically plays Kevin Hart, but not well"
+      comments: "It\'s basically Kevin Hart, but not well"
     }
     performance {
       actor {
         name: "Jack Black"
       }
       rating: "Bad"
-      comments: "I did not even know it was possible to make Jack Black unfunny, well Borderlands found a way"
+      comments: "I did not even know it was possible to make Jack Black unfunny; well, Borderlands found a way"
     }
     performance {
       actor {
@@ -42,7 +42,7 @@ review {
         name: "Ariana Greenblatt"
       }
       rating: "Decent"
-      comments: "Will not rate or judge a child-actor's performance, especially if its the director's fault"
+      comments: "Will not rate or judge a child actor\'s performance, especially if it\'s the director\'s fault"
     }
     performance {
       actor {
@@ -55,7 +55,7 @@ review {
         name: "Jamie Lee Curtis"
       }
       rating: "Very Bad"
-      comments: "Makes no sense why she is in this movie and does not have any chemistry with the rest of the cast"
+      comments: "It makes no sense why she is in this movie and does not have any chemistry with the rest of the cast"
     }
     cast {
       rating: "Terrible"
@@ -67,7 +67,7 @@ review {
     writer {
       name: "Eli Roth"
     }
-    rating: "TODO"
+    rating: "Very Bad"
     comments: "The concept is Borderlands, poorly done and 15 years too late; the plot structure is incredibly linear and predictable; character writing is non-existent"
   }
   screenplay {
@@ -77,26 +77,25 @@ review {
     writer {
       name: "Joe Crombie"
     }
-    rating: "TODO"
-    comments: "The dialogue is attricious; they try to hard to be funny, but it just never hits and hurts to hear"
+    rating: "Terrible"
+    comments: "The dialogue is atrocious; they try too hard to be funny, but it just never hits and hurts to hear"
   }
   score {
     composer {
       name: "Steve Jablonsky"
     }
     rating: "Decent"
-    comments: "TODO"
   }
   soundtrack {
     rating: "Bad"
-    comments: "The soundtrack just feels like it's stuck in the 2000s"
+    comments: "The soundtrack just feels like it\'s stuck in the 2000s"
   }
   cinematography {
     cinematographer {
       name: "Rogier Stoffers"
     }
     rating: "Terrible"
-    comments: "Poorly executed; slow frame-rate/slow motion shots were unnecessary and only make the movie worse; the shakey cam in the fight scenes were pointless"
+    comments: "Poorly executed, slow frame-rate/slow motion shots were unnecessary and only made the movie worse; the shaky cam in the fight scenes was pointless"
   }
   editing {
     editor {
@@ -106,19 +105,19 @@ review {
       name: "Evan Henke"
     }
     rating: "Terrible"
-    comments: "One of the major reasons why this movie was so bad; it felt like Borderlands was shot to be R then cut down to be PG-13; they for sure cut out continuity for runtime and rating, and this made the movie unnecessarily fast and convoluted at times"
+    comments: "One of the major reasons why this movie was so bad, it felt like Borderlands was shot to be R then cut down to be PG-13; they for sure cut out continuity for runtime and rating, and this made the movie unnecessarily fast and convoluted at times"
   }
   sound {
     rating: "Very Bad"
-    comments: "Cartoony and poorly done"
+    comments: "Cartoonish and poorly done"
   }
   visual_effects {
     rating: "Very Bad"
-    comments: "Poorly done and oversaturated, though does look a little like the games"
+    comments: "Poorly done and oversaturated, though it does look a little like the games"
   }
   production_design {
     rating: "Very Bad"
-    comments: "Mostly sets, but does look a little like the games"
+    comments: "Mostly sets, but it does look a little like the games"
   }
   makeup {
     rating: "Decent"
@@ -128,11 +127,11 @@ review {
     rating: "Decent"
     comments: "Helped make the characters resemble their video game counterparts"
   }
-  pacing: "Pacing is incredibly fast (which makes most of the movie feel confusing as they cut out meaningful story)"
-  climax: "Climax is so poorly executed that the action-sequence just feels boring"
-  tone: "Tone tries to be very comically video-game, but just falls flat whenever it tries"
-  final_notes: "This movie feels like a prime example of a movie that got stuck in developmental hell and was shot to be Rated R but cut down to be PG-13"
-  overall: "Overall, movie that should have never been made as it has no redeeming qualities; Borderlands is a prime example of a movie that got stuck in development hell for so long that it becomes irrelevant, and an example of a movie that was shot to be Rated R but got cut down to be PG-13"
+  pacing: "Pacing is incredibly fast, which makes most of the movie feel confusing as they cut out meaningful story"
+  climax: "The climax is so poorly executed that the action sequence just feels boring"
+  tone: "Tone tries to be very comically video-game, but it just falls flat whenever it tries"
+  final_notes: "This movie feels like a prime example of a movie that got stuck in developmental hell and was shot to be rated R but cut down to be PG-13"
+  overall: "Overall, a movie that should have never been made as it has no redeeming qualities; Borderlands is a prime example of a movie that got stuck in development hell for so long that it becomes irrelevant and an example of a movie that was shot to be rated R but got cut down to be PG-13"
 }
 release_year: 2024
 review_date: "08/19/2024"

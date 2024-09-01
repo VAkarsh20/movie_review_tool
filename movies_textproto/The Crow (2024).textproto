@@ -1,0 +1,113 @@
+title: "The Crow"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Rupert Sanders"
+    }
+    rating: "TODO"
+    comments: "The direction on a macroscale is not terrible as there are some action sequences that are well executed, but the world building and the other action sequences don't match this level; the direction on a microscale is terrible; the storytelling is so generic and formulaic; the tension is non-existent"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Bill Skarsg\303\245rd"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "FKA Twigs"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Danny Huston"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    cast {
+      rating: "TODO"
+      comments: "TODO"
+    }
+    rating: "TODO"
+  }
+  story {
+    writer {
+      name: "Zach Baylin"
+    }
+    writer {
+      name: "William Schneider"
+    }
+    rating: "TODO"
+    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+  }
+  screenplay {
+    writer {
+      name: "Zach Baylin"
+    }
+    writer {
+      name: "William Schneider"
+    }
+    rating: "TODO"
+    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+  }
+  score {
+    composer {
+      name: "Volker Bertelmann"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  cinematography {
+    cinematographer {
+      name: "Steve Annis[1]"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  editing {
+    editor {
+      name: "Chris Dickens"
+    }
+    editor {
+      name: "Neil Smith"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  sound {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2024
+review_date: "08/29/2024"
+redux: false
+id: 480
+imdb_id: "tt1340094"
