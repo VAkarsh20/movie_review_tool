@@ -13,28 +13,28 @@ review {
       actor {
         name: "Bill Skarsg\303\245rd"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Bad"
+      comments: "Just an emotionless, void performance that is very cringey; does an alright job in the action sequences"
     }
     performance {
       actor {
         name: "FKA Twigs"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Very Bad"
+      comments: "Has no chemistry with Skarsg\303\245rd and shows no emotions or expressions"
     }
     performance {
       actor {
         name: "Danny Huston"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Bad"
+      comments: "Not a good villian and has no chemistry with Skarsg\303\245rd"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Very Bad"
+      comments: "Typical very bad performances in a very bad movie"
     }
-    rating: "TODO"
+    rating: "Very Bad to Bad"
   }
   story {
     writer {
@@ -43,8 +43,8 @@ review {
     writer {
       name: "William Schneider"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Bad"
+    comments: "The concept is just a remake of The Crow; the plot structure is poorly constructed as the movie just feels like exposition for the first hour, so there is barely any action in an 'action' movie; character writing is very bad and shallow"
   }
   screenplay {
     writer {
@@ -53,22 +53,21 @@ review {
     writer {
       name: "William Schneider"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Very Bad"
+    comments: "The dialogue is attricous and not natural at all; the humor is not good; the symbolism is very shallow and forced; the foreshadowing is very bad"
   }
   score {
     composer {
       name: "Volker Bertelmann"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent to Pretty Good"
+    comments: "Helped establish the themes and tones during the darker scenes and action sequences"
   }
   cinematography {
     cinematographer {
-      name: "Steve Annis[1]"
+      name: "Steve Annis"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
   }
   editing {
     editor {
@@ -77,34 +76,28 @@ review {
     editor {
       name: "Neil Smith"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Bad"
   }
   sound {
     rating: "TODO"
     comments: "TODO"
   }
   visual_effects {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
   }
   makeup {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Bad"
+    comments: "Very corny and pretencious"
   }
   costumes {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Bad"
+    comments: "Very corny and pretencious"
   }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing is very slow (especially in the first hour)"
+  climax: "Climax is decently executed from an action standpoint, but does not stick the landing"
+  tone: "Tone is very gothic and pretencious"
+  final_notes: "An example of a movie stuck in developmental hell"
+  overall: "Overall, a very bad gothic action remake that feels like a drag to get through in the first half, but has a couple of action sequnces that are somewhat entertaining (even though that really is it)"
 }
 release_year: 2024
 review_date: "08/29/2024"

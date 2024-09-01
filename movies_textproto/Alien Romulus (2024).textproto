@@ -1,12 +1,12 @@
 title: "Alien: Romulus"
-rating: 0.1
+rating: 7.3
 review {
   direction {
     director {
       name: "Fede \303\201lvarez"
     }
     rating: "Pretty Good"
-    comments: "The direction on a macroscale is good as the horror elements are well executed; the direction on a microscale is decent, but pretty standard; the storytelling is a horror rendition of the original Alien movie (following a similiar template after the exposition); they build tension very well as it makes this movie feel like a true Horror movie as opposed to the previous movies"
+    comments: "The direction on a macroscale is good, as the horror elements are well executed; the direction on a microscale is decent, but pretty standard; the storytelling is a horror rendition of the original Alien movie (following a similar template after the exposition); they build tension very well, as it makes this movie feel like a true horror movie as opposed to the previous movies"
   }
   acting {
     performance {
@@ -14,7 +14,7 @@ review {
         name: "Cailee Spaeny"
       }
       rating: "Pretty Good"
-      comments: "Pretty standard Horror performance and does a pretty good job as the lead"
+      comments: "Pretty standard horror performance and does a pretty good job as the lead"
     }
     performance {
       actor {
@@ -39,11 +39,11 @@ review {
         name: "Spike Fearn"
       }
       rating: "Pretty Bad"
-      comments: "Very typical 'screws loose' British teen"
+      comments: "Very typical \'screws loose\' British teen"
     }
     cast {
       rating: "Decent"
-      comments: "The whole cast captured youth well and played their roles during the horror sequences"
+      comments: "The entire cast captured youth well and played their roles during the horror sequences"
     }
     rating: "Decent to Pretty Good"
   }
@@ -55,7 +55,7 @@ review {
       name: "Rodo Sayagues"
     }
     rating: "Decent"
-    comments: "The concept is stand-alone sequel to the original Alien franchise to feels more like a traditional horror movie; the plot structure takes cues from both horror movies and the original Alien movie; character writing is pretty shallow and feels kinda similiar to the original movie for the protagonist and antagonist (but not as good); the story relies a little too much on the original movie"
+    comments: "The concept is a stand-alone sequel to the original Alien franchise that feels more like a traditional horror movie; the plot structure takes cues from both horror movies and the original Alien movie; character writing is pretty shallow and feels kinda similar to the original movie for the protagonist and antagonist (but not as good); the story relies a little too much on the original movie"
   }
   screenplay {
     writer {
@@ -65,7 +65,7 @@ review {
       name: "Rodo Sayagues"
     }
     rating: "Decent"
-    comments: "The dialogue is decent; the symbolism piggy-backs on the original Alien movie because a lot of the themes and messages are the same; the foreshadowing is pretty good"
+    comments: "The dialogue is decent; the symbolism piggybacks on the original Alien movie because a lot of the themes and messages are the same; the foreshadowing is pretty good"
   }
   score {
     composer {
@@ -94,16 +94,16 @@ review {
   }
   visual_effects {
     rating: "Good"
-    comments: "Helps bring to life the horror sequnces, but the deep-fake technology felt a little tacky"
+    comments: "Helps bring to life the horror sequences, but the deep-fake technology felt a little tacky"
   }
   production_design {
     rating: "Good"
     comments: "Pays homage to the original movie"
   }
-  pacing: "Pacing is pretty fast paced and good for a horror movie"
-  climax: "Climax is executed well but is a little too similiar to the original movie (feeling almost like a shot for shot remake at some points)"
-  tone: "Tone is a blend of horror with sci-fi (something the originial movie tried to do)"
-  final_notes: "Does a pretty good job picking up right where Alien left off (but kinda feels like it relies on it a bit too much)"
+  pacing: "The pacing is pretty fast-paced and good for a horror movie"
+  climax: "Climax is executed well but is a little too similar to the original movie, feeling almost like a shot for shot remake at some points"
+  tone: "Tone is a blend of horror with sci-fi (something the original movie tried to do)"
+  final_notes: "It does a pretty good job picking up right where Alien left off, but it kinda feels like it relies on it a bit too much"
   overall: "Overall, a pretty good movie as this feels like the first Alien film that truly feels like a horror movie, but it relies so much on the original film that it does not feel like Alien: Romulus is adding too much to the story"
 }
 release_year: 2024
