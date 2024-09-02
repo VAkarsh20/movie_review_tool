@@ -1,12 +1,12 @@
 title: "The Crow"
-rating: 0.1
+rating: 3.1
 review {
   direction {
     director {
       name: "Rupert Sanders"
     }
-    rating: "TODO"
-    comments: "The direction on a macroscale is not terrible as there are some action sequences that are well executed, but the world building and the other action sequences don't match this level; the direction on a microscale is terrible; the storytelling is so generic and formulaic; the tension is non-existent"
+    rating: "Very Bad"
+    comments: "The direction on a macroscale is not terrible as there are some action sequences that are well executed, but the world building and the other action sequences do not match this level; the direction on a microscale is terrible; the storytelling is so generic and formulaic; the tension is non-existent"
   }
   acting {
     performance {
@@ -14,25 +14,25 @@ review {
         name: "Bill Skarsg\303\245rd"
       }
       rating: "Bad"
-      comments: "Just an emotionless, void performance that is very cringey; does an alright job in the action sequences"
+      comments: "Just an emotionless, void performance that is very cringey; It does an alright job in the action sequences"
     }
     performance {
       actor {
         name: "FKA Twigs"
       }
       rating: "Very Bad"
-      comments: "Has no chemistry with Skarsg\303\245rd and shows no emotions or expressions"
+      comments: "She has no chemistry with Skarsg\303\245rd and shows no emotions or expressions"
     }
     performance {
       actor {
         name: "Danny Huston"
       }
       rating: "Bad"
-      comments: "Not a good villian and has no chemistry with Skarsg\303\245rd"
+      comments: "Not a good villain and has no chemistry with Skarsg\303\245rd"
     }
     cast {
       rating: "Very Bad"
-      comments: "Typical very bad performances in a very bad movie"
+      comments: "Typical, very bad performances in a very bad movie"
     }
     rating: "Very Bad to Bad"
   }
@@ -44,7 +44,7 @@ review {
       name: "William Schneider"
     }
     rating: "Bad"
-    comments: "The concept is just a remake of The Crow; the plot structure is poorly constructed as the movie just feels like exposition for the first hour, so there is barely any action in an 'action' movie; character writing is very bad and shallow"
+    comments: "The concept is just a remake of The Crow; the plot structure is poorly constructed as the movie just feels like exposition for the first hour, so there is barely any action in an \"action\" movie; character writing is very bad and shallow"
   }
   screenplay {
     writer {
@@ -54,7 +54,7 @@ review {
       name: "William Schneider"
     }
     rating: "Very Bad"
-    comments: "The dialogue is attricous and not natural at all; the humor is not good; the symbolism is very shallow and forced; the foreshadowing is very bad"
+    comments: "The dialogue is atrocious and not natural at all; the humor is not good; the symbolism is very shallow and forced; the foreshadowing is very bad"
   }
   score {
     composer {
@@ -79,25 +79,24 @@ review {
     rating: "Bad"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
   }
   visual_effects {
     rating: "Decent"
   }
   makeup {
     rating: "Bad"
-    comments: "Very corny and pretencious"
+    comments: "Very corny and pretentious"
   }
   costumes {
     rating: "Bad"
-    comments: "Very corny and pretencious"
+    comments: "Very corny and pretentious"
   }
-  pacing: "Pacing is very slow (especially in the first hour)"
+  pacing: "Pacing is very slow, especially in the first hour"
   climax: "Climax is decently executed from an action standpoint, but does not stick the landing"
-  tone: "Tone is very gothic and pretencious"
+  tone: "The tone is very gothic and pretentious"
   final_notes: "An example of a movie stuck in developmental hell"
-  overall: "Overall, a very bad gothic action remake that feels like a drag to get through in the first half, but has a couple of action sequnces that are somewhat entertaining (even though that really is it)"
+  overall: "Overall, a very bad gothic action remake that feels like a drag to get through in the first half, but has a couple of action sequences that are somewhat entertaining (even though that really is it)"
 }
 release_year: 2024
 review_date: "08/29/2024"
