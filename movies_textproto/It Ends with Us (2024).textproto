@@ -5,64 +5,64 @@ review {
     director {
       name: "Justin Baldoni"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Bad"
+    comments: "The direction on a macroscale is incredibly poor for the most part as while he does build the overlaying conflict well in the end, the movie is shrouded in a very bad romance and not great world-building; the creative differences between Baldoni and Lively are very evident on the screen as the movie struggles to choose if it wants to be a light-hearded comedy or a serious movie about a serious topic; the direction on a microscale for the first hour and a half is very bad as the romantic interpersonal scenes feel like a hallmark movie with a bigger bidget, but the final hour is pretty good as it handles the overall sensitive subject well; storytelling is too simple and amauter for such an important subject that it really holds the movie back; they build tension very shallowly for the most part, but it is decent towards the ends"
   }
   acting {
     performance {
       actor {
         name: "Blake Lively"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Bad"
+      comments: "Her emotionless, effortless performance is very hard to watch as it feels like she isn't even trying work with her castmates; while her performance towards the end is a bit more nuanced, I feel like any trained actor could do what she did; it is very evident the controvesy between Baldoni and Lively seeped into filming as there is no on-screen chemistry between the two"
     }
     performance {
       actor {
         name: "Justin Baldoni"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Bad"
+      comments: "Such a shallow, toneless performance that feels like a something out of a Lifetime movie; His line-delivery is incredibly cringey and hard to watch at times; it is very evident the controvesy between Baldoni and Lively seeped into filming as there is no on-screen chemistry between the two"
     }
     performance {
       actor {
         name: "Jenny Slate"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Bad"
+      comments: "Has some emotion throughout the movie but it does not feel like it matches the rest of the cast, but still probably does her best to develop some ounce of chemistry with her castmates"
     }
     performance {
       actor {
         name: "Hasan Minhaj"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Very Bad"
+      comments: "His slapstick, forced comedy really does work in this movie as it is very obvious he isn't reading the room, especially for a movie with a very serious topic"
     }
     performance {
       actor {
         name: "Brandon Sklenar"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "The only person with a somewhat watchable performance as he has some charisma and energy that is needed for the movie and his scenes"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Bad"
+      comments: "Just feels like a Lifetime movie with a bigger budget"
     }
-    rating: "TODO"
+    rating: "Bad"
   }
   story {
     writer {
       name: "Christy Hall"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Very Bad"
+    comments: "The concept is an important topic, its just to movie does a poor job at building this because it shrouds the movie in this cringey, forced romantic-comedy, and while it does do a decent job handling the important subjects, it builds it up in such a simplistic way; the plot structure is alright as it gradually moves forward, while taking some flashbacks to provide backstory into the past, but it feels a little to simplsitic at times; character writing is too shallow for a movie of this magnitude as Lily Blossom Bloom and Ryle are so poorly written, especially with their cringey dialogue"
   }
   screenplay {
     writer {
       name: "Christy Hall"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Very Bad"
+    comments: "The dialogue is attricous as it is so cringey that it becomes hard to watch at times; the humor is so forced that movie becomes unintentially funny; the symbolism is a little too shallow for a movie of this magnitude, but it does steer more in the positive direction; the foreshadowing is, but there are some moments that are carried out well"
   }
   score {
     composer {
@@ -71,15 +71,17 @@ review {
     composer {
       name: "Duncan Blickenstaff"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+  }
+  soundtrack {
+    rating: "Bad"
+    comments: "Made the movie way too feel-good and shallow"
   }
   cinematography {
     cinematographer {
       name: "Barry Peterson"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
   }
   editing {
     editor {
@@ -88,34 +90,17 @@ review {
     editor {
       name: "Robb Sullivan"
     }
-    rating: "TODO"
-    comments: "TODO"
-  }
-  sound {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  visual_effects {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
   }
   costumes {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Bad"
+    comments: "It was very obvious Blake Lively wanted to show off her closet as her wardrobe does not match her character or the scenes shes in at all"
   }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  pacing: "Pacing is decent, it's just the poor writing makes the movie feel like it's moving slower than it actually is"
+  climax: "Climax is executed decently well as this is why the movie starts to hit its stride and actually get a bit more nuacanced when talking about the subject (it's just it feels a little too late)"
+  tone: "Tone is the biggest issue for this movie because it shows the strong creative conflict for this movie; the movie does not know if it wants to be this cutsy Rom-Com or a serious drama about a serious topic"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a bad movie as the creative conflict between Blake Lively and Justin Baldoni really seeps onto the screen because the movie does not know if it wants to be this cutsy Rom-Com or a serious drama about a serious topic; while the latter is somewhat executed well, the former is just so cringey and bad that the movie just feels like a larger budget Lifetime movie"
 }
 release_year: 2024
 review_date: "08/31/2024"

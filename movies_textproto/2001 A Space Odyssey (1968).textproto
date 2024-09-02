@@ -1,12 +1,12 @@
 title: "2001: A Space Odyssey"
-rating: 0.1
+rating: 7.8
 review {
   direction {
     director {
       name: "Stanley Kubrick"
     }
-    rating: "TODO"
-    comments: "The direction on a macroscale is grand and groundbreaking as Kubrick uses his signature style to push the limits what can be seen on the big screen; the direction on a microscale has a lot of the signature Kubrick charm and style, but feels a little to slow and dragged out;  the storytelling is very non-traditional as it really tells 3 differnt stories (resembling an 'Odyssey' across space), but this non-traditional style does take away from the enjoyability aspect because the narrative they do have, is pretty dry; he builds tension incredibly well the movie definitely is a gradual build in tension and anxiety as the movie goes on"
+    rating: "Great"
+    comments: "The direction on a macroscale is grand and groundbreaking as Kubrick uses his signature style to push the limits of what can be seen on the big screen; the direction on a microscale has a lot of the signature Kubrick charm and style, but feels a little too slow and dragged out; the storytelling is very non-traditional as it really tells three different stories (resembling an \"Odyssey\" across space), but this non-traditional style does take away from the enjoyability aspect because the narrative they do have is pretty dry; he builds tension incredibly well, the movie definitely is a gradual build in tension and anxiety as the movie goes on"
   }
   acting {
     performance {
@@ -21,11 +21,11 @@ review {
         name: "Gary Lockwood"
       }
       rating: "Decent to Pretty Good"
-      comments: "Really isn't given that many lines but is fine overall"
+      comments: "Really isn\'t given that many lines, but is fine overall"
     }
     cast {
       rating: "Pretty Good"
-      comments: "Everyone carries out their role well, but the movie really isn't about its acting"
+      comments: "Everyone carries out their role well, but the movie really isn\'t about its acting"
     }
     rating: "Pretty Good"
   }
@@ -37,7 +37,7 @@ review {
       name: "Arthur C. Clarke"
     }
     rating: "Good"
-    comments: "The concept is great as the movie is an odyessy across space to explore what is beyond humanity, while simulatinously showing the flaws of humanity; the plot structure is non-traditional as the movie is treated more like an odyessy with multiple archs, but this is a double edged-sword as it makes you less invested in the stories and characters because of it; character writing is alright, but the only really interesting character is HAL as the rest are really just typical astronauts"
+    comments: "The concept is great, as the movie is an odyssey across space to explore what is beyond humanity, while simultaneously showing the flaws of humanity; the plot structure is non-traditional, as the movie is treated more like an odyssey with multiple arcs, but this is a double-edged sword as it makes you less invested in the stories and characters because of it; character writing is alright, but the only really interesting character is HAL, as the rest are really just typical astronauts"
   }
   screenplay {
     writer {
@@ -47,11 +47,11 @@ review {
       name: "Arthur C. Clarke"
     }
     rating: "Good"
-    comments: "The dialogue is pretty standard for Kubrick and movies from the time period, but does include many iconic lines (especially from HAL); the humor is unintential, but does hit; the symbolism is quite profound as it touches aspects of humanity, AI, science-fiction, and evolution; the foreshadowing is carried out very well (especially as the movie transitions into the final arc)"
+    comments: "The dialogue is pretty standard for Kubrick and movies from the time period, but it does include many iconic lines (especially from HAL); the humor is unintentional, but it does hit; the symbolism is quite profound as it touches aspects of humanity, AI, science fiction, and evolution; the foreshadowing is carried out very well (especially as the movie transitions into the final arc)"
   }
   soundtrack {
     rating: "Great"
-    comments: "Uses a soundtreak instead of a score; helps really paint the scenes and make the movie iconic"
+    comments: "Uses a soundtrack instead of a score; it helps really paint the scenes and make the movie iconic"
   }
   cinematography {
     cinematographer {
@@ -65,15 +65,15 @@ review {
       name: "Ray Lovejoy"
     }
     rating: "Decent"
-    comments: "While the movie does feel professionally cut, there are some edits that I felt really lacked continuity; The movies cut felt a little too elongated as there were many shots and moments that could have been cut (especially in the first half)"
+    comments: "While the movie does feel professionally cut, there are some edits that I felt really lacked continuity; The movie\'s cut felt a little too elongated as there were many shots and moments that could have been cut, especially in the first half"
   }
   sound {
     rating: "Great"
-    comments: "Incredibly deafening as it helps paint the world and the scenes and provides tension"
+    comments: "Incredibly deafening, as it helps paint the world and the scenes and provides tension"
   }
   visual_effects {
     rating: "Brilliant"
-    comments: "Groundbreaking for the time as it pushes the bounds of cinema and technology to create an influential artpiece; helps make the movie visually stunning"
+    comments: "Groundbreaking for its time, as it pushes the bounds of cinema and technology to create an influential art piece; it helps make the movie visually stunning"
   }
   production_design {
     rating: "Incredible"
@@ -81,13 +81,13 @@ review {
   }
   costumes {
     rating: "Good"
-    comments: "Helps capture the setting"
+    comments: "It helps capture the setting"
   }
-  pacing: "Pacing is incredibly slow as it includes so much filler that hurts the enjoyability of this movie; the first half could hav ebeen cut in half and it would've been the same film"
-  climax: "Climax is executed well as it is very tense; the exposition feels a little too long, but is still visually stunning"
-  tone: "Tone is a science-fiction odyseey, mixed with some thriller elements"
-  final_notes: "The movie is a little too Avant-Guard (which takes away from it being enjoyable);"
-  overall: "Overall, an influential film as Kubrick pushes both the bounds of cinema and tehcnology to create a groundbreaking space odyseey, but the incredibly slow pacing, non-traditional narrative style, and filler really hurt how enjoyable this movie can be"
+  pacing: "Pacing is incredibly slow as it includes so much filler that hurts the enjoyability of this movie; the first half could have been cut in half and it would have been the same film"
+  climax: "The climax is executed well, as it is very tense; the exposition feels a little too long, but is still visually stunning"
+  tone: "Tone is a science-fiction odyssey, mixed with some thriller elements"
+  final_notes: "The movie is a little too avant-garde, which takes away from it being enjoyable"
+  overall: "Overall, an influential film as Kubrick pushes both the bounds of cinema and technology to create a groundbreaking space odyssey, but the incredibly slow pacing, non-traditional narrative style, and filler really hurt how enjoyable this movie can be"
 }
 release_year: 1968
 review_date: "08/29/2024"
