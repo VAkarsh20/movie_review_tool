@@ -1,122 +1,111 @@
 title: "Fast Times at Ridgemont High"
-rating: 0.1
+rating: 6.7
 review {
   direction {
     director {
       name: "Amy Heckerling"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Decent to Pretty Good"
+    comments: "The direction on a macroscale is very high-school, hangout movie esque as she does a decent job at building the world; the direction on a microscale is pretty good as the scenes are memorable, but still what you would expect from younger actors; the storytelling is very linear and on-par with other teen movies"
   }
   acting {
     performance {
       actor {
         name: "Sean Penn"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Plays the stoner lead well and steals the scenes he is in with his presense and charisma"
     }
     performance {
       actor {
         name: "Jennifer Jason Leigh"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Plays to the what her character is given"
     }
     performance {
       actor {
         name: "Judge Reinhold"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Leads in his scenes and works well with his castmates"
     }
     performance {
       actor {
         name: "Phoebe Cates"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Does a decent job in her scenes and develops a chemistry with Jason Leigh"
     }
     performance {
       actor {
         name: "Brian Backer"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Plays the nerdy, shy kid decently well"
     }
     performance {
       actor {
         name: "Robert Romanus"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Plays his role decently well and has pretty good chemistry with Backer"
     }
     performance {
       actor {
         name: "Ray Walston"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Plays the typical strict teacher archetype"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Typical teen cast for a high school movie, with no bad performances"
     }
-    rating: "TODO"
+    rating: "Decent"
   }
   story {
     writer {
       name: "Cameron Crowe"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Decent"
+    comments: "The concept is typical to other high school movies, but has more of a hang-out feel as we go through the different storylines; the plot structure is a little non-traditional as we go through multiple storylines that are running in parallel, with some intersections; character writing is pretty standard for a high school movie, though it does create some iconic characters"
   }
   screenplay {
     writer {
       name: "Cameron Crowe"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Pretty Good"
+    comments: "The dialogue is pretty good and overall entertaining; the humor is pretty good; the symbolism is pretty good as it tackles many themes in adolesnce and high school; the foreshadowing is kinda predictable"
+  }
+  soundtrack {
+    rating: "Pretty Good"
+    comments: "Is iconic and helps establish the tone for the movie"
   }
   cinematography {
     cinematographer {
       name: "Matthew F. Leonetti"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
   }
   editing {
     editor {
       name: "Eric Jenkins"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
   }
   production_design {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Helps create that Southern California, 1980s High School feel"
   }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  pacing: "Pacing is pretty good for such a short runtime (and for the number of storylines they go through)"
+  climax: "Climax is decent"
+  tone: "Tone is very Southern California, 1980s High School"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a decent high school movie that is entertaining and served as a launchpoint for many careers"
 }
 release_year: 1982
 review_date: "08/31/2024"
