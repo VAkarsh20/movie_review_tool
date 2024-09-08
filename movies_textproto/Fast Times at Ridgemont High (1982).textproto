@@ -6,7 +6,7 @@ review {
       name: "Amy Heckerling"
     }
     rating: "Decent to Pretty Good"
-    comments: "The direction on a macroscale is very high-school, hangout movie esque as she does a decent job at building the world; the direction on a microscale is pretty good as the scenes are memorable, but still what you would expect from younger actors; the storytelling is very linear and on-par with other teen movies"
+    comments: "The direction on a macroscale is very high-school, hangout movie-esque as she does a decent job at building the world; the direction on a microscale is pretty good as the scenes are memorable, but still what you would expect from younger actors; the storytelling is very linear and on-par with other teen movies"
   }
   acting {
     performance {
@@ -14,14 +14,14 @@ review {
         name: "Sean Penn"
       }
       rating: "Pretty Good"
-      comments: "Plays the stoner lead well and steals the scenes he is in with his presense and charisma"
+      comments: "Plays the stoner lead well and steals the scenes he is in with his presence and charisma"
     }
     performance {
       actor {
         name: "Jennifer Jason Leigh"
       }
       rating: "Decent"
-      comments: "Plays to the what her character is given"
+      comments: "Plays to what her character is given"
     }
     performance {
       actor {
@@ -35,7 +35,7 @@ review {
         name: "Phoebe Cates"
       }
       rating: "Decent"
-      comments: "Does a decent job in her scenes and develops a chemistry with Jason Leigh"
+      comments: "She does a decent job in her scenes and develops chemistry with Jason Leigh"
     }
     performance {
       actor {
@@ -49,7 +49,7 @@ review {
         name: "Robert Romanus"
       }
       rating: "Decent"
-      comments: "Plays his role decently well and has pretty good chemistry with Backer"
+      comments: "He plays his role decently well and has pretty good chemistry with Backer"
     }
     performance {
       actor {
@@ -69,18 +69,18 @@ review {
       name: "Cameron Crowe"
     }
     rating: "Decent"
-    comments: "The concept is typical to other high school movies, but has more of a hang-out feel as we go through the different storylines; the plot structure is a little non-traditional as we go through multiple storylines that are running in parallel, with some intersections; character writing is pretty standard for a high school movie, though it does create some iconic characters"
+    comments: "The concept is typical of other high school movies, but has more of a hang-out feel as we go through the different storylines; the plot structure is a little non-traditional as we go through multiple storylines that are running in parallel, with some intersections; character writing is pretty standard for a high school movie, though it does create some iconic characters"
   }
   screenplay {
     writer {
       name: "Cameron Crowe"
     }
     rating: "Pretty Good"
-    comments: "The dialogue is pretty good and overall entertaining; the humor is pretty good; the symbolism is pretty good as it tackles many themes in adolesnce and high school; the foreshadowing is kinda predictable"
+    comments: "The dialogue is pretty good and overall entertaining; the humor is pretty good; the symbolism is pretty good as it tackles many themes in adolescence and high school; the foreshadowing is kinda predictable"
   }
   soundtrack {
     rating: "Pretty Good"
-    comments: "Is iconic and helps establish the tone for the movie"
+    comments: "It is iconic and helps establish the tone for the movie"
   }
   cinematography {
     cinematographer {
@@ -99,13 +99,13 @@ review {
   }
   production_design {
     rating: "Pretty Good"
-    comments: "Helps create that Southern California, 1980s High School feel"
+    comments: "Helps create that Southern California 1980s high school feel"
   }
-  pacing: "Pacing is pretty good for such a short runtime (and for the number of storylines they go through)"
+  pacing: "Pacing is pretty good for such a short runtime, and for the number of storylines they go through"
   climax: "Climax is decent"
-  tone: "Tone is very Southern California, 1980s High School"
+  tone: "The tone is very Southern California, 1980s high school"
   final_notes: ""
-  overall: "Overall, a decent high school movie that is entertaining and served as a launchpoint for many careers"
+  overall: "Overall, a decent high school movie that is entertaining and served as a launch point for many careers"
 }
 release_year: 1982
 review_date: "08/31/2024"

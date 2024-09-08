@@ -1,0 +1,96 @@
+title: "Shaun of the Dead"
+rating: 8.7
+review {
+  direction {
+    director {
+      name: "Edgar Wright"
+    }
+    rating: "Very Good"
+    comments: "Was able to help progress the movie forward in a very distinct style that is satire of the Zombie genre, also is able to use different editing techniques to make the movie very 00s"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Simon Pegg"
+      }
+      rating: "Good to Very Good"
+      comments: "Played the titular character very well and is able to have other characters bounce off of him to help build jokes; also is able to show different ranges of emotion pretty well"
+    }
+    performance {
+      actor {
+        name: "Nick Frost"
+      }
+      rating: "Good"
+      comments: "Plays the comic relief character pretty well"
+    }
+    cast {
+      rating: "Pretty Good to Good"
+    }
+    rating: "Good"
+  }
+  story {
+    writer {
+      name: "Simon Pegg"
+    }
+    writer {
+      name: "Edgar Wright"
+    }
+    rating: "Very Good"
+    comments: "A nice satire of the zombie genre but is a bit too safe at times (especially the end)"
+  }
+  screenplay {
+    writer {
+      name: "Simon Pegg"
+    }
+    writer {
+      name: "Edgar Wright"
+    }
+    rating: "Very Good"
+    comments: "The different movements and dialogue help move the satire forward and makes it for a very overall funny movie (though it is pretty simplistic in what it is)"
+  }
+  score {
+    composer {
+      name: "Pete Woodhead"
+    }
+    composer {
+      name: "Daniel Mudford"
+    }
+    rating: "Pretty Good"
+  }
+  cinematography {
+    cinematographer {
+      name: "David M. Dunlap"
+    }
+    rating: "Good"
+    comments: "Helps with the different fast-cuts and the side-panning helps it mock the zombie genre with the staple shot"
+  }
+  editing {
+    editor {
+      name: "Chris Dickens"
+    }
+    rating: "Great"
+    comments: "A very polished rendition that helped in showing why the fast-cutting/hip-hop montage were a main-stay in the early 00s"
+  }
+  sound {
+    rating: "Good"
+  }
+  visual_effects {
+    rating: "Pretty Bad"
+    comments: "Felt very low budget and not well done"
+  }
+  makeup {
+    rating: "Pretty Bad"
+    comments: "Felt pretty amateur and low budget when trying to convey the zombies"
+  }
+  plot_structure: "Plot Structure was pretty simplistic and formulaic (though there really was not anything to add or cut)"
+  pacing: "Pacing was consistent and steady"
+  climax: "Build to climax was there and a pivotal part in how the character dealt with the apocalypse; climax was fine but felt very safe and 00s in how it ended"
+  tone: "Tone was very similar to that of satires as is very light-hearted while taking elements of the zombie genre"
+  final_notes: ""
+  overall: "Overall, a very good satire that is a fun laugh as it pokes at the zombie genre in a very unique way, though it can be very simplistic and safe at times"
+}
+release_year: 2004
+review_date: "07/19/2022"
+redux: false
+id: 281
+imdb_id: "tt0365748"

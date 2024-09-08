@@ -1,32 +1,61 @@
 title: "Shaun of the Dead"
-rating: 8.7
+rating: 8.5
 review {
   direction {
     director {
       name: "Edgar Wright"
     }
-    rating: "Very Good"
-    comments: "Was able to help progress the movie forward in a very distinct style that is satire of the Zombie genre, also is able to use different editing techniques to make the movie very 00s"
+    rating: "Good to Very Good"
+    comments: "The direction on a macroscale is very good as he used a distinct style to build a satirical world on the Zombie genre; the direction on a microscale is good as the interpersonal scenes are where both the comedy and themes come out;  has a very distinct storytelling style that satirically mocks both the zombie genre while simultaneously making comments on mundane life; he builds tension in a comedic way to both elicit fear and make fun of the zombie genre at the same time"
   }
   acting {
     performance {
       actor {
         name: "Simon Pegg"
       }
-      rating: "Good to Very Good"
-      comments: "Played the titular character very well and is able to have other characters bounce off of him to help build jokes; also is able to show different ranges of emotion pretty well"
+      rating: "Good"
+      comments: "Played the titular character very well and is able to have other characters bounce off of him to help build jokes; also, he is able to show different ranges of emotion pretty well"
+    }
+    performance {
+      actor {
+        name: "Kate Ashfield"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the female lead well and has good chemistry with Pegg"
     }
     performance {
       actor {
         name: "Nick Frost"
       }
       rating: "Good"
-      comments: "Plays the comic relief character pretty well"
+      comments: "Plays the comic relief character pretty well; has great chemistry with Pegg"
+    }
+    performance {
+      actor {
+        name: "Dylan Moran"
+      }
+      rating: "Decnet"
+      comments: "Plays somewhat of a standoffish character decently well as he makes the most of what he can"
+    }
+    performance {
+      actor {
+        name: "Bill Nighy"
+      }
+      rating: "Pretty Good"
+      comments: "He is an experienced actor and shows this tension as he creates it with Pegg"
+    }
+    performance {
+      actor {
+        name: "Penelope Wilton"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Plays the motherly figure well"
     }
     cast {
-      rating: "Pretty Good to Good"
+      rating: "Decent"
+      comments: "The movie really is about the main cast, and they do a good job playing off of each other"
     }
-    rating: "Good"
+    rating: "Pretty Good"
   }
   story {
     writer {
@@ -35,8 +64,8 @@ review {
     writer {
       name: "Edgar Wright"
     }
-    rating: "Very Good"
-    comments: "A nice satire of the zombie genre but is a bit too safe at times (especially the end)"
+    rating: "Good to Very Good"
+    comments: "The concept is a nice satire on the zombie genre as it makes fun of both the genre and mundane life; the plot structure is pretty standard for a satirical horror movie; character writing is good for Shaun as it shows how Shaun feels like he is stuck in his routine of life, even though he really wants more"
   }
   screenplay {
     writer {
@@ -46,7 +75,7 @@ review {
       name: "Edgar Wright"
     }
     rating: "Very Good"
-    comments: "The different movements and dialogue help move the satire forward and makes it for a very overall funny movie (though it is pretty simplistic in what it is)"
+    comments: "The dialogue is fresh, entertaining, and surprisingly profound for a low-budget horror satire; the humor is good as it helps move the satire forward and makes the movie funny overall; the symbolism is surprisingly present as the movie makes fun of how zombie-like the mundane, routine real world really is; the foreshadowing is good"
   }
   score {
     composer {
@@ -57,40 +86,42 @@ review {
     }
     rating: "Pretty Good"
   }
+  soundtrack {
+    rating: "Pretty Good"
+  }
   cinematography {
     cinematographer {
       name: "David M. Dunlap"
     }
     rating: "Good"
-    comments: "Helps with the different fast-cuts and the side-panning helps it mock the zombie genre with the staple shot"
+    comments: "It helps with the different fast cuts and the side-panning helps it mock the zombie genre with the staple shots"
   }
   editing {
     editor {
       name: "Chris Dickens"
     }
-    rating: "Great"
-    comments: "A very polished rendition that helped in showing why the fast-cutting/hip-hop montage were a main-stay in the early 00s"
+    rating: "Very Good"
+    comments: "A very polished rendition that helped in showing why the fast-cutting/hip-hop montages were a mainstay in the early 2000s by overtly making fun of it"
   }
   sound {
     rating: "Good"
   }
   visual_effects {
-    rating: "Pretty Bad"
-    comments: "Felt very low budget and not well done"
+    rating: "Pretty Good"
+    comments: "Fine for a low-budget"
   }
   makeup {
-    rating: "Pretty Bad"
-    comments: "Felt pretty amateur and low budget when trying to convey the zombies"
+    rating: "Pretty Good"
+    comments: "Pretty good for a low-budget"
   }
-  plot_structure: "Plot Structure was pretty simplistic and formulaic (though there really was not anything to add or cut)"
-  pacing: "Pacing was consistent and steady"
-  climax: "Build to climax was there and a pivotal part in how the character dealt with the apocalypse; climax was fine but felt very safe and 00s in how it ended"
-  tone: "Tone was very similar to that of satires as is very light-hearted while taking elements of the zombie genre"
+  pacing: "Pacing is consistent and steady"
+  climax: "Climax is fine but felt very safe and 2000s in how it ended"
+  tone: "The tone is very satirical and light-hearted while taking in elements of the zombie genre"
   final_notes: ""
-  overall: "Overall, a very good satire that is a fun laugh as it pokes at the zombie genre in a very unique way, though it can be very simplistic and safe at times"
+  overall: "Overall, a very good satire that not only pokes at the zombie genre in a very humorous, unique way, but is social commentary on how zombie-like the mundane real-world routine really is"
 }
 release_year: 2004
-review_date: "07/19/2022"
-redux: false
+review_date: "09/02/2024"
+redux: true
 id: 281
 imdb_id: "tt0365748"

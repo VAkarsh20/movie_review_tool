@@ -1,0 +1,141 @@
+title: "Beetlejuice Beetlejuice"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Tim Burton"
+    }
+    rating: "TODO"
+    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Michael Keaton"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Winona Ryder"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Catherine O\'Hara"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Justin Theroux"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Monica Bellucci"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Jenna Ortega"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Willem Dafoe"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    cast {
+      rating: "TODO"
+      comments: "TODO"
+    }
+    rating: "TODO"
+  }
+  story {
+    writer {
+      name: "Alfred Gough"
+    }
+    writer {
+      name: "Miles Millar"
+    }
+    writer {
+      name: "Seth Grahame-Smith"
+    }
+    rating: "TODO"
+    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+  }
+  screenplay {
+    writer {
+      name: "Alfred Gough"
+    }
+    writer {
+      name: "Miles Millar"
+    }
+    rating: "TODO"
+    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+  }
+  score {
+    composer {
+      name: "Danny Elfman"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  cinematography {
+    cinematographer {
+      name: "Haris Zambarloukos"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  editing {
+    editor {
+      name: "Jay Prychidny"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  sound {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2024
+review_date: "09/07/2024"
+redux: false
+id: 485
+imdb_id: "tt2049403"
