@@ -1,0 +1,109 @@
+title: "Speak No Evil"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "James Watkins"
+    }
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale is pretty good as they build overarching tension in the world well, and has a lot of scenic shots for such a low budget; the direction on microscale is where the movie comes to life as they do a good job capturing the tension and awkwardness between the couple in group scenes, but the interpersonal scenes between the American couple could have been executed a bit better; the storytelling is pretty good as they use tension well to move the story forward; they build tension veyr well as it is a main contributing factor in pushing the story forward, keeping the movie engaging, and showing the conflict between the two couples"
+  }
+  acting {
+    performance {
+      actor {
+        name: "James McAvoy"
+      }
+      rating: "Good"
+      comments: "Really contrls the film as he shows a wide range of emotions into order to swindle and work with the Americna couple"
+    }
+    performance {
+      actor {
+        name: "Mackenzie Davis"
+      }
+      rating: "Pretty Good"
+      comments: "Works well with McAvoy, is a pretty good lead in her scenes, and controls the climax well; does not have that great chemistry with McNairy"
+    }
+    performance {
+      actor {
+        name: "Aisling Franciosi"
+      }
+      rating: "Decent"
+      comments: "Really a submissive performance, but supports McAvoy well"
+    }
+    performance {
+      actor {
+        name: "Alix West Lefler"
+      }
+      rating: "Decent"
+      comments: "Works well with her parents and helps fill the anxious teenager role well"
+    }
+    performance {
+      actor {
+        name: "Dan Hough"
+      }
+      rating: "Decent"
+      comments: "A mute role, but does a pretty good job showing emotion and helping show the conflict"
+    }
+    performance {
+      actor {
+        name: "Scoot McNairy"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Shows a pretty good amount emotion and plays his role well; does not have the best chemistry with Davis"
+    }
+    cast {
+      rating: "Decent"
+      comments: "There really is not a supporting cast, but the main cast works well with each other"
+    }
+    rating: "Pretty Good"
+  }
+  story {
+    writer {
+      name: "James Watkins"
+    }
+    rating: "Decent to Pretty Good"
+    comments: "The concept is interesting for the most part as it really shows why you shouldn't stay in touch with family you meet on vacation, but the climax feels pretty typical to other thrillers and the rationale is kinda lazy; the plot structure is pretty similiar to other thrillers; character writing is pretty good as it hints at the complicated relationships of both couples, and how twisted the antagonists really are, though it would have been great if they provided them more backstory as it felt kinda forced in the climax"
+  }
+  screenplay {
+    writer {
+      name: "James Watkins"
+    }
+    rating: "Pretty Good"
+    comments: "The dialogue is pretty well written as it's witty and flows well; they inject humor very nicely as there are many moments where the movie feels more like a black comedy than a thriller, especially in the first hour; the symbolism is pretty shallow as the rationale for the conflct feels like lazy writting; the foreshadowing is good as it is used well in the climax to explain what is going on and influence the character's decisions, but it also makes it a bit predictable at times"
+  }
+  score {
+    composer {
+      name: "Danny Bensi"
+    }
+    composer {
+      name: "Saunder Jurriaans"
+    }
+    rating: "Decent"
+    comments: "Helps set the tone"
+  }
+  editing {
+    editor {
+      name: "Jon Harris"
+    }
+    rating: "Pretty Good"
+    comments: "Feels polished and used well to build tension in the climax; the elongated scenes also is used well to build an awkward tension between the two families"
+  }
+  sound {
+    rating: "Pretty Good"
+    comments: "Used well to build tension; the awkward silences also help build a sense of cringe when its needed"
+  }
+  production_design {
+    rating: "Pretty Good"
+    comments: "The sets in the european country-side really show the beautity in seclution, and how far away people are from safety and home"
+  }
+  pacing: "Pacing is fine for the most part, but feels a little bit slow in the first hour (could have cut 10-15 to make the movie feel a little tighter)"
+  climax: "Climax was pretty predictable as it was the typical thriller climax, and did not feel like it was doing anything new as there were many moments that felt predictable"
+  tone: "Tone is a mix between black comedy and thriller"
+  final_notes: ""
+  overall: "Overall, a pretty good thriller that masks itself as a black comedy as it does a good job at showing the awkward tension between the two families, but holds itself back by its lazy and predictable writing in the climax; shows why you should never continue to be friends with family you met on vacation"
+}
+release_year: 2024
+review_date: "09/09/2024"
+redux: false
+id: 486
+imdb_id: "tt27534307"

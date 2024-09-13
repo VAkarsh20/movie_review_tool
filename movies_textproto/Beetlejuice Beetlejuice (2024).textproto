@@ -1,12 +1,12 @@
 title: "Beetlejuice Beetlejuice"
-rating: 0.1
+rating: 6.4
 review {
   direction {
     director {
       name: "Tim Burton"
     }
     rating: "Decent to Pretty Good"
-    comments: "The direction on a macroscale does not have the same charm as the original film, but feels more mature and polished, while still having some elements of twisted, dark style he is known for; the direction on a microscale is pretty good as this movie focuses a lot on 1-on-1 scenes, and does a pretty good job at it; the storytelling is a bit of a mess as while it is very Tim Burton, there are too many storylines to juggle"
+    comments: "The direction on a macro scale does not have the same charm as the original film, but feels more mature and polished, while still having some elements of the twisted, dark style he is known for; the direction on a micro scale is pretty good as this movie focuses a lot on one-on-one scenes, and does a pretty good job at it; the storytelling is a bit of a mess as while it is very Tim Burton, there are too many storylines to juggle"
   }
   acting {
     performance {
@@ -14,42 +14,42 @@ review {
         name: "Michael Keaton"
       }
       rating: "Good"
-      comments: "Still has his signature Beetlejuice charm as he picks off right where he left off as he still has his over-the-top raunchy comedic timing"
+      comments: "He still has his signature Beetlejuice charm as he picks up right where he left off; he still has his over-the-top raunchy comedic timing"
     }
     performance {
       actor {
         name: "Winona Ryder"
       }
       rating: "Pretty Good"
-      comments: "Given a bigger role this time, and shows the experience she has gained as she works well with the rest of the cast and shows a pretty good range of emotions"
+      comments: "Given a bigger role this time, and she shows the experience she has gained as she works well with the rest of the cast and shows a pretty good range of emotions"
     }
     performance {
       actor {
         name: "Catherine O\'Hara"
       }
       rating: "Decent to Pretty Good"
-      comments: "Given a more held back role since last time as she isn't as much to work with to show her signature charm; does a pretty good job with the rest of the cast"
+      comments: "Given a more held-back role since last time as she isn\'t as much to work with to show her signature charm; she does a pretty good job with the rest of the cast"
     }
     performance {
       actor {
         name: "Justin Theroux"
       }
       rating: "Decent"
-      comments: "Really feels like he is just there"
+      comments: "It really feels like he is just there"
     }
     performance {
       actor {
         name: "Monica Bellucci"
       }
       rating: "Decent"
-      comments: "Really isn't given that many lines to work with"
+      comments: "Really isn\'t given that many lines to work with"
     }
     performance {
       actor {
         name: "Jenna Ortega"
       }
       rating: "Decent to Pretty Good"
-      comments: "Does a pretty good job in playing a pretencious, emo teen, but she does not show a range of emotions when she needs to"
+      comments: "She does a pretty good job in playing a pretentious, emo teen, but she does not show a range of emotions when she needs to"
     }
     performance {
       actor {
@@ -60,7 +60,7 @@ review {
     }
     cast {
       rating: "Decent"
-      comments: "Does a decent job helping support the main cast"
+      comments: "It does a decent job helping support the main cast"
     }
     rating: "Decent to Pretty Good"
   }
@@ -75,7 +75,7 @@ review {
       name: "Seth Grahame-Smith"
     }
     rating: "Pretty Bad"
-    comments: "The concept is not that original as it does not feel like it adds anything new, mainly becasue there are just too many storylines to go through; the plot structure is a mess as there are multiple storylines that they go through, and do not do a good job explaining any of them; character writing is decent as they do a good amount for legacy characters, but the new characters are not that well written"
+    comments: "The concept is not that original as it does not feel like it adds anything new, mainly because there are just too many storylines to go through; the plot structure is a mess as there are multiple storylines that they go through and do not do a good job explaining any of them; character writing is decent as they do a good amount for legacy characters but the new characters are not that well written"
   }
   screenplay {
     writer {
@@ -85,21 +85,21 @@ review {
       name: "Miles Millar"
     }
     rating: "Pretty Bad"
-    comments: "The dialogue is decent and has some humorous moments, but is not as great as last time; the humor is still over-the-top and raunchy, and while it does hit sometimes, it is not a strong as the last movie; the symbolism is not as strong as it feels forced at times; the foreshadowing is not strong as the movie is pretty predictable"
+    comments: "The dialogue is decent and has some humorous moments, but it is not as great as last time; the humor is still over-the-top and raunchy, and while it does hit sometimes, it is not as strong as the last movie; the symbolism is not as strong as it feels forced at times; the foreshadowing is not strong as the movie is pretty predictable"
   }
   score {
     composer {
       name: "Danny Elfman"
     }
     rating: "Pretty Good"
-    comments: "Continues where he left off as it helps give it that signature Tim Burton charm"
+    comments: "It continues where he left off, as it helps give it that signature Tim Burton charm"
   }
   cinematography {
     cinematographer {
       name: "Haris Zambarloukos"
     }
     rating: "Pretty Good"
-    comments: "Feels pretty polished, but not a groundbreaking and innovative as the last film"
+    comments: "Feels pretty polished, but not as groundbreaking and innovative as the last film"
   }
   editing {
     editor {
@@ -114,7 +114,7 @@ review {
   }
   visual_effects {
     rating: "Decent"
-    comments: "They mix both tacky, campy with modern technology, and while I think it is better than the last movie, it takes away from what Beetlejuice was; I would've like to have seen them either commit to being tacky or being modern"
+    comments: "They mix both tacky, campy with modern technology; and while I think it is better than the last movie, it takes away from what Beetlejuice was; I would have liked to have seen them either commit to being tacky or being modern"
   }
   production_design {
     rating: "Very Good"
@@ -122,17 +122,17 @@ review {
   }
   makeup {
     rating: "Very Good"
-    comments: "Helps bring to life the characters"
+    comments: "Helps bring the characters to life"
   }
   costumes {
     rating: "Very Good"
-    comments: "Helps bring to life the characters"
+    comments: "Helps bring the characters to life"
   }
-  pacing: "Pacing is decent (the problem is there are just too many storylines)"
+  pacing: "Pacing is decent; the problem is that there are just too many storylines"
   climax: "Climax is not that well executed; the resolution feels incredibly unnecessary"
-  tone: "Tone is still very Tim Burton as the movie still feels like a satire on the horror/haunting genre"
+  tone: "The tone is still very Tim Burton, as the movie still feels like a satire on the horror/haunting genre"
   final_notes: ""
-  overall: "Overall, an entertaning watch that brings back an iconic Michael Keaton perfromance as Beetlejuice and a Tim Burton with more experience as a director, but the writing really holds this movie back as it has too many storylines and takes away from a lot of the iconic elements of the first film"
+  overall: "Overall, an entertaining watch that brings back an iconic Michael Keaton performance as Beetlejuice and a Tim Burton with more experience as a director, but the writing really holds this movie back as it has too many storylines and takes away from a lot of the iconic elements of the first film"
 }
 release_year: 2024
 review_date: "09/07/2024"
