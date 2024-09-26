@@ -1,68 +1,104 @@
 title: "Whiplash"
-rating: 9.7
+rating: 0.1
 review {
   direction {
     director {
       name: "Damien Chazelle"
     }
     rating: "Incredible"
+    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
   }
   acting {
     performance {
       actor {
         name: "Miles Teller"
       }
-      rating: "Great"
+      rating: "TODO"
+      comments: "TODO"
     }
     performance {
       actor {
         name: "J. K. Simmons"
       }
-      rating: "Brilliant"
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Paul Reiser"
+      }
+      rating: "TODO"
+      comments: "TODO"
     }
     cast {
-      rating: "Good"
+      rating: "TODO"
+      comments: "TODO"
     }
-    rating: "Very Good to Great"
+    rating: "TODO"
   }
   story {
     writer {
       name: "Damien Chazelle"
     }
-    rating: "Brilliant"
+    rating: "TODO"
+    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
   }
   screenplay {
     writer {
       name: "Damien Chazelle"
     }
-    rating: "Brilliant"
+    rating: "TODO"
+    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
   }
   score {
     composer {
       name: "Justin Hurwitz"
     }
-    rating: "Incredible"
+    rating: "TODO"
+    comments: "TODO"
   }
   cinematography {
     cinematographer {
       name: "Sharone Meir"
     }
-    rating: "Great"
-    comments: "Brilliant use of lighting to establish mood and themes"
+    rating: "TODO"
+    comments: "TODO"
   }
   editing {
     editor {
       name: "Tom Cross"
     }
-    rating: "Incredible"
+    rating: "TODO"
+    comments: "TODO"
   }
-  pacing: "Pacing is Great to Incredible as it gives it a very artsy feel that slowly builds to a brilliant climax"
-  climax: "climax is brilliant as it is filled with symbolism till the very last shot as JKs mouth is covered showing his recognition is all that Andrew needed to think he is one of the greats"
+  sound {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
   final_notes: ""
-  overall: "Overall, one of, if not the best, movies to show the obsession of an artist that wants to make it to the top, stopping at nothing to get there, as they are pushed past their mental breaking point to achieve their goal"
+  overall: "Overall, "
 }
 release_year: 2014
-review_date: "12/24/2020"
-redux: false
+review_date: "09/19/2024"
+redux: true
 id: 172
 imdb_id: "tt2582802"

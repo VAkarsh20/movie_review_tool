@@ -1,0 +1,89 @@
+title: "The Wild Robot"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Chris Sanders"
+    }
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale is good as they build the vast wilderness and use chase and action sequences to show how beatiful and lively it is; the direction on a microscale is very good as the interpersonal moments show the mother-son relationship between the two leads and how Roz develops a friendship with the rest of the animals, especially Fink, despite initially not having any feelings; the storytelling is pretty good as they use emotion a lot to drive the story forward, its just they kinda mismange the story they want to tell in the final 40 minutes; they use emotional well to build tension as you start to build a connection to these characters, especially the main three"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Lupita Nyong\'o"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Shows a pretty good shift from being a monotonous robot to a mother with feelings, but the role only gives her so much to play with"
+    }
+    performance {
+      actor {
+        name: "Pedro Pascal"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Plays the 'comic relief' character decently well and has pretty good chemistry with Nyong\'o, but does not really feel like he that much to the movie"
+    }
+    performance {
+      actor {
+        name: "Kit Connor"
+      }
+      rating: "Decent"
+      comments: "Plays the teenage role well as he represents puburity and the feelings that come with it, especially feeling like an outcaste and not wanting to be with his family; does hit noticable limits when it comes to some of the deeper moments"
+    }
+    cast {
+      rating: "Decent"
+      comments: "The cast is just a typical voice acting cast for an animated movie, did a decent job supporting the main cast"
+    }
+    rating: "Decent to Pretty Good"
+  }
+  story {
+    writer {
+      name: "Chris Sanders"
+    }
+    rating: "Pretty Good"
+    comments: "The concept is pretty interesting as it uses the concept of the robot adapting to the wilderness to touch on complex issues like humanity, mortality, familial relationships, and adolescence; the plot structure is not the best as the movie really builds to this emotional moment towards the middle of the movie, and after the moment, it feels like the movie's emotional energy drags on as it builds to the climax; the character writing is good as Roz is well written to show how the morally neutral robot starts to develop feelings an humanity the more she cares for Bright Bill, ans Bright Bill is written pretty well to serve as a symbol of adolescence and trying to fit in"
+  }
+  screenplay {
+    writer {
+      name: "Chris Sanders"
+    }
+    rating: "Good"
+    comments: "The dialogue is emotional charge and pretty good for the most part, though there are some bland and questionable lines, like when she says she's 'A Wild Robot'; the humor is pretty good as it is surprisingly dark for a family movie; the symbolism is profound as the movie talks about issues like morality, humanity, mortality, adolescence, trying to fit in, and mother-son relationships; the foreshadowing is good and helps tie to movie together in the end"
+  }
+  score {
+    composer {
+      name: "Kris Bowers"
+    }
+    rating: "Good"
+    comments: "Well composed and used very well to help set the tone and build emotions in the more touching parts of the movie"
+  }
+  soundtrack {
+    rating: "Decent"
+    comments: "Feels like a generic, animated movie soundtrack"
+  }
+  editing {
+    editor {
+      name: "Mary Blee"
+    }
+    rating: "Good"
+    comments: "Helped make the movie feel very both high-budget but still rough, in a good way"
+  }
+  sound {
+    rating: "Good"
+    comments: "Used well to help show the world"
+  }
+  animation {
+    rating: "Very Good"
+    comments: "Really enjoyed how the movie carries this polished animated style that Dreamworks has been putting out as it makes the movie feel rough, hand-drawn, and unique"
+  }
+  pacing: "Pacing is an issue for this movie as it is a good pace in the first 20 minutes, jumps to the future and slows down, then even slows down some more after that; the issues with the pacing stem from the plot construction"
+  climax: "Climax is decent, but I just felt very emotionally drained from the middle point of the movie that the build to the climax and the climax itself did not feel fulfilling "
+  tone: "Tone feels like an animated movie that has many flavors with coming-of-age movies"
+  final_notes: ""
+  overall: "Overall, a step in the right direction for Dreamworks as I am a fan of this animation style and felt the movie tackled a lot of complex themes with morality, realtionships, and adolescence, but I felt that it is really held back by its plot construction as the movie has such an emotional climax towards the middle point of the movie that the final 40 minutes does not feel as fulfilling"
+}
+release_year: 2024
+review_date: "09/23/2024"
+redux: false
+id: 487
+imdb_id: "tt29623480"
