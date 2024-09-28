@@ -1,101 +1,93 @@
 title: "Whiplash"
-rating: 0.1
+rating: 9.7
 review {
   direction {
     director {
       name: "Damien Chazelle"
     }
     rating: "Incredible"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    comments: "The direction on a macroscale is incredible as he uses fast editing cuts and pacing to really show the rat-race of striving to be the best, and he does an amazing job using lighting and cinematography to build anxiety and tension; the direction on a microscale is brilliant as the scenes between Simmons and Teller show the complex relationship between the two characters, and how the former gaslights the latter to be the best and pushes beyond a moral boundary to get what he wants; the storytelling is incredible as he uses the ego and mental state of Neiman to really the condifence he has as a drummer and how he pushes imself in silos to get better and appease both Fletcher and himself; he builds tension brilliantly as he uses lighting and anxiety to really show the intensity and villiany of Fletcher, especially in the music scenes as he pushing and gaslights him into being a good player (which is really up for debate if he actually did it for Neiman's best interests)"
   }
   acting {
     performance {
       actor {
         name: "Miles Teller"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Very Good"
+      comments: "What is really needed from the character as he subtly shows the change in ego and personality for the character the more he gains and loses confidence; has great chemistry with Simmons and shows how he is willing to push himself to be the best"
     }
     performance {
       actor {
         name: "J. K. Simmons"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Brilliant"
+      comments: "A ferocious and villianous performance that really pushes the movie to the film forward as crosses many moral boundaries to get what he wants; the way he gaslights and berades his players while similouslously showing 'compassion and care' is so good that you really don't know if Fletcher is really a villian or not (though he leans more into being one); has great chemistry with Teller"
     }
     performance {
       actor {
         name: "Paul Reiser"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Plays the fatherly figure well and has good chemistry with Teller"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Feels like typical low-budget movie supporting cast acting"
     }
-    rating: "TODO"
+    rating: "Great"
   }
   story {
     writer {
       name: "Damien Chazelle"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Brilliant"
+    comments: "The concept is brilliant as it is an excellent interpretation of the obsession of the artist, showing the moral dilemma on the subject and whether or not it worth pursuing greatness as the expense of your sanity; the plot structure is laid out very well; character writing is brilliant Neiman is a symbol for the naive artist striving to achieve it all, with the rise and fall his ego accurately portaying his confidence, and Fletcher is one of the best written characters in cinema with how nuanced he is, being both a villian and someone who pushes Neiman to be better"
   }
   screenplay {
     writer {
       name: "Damien Chazelle"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Brilliant"
+    comments: "The dialogue is incredible as it is sharp and iconic; the humor is really good as it helps paint the tension, and makes Fletcher both evil and hilarious; the symbolism is profound as the movie is about the morality of the obsession of the artist and whether or not it is worth pursing greatness as the expense of your mental health, and Neiman himself is a symbol for the ego of a young adult and how their confidence is easily mailiable by their surrounding factors; the foreshadowing is incredible and makes the climax so well executed and an incredible sendoff for the movie and these characters"
   }
   score {
     composer {
       name: "Justin Hurwitz"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Incredible"
+    comments: "The jazz and drums really give this movie a fast-paced feel that helps increase the intensity of the movie"
+  }
+  soundtrack {
+    rating: "Incredible"
+    comments: "Used in conjunction with the score, instructumental in making the movie iconic as many of these songs are the ones played by the band"
   }
   cinematography {
     cinematographer {
       name: "Sharone Meir"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Incredible"
+    comments: "Uses lighting and angles to really build tension; the fast cuts really help make this movie feel like an anxiety rush"
   }
   editing {
     editor {
       name: "Tom Cross"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Incredible"
+    comments: "The fast cuts really help portay the rat-race in trying to achieve perfection; helps increase the anxiety and tension of the movie"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Incredible"
+    comments: "Helps make the movie feel so polished and interjects music well; used to help build tension and intensity"
   }
   production_design {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Mostly just for the studio band room as I really enjoyed the warm lighting they used"
   }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing is very fast-paced as this helps mimic the rat-race of trying to achieve perfection; the movie slows down in the right moments to really amplify the intensity and anxiety of scenes (especially the playing scenes)"
+  climax: "Climax is exectued perfectly as it shows the journey Andrew goes on and takes control of his career; the final shots really are ambigious and helps leave the movie open to multiple interpretations"
+  tone: "Tone feels like a psychological thriller mixed with music elements"
+  final_notes: "The movie does so much such a small budget of 3 millions; there are some noticable continuity errors with the movie (like how he rents are car when he's only 19 and how the players in the climax are visibly reading music when they are should be playing from memory)"
+  overall: "Overall, the best interpretation of the obession of the artist as there is so much nueance to the message and morals of this movie, like whether or not its worth pushing yourself past your mental breaking point to achieve your goal; the direction, screenplay, score/soundrack, technicals, and performances from Simmons and Teller really make this one of my favorite movies of all time and an excellent example of what you can get acomplished with such a low budget"
 }
 release_year: 2014
 review_date: "09/19/2024"
