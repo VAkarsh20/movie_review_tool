@@ -1,0 +1,128 @@
+title: "Joker: Folie \303\240 Deux"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Todd Phillips"
+    }
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale is great as he uses cinematography and imagery to really paint the screen and build the world; the direction on a microscale is not that strong as it feels like it is kinda rehashing what they did in the last film, and the interpersonal scenes between Phoniex and Gaga were not that amazing; the storytelling is a lot less innovative as last time as they really don't subvert your expectations because the movie just goes through the progressions; the use of music and musical numbers to help tell the story was not that strong as it really only hurt the movie by moving away from what was going on; they build tension well as they still use score and cinematography to help with this, but it feels like this is just using experience from the last film"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Joaquin Phoenix"
+      }
+      rating: "Good to Very Good"
+      comments: "Uses a lot of his experience from playing to role to help define this character and feels like he never left in the more dramatic scenes, but does not really hold his own well in the musical numbers; does not have the best chemistry with Lady Gaga; does not feel like he was given as much runway to work with this time around"
+    }
+    performance {
+      actor {
+        name: "Lady Gaga"
+      }
+      rating: "Good"
+      comments: "Does very well in the music numbers and holds her own well; is not really given that much material to really show off and stand-alone outside of Phoenix's performance; does not have the best chemistry with Phoneix"
+    }
+    performance {
+      actor {
+        name: "Brendan Gleeson"
+      }
+      rating: "Good"
+      comments: "Has a suprisingly charasmatic performance and has good chemistry with Phoneix"
+    }
+    performance {
+      actor {
+        name: "Catherine Keener"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Plays her role well and has good chemistry with Phoneix"
+    }
+    performance {
+      actor {
+        name: "Zazie Beetz"
+      }
+      rating: "Pretty Good"
+      comments: "Really just a cameo"
+    }
+    cast {
+      rating: "Pretty Good"
+      comments: "Supports the main cast well and shows the different faces of Gotham"
+    }
+    rating: "Good"
+  }
+  story {
+    writer {
+      name: "Scott Silver"
+    }
+    writer {
+      name: "Todd Phillips"
+    }
+    rating: "Bad"
+    comments: "The concept is not that great it is not that original, and really just feels like a cash-grab; the movie does not really provide anything new to these characters and just shows why there should not have been a sequel; the idea of having this be a Jukebox musical really kinda back-fired in the end because it did not feel like it was executed well and took away from the charm of first movie; the plot structure is way more linear this time around and pretty predictable, with the interjections in musical numbers being the only thing that deviates from the linear structure; The character writing is not that great this time around as it does not provide any additional depth to Arthur Fleck, it honestly makes his character worse as they took away a lot from what made the character interesting in the first film, and Lee really just feels like an uninteresting interpretation of Harley Quinn; this story really hurts the first movie as the predecessor no longer has an open-for-interpretation ending"
+  }
+  screenplay {
+    writer {
+      name: "Scott Silver"
+    }
+    writer {
+      name: "Todd Phillips"
+    }
+    rating: "Pretty Good"
+    comments: "The dialogue is alright for the most part, but has a lot of corny and cringey lines that really stand out and make the movie feel pretensious; the humor is not as strong this time around, but does have some noteworthy moments; there are so many illusions and homages in this movie as the movie references like 'Singing in the Rain' and 'Psycho' while also referencing important historical trials like Ted Bundy and Billy Milligan, but it does so in a little too overt manner at times; the symbolism is not as strong as the previous movie as there really isn't anything to take away from this movie; the foreshadowing is not as strong as the first movie as they really plant seeds that never come out, kinda subverting our expectations by being predictable this time around"
+  }
+  score {
+    composer {
+      name: "Hildur Gu\303\260nad\303\263ttir"
+    }
+    rating: "Very Good"
+    comments: "Still has a lot of the same themes as the first movie as is still used to create tension, it is just used way less than the first movie"
+  }
+  soundtrack {
+    rating: "Decent"
+    comments: "The song selection was pretty good, it is just the musical numbers were pretty hit or miss; I enjoyed the grand dance sequence numbers that felt like non-sequitors, but felt like the singing in the middle of scenes really took away from the film"
+  }
+  cinematography {
+    cinematographer {
+      name: "Lawrence Sher"
+    }
+    rating: "Incredible"
+    comments: "The best part of the movie as I felt like the cinematography really painted the screen with stunning visuals and was effectively used to display imagery to make this movie feel like an art-piece; some of my favorite shots were the 'Singing in the Rain' reference, the pills making a smile, the smile with the lipstick on the glass, and the courtroom scene where Arthur is out of focus, but you see his face looking at the audience from the video-camera screen; the use of IMAX shots was done well as this was mostly used to show grand sequences, inside Arthur's mind, or the musical numbers; the color grading was really nice in helping show the dark, colorless side of Gotham"
+  }
+  editing {
+    editor {
+      name: "Jeff Groth"
+    }
+    rating: "Great"
+    comments: "Used very well in conjunction with the cinematography to make this movie visually appealing and an art-piece"
+  }
+  sound {
+    rating: "Very Good"
+    comments: "Used well to build tension and show some of th eaction sequences; the constant laughing and distant sounds in the background really helped us feel like we are inside Arthur's mind as he constantly hears thoughts"
+  }
+  visual_effects {
+    rating: "Good"
+    comments: "Helped paint the world of Gotham; the pyrotechnics and practice effects felt fine, but not that suprising"
+  }
+  production_design {
+    rating: "Very Good"
+    comments: "Really enjoyed how they created Gotham (basically New York City) and Arkham Asylum; really enjoyed some of the sets for the musical scenes as they felt like they paid homage to the 50s and 60s; the production design as a whole did not feel as amazing/iconic as the last movie"
+  }
+  makeup {
+    rating: "Very Good"
+    comments: "Helped paint and create the Joker and Harley Quinn"
+  }
+  costumes {
+    rating: "Very Good"
+    comments: "Helped paint and create the Joker and Harley Quinn"
+  }
+  pacing: "Pacing was good for the most part as the movie felt like it was getting through a lot of plot in such a short-runtime; the climax could have been cut a little"
+  climax: "Climax was poorly executed as it felt like it did not end the movie well as it felt like nothing interesting happened; definitely more straight-forward and not as iconic/innovative as the first movie"
+  tone: "Tone is not good as tries to be a musical while simulatniously trying to be a auter-driven pyschological thriller, but the former really hurts the intentions of the latter as it does neither very well"
+  final_notes: "I really felt like this movie wasn't necessary going into the movie and I feel this way even more after watching the movie; this movie just feels like a cash-grab as it does not provide anyhing new or interesting to the universe; the idea of having a sequel really hurts the open-ended nature of the first movie and kinda makes it worse in retrospect"
+  overall: "Overall, "
+}
+release_year: 2024
+review_date: "09/30/2024"
+redux: false
+id: 489
+imdb_id: "tt11315808"
