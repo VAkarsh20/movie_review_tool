@@ -1,12 +1,12 @@
 title: "Megalopolis"
-rating: 0.1
+rating: 3.6
 review {
   direction {
     director {
       name: "Francis Ford Coppola"
     }
     rating: "Very Bad"
-    comments: "The direcion on a macroscale is very as there doesn't feel like there is any clear vision on what he wanted as the imagery on screen feels like it keeps changing style and the visual effects look too tacky for a movie with a 120 million dollar budget; the direction on a microscale is terrible as all the perfromances feel monotonous and all the interpersonal scenes do not feel like they are going anywhere; the storytelling has no direction as they introduce so many plot points that have no context to what is going on, and these plot points never feel like they connect or have closure; he does not build well at all tension"
+    comments: "The direction on a macroscale is very as there doesn\'t feel like there is any clear vision on what he wanted as the imagery on screen feels like it keeps changing style and the visual effects look too tacky for a movie with a 120 million dollar budget; the direction on a microscale is terrible as all the performances feel monotonous and all the interpersonal scenes do not feel like they are going anywhere; the storytelling has no direction as they introduce so many plot points that have no context to what is going on, and these plot points never feel like they connect or have closure; he does not build well at all tension"
   }
   acting {
     performance {
@@ -14,35 +14,35 @@ review {
         name: "Adam Driver"
       }
       rating: "Bad"
-      comments: "Somehow it feels like he never got out of character from 'House of Gucci'"
+      comments: "Somehow, it feels like he never got out of character from \"House of Gucci\""
     }
     performance {
       actor {
         name: "Giancarlo Esposito"
       }
       rating: "Bad"
-      comments: "Feels like he is acting on stage in front of no audience; has bad chemistry with the rest of the cast"
+      comments: "Feels like he is acting on stage in front of no audience;  he has bad chemistry with the rest of the cast"
     }
     performance {
       actor {
         name: "Nathalie Emmanuel"
       }
       rating: "Pretty Good"
-      comments: "Just a bland female lead performance that does not provide anything to the story; has no chemistry with Driver"
+      comments: "Just a bland female lead performance that does not provide anything to the story; it has no chemistry with Driver"
     }
     performance {
       actor {
         name: "Aubrey Plaza"
       }
       rating: "Decent"
-      comments: "The best performance in the movie, which does not really say alot, as it felt like she was the only one having fun acting in this movie"
+      comments: "The best performance in the movie, which does not really say a lot, as it felt like she was the only one having fun acting in this movie"
     }
     performance {
       actor {
         name: "Shia LaBeouf"
       }
       rating: "Bad"
-      comments: "Felt like Coppola's direction to him was to just 'go nuts'; feels like Shia went method acting playing Shia LaBeouf"
+      comments: "Felt like Coppola\'s direction to him was to just \"go nuts\" ; feels like Shia went method acting playing Shia LaBeouf"
     }
     performance {
       actor {
@@ -56,21 +56,21 @@ review {
         name: "Laurence Fishburne"
       }
       rating: "Pretty Bad"
-      comments: "Monotnous and really only here for his narration voice"
+      comments: "Monotonous and really only here for his narration voice"
     }
     performance {
       actor {
         name: "Kathryn Hunter"
       }
       rating: "Pretty Bad"
-      comments: "Does not feel like she was given anything to work with; has no chemistry with Esposito"
+      comments: "Does not feel like she was given anything to work with; she has no chemistry with Esposito"
     }
     performance {
       actor {
         name: "Dustin Hoffman"
       }
       rating: "Pretty Bad"
-      comments: "Feels like he was just in the movie because he missed out getting to work with Coppola in both their primes, and it clearly feels like they are both not their's anymore; just feels like a cameo"
+      comments: "Feels like he was just in the movie because he missed out on getting to work with Coppola in both their primes, and it clearly feels like they are both not theirs anymore; just feels like a cameo"
     }
     cast {
       rating: "Very Bad"
@@ -83,14 +83,14 @@ review {
       name: "Francis Ford Coppola"
     }
     rating: "Very Bad"
-    comments: "The concept is never actually explained as they just throw so many things at the wall, but none of them stick; I still have no idea what the actual conflict was; the plot structure is laid out into chapters, but this does not really do anything to split the movie up;the character writing is very bad as all the characters feel like they were written by either a five year old or a senial old man; Cesar Catilina is given like so many different attributes, but like none of them stick or provide any context to who he is; Mayor Franklyn Cicero is the arch-rival of Cesar Catilina, but is so sterotypically written that is kinda laughable"
+    comments: "The concept is never actually explained as they just throw so many things at the wall, and none of them stick; I still have no idea what the actual conflict was; the plot structure is laid out into chapters, but this does not really do anything to split the movie up; the character writing is very bad as all the characters feel like they were written by either a five year old or a senial old man; Cesar Catilina is given like so many different attributes, but like none of them stick or provide any context to who he is; Mayor Franklyn Cicero is the arch-rival of Cesar Catilina, but is so sterotypically written that is kinda laughable"
   }
   screenplay {
     writer {
       name: "Francis Ford Coppola"
     }
     rating: "Very Bad"
-    comments: "The dialogue is attriocious, but is at least fun bad; the humor is suprisingly somewhat there, but it is mainly becasue of how fun-bad the movie is; they try to inject symbolism into the movie, but I refuse to accept or understand whatever message they were trying to project as the movie is just so poorly written; the foreshadowing is non-existent because of how many ideas they introduced in this movie, with a lot of them never getting closure"
+    comments: "The dialogue is atrocious, but is at least fun bad; the humor is surprisingly somewhat there, but it is mainly because of how fun-bad the movie is; they try to inject symbolism into the movie, but I refuse to accept or understand whatever message they were trying to project as the movie is just so poorly written; the foreshadowing is non-existent because of how many ideas they introduced in this movie, with a lot of them never getting closure"
   }
   score {
     composer {
@@ -104,7 +104,7 @@ review {
       name: "Mihai M\304\203laimare Jr."
     }
     rating: "Decent"
-    comments: "Tacky, but does its job"
+    comments: "Tacky, but it does its job"
   }
   editing {
     editor {
@@ -114,29 +114,29 @@ review {
       name: "Glen Scantlebury"
     }
     rating: "Terrible"
-    comments: "Feels like the movie was edited in movie maker with how stiff the cuts and edits were"
+    comments: "It feels like the movie was edited in Movie Maker with how stiff the cuts and edits were"
   }
   sound {
     rating: "Very Bad"
-    comments: "Feels incrediblely cheap and poorly mixed, making some scenes hard to hear"
+    comments: "Feels incredibly cheap and poorly mixed, making some scenes hard to hear"
   }
   visual_effects {
     rating: "Very Bad"
-    comments: "So tacky and cheap that it makes the movie look incrediblely fake, which is sad considering the budget for this movie"
+    comments: "So tacky and cheap that it makes the movie look incredibly fake, which is sad considering the budget for this movie"
   }
   production_design {
     rating: "Decent"
-    comments: "The sets were pretty intersting and had this futuristic, New York City feel, the problem is that they are just covered in CGI it made it feel incredibly fake in the end"
+    comments: "The sets were pretty interesting and had this futuristic, New York City feel; the problem is that they are just covered in CGI, it made it feel incredibly fake in the end"
   }
   costumes {
     rating: "Good"
-    comments: "I did like the costume design as it felt very lavish and paid homage to the 1920s in a way"
+    comments: "I did like the costume design, as it felt very lavish and paid homage to the 1920s in a way"
   }
-  pacing: "Pacing is incrediblely fast as they go through so much plot that so some has to get dropped by the end of the movie; I feel like shot 4 hours of footage and cut it down to a little over 2 hours"
-  climax: "Climax has some fun-bad momements, but is just so poorly executed and bad that it embolizes what this movie is"
-  tone: "Tone is this pretencious science fiction epic that feels like this futuristic utopian movie, but is just so poorly executed that it becomes a fun-bad comedy"
-  final_notes: "There was no clear direction with this movie as it felt like Coppola was given no notes and just put every idea he had out there on screen; this movie feels like if 'The Room' got a 120 million dollar movie"
-  overall: "Overall, a complete misfire from one of cinema's most respected auters as it feels like Coppola is out of touch with reality, but this movie is fun-bad movie and can be watched for that as it feels like if 'The Room' had a 120 million dollar budget"
+  pacing: "Pacing is incredibly fast as they go through so much plot that some has to get dropped by the end of the movie; I feel like they shot 4 hours of footage and cut it down to a little over 2 hours"
+  climax: "Climax has some fun-bad moments, but is just so poorly executed and bad that it epitomizes what this movie is"
+  tone: "Tone is this pretentious science fiction epic that feels like a futuristic utopian movie, but is just so poorly executed that it becomes a fun-bad comedy"
+  final_notes: "There was no clear direction with this movie, as it felt like Coppola was given no notes and just put every idea he had out there on screen; this movie feels like if \'The Room\' got a $120 million movie."
+  overall: "Overall, a complete misfire from one of cinema\'s most respected auters as it feels like Coppola is out of touch with reality, but this movie is fun-bad movie and can be watched for that becaue it feels like if \'The Room\' had a 120 million dollar budget"
 }
 release_year: 2024
 review_date: "09/29/2024"
