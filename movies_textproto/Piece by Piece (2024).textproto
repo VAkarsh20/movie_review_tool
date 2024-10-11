@@ -1,12 +1,12 @@
 title: "Piece by Piece"
-rating: 0.1
+rating: 7.5
 review {
   direction {
     director {
       name: "Morgan Neville"
     }
-    rating: "TODO"
-    comments: "The direction on a macroscale is unique and interesting as they basically had a narratively driven documentary about Pharrell's life but told it through Legos, and used the Lego animation well to help paint the world and show Pharrell's imagination; the direction on a microscale feels like an interview-style docuemntary, though Pharrell is given space to work with and share his emotions; the storytelling is very similiar to other docuemntaries, though told in a very meta, creative style"
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale is unique and interesting as they basically had a narratively driven documentary about Pharrell\'s life but told it through Legos, and used the Lego animation well to help paint the world and show Pharrell\'s imagination; the direction on a microscale feels like an interview-style documentary, though Pharrell is given space to work with and share his emotions; the storytelling is very similar to other documentaries, though told in a very meta, creative style"
   }
   acting {
     performance {
@@ -14,11 +14,11 @@ review {
         name: "Pharrell Williams"
       }
       rating: "Pretty Good"
-      comments: "Just plays himself as this is more of a documentary than a narrative, but definitely shows his personality"
+      comments: "He just plays himself as this is more of a documentary than a narrative; but it definitely shows his personality"
     }
     cast {
       rating: "Pretty Good"
-      comments: "Really just interviews from people in Pharrell's life and people he worked with"
+      comments: "Really just interviews from people in Pharrell\'s life and people he worked with"
     }
     rating: "Pretty Good"
   }
@@ -36,7 +36,7 @@ review {
       name: "Oscar Vazquez"
     }
     rating: "Pretty Good"
-    comments: "The concept is really interesting as it is a interview style documentary on Pharrell's life, but told through the lens of Lego animation; this movie opens the possibilties of what stories we can told through Lego Animation; the plot structure follows many interview-style documentaries on a subject's life, but it puts a little too much weight in the wrong places that it feels like it runs out of steam towards the end; it is pretty unclear what is actually factual and what is made up for the movie; the present-day conflict between Chad Hugo and Pharrell Williams makes the move has somewhat of an awkward tension between the two characters; the character writing does not really do a great job at showing the ego of Pharrell because they mention it but kinda brush over it, but it does a good job painting how creative he was; story feels a little biased because it was clear Pharrell had a big say in what was in this movie, and how his side was presented"
+    comments: "The concept is really interesting as it is an interview-style documentary on Pharrell\'s life, but told through the lens of Lego animation; this movie opens the possibilities of what stories we can tell through Lego Animation; the plot structure follows many interview-style documentaries on a subject\'s life, but it puts a little too much weight in the wrong places that it feels like it runs out of steam towards the end; it is pretty unclear what is actually factual and what is made up for the movie; the present-day conflict between Chad Hugo and Pharrell Williams makes the movie have somewhat of an awkward tension between the two characters; the character writing does not really do a great job at showing the ego of Pharrell because they mention it but kind of brush over it, but it does a good job painting how creative he was; the story feels a little biased because it was clear Pharrell had a big say in what was in this movie, and how his side was presented"
   }
   screenplay {
     writer {
@@ -52,7 +52,7 @@ review {
       name: "Oscar Vazquez"
     }
     rating: "Decent"
-    comments: "The dialogue is very meta and kinda pretencious at times, but besides that, it feels like any other documentary; the humor is pretty good, with them making a lot of jokes that push the rating limit; the symbolism is decent as the movie is a metaphor on how pieces come togheter to make bigger concepts and aspects of life, why they decided to make this movie with legos; they try to have this political message towards the end of the movie, but there is barely any time life and they kinda just brush over it, so it felt like they had it just to have it without presenting any nuance; the foreshadowing is alright, but kinda predictable if you know Pharrell's life"
+    comments: "The dialogue is very meta and kinda pretentious at times, but besides that, it feels like any other documentary; the humor is pretty good, with them making a lot of jokes that push the rating limit; the symbolism is decent as the movie is a metaphor on how pieces come together to make bigger concepts and aspects of life, why they decided to make this movie with Legos; they try to have this political message towards the end of the movie, but there is barely any time left and they kinda just brush over it, so it felt like they had it just to have it without presenting any nuance; the foreshadowing is alright, but kinda predictable if you know Pharrell\'s life"
   }
   score {
     composer {
@@ -62,11 +62,11 @@ review {
       name: "Michael Andrews"
     }
     rating: "Good"
-    comments: "Helped show Pharrell's personality, and incorporated many of his iconic themes/beats"
+    comments: "Helped show Pharrell\'s personality, and incorporated many of his iconic themes and beats"
   }
   soundtrack {
     rating: "Very Good"
-    comments: "Basically a Pharrell Williams Greatest Hits Album, and had different songs that influeced his childhood"
+    comments: "Basically, a Pharrell Williams Greatest Hits album, and it had different songs that influenced his childhood"
   }
   editing {
     editor {
@@ -82,17 +82,17 @@ review {
   }
   sound {
     rating: "Good"
-    comments: "Incorporated both the music and lego sound effects well"
+    comments: "Incorporated both the music and Lego sound effects well"
   }
   animation {
     rating: "Great"
-    comments: "Loved the animation as it opens up the doors for what stories we can tell with Legos"
+    comments: "Loved the animation, as it opens up the doors for what stories we can tell with Legos"
   }
-  pacing: "Pacing is not the best as it feels like it places too much weight on his childhood and early days that the movie runs out of steam towards the end"
-  climax: "Climax is not that well executed as the movie feels like it kinda runs out of steam towards the last 20 minutes, but there is some closure"
-  tone: "Tone is very documentary in style, with Lego animation flavors"
+  pacing: "Pacing is not the best, as it feels like it places too much weight on his childhood and early days, that the movie runs out of steam towards the end"
+  climax: "The climax is not that well executed as the movie feels like it kind of runs out of steam towards the last 20 minutes; but there is some closure"
+  tone: "The tone is very documentary in style, with Lego animation flavors"
   final_notes: ""
-  overall: "Overall, a pretty good movie that opens the possibilties of what stories we can told through Lego Animation, but is basically a biased documentary on Pharrell Williams' life"
+  overall: "Overall, a pretty good movie that opens the possibilities of what stories we can tell through Lego Animation; but, it is basically a biased documentary on Pharrell Williams\' life"
 }
 release_year: 2024
 review_date: "10/03/2024"

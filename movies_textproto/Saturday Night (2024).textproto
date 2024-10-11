@@ -1,0 +1,208 @@
+title: "Saturday Night"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Jason Reitman"
+    }
+    rating: "TODO"
+    comments: "The direction on a macroscale emblemates the fast-paced chaos that ensued 90 minutes before the airing of the first SNL show, showing all the hoops that needed to be jumped through to get it to air; the direction on a microscale is a bit chaotic as you are never given enough time to really sit with and care for these characters, but this is kinda intentional; the storytelling uses the goal of airing SNL to help drive the story as you see the story progress to this moment, in a very fast-paced chaotic way; tension is built pretty well using the fast paced nature of the movie and how chaotic the subject is"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Gabriel LaBelle"
+      }
+      rating: "Pretty Good"
+      comments: "Holds his own and controls the movie, but he just looks way too young to play this role because Lorne Michaels was 31 when SNL aired and LaBelle is 22; does not have great chemistry with the Sennott, but is decent with the rest of the cast"
+    }
+    performance {
+      actor {
+        name: "Rachel Sennott"
+      }
+      rating: "Decent"
+      comments: "Is fine, but never really separates herself from the rest of the cast and has very neutral chemistry with LaBelle"
+    }
+    performance {
+      actor {
+        name: "Cory Michael Smith"
+      }
+      rating: "Pretty Good"
+      comments: "Portrays Chevy Chase well"
+    }
+    performance {
+      actor {
+        name: "Ella Hunt"
+      }
+      rating: "Decent"
+    }
+    performance {
+      actor {
+        name: "Dylan O\'Brien"
+      }
+      rating: "Pretty Good"
+      comments: "Portrays Dan Aykroyd well"
+    }
+    performance {
+      actor {
+        name: "Matt Wood"
+      }
+      rating: "Pretty Good"
+      comments: "Feels like a carbon copy of John Belushi"
+    }
+    performance {
+      actor {
+        name: "Lamorne Morris"
+      }
+      rating: "Pretty Good"
+      comments: "Shows charisma in his performance"
+    }
+    performance {
+      actor {
+        name: "Kim Matula"
+      }
+      rating: "Pretty Good"
+      comments: "Held her own and builds chemistry well"
+    }
+    performance {
+      actor {
+        name: "Finn Wolfhard"
+      }
+      rating: "Decent"
+      comments: "Feels like a cameo and only in this movie because of his name and pervious experience with Reitman"
+    }
+    performance {
+      actor {
+        name: "Nicholas Braun"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Plays the double role well as there is stark differences between the two characters and he does his best to portray both iconic characters"
+    }
+    performance {
+      actor {
+        name: "Cooper Hoffman"
+      }
+      rating: "Pretty Good"
+      comments: "Looks a little too young for the role, but does a pretty good job and has good chemistry with LaBelle"
+    }
+    performance {
+      actor {
+        name: "Andrew Barth Feldman"
+      }
+      rating: "Pretty Good"
+      comments: "Feels like he is playing the same character from 'No Hard Feelings', and I am here for it"
+    }
+    performance {
+      actor {
+        name: "Kaia Gerber"
+      }
+      rating: "Decent"
+    }
+    performance {
+      actor {
+        name: "Tommy Dewey"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Has charisma in his scenes and really steals the room"
+    }
+    performance {
+      actor {
+        name: "Willem Dafoe"
+      }
+      rating: "Pretty Good"
+      comments: "Feels like a generic Dafoe performance, so pretty good"
+    }
+    performance {
+      actor {
+        name: "Matthew Rhys"
+      }
+      rating: "Pretty Good"
+      comments: "Enjoyed his portrayal of Carlin, but felt he was underutilized"
+    }
+    performance {
+      actor {
+        name: "J. K. Simmons"
+      }
+      rating: "Pretty Good"
+      comments: "Steals the scenes he is in and shows his experience, but is not really in the movie that long"
+    }
+    cast {
+      rating: "Decent"
+      comments: "So much chaos that the background characters are never given enough time to actually plant themselves in the story, but they do a good job showing this chaos behind the scenes"
+    }
+    rating: "Decent to Pretty Good"
+  }
+  story {
+    writer {
+      name: "Gil Kenan"
+    }
+    writer {
+      name: "Jason Reitman"
+    }
+    rating: "Good"
+    comments: "The concept is really interesting as the movie is a 1-to-1 mapping of the 90 minutes before airing the first episode of SNL; the plot structure is laid out well as the movie runtime is a 1-to-1 mapping of the 90 minutes before air, and it uses time wellt to help build tension as it slowly goes closer to air-time; character writing is pretty good as you get a scene of who these famous SNL Players are, who is behind the scenes at SNL, and how Lorne Michael's ambition helps drive this production; there were for sure some things that were made up/rearranged to help make this movie, especially some of the scenes towards the end"
+  }
+  screenplay {
+    writer {
+      name: "Gil Kenan"
+    }
+    writer {
+      name: "Jason Reitman"
+    }
+    rating: "Good"
+    comments: "The dialogue is good, fast-paced, and emblematic of the times; the humor is good as it feels very mature, 70s, and similiar to SNL from this era; the symbolism is somewhat there, with references to Promethius and the builiten; the foreshadowing is somewhat present, but if you know that SNL is on it's 50th season now, you can kinda predict how it ends"
+  }
+  score {
+    composer {
+      name: "Jon Batiste"
+    }
+    rating: "Decent"
+    comments: "Sets the timeperiod and tension"
+  }
+  cinematography {
+    cinematographer {
+      name: "Eric Steelberg"
+    }
+    rating: "Good"
+    comments: "Helps show how everything is moving and Michael's viewpoint"
+  }
+  editing {
+    editor {
+      name: "Nathan Orloff"
+    }
+    editor {
+      name: "Shane Reid"
+    }
+    rating: "Pretty Good"
+    comments: "Feels very 70s and helps piece toghether this mish-mash of story, though some of the edits felt kinda amatuer"
+  }
+  sound {
+    rating: "Pretty Good"
+    comments: "Feels emblematic of the times"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "A lot of practical effects"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "Shows the Rockefeller center and the SNL set"
+  }
+  makeup {
+    rating: "Pretty Good"
+  }
+  costumes {
+    rating: "Pretty Good"
+    comments: "Feels emblematic of the times and costumes used in the first SNL episode"
+  }
+  pacing: "Pacing is incredibly fast to show the chaos before the first SNL taping, but because of this so much plot gets shoved in and you do not have time to sit with any of these characters, but I am fine with this tradeoff"
+  climax: "Climax is little forced and predictable, SNL has been on air for 50 seasons, you can guess what happens in the end"
+  tone: "Tone feels like a better executed 'Steve Jobs' as it uses the entire time for this launch and plays into a lot of the humor strengths of SNL"
+  final_notes: ""
+  overall: "Overall, a pretty good movie that uses its concept of capturing the last 90 minutes before the first SNL epsiode airing well as it is a fast-paced chaotical ride that is really entertaining, but its fast pace does not allow time for you to connect with the characters and it is pretty evident where they made things up"
+}
+release_year: 2024
+review_date: "10/11/2024"
+redux: false
+id: 491
+imdb_id: "tt27657135"
