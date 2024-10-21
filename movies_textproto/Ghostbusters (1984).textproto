@@ -1,0 +1,121 @@
+title: "Ghostbusters"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Ivan Reitman"
+    }
+    rating: "Good"
+    comments: "The direction on a macroscale is good as it establishes the 80s comedy-horror vibe that makes Ghostbusters a classic; the direction on a microscale is good as the interpersonal scenes are where the comedy really comes out, and there is a sense that there is great chemistry within the cast; the storytelling is very linear and 80s; they build tension in a very 80s campy way"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Bill Murray"
+      }
+      rating: "Good to Very Good"
+      comments: "Has amazing charisma and really steals the show in his scenes with his comedic timing"
+    }
+    performance {
+      actor {
+        name: "Dan Aykroyd"
+      }
+      rating: "Good"
+      comments: "Has good comedic timing and great chemistry with Murray and the rest of the cast"
+    }
+    performance {
+      actor {
+        name: "Sigourney Weaver"
+      }
+      rating: "Good"
+      comments: "Plays the female interest well and has good chemistry with Murrary"
+    }
+    performance {
+      actor {
+        name: "Harold Ramis"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Plays the comedic straight man well and has good chemistry with the main Ghostbusters"
+    }
+    performance {
+      actor {
+        name: "Rick Moranis"
+      }
+      rating: "Good"
+      comments: "Plays the nerdy slapstick character well"
+    }
+    cast {
+      rating: "Pretty Good"
+      comments: "The cast as a whole has good comedic timing and good chemistry, both from the main cast and the supporting cast"
+    }
+    rating: "Good"
+  }
+  story {
+    writer {
+      name: "Dan Aykroyd"
+    }
+    writer {
+      name: "Harold Ramis"
+    }
+    rating: "Very Good"
+    comments: "The concept is interesting and iconic; the plot structure is pretty linear and very 80s; character writing is very good as all Ghostbusters as such iconic characters"
+  }
+  screenplay {
+    writer {
+      name: "Dan Aykroyd"
+    }
+    writer {
+      name: "Harold Ramis"
+    }
+    rating: "Good to Very Good"
+    comments: "The dialogue is iconic and filled with memorable lines; the humor is good and really makes this movie a true comedy; the foreshadowing is decently prevelant"
+  }
+  score {
+    composer {
+      name: "Elmer Bernstein"
+    }
+    rating: "Good"
+    comments: "Gives the movie its iconic 80s feel"
+  }
+  soundtrack {
+    rating: "Great"
+    comments: "One of the most iconic theme songs for any movie"
+  }
+  cinematography {
+    cinematographer {
+      name: "L\303\241szl\303\263 Kov\303\241cs"
+    }
+    rating: "Good"
+  }
+  editing {
+    editor {
+      name: "David E. Blewitt"
+    }
+    editor {
+      name: "Sheldon Kahn"
+    }
+    rating: "Good"
+    comments: "A bit dated but good for the time"
+  }
+  sound {
+    rating: "Good"
+  }
+  visual_effects {
+    rating: "Pretty Good"
+    comments: "Very dated in comparison to today's technology, but still good for the time period; the CGI for the ghosts were fine, but looked pretty bad for the 'dogs'; the use of practical effects still holds very well"
+  }
+  costumes {
+    rating: "Great"
+    comments: "Iconic Ghostbusters costumes"
+  }
+  pacing: "Pacing is pretty standard"
+  climax: "Climax is executed well"
+  tone: "Tone is very 80s horor-comedy"
+  final_notes: ""
+  overall: "Overall, an iconic film that personifies the 1980s with its humor, performances, and moments"
+}
+release_year: 1984
+review_date: "10/18/2024"
+redux: false
+id: 494
+imdb_id: "tt0087332"

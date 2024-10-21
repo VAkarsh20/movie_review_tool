@@ -1,12 +1,12 @@
 title: "The Apprentice"
-rating: 0.1
+rating: 4.4
 review {
   direction {
     director {
       name: "Ali Abbasi"
     }
     rating: "Bad"
-    comments: "The direction on a macroscale is not good as it never feels like they established what tone they want for this movie, though I did enjoy the use of cinematography; the direction on a microscale is bad as the interpersonal scenes feel still and full of inexperience/bad dialogue; the storytelling is pretty good in some areas when the story is interesting, but is not good overall as they movie cannot decide on what story it wants to tell"
+    comments: "The direction on a macroscale is not good as it never feels like they established what tone they want for this movie, though I did enjoy the use of cinematography; the direction on a microscale is bad as the interpersonal scenes feel still and full of inexperience/bad dialogue; the storytelling is pretty good in some areas when the story is interesting, but is not good overall as the movie cannot decide on what story it wants to tell"
   }
   acting {
     performance {
@@ -14,14 +14,14 @@ review {
         name: "Sebastian Stan"
       }
       rating: "Pretty Good"
-      comments: "His manerisms and delievery are uncanny to young Trump; does not have good chemistry with the cast"
+      comments: "His mannerisms and delivery as young Trump are uncanny; does not have good chemistry with the cast"
     }
     performance {
       actor {
         name: "Jeremy Strong"
       }
       rating: "Decent to Pretty Good"
-      comments: "A little exaggerted of a performance, but definitely shows his acting experience"
+      comments: "A little exaggerated of a performance, but definitely shows his acting experience"
     }
     performance {
       actor {
@@ -35,11 +35,11 @@ review {
         name: "Martin Donovan"
       }
       rating: "Decent"
-      comments: "Plays the typical weathly father role"
+      comments: "Plays the typical wealthy father role"
     }
     cast {
       rating: "Bad"
-      comments: "A bunch of inexperienced background actors that have poor line delivery"
+      comments: "A bunch of inexperienced background actors who have poor line delivery"
     }
     rating: "Pretty Bad to Decent"
   }
@@ -48,28 +48,28 @@ review {
       name: "Gabriel Sherman"
     }
     rating: "Bad"
-    comments: "The concept is not well definied as it is supposed to be a movie about the relationship between Cohn and Trump, and while it does explore this relationship well in the first hour, the movie transitions into being a Trump biopic for the final 40 minutes; the plot structure is pretty bad as the movie does not know which story it wants to tell; the character writing is bad as it does a very bad job showing how Trump transitions into the egotistical business man he was molded into, it just happens"
+    comments: "The concept is not well defined as it is supposed to be a movie about the relationship between Cohn and Trump; and while it does explore this relationship well in the first hour, the movie transitions into being a Trump biopic for the final 40 minutes; the plot structure is pretty bad as the movie does not know which story it wants to tell; the character writing is bad as it does a very bad job showing how Trump transitions into the egotistical businessman he was molded into, it just happens"
   }
   screenplay {
     writer {
       name: "Gabriel Sherman"
     }
-    rating: "TODO"
-    comments: "The dialogue is very overt and poorly written; the humor is funny because of how bad the dialogue is written, feels like it was written by someone who used Google translate; the symbolism is alright, but not as profound as it is trying to be becasue it has no nuance and is incredibly overt; the foreshadowing is pretty predictable"
+    rating: "Bad"
+    comments: "The dialogue is very overt and poorly written; the humor is funny because of how bad the dialogue is written, feels like it was written by someone who used Google Translate; the symbolism is alright, but not as profound as it is trying to be because it has no nuance and is incredibly overt; the foreshadowing is pretty predictable"
   }
   score {
     composer {
       name: "Martin Dirkov"
     }
     rating: "Decent"
-    comments: "Feels like if we had Succession at home"
+    comments: "It feels like we had Succession at home"
   }
   cinematography {
     cinematographer {
       name: "Kasper Tuxen"
     }
     rating: "Pretty Good"
-    comments: "Helps capture this tube-tv, 1980s feel well"
+    comments: "Helps capture this tube-TV, 1980s feel well"
   }
   editing {
     editor {
@@ -79,21 +79,21 @@ review {
       name: "Olivia Neergaard-Holm"
     }
     rating: "Pretty Bad"
-    comments: "While it does give this movie a 1980s feel, it is not well put together"
+    comments: "While it does give this movie a 1980s feel, it is not well-put together"
   }
   production_design {
     rating: "Good"
-    comments: "Helps capture 1980s NYC"
+    comments: "Helps capture 1980s New York City"
   }
   makeup {
     rating: "Good"
     comments: "Really helps transform Stan into Trump"
   }
-  pacing: "Pacing is not great as the movie feels like its split into two parts, with different pacing"
-  climax: "Climax is very anticlimatic as the plot structure does not build to the ending well"
-  tone: "Tone is a massive problem as the movie never knows what it wants to be"
+  pacing: "Pacing is not great as the movie feels like it\'s split into two parts, with different pacing"
+  climax: "Climax is very anticlimactic as the plot structure does not build to the ending well"
+  tone: "Tone is a massive problem, as the movie never knows what it wants to be"
   final_notes: ""
-  overall: "Overall, a poorly-made movie because the directing and writing present no nuance since the movie does not know what story it wants to tell, it tries to be a movie about Donald Trump and Roy Cohn's relationship but ends up just being a movie about the former; though, Sebastian Stan's performance as young Donald Trump is really spot on that it's uncanny"
+  overall: "Overall, a poorly made movie because the directing and writing present no nuance, since the movie does not know what story it wants to tell; it tries to be a movie about Donald Trump and Roy Cohn\'s relationship, but ends up just being a movie about the former; though, Sebastian Stan\'s performance as young Donald Trump is really spot on, that it\'s uncanny"
 }
 release_year: 2024
 review_date: "10/15/2024"
