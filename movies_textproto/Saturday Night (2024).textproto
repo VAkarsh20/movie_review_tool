@@ -1,12 +1,12 @@
 title: "Saturday Night"
-rating: 0.1
+rating: 7.4
 review {
   direction {
     director {
       name: "Jason Reitman"
     }
-    rating: "TODO"
-    comments: "The direction on a macroscale emblemates the fast-paced chaos that ensued 90 minutes before the airing of the first SNL show, showing all the hoops that needed to be jumped through to get it to air; the direction on a microscale is a bit chaotic as you are never given enough time to really sit with and care for these characters, but this is kinda intentional; the storytelling uses the goal of airing SNL to help drive the story as you see the story progress to this moment, in a very fast-paced chaotic way; tension is built pretty well using the fast paced nature of the movie and how chaotic the subject is"
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale emblemates the fast-paced chaos that ensued 90 minutes before the airing of the first SNL show, showing all the hoops that needed to be jumped through to get it to air; the direction on a microscale is a bit chaotic as you are never given enough time to really sit with and care for these characters, but this is kinda intentional; the storytelling uses the goal of airing SNL to help drive the story as you see the story progress to this moment, in a very fast-paced chaotic way; tension is built pretty well using the fast-paced nature of the movie and how chaotic the subject is"
   }
   acting {
     performance {
@@ -14,14 +14,14 @@ review {
         name: "Gabriel LaBelle"
       }
       rating: "Pretty Good"
-      comments: "Holds his own and controls the movie, but he just looks way too young to play this role because Lorne Michaels was 31 when SNL aired and LaBelle is 22; does not have great chemistry with the Sennott, but is decent with the rest of the cast"
+      comments: "He holds his own and controls the movie, but he just looks way too young to play this role because Lorne Michaels was 31 when SNL aired and LaBelle is 22; he does not have great chemistry with Sennott, but is decent with the rest of the cast"
     }
     performance {
       actor {
         name: "Rachel Sennott"
       }
       rating: "Decent"
-      comments: "Is fine, but never really separates herself from the rest of the cast and has very neutral chemistry with LaBelle"
+      comments: "It is fine, but she never really separates herself from the rest of the cast and has very neutral chemistry with LaBelle"
     }
     performance {
       actor {
@@ -55,7 +55,7 @@ review {
         name: "Lamorne Morris"
       }
       rating: "Pretty Good"
-      comments: "Shows charisma in his performance"
+      comments: "He shows charisma in his performance"
     }
     performance {
       actor {
@@ -69,14 +69,14 @@ review {
         name: "Finn Wolfhard"
       }
       rating: "Decent"
-      comments: "Feels like a cameo and only in this movie because of his name and pervious experience with Reitman"
+      comments: "Feels like a cameo and only in this movie because of his name and previous experience with Reitman"
     }
     performance {
       actor {
         name: "Nicholas Braun"
       }
       rating: "Pretty Good to Good"
-      comments: "Plays the double role well as there is stark differences between the two characters and he does his best to portray both iconic characters"
+      comments: "Plays the double role well as there are stark differences between the two characters, and he does his best to portray both iconic characters"
     }
     performance {
       actor {
@@ -90,7 +90,7 @@ review {
         name: "Andrew Barth Feldman"
       }
       rating: "Pretty Good"
-      comments: "Feels like he is playing the same character from 'No Hard Feelings', and I am here for it"
+      comments: "Feels like he is playing the same character from \"No Hard Feelings\" and I am here for it"
     }
     performance {
       actor {
@@ -103,7 +103,7 @@ review {
         name: "Tommy Dewey"
       }
       rating: "Pretty Good to Good"
-      comments: "Has charisma in his scenes and really steals the room"
+      comments: "He has charisma in his scenes and really steals the room"
     }
     performance {
       actor {
@@ -124,7 +124,7 @@ review {
         name: "J. K. Simmons"
       }
       rating: "Pretty Good"
-      comments: "Steals the scenes he is in and shows his experience, but is not really in the movie that long"
+      comments: "He steals the scenes he is in and shows his experience but is not really in the movie that long"
     }
     cast {
       rating: "Decent"
@@ -140,7 +140,7 @@ review {
       name: "Jason Reitman"
     }
     rating: "Good"
-    comments: "The concept is really interesting as the movie is a 1-to-1 mapping of the 90 minutes before airing the first episode of SNL; the plot structure is laid out well as the movie runtime is a 1-to-1 mapping of the 90 minutes before air, and it uses time wellt to help build tension as it slowly goes closer to air-time; character writing is pretty good as you get a scene of who these famous SNL Players are, who is behind the scenes at SNL, and how Lorne Michael's ambition helps drive this production; there were for sure some things that were made up/rearranged to help make this movie, especially some of the scenes towards the end"
+    comments: "The concept is really interesting as the movie is a 1-to-1 mapping of the 90 minutes before airing the first episode of SNL; the plot structure is laid out well as the movie runtime is a 1-to-1 mapping of the 90 minutes before air, and it uses time well to help build tension as it slowly goes closer to air-time; character writing is pretty good as you get a scene of who these famous SNL Players are, who is behind the scenes at SNL, and how Lorne Michaels\' ambition helps drive this production; there were for sure some things that were made up/rearranged to help make this movie, especially some of the scenes towards the end"
   }
   screenplay {
     writer {
@@ -150,21 +150,21 @@ review {
       name: "Jason Reitman"
     }
     rating: "Good"
-    comments: "The dialogue is good, fast-paced, and emblematic of the times; the humor is good as it feels very mature, 70s, and similiar to SNL from this era; the symbolism is somewhat there, with references to Promethius and the builiten; the foreshadowing is somewhat present, but if you know that SNL is on it's 50th season now, you can kinda predict how it ends"
+    comments: "The dialogue is good, fast-paced, and emblematic of the times; the humor is good as it feels very mature, 70s, and similar to SNL from this era; the symbolism is somewhat there, with references to Prometheus and the bulletin; the foreshadowing is somewhat present, but if you know that SNL is on its 50th season now, you can kinda predict how it ends"
   }
   score {
     composer {
       name: "Jon Batiste"
     }
     rating: "Decent"
-    comments: "Sets the timeperiod and tension"
+    comments: "Sets the time period and tension"
   }
   cinematography {
     cinematographer {
       name: "Eric Steelberg"
     }
     rating: "Good"
-    comments: "Helps show how everything is moving and Michael's viewpoint"
+    comments: "Helps show how everything is moving and Michael\'s viewpoint"
   }
   editing {
     editor {
@@ -174,19 +174,19 @@ review {
       name: "Shane Reid"
     }
     rating: "Pretty Good"
-    comments: "Feels very 70s and helps piece toghether this mish-mash of story, though some of the edits felt kinda amatuer"
+    comments: "Feels very 1970s and helps piece together this mishmash of story; though some of the edits felt kind of amateur"
   }
   sound {
     rating: "Pretty Good"
     comments: "Feels emblematic of the times"
   }
   visual_effects {
-    rating: "TODO"
+    rating: "Decent"
     comments: "A lot of practical effects"
   }
   production_design {
-    rating: "TODO"
-    comments: "Shows the Rockefeller center and the SNL set"
+    rating: "Good"
+    comments: "It shows the Rockefeller Center and the SNL set"
   }
   makeup {
     rating: "Pretty Good"
@@ -195,11 +195,11 @@ review {
     rating: "Pretty Good"
     comments: "Feels emblematic of the times and costumes used in the first SNL episode"
   }
-  pacing: "Pacing is incredibly fast to show the chaos before the first SNL taping, but because of this so much plot gets shoved in and you do not have time to sit with any of these characters, but I am fine with this tradeoff"
-  climax: "Climax is little forced and predictable, SNL has been on air for 50 seasons, you can guess what happens in the end"
-  tone: "Tone feels like a better executed 'Steve Jobs' as it uses the entire time for this launch and plays into a lot of the humor strengths of SNL"
+  pacing: "Pacing is incredibly fast to show the chaos before the first SNL taping; but because of this, so much plot gets shoved in and you do not have time to sit with any of these characters; I am fine with this tradeoff"
+  climax: "Climax is a little forced and predictable; SNL has been on air for 50 seasons; you can guess what happens in the end"
+  tone: "Tone feels like a better executed \"Steve Jobs\" as it uses the entire time for this launch and plays into a lot of the humor strengths of SNL"
   final_notes: ""
-  overall: "Overall, a pretty good movie that uses its concept of capturing the last 90 minutes before the first SNL epsiode airing well as it is a fast-paced chaotical ride that is really entertaining, but its fast pace does not allow time for you to connect with the characters and it is pretty evident where they made things up"
+  overall: "Overall, a pretty good movie that uses its concept of capturing the last 90 minutes before the first SNL episode airing well, as it is a fast-paced, chaotic ride that is really entertaining; but its fast pace does not allow time for you to connect with the characters, and it is pretty evident where they made things up"
 }
 release_year: 2024
 review_date: "10/11/2024"

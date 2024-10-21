@@ -413,7 +413,7 @@ if __name__=="__main__":
 
     argc = len(sys.argv)
 
-    filename = "Inside Out (2015)"
+    filename = "Uncut Gems (2019)"
     proto = read_proto(filename=filename)
 
     print(print_imdb_review(proto, filename))

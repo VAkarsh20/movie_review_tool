@@ -42,9 +42,9 @@ def print_imdb_review(proto, filename):
     
     review_parts = []
     if proto.redux:
-        review_parts.append("REDUX ({})".format(proto.review_date))
+        review_parts.append("REDUX ({})\n".format(proto.review_date))
 
-    review_parts.append("Rating: {}".format(proto.rating))
+    review_parts.append("Rating - {}:".format(proto.rating))
     
     if isinstance(proto, movie_pb2.Movie):
         full_review = _combine_review_field(proto, True)
@@ -77,12 +77,18 @@ def _combine_review_field(proto, is_pretty):
     # Acting
     if proto.review.acting.rating != "":
         acting = []
+        performances = []
         if is_pretty:
-            acting.append("Acting: " + proto.review.acting.rating)
+            acting.append("Acting - " + proto.review.acting.rating)
+            
+            if len(proto.review.acting.performance) > 1:
+                acting[-1] += ": "
             for actor in proto.review.acting.performance:
-                acting.append(_combine_rating_and_comments(actor, actor.actor.name, is_pretty, True))
+                performances.append(_combine_rating_and_comments(actor, actor.actor.name, is_pretty, True))
             if proto.review.acting.cast.rating != "":
-                acting.append(_combine_rating_and_comments(proto.review.acting.cast, "Rest of the cast", is_pretty, True))
+                performances.append(_combine_rating_and_comments(proto.review.acting.cast, "Rest of the cast", is_pretty, True))
+            acting.append(", ".join(performances))
+            
             review.append("\n".join(acting))
         else:
             acting.append(proto.review.acting.rating + " Acting (")
@@ -139,35 +145,35 @@ def _combine_review_field(proto, is_pretty):
     if proto.review.plot_structure != "":
         plot_structure = proto.review.plot_structure
         if is_pretty:
-            plot_structure = "Plot Structure\n" + proto.review.plot_structure
+            plot_structure = "Plot Structure - \n" + proto.review.plot_structure
         review.append(plot_structure)
     
     # Pacing
     if proto.review.pacing != "":
         pacing = proto.review.pacing
         if is_pretty:
-            pacing = "Pacing\n" + proto.review.pacing
+            pacing = "Pacing - " + proto.review.pacing
         review.append(pacing)
 
     # Climax
     if proto.review.climax != "":
         climax = proto.review.climax
         if is_pretty:
-            climax = "Climax\n" + proto.review.climax
+            climax = "Climax - " + proto.review.climax
         review.append(climax)
 
     # Tone
     if proto.review.tone != "":
         tone = proto.review.tone
         if is_pretty:
-            tone = "Tone\n" + proto.review.tone
+            tone = "Tone - " + proto.review.tone
         review.append(tone)
     
     # Final Notes
     if proto.review.final_notes != "":
         final_notes = proto.review.final_notes
         if is_pretty:
-            final_notes = "Final Notes\n" + proto.review.final_notes
+            final_notes = "Final Notes - " + proto.review.final_notes
         review.append(final_notes)
     
     if is_pretty:
@@ -181,14 +187,14 @@ def _combine_rating_and_comments(field, field_name="", is_pretty=False, is_actin
 
     if comments == "":
         if is_pretty:
-            return "{}: {}".format(field_name, rating)
+            return "{} - {}".format(field_name, rating)
         else:
             return "{} {}".format(rating, field_name)
     
     if is_pretty:
         if is_acting:
-            return "{}: {} ({})".format(field_name, rating, comments)
+            return "{} - {} ({})".format(field_name, rating, comments)
         
-        return "{}: {}\n{}".format(field_name, rating, comments)
+        return "{} - {}: \n{}".format(field_name, rating, comments)
     else:
         return "{} {} ({})".format(rating, field_name, comments)

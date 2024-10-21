@@ -1,0 +1,103 @@
+title: "Howl\'s Moving Castle"
+rating: 7.7
+review {
+  direction {
+    director {
+      name: "Hayao Miyazaki"
+    }
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale is very grand and beautiful as his signature style creates this stunning world; the direction on a microscale is fine, pretty typical to other Ghibli movies; the storytelling feels more linear thsi time around as there is a clear story arc"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Emily Mortimer"
+      }
+      rating: "Pretty Good"
+    }
+    performance {
+      actor {
+        name: "Jean Simmons"
+      }
+      rating: "Pretty Good"
+    }
+    performance {
+      actor {
+        name: "Christian Bale"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Holds his own as Howl, but feels like he has the same tone throughout the movie; shows glimpses as Batman"
+    }
+    performance {
+      actor {
+        name: "Lauren Bacall"
+      }
+      rating: "Decent"
+    }
+    performance {
+      actor {
+        name: "Billy Crystal"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Mike Wazowski"
+    }
+    performance {
+      actor {
+        name: "Josh Hutcherson"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Plays the child role well"
+    }
+    cast {
+      rating: "Decent"
+      comments: "For English Dub; Typical background voice actors"
+    }
+    rating: "Decent to Pretty Good"
+  }
+  story {
+    writer {
+      name: "Hayao Miyazaki"
+    }
+    rating: "Good"
+    comments: "The concept is good as the movie is a allegory for the US invasion of Iraq, though it is a bit overt at times about it; the plot structure is laid out well as the movie is pretty linear; flow between sequences is; character writing is good as you do care for these characters and what they want, especially Sophie and Howl"
+  }
+  screenplay {
+    writer {
+      name: "Hayao Miyazaki"
+    }
+    rating: "Pretty Good"
+    comments: "The dialogue is pretty good and standard, for English Dub; the humor keeps the movie pretty light-hearted; the symbolism is evident as the movie is a giant allegory for the US invasion of Iraw, even though it can be a bit overt at times; the foreshadowing is decently prevelant"
+  }
+  score {
+    composer {
+      name: "Joe Hisaishi"
+    }
+    rating: "Great"
+    comments: "Helps make this movie feel very Ghibli and feel like an art-piece; great in its own-right outside of the film"
+  }
+  editing {
+    editor {
+      name: "Takeshi Seyama"
+    }
+    rating: "Good"
+    comments: "Makes the movie feel polished and like an art-piece"
+  }
+  sound {
+    rating: "Pretty Good"
+    comments: "Typical Ghibli sound"
+  }
+  animation {
+    rating: "Great"
+    comments: "The movie is visually stunning and shows why Miyazaki and Ghibli are key influences for bringing eastern animation to the western world"
+  }
+  pacing: "Pacing is pretty good for the most part, slows down a bit towards the end"
+  climax: "Climax is the best as it feels kinda forced to be feel-good, an issue I have with a lot of Ghibli movies"
+  tone: "Tone is very similiar to other Ghibli movies"
+  final_notes: "Watched English Dub"
+  overall: "Overall, a pretty good movie that uses stunning Ghibli animation to create an allegory about the US invasion of Iraq, but the movie is held back by its ending being too safe and feel-good"
+}
+release_year: 2004
+review_date: "10/11/2024"
+redux: false
+id: 492
+imdb_id: "tt0347149"
