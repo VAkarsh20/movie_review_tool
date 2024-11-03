@@ -1,0 +1,124 @@
+title: "Throne of Blood"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Akira Kurosawa"
+    }
+    rating: "TODO"
+    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Toshiro Mifune"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Isuzu Yamada"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Takashi Shimura"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    cast {
+      rating: "TODO"
+      comments: "TODO"
+    }
+    rating: "TODO"
+  }
+  story {
+    writer {
+      name: "Shinobu Hashimoto"
+    }
+    writer {
+      name: "Ry\305\253z\305\215 Kikushima"
+    }
+    writer {
+      name: "Akira Kurosawa"
+    }
+    writer {
+      name: "Hideo Oguni"
+    }
+    rating: "TODO"
+    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+  }
+  screenplay {
+    writer {
+      name: "Shinobu Hashimoto"
+    }
+    writer {
+      name: "Ry\305\253z\305\215 Kikushima"
+    }
+    writer {
+      name: "Akira Kurosawa"
+    }
+    writer {
+      name: "Hideo Oguni"
+    }
+    rating: "TODO"
+    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+  }
+  score {
+    composer {
+      name: "Masaru Sato"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  cinematography {
+    cinematographer {
+      name: "Asakazu Nakai"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  editing {
+    editor {
+      name: "Akira Kurosawa"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  sound {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 1957
+review_date: "10/27/2024"
+redux: false
+id: 501
+imdb_id: "tt0050613"
+
+* Retrospective at Austin Film Festival

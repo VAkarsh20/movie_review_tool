@@ -1,12 +1,12 @@
 title: "We Live in Time"
-rating: 0.1
+rating: 6.4
 review {
   direction {
     director {
       name: "John Crowley"
     }
     rating: "Decent"
-    comments: "The direction on a macroscale is decent, feels like a little more polished Rom-Com; the direction on a microscale is good as this is where you really see the rom-com elements and the chemistry between Garfield and Pugh; the storytelling is interesting for the most part as it tells three stories from the couple's lives in parallel, but this storyelling style gets disregarded in the final 40 minutes and the movie goes back to being a generic rom-com"
+    comments: "The direction on a macroscale is decent, it feels like a little more polished rom-com; the direction on a microscale is good as this is where you really see the rom-com elements and the chemistry between Garfield and Pugh; the storytelling is interesting for the most part as it tells three stories from the couple\'s lives in parallel, but this storytelling style gets disregarded in the final 40 minutes and the movie goes back to being a generic rom-com"
   }
   acting {
     performance {
@@ -14,14 +14,14 @@ review {
         name: "Andrew Garfield"
       }
       rating: "Good"
-      comments: "Well experienced performance and has good chemistry with Pugh"
+      comments: "Well-experienced performance and has good chemistry with Pugh"
     }
     performance {
       actor {
         name: "Florence Pugh"
       }
       rating: "Good"
-      comments: "Well experienced performance and has good chemistry with Garfield"
+      comments: "Well-experienced performer and has good chemistry with Garfield"
     }
     cast {
       rating: "Pretty Good"
@@ -33,29 +33,29 @@ review {
     writer {
       name: "Nick Payne"
     }
-    rating: "Decent to Pretty Good"
-    comments: "The concept is interesting for the most part because it looks at 3 arcs of a couple's relationship, but they disregard this concept in the last 40 minutes as they basically just focus on the present story; the plot structure follows three separate story arcs in a couple's relationship for the first hour, but then follows the the present day storyline for the final 40 minutes; character writing is alright as the female lead has some depth to her, but overall these characters are not that memorable"
+    rating: "Decent"
+    comments: "The concept is interesting for the most part because it looks at three arcs of a couple\'s relationship, but they disregard this concept in the last 40 minutes as they basically just focus on the present story; the plot structure follows three separate story arcs in a couple\'s relationship for the first hour, but then follows the present day storyline for the final 40 minutes; character writing is alright as the female lead has some depth to her, but overall these characters are not that memorable"
   }
   screenplay {
     writer {
       name: "Nick Payne"
     }
     rating: "Decent"
-    comments: "The dialogue is pretty good and polished, but not that memorable; the humor is typical to other Rom-Coms; the symbolism is present as it revolves around this relationship and the importance of living in the moment; the foreshadowing is present in that events from the past story arcs lead into the present"
+    comments: "The dialogue is pretty good and polished, but not that memorable; the humor is typical of other rom-coms; the symbolism is present as it revolves around this relationship and the importance of living in the moment; the foreshadowing is present in that events from the past story arcs lead into the present"
   }
   score {
     composer {
       name: "Bryce Dessner"
     }
     rating: "Pretty Good"
-    comments: "Helps establish the tone and is used well; pretty good composition overall"
+    comments: "Helps establish the tone and is used well;  Pretty good composition overall"
   }
   cinematography {
     cinematographer {
       name: "Stuart Bentley"
     }
     rating: "Pretty Good"
-    comments: "Has a lot of interesting and cool shots"
+    comments: "It has a lot of interesting and cool shots"
   }
   editing {
     editor {
@@ -64,11 +64,11 @@ review {
     rating: "Pretty Good"
     comments: "Seems polished and helps show how the three stories are connected"
   }
-  pacing: "Pacing is fine for the most part as you are going through these three different timelines, but feels a bit slow in the end as they solely focus on the present day story"
-  climax: "Climax is not really that interesting as they threw away what made the movie interesting just to focus on the present day, and the ending to the present day storyline was decent at best"
-  tone: "Tone is very similiar to other Rom-Coms"
-  final_notes: "There really isn't anything in this movie that makes it that memorable"
-  overall: "Overall, a decent Rom-Com with an interesting concept and good performances from Andrew Garfield and Florence Pugh, but there really isn't anything in this movie that makes it that memorable, especailly considering they throw away this intersting concept for the last 40 minutes"
+  pacing: "Pacing is fine for the most part as you are going through these three different timelines, but feels a bit slow in the end as they solely focus on the present-day story"
+  climax: "The climax is not really that interesting as they threw away what made the movie interesting just to focus on the present day; the ending to the present day storyline was decent at best"
+  tone: "Tone is very similar to other rom-coms"
+  final_notes: "There really isn\'t anything in this movie that makes it memorable"
+  overall: "Overall, a decent rom-com with an interesting concept and good performances from Andrew Garfield and Florence Pugh; but there really isn\'t anything in this movie that makes it that memorable, especially considering they throw away this interesting concept for the last 40 minutes"
 }
 release_year: 2024
 review_date: "10/21/2024"

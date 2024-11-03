@@ -1,0 +1,144 @@
+title: "The Piano Lesson"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Malcolm Washington"
+    }
+    rating: "Pretty Bad"
+    comments: "The direction on a macroscale feels very amatuer and not that well executed; the direction on a microscale is fine as it mimics other August Wilson movies in that it allows the actors to act with minimal intervention, similiar to a play; the storytelling is a bit muddy as they did not know what tone they wanted to go with throughout the movie; tension is not built that well because they try to force this horror, ghost story that is not that well executed"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Samuel L. Jackson"
+      }
+      rating: "Good"
+      comments: "Feels like he pulls a lot from his experience as an actor and in this role, but does not feel like he is used as much as he should have been"
+    }
+    performance {
+      actor {
+        name: "John David Washington"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Plays the lead role decently well as this character feels like it plays to his strengths as an actor"
+    }
+    performance {
+      actor {
+        name: "Ray Fisher"
+      }
+      rating: "Pretty Bad"
+      comments: "Really feels off in comparsion to the rest of the cat as his comedic humor feels very forced"
+    }
+    performance {
+      actor {
+        name: "Michael Potts"
+      }
+      rating: "Pretty Good to Good"
+    }
+    performance {
+      actor {
+        name: "Erykah Badu"
+      }
+      rating: "Pretty Good"
+    }
+    performance {
+      actor {
+        name: "Skylar Aleece Smith"
+      }
+      rating: "Pretty Good"
+    }
+    performance {
+      actor {
+        name: "Danielle Deadwyler"
+      }
+      rating: "Very Good"
+      comments: "Steals the show in all her scenes as she shows a wide range of emotions and accurately displays a mother trying to hold onto her family and ancestory"
+    }
+    performance {
+      actor {
+        name: "Corey Hawkins"
+      }
+      rating: "Good"
+      comments: "Plays his role well and has good chemistry with Deadwyler"
+    }
+    cast {
+      rating: "Pretty Good to Good"
+      comments: "The cast as a whole works well together it was evident that the director let the actors act in a way similiar to the play"
+    }
+    rating: "Pretty Good to Good"
+  }
+  story {
+    writer {
+      name: "Virgil Williams"
+    }
+    writer {
+      name: "Malcolm Washington"
+    }
+    rating: "Decent"
+    comments: "The concept deviates from the original play and makes the movie an unnessary supernatural ghost story, which kinda hurts the story dealing with the generational trauma from their ancestors; the plot structure is nothing special; the character writing is not that great because they keep introducing many characters and do not do a good job providing them backstory to make you root for them, except for maybe Deadwyler's character"
+  }
+  screenplay {
+    writer {
+      name: "Virgil Williams"
+    }
+    writer {
+      name: "Malcolm Washington"
+    }
+    rating: "Good"
+    comments: "The dialogue is very authentic to the source material and other August Wilson works; the humor is pretty true to other August Wilson works; the symbolism is profound as the whole movie deals with generational trauma this family has dealt with from slavery and racism; the foreshadowing is present, but kinda expected"
+  }
+  score {
+    composer {
+      name: "Alexandre Desplat"
+    }
+    rating: "Decent"
+    comments: "Used decently well throughout the movie; for a movie called 'The Piano Lesson' it would have been great to have at least heard one piano motif throughout the movie, so not having this feels like a wasted oppuruntity"
+  }
+  cinematography {
+    cinematographer {
+      name: "Mike Gioulakis"
+    }
+    rating: "Pretty Bad"
+    comments: "Felt pretty amauter and not that well executed, especailly in the climax"
+  }
+  editing {
+    editor {
+      name: "Leslie Jones"
+    }
+    rating: "Pretty Bad"
+    comments: "Felt pretty amauter"
+  }
+  sound {
+    rating: "TODO"
+    comments: "Helps enhance those horror elements"
+  }
+  visual_effects {
+    rating: "Pretty Bad"
+    comments: "Felt pretty tacky"
+  }
+  production_design {
+    rating: "Good"
+    comments: "Felt authentic to the time period"
+  }
+  costumes {
+    rating: "Good"
+    comments: "Felt authentic to the time period"
+  }
+  pacing: "Pacing is pretty slow as it tries to mimic the play in pacing"
+  climax: "Climax is chaotic and poorly executed; the ending felt very anticlimactic"
+  tone: "Tone is big issue for this movie because there never felt like there was a consistent tone as they tried to make this movie both a historical drama and a ghost story; they tried to do a lot of things and couldn't do any of them well"
+  final_notes: "Saw premeire at Austin Film Festival"
+  overall: "Overall, a film very similiar to other August Wilson works as it uses authentic dialogue and good acting, especially from Danielle Deadwyler, to tell a profound story, but the movie is held back by its amatuer filmmaking and inconsisent tone"
+}
+release_year: 2024
+review_date: "10/24/2024"
+redux: false
+id: 496
+imdb_id: "tt15507512"
+
+* Amatuer directing
+* Amatuer Editing
+* Amatuer Cinematography
+* Chaotic Climax
+* 
