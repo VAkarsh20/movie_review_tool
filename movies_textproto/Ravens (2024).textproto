@@ -5,64 +5,57 @@ review {
     director {
       name: "Mark Gill"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale is artistic and polished; the direction on a microscale is pretty good for the most part as the scenes between characters are really engageing, the scenes with the Raven are poorly executed and tacky; the storytelling is clear and unique, besides the raven moments"
   }
   acting {
     performance {
       actor {
         name: "Tadanobu Asano"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Really immerses himself in the role as he shows how the protagonist is a tortured artist"
     }
     performance {
       actor {
         name: "Sôsuke Ikematsu"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent to Pretty Good"
+      comments: "Supports Asano well as his apprentice/assistant, but really is not given that much material to work with on his own"
     }
     performance {
       actor {
         name: "Kumi Takiuchi"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Plays a support role well to Asano as the two have good chemistry"
     }
     performance {
       actor {
         name: "Kanji Furutachi"
       }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Gô Jibiki"
-      }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent to Pretty Good"
+      comments: "Shows the distance between the father and son of the movie well as he helps create tension with his scenes with Asano"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Supports the main cast well decently well; the action from the raven was not that great as their scenes felt very forced due to the lack of chemistry"
     }
-    rating: "TODO"
+    rating: "Pretty Good"
   }
   story {
     writer {
       name: "Mark Gill"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Good to Very Good"
+    comments: "The concept is good as it goes through the life of tortured photographer Masahisa Fukase; the plot structure is very good as it does a good job jumping between the past and the present to tell Fukase's story; character writing is good as they do a good painting Masahisa Fukase as this troubled artist and how those around him are effected by it, but the writing for the Raven is pretty bad"
   }
   screenplay {
     writer {
       name: "Mark Gill"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Good"
+    comments: "The dialogue is polished and profound, but the english dialogue for the Raven was not good an unnecessary; the humor is present and helps lighten the tone; the symbolism is very profound as the Raven symbolizes the darkness for the protagonist, but these aspects for the movie were not that well executed; the foreshadowing is profound as the plot structure for the movie really heightens the importance of foreshadowing to tell the story"
   }
   score {
     composer {
@@ -71,15 +64,15 @@ review {
     composer {
       name: "Théophile Moussouni"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Helped give the movie an artsy feel"
   }
   cinematography {
     cinematographer {
       name: "Fernando Ruiz"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Polished and well executed; feels like it is from the perspective of a photographer/camera"
   }
   editing {
     editor {
@@ -88,27 +81,21 @@ review {
     editor {
       name: "Frank Moderna"
     }
-    rating: "TODO"
-    comments: "TODO"
-  }
-  sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Polished and well executed; seamlessly shows the photos from the photographer"
   }
   visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Bad"
+    comments: "Pretty tacky with how it incorporates the raven"
   }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing is fine as the slower pace helps you sit with and get to know these characters"
+  climax: "Climax is executed well"
+  tone: "Tone feels like an artsy biopic"
+  final_notes: "Saw world premiere at Austin Film Festival"
+  overall: "Overall, a pretty good biopic on Japanese photographer Masahisa Fukase as the film is a polished execution depicting the tortured artist, but the scenes with raven are pretty unnecessary and draw away from the storytelling"
 }
 release_year: 2024
 review_date: "10/25/2024"
 redux: false
 id: 498
 imdb_id: "tt10974574"
-
-* World Premeire at Austin Film Festival
