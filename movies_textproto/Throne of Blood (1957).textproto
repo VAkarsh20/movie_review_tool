@@ -6,7 +6,7 @@ review {
       name: "Akira Kurosawa"
     }
     rating: "Pretty Good"
-    comments: "The directio on a macroscale has a distinct style that feels like it was pushing the limitations of filmmaking during the 1950s; the directio on a microscale is fine, but feels a bit choppy given that that was what was available in terms of acting and editing during the 1950s; the storytelling is good as it is a Japanese redition of 'Macbeth'; they build tension well to show the internal conflict for Macbeth"
+    comments: "The direction on a macroscale has a distinct style that feels like it was pushing the limitations of filmmaking during the 1950s; the direction on a microscale is fine, but feels a bit choppy given that that was what was available in terms of acting and editing during the 1950s; the storytelling is good as it is a Japanese rendition of \'Macbeth\'; they build tension well to show the internal conflict for Macbeth"
   }
   acting {
     performance {
@@ -25,7 +25,7 @@ review {
     }
     cast {
       rating: "Pretty Good"
-      comments: "Every one plays their role well and does a good job supporting the two leads"
+      comments: "Everyone plays their role well and does a good job supporting the two leads"
     }
     rating: "Pretty Good"
   }
@@ -43,7 +43,7 @@ review {
       name: "Hideo Oguni"
     }
     rating: "Good"
-    comments: "The concept is a Japanese rendition of 'Macbeth'; the plot structure is the same as 'Macbeth'; flow between sequences is; character writing is very similiar to 'Macbeth'"
+    comments: "The concept is a Japanese rendition of \'Macbeth\'; the plot structure is the same as \'Macbeth\'; flow between sequences is; character writing is very similar to \'Macbeth\'"
   }
   screenplay {
     writer {
@@ -59,14 +59,14 @@ review {
       name: "Hideo Oguni"
     }
     rating: "Pretty Good"
-    comments: "The dialogue is good as it is a unique interpretation of 'Macbeth' from an eastern perspective; the symbolism is the same as 'Macbeth'; the foreshadowing is the same as 'Macbeth'"
+    comments: "The dialogue is good as it is a unique interpretation of \"Macbeth\" from an eastern perspective; the symbolism is the same as \"Macbeth\"; the foreshadowing is the same as \"Macbeth\""
   }
   score {
     composer {
       name: "Masaru Sato"
     }
     rating: "Pretty Good"
-    comments: "Helps paint this as a Japanese interpretation of 'Macbeth'"
+    comments: "Helps paint this as a Japanese interpretation of \"Macbeth\""
   }
   cinematography {
     cinematographer {
@@ -84,11 +84,11 @@ review {
   }
   sound {
     rating: "Pretty Good"
-    comments: "Similiar to other Japanese media as well 1950s movies; used well to build tension"
+    comments: "Similar to other Japanese media, as well as 1950s movies, it is used well to build tension"
   }
   visual_effects {
     rating: "Pretty Good"
-    comments: "Pretty Good for the time period"
+    comments: "Pretty good for the time period"
   }
   production_design {
     rating: "Good"
@@ -98,11 +98,11 @@ review {
     rating: "Good"
     comments: "Helps paint these characters"
   }
-  pacing: "Pacing is a bit on the faster side, but is pretty true to 'Macbeth'"
-  climax: "Climax is executed well as it shares many similiarities to 'Macbeth,' but from a Japanese empire persective"
-  tone: "Tone is similiar to Jidaigeki movies, but with Shakespearean flavors"
-  final_notes: "Saw retrospective at Austin Film Festival"
-  overall: "Overall, a pretty good adaption of 'Macbeth' from a Japanese persective as Kurosawa puts his personal touch on a beloved classic"
+  pacing: "Pacing is a bit on the faster side, but is pretty true to \"Macbeth\""
+  climax: "Climax is executed well as it shares many similarities to \'Macbeth\', but from a Japanese imperial perspective"
+  tone: "Tone is similar to Jidaigeki movies, but with Shakespearean flavors"
+  final_notes: "I saw a retrospective at the Austin Film Festival"
+  overall: "Overall, a pretty good adaptation of \"Macbeth\" from a Japanese perspective as Kurosawa puts his personal touch on a beloved classic"
 }
 release_year: 1957
 review_date: "10/27/2024"

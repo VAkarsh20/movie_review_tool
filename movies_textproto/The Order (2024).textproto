@@ -5,119 +5,92 @@ review {
     director {
       name: "Justin Kurzel"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Good"
+    comments: "The directio on a macroscale feels grand as they have this big panning shots to show the beautity in the schlusion of the Pacific Northwest, and he does a good job building the thrilling nature of the action scenes; the direction on a microscale is good as these moments are where you really get to know the characters and their relationships with each other; the storytelling is good as it follows events that really happened, but uses your emotional investment with these characters to make you care about what happens next; he builds tension very well as this is what makes the action sequences feel very thrilling"
   }
   acting {
     performance {
       actor {
         name: "Jude Law"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Commands the movie with his presense and carries himself well in the action sequences; builds chemistry well with his castmates"
     }
     performance {
       actor {
         name: "Nicholas Hoult"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Plays the antagonist well as you get a sense of who the character was in real life and "
     }
     performance {
       actor {
         name: "Tye Sheridan"
       }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Jurnee Smollett"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Alison Oliver"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Marc Maron"
-      }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Plays the sidekick role well and has good chemistry with Law"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Everyone plays their role well and help support moving the story forward and the main cast"
     }
-    rating: "TODO"
+    rating: "Pretty Good to Good"
   }
   story {
     writer {
       name: "Zach Baylin"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Pretty Good to Good"
+    comments: "The concept is good as is a historical crime thriller on 'The Order', a white nationalist group that is really not heard of that much; the plot structure is good as it goes through the rise and fall of 'The Order'; character writing is good for the real life characters are it does a good job accurately depicting how they were in real life, but pretty bad for the composite characters as they are pretty void of anything that makes you care for them"
   }
   screenplay {
     writer {
       name: "Zach Baylin"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Pretty Good to Good"
+    comments: "The dialogue is good and crisp, and does a good job in painting who these people actually were, but feels a bit overt when they ware trying to make modern references to storming the capital; the biopic does a good job in bringing to light the rise in white nationalism in the 1980s, 'The Order', and 'The Turner Diaries', and the parallels between this and Janurary 6th; the foreshadowing is good, but mostly follows what happened in real life"
   }
   score {
     composer {
       name: "Jed Kurzel"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Is used very well in conjuction to the cinematic nature shots to show the seclusion in the environment, and helps make the thriller tense in the more action based scenes"
   }
   cinematography {
     cinematographer {
       name: "Adam Arkapaw"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good to very Good"
+    comments: "Had really beauitful shots to help show the seclusion of the Pacific Northwest and used well in the action sequences"
   }
   editing {
     editor {
       name: "Nick Fenton"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Felt polished and help put together the action sequences"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
+    comments: "Felt very clear and authetnic to the action sequences and help make the thriller tense in the right moments; helped also show the seclusion in some moments"
   }
   visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Good use of practical effects in the action sequences"
   }
   production_design {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Really helped show the beauty and seclusion of the Pacific Northwest"
   }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing is good"
+  climax: "Climax is executed well as it feels like a culmination of all the tension that was building throughout the movie"
+  tone: "Tone is similiar to that of a historical crime thriller (which is what this movie is)"
+  final_notes: "Saw premiere at Austin Film Festival"
+  overall: "Overall, good historical crime thriller that exposes the unknown history of the 'The Order' in the 1980s; the film does a very good job showcasing the beauty of the Pacific Northwest through its cinematography and creates an engaging thriller based on real events, but the movie is held back by its pretty shallow composite characters and overt parallels to modern day events"
 }
 release_year: 2024
 review_date: "10/27/2024"
 redux: false
 id: 502
 imdb_id: "tt26625693"
-
-* Premeire at Austin Film Festival
