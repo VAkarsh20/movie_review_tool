@@ -6,7 +6,7 @@ review {
       name: "Brady Corbet"
     }
     rating: "TODO"
-    comments: "The direction on a macroscale is grand as this movie feels like an epic that emulates films from the time period it portrays; the direction on a microscale is great as the interpersonal scenes really paint who these characters are and the struggles they go through; the storytelling is great it tackles many serious topics in an artsy way, and the movie really does feel like a modern-day Godfather with how they told this epic; they build tension incredibly well as you genuinelly experience second hand trauma from what you see these characters experience"
+    comments: "The direction on a macroscale is grand as this movie feels like an epic that emulates films from the time period it portrays; the direction on a microscale is great as the interpersonal scenes really paint who these characters are and the struggles they go through; the storytelling is great, it tackles many serious topics in an artsy way, and the movie really does feel like a modern-day Godfather with how they told this epic; they build tension incredibly well as you genuinely experience second-hand trauma from what you see these characters experience"
   }
   acting {
     performance {
@@ -14,42 +14,42 @@ review {
         name: "Adrien Brody"
       }
       rating: "Incredible"
-      comments: "Feels like an extension of his performance from 'The Pianist' as he accurately and profoundly displays the trauma and addictions this character goes through as he tries to navigate his 'American Dream'"
+      comments: "Feels like an extension of his performance from \"The Pianist\" as he accurately and profoundly displays the trauma and addictions this character goes through as he tries to navigate his \"American Dream\""
     }
     performance {
       actor {
         name: "Felicity Jones"
       }
       rating: "Very Good"
-      comments: "A powerful performance as you can tell the hardships she has to go through to come to America; has amazing chemistry with Brody"
+      comments: "A powerful performance, as you can tell the hardships she has to go through to come to America; she has amazing chemistry with Brody"
     }
     performance {
       actor {
         name: "Guy Pearce"
       }
       rating: "Great"
-      comments: "A truly comanding figure as you always feel a sense of uneasiness around him; has good chemistry with Brody as their dynamic makes you feel very invested in both characters"
+      comments: "A truly commanding figure as you always feel a sense of uneasiness around him; he has good chemistry with Brody as their dynamic makes you feel very invested in both characters"
     }
     performance {
       actor {
         name: "Joe Alwyn"
       }
       rating: "Good"
-      comments: "The typical spoiled rich son, does a good job supporting the rest of the cast"
+      comments: "The typical spoiled, rich son does a good job supporting the rest of the cast"
     }
     performance {
       actor {
         name: "Isaach de Bankol\303\251"
       }
       rating: "Pretty Good"
-      comments: "Has good chemistry with as both do a good job trying to display the hardships of trying to experience the 'American Dream'"
+      comments: "Has good chemistry with each other as both do a good job trying to display the hardships of trying to experience the \'American Dream\'"
     }
     performance {
       actor {
         name: "Alessandro Nivola"
       }
       rating: "Good"
-      comments: "Does a good job showing how his character is able to code-switch and assimiliate with American culture as he seamlessly transitions from his past and present when interacting with Brody"
+      comments: "Does a good job showing how his character is able to code-switch and assimilate with American culture as he seamlessly transitions from his past and present when interacting with Brody"
     }
     cast {
       rating: "Pretty Good to Good"
@@ -65,7 +65,7 @@ review {
       name: "Mona Fastvold"
     }
     rating: "Great"
-    comments: "The concept is amazing as the movie is an epic that displays the hardships of trying to live the 'American Dream' as we see through the lense of troubled László Toth; the plot structure is very good as it emulates epics that were popular from the time-period the movie takes place in; the character writing is amazing as László Toth has many dimensions to him, especially with all that he experiences as he goes through this movie, and the supporting cast really does have many dimesions to them as well"
+    comments: "The concept is amazing, as the movie is an epic that displays the hardships of trying to live the \'American Dream\', as we see through the lens of troubled L\303\241szl\303\263 Toth; the plot structure is very good, as it emulates epics that were popular from the time-period the movie takes place in; the character writing is amazing, as L\303\241szl\303\263 Toth has many dimensions to him, especially with all that he experiences as he goes through this movie, and the supporting cast really does have many dimensions to them as well"
   }
   screenplay {
     writer {
@@ -75,7 +75,7 @@ review {
       name: "Mona Fastvold"
     }
     rating: "TODO"
-    comments: "The dialogue is polished and profound; the symbolism is incredibly profound as the movie tackles many hard topics like addiciton, trauma, and the immigrant experience to show the protragonist's shell-shocked experience of trying to live the 'American Dream'; the foreshadowing is great as it is used well in conjuction with tension to build a captivating climax"
+    comments: "The dialogue is polished and profound; the symbolism is incredibly profound as the movie tackles many hard topics like addiction, trauma, and the immigrant experience to show the protagonist\'s shell-shocked experience of trying to live the \'American Dream\'; the foreshadowing is great as it is used well in conjunction with tension to build a captivating climax"
   }
   score {
     composer {
@@ -89,38 +89,35 @@ review {
       name: "Lol Crawley"
     }
     rating: "Great"
-    comments: "Paints this movie as an epic as it makes this movie feel like an artpiece with how grand it is; does so much with both film and a low budget; the imagery for the movie really does feel amazing"
+    comments: "Paints this movie as an epic as it makes this movie feel like an art piece with how grand it is; does so much with both film and a low budget; the imagery for the movie really does feel amazing"
   }
   editing {
     editor {
       name: "D\303\241vid Jancs\303\263"
     }
     rating: "Great"
-    comments: "Really makes this movie feel like an artpiece as it is seamless and used well in conjuction wih the direction and cinematography"
+    comments: "Really makes this movie feel like an art piece as it is seamless and used well in conjunction with the direction and cinematography"
   }
   sound {
     rating: "Good"
-    comments: "Gives the movie a 1960s feel; helps build tension"
+    comments: "It gives the movie a 1960s feel; it helps build tension"
   }
   production_design {
     rating: "Good"
-    comments: "Helps in portraying the time period and the world László Toth deals with"
+    comments: "It helps in portraying the time period and the world L\303\241szl\303\263 Toth deals with"
   }
   costumes {
     rating: "Good"
     comments: "Helps portray the time period"
   }
-  pacing: "Pacing is good as adequitely goes through the 3.5 hour runtime to create this grand epic"
+  pacing: "Pacing is good as it adequately goes through the 3.5-hour runtime to create this grand epic"
   climax: "Climax is executed incredibly as the final 40 minutes before the epilogue really feel captivating in a traumatizing way; the epilogue is fine, but does not really feel like it ends the movie as strong as the second part"
-  tone: "Tone is traditional to epics from the time-period, and at some moments the style feels like a modern-day Godfather"
-  final_notes: "Saw a premiere at Austin Film Festival in 35mm film; does so much with such a small budget"
-  overall: "Overall, a great epic that both pays homage to the time-period and revolutionizes how we can tell stories as it shows what can be done with such a low budget, all brought together by great filmmaking, profound writing, and an incredible performance from Adrian Brody"
+  tone: "Tone is traditional to epics from the time period, and at some moments the style feels like a modern-day Godfather"
+  final_notes: "I saw a premiere at the Austin Film Festival in 35mm film; it does so much with such a small budget; I have never been so impacted by a movie emotionally as I have been with this movie"
+  overall: "Overall, a great epic that both pays homage to the time period and revolutionizes how we can tell stories, as it shows what can be done with such a low budget, all brought together by great filmmaking, profound writing, and an incredible performance from Adrien Brody"
 }
 release_year: 2024
 review_date: "10/26/2024"
 redux: false
 id: 500
 imdb_id: "tt8999762"
-
-* Premeire at Austin Film Festival
-* Modern Day Godfather

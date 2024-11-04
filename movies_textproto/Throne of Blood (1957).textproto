@@ -6,35 +6,28 @@ review {
       name: "Akira Kurosawa"
     }
     rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    comments: "The directio on a macroscale has a distinct style that feels like it was pushing the limitations of filmmaking during the 1950s; the directio on a microscale is fine, but feels a bit choppy given that that was what was available in terms of acting and editing during the 1950s; the storytelling is good as it is a Japanese redition of 'Macbeth'; they build tension well to show the internal conflict for Macbeth"
   }
   acting {
     performance {
       actor {
         name: "Toshiro Mifune"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Plays the lead well and does a good job giving Macbeth justice as a character; a bit over-the-top at times, but feels like this performance is traditional to other Japanese media I have consumed"
     }
     performance {
       actor {
         name: "Isuzu Yamada"
       }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Takashi Shimura"
-      }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Plays Lady Macbeth well and has pretty good chemistry with Mifune"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Every one plays their role well and does a good job supporting the two leads"
     }
-    rating: "TODO"
+    rating: "Pretty Good"
   }
   story {
     writer {
@@ -49,8 +42,8 @@ review {
     writer {
       name: "Hideo Oguni"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Good"
+    comments: "The concept is a Japanese rendition of 'Macbeth'; the plot structure is the same as 'Macbeth'; flow between sequences is; character writing is very similiar to 'Macbeth'"
   }
   screenplay {
     writer {
@@ -65,60 +58,54 @@ review {
     writer {
       name: "Hideo Oguni"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Pretty Good"
+    comments: "The dialogue is good as it is a unique interpretation of 'Macbeth' from an eastern perspective; the symbolism is the same as 'Macbeth'; the foreshadowing is the same as 'Macbeth'"
   }
   score {
     composer {
       name: "Masaru Sato"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Helps paint this as a Japanese interpretation of 'Macbeth'"
   }
   cinematography {
     cinematographer {
       name: "Asakazu Nakai"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Pretty grand and used well for a movie from this time period"
   }
   editing {
     editor {
       name: "Akira Kurosawa"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "A bit choppy and slow, but what you would expect from a 1950s movie"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Similiar to other Japanese media as well 1950s movies; used well to build tension"
   }
   visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Pretty Good for the time period"
   }
   production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Helps build the setting"
   }
   costumes {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Helps paint these characters"
   }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing is a bit on the faster side, but is pretty true to 'Macbeth'"
+  climax: "Climax is executed well as it shares many similiarities to 'Macbeth,' but from a Japanese empire persective"
+  tone: "Tone is similiar to Jidaigeki movies, but with Shakespearean flavors"
+  final_notes: "Saw retrospective at Austin Film Festival"
+  overall: "Overall, a pretty good adaption of 'Macbeth' from a Japanese persective as Kurosawa puts his personal touch on a beloved classic"
 }
 release_year: 1957
 review_date: "10/27/2024"
 redux: false
 id: 501
 imdb_id: "tt0050613"
-
-* Retrospective at Austin Film Festival
