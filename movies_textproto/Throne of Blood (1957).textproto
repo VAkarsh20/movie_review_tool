@@ -5,7 +5,7 @@ review {
     director {
       name: "Akira Kurosawa"
     }
-    rating: "TODO"
+    rating: "Pretty Good"
     comments: "The directio on a macroscale has a distinct style that feels like it was pushing the limitations of filmmaking during the 1950s; the directio on a microscale is fine, but feels a bit choppy given that that was what was available in terms of acting and editing during the 1950s; the storytelling is good as it is a Japanese redition of 'Macbeth'; they build tension well to show the internal conflict for Macbeth"
   }
   acting {
