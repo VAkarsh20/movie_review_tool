@@ -1,4 +1,4 @@
-title: "Operation Taco Gary's"
+title: "Operation Taco Gary\'s"
 rating: 0.1
 review {
   direction {
@@ -6,7 +6,7 @@ review {
       name: "Michael Kvamme"
     }
     rating: "Bad"
-    comments: "The direction on a macroscale is simple and feels like a student film; the direction on a microscale is not good as the comedic moments are forced and really not that funny; storytelling is so simple that it feels like a student film; tension is poorly executed because you really don't care for any of these characters, especially when something happens to them"
+    comments: "The direction on a macroscale is simple and feels like a student film; the direction on a microscale is not good as the comedic moments are forced and really not that funny; storytelling is so simple that it feels like a student film; tension is poorly executed because you really don\'t care for any of these characters, especially when something happens to them"
   }
   acting {
     performance {
@@ -14,46 +14,46 @@ review {
         name: "Simon Rex"
       }
       rating: "Decent"
-      comments: "The only saving grace for this movie as he uses his experience in comedies like these to make this movie somewhat watchable"
+      comments: "The only saving grace for this movie is that he uses his experience in comedies like these to make this movie somewhat watchable"
     }
     performance {
       actor {
         name: "Dustin Milligan"
       }
       rating: "Bad"
-      comments: "Feels restricted as he really cannot show a full range of emotions; does not really have good chemistry with the cast"
+      comments: "He feels restricted as he really cannot show a full range of emotions; he does not really have good chemistry with the cast"
     }
     performance {
       actor {
         name: "Brenda Song"
       }
       rating: "Pretty Bad"
-      comments: "Does not really match the levels of the remaining cast, and does not really do a good just developing chemistry with Milligan"
+      comments: "Does not really match the levels of the remaining cast, and does not really do a good job developing chemistry with Milligan"
     }
     performance {
       actor {
         name: "Tony Cavalero"
       }
       rating: "Bad"
-      comments: "Just feels forced in thsi movie, and his comedic moments aren't that well executed/funny"
+      comments: "Just feels forced in this movie, and his comedic moments aren\'t that well executed or funny"
     }
     performance {
       actor {
         name: "Jason Biggs"
       }
       rating: "Decent"
-      comments: "A decent cameo as he plays a over-the-top fictionalized version of himself"
+      comments: "A decent cameo as he plays an over-the-top fictionalized version of himself"
     }
     performance {
       actor {
         name: "Arturo Castro"
       }
       rating: "Pretty Bad to Decent"
-      comments: "This guy literally plays the same character in every movie, but it isn't necessarily that bad in this movie"
+      comments: "This guy literally plays the same character in every movie, but it isn\'t necessarily that bad in this movie"
     }
     cast {
       rating: "Bad"
-      comments: "A bunch of non-actors/poorly executed moments; the bad acting really stems from the bad direction/writing"
+      comments: "A bunch of non-actors or poorly executed moments; the bad acting really stems from the bad direction or writing"
     }
     rating: "Bad to Pretty Bad"
   }
@@ -62,14 +62,14 @@ review {
       name: "Michael Kvamme"
     }
     rating: "TODO"
-    comments: "The concept is very dumb; the plot structure is simple and formulaic to other dumb comedies; character writing is simple, bland, and not really that movie"
+    comments: "The concept is very dumb; the plot structure is simple and formulaic to other dumb comedies; character writing is simple, bland, and not really that good"
   }
   screenplay {
     writer {
       name: "Michael Kvamme"
     }
     rating: "TODO"
-    comments: "The dialogue is not well written as it feels like it's from a student movie; the humor is not good as the movie just feels like every other dumb comedy, and the joke rate is maybe 1/5 jokes"
+    comments: "The dialogue is not well written as it feels like it\'s from a student movie; the humor is not good as the movie just feels like every other dumb comedy, and the joke rate is maybe 1/5 jokes"
   }
   cinematography {
     cinematographer {
@@ -100,11 +100,11 @@ review {
     rating: "Very Bad"
     comments: "Tacky and low-budget"
   }
-  pacing: "Pacing is incredibly fast as the movie is less than 90 minutes and does not really have that much plot to go through"
+  pacing: "Pacing is incredibly fast, as the movie is less than 90 minutes and does not really have that much plot to go through"
   climax: "Climax is poorly executed and very dumb"
   tone: "Tone is like every other dumb comedy; the dumb 00s comedy tone feels very dated"
-  final_notes: "Saw world premeire at Austin Film Festival"
-  overall: "Overall, a bad, dumb comedy that feels like a student film"
+  final_notes: "Saw the world premiere at the Austin Film Festival"
+  overall: "Overall, a bad dumb comedy that feels like a student film"
 }
 release_year: 2024
 review_date: "10/25/2024"
