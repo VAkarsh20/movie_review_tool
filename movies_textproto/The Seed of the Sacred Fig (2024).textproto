@@ -5,72 +5,87 @@ review {
     director {
       name: "Mohammad Rasoulof"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Decent"
+    comments: "The direction on a macroscale is decent as it uses the real unrest of protests in Iran to show the hostile enviroment of the country and what the characters have to go through; the direction on a microscale is decent as it shows these clashing philospies between the elders and youth of Iran, and how hostile the discourse can be when discusing these freedoms in Iran; direction of actors is; storytelling is uses real-world videos of the poltical protests in Iran to show the stakes of the narrative and what world the characters live in, but besides that, is pretty standard in it's storytelling; they build tension well as you genuinelly get a scene of fear for what will happen to the characters the more the story unravels; it is incredibly commendable for what the director did to make this movie as he risked his own freedom and life to get this movie made and for his message to be spread"
   }
   acting {
     performance {
       actor {
-        name: "Soheila GolestaniMissagh ZarehMahsa RostamiSetareh MalekiNiousha AkhshiAmineh Arani"
+        name: "Soheila Golestani"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Plays the caring mother figure decently well"
+    }
+    performance {
+      actor {
+        name: "Missagh Zareh"
+      }
+      rating: "Decent"
+      comments: "Does a decent job in the scenes he is in and does a pretty good job showing his anger and anxiety, but does not do that good of transitions between these emotions"
+    }
+    performance {
+      actor {
+        name: "Mahsa Rostami"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "A pretty good conduit for the youth voice on the unrest in Iran and what they are fighting for"
+    }
+    performance {
+      actor {
+        name: "Setareh Maleki"
+      }
+      rating: "Decent"
+      comments: "Does a decent job holding her own and making the most out of the material given"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "The cast is mostly the main family, but the rest do a good job in supporting the main cast and moving the story forward"
     }
-    rating: "TODO"
+    rating: "Decent"
   }
   story {
     writer {
       name: "Mohammad Rasoulof"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Pretty Bad to Decent"
+    comments: "The concept is pretty good as the movie is a symbol for the fight for freedoms in Iran, with real-life protest footage interweaved into the narrative; the plot structure is not good because the movie is unnecessarily longer than it needs to be, and the shift in tension to the climax is not executed/written well; the character writing is pretty bare-bones as each character serves a purpose/represents a group in Iran, but they are not provided any additional depth"
   }
   screenplay {
     writer {
       name: "Mohammad Rasoulof"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Pretty Bad to Decent"
+    comments: "The dialogue is pretty standard, but there are some profound moments; the symbolism is decent as the whole movie itself is symbol for freedom of speech in Iran; the foreshadowing is not that good as the build to the climax is non-existent and the shift in tone just happens"
   }
   score {
     composer {
       name: "Karzan Mahmood"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Pretty minimal score, but is used well"
   }
   cinematography {
     cinematographer {
       name: "Pooyan Aghababaei"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Pretty artistic and shot well, especailly considering this movie was shot in secrecy"
   }
   editing {
     editor {
       name: "Andrew Bird"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent to Pretty Good"
+    comments: "Weaves in real life-footage with the narrative well and feels decently put together besides that"
   }
-  sound {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing is incredibly slow as the movie could have cut 30-40 minutes; the pacing becomes very fast in the final 40 minutes that it does not really match the first part of the movie"
+  climax: "Climax is fine, but the build to the climax is poorly executed because the movie just shifts with no explanation"
+  tone: "Tone feels like a polticial drama with artistic flavors"
+  final_notes: "Saw premiere at Austin Film Festival; what is most impressive is that this movie was actually made, given what the director had to go through to make it"
+  overall: "Overall, a movie that should be celeberated for being made and applauded for spreading it's message as the director had to flee Iran to escape being jailed for 8 years for trying to make this film about political protests in Iran; the movie itself is decent with some pround imagery, but it does have its flaws in plot construction and pacing"
 }
 release_year: 2024
 review_date: "10/28/2024"
 redux: false
 id: 503
 imdb_id: "tt32178949"
-
-* Premeire at Austin Film Festival
