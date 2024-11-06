@@ -6,7 +6,7 @@ review {
       name: "Steve McQueen"
     }
     rating: "Pretty Bad"
-    comments: "The direction on a macroscale is very safe and feel-good, and the look and feel for the movie feels overly put together; The direction on a microscale feels very safe and too PG-13, and it feels very forced in tried to display its messages; the storytelling is bad because the movie tries to tell two differnet stories at the same time that neither feel like they are told well; they do a bad job building tension as the tone of the movie makes it feel unserious"
+    comments: "The direction on a macroscale is very safe and feel-good, and the look and feel for the movie feels overly put together; The direction on a microscale feels very safe and too PG-13, and it feels very forced in trying to display its messages; the storytelling is bad because the movie tries to tell two different stories at the same time that neither feel like they are told well; they do a bad job building tension as the tone of the movie makes it feel unserious"
   }
   acting {
     performance {
@@ -28,11 +28,11 @@ review {
         name: "Elliott Heffernan"
       }
       rating: "Decent"
-      comments: "Has more action in this movie as he is not really given that much to work with, but is fine and does the best he can"
+      comments: "He has more action in this movie as he is not really given that much to work with, but he is fine and does the best he can"
     }
     cast {
       rating: "Pretty Bad"
-      comments: "So many forced performances to get the filmmaker's message across that it feels unnatural"
+      comments: "So many forced performances are used to get the filmmaker\'s message across that it feels unnatural"
     }
     rating: "Decent"
   }
@@ -41,28 +41,28 @@ review {
       name: "Steve McQueen"
     }
     rating: "Bad to Pretty Bad"
-    comments: "The concept is not good as they tell two stories at the same time that the movie becomes so unfocused, and they try to force this message about racial inequality in 1940s London that it really hurts the lessons they are; the plot structure is pretty bad as they tell two parallel stories that really never converge, even though they are set up to; flow; character writing is bad because these characters are pretty formulaic and filled with forced messages, and you never really care about them or what they go against"
+    comments: "The concept is not good as they tell two stories at the same time that the movie becomes so unfocused, and they try to force this message about racial inequality in 1940s London that it really hurts the lessons they are trying to teach; the plot structure is pretty bad as they tell two parallel stories that really never converge, even though they are set up to flow; character writing is bad because these characters are pretty formulaic and filled with forced messages, and you never really care about them or what they go against"
   }
   screenplay {
     writer {
       name: "Steve McQueen"
     }
     rating: "Bad to Pretty Bad"
-    comments: "The dialogue is simple and forced with messages they are trying to portray; the symbolism is so forced and overt that its simple representation of racial inequality actual hurts the message they are trying to portay, an example being there literally is a scene that could be straight out of Dhar Mann in the middle of the movie; the foreshadowing is not good because it's very obvious where this movie is going based on the tone and presentation of the movie"
+    comments: "The dialogue is simple and forced, with messages they are trying to portray; the symbolism is so forced and overt that its simple representation of racial inequality actually hurts the message they are trying to portray, an example being there literally is a scene that could be straight out of Dhar Mann in the middle of the movie; the foreshadowing is not good because it\'s very obvious where this movie is going based on the tone and presentation of the movie"
   }
   score {
     composer {
       name: "Hans Zimmer"
     }
     rating: "Good"
-    comments: "It is well composed and used well throughout the movie; Hans definitely didn't write this score"
+    comments: "It is well composed and used well throughout the movie; Hans definitely did not write this score"
   }
   cinematography {
     cinematographer {
       name: "Yorick Le Saux"
     }
     rating: "Pretty Good"
-    comments: "Pretty simplisitic, but does have good shots"
+    comments: "Pretty simplistic, but it does have good shots"
   }
   editing {
     editor {
@@ -77,17 +77,17 @@ review {
   }
   visual_effects {
     rating: "Pretty Bad"
-    comments: "Looked pretty tacky and fake"
+    comments: "It looked pretty tacky and fake"
   }
   production_design {
     rating: "Decent to Pretty Good"
-    comments: "Did a pretty good job showing London during the Blitz, but looks a little fake and computer generated"
+    comments: "It did a pretty good job showing London during the Blitz, but it looks a little fake and computer generated"
   }
-  pacing: "Pacing is not good as the parallel story structure makes it feel slower than it actually is"
-  climax: "Climax is safe; the build to the climax feels expcted and formulaic"
-  tone: "Tone is a big issue for this movie because the movie's safe, feel-good tone makes this movie feel overly produced and formulaic"
-  final_notes: "Saw premiere at Austin Film Festival"
-  overall: "Overall, a pretty bad, overly produced movie as Saoirse Ronan cannot save this movie's messy storytelling and shallow representation of racial inequality"
+  pacing: "Pacing is not good, as the parallel story structure makes it feel slower than it actually is"
+  climax: "Climax is safe; the build to the climax feels expected and formulaic"
+  tone: "Tone is a big issue for this movie because the movie\'s safe, feel-good tone makes it feel overly produced and formulaic"
+  final_notes: "I saw the premiere at the Austin Film Festival"
+  overall: "Overall, a pretty bad, overly produced movie; Saoirse Ronan cannot save this movie\'s messy storytelling and shallow representation of racial inequality"
 }
 release_year: 2024
 review_date: "10/29/2024"
