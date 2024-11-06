@@ -5,98 +5,92 @@ review {
     director {
       name: "Steve McQueen"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Pretty Bad"
+    comments: "The direction on a macroscale is very safe and feel-good, and the look and feel for the movie feels overly put together; The direction on a microscale feels very safe and too PG-13, and it feels very forced in tried to display its messages; the storytelling is bad because the movie tries to tell two differnet stories at the same time that neither feel like they are told well; they do a bad job building tension as the tone of the movie makes it feel unserious"
   }
   acting {
     performance {
       actor {
         name: "Saoirse Ronan"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "She does the best she can with the source material she was given"
     }
     performance {
       actor {
         name: "Harris Dickinson"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Feels like a cameo in this movie"
     }
     performance {
       actor {
         name: "Elliott Heffernan"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Has more action in this movie as he is not really given that much to work with, but is fine and does the best he can"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Bad"
+      comments: "So many forced performances to get the filmmaker's message across that it feels unnatural"
     }
-    rating: "TODO"
+    rating: "Decent"
   }
   story {
     writer {
       name: "Steve McQueen"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Bad to Pretty Bad"
+    comments: "The concept is not good as they tell two stories at the same time that the movie becomes so unfocused, and they try to force this message about racial inequality in 1940s London that it really hurts the lessons they are; the plot structure is pretty bad as they tell two parallel stories that really never converge, even though they are set up to; flow; character writing is bad because these characters are pretty formulaic and filled with forced messages, and you never really care about them or what they go against"
   }
   screenplay {
     writer {
       name: "Steve McQueen"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Bad to Pretty Bad"
+    comments: "The dialogue is simple and forced with messages they are trying to portray; the symbolism is so forced and overt that its simple representation of racial inequality actual hurts the message they are trying to portay, an example being there literally is a scene that could be straight out of Dhar Mann in the middle of the movie; the foreshadowing is not good because it's very obvious where this movie is going based on the tone and presentation of the movie"
   }
   score {
     composer {
       name: "Hans Zimmer"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "It is well composed and used well throughout the movie; Hans definitely didn't write this score"
   }
   cinematography {
     cinematographer {
       name: "Yorick Le Saux"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Pretty simplisitic, but does have good shots"
   }
   editing {
     editor {
       name: "Peter Sciberras"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Polished, but feels overly produced"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Used well for the war/bombing sequences"
   }
   visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Bad"
+    comments: "Looked pretty tacky and fake"
   }
   production_design {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent to Pretty Good"
+    comments: "Did a pretty good job showing London during the Blitz, but looks a little fake and computer generated"
   }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing is not good as the parallel story structure makes it feel slower than it actually is"
+  climax: "Climax is safe; the build to the climax feels expcted and formulaic"
+  tone: "Tone is a big issue for this movie because the movie's safe, feel-good tone makes this movie feel overly produced and formulaic"
+  final_notes: "Saw premiere at Austin Film Festival"
+  overall: "Overall, a pretty bad, overly produced movie as Saoirse Ronan cannot save this movie's messy storytelling and shallow representation of racial inequality"
 }
 release_year: 2024
 review_date: "10/29/2024"
 redux: false
 id: 505
 imdb_id: "tt15939198"
-
-* Premeire at Austin Film Festival

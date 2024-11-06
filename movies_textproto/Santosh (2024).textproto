@@ -6,7 +6,7 @@ review {
       name: "Sandhya Suri"
     }
     rating: "Pretty Good"
-    comments: "The direction on a macroscale is pretty good as it helps build the world and the tension/anxiety that the protagonist has to go through as a police officer trying to fight for what is right; the direction on a microscale is pretty good; direction of actors is; storytelling is pretty good as it unwinds the narrative slowly to keep you engaged for what what will happen next as the protagonist searches for the truth; they build tension well as it is a key element for keeping the movie engaging to see how the case will be solved"
+    comments: "The direction on a macroscale is pretty good as it helps build the world and the tension/anxiety that the protagonist has to go through as a police officer trying to fight for what is right; the direction on a microscale is pretty good; direction of actors is; storytelling is pretty good as it unwinds the narrative slowly to keep you engaged for what will happen next as the protagonist searches for the truth; they build tension well as it is a key element for keeping the movie engaging to see how the case will be solved"
   }
   acting {
     performance {
@@ -21,11 +21,11 @@ review {
         name: "Sunita Rajwar"
       }
       rating: "Pretty Good"
-      comments: "Has command of the screen and is a real towering figure in her profession; has good chemistry with Goswami"
+      comments: "Has command of the screen and is a real towering figure in her profession; she has good chemistry with Goswami"
     }
     cast {
       rating: "Decent"
-      comments: "Some of the acting was pretty good and some of the acting was pretty bad as the latter felt like it was a lot of non-actors"
+      comments: "Some of the acting was pretty good, and some of the acting was pretty bad; the latter felt like it was a lot of non-actors"
     }
     rating: "Decent to Pretty Good"
   }
@@ -34,14 +34,14 @@ review {
       name: "Sandhya Suri"
     }
     rating: "Pretty Good"
-    comments: "The concept is interesting as it is about a woman police officier trying to do what is right and search for the truth, but this story feels like it has been told before; the plot structure is standard; the character writing is good for Santosh Saini and Geeta Sharma as both show the differnet positions of the police force and how corrupt all around them is as they try to do their job, especailly considering they work in a male dominated field"
+    comments: "The concept is interesting as it is about a woman police officer trying to do what is right and search for the truth, but this story feels like it has been told before; the plot structure is standard; the character writing is good for Santosh Saini and Geeta Sharma as both show the different positions of the police force and how corrupt all around them is as they try to do their job, especially considering they work in a male dominated field"
   }
   screenplay {
     writer {
       name: "Sandhya Suri"
     }
     rating: "Pretty Good"
-    comments: "The dialogue is pretty standard, but had some good writing towards the end; the symbolism is decently present towards the end as it tries to make a profound statement about class hierarchy in India; the foreshadowing is good as it helps construct the ending, especially with how the movie plays out in the beginning"
+    comments: "The dialogue is pretty standard, but had some good writing toward the end; the symbolism is decently present toward the end as it tries to make a profound statement about class hierarchy in India; the foreshadowing is good as it helps construct the ending, especially with how the movie plays out in the beginning"
   }
   score {
     composer {
@@ -65,11 +65,11 @@ review {
   sound {
     rating: "Decent"
   }
-  pacing: "Pacing is a bit on the slower side, but not too big of an issue; could have cut maybe 15 minutes"
-  climax: "Climax is executed well as the movie continuously builds to this tense moment and the filmmaker is able to get across their message about Indian classism"
-  tone: "Tone is similiar to other Indian crime dramas"
-  final_notes: "Saw premiere at Austin Film Festival"
-  overall: "Overall, a pretty good movie that shows the Indian experience of a woman working in a male dominated field and the class hierarchy of the country, but is held back because it feels like this story has already been told before"
+  pacing: "Pacing is a bit on the slower side, but not too big of an issue; it could have cut maybe 15 minutes"
+  climax: "The climax is executed well as the movie continuously builds to this tense moment; the filmmaker is able to get across their message about Indian classism"
+  tone: "Tone is similar to other Indian crime dramas"
+  final_notes: "I saw the premiere at the Austin Film Festival"
+  overall: "Overall, a pretty good movie that shows the Indian experience of a woman working in a male-dominated field and the class hierarchy of the country; but it is held back because it feels like this story has already been told before"
 }
 release_year: 2024
 review_date: "10/29/2024"
