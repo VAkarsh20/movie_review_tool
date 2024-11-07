@@ -5,111 +5,96 @@ review {
     director {
       name: "Edward Berger"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Great"
+    comments: "The direction on a macroscale is very sharp and artistic as there seems to be a great attention to detail; the direction on a microscale is great as these scenes really showcase the ability of this talented cast, but there are some limitations given that this is a PG movie; direction of' the storytelling is very good as they use an interesting story and tension very well to keep you hooked to see how this conclave plays out in choosing the next pope"
   }
   acting {
     performance {
       actor {
         name: "Ralph Fiennes"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Very Good to Great"
+      comments: "Truly takes command of the movie as he steals every scene and showcases his experience as a veteran actor; the role feels written for him as it showcases a lot of his signature acting charm and mannerisms"
     }
     performance {
       actor {
         name: "Stanley Tucci"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Very Good"
+      comments: "Shows a wide range of emotions and has very good chemistry with Fiennes; feels very flexible and not limited at all"
     }
     performance {
       actor {
         name: "John Lithgow"
       }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Sergio Castellitto"
-      }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Showcases his exeprience as an actor and has a good range of emotions; has good chemistry with Fiennes and the rest of the cast"
     }
     performance {
       actor {
         name: "Isabella Rossellini"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Does a good job in the scenes she is in, but her performance really feels more like a cameo as she isn't given that much screentime or anything to work with"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "The remaining cast do a good job in helping move the story forward as they feel experienced and have good chemistry with the main cast"
     }
-    rating: "TODO"
+    rating: "Very Good"
   }
   story {
     writer {
       name: "Peter Straughan"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Pretty Good"
+    comments: "The concept is very interesting as it is an important part of catholism that is rarely shown, as if they are opening the doors of one of the Vaticans most secrete traditions; the plot structure is good for the most part as they do a good job at introducing the conflict and moving it towards the climax, it is just the movie really falls apart towards the end with its predictable climax; the character writing is good as you see Lawerence as an symbol for a 'a crisis of faith' and the remaining characters as symbols for conservative and liberal ideologies, though in a bit overt way"
   }
   screenplay {
     writer {
       name: "Peter Straughan"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Pretty Good"
+    comments: "The dialogue is very good, polished, and full of metaphors, even though it is a bit overt at times with its messages; the symbolism is good, but very overt as it is very obvious that this movie is a metaphor for the 2024 US election; the foreshadowing is a huge problem for this movie because it is so obvious where this movie is going and how it is going to end because of how they set up the beginning, and this makes the movie incredibly predictable"
   }
   score {
     composer {
       name: "Volker Bertelmann"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
+    comments: "Used very well throughout the movie and does a very good job building tension and setting the tone"
   }
   cinematography {
     cinematographer {
       name: "St\303\251phane Fontaine"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Great"
+    comments: "Feels very sharp and crisp, and it is used well to make this movie feel very auter driven"
   }
   editing {
     editor {
       name: "Nick Emerson"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Great"
+    comments: "Feels very sharp and crisp, and it is used well to make this movie feel very auter driven"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Used well to make this movie feel very tense"
   }
   production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
+    comments: "Helps construct the setting at the Vatican"
   }
   costumes {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Very Good"
+    comments: "Feels well designed and used well to dress the conclave"
   }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing is pretty fast given how tense and thrilling this movie is; feels like it slows down a bit towards the end, but not in a good way"
+  climax: "Climax is not executed well as the overt foreshadowing in the beginning makes the ending incredibly predictable and anticlimatic"
+  tone: "Tone is very similiar to a thriller, and they do a good job building this"
+  final_notes: "The movie is a good example of how you can make such a good movie that is PG as it does not really need to have adult language to tell the story, but it just feels like it unnecessarily censors itself at times to get this rating"
+  overall: "Overall, a very good movie that feels like it is executed well from a direction and acting standpoint, especially from Ralph Fiennes, but the writing holds this movie back from being something great as it is very obivous that this movie is a metaphor for the 2024 election and the foreshadowing is very bad that the ending becomes incredibly predictable"
 }
 release_year: 2024
 review_date: "11/04/2024"
