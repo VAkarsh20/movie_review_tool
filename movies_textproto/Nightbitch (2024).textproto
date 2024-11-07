@@ -5,137 +5,70 @@ review {
     director {
       name: "Marielle Heller"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Bad"
+    comments: "The direction on a macroscale is very simple and feel-good, makes it feel like this movie was made explicitly for 'Booktok'; the direction on a microscale is very bland, forced, and simple; the storytelling is incredibly simple and bland as it reads like a mother reading this story back to me"
   }
   acting {
     performance {
       actor {
         name: "Amy Adams"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Her performance is only good because she's Amy Adams; she's given nothing to work with"
     }
     performance {
       actor {
         name: "Scoot McNairy"
       }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Arleigh Snowden"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Emmett Snowden"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Zo\303\253 Chao"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Mary Holland"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Ella Thomas"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Archana Rajan"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Jessica Harper"
-      }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Has pretty good chemistry with Adams and does a good job showing their one-sided dynamic"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "A lot of background actors that are fine; mainly just support Adams"
     }
-    rating: "TODO"
+    rating: "Pretty Good"
   }
   story {
     writer {
       name: "Marielle Heller"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Bad"
+    comments: "The concept is actually very dumb, and it is obvious this movie was made for 'Booktok' because the book is a 'Booktok' book; the plot structure is very plain and simple; the character writing is pretty good, even though it is very overt, because the main character is a symbol for the struggles with motherhood and how it is ok not to be the perfect mom"
   }
   screenplay {
     writer {
       name: "Marielle Heller"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
-  }
-  score {
-    composer {
-      name: "Nate Heller"
-    }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Bad"
+    comments: "The dialogue is simple, bland, and written as it it was for 'Booktok'; the dialgoue is so bad that there is literally a scene with the first 20 minutes of the movie where the main character says 'I am Nightbitch'; the humor is fine, but very forced; the symbolism is profound as the whole movie is about the struggles of Motherhood and accepting nothing being a model mom or person; the foreshadowing is only there because the movie is very formulaic"
   }
   cinematography {
     cinematographer {
       name: "Brandon Trost"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Simple"
   }
   editing {
     editor {
       name: "Anne McCabe"
     }
-    rating: "TODO"
-    comments: "TODO"
-  }
-  sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Simple"
   }
   visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Bad"
+    comments: "Pretty tacky"
   }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing is a little bit slow because of the narration moving the story forward"
+  climax: "Climax is pretty forced"
+  tone: "Tone feels very much like this movie was made for 'Booktok'"
+  final_notes: "Saw premiere at Austin Film Festival; obvious who this movie is for, I am clearly not the target demographic; this was supposed to be the movie that saved Amy Adams not destroy her"
+  overall: "Overall, a pretty bad movie that just feels like this movie was made for 'Booktok'; Amy Adams can only do so much given how dumb the story is, despite its strong messages about the struggles of motherhood"
 }
 release_year: 2024
 review_date: "10/30/2024"
 redux: false
 id: 507
 imdb_id: "tt12810074"
-
-* Premeire at Austin Film Festival
-* Movie feels like it was made for Booktok
-* They literally say "Nightbitch" within the first 20 minutes of the movie
-* Amy Adams is only good because she's Amy Adams
-* This was supposed to be the movie that saved Amy Adams not destroy her
-* Obvious who this movie is for, I am clearly not the target demographic

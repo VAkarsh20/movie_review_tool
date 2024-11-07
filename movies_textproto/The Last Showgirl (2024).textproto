@@ -6,7 +6,7 @@ review {
       name: "Gia Coppola"
     }
     rating: "TODO"
-    comments: "The direction on a macroscale feels very raw and artistic, similiar to 'The Wrestler'; the direction on a microscale is decent as you get a sense of what Pamela Anderson's character is fighting against in these scenes, but there is a lot of stiffness in these scenes; the storytelling feels raw as you see the story from the lense of the main character as she navigates this new chapter of her life, and this feels very similiar to 'The Wrestler'"
+    comments: "The direction on a macroscale feels very raw and artistic, similar to \"The Wrestler\" ; the direction on a microscale is decent as you get a sense of what Pamela Anderson\'s character is fighting against in these scenes, but there is a lot of stiffness in these scenes ; the storytelling feels raw as you see the story from the lens of the main character as she navigates this new chapter of her life, and this feels very similar to \"The Wrestler\""
   }
   acting {
     performance {
@@ -14,21 +14,21 @@ review {
         name: "Pamela Anderson"
       }
       rating: "Good"
-      comments: "A career best performance as she pulls a lot from her life to deliever a very personal performance; very analogous to Mickey Rourke in 'The Wrestler'"
+      comments: "A career-best performance as she pulls a lot from her life to deliver a very personal performance; very analogous to Mickey Rourke in \"The Wrestler\""
     }
     performance {
       actor {
         name: "Jamie Lee Curtis"
       }
       rating: "Pretty Good"
-      comments: "Basically plays her character from 'The Bear'"
+      comments: "She essentially plays her character from \"The Bear\""
     }
     performance {
       actor {
         name: "Dave Bautista"
       }
       rating: "Decent"
-      comments: "A very grounded performance that he is not typical of playing; really supports his cast members with how grounded he is"
+      comments: "A very grounded performance that is not typical of him; he really supports his cast members with how grounded he is"
     }
     performance {
       actor {
@@ -42,25 +42,25 @@ review {
         name: "Kiernan Shipka"
       }
       rating: "Decent"
-      comments: "Does a decent job showing the younger flare of the group"
+      comments: "It does a decent job showing the younger flair of the group"
     }
     performance {
       actor {
         name: "Billie Lourd"
       }
       rating: "Decent"
-      comments: "has decent chemistry with Pamela Anderson; not trying to be agist, but they could've aged up her character a little bit because she does not look 21-22"
+      comments: "He has decent chemistry with Pamela Anderson; Not trying to be ageist, but they could have aged up her character a little bit because she does not look 21-22"
     }
     performance {
       actor {
         name: "Jason Schwartzman"
       }
       rating: "Decent to Pretty Good"
-      comments: "More of a cameo, but does a good job leaving his mark in the one scene he is in"
+      comments: "More of a cameo, but he does a good job leaving his mark in the one scene he is in"
     }
     cast {
       rating: "Decent to Prety Good"
-      comments: "There isn't too much of a remaining cast; the cast does a pretty good job working together as there is a strong sense of chemistry"
+      comments: "There isn\'t too much of a remaining cast; the cast does a pretty good job working together as there is a strong sense of chemistry"
     }
     rating: "Pretty Good"
   }
@@ -69,28 +69,28 @@ review {
       name: "Kate Gersten"
     }
     rating: "Pretty Good"
-    comments: "The concept is very similiar to 'The Wrestler', a story about a past their prime performer looking to navigate through this next phase of their life; the plot structure is pretty linear, but its short runtime makes the movie feel a little unfinished; character writing is good because this character movie about a past their prime performer makes the movie interesting as you see how they come to terms with this next phase of their life"
+    comments: "The concept is very similar to \'The Wrestler\', a story about a past-their-prime performer looking to navigate through this next phase of their life; the plot structure is pretty linear, but its short runtime makes the movie feel a little unfinished; character writing is good because this character movie about a past-their-prime performer makes the movie interesting as you see how they come to terms with this next phase of their life"
   }
   screenplay {
     writer {
       name: "Kate Gersten"
     }
     rating: "Good"
-    comments: "The dialogue is good; the humor is pretty playful; the symbolism is pretty good as the images and symbols of this past-their-prime star really show the beauty in aging and finding purpose in life as you enter a new phase; the structure of the movie means there really isn't that much foreshadowing because it starts at the end"
+    comments: "The dialogue is good; the humor is pretty playful; the symbolism is pretty good as the images and symbols of this past-their-prime star really show the beauty in aging and finding purpose in life as you enter a new phase; the structure of the movie means there really isn\'t that much foreshadowing because it starts at the end"
   }
   score {
     composer {
       name: "Andrew Wyatt"
     }
     rating: "Good"
-    comments: "Used well to make this movie feel very artistic and help establish the tone of the movie; helps make the movie feel similiar to 'The Wrester'"
+    comments: "Used well to make this movie feel very artistic and help establish the tone of the movie;  it helps make the movie feel similar to \"The Wrestler\""
   }
   cinematography {
     cinematographer {
       name: "Autumn Durald Arkapaw"
     }
     rating: "Good to Very Good"
-    comments: "The imagery and artisty of the character shots across the backdrop of Las Vegas are beautiful and make this movie feel very artistic; the hand-held, guerilla style cinematography makes this movie feel very raw and similiar to 'The Wrestler'"
+    comments: "The imagery and artistry of the character shots across the backdrop of Las Vegas are beautiful and make this movie feel very artistic; the hand-held, guerrilla-style cinematography makes this movie feel very raw and similar to \"The Wrestler\""
   }
   editing {
     editor {
@@ -100,21 +100,21 @@ review {
       name: "Cam McLauchlin"
     }
     rating: "Good"
-    comments: "Helps the cinematography in making this movie feel very artistic and beautiful when it shows the main character across the backdrop of Las Vegas, showing this juxtapostion of a city that never ages"
+    comments: "Helps the cinematography in making this movie feel very artistic and beautiful when it shows the main character across the backdrop of Las Vegas, showing this juxtaposition of a city that never ages"
   }
   production_design {
     rating: "Good"
-    comments: "The backdrop of Las Vegas against this aging chracter creates this beautiful juxtapostion of a city that never ages"
+    comments: "The backdrop of Las Vegas against this aging character creates this beautiful juxtaposition of a city that never ages"
   }
   costumes {
     rating: "Pretty Good"
     comments: "Helps show how their show is an aging relic of old Las Vegas"
   }
-  pacing: "Pacing is too fast as the runtime feels too short; 15-20 minutes could have been added to help strengthen the narrative and give more of a relationship between the mother and daughter"
-  climax: "Climax is good as it leaves the movie where it should"
-  tone: "Tone is very artsy and gritty; tone feels very similiar to 'The Wrestler'"
-  final_notes: "Saw premiere at Austin Film Festival"
-  overall: "Overall, a pretty good movie that is the female version of 'The Wrester'; this film is an artistic and raw presentation of a past-their-prime performer entering the next chapter of their life, carried out by a strong lead performance from Pamela Anderson"
+  pacing: "Pacing is too fast, as the runtime feels too short; 15-20 minutes could have been added to help strengthen the narrative and give more of a relationship between the mother and daughter"
+  climax: "Climax is good because it leaves the movie where it should"
+  tone: "Tone is very artsy and gritty; tone feels very similar to \"The Wrestler\""
+  final_notes: "I saw the premiere at the Austin Film Festival"
+  overall: "Overall, a pretty good movie that is the female version of \"The Wrestler\" ; this film is an artistic and raw presentation of a past-their-prime performer entering the next chapter of their life, carried out by a strong lead performance from Pamela Anderson"
 }
 release_year: 2024
 review_date: "10/29/2024"
