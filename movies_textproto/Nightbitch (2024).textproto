@@ -6,7 +6,7 @@ review {
       name: "Marielle Heller"
     }
     rating: "Bad"
-    comments: "The direction on a macroscale is very simple and feel-good, makes it feel like this movie was made explicitly for 'Booktok'; the direction on a microscale is very bland, forced, and simple; the storytelling is incredibly simple and bland as it reads like a mother reading this story back to me"
+    comments: "The direction on a macroscale is very simple and feel-good, makes it feel like this movie was made explicitly for \"Booktok\" ; the direction on a microscale is very bland, forced, and simple ; the storytelling is incredibly simple and bland as it reads like a mother reading this story back to me"
   }
   acting {
     performance {
@@ -14,7 +14,7 @@ review {
         name: "Amy Adams"
       }
       rating: "Good"
-      comments: "Her performance is only good because she's Amy Adams; she's given nothing to work with"
+      comments: "Her performance is only good because she\'s Amy Adams; she\'s given nothing to work with"
     }
     performance {
       actor {
@@ -25,7 +25,7 @@ review {
     }
     cast {
       rating: "Decent"
-      comments: "A lot of background actors that are fine; mainly just support Adams"
+      comments: "A lot of background actors, who are fine, mainly just support Adams"
     }
     rating: "Pretty Good"
   }
@@ -34,14 +34,14 @@ review {
       name: "Marielle Heller"
     }
     rating: "Bad"
-    comments: "The concept is actually very dumb, and it is obvious this movie was made for 'Booktok' because the book is a 'Booktok' book; not only is the concept dumb, they do a bad job actually introducing it and showing its importance because it only feels like a small detail throughout the movie; the plot structure is very plain and simple; the character writing is pretty good, even though it is very overt, because the main character is a symbol for the struggles with motherhood and how it is ok not to be the perfect mom"
+    comments: "The concept is actually very dumb, and it is obvious this movie was made for \'Booktok\' because the book is a \'Booktok\' book; not only is the concept dumb, they do a bad job actually introducing it and showing its importance because it only feels like a small detail throughout the movie; the plot structure is very plain and simple; the character writing is pretty good, even though it is very overt, because the main character is a symbol for the struggles with motherhood and how it is ok not to be the perfect mom"
   }
   screenplay {
     writer {
       name: "Marielle Heller"
     }
     rating: "Pretty Bad"
-    comments: "The dialogue is simple, bland, and written as it it was for 'Booktok'; the dialgoue is so bad that there is literally a scene with the first 20 minutes of the movie where the main character says 'I am Nightbitch'; the humor is fine, but very forced; the symbolism is profound as the whole movie is about the struggles of Motherhood and accepting nothing being a model mom or person; the foreshadowing is only there because the movie is very formulaic"
+    comments: "The dialogue is simple, bland, and written as if it were for \"Booktok\" ; the dialogue is so bad that there is literally a scene within the first 20 minutes of the movie where the main character says \"I am Nightbitch\" ; the humor is fine, but very forced ; the symbolism is profound, as the whole movie is about the struggles of motherhood and accepting that nothing is a model mom or person ; the foreshadowing is only there because the movie is very formulaic"
   }
   cinematography {
     cinematographer {
@@ -61,11 +61,11 @@ review {
     rating: "Pretty Bad"
     comments: "Pretty tacky"
   }
-  pacing: "Pacing is a little bit slow because of the narration moving the story forward"
-  climax: "Climax is pretty forced"
-  tone: "Tone feels very much like this movie was made for 'Booktok'"
-  final_notes: "Saw premiere at Austin Film Festival; obvious who this movie is for, I am clearly not the target demographic; this was supposed to be the movie that saved Amy Adams not destroy her"
-  overall: "Overall, a pretty bad movie that just feels like this movie was made for 'Booktok'; Amy Adams can only do so much given how dumb the story is, despite its strong messages about the struggles of motherhood"
+  pacing: "The pacing is a little slow because the narration moves the story forward"
+  climax: "The climax is pretty forced"
+  tone: "The tone feels very much like this movie was made for \"Booktok\""
+  final_notes: "Saw premiere at the Austin Film Festival; It is obvious who this movie is for, I am clearly not the target demographic; This was supposed to be the movie that saved Amy Adams, not destroy her"
+  overall: "Overall, a pretty bad movie that just feels like it was made for \'Booktok\'; Amy Adams can only do so much given how dumb the story is, despite its strong messages about the struggles of motherhood"
 }
 release_year: 2024
 review_date: "10/30/2024"

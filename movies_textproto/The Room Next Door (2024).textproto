@@ -6,92 +6,83 @@ review {
       name: "Pedro Almod\303\263var"
     }
     rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    comments: "The direction on a macroscale feels very simple, lazy, and unfocused; the direction on a microscale feels unnatural and poorly executed, despite some good moments from these two experienced actors; the storytelling is incredibly simple"
   }
   acting {
     performance {
       actor {
         name: "Tilda Swinton"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Has some moments that are truly memorable and shows some range of depth, but the material and direction is just so bad that it is hard to take this performance seriously; her chemistry with Julianne Moore is not that good"
     }
     performance {
       actor {
         name: "Julianne Moore"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Bad"
+      comments: "Given very poor direction and material to work with as you can tell she is restricted from showing her natural ability; has bad chemsitry with Swinton"
     }
     performance {
       actor {
         name: "John Turturro"
       }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Alessandro Nivola"
-      }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Bad"
+      comments: "Really a minor character as the movie is really about the two leads, but still is an victim of the bad material and direction"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Bad"
+      comments: "The movie is really about the two leads, but the minor characters are given very bad dialogue and direction that they really cannot do anything"
     }
-    rating: "TODO"
+    rating: "Pretty Bad"
   }
   story {
     writer {
       name: "Pedro Almod\303\263var"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Very Bad"
+    comments: "The concept is interesting, its just not put together well; the plot structure is very simplistic; character writing should be alot better that it is given what this movie is about, but the writing is just so shallow it ruins any oppunity to construct interesting characters"
   }
   screenplay {
     writer {
       name: "Pedro Almod\303\263var"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Very Bad"
+    comments: "The dialogue is atricious and unnatural, people do not talk this way; the dialogue was written as if the first draft was in a different language and then put through Google Translate to translate it to English; the dialogue is next door in quality to 'The Room'; the humor is unintentially funny because of how bad the writing it is; the symbolism is not presented well; the foreshadowing is pretty overt"
   }
   score {
     composer {
       name: "Alberto Iglesias"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Bad"
+    comments: "The composition is pretty good, its just it is poorly used in the movie and is poorly mixed at times as it drowns out what is going on screen"
   }
   cinematography {
     cinematographer {
       name: "Edu Grau"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Bad"
+    comments: "Simple and lazy"
   }
   editing {
     editor {
       name: "Teresa Font"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Bad"
+    comments: "Simple and lazy"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Bad"
+    comments: "The music is poorly mixed into the movie, and this drowns out what is going on on-screen"
   }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing is incredibly slow given how bad the dialogue is and how little plot there actually is"
+  climax: "Climax is anticlimatic and borderline funny with what actually happens"
+  tone: "Tone is supposed to be a drama, but the movie and writing is so bad that it comes off as a black comedy"
+  final_notes: "Saw premiere at Austin Film Festival"
+  overall: "Overall, a bad movie that feels lazily put together as the quality of the direction and writing are so bad that they feel next door to 'The Room'"
 }
 release_year: 2024
 review_date: "10/31/2024"
 redux: false
 id: 508
 imdb_id: "tt29439114"
-
-* Premeire at Austin Film Festival
