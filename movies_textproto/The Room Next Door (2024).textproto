@@ -1,11 +1,11 @@
 title: "The Room Next Door"
-rating: 0.1
+rating: 4.1
 review {
   direction {
     director {
       name: "Pedro Almod\303\263var"
     }
-    rating: "TODO"
+    rating: "Bad"
     comments: "The direction on a macroscale feels very simple, lazy, and unfocused; the direction on a microscale feels unnatural and poorly executed, despite some good moments from these two experienced actors; the storytelling is incredibly simple"
   }
   acting {

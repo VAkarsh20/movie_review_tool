@@ -1,5 +1,5 @@
 title: "The Piano Lesson"
-rating: 0.1
+rating: 6.8
 review {
   direction {
     director {
@@ -110,7 +110,7 @@ review {
     comments: "Felt pretty amateur"
   }
   sound {
-    rating: "TODO"
+    rating: "Pretty Good"
     comments: "Helps enhance those horror elements"
   }
   visual_effects {

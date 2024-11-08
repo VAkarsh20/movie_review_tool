@@ -1,5 +1,5 @@
 title: "Dirty Harry"
-rating: 0.1
+rating: 8.2
 review {
   direction {
     director {
@@ -20,7 +20,7 @@ review {
       rating: "Pretty Good"
       comments: "All do their jobs well and buttress Eastwood as the star of the movie"
     }
-    rating: "TODO"
+    rating: "Good"
   }
   story {
     writer {

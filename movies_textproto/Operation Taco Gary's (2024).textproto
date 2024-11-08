@@ -1,11 +1,11 @@
 title: "Operation Taco Gary\'s"
-rating: 0.1
+rating: 3.3
 review {
   direction {
     director {
       name: "Michael Kvamme"
     }
-    rating: "Bad"
+    rating: "Very Bad"
     comments: "The direction on a macroscale is simple and feels like a student film; the direction on a microscale is not good as the comedic moments are forced and really not that funny; storytelling is so simple that it feels like a student film; tension is poorly executed because you really don\'t care for any of these characters, especially when something happens to them"
   }
   acting {
@@ -61,14 +61,14 @@ review {
     writer {
       name: "Michael Kvamme"
     }
-    rating: "TODO"
+    rating: "Very Bad"
     comments: "The concept is very dumb; the plot structure is simple and formulaic to other dumb comedies; character writing is simple, bland, and not really that good"
   }
   screenplay {
     writer {
       name: "Michael Kvamme"
     }
-    rating: "TODO"
+    rating: "Very Bad"
     comments: "The dialogue is not well written as it feels like it\'s from a student movie; the humor is not good as the movie just feels like every other dumb comedy, and the joke rate is maybe 1/5 jokes"
   }
   cinematography {
@@ -104,7 +104,7 @@ review {
   climax: "Climax is poorly executed and very dumb"
   tone: "Tone is like every other dumb comedy; the dumb 00s comedy tone feels very dated"
   final_notes: "Saw the world premiere at the Austin Film Festival"
-  overall: "Overall, a bad dumb comedy that feels like a student film"
+  overall: "Overall, a very bad, dumb comedy that feels like a student film"
 }
 release_year: 2024
 review_date: "10/25/2024"

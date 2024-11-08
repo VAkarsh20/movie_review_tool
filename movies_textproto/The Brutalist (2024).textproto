@@ -1,11 +1,11 @@
 title: "The Brutalist"
-rating: 0.1
+rating: 9.1
 review {
   direction {
     director {
       name: "Brady Corbet"
     }
-    rating: "TODO"
+    rating: "Great"
     comments: "The direction on a macroscale is grand as this movie feels like an epic that emulates films from the time period it portrays; the direction on a microscale is great as the interpersonal scenes really paint who these characters are and the struggles they go through; the storytelling is great, it tackles many serious topics in an artsy way, and the movie really does feel like a modern-day Godfather with how they told this epic; they build tension incredibly well as you genuinely experience second-hand trauma from what you see these characters experience"
   }
   acting {
@@ -74,7 +74,7 @@ review {
     writer {
       name: "Mona Fastvold"
     }
-    rating: "TODO"
+    rating: "Great"
     comments: "The dialogue is polished and profound; the symbolism is incredibly profound as the movie tackles many hard topics like addiction, trauma, and the immigrant experience to show the protagonist\'s shell-shocked experience of trying to live the \'American Dream\'; the foreshadowing is great as it is used well in conjunction with tension to build a captivating climax"
   }
   score {
