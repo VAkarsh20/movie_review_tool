@@ -1,0 +1,91 @@
+title: "Anora"
+rating: 8.0
+review {
+  direction {
+    director {
+      name: "Sean Baker"
+    }
+    rating: "Very Good"
+    comments: "The direction on a macroscale is great as feels like an beauitful extension of his auter vision, and it is very similiar to the look and feel of the rest of his filmography; the direction on a microscale is good as the movie uses these scenes to build tension, the relationships of the character, and give the movie it's personality; storytelling is good for the most part as you look at the story from the lense of Ani and how she views the world, but has it's flaws with how slow it goes through the long runtime/elongated scenes; they build tension in a comical way that is both funny, yet terrifying"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Mikey Madison"
+      }
+      rating: "Great"
+      comments: "A career-defining performance as she accurately captures someone who wants to be loved, but does not know how; delievers a brave performance that captures the vulnerability of a sex-worker, and how hard it is to break from it; does an amazing job showing a wide range of emotions from loving, to defensive, to passionate, to cunning, to rage; very Long Island"
+    }
+    performance {
+      actor {
+        name: "Mark Eydelshteyn"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the rich spoiled brat well; has good chemistry with Madison"
+    }
+    performance {
+      actor {
+        name: "Yura Borisov"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Is not given that much to work with but establishes his presense when given the chance, and has good chemistry with Madison"
+    }
+    performance {
+      actor {
+        name: "Karren Karagulian"
+      }
+      rating: "Pretty Good"
+      comments: "Shows range and has good chemistry with Madison"
+    }
+    performance {
+      actor {
+        name: "Vache Tovmasyan"
+      }
+      rating: "Pretty Good"
+      comments: "Shows comedic side and has good chemistry with Karagulian and Madison"
+    }
+    cast {
+      rating: "Decent to Pretty Good"
+      comments: "The cast as a whole does a pretty good job in moving the story forward and making Madison really feel like the star; there are some moments that feel like the acting was not the best, but the acting overall feels like it is elevated by the direction"
+    }
+    rating: "Good"
+  }
+  story {
+    writer {
+      name: "Sean Baker"
+    }
+    rating: "Decent to Pretty Good"
+    comments: "The concept is interesting as it uses sex work and this relationship to explore the people in the industry and the seperation of classes between the rich and the poor; the plot structure is the biggest issue for this movie as it is unnecessarily long because the exposition, rising action, and resolution could have all been cut in half to present a movie that is 40 minutes shorter and basically the same; the character writing is very good for the most part as you see how the rich view society and the people that work for them and how Ani feels like she does not know how to leave this life presented to her by Sex work, but the relationship between Ani and Vaniya is not written that well as it feels very forced"
+  }
+  screenplay {
+    writer {
+      name: "Sean Baker"
+    }
+    rating: "Good"
+    comments: "The dialogue is good and feels pretty authetnic to what would happen, but feels forced at times and continues many unnatural luls in the conversation; the humor is pretty good as it uses humor a lot of times to create tension; the symbolism is incredibly profound as this movie has many messages on class dynamics and sex work; the foreshadowing is not that great"
+  }
+  cinematography {
+    cinematographer {
+      name: "Drew Daniels"
+    }
+    rating: "Great"
+    comments: "Very beauitful and feels like an extension of Sean Baker's auter vision"
+  }
+  editing {
+    editor {
+      name: "Sean Baker"
+    }
+    rating: "Very Good"
+    comments: "Cut very well and feels like an extension of Sean Baker's auter vision"
+  }
+  pacing: "Pacing is incredibly slow as there is just so much unnecessary plot to go through; the move could have been cut by 40 minutes and it would have been the same movie"
+  climax: "Climax feels pretty lackluster given how unnecessarily long the movie feels"
+  tone: "Tone is similiar to other Sean Baker movie's in terms of feel in the more artistic moments; the feel of the interpersonal scenes feels like a comedy-drama, but moments that definitely lean to one side of spectrum"
+  final_notes: "Does so much with only a 6 million dollar budget"
+  overall: "Overall, a good movie that is driven by a Mikey Madison's great performance and an Sean Baker's autuer, symbolic vision, but the film is so unnecessarily long that the story feels bloated and the pacing feels slow"
+}
+release_year: 2024
+review_date: "11/10/2024"
+redux: false
+id: 510
+imdb_id: "tt28607951"
