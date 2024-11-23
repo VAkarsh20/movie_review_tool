@@ -1,12 +1,12 @@
 title: "Wicked"
-rating: 0.1
+rating: 7.1
 review {
   direction {
     director {
       name: "Jon M. Chu"
     }
     rating: "Pretty Good"
-    comments: "The direction on a macroscale is good as the musical numbers are well choregraphed and the world-building is good; the direction on microscale is pretty standard for a musical; the storytelling is pretty standard for a musical"
+    comments: "The direction on a macroscale is good, as the musical numbers are well-choreographed and the world-building is good; The direction on a microscale is pretty standard for a musical; The storytelling is pretty standard for a musical"
   }
   acting {
     performance {
@@ -14,49 +14,49 @@ review {
         name: "Cynthia Erivo"
       }
       rating: "Very Good"
-      comments: "Steals the show in her scenes as she shows a wide range of emotions and really embodies the character; has powerful musical performances that showcase her singing ability and help move the musical forward; has very good chemistry with Grande"
+      comments: "She steals the show in her scenes as she shows a wide range of emotions and really embodies the character; She has powerful musical performances that showcase her singing ability and help move the musical forward; She has very good chemistry with Grande"
     }
     performance {
       actor {
         name: "Ariana Grande"
       }
       rating: "Good"
-      comments: "Character feels like it fits Grande's personality/characters she has experience with, but feels a little too over-the-top, especailly when she breaks out into song and dance; good in the musical numbers as she shows her vocal range; has good chemistry with Erivo"
+      comments: "Character feels like it fits Grande\'s personality and characters she has experience with, but feels a little too over-the-top, especially when she breaks out into song and dance; She is good in the musical numbers as she shows her vocal range; She has good chemistry with Erivo"
     }
     performance {
       actor {
         name: "Jonathan Bailey"
       }
       rating: "Decent to Pretty Good"
-      comments: "Feels pretty much like he is eye-candy in this movie; has alright chemistry with the two leads; is alright in the musical numbers"
+      comments: "He feels pretty much like eye candy in this movie; He has alright chemistry with the two leads; He is alright in the musical numbers"
     }
     performance {
       actor {
         name: "Ethan Slater"
       }
       rating: "Decent to Pretty Good"
-      comments: "A very minor character, and does a decent job in the scenes he is in; pretty good in the musical numbers;wanted to point out that he plays a munchkin but is taller than Grande"
+      comments: "A very minor character and does a decent job in the scenes he is in; He is pretty good in the musical numbers; I wanted to point out that he plays a Munchkin but is taller than Grande"
     }
     performance {
       actor {
         name: "Bowen Yang"
       }
       rating: "Decent"
-      comments: "Basically just a slapstick, comic relief character"
+      comments: "Basically, just a slapstick comic relief character"
     }
     performance {
       actor {
         name: "Peter Dinklage"
       }
       rating: "Pretty Good"
-      comments: "Shows how much of an epxerienced actor he is; has good chemistry with Erivo; has an ok singing voice, but also barely uses it"
+      comments: "Shows how much of an experienced actor he is; He has good chemistry with Erivo; He has an okay singing voice but also barely uses it"
     }
     performance {
       actor {
         name: "Michelle Yeoh"
       }
       rating: "Pretty Bad"
-      comments: "It just feels like this role isn't really written for her as it does not highlight any of her natural talent as an actress; has pretty bad chemistry with the cast; not the best in the musical moments"
+      comments: "It just feels like this role isn\'t really written for her as it does not highlight any of her natural talent as an actress; She has pretty bad chemistry with the cast; She is not the best in the musical moments"
     }
     performance {
       actor {
@@ -67,7 +67,7 @@ review {
     }
     cast {
       rating: "Decent to Pretty Good"
-      comments: "Typical background musical actors; do a good job in the music numbers and helping support the main actors"
+      comments: "Typical background musical actors do a good job in the musical numbers and help support the main actors"
     }
     rating: "Pretty Good"
   }
@@ -78,8 +78,8 @@ review {
     writer {
       name: "Dana Fox"
     }
-    rating: "TODO"
-    comments: "The concept is the first act of the 'Wicked' musical, but this is a big problem because the movie feels incredibly bloated in exposition because it is 2 hours and 40 minutes for a musical that is in total 2 hours and 40 minutes; the plot structure is incredibly bloated because the whole movie feels like its exposition that is overly stretched out; the character writing is good as it deals with the character dynamic between the two leads and shows the feelings of being an outcast with Elphaba"
+    rating: "Pretty Bad"
+    comments: "The concept is the first act of the \"Wicked\" musical, but this is a big problem because the movie feels incredibly bloated with exposition; it is two hours and forty minutes for a musical that is two hours and forty minutes; the plot structure is incredibly bloated because the whole movie feels like overly stretched-out exposition; the character writing is good as it deals with the character dynamic between the two leads and shows the feelings of being an outcast with Elphaba"
   }
   screenplay {
     writer {
@@ -88,8 +88,8 @@ review {
     writer {
       name: "Dana Fox"
     }
-    rating: "TODO"
-    comments: "The dialogue is pretty standard for a family-friendly musical, with a lot of musical interjections throughout conversations; the humor is pretty good and makes the movie feel fun and playful; the symbolism is pretty overt, what I would expect for a family-friendly musical; the foreshadowing is pretty simple and out-there because of how the story is structured"
+    rating: "Decent"
+    comments: "The dialogue is pretty standard for a family-friendly musical, with a lot of musical interjections throughout conversations; The humor is pretty good and makes the movie feel fun and playful; The symbolism is pretty overt, what I would expect for a family-friendly musical; The foreshadowing is pretty simple and out-there because of how the story is structured"
   }
   score {
     composer {
@@ -99,51 +99,51 @@ review {
       name: "Stephen Schwartz"
     }
     rating: "Very Good"
-    comments: "Interpolates the themes and tones that make the original musical iconic"
+    comments: "It interpolates the themes and tones that make the original musical iconic;"
   }
   soundtrack {
     rating: "Very Good"
-    comments: "Does a very good job executing the musical numbers that have made 'Wicked' such an iconic musical; the new songs feel like they were a part of the original as they do a good job moving the story of the musical"
+    comments: "Does a very good job executing the musical numbers that have made \"Wicked\" such an iconic musical; The new songs feel like they were part of the original as they do a good job moving the story of the musical"
   }
   cinematography {
     cinematographer {
       name: "Alice Brooks"
     }
     rating: "Good"
-    comments: "Feels polished and is a key factor for why the musical numbers are well exectued"
+    comments: "Feels polished and is a key factor for why the musical numbers are well executed;"
   }
   editing {
     editor {
       name: "Myron Kerstein"
     }
     rating: "Good"
-    comments: "Feels polished and is a key factor for why the musical numbers are well exectued"
+    comments: "Feels polished and is a key factor for why the musical numbers are well executed;"
   }
   sound {
     rating: "Good"
-    comments: "Helps give the movie a musical feel; vocal/sound mixing is good for the musical numbers"
+    comments: "Helps give the movie a musical feel; Vocal/sound mixing is good for the musical numbers"
   }
   visual_effects {
     rating: "Pretty Bad"
-    comments: "Feels very over-the-top and overly produced; makes the movie feel like it is from the 2010s and kinda hurts the theater aesthetic of 'Wicked' and the golden age of hollywood aesthetic of 'The Wizard of Oz'"
+    comments: "Feels very over-the-top and overly produced; This makes the movie feel like it is from the 2010s and somewhat hurts the Broadway aesthetic of \"Wicked\" and the Golden Age of Hollywood aesthetic of \"The Wizard of Oz\""
   }
   production_design {
     rating: "Pretty Bad"
-    comments: "Feels unnatural and CGI, ruins the aesthetic created from 'Wicked' and 'The Wizard of Oz'"
+    comments: "Feels unnatural and like CGI; it ruins the aesthetic created by \"Wicked\" and \"The Wizard of Oz\""
   }
   makeup {
     rating: "Good"
-    comments: "Helps paint these characters, especailly  Elphaba"
+    comments: "Helps paint these characters, especially Elphaba"
   }
   costumes {
     rating: "Great"
-    comments: "Feel well designed and help paint these characters; more of a plot hole, but why do only the main two characters have different designs than the rest of the cast in the college, especailly Elphaba"
+    comments: "Feel well-designed and help paint these characters; More of a plot hole exists, but why do only the main two characters have different designs than the rest of the college cast, especially Elphaba"
   }
-  pacing: "Pacing is incredibly slow as the movie feels entirely like exposition as it streches out the first act of a 2 hour and 40 minute musical into a 2 hour and 40 minute part one movie; the interjections of musical numbers and musical dialogue also slow down the movie a lot"
-  climax: "Climax is executed decently well"
-  tone: "Tone is very similiar to other musicals; there are some fantasy flavors to help paint this musical in the same universe as 'The Wizard of Oz'"
-  final_notes: "The marketing campaign is really hurting the movie as it would've been a major reason why I almost didn't see this movie"
-  overall: "Overall, a pretty good musical that has a memorable performances from the leads and well executed musical numbers, but 'Wicked' is incredibly slow and bloated in exposition as they streched out the first act of a 2 hour and 40 minute musical into a 2 hour and 40 minute part one movie"
+  pacing: "Pacing is incredibly slow as the movie feels entirely like exposition as it stretches out the first act of a two-hour and forty-minute musical into a two-hour and forty-minute, part-one movie; The interjections of musical numbers and musical dialogue also slow down the movie a lot"
+  climax: "Climax is executed decently well;"
+  tone: "Tone is very similar to other musicals; There are some fantasy flavors to help paint this musical in the same universe as \"The Wizard of Oz\""
+  final_notes: "The marketing campaign is really hurting the movie as it would have been a major reason why I almost didn\'t see this movie"
+  overall: "Overall, a pretty good musical that has memorable performances from the leads and well-executed musical numbers; but \"Wicked\" is incredibly slow and bloated in its exposition, as they stretched out the first act of a two-hour and forty-minute musical into a two-hour and forty-minute part one movie"
 }
 release_year: 2024
 review_date: "11/17/2024"

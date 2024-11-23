@@ -1,0 +1,81 @@
+title: "A Real Pain"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Jesse Eisenberg"
+    }
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale is pretty simple and artistic; the direction on a microscale is good as the movie is really built on the interpersonal scenes and the conversations between the characters, especailly Eisenberg and Culkin; the storytelling is pretty simple"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Jesse Eisenberg"
+      }
+      rating: "Good"
+      comments: "Shows his experience as an introverted, nerdy actor well; shows a good range of emotions; has good chemistry with Culkin"
+    }
+    performance {
+      actor {
+        name: "Kieran Culkin"
+      }
+      rating: "Very Good"
+      comments: "Plays a character that is written for him as it feels very similiar to Roman and his real life personality; does a masterful job switching between comedy and serious drama filled with trauma; has good chemistry with Eisenberg"
+    }
+    performance {
+      actor {
+        name: "Will Sharpe"
+      }
+      rating: "Pretty Good"
+      comments: "The best of the remaining cast as he is the leader for that crew"
+    }
+    cast {
+      rating: "Pretty Good"
+      comments: "Everyone does their job in helping move the story forward and helping support the main two actors, given them material to showcase their acting ability"
+    }
+    rating: "Good"
+  }
+  story {
+    writer {
+      name: "Jesse Eisenberg"
+    }
+    rating: "Pretty Good"
+    comments: "The concept is pretty simple as it follows a pilgrammage for two close cousins; the plot structure is pretty straightforward and linear; the character writing is very good as we look into the trauma that defines these chracter's struggles, especailly Culkins's character"
+  }
+  screenplay {
+    writer {
+      name: "Jesse Eisenberg"
+    }
+    rating: "Very Good"
+    comments: "The dialogue is very good as it is the perfect blend of comedy and drama, being funny for the former and profoudn for the latter; the symbolism is profound as the movie tackles grief very well and interweaves comedy well into the dramatic moments to address the traumas of the characters; the foreshadowing is pretty standard"
+  }
+  cinematography {
+    cinematographer {
+      name: "Micha\305\202 Dymek"
+    }
+    rating: "Good"
+    comments: "Pretty Standard and simple; feels artsy at times"
+  }
+  editing {
+    editor {
+      name: "Robert Nassau"
+    }
+    rating: "Good"
+    comments: "Pretty Standard and simple; feels artsy at times"
+  }
+  production_design {
+    rating: "Good"
+    comments: "Does a good job filming on sight to help the audience go on this pilgrammage with the characters"
+  }
+  pacing: "Pacing is good as it effectively uses its 90 minute runtime well"
+  climax: "Climax is good as it feels like a climax in both these character's journeys and acts as an important moment in the relationship with each other"
+  tone: "Tone is great as it plays the line between comedy and drama very well; the perfect example of a comedy-drama"
+  final_notes: ""
+  overall: "Overall, a good comedy-drama that is carried by Kieran Culkin's performance and Eisenberg's writing as the movie perfecly walks the line between comedy and drama"
+}
+release_year: 2024
+review_date: "11/20/2024"
+redux: false
+id: 512
+imdb_id: "tt21823606"
