@@ -1,68 +1,68 @@
 title: "Gladiator"
-rating: 0.1
+rating: 7.9
 review {
   direction {
     director {
       name: "Ridley Scott"
     }
     rating: "Good"
-    comments: "The direction on a macroscale is very good and grand as he captures the essessne of the Roman Empire and gladiator fights, making this movie a memorable epic; the direction on a microscale is pretty standard for a period epic set in this time period; the storytelling is good for a roman epic; they build tension pretty well"
+    comments: "The direction on a macroscale is very good and grand as he captures the essence of the Roman Empire and gladiator fights, making this movie a memorable epic; The direction on a microscale is pretty standard for a period epic set in this time period; The storytelling is good for a Roman epic; They build tension pretty well"
   }
   acting {
     performance {
       actor {
         name: "Russell Crowe"
       }
-      rating: "Good to Very Good"
-      comments: "Delivers a memorable performance as he commands the macroscale scene with his presence, and delivers powerful moments when he recites the iconic lines; his perfomrance on the microscale is pretty good, but pretty standard"
+      rating: "Good"
+      comments: "Delivers a memorable performance as he commands the macroscale scene with his presence and delivers powerful moments when he recites the iconic lines; His performance on the microscale is pretty good but pretty standard"
     }
     performance {
       actor {
         name: "Joaquin Phoenix"
       }
-      rating: "Pretty Good to Good"
-      comments: "A pompous, 'King Joffrey' like performance that is memorable as you really do hate this character, though is pretty annoying and cringey"
+      rating: "Pretty Good"
+      comments: "A pompous, \"King Joffrey\"-like performance that is memorable because you really do hate this character, though it is pretty annoying and cringey"
     }
     performance {
       actor {
         name: "Connie Nielsen"
       }
-      rating: "Pretty Good"
-      comments: "Does a pretty good job playing the love interest, but is pretty standard"
+      rating: "Decent to Pretty Good"
+      comments: "It does a pretty good job playing the love interest but is pretty standard"
     }
     performance {
       actor {
         name: "Oliver Reed"
       }
-      rating: "Pretty Good"
-      comments: "Plays the mentor role pretty well; has good chemistry with Crowe"
+      rating: "Decent to Pretty Good"
+      comments: "Plays the mentor role pretty well; Has good chemistry with Crowe"
     }
     performance {
       actor {
         name: "Djimon Hounsou"
       }
-      rating: "Pretty Good to Good"
-      comments: "Has good chemistry with Crowe and shows his role as a fighter"
+      rating: "Pretty Good"
+      comments: "He has good chemistry with Crowe and shows his role as a fighter"
     }
     performance {
       actor {
         name: "Richard Harris"
       }
-      rating: "Pretty Good"
-      comments: "A very similiar performance to his Dumbledoor character"
+      rating: "Decent to Pretty Good"
+      comments: "A very similar performance to his Dumbledore character"
     }
     cast {
-      rating: "Pretty Good"
-      comments: "Filled with many Roman era, period performances; help support the main cast"
+      rating: "Decent to Pretty Good"
+      comments: "Filled with many Roman-era period performances; help support the main cast"
     }
-    rating: "Pretty Good to Good"
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
       name: "David Franzoni"
     }
     rating: "Good"
-    comments: "The concept is good as it is a Roman epic that explores the vengance story-template; the plot structure is pretty standard for an epic; the character writing is very good for Maximus as the character is memorable for trying to get vengance and do what is right for Rome"
+    comments: "The concept is good as it is a Roman epic that explores the vengeance story-template; The plot structure is pretty standard for an epic; The character writing is very good for Maximus as the character is memorable for trying to get vengeance and do what is right for Rome"
   }
   screenplay {
     writer {
@@ -75,7 +75,7 @@ review {
       name: "William Nicholson"
     }
     rating: "Pretty Good"
-    comments: "The dialogue has iconic lines, but is pretty clunky and similiar to other Roman period films; the symbolism is pretty overt as the movie is about vengance and ethical decisions; the foreshadowing is good as the movie interjects the ending to show what the story is moving towards"
+    comments: "The dialogue has iconic lines, but is pretty clunky and similar to other Roman period films; The symbolism is pretty overt, as the movie is about vengeance and ethical decisions; The foreshadowing is good, as the movie interjects the ending to show what the story is moving towards"
   }
   score {
     composer {
@@ -85,43 +85,43 @@ review {
       name: "Lisa Gerrard"
     }
     rating: "Great"
-    comments: "Icnoic and filled with many themes that influences films in the 2000s; used well to establish tone and build tension in the action sequences; sounds very similiar to what he eventually did for Pirates of the Carribean"
+    comments: "Iconic and filled with many themes that influenced films in the 2000s;  Used well to establish tone and build tension in the action sequences; Sounds very similar to what he eventually did for Pirates of the Caribbean"
   }
   cinematography {
     cinematographer {
       name: "John Mathieson"
     }
     rating: "Very Good"
-    comments: "Grand and helps showcase the grand nature of Rome and the Gladiator fights"
+    comments: "Grand and helps showcase the grandeur of Rome and the gladiatorial fights;"
   }
   editing {
     editor {
       name: "Pietro Scalia"
     }
-    rating: "Good"
-    comments: "Standard and polished; was not a big fan of the slow-motion edits"
+    rating: "Decent"
+    comments: "Standard and polished was not a big fan of the slow-motion edits; some of the edits felt very dated to the early 2000s"
   }
   sound {
-    rating: "Very Good"
-    comments: "Makes this movie a grand specticle"
+    rating: "Great"
+    comments: "Makes this movie a grand spectacle"
   }
   visual_effects {
     rating: "Good"
-    comments: "Uses a lot of practical effects; helps make Rome look grand"
+    comments: "It uses a lot of practical effects; it helps make Rome look grand; the CGI made it feel very early 2000s and pretty dated"
   }
   production_design {
     rating: "Incredible"
-    comments: "Helped build Rome into this idea larger than just a city"
+    comments: "Helped build Rome into this larger idea than just a city"
   }
   costumes {
     rating: "Great"
-    comments: "Helps set this movie in the Roman era and create these galdiators"
+    comments: "Helps set this movie in the Roman era and create these gladiators"
   }
-  pacing: "Pacing is pretty slow, but standard for a Roman epic"
+  pacing: "Pacing is pretty slow but standard for a Roman epic;"
   climax: "Climax is executed very well"
-  tone: "Tone is very similiar to other Roman epics"
-  final_notes: ""
-  overall: "Overall, a good movie that is carried by a memorable performance from Russell Crowe and captivating action sequences as Ridley Scott builds Rome into this idea more grand than the city itself"
+  tone: "Tone is very similar to other Roman epics"
+  final_notes: "The feel for this movie is very dated with some of the tactics they used"
+  overall: "Overall, a pretty good movie that is carried by a memorable performance from Russell Crowe and captivating action sequences as Ridley Scott builds Rome into this idea more grand than the city itself"
 }
 release_year: 2000
 review_date: "11/28/2024"
