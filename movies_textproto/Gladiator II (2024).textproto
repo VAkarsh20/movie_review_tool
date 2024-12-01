@@ -1,0 +1,145 @@
+title: "Gladiator II"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Ridley Scott"
+    }
+    rating: "TODO"
+    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Paul Mescal"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Pedro Pascal"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Joseph Quinn"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Fred Hechinger"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Lior Raz"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Derek Jacobi"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Connie Nielsen"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Denzel Washington"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    cast {
+      rating: "TODO"
+      comments: "TODO"
+    }
+    rating: "TODO"
+  }
+  story {
+    writer {
+      name: "Peter Craig"
+    }
+    writer {
+      name: "David Scarpa"
+    }
+    rating: "TODO"
+    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+  }
+  screenplay {
+    writer {
+      name: "David Scarpa"
+    }
+    rating: "TODO"
+    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+  }
+  score {
+    composer {
+      name: "Harry Gregson-Williams"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  cinematography {
+    cinematographer {
+      name: "John Mathieson"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  editing {
+    editor {
+      name: "Claire Simpson"
+    }
+    editor {
+      name: "Sam Restivo"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  sound {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2024
+review_date: "11/28/2024"
+redux: false
+id: 514
+imdb_id: "tt9218128"
