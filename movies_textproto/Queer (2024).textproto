@@ -86,7 +86,7 @@ review {
     comments: "Cut in a way that makes the movie feel like each shot is turning a page in this surrealist novel"
   }
   visual_effects {
-    rating: "TODO"
+    rating: "Good"
     comments: "Helps make the movie feel like a surrealist fantasy"
   }
   production_design {
@@ -108,8 +108,3 @@ review_date: "12/15/2024"
 redux: false
 id: 516
 imdb_id: "tt24176060"
-
-- Surrealist
-- Boring
-- Slow 
-- Really enjoyed the visuals
