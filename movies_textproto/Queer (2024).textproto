@@ -5,64 +5,57 @@ review {
     director {
       name: "Luca Guadagnino"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Decent"
+    comments: "The direction on a macroscale is good as it creates the surrealist world that matches the writting of William S. Burroughs; the direction on a microscale is pretty bad as a lot of the 1-on-1 scenes are very boring; the storytelling is pretty surrealist as you do not know what is true; he builds tension in a very weird way"
   }
   acting {
     performance {
       actor {
         name: "Daniel Craig"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Really commands the scenes he is in as he delivers an effortful performance; does not really have the best chemistry with Starkey and his classmates"
     }
     performance {
       actor {
         name: "Drew Starkey"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Does an alright job playing the muse of Lee; does not really have the best chemistry with Craig"
     }
     performance {
       actor {
         name: "Jason Schwartzman"
       }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Henrique Zaga"
-      }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Carries his own and has decent chemistry with Craig"
     }
     performance {
       actor {
         name: "Lesley Manville"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Plays her role of the isolated doctor well"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Mostly background characters, the movie is really about the two main characters"
     }
-    rating: "TODO"
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
       name: "Justin Kuritzkes"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Pretty Bad"
+    comments: "The concept is interesting as an idea, but not really carried out that well; the plot structure is alright as the movie is split up into chapters, but it does not really feel balanced; the character writing is not good as it does not really provide any depth into these characters as all of them just feel very boring"
   }
   screenplay {
     writer {
       name: "Justin Kuritzkes"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Pretty Bad"
+    comments: "The dialogue is pretty forgettable; the humor is ok, but not really that amazing; the symbolism is definitely there are the movie shares parallels with the book and the personal life of the author; the foreshadowing is pretty good"
   }
   score {
     composer {
@@ -71,48 +64,44 @@ review {
     composer {
       name: "Atticus Ross"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Pretty minimal, but used well to establish tone"
+  }
+  soundtrack {
+    rating: "Pretty Good"
+    comments: "Filled with a lot of contemporary music, especially Nirvana, but is used well to estbalish the tone"
   }
   cinematography {
     cinematographer {
       name: "Sayombhu Mukdeeprom"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Really enjoyed the dollhouse feel of the cinematography as it made the movie feel like a surrealist fantasy"
   }
   editing {
     editor {
       name: "Marco Costa"
     }
-    rating: "TODO"
-    comments: "TODO"
-  }
-  sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Cut in a way that makes the movie feel like each shot is turning a page in this surrealist novel"
   }
   visual_effects {
     rating: "TODO"
-    comments: "TODO"
+    comments: "Helps make the movie feel like a surrealist fantasy"
   }
   production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good to Very Good"
+    comments: "Enjoyed the surrealist feel of the set as it helps make this movie feel like it is the set of a colorful dollhouse; helps set this movie in Mexico and South America"
   }
   costumes {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Helps paint these characters and the lifestyle they live"
   }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  pacing: "Pacing is very slow, and this makes the movie feel very boring"
+  climax: "Climax is alright, but is not really build well to"
+  tone: "Tone is very surrealist"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a pretty boring movie that cannot be saved by its surrealist design and Daniel Craig's performance as the writting and pacing really drag down this movie"
 }
 release_year: 2024
 review_date: "12/15/2024"
