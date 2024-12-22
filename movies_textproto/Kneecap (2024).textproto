@@ -5,78 +5,71 @@ review {
     director {
       name: "Rich Peppiatt"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale is very similiar in style to both 'Trainspotting' and '8 Mile,' but it feels more derivative of both rather than adding anything new to the genres; the direction on a microscale is good as this is where you see the chemistry and message of the music group; the storytelling is pretty simple as it follows the 'Trainspotting' and '8 Mile' template; they artificially force tension in an entertaining way"
   }
   acting {
     performance {
       actor {
         name: "Naoise \303\223 Caireall\303\241in"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Plays himself well as his personality really shows what Kneecap is and what they are fighting for"
     }
     performance {
       actor {
         name: "Liam \303\223g \303\223 Hannaidh"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Plays himself well as his personality really shows what Kneecap is and what they are fighting for"
     }
     performance {
       actor {
         name: "JJ \303\223 Dochartaigh"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Plays himself well as he shows how he is a bit of the elderly figure for the group; shows his dilemma for being the group well"
     }
     performance {
       actor {
         name: "Josie Walker"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Plays the antagonist well"
     }
     performance {
       actor {
         name: "Fionnuala Flaherty"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Has good chemistry with JJ \303\223 Dochartaigh"
     }
     performance {
       actor {
         name: "Jessica Reynolds"
       }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Adam Best"
-      }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Plays the love interest well and has good chemistry with Liam \303\223g \303\223 Hannaidh, but she isn't give that much screentime to work with"
     }
     performance {
       actor {
         name: "Simone Kirby"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent to Pretty Goo"
+      comments: "Plays the motherly/wife figure well; not given that much screentime to work with"
     }
     performance {
       actor {
         name: "Michael Fassbender"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Shows his charsima and experience as an actor as he steals every scene he is in and does a good job shifting from comedy to drama effortlessly"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "A lot of background actors that help support the main cast, everyone does their job well"
     }
-    rating: "TODO"
+    rating: "Pretty Good"
   }
   story {
     writer {
@@ -91,29 +84,33 @@ review {
     writer {
       name: "JJ \303\223 Dochartaigh"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Pretty Good"
+    comments: "The concept is pretty intersting as it is based on the real life group "Kneecap," with the bandmates playing themselves; the concept derives from both "Trainspotting" and "8 Mile"; the plot structure is pretty similiar to '8 Mile' and other biopics; the character writing is pretty good as the bandmates play themselves, and you can see their personalities come out through the script"
   }
   screenplay {
     writer {
       name: "Rich Peppiatt"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Pretty Good"
+    comments: "The dialogue interweaves English and Gaelic very well as it helps show the identity Irish has for these people of Northern Island; the humor is pretty good as it feels similiar to "Trainspotting"; the symbolism is suprisingly profound as the message of the movie is about the importance of keeping indigiounus languages alive, as Kneecap uses their rap to help spread this message"
   }
   score {
     composer {
       name: "Michael \"Mikey J\" Asante"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Has a lot of hip-hop elements to help establish the tone of this hip-hop biopic"
+  }
+  soundtrack {
+    rating: "Good"
+    comments: "Uses the discography of Kneecap to help tell the story of this group"
   }
   cinematography {
     cinematographer {
       name: "Ryan Kernaghan"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Suprisingly good as it has a lot of scenic shots of Belfast and the beautiful nature of Northern Ireland; the shots of the group help create this music-video/live performance feel; the action sequecnes were well shot"
   }
   editing {
     editor {
@@ -122,34 +119,14 @@ review {
     editor {
       name: "Chris Gill"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "The animations on screen help excentuate the actions and what was shown; the fast-edits help make this movie feel like a hip-hop music video; the editing for the performances helped make the movie feel hype; the fast cuts of the action sequences helped make this movie feel engaging"
   }
-  sound {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  visual_effects {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  pacing: "Pacing is good"
+  climax: "Climax is good, but a bit forced as they do so much at once"
+  tone: "Tone is very similiar to "Trainspotting" and "8 Mile""
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a pretty good movie that feels very similiar to "Trainspotting" and "8 Mile" as this autographical biopic uses the message of the hip-hop group Kneecap to show the importance of keeping alive the Irish language"
 }
 release_year: 2024
 review_date: "12/17/2024"

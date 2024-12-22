@@ -1,12 +1,12 @@
 title: "Queer"
-rating: 0.1
+rating: 5.4
 review {
   direction {
     director {
       name: "Luca Guadagnino"
     }
     rating: "Decent"
-    comments: "The direction on a macroscale is good as it creates the surrealist world that matches the writting of William S. Burroughs; the direction on a microscale is pretty bad as a lot of the 1-on-1 scenes are very boring; the storytelling is pretty surrealist as you do not know what is true; he builds tension in a very weird way"
+    comments: "The direction on a macroscale is good as it creates the surrealist world that matches the writing of William S. Burroughs; The direction on a microscale is pretty bad as a lot of the one-on-one scenes are very boring; The storytelling is pretty surrealist as you do not know what is true; He builds tension in a very weird way"
   }
   acting {
     performance {
@@ -14,32 +14,32 @@ review {
         name: "Daniel Craig"
       }
       rating: "Good"
-      comments: "Really commands the scenes he is in as he delivers an effortful performance; does not really have the best chemistry with Starkey and his classmates"
+      comments: "He really commands the scenes he is in, as he delivers an effortless performance; He does not really have the best chemistry with Starkey and his classmates"
     }
     performance {
       actor {
         name: "Drew Starkey"
       }
       rating: "Decent"
-      comments: "Does an alright job playing the muse of Lee; does not really have the best chemistry with Craig"
+      comments: "Does an all right job playing the muse of Lee; it does not really have the best chemistry with Craig"
     }
     performance {
       actor {
         name: "Jason Schwartzman"
       }
       rating: "Decent"
-      comments: "Carries his own and has decent chemistry with Craig"
+      comments: "He carries his own weight and has decent chemistry with Craig"
     }
     performance {
       actor {
         name: "Lesley Manville"
       }
       rating: "Pretty Good"
-      comments: "Plays her role of the isolated doctor well"
+      comments: "She plays her role as the isolated doctor well"
     }
     cast {
       rating: "Decent"
-      comments: "Mostly background characters, the movie is really about the two main characters"
+      comments: "Mostly background characters, the movie is really about the two main characters;"
     }
     rating: "Decent to Pretty Good"
   }
@@ -48,14 +48,14 @@ review {
       name: "Justin Kuritzkes"
     }
     rating: "Pretty Bad"
-    comments: "The concept is interesting as an idea, but not really carried out that well; the plot structure is alright as the movie is split up into chapters, but it does not really feel balanced; the character writing is not good as it does not really provide any depth into these characters as all of them just feel very boring"
+    comments: "The concept is interesting as an idea but not really carried out that well; The plot structure is alright as the movie is split up into chapters but it does not really feel balanced; The character writing is not good as it does not really provide any depth into these characters as all of them just feel very boring"
   }
   screenplay {
     writer {
       name: "Justin Kuritzkes"
     }
     rating: "Pretty Bad"
-    comments: "The dialogue is pretty forgettable; the humor is ok, but not really that amazing; the symbolism is definitely there are the movie shares parallels with the book and the personal life of the author; the foreshadowing is pretty good"
+    comments: "The dialogue is pretty forgettable; The humor is okay, but not really that amazing; The symbolism is definitely there, as the movie shares parallels with the book and the personal life of the author; The foreshadowing is pretty good"
   }
   score {
     composer {
@@ -65,18 +65,18 @@ review {
       name: "Atticus Ross"
     }
     rating: "Pretty Good"
-    comments: "Pretty minimal, but used well to establish tone"
+    comments: "Pretty minimal, but used well to establish tone;"
   }
   soundtrack {
     rating: "Pretty Good"
-    comments: "Filled with a lot of contemporary music, especially Nirvana, but is used well to estbalish the tone"
+    comments: "Filled with a lot of contemporary music, especially Nirvana, but it is used well to establish the tone;"
   }
   cinematography {
     cinematographer {
       name: "Sayombhu Mukdeeprom"
     }
     rating: "Good"
-    comments: "Really enjoyed the dollhouse feel of the cinematography as it made the movie feel like a surrealist fantasy"
+    comments: "Really enjoyed the dollhouse feel of the cinematography as it made the movie feel like a surrealist fantasy;"
   }
   editing {
     editor {
@@ -87,21 +87,21 @@ review {
   }
   visual_effects {
     rating: "Good"
-    comments: "Helps make the movie feel like a surrealist fantasy"
+    comments: "Helps make the movie feel like a surrealist fantasy;"
   }
   production_design {
     rating: "Good to Very Good"
-    comments: "Enjoyed the surrealist feel of the set as it helps make this movie feel like it is the set of a colorful dollhouse; helps set this movie in Mexico and South America"
+    comments: "Enjoyed the surrealist feel of the set as it helps make this movie feel like it is the set of a colorful dollhouse; It helps set this movie in Mexico and South America"
   }
   costumes {
     rating: "Pretty Good"
-    comments: "Helps paint these characters and the lifestyle they live"
+    comments: "It helps paint these characters and the lifestyle they live"
   }
-  pacing: "Pacing is very slow, and this makes the movie feel very boring"
-  climax: "Climax is alright, but is not really build well to"
-  tone: "Tone is very surrealist"
+  pacing: "Pacing is very slow and this makes the movie feel very boring"
+  climax: "Climax is all right, but is not really built well"
+  tone: "The tone is very surrealist"
   final_notes: ""
-  overall: "Overall, a pretty boring movie that cannot be saved by its surrealist design and Daniel Craig's performance as the writting and pacing really drag down this movie"
+  overall: "Overall, a pretty boring movie that cannot be saved by its surrealist design and Daniel Craig\'s performance; the writing and pacing really drag down this movie"
 }
 release_year: 2024
 review_date: "12/15/2024"
