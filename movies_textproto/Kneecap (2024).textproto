@@ -85,14 +85,14 @@ review {
       name: "JJ \303\223 Dochartaigh"
     }
     rating: "Pretty Good"
-    comments: "The concept is pretty intersting as it is based on the real life group "Kneecap," with the bandmates playing themselves; the concept derives from both "Trainspotting" and "8 Mile"; the plot structure is pretty similiar to '8 Mile' and other biopics; the character writing is pretty good as the bandmates play themselves, and you can see their personalities come out through the script"
+    comments: "The concept is pretty intersting as it is based on the real life group 'Kneecap,' with the bandmates playing themselves; the concept derives from both \"Trainspotting\" and \"8 Mile\"; the plot structure is pretty similiar to '8 Mile' and other biopics; the character writing is pretty good as the bandmates play themselves, and you can see their personalities come out through the script"
   }
   screenplay {
     writer {
       name: "Rich Peppiatt"
     }
     rating: "Pretty Good"
-    comments: "The dialogue interweaves English and Gaelic very well as it helps show the identity Irish has for these people of Northern Island; the humor is pretty good as it feels similiar to "Trainspotting"; the symbolism is suprisingly profound as the message of the movie is about the importance of keeping indigiounus languages alive, as Kneecap uses their rap to help spread this message"
+    comments: "The dialogue interweaves English and Gaelic very well as it helps show the identity Irish has for these people of Northern Island; the humor is pretty good as it feels similiar to \"Trainspotting\"; the symbolism is suprisingly profound as the message of the movie is about the importance of keeping indigiounus languages alive, as Kneecap uses their rap to help spread this message"
   }
   score {
     composer {
@@ -126,7 +126,7 @@ review {
   climax: "Climax is good, but a bit forced as they do so much at once"
   tone: "Tone is very similiar to "Trainspotting" and "8 Mile""
   final_notes: ""
-  overall: "Overall, a pretty good movie that feels very similiar to "Trainspotting" and "8 Mile" as this autographical biopic uses the message of the hip-hop group Kneecap to show the importance of keeping alive the Irish language"
+  overall: "Overall, a pretty good movie that feels very similiar to \"Trainspotting\" and \"8 Mile\" as this autographical biopic uses the message of the hip-hop group Kneecap to show the importance of keeping alive the Irish language"
 }
 release_year: 2024
 review_date: "12/17/2024"
