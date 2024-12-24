@@ -5,8 +5,8 @@ review {
     director {
       name: "Kazuhisa Takenouchi"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Decent"
+    comments: "The direction on a macroscale is pretty good as it infuses the 'Discovery' album well to help tell the story, but this movie really just does feel like a visual companion rather than a stand-alone piece"
   }
   story {
     writer {
@@ -18,8 +18,8 @@ review {
     writer {
       name: "C\303\251dric Hervet"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Decent"
+    comments: "The concept is a visual companion album to 'Discovery,' with the story tackling issues with how it feels to be an artist; the plot structure is pretty standard"
   }
   screenplay {
     writer {
@@ -31,15 +31,12 @@ review {
     writer {
       name: "C\303\251dric Hervet"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Decent to Pretty Good"
+    comments: "There is no dialogue because the movie uses the album to tell the story; the symbolism is pretty good as the movie tackles the feeling of being an artist caged to a record label"
   }
   score {
     composer {
       name: "Daft Punk"
-    }
-    composer {
-      name: "(featuring)"
     }
     composer {
       name: "Romanthony"
@@ -50,15 +47,8 @@ review {
     composer {
       name: "DJ Sneak"
     }
-    rating: "TODO"
-    comments: "TODO"
-  }
-  cinematography {
-    cinematographer {
-      name: "Fumio Hirokawa"
-    }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Great"
+    comments: "The score/soundtrack is 'Discovery' as this movie is a visual companion to that album, and they do a pretty good job infusing the two together"
   }
   editing {
     editor {
@@ -67,34 +57,22 @@ review {
     editor {
       name: "Olivier Gajan"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Felt kinda choppy as the movie tried to force the scenes with the album"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Pretty minimal as it is just the album; I don't know if this was just my theather, but the bass did not feel as heavy as I thought it would"
   }
-  visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+  animation {
+    rating: "Decent"
+    comments: "Very anime inspired; the AI digital remaster made the movie feel a little too polished, but was still decent"
   }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing is pretty fast as the movie is only 65 minutes long; the movie is really just a companion album"
+  climax: "Climax is decent"
+  tone: "Tone is very 80s, anime inspired"
+  final_notes: "Really just a companion-piece"
+  overall: "Overall, a concept movie that really is just a companion piece to Daft Punk's 'Discovery'"
 }
 release_year: 2003
 review_date: "12/13/2024"
