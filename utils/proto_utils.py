@@ -115,6 +115,9 @@ def get_generic(category):
 
 # TODO: Make Try Catch for if there is no Acting field
 def get_acting(infobox):
+    if "Starring" not in infobox:
+        return None
+    
     # Create acting object
     acting = movie_pb2.Movie.Review.Acting()
 

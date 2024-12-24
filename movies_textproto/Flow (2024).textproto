@@ -1,0 +1,71 @@
+title: "Flow"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Gints Zilbalodis"
+    }
+    rating: "TODO"
+    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+  }
+  story {
+    writer {
+      name: "Gints Zilbalodis"
+    }
+    writer {
+      name: "Mat\304\253ss Ka\305\276a"
+    }
+    rating: "TODO"
+    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+  }
+  screenplay {
+    writer {
+      name: "Gints Zilbalodis"
+    }
+    writer {
+      name: "Mat\304\253ss Ka\305\276a"
+    }
+    rating: "TODO"
+    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+  }
+  score {
+    composer {
+      name: "Gints Zilbalodis"
+    }
+    composer {
+      name: "Rihards Za\304\274upe"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  sound {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2024
+review_date: "12/22/2024"
+redux: false
+id: 519
+imdb_id: "tt4772188"

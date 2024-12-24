@@ -1,0 +1,103 @@
+title: "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Kazuhisa Takenouchi"
+    }
+    rating: "TODO"
+    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+  }
+  story {
+    writer {
+      name: "Thomas Bangalter"
+    }
+    writer {
+      name: "Guy-Manuel de Homem-Christo"
+    }
+    writer {
+      name: "C\303\251dric Hervet"
+    }
+    rating: "TODO"
+    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+  }
+  screenplay {
+    writer {
+      name: "Thomas Bangalter"
+    }
+    writer {
+      name: "Guy-Manuel de Homem-Christo"
+    }
+    writer {
+      name: "C\303\251dric Hervet"
+    }
+    rating: "TODO"
+    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+  }
+  score {
+    composer {
+      name: "Daft Punk"
+    }
+    composer {
+      name: "(featuring)"
+    }
+    composer {
+      name: "Romanthony"
+    }
+    composer {
+      name: "Todd Edwards"
+    }
+    composer {
+      name: "DJ Sneak"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  cinematography {
+    cinematographer {
+      name: "Fumio Hirokawa"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  editing {
+    editor {
+      name: "Shigeru Nishiyama"
+    }
+    editor {
+      name: "Olivier Gajan"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  sound {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2003
+review_date: "12/13/2024"
+redux: false
+id: 520
+imdb_id: "tt0368667"

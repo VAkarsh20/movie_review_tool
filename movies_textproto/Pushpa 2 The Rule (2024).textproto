@@ -5,83 +5,99 @@ review {
     director {
       name: "Sukumar"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Decent"
+    comments: "The direction on a macroscale is a well-executed, over-the-top action movie you see from other Tollywood movies; the direction on a microscale is decent; the storytelling is decent; he builds tension in a way very on-par with other Telugu movies"
   }
   acting {
     performance {
       actor {
-        name: "Allu ArjunRashmika MandannaFahadh Faasil"
+        name: "Allu Arjun"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Really embodies the character and makes his presence known on screen"
+    }
+    performance {
+      actor {
+        name: "Rashmika Mandanna"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Plays the love interest well and has good chemistry with Arjun"
+    }
+    performance {
+      actor {
+        name: "Fahadh Faasil"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Plays the over-the-top villian well"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Decent performances throughout that really help make the movie enjoyable"
     }
-    rating: "TODO"
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
-      name: "SukumarSrikanth Vissa (dialogues)"
+      name: "Sukumar"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    writer {
+      name: "Srikanth Vissa"
+    }
+    rating: "Pretty Bad"
+    comments: "The concept is a standard sequel; the plot structure is pretty simple for the most part, but the final 40 minutes of the movie are completely useless as they start a new storyline; the character writing is good for Pushpa as they continue to build this memorable character for this character driven franchise"
   }
   screenplay {
     writer {
-      name: "SukumarSrikanth Vissa (dialogues)"
+      name: "Sukumar"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    writer {
+      name: "Srikanth Vissa"
+    }
+    rating: "Decent"
+    comments: "The dialogue is decent; the humor is pretty good; the symbolism is somewhat there because the major themes of this movie deal with family and acceptance; the foreshadowing makes the movie pretty predictable"
   }
   score {
     composer {
       name: "Devi Sri Prasad"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Helps establish the tone for this movie, in a very Telugu way"
+  }
+  soundtrack {
+    rating: "Pretty Good"
+    comments: "Pretty Good songs, but not as good as the first movie"
   }
   cinematography {
     cinematographer {
       name: "Miroslaw Kuba Brozek"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Feels very high-budget, and they do a pretty good job with this"
   }
   editing {
     editor {
       name: "Naveen Nooli"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "A lot of fast-cuts that make this movie feel very South Indian"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Very over-the-top sound-effects that make this movie feel very South Indian; the ADR was pretty obvious"
   }
   visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Bad"
+    comments: "Felt a little overly produced as they relied a little too much on it"
   }
   production_design {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "A lot of grand sets, and helps make this movie feel very South Indian"
   }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  pacing: "Pacing is very slow as it feels like they are dragging the story out"
+  climax: "Climax is unnecessary as they added a brand new storyline that added nothing to the original storyline; this could have been cut and the movie could have been a lot tighter"
+  tone: "Tone is very action-Tollywood"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a Tollywood sequel with traditional South Indian action sequences and a memorable character performance from Allu Arjun, but the bloated story makes this movie run for a lot longer than it needs to"
 }
 release_year: 2024
 review_date: "12/21/2024"
