@@ -5,8 +5,8 @@ review {
     director {
       name: "Gints Zilbalodis"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; direction of actors is; storytelling is; tension is"
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale is grand as they build this world in a beautiful way; the direction on a microscale makes you really care for these characters; the storytelling is very action and emotion based as the lack of dialogue make you very attentive to what the characters are going through; they build tension well as they keep raising the stakes to where you are really concerned for what these characters are going through"
   }
   story {
     writer {
@@ -15,8 +15,8 @@ review {
     writer {
       name: "Mat\304\253ss Ka\305\276a"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; flow between sequences is; character writing is"
+    rating: "Pretty Good"
+    comments: "The story concept is pretty simple as it follows this character on a journey, but how this story is told is very interesting; the plot structure is pretty simple, it's the hero's journey; the character writing is pretty good as you get a sense of who all these character's are just by their energy and mannerisms"
   }
   screenplay {
     writer {
@@ -25,8 +25,8 @@ review {
     writer {
       name: "Mat\304\253ss Ka\305\276a"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Pretty Good"
+    comments: "The is no dialogue, yet you understand what these characters are saying just from their mannerisms; the humor is suprisingly there, but you really do care about these characters; the foreshadowing is prevelant as they keep eluding to these character's trying to make it to a higher ground"
   }
   score {
     composer {
@@ -35,34 +35,22 @@ review {
     composer {
       name: "Rihards Za\304\274upe"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Helps establish the tone"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Because there is no dialogue, the sound is very important in helping move the story forward"
   }
-  visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+  animation {
+    rating: "Great"
+    comments: "Very beautiful and well done; a true technological acheivement that this was all done in Blender on a 4 million dollar budget as the animation rivals something you would see from Dreamwork's 'The Wild Robot'"
   }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing is a bit slowed down because of the lack of dialogue, but the movie is already short"
+  climax: "Climax is pretty well executed"
+  tone: "Tone is similiar to other hero's journey movies, but in an adorable, animal way"
+  final_notes: "This movie needs to be celebrated for being entirely animated through Blender and for having such a low budget"
+  overall: "Overall, a technical achievement that needs to be celebrated as they created a visually beautiful movie that is entirely animated with Blender on a 4 million dollar budget, rivaling the work from big-budget studios like Dreamworks and Pixar"
 }
 release_year: 2024
 review_date: "12/22/2024"

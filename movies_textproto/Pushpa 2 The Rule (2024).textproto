@@ -1,12 +1,12 @@
 title: "Pushpa 2: The Rule"
-rating: 0.1
+rating: 5.4
 review {
   direction {
     director {
       name: "Sukumar"
     }
     rating: "Decent"
-    comments: "The direction on a macroscale is a well-executed, over-the-top action movie you see from other Tollywood movies; the direction on a microscale is decent; the storytelling is decent; he builds tension in a way very on-par with other Telugu movies"
+    comments: "The direction on a macroscale is a well-executed, over-the-top action movie, like you see in other Tollywood movies; The direction on a microscale is decent; The storytelling is decent; He builds tension in a way very on par with other Telugu movies"
   }
   acting {
     performance {
@@ -14,7 +14,7 @@ review {
         name: "Allu Arjun"
       }
       rating: "Pretty Good"
-      comments: "Really embodies the character and makes his presence known on screen"
+      comments: "It really embodies the character and makes its presence known on screen"
     }
     performance {
       actor {
@@ -28,11 +28,11 @@ review {
         name: "Fahadh Faasil"
       }
       rating: "Decent to Pretty Good"
-      comments: "Plays the over-the-top villian well"
+      comments: "Plays the over-the-top villain well"
     }
     cast {
       rating: "Decent"
-      comments: "Decent performances throughout that really help make the movie enjoyable"
+      comments: "Decent performances throughout really help make the movie enjoyable;"
     }
     rating: "Decent to Pretty Good"
   }
@@ -44,7 +44,7 @@ review {
       name: "Srikanth Vissa"
     }
     rating: "Pretty Bad"
-    comments: "The concept is a standard sequel; the plot structure is pretty simple for the most part, but the final 40 minutes of the movie are completely useless as they start a new storyline; the character writing is good for Pushpa as they continue to build this memorable character for this character driven franchise"
+    comments: "The concept is a standard sequel; The plot structure is pretty simple for the most part, but the final 40 minutes of the movie are completely useless as they start a new storyline; The character writing is good for Pushpa as they continue to build this memorable character for this character-driven franchise"
   }
   screenplay {
     writer {
@@ -54,47 +54,47 @@ review {
       name: "Srikanth Vissa"
     }
     rating: "Decent"
-    comments: "The dialogue is decent; the humor is pretty good; the symbolism is somewhat there because the major themes of this movie deal with family and acceptance; the foreshadowing makes the movie pretty predictable"
+    comments: "The dialogue is decent; the humor is pretty good; the symbolism is somewhat present because the major themes of this movie deal with family and acceptance; the foreshadowing makes the movie pretty predictable"
   }
   score {
     composer {
       name: "Devi Sri Prasad"
     }
     rating: "Decent"
-    comments: "Helps establish the tone for this movie, in a very Telugu way"
+    comments: "Helps establish the tone of this movie, in a very Telugu way"
   }
   soundtrack {
     rating: "Pretty Good"
-    comments: "Pretty Good songs, but not as good as the first movie"
+    comments: "Pretty good songs, but not as good as the first movie"
   }
   cinematography {
     cinematographer {
       name: "Miroslaw Kuba Brozek"
     }
     rating: "Pretty Good"
-    comments: "Feels very high-budget, and they do a pretty good job with this"
+    comments: "Feels very high-budget, and they do a pretty good job with this;"
   }
   editing {
     editor {
       name: "Naveen Nooli"
     }
     rating: "Pretty Good"
-    comments: "A lot of fast-cuts that make this movie feel very South Indian"
+    comments: "A lot of fast cuts make this movie feel very South Indian"
   }
   sound {
     rating: "Decent"
-    comments: "Very over-the-top sound-effects that make this movie feel very South Indian; the ADR was pretty obvious"
+    comments: "Very over-the-top sound effects that make this movie feel very South Indian; The ADR was pretty obvious"
   }
   visual_effects {
     rating: "Pretty Bad"
-    comments: "Felt a little overly produced as they relied a little too much on it"
+    comments: "Felt a little overproduced as they relied a little too much on it"
   }
   production_design {
     rating: "Pretty Good"
-    comments: "A lot of grand sets, and helps make this movie feel very South Indian"
+    comments: "Many grand sets help make this movie feel very South Indian"
   }
-  pacing: "Pacing is very slow as it feels like they are dragging the story out"
-  climax: "Climax is unnecessary as they added a brand new storyline that added nothing to the original storyline; this could have been cut and the movie could have been a lot tighter"
+  pacing: "Pacing is very slow as it feels like they are dragging the story out;"
+  climax: "Climax is unnecessary, as they added a brand new storyline that added nothing to the original storyline; this could have been cut, and the movie could have been a lot tighter"
   tone: "Tone is very action-Tollywood"
   final_notes: ""
   overall: "Overall, a Tollywood sequel with traditional South Indian action sequences and a memorable character performance from Allu Arjun, but the bloated story makes this movie run for a lot longer than it needs to"
