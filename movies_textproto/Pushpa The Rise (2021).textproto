@@ -1,0 +1,117 @@
+title: "Pushpa: The Rise"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Sukumar"
+    }
+    rating: "Decent to Pretty Good"
+    comments: "The direction on a macroscale is a well-executed, over-the-top action movie, like you see in other Tollywood movies; The direction on a microscale is decent; The storytelling is decent; He builds tension in a way very on par with other Telugu movies"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Allu Arjun"
+      }
+      rating: "Good"
+      comments: "He really embodies the character and amkes its presence known on screen; shows a range of emotions"
+    }
+    performance {
+      actor {
+        name: "Rashmika Mandanna"
+      }
+      rating: "Decent"
+      comments: "Plays the sheltered love interst to love trope decently well; pretty good chemistry with Arjun"
+    }
+    performance {
+      actor {
+        name: "Fahadh Faasil"
+      }
+      rating: "Decent"
+      comments: "Only in the movie for like a minute"
+    }
+    performance {
+      actor {
+        name: "Jagadeesh Prathap Bandari"
+      }
+      rating: "Decent"
+      comments: "Plays the comedic relief sidekick decently well"
+    }
+    performance {
+      actor {
+        name: "Sunil"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the villian pretty well"
+    }
+    cast {
+      rating: "Decent"
+      comments: "Decent performances throughout really help make the movie enjoyable"
+    }
+    rating: "Decent to Pretty Good"
+  }
+  story {
+    writer {
+      name: "Sukumar"
+    }
+    rating: "Pretty Good"
+    comments: "The concept is pretty interesting as it is a character based movie that follows his hero's journey; the plot structure is pretty standard for a hero's journey movie, but the ending feels a bit unnecessary; character writing is good for Pushpa as this movie creates a very iconic character to start this character-driven action franchise"
+  }
+  screenplay {
+    writer {
+      name: "Sukumar"
+    }
+    rating: "Pretty Good"
+    comments: "The dialogue is filled with a lot of iconic dialogue that makes this a blockbuster action movie; the humor is pretty good as it interjects the movie's seriousness to make this a unique movie; the symbolism is decently prevelant as the movie talks about themes like family and the importance of your name; the foreshadowing is decent"
+  }
+  score {
+    composer {
+      name: "Devi Sri Prasad"
+    }
+    rating: "Pretty Good"
+    comments: "Helps establish the tone of this movie, in a very Telugu way"
+  }
+  soundtrack {
+    rating: "Good"
+    comments: "Mainly because of 'Oo Antava Oo Oo Antava'"
+  }
+  cinematography {
+    cinematographer {
+      name: "Miroslaw Kuba Brozek"
+    }
+    rating: "Pretty Good"
+    comments: "Feels very high-budget, and they do a pretty good job with this"
+  }
+  editing {
+    editor {
+      name: "Karthika Srinivas"
+    }
+    editor {
+      name: "Ruben"
+    }
+    rating: "Pretty Good"
+    comments: "A lot of fast cuts make this movie feel very South Indian"
+  }
+  sound {
+    rating: "Decent"
+    comments: "Very over-the-top sound effects that make this movie feel very South Indian; The ADR was pretty obvious"
+  }
+  visual_effects {
+    rating: "Decent to Pretty Good"
+    comments: "Feels a little over-produced when they use CGI, but still helps make this movie feel grand"
+  }
+  production_design {
+    rating: "Good"
+    comments: "Used the nature landscape very well and captured the essence of the South Indian forest"
+  }
+  pacing: "Pacing is on the slower side as it feels like the story is dragging a little bit"
+  climax: "Climax is a little unnecessary, as they added a new storyline with like 20 minutes left in the movie; this new storyline has nothing to do with the original storyline and is more for building up the sequel"
+  tone: "Tone is very action-Tollywood"
+  final_notes: ""
+  overall: "Overall, a character-driven action Tollywood movie that is carried by pretty good writing and a good performance from Allu Arjun to create this iconic character, Pushpa; the story does feel a bit bloated as the final 20 minutes really do not have anything to do with the original story"
+}
+release_year: 2021
+review_date: "12/24/2024"
+redux: false
+id: 521
+imdb_id: "tt9389998"

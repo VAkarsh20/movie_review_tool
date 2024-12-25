@@ -1,12 +1,12 @@
 title: "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem"
-rating: 0.1
+rating: 6.3
 review {
   direction {
     director {
       name: "Kazuhisa Takenouchi"
     }
     rating: "Decent"
-    comments: "The direction on a macroscale is pretty good as it infuses the 'Discovery' album well to help tell the story, but this movie really just does feel like a visual companion rather than a stand-alone piece"
+    comments: "The direction on a macroscale is pretty good as it infuses the \"Discovery\" album well to help tell the story; but this movie really just feels like a visual companion rather than a standalone piece"
   }
   story {
     writer {
@@ -19,7 +19,7 @@ review {
       name: "C\303\251dric Hervet"
     }
     rating: "Decent"
-    comments: "The concept is a visual companion album to 'Discovery,' with the story tackling issues with how it feels to be an artist; the plot structure is pretty standard"
+    comments: "The concept is a visual companion album to \"Discovery,\" with the story tackling issues related to how it feels to be an artist; the plot structure is pretty standard"
   }
   screenplay {
     writer {
@@ -32,7 +32,7 @@ review {
       name: "C\303\251dric Hervet"
     }
     rating: "Decent to Pretty Good"
-    comments: "There is no dialogue because the movie uses the album to tell the story; the symbolism is pretty good as the movie tackles the feeling of being an artist caged to a record label"
+    comments: "There is no dialogue because the movie uses the album to tell the story; The symbolism is pretty good as the movie tackles the feeling of being an artist caged by a record label"
   }
   score {
     composer {
@@ -48,7 +48,7 @@ review {
       name: "DJ Sneak"
     }
     rating: "Great"
-    comments: "The score/soundtrack is 'Discovery' as this movie is a visual companion to that album, and they do a pretty good job infusing the two together"
+    comments: "The score/soundtrack is \"Discovery,\" as this movie is a visual companion to that album, and they do a pretty good job infusing the two together"
   }
   editing {
     editor {
@@ -58,21 +58,21 @@ review {
       name: "Olivier Gajan"
     }
     rating: "Pretty Good"
-    comments: "Felt kinda choppy as the movie tried to force the scenes with the album"
+    comments: "Felt kind of choppy as the movie tried to force the scenes together with the album"
   }
   sound {
     rating: "Decent"
-    comments: "Pretty minimal as it is just the album; I don't know if this was just my theather, but the bass did not feel as heavy as I thought it would"
+    comments: "Pretty minimal, as it is just the album; I don\'t know if this was just my theater, but the bass did not feel as heavy as I thought it would"
   }
   animation {
     rating: "Decent"
-    comments: "Very anime inspired; the AI digital remaster made the movie feel a little too polished, but was still decent"
+    comments: "Very anime-inspired; The AI digital remaster made the movie feel a little too polished but was still decent"
   }
-  pacing: "Pacing is pretty fast as the movie is only 65 minutes long; the movie is really just a companion album"
+  pacing: "Pacing is pretty fast as the movie is only 65 minutes long; The movie is really just a companion album"
   climax: "Climax is decent"
-  tone: "Tone is very 80s, anime inspired"
-  final_notes: "Really just a companion-piece"
-  overall: "Overall, a concept movie that really is just a companion piece to Daft Punk's 'Discovery'"
+  tone: "The tone is very 1980s, anime-inspired"
+  final_notes: "Really, just a companion piece;"
+  overall: "Overall, a concept movie that really is just a companion piece to Daft Punk\'s \"Discovery\""
 }
 release_year: 2003
 review_date: "12/13/2024"

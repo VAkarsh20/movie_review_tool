@@ -14,7 +14,7 @@ review {
         name: "Allu Arjun"
       }
       rating: "Pretty Good"
-      comments: "It really embodies the character and makes its presence known on screen"
+      comments: "He really embodies the character and makes its presence known on screen"
     }
     performance {
       actor {
@@ -32,7 +32,7 @@ review {
     }
     cast {
       rating: "Decent"
-      comments: "Decent performances throughout really help make the movie enjoyable;"
+      comments: "Decent performances throughout really help make the movie enjoyable"
     }
     rating: "Decent to Pretty Good"
   }
@@ -72,7 +72,7 @@ review {
       name: "Miroslaw Kuba Brozek"
     }
     rating: "Pretty Good"
-    comments: "Feels very high-budget, and they do a pretty good job with this;"
+    comments: "Feels very high-budget, and they do a pretty good job with this"
   }
   editing {
     editor {
