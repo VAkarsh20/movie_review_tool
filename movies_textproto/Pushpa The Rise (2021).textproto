@@ -6,7 +6,7 @@ review {
       name: "Sukumar"
     }
     rating: "Decent to Pretty Good"
-    comments: "The direction on a macroscale is a well-executed, over-the-top action movie, like you see in other Tollywood movies; The direction on a microscale is decent; The storytelling is decent; He builds tension in a way very on par with other Telugu movies"
+    comments: "The direction on a macroscale is a well-executed, over-the-top action movie, like those seen in other Tollywood movies; The direction on a microscale is decent; The storytelling is decent; He builds tension in a way very much on par with other Telugu movies"
   }
   acting {
     performance {
@@ -14,21 +14,21 @@ review {
         name: "Allu Arjun"
       }
       rating: "Good"
-      comments: "He really embodies the character and amkes its presence known on screen; shows a range of emotions"
+      comments: "He really embodies the character and makes its presence known on screen; he shows a range of emotions"
     }
     performance {
       actor {
         name: "Rashmika Mandanna"
       }
       rating: "Decent"
-      comments: "Plays the sheltered love interst to love trope decently well; pretty good chemistry with Arjun"
+      comments: "Plays the sheltered love interest trope decently well; Pretty good chemistry with Arjun"
     }
     performance {
       actor {
         name: "Fahadh Faasil"
       }
       rating: "Decent"
-      comments: "Only in the movie for like a minute"
+      comments: "Only in the movie for about a minute;"
     }
     performance {
       actor {
@@ -42,11 +42,11 @@ review {
         name: "Sunil"
       }
       rating: "Pretty Good"
-      comments: "Plays the villian pretty well"
+      comments: "Plays the villain pretty well;"
     }
     cast {
       rating: "Decent"
-      comments: "Decent performances throughout really help make the movie enjoyable"
+      comments: "Decent performances throughout really help make the movie enjoyable;"
     }
     rating: "Decent to Pretty Good"
   }
@@ -55,32 +55,32 @@ review {
       name: "Sukumar"
     }
     rating: "Pretty Good"
-    comments: "The concept is pretty interesting as it is a character based movie that follows his hero's journey; the plot structure is pretty standard for a hero's journey movie, but the ending feels a bit unnecessary; character writing is good for Pushpa as this movie creates a very iconic character to start this character-driven action franchise"
+    comments: "The concept is pretty interesting, as it is a character-based movie that follows his hero\'s journey; The plot structure is pretty standard for a hero\'s journey movie, but the ending feels a bit unnecessary; Character writing is good for Pushpa, as this movie creates a very iconic character to start this character-driven action franchise"
   }
   screenplay {
     writer {
       name: "Sukumar"
     }
     rating: "Pretty Good"
-    comments: "The dialogue is filled with a lot of iconic dialogue that makes this a blockbuster action movie; the humor is pretty good as it interjects the movie's seriousness to make this a unique movie; the symbolism is decently prevelant as the movie talks about themes like family and the importance of your name; the foreshadowing is decent"
+    comments: "The dialogue is filled with a lot of iconic dialogue that makes this a blockbuster action movie; The humor is pretty good as it interjects the movie\'s seriousness to make this a unique movie; The symbolism is decently prevalent as the movie talks about themes like family and the importance of your name; The foreshadowing is decent"
   }
   score {
     composer {
       name: "Devi Sri Prasad"
     }
     rating: "Pretty Good"
-    comments: "Helps establish the tone of this movie, in a very Telugu way"
+    comments: "It helps establish the tone of this movie in a very Telugu way"
   }
   soundtrack {
     rating: "Good"
-    comments: "Mainly because of 'Oo Antava Oo Oo Antava'"
+    comments: "Mainly because of \"Oo Antava Oo Oo Antava\""
   }
   cinematography {
     cinematographer {
       name: "Miroslaw Kuba Brozek"
     }
     rating: "Pretty Good"
-    comments: "Feels very high-budget, and they do a pretty good job with this"
+    comments: "Feels very high-budget, and they do a pretty good job with this;"
   }
   editing {
     editor {
@@ -94,19 +94,19 @@ review {
   }
   sound {
     rating: "Decent"
-    comments: "Very over-the-top sound effects that make this movie feel very South Indian; The ADR was pretty obvious"
+    comments: "Very over-the-top sound effects make this movie feel very South Indian; The ADR was quite obvious"
   }
   visual_effects {
     rating: "Decent to Pretty Good"
-    comments: "Feels a little over-produced when they use CGI, but still helps make this movie feel grand"
+    comments: "It feels a little overproduced when they use CGI, but it still helps make this movie feel grand"
   }
   production_design {
     rating: "Good"
-    comments: "Used the nature landscape very well and captured the essence of the South Indian forest"
+    comments: "Used the natural landscape very well and captured the essence of the South Indian forest"
   }
-  pacing: "Pacing is on the slower side as it feels like the story is dragging a little bit"
-  climax: "Climax is a little unnecessary, as they added a new storyline with like 20 minutes left in the movie; this new storyline has nothing to do with the original storyline and is more for building up the sequel"
-  tone: "Tone is very action-Tollywood"
+  pacing: "Pacing is on the slower side as it feels like the story is dragging a little bit;"
+  climax: "Climax is a little unnecessary, as they added a new storyline with about twenty minutes left in the movie; this new storyline has nothing to do with the original storyline and is more for building up the sequel"
+  tone: "Tone is very action-oriented, Tollywood"
   final_notes: ""
   overall: "Overall, a character-driven action Tollywood movie that is carried by pretty good writing and a good performance from Allu Arjun to create this iconic character, Pushpa; the story does feel a bit bloated as the final 20 minutes really do not have anything to do with the original story"
 }
