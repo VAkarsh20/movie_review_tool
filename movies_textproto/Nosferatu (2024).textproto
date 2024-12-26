@@ -1,12 +1,12 @@
 title: "Nosferatu"
-rating: 0.1
+rating: 8.6
 review {
   direction {
     director {
       name: "Robert Eggers"
     }
     rating: "Very Good"
-    comments: "The direction on a macroscale is feels very grand with a gothic aesthetic that pays homage to the original story; his direction on a grand scale shows how he is truly an auter in the horror genre; the direction on a microscale is good as it brings the most out of these actors and helps establish the gothic, european scene; the storytelling is very good as he uses tension to move the story-forward as you are on the edge of your seat to see what happens next; he builds tension masterfully as the whole movie relies on tension to bring out the horror elements and movie the story forward"
+    comments: "The direction on a macroscale feels very grand, with a gothic aesthetic that pays homage to the original story; His direction on a grand scale shows how he is truly an auteur in the horror genre; The direction on a microscale is good, as it brings the most out of these actors and helps establish the gothic, European scene; The storytelling is very good, as he uses tension to move the story forward, as you are on the edge of your seat to see what happens next; He builds tension masterfully, as the whole movie relies on tension to bring out the horror elements and move the story forward"
   }
   acting {
     performance {
@@ -14,7 +14,7 @@ review {
         name: "Bill Skarsg\303\245rd"
       }
       rating: "Pretty Good to Good"
-      comments: "Plays a menacing Count Orlok well in a way that is unique to previous interpretations; took a while for me to get used to, but stuck the landing in the end"
+      comments: "Plays a menacing Count Orlok well in a way unique to previous interpretations; It took a while for me to get used to it but I stuck the landing in the end"
     }
     performance {
       actor {
@@ -28,14 +28,14 @@ review {
         name: "Lily-Rose Depp"
       }
       rating: "Very Good to Great"
-      comments: "A true scream-queen as she shows a wide range of emotions to show the distraught of her experience; has very good chemistry with the rest of the cast; really feels like Eggers Muse when making this movie"
+      comments: "A true scream queen, as she shows a wide range of emotions to show the distraught of her experience; she has very good chemistry with the rest of the cast; it really feels like Eggers\' muse when making this movie"
     }
     performance {
       actor {
         name: "Aaron Taylor-Johnson"
       }
       rating: "Decent to Pretty Good"
-      comments: "Feels like he is hitting a limit in his acting as he does not match the level of the rest of his castmates; but holds his own"
+      comments: "It feels like he is hitting a limit in his acting as he does not match the level of his other castmates; but he holds his own"
     }
     performance {
       actor {
@@ -49,18 +49,18 @@ review {
         name: "Willem Dafoe"
       }
       rating: "Good"
-      comments: "A very typical Willem Dafoe performance"
+      comments: "A very typical Willem Dafoe performance;"
     }
     performance {
       actor {
         name: "Simon McBurney"
       }
       rating: "Very Good"
-      comments: "Really shows the demented nature of the character as he will do anything for Count Orlok"
-    } 
+      comments: "It really shows the demented nature of the character as he will do anything for Count Orlok"
+    }
     cast {
       rating: "Good"
-      comments: "This movie is more about the main cast, but the cast as a whole really feels like they do their job in making this an engaging experience"
+      comments: "This movie is more about the main cast, but the cast as a whole really feels like they did their job in making this an engaging experience"
     }
     rating: "Good to Very Good"
   }
@@ -69,28 +69,28 @@ review {
       name: "Robert Eggers"
     }
     rating: "Good"
-    comments: "The concept is a remake of the silent film classic Nosferatu, an unofficial adaptation of Dracula; the plot structure is pretty standard, though the movie does drag at some moments and the build to the climax was a bit boring; the character writing is very good as they do a good job bringing to life these classic characters"
+    comments: "The concept is a remake of the silent film classic Nosferatu, an unofficial adaptation of Dracula; The plot structure is pretty standard, though the movie does drag at some moments and the build to the climax was a bit boring; The character writing is very good as they do a good job bringing to life these classic characters"
   }
   screenplay {
     writer {
       name: "Robert Eggers"
     }
-    rating: "TODO"
-    comments: "The dialogue is polished and very gothic and true to the time-period; the foreshadowing is very good as the movie uses roots planted throughout to help close the movie in the end"
+    rating: "Good to Very Good"
+    comments: "The dialogue is polished and very Gothic and true to the time period; The foreshadowing is very good, as the movie uses roots planted throughout to help close the movie in the end"
   }
   score {
     composer {
       name: "Robin Carolan"
     }
     rating: "Good"
-    comments: "Used very well to build tension"
+    comments: "Used very well to build tension;"
   }
   cinematography {
     cinematographer {
       name: "Jarin Blaschke"
     }
     rating: "Great"
-    comments: "Helps make this movie feel both gothic, yet auter-esque to Egger's vision"
+    comments: "Helps make this movie feel both gothic yet auteur-esque to Eggers\' vision"
   }
   editing {
     editor {
@@ -101,29 +101,29 @@ review {
   }
   sound {
     rating: "Very Good"
-    comments: "Helps build tension and make this a horrifying movie; might have just been my Dolby Cinema theater, but the subwoofers under the seat made this movie feel like a 4D experience"
+    comments: "Helps build tension and make this a horrifying movie; Might have just been my Dolby Cinema theater, but the subwoofers under the seat made this movie feel like a 4D experience"
   }
   visual_effects {
     rating: "Very Good"
-    comments: "Helped make this movie feel genuinely scary and grotesque"
+    comments: "Helped make this movie feel genuinely scary and grotesque;"
   }
   production_design {
     rating: "Great"
-    comments: "Helped create this gothic landscape that brings to life the time-period and Orlok's castle"
+    comments: "Helped create this Gothic landscape that brings to life the time period and Orlok\'s castle"
   }
   makeup {
     rating: "Incredible"
-    comments: "Really brings to life Count Orlok and the horror elements with the blood"
+    comments: "It really brings to life Count Orlok and the horror elements with the blood"
   }
   costumes {
     rating: "Great"
-    comments: "Helps bring to life the time-period and paint Count Orlok"
+    comments: "Helps bring to life the time period and paint Count Orlok"
   }
-  pacing: "Pacing is fine for the most part, but feels a bit slow at some moments; maybe 15-20 minutes could have been cut to keep the pace consistent"
-  climax: "Climax is good as it brings together all of this tension; the build to the climax dragged a bit as it was a bit boring"
-  tone: "Tone is very gothic horror"
-  final_notes: "My experience in Dolby Cinema felt like a 4D experience with the subwoofer's blasting the sound"
-  overall: "Overall, a very good horror movie that establishes Robert Eggers as an auter in the genre as he remakes a horror classic with his vision"
+  pacing: "Pacing is fine for the most part, but feels a bit slow at some moments; Maybe 15\342\200\22320 minutes could have been cut to keep the pace consistent"
+  climax: "Climax is good as it brings together all of that tension; The build to the climax dragged a bit as it was a bit boring"
+  tone: "Tone is very Gothic horror;"
+  final_notes: "My experience in Dolby Cinema felt like a 4D experience, with the subwoofer blasting the sound"
+  overall: "Overall, a very good horror movie that establishes Robert Eggers as an auteur in the genre as he remakes a horror classic with his vision"
 }
 release_year: 2024
 review_date: "12/25/2024"
