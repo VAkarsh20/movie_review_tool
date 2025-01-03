@@ -1,0 +1,91 @@
+title: "Babygirl"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Halina Reijn"
+    }
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale is pretty good as they created an aestheic that really suited the movie; the direction on a microscale is pretty good as they use tension and cringe to really heighten the scandal and power-dynamic between the two; the storytelling is pretty simple; they tension very well as the movie uses this to make the moments between the two leads uncomfortable; the movie is very-much told from the female perspective, and the director does a good job showing this"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Nicole Kidman"
+      }
+      rating: "Good to Very Good"
+      comments: "A very vulnerable performance as she shows why is one of the best in Hollywood; shows a wide range of emotions; has pretty good chemistry with Dickinson"
+    }
+    performance {
+      actor {
+        name: "Harris Dickinson"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Does the best with what is written for the character as his charisma suits the role; has pretty good chemistry with Nicole Kidman"
+    }
+    performance {
+      actor {
+        name: "Sophie Wilde"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Plays the assitant character well and has decent chemistry with Kidman"
+    }
+    performance {
+      actor {
+        name: "Antonio Banderas"
+      }
+      rating: "Pretty Good"
+      comments: "An experienced actor that gets his moments to show his work, but is not really given that much screen-time"
+    }
+    cast {
+      rating: "Decent to Pretty Good"
+      comments: "More about the main cast, but the remaining cast do well in supporting"
+    }
+    rating: "Pretty Good"
+  }
+  story {
+    writer {
+      name: "Halina Reijn"
+    }
+    rating: "Decent"
+    comments: "The concept is interesting, but the story itself is pretty bland and predictable; the plot structure is very simple; character writing is good as you get a sense of how the personal struggles and power-dynamic of Romy is influencing her decisions, and the Samuel's mystery kinda helps make this an intriguing relationship for Romy"
+  }
+  screenplay {
+    writer {
+      name: "Halina Reijn"
+    }
+    rating: "Decent to Pretty Good"
+    comments: "The dialogue is sound, but feels a little too Gen Z; the humor is decent; the symbolism is profound as the movie tackles issues with power-dynamics, women in power, and sexual fantasies; the foreshadowing is not good as events towards the end just happen just because that is what you expect"
+  }
+  score {
+    composer {
+      name: "Cristobal Tapia de Veer"
+    }
+    rating: "Pretty Good"
+    comments: "Helps establish the tone and aestheic of the movie"
+  }
+  cinematography {
+    cinematographer {
+      name: "Jasper Wolf"
+    }
+    rating: "Good"
+    comments: "Really enjoyed the cinemaography as it gave it an aesthic that really fit the hustling nature of the New York business world; really enjoyed how they used the glass reflection as somewhat of a mirror"
+  }
+  editing {
+    editor {
+      name: "Matthew Hannam"
+    }
+    rating: "Good"
+    comments: "Movie felt well edited, especially towards the end"
+  }
+  pacing: "Pacing is a little all over the place because it seems slow in a lot of moments, yet they just speed run through plot points in other moments; the passage of time is not really clear so you have no idea what the time period is"
+  climax: "Climax is alright but not really the best in execution"
+  tone: "Tone is very much an erotic thriller"
+  final_notes: "I liked the aesthic of the movie more than the actual story"
+  overall: "Overall, a pretty good movie that is carried by its aesthic and Nicole Kidman's performance, but is held back by its lackluster writing"
+}
+release_year: 2024
+review_date: "12/31/2024"
+redux: false
+id: 524
+imdb_id: "tt30057084"

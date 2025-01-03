@@ -1,0 +1,159 @@
+title: "Sonic the Hedgehog 3"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Jeff Fowler"
+    }
+    rating: "TODO"
+    comments: "macroscale is; microscale is; storytelling is; tension is"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Jim Carrey"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Ben Schwartz"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Krysten Ritter"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Natasha Rothwell"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Shemar Moore"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "James Marsden"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Tika Sumpter"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Idris Elba"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Keanu Reeves"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    cast {
+      rating: "TODO"
+      comments: "TODO"
+    }
+    rating: "TODO"
+  }
+  story {
+    writer {
+      name: "Pat Casey"
+    }
+    writer {
+      name: "Josh Miller"
+    }
+    rating: "TODO"
+    comments: "The concept is; the plot structure is; character writing is"
+  }
+  screenplay {
+    writer {
+      name: "Pat Casey"
+    }
+    writer {
+      name: "Josh Miller"
+    }
+    writer {
+      name: "John Whittington"
+    }
+    rating: "TODO"
+    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+  }
+  score {
+    composer {
+      name: "Tom Holkenborg"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  soundtrack {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  cinematography {
+    cinematographer {
+      name: "Brandon Trost"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  editing {
+    editor {
+      name: "Al LeVine"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  sound {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2024
+review_date: "01/01/2025"
+redux: false
+id: 525
+imdb_id: "tt18259086"
