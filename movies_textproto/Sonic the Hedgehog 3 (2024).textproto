@@ -1,12 +1,12 @@
 title: "Sonic the Hedgehog 3"
-rating: 0.1
+rating: 7.3
 review {
   direction {
     director {
       name: "Jeff Fowler"
     }
     rating: "Pretty Good"
-    comments: "The direction on a macroscale is pretty fun as they create this gaming action-comedy that is pretty true to the Sonic games; the direction on a microscale is decent as it has the silly comedy moments Sonic is known for, and tackles some darker, more mature themes that you do not see as much from a family movie; the storytelling is what you would expect from a family movie"
+    comments: "The direction on a macroscale is pretty fun, as it creates this gaming action-comedy that is pretty true to the Sonic games; The direction on a microscale is decent, as it has the silly comedy moments Sonic is known for and tackles some darker, more mature themes that you do not see as much in a family movie; The storytelling is what you would expect from a family movie"
   }
   acting {
     performance {
@@ -14,53 +14,53 @@ review {
         name: "Jim Carrey"
       }
       rating: "Good"
-      comments: "A very Jim Carrey performance as you can tell he has a lot of fun making these movies"
+      comments: "A very Jim Carrey performance; as you can tell, he has a lot of fun making these movies"
     }
     performance {
       actor {
         name: "Ben Schwartz"
       }
       rating: "Good"
-      comments: "Really encapsulates the personality of Sonic"
+      comments: "It really encapsulates the personality of Sonic"
     }
     performance {
       actor {
         name: "Krysten Ritter"
       }
       rating: "Decent"
-      comments: "Typical villian henchman"
+      comments: "Typical villain henchman;"
     }
     performance {
       actor {
         name: "James Marsden"
       }
       rating: "Decent to Pretty Good"
-      comments: "Plays the human side-kick to Sonic, but is given less screen-time as the other movies"
+      comments: "Plays the human sidekick to Sonic but is given less screen time than the other movies"
     }
     performance {
       actor {
         name: "Tika Sumpter"
       }
       rating: "Decent to Pretty Good"
-      comments: "Helps act as the motherly figure in this make-shift family; has pretty good chemistry with Marsden"
+      comments: "Helps act as the motherly figure in this makeshift family; Has pretty good chemistry with Marsden"
     }
     performance {
       actor {
         name: "Idris Elba"
       }
       rating: "Pretty Good"
-      comments: "Plays the monotonous, tough-guy nature of Knuckles well"
+      comments: "Plays the monotonous, tough-guy nature of Knuckles well;"
     }
     performance {
       actor {
         name: "Keanu Reeves"
       }
       rating: "Pretty Good"
-      comments: "Plays the gritty nature of Shadow well; basically just John Wick, but Shadow"
+      comments: "Plays the gritty nature of Shadow well;  Basically, it\'s just John Wick, but Shadow"
     }
     cast {
       rating: "Decent"
-      comments: "Typical family movie background character performances; help with establishing the tone and making the movie silly fun"
+      comments: "Typical family movie background character performances help with establishing the tone and making the movie silly fun"
     }
     rating: "Decent to Pretty Good"
   }
@@ -72,7 +72,7 @@ review {
       name: "Josh Miller"
     }
     rating: "Pretty Good"
-    comments: "The concept is a continuation of the Sonic the Hedgehog story, with the added Shadow storyline that is true to the video games, particularly 'Sonic Adventure 2'; the plot structure is pretty simple; character writing captures the essense of these characters that is true to the video games"
+    comments: "The concept is a continuation of the Sonic the Hedgehog story, with the added Shadow storyline that is true to the video games, particularly \"Sonic Adventure 2\"; the plot structure is pretty simple; character writing captures the essence of these characters that is true to the video games"
   }
   screenplay {
     writer {
@@ -85,32 +85,32 @@ review {
       name: "John Whittington"
     }
     rating: "Decent to Pretty Good"
-    comments: "The dialogue is pretty and family oriented, but does get a little bit mature at points; the humor is very silly and meta, so what you would expect from both Sonic the Hedgehog and Jim Carrey; the symbolism is somewhat there as the movie touches on familial themes and loss; the foreshadowing is pretty standard because you kinda expect where this movie is going because its made for families"
+    comments: "The dialogue is pretty and family-oriented, but does get a little mature at points; The humor is very silly and meta, so it\'s what you would expect from both Sonic the Hedgehog and Jim Carrey; The symbolism is somewhat present as the movie touches on familial themes and loss; The foreshadowing is pretty standard because you kind of expect where this movie is going because it\'s made for families"
   }
   score {
     composer {
       name: "Tom Holkenborg"
     }
     rating: "Decent"
-    comments: "Helps establish the tones and does a decent job incorporating classic Sonic themes"
+    comments: "It helps establish the tone and does a decent job incorporating classic Sonic themes"
   }
   soundtrack {
     rating: "Decent"
-    comments: "Enjoyed how they included 'Live and Learn' as an homage to 'Sonic Adventure 2'"
+    comments: "Enjoyed how they included \"Live and Learn\" as an homage to \"Sonic Adventure 2\""
   }
   cinematography {
     cinematographer {
       name: "Brandon Trost"
     }
     rating: "Decent"
-    comments: "Standard for an action-comedy of this scale"
+    comments: "Standard for an action-comedy of this scale;"
   }
   editing {
     editor {
       name: "Al LeVine"
     }
     rating: "Decent"
-    comments: "Pretty sound"
+    comments: "Pretty sound;"
   }
   sound {
     rating: "Pretty Good"
@@ -118,17 +118,17 @@ review {
   }
   visual_effects {
     rating: "Good"
-    comments: "Helped mesh the Sonic character's with the environment as the overall feel makes the movie look like it's in the Sonic universe"
+    comments: "Helped mesh the Sonic characters with the environment as the overall feel makes the movie look like it is in the Sonic universe"
   }
   costumes {
     rating: "Pretty Good"
-    comments: "Helps make the Roboniks look like their video game characters"
+    comments: "Helps make the Roboniks look like their video game characters;"
   }
-  pacing: "Pacing is a little on the faster side, but there really isn't that much plot to go through"
-  climax: "Climax is pretty cool as it pays homage to 'Sonic Adventure 2'"
-  tone: "Tone is silly, family comedy that makes this feel like its something from the Sonic franchise"
-  final_notes: "Really enjoyed the homages to the Sonic franchise and 'Sonic Adventure 2'"
-  overall: "Overall, a pretty good family comedy that is carried by its silly humor, action sequences, and performances from Jim Carrey, Ben Schwartz, and Keanu Reeves as the movie pays homage to the Sonic franchise, particularly 'Sonic Adventure 2'"
+  pacing: "Pacing is a little on the faster side; but there really isn\'t that much plot to go through"
+  climax: "Climax is pretty cool as it pays homage to \"Sonic Adventure 2\""
+  tone: "Tone is silly, family comedy that makes this feel like it\'s something from the Sonic franchise;"
+  final_notes: "Really enjoyed the homages to the Sonic franchise and *Sonic Adventure 2*;"
+  overall: "Overall, a pretty good family comedy that is carried by its silly humor, action sequences, and performances from Jim Carrey, Ben Schwartz, Idris Elba, and Keanu Reeves; I also really enjoyed how the movie drew a lot of inspiration from one of the franchise's best games, \"Sonic Adventure 2\""
 }
 release_year: 2024
 review_date: "01/01/2025"

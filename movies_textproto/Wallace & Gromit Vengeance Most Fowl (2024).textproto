@@ -1,0 +1,108 @@
+title: "Wallace & Gromit: Vengeance Most Fowl"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Nick Park"
+    }
+    director {
+      name: "Merlin Crossingham"
+    }
+    rating: "Good"
+    comments: "The direction on a macroscale is good as they create this cute, claymation world that makes Aardman films such beloved artpieces; the direction on a microscale brings out the cute, silly nature that makes Wallace & Gromit iconic; the storytelling keeps things very simple; they build tension in a very funny way as it makes the movie more adorable yet hype"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Ben Whitehead"
+      }
+      rating: "Good"
+      comments: "Helps show what a lovable dunce Wallace is"
+    }
+    performance {
+      actor {
+        name: "Peter Kay"
+      }
+      rating: "Pretty Good"
+      comments: "Plays his character well in this universe"
+    }
+    performance {
+      actor {
+        name: "Lauren Patel"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the up and coming cop character well"
+    }
+    performance {
+      actor {
+        name: "Reece Shearsmith"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the animated robot character well as it is very annoying, yet terrifying"
+    }
+    cast {
+      rating: "Pretty Good"
+      comments: "Very minor background characters as it is more about the main cast, but they do a good job filling in the voices of this world"
+    }
+    rating: "Pretty Good to Good"
+  }
+  story {
+    writer {
+      name: "Nick Park"
+    }
+    writer {
+      name: "Mark Burton"
+    }
+    rating: "Good"
+    comments: "The concept is very cute and adorable because it creates this revenge story for one of Wallace & Gromit's most iconic villians; the plot structure is pretty simple because the movie is only 79 minutes long; the character writing is good as it brings back iconic characters in Wallace & Gromit, and does so much with little audio"
+  }
+  screenplay {
+    writer {
+      name: "Mark Burton"
+    }
+    rating: "Good"
+    comments: "The dialogue is pretty traditional to Wallace & Gromit; the humor is very adorable and silly; symbolism is an integral part to the movie because the whole film is a message about the rise in AI and the over-reliance on technology; the movie's symbolism is a little too overt because it feels very on the nose when they discuss it; the foreshadowing is good as it is integral to the climax"
+  }
+  score {
+    composer {
+      name: "Lorne Balfe"
+    }
+    composer {
+      name: "Julian Nott"
+    }
+    rating: "Pretty Good"
+    comments: "Helps make the movie very playful and true to Wallace & Gromit"
+  }
+  cinematography {
+    cinematographer {
+      name: "Dave Alex Riddett"
+    }
+    rating: "Good"
+    comments: "An integral part to making this claymation adventure come to life, and it feels like they used advanced techniques that made this the most grand Wallace & Gromit yet"
+  }
+  editing {
+    editor {
+      name: "Dan Hembery"
+    }
+    rating: "Good"
+    comments: "Integral in making this claymation adventure come to life"
+  }
+  sound {
+    rating: "Good"
+    comments: "Helps make the movie feel adorable and silly"
+  }
+  animation {
+    rating: "Great"
+    comments: "Shows the power claymation has in animating movies as this style is what makes Wallace & Gromit a beloved franchise; claymation is integral to the movie's anti-technology message"
+  }
+  pacing: "Pacing is pretty fast only because the runtime is 79 minutes long"
+  climax: "Climax is very fun and kinda over-the-top, which I loved"
+  tone: "Tone is very silly and adorable, like other Wallace & Gromit films"
+  final_notes: "Only a claymation movie like this can have a strong message against technology and AI"
+  overall: "Overall, a good film that is very true to the Wallace & Gromit franchise in how silly and fun it is; only a claymation movie like this can have such a strong message against AI and over-reliance on technology, even though it can be very overt at times"
+}
+release_year: 2024
+review_date: "01/04/2025"
+redux: false
+id: 526
+imdb_id: "tt17163970"
