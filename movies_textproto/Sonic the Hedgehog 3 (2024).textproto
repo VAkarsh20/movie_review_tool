@@ -5,78 +5,64 @@ review {
     director {
       name: "Jeff Fowler"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; storytelling is; tension is"
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale is pretty fun as they create this gaming action-comedy that is pretty true to the Sonic games; the direction on a microscale is decent as it has the silly comedy moments Sonic is known for, and tackles some darker, more mature themes that you do not see as much from a family movie; the storytelling is what you would expect from a family movie"
   }
   acting {
     performance {
       actor {
         name: "Jim Carrey"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "A very Jim Carrey performance as you can tell he has a lot of fun making these movies"
     }
     performance {
       actor {
         name: "Ben Schwartz"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Good"
+      comments: "Really encapsulates the personality of Sonic"
     }
     performance {
       actor {
         name: "Krysten Ritter"
       }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Natasha Rothwell"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Shemar Moore"
-      }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Typical villian henchman"
     }
     performance {
       actor {
         name: "James Marsden"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent to Pretty Good"
+      comments: "Plays the human side-kick to Sonic, but is given less screen-time as the other movies"
     }
     performance {
       actor {
         name: "Tika Sumpter"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent to Pretty Good"
+      comments: "Helps act as the motherly figure in this make-shift family; has pretty good chemistry with Marsden"
     }
     performance {
       actor {
         name: "Idris Elba"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Plays the monotonous, tough-guy nature of Knuckles well"
     }
     performance {
       actor {
         name: "Keanu Reeves"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Plays the gritty nature of Shadow well; basically just John Wick, but Shadow"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Typical family movie background character performances; help with establishing the tone and making the movie silly fun"
     }
-    rating: "TODO"
+    rating: "Decent to Pretty Good"
   }
   story {
     writer {
@@ -85,8 +71,8 @@ review {
     writer {
       name: "Josh Miller"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; character writing is"
+    rating: "Pretty Good"
+    comments: "The concept is a continuation of the Sonic the Hedgehog story, with the added Shadow storyline that is true to the video games, particularly 'Sonic Adventure 2'; the plot structure is pretty simple; character writing captures the essense of these characters that is true to the video games"
   }
   screenplay {
     writer {
@@ -98,59 +84,51 @@ review {
     writer {
       name: "John Whittington"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Decent to Pretty Good"
+    comments: "The dialogue is pretty and family oriented, but does get a little bit mature at points; the humor is very silly and meta, so what you would expect from both Sonic the Hedgehog and Jim Carrey; the symbolism is somewhat there as the movie touches on familial themes and loss; the foreshadowing is pretty standard because you kinda expect where this movie is going because its made for families"
   }
   score {
     composer {
       name: "Tom Holkenborg"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Helps establish the tones and does a decent job incorporating classic Sonic themes"
   }
   soundtrack {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Enjoyed how they included 'Live and Learn' as an homage to 'Sonic Adventure 2'"
   }
   cinematography {
     cinematographer {
       name: "Brandon Trost"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Standard for an action-comedy of this scale"
   }
   editing {
     editor {
       name: "Al LeVine"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Pretty sound"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Helped make the action-comedy what it is"
   }
   visual_effects {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Helped mesh the Sonic character's with the environment as the overall feel makes the movie look like it's in the Sonic universe"
   }
   costumes {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "Helps make the Roboniks look like their video game characters"
   }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
-  final_notes: ""
-  overall: "Overall, "
+  pacing: "Pacing is a little on the faster side, but there really isn't that much plot to go through"
+  climax: "Climax is pretty cool as it pays homage to 'Sonic Adventure 2'"
+  tone: "Tone is silly, family comedy that makes this feel like its something from the Sonic franchise"
+  final_notes: "Really enjoyed the homages to the Sonic franchise and 'Sonic Adventure 2'"
+  overall: "Overall, a pretty good family comedy that is carried by its silly humor, action sequences, and performances from Jim Carrey, Ben Schwartz, and Keanu Reeves as the movie pays homage to the Sonic franchise, particularly 'Sonic Adventure 2'"
 }
 release_year: 2024
 review_date: "01/01/2025"
