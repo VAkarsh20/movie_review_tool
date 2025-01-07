@@ -1,12 +1,12 @@
 title: "Se7en"
-rating: 0.1
+rating: 9.2
 review {
   direction {
     director {
       name: "David Fincher"
     }
     rating: "Great"
-    comments: "The direction on a macroscale is great as he creates this dark and grimey environment that looks like hell on the surface; the direction on a microscale is very good as he uses tension well to raise the stakes in the interpersonal scenes; the storytelling is great as it uses such a captivating story to really draw you in, and uses tension well to help tell this story; he uses tension masterfully as it is integral in telling the story, setting the scene, and raising the stakes"
+    comments: "The direction on a macroscale is great as he creates this dark and grimy environment that looks like hell on the surface; The direction on a microscale is very good as he uses tension well to raise the stakes in the interpersonal scenes; The storytelling is great as it uses such a captivating story to really draw you in and uses tension well to help tell this story; He uses tension masterfully as it is integral in telling the story setting the scene and raising the stakes"
   }
   acting {
     performance {
@@ -14,39 +14,39 @@ review {
         name: "Brad Pitt"
       }
       rating: "Pretty Good"
-      comments: "Shows glimpses of being the star he will become as he shows command leading his scenes, but he definitely shows some inexperience"
+      comments: "Shows glimpses of being the star he will become as he shows command leading his scenes but he definitely shows some inexperience"
     }
     performance {
       actor {
         name: "Morgan Freeman"
       }
       rating: "Good"
-      comments: "Shows his calm nature in his scenes as he is an experienced actor who helps those he acts with; has pretty good chemistry with Pitt; shows a range of emotions, and definitely changes his personality in the end to fit the scenario"
+      comments: "He shows his calm nature in his scenes as he is an experienced actor who helps those he acts with; He has pretty good chemistry with Pitt; He shows a range of emotions and definitely changes his personality in the end to fit the scenario"
     }
     performance {
       actor {
         name: "Gwyneth Paltrow"
       }
       rating: "Pretty Good"
-      comments: "Plays dective's wife well and shows her concern for the situation and her husband"
+      comments: "Plays detective\'s wife well and shows her concern for the situation and her husband"
     }
     performance {
       actor {
         name: "R. Lee Ermey"
       }
       rating: "Pretty Good"
-      comments: "Plays the captain role well, but is less captivating than his 'Full Metal Jacket' role because of what is asked from him"
+      comments: "Plays the captain role well, but is less captivating than his \"Full Metal Jacket\" role because of what is asked of him"
     }
     performance {
       actor {
         name: "Kevin Spacey"
       }
       rating: "Good"
-      comments: "Shows so much subtly with very little time; truly captivating as he steals the scene with his menacing presense"
+      comments: "Shows so much subtlety with very little time; Truly captivating as he steals the scene with his menacing presence"
     }
     cast {
       rating: "Pretty Good"
-      comments: "Every minor role plays their role well as they help build the tension and help tell the story"
+      comments: "Every minor role plays its part well as it helps build the tension and helps tell the story"
     }
     rating: "Pretty Good to Good"
   }
@@ -55,53 +55,53 @@ review {
       name: "Andrew Kevin Walker"
     }
     rating: "Incredible"
-    comments: "The concept is incredible as it uses the seven deadly sins as a blue-print to create such a captivating serial-killer film; the plot structure is very good as it uses the symmetry of a week to model the seven deadly sins murders; character writing is good as it has this buddy-cop dynamic between the seasoned vet and the newcomer, but the character that steals the show is John Doe as his omnious nature makes him such a menacing character"
+    comments: "The concept is incredible, as it uses the seven deadly sins as a blueprint to create such a captivating serial-killer film; The plot structure is very good, as it uses the symmetry of a week to model the seven deadly sins murders; Character writing is good, as it has this buddy-cop dynamic between the seasoned vet and the newcomer, but the character that steals the show is John Doe, as his ominous nature makes him such a menacing character"
   }
   screenplay {
     writer {
       name: "Andrew Kevin Walker"
     }
     rating: "Incredible"
-    comments: "The dialogue is very sharp and well written, and there are many iconic lines; the humor helps lighten the tension in moments; the symbolism is great as the whole movie draws from parallels of the 7 deadly sins and works that stem from it; the foreshadowing is incredibly"
+    comments: "The dialogue is very sharp and well-written, and there are many iconic lines; The humor helps lighten the tension in moments; The symbolism is great as the whole movie draws from parallels of the seven deadly sins and works that stem from them; The foreshadowing is incredibly impactful"
   }
   score {
     composer {
       name: "Howard Shore"
     }
     rating: "Pretty Good"
-    comments: "A little overbearing at moments, but is essestinal in establsihign the tone"
+    comments: "A little overbearing at moments, but is essential in establishing the tone"
   }
   cinematography {
     cinematographer {
       name: "Darius Khondji"
     }
     rating: "Great"
-    comments: "Helps show the grime and dark nature of this underbelly; the lighting of this movie really makes this movie iconic"
+    comments: "Helps show the grime and dark nature of this underbelly; The lighting of this movie really makes this movie iconic"
   }
   editing {
     editor {
       name: "Richard Francis-Bruce"
     }
     rating: "Incredible"
-    comments: "The film is put together like solving a murder mystery, as it feels like scenes of film-strips are stitched together to try and solve this crime; the uses of adding single frames is something Fincher is known for and is really integral to his story"
+    comments: "The film is put together like solving a murder mystery, as it feels like scenes of film strips are stitched together to try and solve this crime; The use of adding single frames is something Fincher is known for and is really integral to his story"
   }
   sound {
     rating: "Good"
-    comments: "Helps build tension and used well in the action sequences"
+    comments: "It helps build tension and is used well in the action sequences"
   }
   production_design {
     rating: "Great"
-    comments: "Helps show the grime and dark nature of this underbelly"
+    comments: "Helps show the grime and dark nature of this underbelly;"
   }
   makeup {
     rating: "Very Good"
-    comments: "Helps paint the victims of John Doe"
+    comments: "Helps paint the victims of John Doe;"
   }
-  pacing: "Pacing is good as tension really makes this movie feel like this movie is moving at the right speed"
-  climax: "Climax is brilliant as it is one of the most iconic endings in all of cinema history; the very last scene seems a bit unnecessary because they should've just ended the movie in the climax"
-  tone: "Tone is very much a serial-killer crime thriller"
+  pacing: "Pacing is good, as tension really makes this movie feel like it is moving at the right speed;"
+  climax: "Climax is brilliant as it is one of the most iconic endings in all of cinema history; The very last scene seems a bit unnecessary because they should have just ended the movie at the climax"
+  tone: "Tone is very much a serial-killer crime thriller;"
   final_notes: ""
-  overall: "Overall, a great movie that is carried by its incredible writing and great filmmaking as David Fincher creates an grimey serial-killer thriller that is his coming out party to the cinematic world"
+  overall: "Overall, a great movie that is carried by its incredible writing and great filmmaking as David Fincher creates a grimy serial-killer thriller that is his coming-out party to the cinematic world"
 }
 release_year: 1995
 review_date: "01/04/2025"
