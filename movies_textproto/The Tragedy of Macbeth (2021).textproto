@@ -1,12 +1,12 @@
 title: "The Tragedy of Macbeth"
-rating: 0.1
+rating: 8.0
 review {
   direction {
     director {
       name: "Joel Coen"
     }
     rating: "Good"
-    comments: "The direction on a macroscale is very good as the style and aestheic feel very inspired by the stage and early adaptations like 'Throne of Blood'; the direction on a microscale is good as it is very Shakespearn and feels like a play; the storytelling is good; he builds tension pretty well"
+    comments: "The direction on a macroscale is very good, as the style and aesthetic feel very inspired by the stage and early adaptations like \"Throne of Blood\"; the direction on a microscale is good, as it is very Shakespearean and feels like a play; the storytelling is good; he builds tension pretty well"
   }
   acting {
     performance {
@@ -14,18 +14,18 @@ review {
         name: "Denzel Washington"
       }
       rating: "Very Good"
-      comments: "Shows a wide range as you can see he really does have a heart for playing shakespearn characters; really embodies Macbeth"
+      comments: "Shows a wide range, as you can see he really does have a heart for playing Shakespearean characters; He really embodies Macbeth"
     }
     performance {
       actor {
         name: "Frances McDormand"
       }
       rating: "Good"
-      comments: "A good Lady Macbeth as her chemistry with Washington and her own personal moments really make the character shine"
+      comments: "A good Lady Macbeth, as her chemistry with Washington and her own personal moments, really make the character shine"
     }
     cast {
       rating: "Pretty Good"
-      comments: "Very Shakespearn performances that feel like they are coming from the stage"
+      comments: "Very Shakespearean performances that feel like they are coming from the stage;"
     }
     rating: "Good"
   }
@@ -34,14 +34,14 @@ review {
       name: "Joel Coen"
     }
     rating: "Good"
-    comments: "A very accurate and true interpretation of Macbeth"
+    comments: "A very accurate and truthful interpretation of Macbeth;"
   }
   screenplay {
     writer {
       name: "Joel Coen"
     }
     rating: "Good"
-    comments: "The screenplay and dialogue are very true to Shakespeare's original play"
+    comments: "The screenplay and dialogue are very true to Shakespeare\'s original play"
   }
   score {
     composer {
@@ -55,7 +55,7 @@ review {
       name: "Bruno Delbonnel"
     }
     rating: "Very Good"
-    comments: "Feels very inspired by early adaptations like 'Throne of Blood' as the aspect ration and angles really make this movie feel like an homage to the stage"
+    comments: "Feels very inspired by early adaptations like \"Throne of Blood,\" as the aspect ratio and angles really make this movie feel like an homage to the stage"
   }
   editing {
     editor {
@@ -65,24 +65,24 @@ review {
       name: "Reginald Jaynes"
     }
     rating: "Good"
-    comments: "Helps make this movie feel very put together and used in conjunction with the cinematogrpahy to give this a very old-school feel"
+    comments: "Helps make this movie feel very put together and used in conjunction with the cinematography to give this a very old-school feel"
   }
   sound {
     rating: "Pretty Good"
   }
   production_design {
     rating: "Very Good"
-    comments: "Feels very true to the stage as the set design and sky give it a very old school feel"
+    comments: "Feels very true to the stage, as the set design and sky give it a very old-school feel"
   }
   costumes {
     rating: "Good"
-    comments: "Very true to the Macbeth play"
+    comments: "Very true to the Macbeth play;"
   }
-  pacing: "Pacing is the same as Macbeth"
+  pacing: "Pacing is the same as Macbeth\'s"
   climax: "Climax is pretty good as it is true to the play"
-  tone: "Tone is very shakespearn"
+  tone: "Tone is very Shakespearean"
   final_notes: ""
-  overall: "Overall, a good adaptation of Shakespeare's Macbeth that is carried by Denzel Washington's titual perfomrance as well as the cinemtigrpahy and production design giving it a very stage feel"
+  overall: "Overall, a good adaptation of Shakespeare\'s Macbeth that is carried by Denzel Washington\'s titular performance as well as the cinematography and production design giving it a very stage-like feel"
 }
 release_year: 2021
 review_date: "01/06/2025"

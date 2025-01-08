@@ -1,0 +1,155 @@
+title: "Better Man"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Michael Gracey"
+    }
+    rating: "Good"
+    comments: "The direction on a macroscale is very good as the musical sequences are well executed and grand, and they build the world well; the direction on a microscale is good as the interpersonal and solo scenes with Robbie show how depressing and sad his life really is as he constantly has to fight self-doubt and trying to appease everyone around him; the storytelling is very good as they just keep punching this monkey down to a point where you start feeling really bad for him"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Robbie Williams"
+      }
+      rating: "Pretty Good"
+      comments: "Interjects into his own biopic to make this movie feel very personal"
+    }
+    performance {
+      actor {
+        name: "Jonno Davies"
+      }
+      rating: "Pretty Good"
+      comments: "Does good motion capture work; plays Robbie pretty well"
+    }
+    performance {
+      actor {
+        name: "Steve Pemberton"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the absentee dad archtype pretty well"
+    }
+    performance {
+      actor {
+        name: "Damon Herriman"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the abusive manager archtype well"
+    }
+    performance {
+      actor {
+        name: "Raechelle Banno"
+      }
+      rating: "Decent to Pretty Good"
+      comments: "Plays the love interest pretty well"
+    }
+    performance {
+      actor {
+        name: "Alison Steadman"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Plays the loving grandmother character well"
+    }
+    performance {
+      actor {
+        name: "Kate Mulvany"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the mother character well, but would have loved to see her given more screen time"
+    }
+    cast {
+      rating: "Decent to Pretty Good"
+      comments: "Typical british performances; help suppor the main cast"
+    }
+    rating: "Pretty Good"
+  }
+  story {
+    writer {
+      name: "Simon Gleeson"
+    }
+    writer {
+      name: "Oliver Cole"
+    }
+    writer {
+      name: "Michael Gracey"
+    }
+    rating: "Very Good"
+    comments: "The story is a biopic on british pop star Robbie Williams, doing a deep dive into his career that was surrounded by insecurity, mental illness, and substance abuse; the plot structure is balanced as each chapter in Robbie's life feel like it is the right length; character writing is very good as the movie tackles the mental illness of the singer as he struggles with self-doubt and imposter syndrome that leads to substance abuse issues as he tries to appease his fans"
+  }
+  screenplay {
+    writer {
+      name: "Simon Gleeson"
+    }
+    writer {
+      name: "Oliver Cole"
+    }
+    writer {
+      name: "Michael Gracey"
+    }
+    rating: "Very Good"
+    comments: "The dialogue is pretty british, but well written; the humor is pretty childish, british humor; the symbolism is incredibly profound as movie accurately presents messages about imposter syndrome, self-doubt, depression, and substance abuse issues that stem from stardom; making Robbie Williams a monkey helps show how he was a 'dancing monkey' trying to appease his fans; the foreshadowing is good as the movie's beginning and ending share parallels"
+  }
+  score {
+    composer {
+      name: "Batu Sener"
+    }
+    composer {
+      name: "Robbie Williams"
+    }
+    rating: "Decent"
+    comments: "Helped with setting the tone"
+  }
+  soundtrack {
+    rating: "Decent"
+    comments: "Was not a fan of a lot of the songs; the songs weren't bad, it is just I guess I'm not a huge Robbie Williams fan"
+  }
+  cinematography {
+    cinematographer {
+      name: "Erik A. Wilson"
+    }
+    rating: "Good to Very Good"
+    comments: "Helps make the musical sequences feel well executed"
+  }
+  editing {
+    editor {
+      name: "Jeff Groth"
+    }
+    editor {
+      name: "Spencer Susser"
+    }
+    editor {
+      name: "Martin Connor"
+    }
+    editor {
+      name: "Lee Smith"
+    }
+    editor {
+      name: "Patrick Correll"
+    }
+    rating: "Good to Very Good"
+    comments: "Helps make the music sequences and the dream sequences feel polished and well executed"
+  }
+  sound {
+    rating: "Good"
+    comments: "Helps make the music sequences well executed"
+  }
+  visual_effects {
+    rating: "Very Good"
+    comments: "A very bold move to make the protagonist a CGI monkey, but this is executed very well as it feels very life-like and is an integral part of the story; CGI helps build the music sequences and helps make this musical look very good"
+  }
+  production_design {
+    rating: "Good"
+    comments: "Helps make the music sequences and the world look good"
+  }
+  pacing: "Pacing is good as the movie feels very balanced"
+  climax: "Climax is pretty good as it is a big culmenation to Robbie Williams' career, but also just feels like the rest of the film"
+  tone: "Tone is very much a music biopic, but definitely feels dark at moments when it dives deep into Williams' mental struggles"
+  final_notes: "This movie was bound to fail in the US because of three factors: Robbie Williams was never big in the US, a lot of the marketing had to educate who he was, and the budget was way too high to make this movie profitable"
+  overall: "Overall, a good musical biopic about Robbie Williams as it should be seen for it's visual effects, musical numbers, and its suprisingly good job talking about mental health issues like imposter syndrome, self doubt, and substance abuse; I still didn't care about Robbie Williams' songs after watching this movie, so this is a testiment to why this movie is going to fail in the US"
+}
+release_year: 2024
+review_date: "01/06/2025"
+redux: false
+id: 528
+imdb_id: "tt14260836"
