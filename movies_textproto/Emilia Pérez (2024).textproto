@@ -1,0 +1,92 @@
+title: "Emilia P\303\251rez"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Jacques Audiard"
+    }
+    rating: "Very Bad"
+    comments: "The direction on a macroscale is very bad as many of the musical sequences feel so out of sync that it is laughable, and they do not do a good job building the world or the conflict at all; the direction on a microscale is bad as many of the interpersonal relationships feel very clunky, except for Salda\303\261a and Gasc\303\263n; the storytelling is bad as it feels like they are just making the story as they are going, and they just abandon many of the story lines by the end; they build tension poorly"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Zoe Salda\303\261a"
+      }
+      rating: "Good"
+      comments: "The only noteworthy thing about this movie as she does have a good performance and shows a pretty good range of emotion; her singing and musical ability is believable"
+    }
+    performance {
+      actor {
+        name: "Karla Sof\303\255a Gasc\303\263n"
+      }
+      rating: "Pretty Good"
+      comments: "Shows a pretty good range of emotion as you can tell how personal this story is to them; has decent chemistry with Salda\303\261a; definitely feels like the lead in their scenes; not the best singing"
+    }
+    performance {
+      actor {
+        name: "Selena Gomez"
+      }
+      rating: "Bad"
+      comments: "Her Spanish is so bad that there ar emoments int he mvoie where she gets so frustrated with her own Spanish that she just gives up and starts speaking English; has a very bland range that shows little emotion; has no chemistry with any of the cast; pretty good in the singing moments, only because she actually is a singer"
+    }
+    cast {
+      rating: "Pretty Bad"
+      comments: "Standard background actors in a musical, but they are not the best actors and do not do a good job in either making the musical numbers better or supporting the main actors and story"
+    }
+    rating: "Decent"
+  }
+  story {
+    writer {
+      name: "Jacques Audiard"
+    }
+    rating: "Very Bad"
+    comments: "The concept is actually very bad as it is a bootleg Mrs.Doubtfire that tries to do so much, but comes off with no nuance because of them forcing the musical component in this movie every 5 minutes; the plot structure is not good as it feels like this movie just falls a part towards the end; character writing is not good as you don't really care for any of these characters, and it is very concerning that they give no nuance to P\303\251rez's struggle as a trans-woman"
+  }
+  screenplay {
+    writer {
+      name: "Jacques Audiard"
+    }
+    rating: "Very Bad"
+    comments: "The dialogue is very bad that it is laughable; the musical dialogue every 5 minutes makes this movie not believable at all; the symbolism is completely absent because the movie has no nuance to it; the foreshadowing is bad because the movie just like falls apart towards the end"
+  }
+  score {
+    composer {
+      name: "Cl\303\251ment Ducol"
+    }
+    rating: "Decent"
+    comments: "Its fine but used very sparingly given the movie is more about the songs"
+  }
+  soundtrack {
+    rating: "Very Bad"
+    comments: "Most of the songs were just so poorly written and have no nuance to them that is just genuinetly laughable how they made this movie, especially \"La Vaginoplastia\" as it is a testiment to this movie's soundtrack; I maybe thought 1-2 songs were ok"
+  }
+  cinematography {
+    cinematographer {
+      name: "Paul Guilhaume"
+    }
+    rating: "Pretty Bad"
+    comments: "The cinemaogrpahy for a good amount of it is fine, but when its bad its really bad (some of the music sequences are very poorly shot)"
+  }
+  editing {
+    editor {
+      name: "Juliette Welfling"
+    }
+    rating: "Pretty Bad"
+    comments: "the editing is fine for the most part, but there are moments where the movie just feels out of sync or doing way too much"
+  }
+  sound {
+    rating: "Pretty Bad"
+    comments: "Feels out of sync at moments"
+  }
+  pacing: "Pacing is ok, but the movie just drags for how bad it is"
+  climax: "Climax is poorly executed as genuinely is questionable how they decided this was how the movie was going to end"
+  tone: "Tone is very much an over-the-top crime musical"
+  final_notes: ""
+  overall: "Overall, a very bad musical with very bad directing, laughable musical numbers, and a poorly written story that presents no nuance to the movie's important issues"
+}
+release_year: 2024
+review_date: "01/08/2025"
+redux: false
+id: 529
+imdb_id: "tt20221436"

@@ -22,6 +22,8 @@ import multiprocessing as mp
 from utils.proto_utils import *
 from utils.print_utils import *
 from google.protobuf.json_format import MessageToJson
+from tools.imdb import IMDbBot
+
 
 def create_df():
 
@@ -29,12 +31,13 @@ def create_df():
     df = pd.read_csv("movies.csv").fillna("")
 
     for i in range(len(df)):
-        if df.loc[i, 'imdbID'] == "":
-            df.loc[i, 'imdbID'] = get_imdb_id(df.loc[i, 'Title'])
+        if df.loc[i, "imdbID"] == "":
+            df.loc[i, "imdbID"] = get_imdb_id(df.loc[i, "Title"])
 
-    df['Stars'] = df['Rating'].map(lambda x: rating_to_stars(x))
+    df["Stars"] = df["Rating"].map(lambda x: rating_to_stars(x))
 
     return df
+
 
 # Fix issue with protos not having rating and reviews
 def add_rating_and_review_date(df):
@@ -45,24 +48,26 @@ def add_rating_and_review_date(df):
     for i in range(start, end):
 
         record = df.iloc[i]
-        title = record['Title']
+        title = record["Title"]
 
         wiki_title = title.replace(" ", "_")
         infobox = review_tool.parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
 
         if title.endswith("film)"):
-            title = title[:title.rfind(' (')]
+            title = title[: title.rfind(" (")]
 
-        release_year = review_tool.find_release_year(infobox)    
-        filename = ("movies_textproto/" + title + " ({})".format(release_year) + ".textproto").replace(":","")
+        release_year = review_tool.find_release_year(infobox)
+        filename = (
+            "movies_textproto/" + title + " ({})".format(release_year) + ".textproto"
+        ).replace(":", "")
 
         with open(filename, "r") as fd:
             text_proto = fd.read()
 
         proto = text_format.Parse(text_proto, movie_pb2.Movie())
 
-        proto.rating = record['Rating']
-        proto.review_date = record['Date']
+        proto.rating = record["Rating"]
+        proto.review_date = record["Date"]
 
         review_tool.write_proto(proto)
 
@@ -72,40 +77,49 @@ def create_protos_free_from_csv(df):
     free_df = df[:166]
     for i in range(len(free_df)):
 
-        try: 
+        try:
 
             record = free_df.iloc[i]
-            title = record['Title']
+            title = record["Title"]
 
             wiki_title = title.replace(" ", "_")
-            infobox = review_tool.parse_wiki("https://en.wikipedia.org/wiki/" + wiki_title)
-
-            if title.endswith("film)"):
-                title = title[:title.rfind(' (')]
-
-            proto = movie_pb2.MovieFree(
-                title = title, 
-                rating = record['Rating'], 
-                review = record['Review'], 
-                release_year = review_tool.find_release_year(infobox),
-                review_date = record['Date'], 
-                redux = False
+            infobox = review_tool.parse_wiki(
+                "https://en.wikipedia.org/wiki/" + wiki_title
             )
 
+            if title.endswith("film)"):
+                title = title[: title.rfind(" (")]
 
-            filename = ("movies_textproto/" + proto.title + " ({})".format(proto.release_year) + ".textproto").replace(":","")
+            proto = movie_pb2.MovieFree(
+                title=title,
+                rating=record["Rating"],
+                review=record["Review"],
+                release_year=review_tool.find_release_year(infobox),
+                review_date=record["Date"],
+                redux=False,
+            )
 
-            if not os.path.exists(filename): 
+            filename = (
+                "movies_textproto/"
+                + proto.title
+                + " ({})".format(proto.release_year)
+                + ".textproto"
+            ).replace(":", "")
+
+            if not os.path.exists(filename):
                 review_tool.write_proto(proto)
         except:
             print("Issue with {}".format(i))
             continue
 
+
 def fill_in_acting(comments):
 
     def fill_in_acting_comments(actors_dict, comment):
         if "from the rest of the cast" in comment:
-            cast = movie_pb2.Movie.Review.GenericCategory(rating = "TODO", comments=comment)
+            cast = movie_pb2.Movie.Review.GenericCategory(
+                rating="TODO", comments=comment
+            )
             proto.review.acting.cast = cast
             return True
         else:
@@ -165,22 +179,43 @@ def change_date_format(date):
     month, day, year = date.split("/")
     return "{}-{}-{}".format(year, month, day)
 
+
 def update_csv():
 
     title = ""
-    df = pd.DataFrame(columns=["imdbID", "Title", "Year", "Rating","WatchedDate","Tags","Review","Id"])
+    df = pd.DataFrame(
+        columns=[
+            "imdbID",
+            "Title",
+            "Year",
+            "Rating",
+            "WatchedDate",
+            "Tags",
+            "Review",
+            "Id",
+        ]
+    )
     files = os.listdir("movies_textproto/")
 
     for i in range(len(files)):
 
-        try: 
-            filename = files[i].replace(".textproto","")
+        try:
+            filename = files[i].replace(".textproto", "")
 
             if filename == "reduxed":
                 continue
 
             proto = review_tool.read_proto(filename)
-            record = [proto.imdb_id, proto.title, proto.release_year, rating_to_stars(proto.rating), change_date_format(proto.review_date), rating_to_tag(proto.rating), review_tool.print_short_review(proto, filename), proto.id]
+            record = [
+                proto.imdb_id,
+                proto.title,
+                proto.release_year,
+                rating_to_stars(proto.rating),
+                change_date_format(proto.review_date),
+                rating_to_tag(proto.rating),
+                review_tool.print_short_review(proto, filename),
+                proto.id,
+            ]
             df.loc[len(df)] = record
             # sheets.post_to_sheets(proto.title, proto.rating, review_tool.print_review(proto, filename), proto.release_year, proto.review_date, proto.id, proto.imdb_id)
 
@@ -188,10 +223,11 @@ def update_csv():
             raise Exception("Issue with {} {}".format(title, i))
             continue
 
-    df = df.sort_values(by=['Id'])
-    df = df.drop(columns=['Id'])
+    df = df.sort_values(by=["Id"])
+    df = df.drop(columns=["Id"])
 
     df.to_csv("letterboxd_upload.csv", index=False)
+
 
 # TODO: Create FILM TO REDUX
 # https://www.imdb.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.imdb.com%2Fregistration%2Fap-signin-handler%2Fimdb_us&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=imdb_us&openid.mode=checkid_setup&siteState=eyJvcGVuaWQuYXNzb2NfaGFuZGxlIjoiaW1kYl91cyIsInJlZGlyZWN0VG8iOiJodHRwczovL3d3dy5pbWRiLmNvbS8_cmVmXz1sb2dpbiJ9&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&tag=imdbtag_reg-20
@@ -208,8 +244,12 @@ def parse(filename):
         os.mkdir(path + ("reduxed/" * count))
 
     while count > 0:
-        os.rename(path + ("reduxed/" * (count - 1)) + filename, path + ("reduxed/" * (count)) + filename)
+        os.rename(
+            path + ("reduxed/" * (count - 1)) + filename,
+            path + ("reduxed/" * (count)) + filename,
+        )
         count -= 1
+
 
 def export_imdb(files):
 
@@ -224,12 +264,13 @@ def export_imdb(files):
             review = review_tool.print_imdb_review(proto, filename)
             bot.import_review(proto.imdb_id, proto.rating, review)
 
-            if proto.rating >= 9.5:        
-                bot.add_to_cinema_personified_list(proto.imdb_id, proto.title, proto.release_year)
+            if proto.rating >= 9.5:
+                bot.add_to_cinema_personified_list(
+                    proto.imdb_id, proto.title, proto.release_year
+                )
         except:
             raise Exception("Issue with {}".format(filename))
             continue
-
 
 
 def bulk_export_imdb():
@@ -269,13 +310,21 @@ def filter_values():
     for i in range(len(df)):
         record = df.iloc[i]
         if isinstance(record["Review"], str) and len(record["Review"]) >= 600:
-            files.append("{} ({})".format(record["Title"].replace(":","").replace("/", " "), record["Release Year"]))
+            files.append(
+                "{} ({})".format(
+                    record["Title"].replace(":", "").replace("/", " "),
+                    record["Release Year"],
+                )
+            )
     return files
+
 
 def list_of_reviews_changed():
     df = pd.read_csv("movies.csv")
-    df = df.loc[(df["Rating"] > 1.2) & (df["Rating"] < 9.0)][['Title', 'Rating', 'Release Year', 'Id']].sort_values(by=['Rating'])
-    df.to_csv('movies_temp.csv', index=False) 
+    df = df.loc[(df["Rating"] > 1.2) & (df["Rating"] < 9.0)][
+        ["Title", "Rating", "Release Year", "Id"]
+    ].sort_values(by=["Rating"])
+    df.to_csv("movies_temp.csv", index=False)
 
 
 def change_rating(filename):
@@ -303,19 +352,19 @@ def change_review_ratings():
 
 def reduced_rating(val):
     if val >= 1.5 and val <= 2.0:
-        return round(val - 0.2,1)
+        return round(val - 0.2, 1)
     elif val >= 2.5 and val <= 3.9:
-        return round(val - 0.6,1)
+        return round(val - 0.6, 1)
     elif val >= 4.0 and val <= 4.9:
-        return round(val - 0.5,1)
+        return round(val - 0.5, 1)
     elif val >= 5.0 and val <= 6.4:
-        return round(val - 0.4,1)
+        return round(val - 0.4, 1)
     elif val >= 6.5 and val <= 7.6:
-        return round(val - 0.3,1)
+        return round(val - 0.3, 1)
     elif val >= 7.7 and val <= 8.4:
-        return round(val - 0.2,1)
+        return round(val - 0.2, 1)
     elif val >= 8.5 and val <= 8.9:
-        return round(val - 0.1,1)
+        return round(val - 0.1, 1)
     else:
         return val
 
@@ -323,23 +372,35 @@ def reduced_rating(val):
 def create_letterboxd_csv():
 
     temp_df = pd.read_csv("movies_temp.csv")
-    df = pd.DataFrame(columns=["imdbID", "Title", "Year", "Rating","WatchedDate","Tags","Review"])
+    df = pd.DataFrame(
+        columns=["imdbID", "Title", "Year", "Rating", "WatchedDate", "Tags", "Review"]
+    )
     for i in range(len(temp_df)):
         temp_record = temp_df.iloc[i]
 
-        filename = "{} ({})".format(temp_record["Title"], int(temp_record['Release Year']))
+        filename = "{} ({})".format(
+            temp_record["Title"], int(temp_record["Release Year"])
+        )
         try:
             proto = review_tool.read_proto(filename)
             short_review = review_tool.print_short_review(proto, filename)
-        
-            record = [proto.imdb_id, proto.title, proto.release_year, letterboxd.rating_to_stars(proto.rating), letterboxd.change_date_format(proto.review_date), letterboxd.rating_to_tag(proto.rating), short_review]
-            df.loc[i+1] = record
+
+            record = [
+                proto.imdb_id,
+                proto.title,
+                proto.release_year,
+                letterboxd.rating_to_stars(proto.rating),
+                letterboxd.change_date_format(proto.review_date),
+                letterboxd.rating_to_tag(proto.rating),
+                short_review,
+            ]
+            df.loc[i + 1] = record
         except:
             print("Issue with {}".format(filename))
             continue
-    
 
     df.to_csv("letterboxd_upload.csv", index=False)
+
 
 def export_sheets(files):
 
@@ -354,11 +415,14 @@ def export_sheets(files):
             review = review_tool.print_imdb_review(proto, filename)
             bot.import_review(proto.imdb_id, proto.rating, review)
 
-            if proto.rating >= 9.5:        
-                bot.add_to_cinema_personified_list(proto.imdb_id, proto.title, proto.release_year)
+            if proto.rating >= 9.5:
+                bot.add_to_cinema_personified_list(
+                    proto.imdb_id, proto.title, proto.release_year
+                )
         except:
             raise Exception("Issue with {}".format(filename))
             continue
+
 
 def bulk_export_sheets():
 
@@ -371,11 +435,15 @@ def bulk_export_sheets():
     # Post review to local csv file
     df = pd.read_csv("movies.csv")
     temp_df = pd.read_csv("movies_temp.csv")
-    for i in tqdm(range(len(temp_df)-30, len(temp_df))):
+    for i in tqdm(range(len(temp_df) - 30, len(temp_df))):
         record = temp_df.iloc[i]
 
-        filename = "{} ({})".format(record["Title"], int(record['Release Year'])).replace(":","").replace("/", " ")
-        
+        filename = (
+            "{} ({})".format(record["Title"], int(record["Release Year"]))
+            .replace(":", "")
+            .replace("/", " ")
+        )
+
         try:
             proto = review_tool.read_proto(filename)
         except:
@@ -383,8 +451,8 @@ def bulk_export_sheets():
             continue
 
         # Sees if review already exists, else append
-        if not df[df['Id'] == proto.id].empty:
-            df.at[int(proto.id) - 1, 'Rating'] = proto.rating
+        if not df[df["Id"] == proto.id].empty:
+            df.at[int(proto.id) - 1, "Rating"] = proto.rating
         else:
             print("Issue with {}".format(proto.title))
 
@@ -394,8 +462,8 @@ def bulk_export_sheets():
             sheet.update_cell(cell.row, 2, proto.rating)
         else:
             print("Cannot post review")
-    
-    df.to_csv('movies.csv', index=False) 
+
+    df.to_csv("movies.csv", index=False)
 
 
 def set_id(imdb_id, redux):
@@ -404,16 +472,18 @@ def set_id(imdb_id, redux):
         df = pd.read_csv("movies.csv")
         movie_id = int(df[df["imdbID"] == imdb_id]["Id"])
     else:
-        movie_id = len(os.listdir('movies_textproto/'))
+        movie_id = len(os.listdir("movies_textproto/"))
     return movie_id
 
 
-
-if __name__=="__main__":
+if __name__ == "__main__":
 
     argc = len(sys.argv)
 
-    filename = "Uncut Gems (2019)"
-    proto = read_proto(filename=filename)
+    # filename = "Uncut Gems (2019)"
+    # proto = read_proto(filename=filename)
 
-    print(print_imdb_review(proto, filename))
+    # print(print_imdb_review(proto, filename))
+
+    bot = IMDbBot()
+    bot.login()

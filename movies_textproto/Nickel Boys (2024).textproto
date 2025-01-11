@@ -1,0 +1,145 @@
+title: "Nickel Boys"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "RaMell Ross"
+    }
+    rating: "TODO"
+    comments: "macroscale is; microscale is; storytelling is; tension is"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Ethan Herisse"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Brandon Wilson"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Hamish Linklater"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Fred Hechinger"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Daveed Diggs"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Aunjanue Ellis-Taylor"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    cast {
+      rating: "TODO"
+      comments: "TODO"
+    }
+    rating: "TODO"
+  }
+  story {
+    writer {
+      name: "RaMell Ross"
+    }
+    writer {
+      name: "Joslyn Barnes"
+    }
+    rating: "TODO"
+    comments: "The concept is; the plot structure is; character writing is"
+  }
+  screenplay {
+    writer {
+      name: "RaMell Ross"
+    }
+    writer {
+      name: "Joslyn Barnes"
+    }
+    rating: "TODO"
+    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+  }
+  score {
+    composer {
+      name: "Alex Somers"
+    }
+    composer {
+      name: "Scott Alario"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  soundtrack {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  cinematography {
+    cinematographer {
+      name: "Jomo Fray"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  editing {
+    editor {
+      name: "Nicholas Monsour"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  sound {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2024
+review_date: "01/09/2025"
+redux: false
+id: 530
+imdb_id: "tt23055660"
+
+- Good acting all around (especially the ability to subtly convey trauma)
+- First Person POV
+- Good decision to make it PG-13
+- Move does a lot through subtly and action rather than dialogue
+- Shows the horrors but not too much because it doesn't sensationilze it, it allows you to do your own research
+- Shows trauma very well (through subtly in the writing too)
