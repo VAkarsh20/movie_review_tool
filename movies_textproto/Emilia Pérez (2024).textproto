@@ -1,5 +1,5 @@
 title: "Emilia P\303\251rez"
-rating: 0.1
+rating: 3.8
 review {
   direction {
     director {
@@ -32,7 +32,7 @@ review {
     }
     cast {
       rating: "Pretty Bad"
-      comments: "Standard background actors in a musical but they are not the best actors and do not do a good job in either making the musical numbers better or supporting the main actors and story;"
+      comments: "Standard background actors in a musical but they are not the best actors and do not do a good job in either making the musical numbers better or supporting the main actors and story"
     }
     rating: "Decent"
   }
@@ -73,7 +73,7 @@ review {
       name: "Juliette Welfling"
     }
     rating: "Pretty Bad"
-    comments: "The editing is fine for the most part, but there are moments where the movie just feels out of sync or does way too much;"
+    comments: "The editing is fine for the most part, but there are moments where the movie just feels out of sync or does way too much"
   }
   sound {
     rating: "Pretty Bad"
@@ -81,9 +81,9 @@ review {
   }
   pacing: "Pacing is okay, but the movie just drags because it is so bad"
   climax: "The climax is poorly executed; it is genuinely questionable how they decided this was how the movie was going to end"
-  tone: "Tone is very much an over-the-top crime musical;"
+  tone: "Tone is very much an over-the-top crime musical"
   final_notes: ""
-  overall: "Overall, a very bad musical with very bad directing, laughable musical numbers, and a poorly written story that presents no nuance to the movie\'s important issues;"
+  overall: "Overall, a very bad musical with very bad directing, laughable musical numbers, and a poorly written story that presents no nuance to the movie\'s important issues"
 }
 release_year: 2024
 review_date: "01/08/2025"
