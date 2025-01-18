@@ -1,0 +1,114 @@
+title: "The Substance"
+rating: 8.5
+review {
+  direction {
+    director {
+      name: "Coralie Fargeat"
+    }
+    rating: "Very Good"
+    comments: "The direction on a macroscale is great as it created a unique vibe that matches the hyper-pop glamour of Hollywood; The direction on a microscale is over-the-top to execute the points they were trying to get across about beauty standards and Hollywood; The storytelling is very good as they use their unique vibe to tell the story; They build tension in a way that is pretty traditional to body horror"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Demi Moore"
+      }
+      rating: "Good to Very Good"
+      comments: "It feels like this is a very personal performance as you can see her fight back against beauty standards through how she acts"
+    }
+    performance {
+      actor {
+        name: "Margaret Qualley"
+      }
+      rating: "Good"
+      comments: "Good and plays the character well but feels like this is the only character she plays"
+    }
+    performance {
+      actor {
+        name: "Dennis Quaid"
+      }
+      rating: "Pretty Good"
+      comments: "A very over-the-top performance that is meant to exaggerate and emphasize the type of character he is portraying"
+    }
+    cast {
+      rating: "Pretty Bad"
+      comments: "I understand that all the performances were over-the-top and toneless on purpose because it is supposed to exaggerate Hollywood; but at some point it just becomes bad acting"
+    }
+    rating: "Pretty Good"
+  }
+  story {
+    writer {
+      name: "Coralie Fargeat"
+    }
+    rating: "Very Good"
+    comments: "The concept is very original, as it is a glamorous look at female beauty standards in Hollywood; The plot structure is pretty good, for the most part, as it is very structured, but the movie kind of falls apart toward the final 30 minutes; The character writing is very good, as both leads represent the beauty standards of Hollywood and ageism for women"
+  }
+  screenplay {
+    writer {
+      name: "Coralie Fargeat"
+    }
+    rating: "Good"
+    comments: "The dialogue is pretty exaggerated and satirically over-the-top, but this helps complement the vibe; The humor is very satirically over-the-top, that it is kinda funny how dumb it is; The symbolism is the whole point of this movie, as it is an allegory for beauty standards in Hollywood and ageism for women; The foreshadowing is fine, but you can kinda predict where this movie is going by what is happening"
+  }
+  score {
+    composer {
+      name: "Raffertie"
+    }
+    rating: "Very Good"
+    comments: "Really helps give it this hyper-pop glamorous vibe that makes the movie unique"
+  }
+  soundtrack {
+    rating: "Good"
+    comments: "It helps create the vibe for the movie"
+  }
+  cinematography {
+    cinematographer {
+      name: "Benjamin Kra\304\215un"
+    }
+    rating: "Great"
+    comments: "I loved the shots they used, as it made the movie feel very unique and helped create this hyper-pop glamorous vibe through its wide-angle shots and hidden POV angles; A key element to the storytelling, as it helped amplify the visual aesthetic for the film"
+  }
+  editing {
+    editor {
+      name: "Coralie Fargeat"
+    }
+    editor {
+      name: "J\303\251r\303\264me Eltabet"
+    }
+    editor {
+      name: "Valentin Feron"
+    }
+    rating: "Great"
+    comments: "Instrumental in creating the movie\'s aesthetic, it helps make the movie feel very experimental and helped exaggerate the hyper-pop feel"
+  }
+  sound {
+    rating: "Good"
+    comments: "Helped exaggerate what was going on; helped emphasize key elements and the isolation the character was feeling"
+  }
+  visual_effects {
+    rating: "Good"
+    comments: "Helped create the body horror for the movie;"
+  }
+  production_design {
+    rating: "Great"
+    comments: "I really enjoyed the sets as they felt very colorful and unique; they helped give the movie its hyper-pop, exaggerated Hollywood feel"
+  }
+  makeup {
+    rating: "Great"
+    comments: "Helped create the practical effects for the movie and were vital in creating the movie\'s body horror"
+  }
+  costumes {
+    rating: "Very Good"
+    comments: "Helped create this hyper-pop feel in Hollywood; Helped show the glitz and glamour of being a celebrity"
+  }
+  pacing: "Pacing is a bit all over the place, as the movie feels incredibly slow in moments; some scenes were way longer than they needed to be, but sometimes they just breezed through the movie; the movie could have been cut by 5\342\200\22310 minutes by making some of the scenes shorter"
+  climax: "Climax was pretty lackluster, as the movie felt like it overstayed its welcome in the final 20 minutes; The movie could have been cut by about 15 minutes to make the climax more tight"
+  tone: "Tone is very unique as it is this hyper-pop glamorous feel that exaggerates Hollywood"
+  final_notes: ""
+  overall: "Overall, a very good movie as Coralie Fargeat creates this unique, hyperpop vibe that critiques the beauty standards of Hollywood and ageism for women; but it fails to stick the landing because the ending falls apart"
+}
+release_year: 2024
+review_date: "01/12/2025"
+redux: false
+id: 531
+imdb_id: "tt17526714"

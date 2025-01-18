@@ -1,0 +1,119 @@
+title: "September 5"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Tim Fehlbaum"
+    }
+    rating: "Good"
+    comments: "The direction on a macroscale fits the fast-paced, rushed gurellia style of an unexperienced sports team breaking a terrorism event; the directio on a microscale is decent; the storytelling is good as the story and real-life events really make this movie interesting as you want to see what happens next; they use the real world events and the uncertainty of the news team covering the story to build tension well"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Peter Sarsgaard"
+      }
+      rating: "Decent"
+      comments: "Plays the leader of the team, but does not really show that much emotion"
+    }
+    performance {
+      actor {
+        name: "John Magaro"
+      }
+      rating: "Pretty Good to Good"
+      comments: "Controls the room well and is the real protagonist for the movie"
+    }
+    performance {
+      actor {
+        name: "Ben Chaplin"
+      }
+      rating: "Pretty Good"
+      comments: "Shows poise and has good chemistry with the cast; shows a pretty good range of emotion"
+    }
+    performance {
+      actor {
+        name: "Leonie Benesch"
+      }
+      rating: "Pretty Good"
+      comments: "Plays the foregin German role well; her role is to disspell sexist stereotypes"
+    }
+    cast {
+      rating: "Decent to Pretty Good"
+      comments: "Everyone plays their part well in helping create the uneasiness of the situation"
+    }
+    rating: "Decent to Pretty Good"
+  }
+  story {
+    writer {
+      name: "Moritz Binder"
+    }
+    writer {
+      name: "Tim Fehlbaum"
+    }
+    writer {
+      name: "Alex David"
+    }
+    rating: "Good"
+    comments: "The concept is good as the movie shows the perspective of the ABC Sports team breaking the news of the Munich Massacre in real time, a group of people who don't have the expertise breaking a story that the whole world wants to see in real time; the plot structure is pretty good, but the climax is a bit mismanached and the ending feels a bit anticlimatic; there isn't that much character writing, besides some tropes, because the movie is about the story and and the news group as a collective breaking it"
+  }
+  screenplay {
+    writer {
+      name: "Moritz Binder"
+    }
+    writer {
+      name: "Tim Fehlbaum"
+    }
+    writer {
+      name: "Alex David"
+    }
+    rating: "Pretty Good"
+    comments: "The dialogue is pretty strong; the symbolism is pretty neutral as it does not really try to be political as the movie cares more about the neutral American sports team breaking the story, though there is some inherent Israeli preference due to the subject matter; the foreshadowing is not the best because the movie just feels so mismanaged in the end from how it is presented"
+  }
+  score {
+    composer {
+      name: "Lorenz Dangel"
+    }
+    rating: "Decent"
+    comments: "Pretty minimal, used to set the tone and create tension"
+  }
+  soundtrack {
+    rating: "Decent"
+    comments: "Mandatory 'Fortunate Son' moment to show this movie takes place in the 70s"
+  }
+  cinematography {
+    cinematographer {
+      name: "Markus F\303\266rderer"
+    }
+    rating: "Good"
+    comments: "The gureilla style helps heighten the tension and show the unease the team breaking the story; the style helps make the movie feel like it was shot by an olympic cameraman"
+  }
+  editing {
+    editor {
+      name: "Hansj\303\266rg Wei\303\237brich"
+    }
+    rating: "Very Good"
+    comments: "Feels well put together and is important to helping build the tension; the movie feels like it is cut with putting film strips together in the tradional 70s way, similiar to what was being done in the movie; does a very good job splicing in real world footage to make the movie feel seamless"
+  }
+  sound {
+    rating: "Good"
+    comments: "Makes the movie "
+  }
+  production_design {
+    rating: "Good"
+    comments: "The darkness and crammed nature of the production room emmualtes what the actual team was going through"
+  }
+  costumes {
+    rating: "Decent"
+    comments: "Very 70s clothing"
+  }
+  pacing: "Pacing is pretty good; the movie uses its short runtime well, but the ending feels a bit all over the place"
+  climax: "Climax is very mismanaged, especially if you know what actually happens before watching this movie, and the ending feels very anti-climactic"
+  tone: "Tone is very journalist drama mixed with thriller elements to help build tension"
+  final_notes: "I hate that this movie is pronounced 'September five' and not 'September 5th'"
+  overall: "Overall, a good movie that uses its story and editing to create a tense recounting of the 'Munich Massacre,' but the movie fails to stick the landing because of its mismanaged climax and anti-climatic ending"
+}
+release_year: 2024
+review_date: "01/15/2025"
+redux: false
+id: 532
+imdb_id: "tt28082769"
