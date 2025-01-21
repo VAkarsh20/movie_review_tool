@@ -2,7 +2,7 @@ import sys
 from tools.sheets import initialize_to_sheets, post_to_sheets, reviews_sorted
 from tools.letterboxd import post_to_letterboxd
 from tools.imdb import post_to_imdb
-from tools.video_description import get_post_description
+from tools.video_description import get_post_description, get_youtube_tags
 from tools.proofread import proofread
 import os
 
@@ -15,10 +15,11 @@ from utils.proto_utils import *
 from utils.print_utils import *
 from utils.text_utils import *
 
+
 # TODO: Redux is not created for Home Alone 2
 # TODO: Redux not created for Star Wars Episode I because of '-' char
 def move_redux_reviews(filename):
-    path = os.path.join(os.path.dirname(__file__), 'movies_textproto/')
+    path = os.path.join(os.path.dirname(__file__), "movies_textproto/")
     count = 0
     while os.path.exists(path + ("reduxed/" * count) + filename):
         count += 1
@@ -27,10 +28,14 @@ def move_redux_reviews(filename):
         os.mkdir(path + ("reduxed/" * count))
 
     while count > 0:
-        os.rename(path + ("reduxed/" * (count - 1)) + filename, path + ("reduxed/" * (count)) + filename)
+        os.rename(
+            path + ("reduxed/" * (count - 1)) + filename,
+            path + ("reduxed/" * (count)) + filename,
+        )
         count -= 1
 
-if __name__=="__main__":    
+
+if __name__ == "__main__":
     argc = len(sys.argv)
 
     # Reset clock
@@ -56,7 +61,7 @@ if __name__=="__main__":
             initialize_to_sheets(movie)
         write_proto(movie)
     elif sys.argv[1] == "reviews_sorted":
-        print(reviews_sorted())   
+        print(reviews_sorted())
     elif sys.argv[1] == "post_to_sheets":
         filename = input("What is the name of the movie?\n")
 
@@ -67,9 +72,9 @@ if __name__=="__main__":
             print("Cannot post a review with a 0.1/10.0. Please fix rating.")
             sys.exit(0)
         review = print_review(proto, filename)
-        
+
         post_to_sheets(proto, review)
-    elif sys.argv[1] == "post_to_letterboxd":   
+    elif sys.argv[1] == "post_to_letterboxd":
         filename = input("What is the name of the movie?\n")
 
         # Get details for post
@@ -93,7 +98,7 @@ if __name__=="__main__":
         imdb_review = print_imdb_review(proto, filename)
 
         post_to_imdb(proto, imdb_review)
-        
+
     elif sys.argv[1] == "post_to_all":
         filename = input("What is the name of the movie?\n")
 
@@ -109,8 +114,12 @@ if __name__=="__main__":
 
         # Post to Sheets and Letterboxd
         p_sheets = mp.Process(target=post_to_sheets, args=(proto, review))
-        p_letterboxd = mp.Process(target=post_to_letterboxd, args=(copy.deepcopy(proto), short_review))
-        p_imdb = mp.Process(target=post_to_imdb, args=(copy.deepcopy(proto), imdb_review))
+        p_letterboxd = mp.Process(
+            target=post_to_letterboxd, args=(copy.deepcopy(proto), short_review)
+        )
+        p_imdb = mp.Process(
+            target=post_to_imdb, args=(copy.deepcopy(proto), imdb_review)
+        )
 
         p_sheets.start()
         p_letterboxd.start()
@@ -125,6 +134,13 @@ if __name__=="__main__":
         proto = read_proto(filename)
 
         print(get_post_description(proto))
+    elif sys.argv[1] == "get_youtube_tags":
+        filename = input("What is the name of the movie?\n")
+
+        # Get details for post
+        proto = read_proto(filename)
+
+        print(get_youtube_tags(proto))
     elif sys.argv[1] == "proofread":
         filename = input("What is the name of the movie?\n")
 
