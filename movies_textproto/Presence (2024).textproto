@@ -1,12 +1,12 @@
 title: "Presence"
-rating: 0.1
+rating: 3.7
 review {
   direction {
     director {
       name: "Steven Soderbergh"
     }
     rating: "Very Bad"
-    comments: "The direction on a macroscale feels very much like an inexperienced student film as you are just a fly on the wall in all the scenes, but not in a good way; the direction on a microscale is so preteniously teen-movie it comes off as parody; the storytelling is bad as the conflict doesn't feel well put together and story doesn't really move at all; they build tension poorly; I was not scared a single time during this movie"
+    comments: "The direction on a macroscale feels very much like an inexperienced student film, as you are just a fly on the wall in all the scenes, but not in a good way; The direction on a microscale is so pretentiously teen-movie, it comes off as parody; The storytelling is bad, as the conflict doesn\'t feel well put together and the story doesn\'t really move at all; They build tension poorly; I was not scared a single time during this movie"
   }
   acting {
     performance {
@@ -14,33 +14,32 @@ review {
         name: "Lucy Liu"
       }
       rating: "Pretty Bad"
-      comments: "Feels like she is in this movie just so they can attach one name to the poster; has this weird relationship with the family as its like she wants to fuck her own son and despises her daughter; isn't really given much to work with, but has one scene towards the end which is somewhat acting"
+      comments: "Feels like she is in this movie just so they can attach one name to the poster; She has this weird relationship with the family as it\'s like she wants to sleep with her own son and despises her daughter; She isn\'t really given much to work with but has one scene towards the end which is somewhat good acting"
     }
     performance {
       actor {
         name: "Julia Fox"
       }
       rating: "Decent"
-      comments: "Literally in the movie for like 2 lines in the beginning"
+      comments: "Literally in the movie for only two lines at the beginning"
     }
     performance {
       actor {
         name: "Chris Sullivan"
       }
       rating: "Decent"
-      comments: "I feel like he does his best with bad material as there are a lot of lines he says that are really cringey, but the delivery isn't bad; has pretty good chemistry with his daughter"
+      comments: "I feel like he does his best with bad material, as there are a lot of lines he says that are really cringey, but the delivery isn\'t bad; He has pretty good chemistry with his daughter"
     }
     performance {
       actor {
         name: "Callina Liang"
       }
       rating: "Decent"
-      comments: "The real protagonist of the movie as the story is told through her; owns her own and does a decent job carrying her scenes, especially with what she was given; shows some range of emotion"
+      comments: "The real protagonist of the movie, as the story is told through her; she owns her own and does a decent job carrying her scenes, especially with what she was given; she shows some range of emotion"
     }
-     
     cast {
       rating: "Pretty Bad"
-      comments: "The cast is pretty small, but the remaining characters were either standard adult actors or very pretenious, 'wanting to be cool' teens"
+      comments: "The cast is pretty small, but the remaining characters were either standard adult actors or very pretentious \"wanting to be cool\" teens"
     }
     rating: "Pretty Bad to Decent"
   }
@@ -49,39 +48,39 @@ review {
       name: "David Koepp"
     }
     rating: "Very Bad"
-    comments: "The concept is actually very dumb as it is not original at all, except for the persective the movie is told, and the interpersonal relatonships for this family and their friends is not well put together; the plot structure is not good as the movie feel too short, with like no rising action and not bridge from the climax to the resolution; the character writing is bad as it intentionally makes all of these characters void with gaps in their history; also, the character writing left out anything about this family being Asian as these are some of the most white washed Asian people I have ever seen"
+    comments: "The concept is actually very dumb as it is not original at all, except for the perspective the movie is told; the interpersonal relationships for this family and their friends are not well put together; the plot structure is not good as the movie feels too short, with little rising action and no bridge from the climax to the resolution; the character writing is bad as it intentionally makes all of these characters void, with gaps in their history; also, the character writing left out anything about this family being Asian as these are some of the most whitewashed Asian people I have ever seen"
   }
   screenplay {
     writer {
       name: "David Koepp"
     }
     rating: "Very Bad"
-    comments: "The dialogue is actually so poorly written its hilarious; the humor is unintentially funny; the symbolism is not put together well; the foreshadowing is very bad as you know exactly whats going to happen, besides the somewhat 'twist' at the end"
+    comments: "The dialogue is actually so poorly written it\'s hilarious; The humor is unintentionally funny; The symbolism is not well put together; The foreshadowing is very bad as you know exactly what\'s going to happen besides the somewhat \"twist\" at the end"
   }
   score {
     composer {
       name: "Zack Ryan"
     }
     rating: "Pretty Bad"
-    comments: "Sound like royalty free omnious music"
+    comments: "Sound like royalty-free ominous music"
   }
   soundtrack {
     rating: "Decent"
-    comments: "Did not expect to hear 'Covet,' but I actually like that song"
+    comments: "I did not expect to hear \"Covet,\" but I actually like that song"
   }
   cinematography {
     cinematographer {
       name: "Steven Soderbergh"
     }
     rating: "Pretty Bad"
-    comments: "I don't understand what Soderbergh's obsession with using consumer camera's to shoot his movie's but it is incredibly obvious he is the one shooting this movie because it just feels like its a dude walking around holding a camera; the fly-on-the-wall POV of the 'Presence' was a good idea in concept but was poorly executed because it just makes this movie feel like a student film"
+    comments: "I don\'t understand what Soderbergh\'s obsession with using consumer cameras to shoot his movies is, but it is incredibly obvious he is the one shooting this movie because it just feels like it\'s a dude walking around holding a camera; The fly-on-the-wall POV of \"Presence\" was a good idea in concept but was poorly executed because it just makes this movie feel like a student film"
   }
   editing {
     editor {
       name: "Steven Soderbergh"
     }
     rating: "Pretty Bad"
-    comments: "Might be one of the most basic editing jobs I have ever seen as the movie just uses black screen cuts to go between scenes and uses ripple effects to simulate visual effects of the 'Presence'; if this movie was not edited in movie maker over a weekend I would be completely shocked"
+    comments: "Might be one of the most basic editing jobs I have ever seen, as the movie just uses black screen cuts to go between scenes and uses ripple effects to simulate visual effects of the \"Presence\"; if this movie was not edited in Movie Maker over a weekend I would be completely shocked"
   }
   sound {
     rating: "Decent"
@@ -89,13 +88,13 @@ review {
   }
   production_design {
     rating: "Decent"
-    comments: "Literally just a suburban house they rented out for like a weekend"
+    comments: "Literally just a suburban house they rented for a weekend"
   }
-  pacing: "Pacing is incredibly fast as it just breezes through the story in less than 85 minutes; it feels like they just cut out chunks of this movie"
-  climax: "Climax is so poorly executed as it is just abrupt, has bad effects, and poorly transitions to the end"
-  tone: "Tone is suposed to be a thriller but just comes off as a bad teen movie that feels like a student film"
-  final_notes: "The only saving grace for this movie is that it had a 2 million dollar budget because it very much feels like a low-budget student film"
-  overall: "Overall, a very bad that feels more like a bad student film than one directed by Steven Soderbergh; the only way a low-budget movie like this can survive is with a good story, and this movie's writing is so bad that it comes off more like a cringy teen movie than a supernatural thriller"
+  pacing: "Pacing is incredibly fast, as it just breezes through the story in less than 85 minutes; it feels like they just cut out chunks of this movie"
+  climax: "The climax is so poorly executed; it is just abrupt, has bad effects, and poorly transitions to the end"
+  tone: "Tone is supposed to be a thriller but just comes off as a bad teen movie that feels like a student film"
+  final_notes: "The only saving grace for this movie is that it had a $2 million budget; it very much feels like a low-budget student film"
+  overall: "Overall, a very bad movie that feels more like a bad student film than one directed by Steven Soderbergh; the only way a low-budget movie like this can survive is with a good story, and this movie\'s writing is so bad that it comes off more like a cringy teen movie than a supernatural thriller"
 }
 release_year: 2024
 review_date: "01/23/2025"

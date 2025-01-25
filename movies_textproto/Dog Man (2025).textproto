@@ -5,122 +5,85 @@ review {
     director {
       name: "Peter Hastings"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; storytelling is; tension is"
+    rating: "Pretty Good to Good"
+    comments: "The direction on a macroscale is very true to the source material as it very silly, goofy, and cartoonish; the direction on a microscale is very much similiar to other kids movie, but has some more mature jokes an an overall adorable feel that makes it enjoyable for adults too; the storytelling feels very similiar to other Dave Pilkey properties with how silly and meta it is"
   }
   acting {
     performance {
       actor {
         name: "Pete Davidson"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Very goofy and silly, feels like a PG version of Pete Davidson"
     }
     performance {
       actor {
         name: "Lil Rel Howery"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Pretty Good"
+      comments: "Has good chemistry with Dog Man and is good comedic relief"
     }
     performance {
       actor {
         name: "Isla Fisher"
       }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Poppy Liu"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Stephen Root"
-      }
-      rating: "TODO"
-      comments: "TODO"
-    }
-    performance {
-      actor {
-        name: "Billy Boyd"
-      }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent to Pretty Good"
+      comments: "Really just a standard reporter character, but has some funny, silly moments"
     }
     performance {
       actor {
         name: "Ricky Gervais"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent to Pretty Good"
+      comments: "Really out of character for him as a movie like this cannot utilize any of his comedic strengths, but does a decent job"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent to Pretty Good"
+      comments: "Just a lot of silly goofy performances that help make this movie what it is; I really respect them for making Dog Man's character just a dog because it made him more adorable"
     }
-    rating: "TODO"
+    rating: "Pretty Good"
   }
   story {
     writer {
-      name: "Peter Hastings[1]"
+      name: "Peter Hastings"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; character writing is"
+    rating: "Good"
+    comments: "The concept is cinema because he is a dog, but he's also a man; the plot structure is pretty linear and typical to other childrens movies as they speed through the plot in less than 90 minutes; character writing is amazing because he is very much a dog, but he has qualities that also make him a man"
   }
   screenplay {
     writer {
       name: "Peter Hastings[1]"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Good"
+    comments: "The dialogue is very silly, goofy fun as the movie is filled with puns and jokes that are adorable; the humor is very silly and goofy that it makes the movie adorable"
   }
   score {
     composer {
       name: "Tom Howe"
     }
-    rating: "TODO"
-    comments: "TODO"
-  }
-  soundtrack {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent"
+    comments: "Pretty minimal as it is more just about establishing the tone"
   }
   editing {
     editor {
       name: "Brian Hopkins"
     }
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Makes it feel very much like other Dave Pilkey with these fast, cartoonish montages interweaved into the movie"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Good"
+    comments: "Makes the movie feel very cartoonish and adorable"
   }
-  visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+  animation {
+    rating: "Very Good"
+    comments: "Makes the movie look and feel very true to the source material as this is exactly how I would want to see a Dave Pilkey property adapted on the big screen"
   }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  pacing: "Pacing is incredibly fast because the movie is less than 90 minutes"
+  climax: "Climax is a big action montage, and I wouldn't have had it any other way"
+  tone: "Tone is very silly and goofy that makes this an adorable children's movie"
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, he's a dog, but he's also a man"
 }
 release_year: 2025
 review_date: "01/25/2025"
