@@ -1,0 +1,93 @@
+title: "Flight Risk"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Mel Gibson"
+    }
+    rating: "Bad"
+    comments: "The direction on a macroscale is very plain and simple, especially with how low-budget it is; the microscale is bad, especially with the constant phone calls; the storytelling feels like filler as they try to add unnessarily plot-lines to an already dry story; they build tension poorly"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Mark Wahlberg"
+      }
+      rating: "Pretty Bad"
+      comments: "Does something with the character, but his character is just so poorly written"
+    }
+    performance {
+      actor {
+        name: "Michelle Dockery"
+      }
+      rating: "Decent"
+      comments: "The only passable performance in the movie as she shows some range and definitely takes command; tries her best with nothing to work with"
+    }
+    performance {
+      actor {
+        name: "Topher Grace"
+      }
+      rating: "Bad"
+      comments: "Tries his best to be the comedic relief, his character is just so poorly written that it backfires on him"
+    }
+    cast {
+      rating: "Very Bad"
+      comments: "The main cast is very small, but the vocal cast from the phone calls is very bad as it is poorly mixed in and unnatural; there is no chemistry in the entire cast"
+    }
+    rating: "Bad"
+  }
+  story {
+    writer {
+      name: "Jared Rosenberg"
+    }
+    rating: "Bad"
+    comments: "The concept is just a worse version of Speed, and they keep adding unnecessary plot lines to make the movie longer; the plot structure is not good; character writing is poorly written because their poorly written backstories"
+  }
+  screenplay {
+    writer {
+      name: "Jared Rosenberg"
+    }
+    rating: "Bad"
+    comments: "The dialogue is unnatural and bad; the movie tries its best, it is just fun bad; the foreshadowing is very obvious"
+  }
+  cinematography {
+    cinematographer {
+      name: "Johnny Derango"
+    }
+    rating: "Pretty Bad"
+    comments: "Very cheap and plain"
+  }
+  editing {
+    editor {
+      name: "Steven Rosenblum"
+    }
+    rating: "Bad"
+    comments: "Very cheap and has no effort"
+  }
+  sound {
+    rating: "Very Bad"
+    comments: "Poorly mixed in as the movie just feels cheap and the phone calls do not feel natural"
+  }
+  visual_effects {
+    rating: "Very Bad"
+    comments: "I understand the movie is low-budget, but it is very obvious when they use CGI and that they are just on a set"
+  }
+  production_design {
+    rating: "Bad"
+    comments: "It is very obvious they are on a set somewhere"
+  }
+  makeup {
+    rating: "Bad"
+    comments: "Mark Walhburg's wig is very obvious because you can see where they attached the bald cap"
+  }
+  pacing: "Pacing is so slow as it feels like they keep adding unnecessary plot points just to lengthen the time, which is already 90 minutes long; this movie could have just been an episode of Law & Order"
+  climax: "Climax is poorly executed as it is over-the-top with how bad it is"
+  tone: "Tone is supposed to be an action-thriller, but it does not know what movie it wants to be; the movie just ends up being fun-bad"
+  final_notes: "This feels very much like a 'fulfilling a contract' type of movie as it felt like nobody wanted to be here"
+  overall: "Overall, a bad movie that feels very cheap and lacks any effort from its direction, writing, and acting as the movie could have been cut into an episode of Law & Order; this very much feels like a 'fulfilling a contract' type of movie"
+}
+release_year: 2025
+review_date: "01/30/2025"
+redux: false
+id: 536
+imdb_id: "tt10078772"

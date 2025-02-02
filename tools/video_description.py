@@ -14,7 +14,7 @@ def get_post_description(proto, show_year=False):
             "#" + performance.actor.name.lower().replace(" ", "").replace(".", "") + " "
         )
 
-    director = proto.review.direction.director.name
+    director = proto.review.direction.director[0].name
     if director != None:
         res += "#" + director.lower().replace(" ", "").replace(".", "") + " "
 
