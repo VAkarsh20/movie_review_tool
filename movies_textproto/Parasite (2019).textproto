@@ -1,8 +1,81 @@
 title: "Parasite"
-rating: 9.5
-review: "Great Acting, Incredible Direction, Incredible Story, Incredible Screenplay (Both how Comedic it is and how trilling and powerful it is) even though it is in Korean and I was reading subtitles, Score was great in how it complements the movie, Incredible Symbolism in the commentary on Class Conflict, The Movie is broken into two separate parts (A comedic half and a thriller half), The pacing of the movie is very off because it spends too much time on the comedic side when a little bit more should be placed on the second half due to the commentary it is trying to convey, The issue with the pacing leads to the ending/epilogue to be very rushed, Overall Incredible Movie."
+rating: 9.6
+review {
+  direction {
+    director {
+      name: "Bong Joon-ho"
+    }
+    rating: "Incredible"
+    comments: "The direction on a macroscale is incredible as he effortlessly bends the genre to help set the tone and tell the story; the direction on a microscale is incredible as every performance feels elevated and necessary; the storytelling is incredible as moves the story forward while embedding social commentary simulantiously; he builds tension is incredibly well as it helps make the second half an intense thriller"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Song Kang-ho"
+      }
+      rating: "Very Good"
+      comments: "Plays the matriach figure well and does a very good job commanding both the scenes and his family"
+    }
+    cast {
+      rating: "Very Good"
+      comments: "Everyone plays their role well and is an integral part in moving this story forward"
+    }
+    rating: "Very Good"
+  }
+  story {
+    writer {
+      name: "Bong Joon-ho"
+    }
+    rating: "Incredible"
+    comments: "The concept is very metaphorical as the title is about how these working class family tries to be a parasite and influtrate this upper class family, giving commentary on class dynamics in doing so; the plot structure is well laid out as the movie is broken up into two parts, to make it a 'black comedy-thriller'; the character writing is incredible as this dynamic between the rich and the poor family shows the contrast between the two lifestyles and how smug the upper class is to the lower class"
+  }
+  screenplay {
+    writer {
+      name: "Bong Joon-ho"
+    }
+    writer {
+      name: "Han Jin-won"
+    }
+    rating: "Incredible"
+    comments: "The dialogue is profound, sharp, and well written; the humor is good as it helps make this movie feel like a black comedy in the first half; the symbolism is incredible profound as the whole movie is commentary on class dynamics and the seperation between the rich and the poor in Korea; the foreshadowing is very evident and helps give clues for what is going to happen, and this was very evident on a second watch"
+  }
+  score {
+    composer {
+      name: "Jung Jae-il"
+    }
+    rating: "Good"
+    comments: "Helps with establishing the tone"
+  }
+  cinematography {
+    cinematographer {
+      name: "Hong Kyung-pyo"
+    }
+    rating: "Great"
+    comments: "Made the movie feel very well and sharp in its execution"
+  }
+  editing {
+    editor {
+      name: "Yang Jin-mo"
+    }
+    rating: "Great"
+    comments: "Well polished and sharp in its execution"
+  }
+  sound {
+    rating: "Very Good"
+    comments: "Helped provide tension and give the movie character"
+  }
+  production_design {
+    rating: "Great"
+    comments: "The modern architure of the rich house really is iconic and helps provide strong contrast with where the main family lives"
+  }
+  pacing: "Pacing is right as the movie moves and does not really feel like it is too slow or fast in any way"
+  climax: "Climax is incredibly well executed as it feels like a we are finally reaching the boiling point for all of these chracters"
+  tone: "Tone is very genre-bending, but at the end of the day is a 'black comedy-thriller' based on how the two halves of the movie are structured"
+  final_notes: ""
+  overall: "Overall, an incredible film that is truly genre-bending as Bong Joon-ho creates a timeless art-piece that is near perfect and is profound social commentary on class dynamics"
+}
 release_year: 2019
-review_date: "01/02/2020"
-redux: false
+review_date: "02/07/2025"
+redux: true
 id: 121
 imdb_id: "tt6751668"

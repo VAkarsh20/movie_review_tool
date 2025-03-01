@@ -1,12 +1,12 @@
 title: "I\'m Still Here"
-rating: 0.1
+rating: 8.0
 review {
   direction {
     director {
       name: "Walter Salles"
     }
     rating: "Good"
-    comments: "The direction on a macroscale is in two halves: the first half is this home-video style film that presents this loving family using each other to get through hard times and the second half is this siloed viewpoint from the protagonist as she goes through hardships; the direction on a microscale is good as this is a very character driven movie where the characters react to what is going on; the storytelling is different from what I would expect because instead of showing what was going on, a lot of the major and historical events happen off screen, and the story it told by the characters reacting to what happened; they build tension pretty well as the whole movie is about anticpiation and waiting to see what happens next and providing closure on some issues"
+    comments: "The direction on a macroscale is in two halves: the first half is this home-video style film that presents this loving family using each other to get through hard times and the second half is this siloed viewpoint from the protagonist as she goes through hardships; the direction on a microscale is good, as this is a very character-driven movie where the characters react to what is going on; the storytelling is different from what I would expect because, instead of showing what was going on, a lot of the major and historical events happen off-screen, and the story is told by the characters reacting to what happened; they build tension pretty well, as the whole movie is about anticipation and waiting to see what happens next and providing closure on some issues"
   }
   acting {
     performance {
@@ -14,18 +14,18 @@ review {
         name: "Fernanda Torres"
       }
       rating: "Very Good"
-      comments: "A strong lead for the movie as she does a good job playing a wife looking for the truth and a mother trying to protect and shield her family from what is going on outside; has a good range of emotions; really controls the film"
+      comments: "A strong lead for the movie, as she does a good job playing a wife looking for the truth and a mother trying to protect and shield her family from what is going on outside; she has a good range of emotions; she really controls the film"
     }
     performance {
       actor {
         name: "Selton Mello"
       }
       rating: "Good"
-      comments: "Has good chemistry with Torres and plays the father and husband role well"
+      comments: "He has good chemistry with Torres and plays the father and husband roles well"
     }
     cast {
       rating: "Good"
-      comments: "Everyone does their job in helping tell the narrative either by solving the mystery or being part of a concerned family"
+      comments: "Everyone does their job in helping tell the narrative, either by solving the mystery or by being part of a concerned family"
     }
     rating: "Good to Very Good"
   }
@@ -37,7 +37,7 @@ review {
       name: "Heitor Lorega"
     }
     rating: "Pretty Good"
-    comments: "The concept is good as it is a real life story about the life of Eunice Paiva and the disappearnce of Rubens Paiva during Brazil's military dictatorship, but instead of being a traditional narrative it focus more on the family and how they react to what is going on; the plot structure is alright for the most part, but the climax and resolution are next executed well; the character writing is good for Eunice Paiva as you can see how much of a concerned mother and husband she is as everything she is doing is for her family"
+    comments: "The concept is good as it is a real-life story about the life of Eunice Paiva and the disappearance of Rubens Paiva during Brazil\'s military dictatorship, but instead of being a traditional narrative, it focuses more on the family and how they react to what is going on; the plot structure is alright for the most part, but the climax and resolution are not executed well; the character writing is good for Eunice Paiva as you can see how much of a concerned mother and wife she is, as everything she is doing is for her family"
   }
   screenplay {
     writer {
@@ -47,31 +47,31 @@ review {
       name: "Heitor Lorega"
     }
     rating: "Pretty Good"
-    comments: "The dialogue is pretty good; the symbolism deals with family dynamics and the fight against a military, authoritarian regime; the foreshadowing is not the best because of how the film is structured towards the end, with its incredibly rushed climax and unncessary epilogue"
+    comments: "The dialogue is pretty good; the symbolism deals with family dynamics and the fight against a military, authoritarian regime; the foreshadowing is not the best because of how the film is structured towards the end, with its incredibly rushed climax and unnecessary epilogue"
   }
   cinematography {
     cinematographer {
       name: "Adrian Teijido"
     }
     rating: "Good"
-    comments: "In the family setting, helps the film feel like a family home movie, especially when they use the Super 8 camera; in the dramatic scenes, uses a siloed viewpoint well to draw focus on Eunice and how she feels going through this time"
+    comments: "In the family setting, the film helps create the feel of a family home movie, especially when using the Super 8 camera; in the dramatic scenes, it uses a siloed viewpoint well to draw focus on Eunice and how she feels during this time"
   }
   editing {
     editor {
       name: "Affonso Gon\303\247alves"
     }
     rating: "Good"
-    comments: "In the family setting, helps the film feel like a family home movie, especially when they splice in the Super 8 camera footage; in the dramatic scenes, helps draw focus to Eunice and how alone she feels without her husband and in the country she is in"
+    comments: "In the family setting, it helps the film feel like a family home movie, especially when they splice in the Super 8 camera footage; in the dramatic scenes, it helps draw focus to Eunice and how alone she feels without her husband and in the country she is in"
   }
   production_design {
     rating: "Pretty Good"
     comments: "Captures Rio in 1970"
   }
-  pacing: "Pacing is a bit on the slower side for the first 3/4 as movie focus a lot more on the characters rather than plot-points; Pacing is a very fast in the final 1/4 as it feels like they are just speeding through the end"
-  climax: "Climax is poorly executed as it feels like they are just speeding through the flashforwards, which are very unnecessary; personally, I would have just ended the movie before the time jumps because that was the natural conclusion"
+  pacing: "Pacing is a bit on the slower side for the first three-quarters, as the movie focuses a lot more on the characters rather than plot points; pacing is very fast in the final quarter, as it feels like they are just speeding through the end"
+  climax: "Climax is poorly executed, as it feels like they are just speeding through the flashforwards, which are very unnecessary; personally, I would have just ended the movie before the time jumps, because that was the natural conclusion"
   tone: "Tone is very warm and familial in the family scenes and dramatic in the darker scenes"
-  final_notes: "Even though I personally would not tell a story this way, I respect them for having the character's reacting to plot points drive the story forward rather than showing what happens on screen because this movie is based on real events, so you can just look it up; I feel like the two flash forward scenes are pretty unnecessary, especially the last one"
-  overall: "Overall, a good movie that tells the story non-traditionally as it is driven by the characters reacting to what is going on rather than showing major plot point on-screen, and this only works because of Fernanda Torres as her performance really drives this narrative forward; the movie does have pacing issues and does not end well because of its two unnecessary flash-forward sequences"
+  final_notes: "Even though I personally would not tell a story this way, I respect them for having the characters\' reacting to plot points drive the story forward rather than showing what happens on screen because this movie is based on real events, so you can just look it up; I feel like the two flash-forward scenes are pretty unnecessary, especially the last one"
+  overall: "Overall, a good movie that tells the story nontraditionally as it is driven by the characters reacting to what is going on rather than showing major plot points onscreen, and this only works because of Fernanda Torres, as her performance really drives this narrative forward; the movie does have pacing issues and does not end well because of its two unnecessary flash-forward sequences"
 }
 release_year: 2024
 review_date: "02/02/2025"
