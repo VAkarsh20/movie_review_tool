@@ -1,0 +1,107 @@
+title: "Paddington in Peru"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Dougal Wilson"
+    }
+    rating: "Pretty Good"
+    comments: "The direction on a macroscale is very fun and playful, filled with adventure to match the theme of the movie; the direction on a microscale is fun and playful, in a british way; the storytelling is pretty simple and straightforward; they build tension in a light-hearted way, as they try to play more at your heart-strings rather than being tense"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Olivia Colman"
+      }
+      rating: "Pretty Good"
+      comments: "Uses her experience well to help play the character"
+    }
+    performance {
+      actor {
+        name: "Antonio Banderas"
+      }
+      rating: "Pretty Good"
+      comments: "A very Antonio Banderas performance"
+    }
+    performance {
+      actor {
+        name: "Ben Whishaw"
+      }
+      rating: "Good"
+      comments: "Perfectly emulates Paddington as a friendly, naive bear who really tries his best to help his family"
+    }
+    cast {
+      rating: "Pretty Good"
+      comments: "A lot of fun, friendly performances that make this movie warm and cozy"
+    }
+    rating: "Pretty Good"
+  }
+  story {
+    writer {
+      name: "Paul King"
+    }
+    writer {
+      name: "Simon Farnaby"
+    }
+    writer {
+      name: "Mark Burton"
+    }
+    rating: "Pretty Good"
+    comments: "The concept is pretty straightforward, it's Paddington in Peru; the plot structure is pretty linear and traightforward; character writing is pretty good as it deals with issues on Paddington having two nationalitis and juggling where he is from"
+  }
+  screenplay {
+    writer {
+      name: "Mark Burton"
+    }
+    writer {
+      name: "Jon Foster"
+    }
+    writer {
+      name: "James Lamont"
+    }
+    rating: "Pretty Good"
+    comments: "The dialogue is fun and playful; the humor is silly; the symbolism is somewhat present as it deals with family, identity, and nationality; the foreshadowing is pretty straightforward"
+  }
+  score {
+    composer {
+      name: "Dario Marianelli"
+    }
+    rating: "Decent"
+    comments: "Establishes the tone"
+  }
+  cinematography {
+    cinematographer {
+      name: "Erik Wilson"
+    }
+    rating: "Pretty Good"
+    comments: "Does a good job placing the family across the backdrop of the Amazon"
+  }
+  editing {
+    editor {
+      name: "\303\232na N\303\255 Dhongha\303\255le"
+    }
+    rating: "Pretty Good"
+  }
+  sound {
+    rating: "Pretty Good"
+    comments: "Helps make the movie a fun action-comedy filled with bells and whistles"
+  }
+  visual_effects {
+    rating: "Good"
+    comments: "The CGI for the Animals is very good, but the visual effects in the action sequences are not the best"
+  }
+  production_design {
+    rating: "Good"
+    comments: "Enjoyed how the Amazon, the retired home, and the boat were intergral parts of telling the story"
+  }
+  pacing: "Pacing is a good speed"
+  climax: "Climax is executed in a fun and light-hearted way; the ending is very emotional"
+  tone: "Tone is very playful and fun"
+  final_notes: ""
+  overall: "Overall, a pretty good movie that is a fun and playful adventure of Paddington in Peru, and the movie does a pretty good job touching on topics like family, identity, and nationality"
+}
+release_year: 2024
+review_date: "02/23/2025"
+redux: false
+id: 539
+imdb_id: "tt5822536"

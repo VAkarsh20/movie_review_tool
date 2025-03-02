@@ -1,5 +1,5 @@
 title: "Game Night"
-rating: 0.1
+rating: 6.8
 review {
   direction {
     director {
@@ -9,7 +9,7 @@ review {
       name: "Jonathan Goldstein"
     }
     rating: "Decent to Pretty Good"
-    comments: "The direction on a macroscale cultivates a very silly, action-comedy that is overall entertaining; the direction on a microscale is very silly, and this is where the comedy comes out; the storytelling is a bit convoluted because they try to have too many twists to make the movie somewhat parody, but it ends up just making the movie more confusing"
+    comments: "The direction on a macroscale cultivates a very silly, action-comedy that is overall entertaining; the direction on a microscale is very silly and this is where the comedy comes out; the storytelling is a bit convoluted because they try to have too many twists to make the movie somewhat of a parody but it ends up just making the movie more confusing"
   }
   acting {
     performance {
@@ -17,14 +17,14 @@ review {
         name: "Jason Bateman"
       }
       rating: "Pretty Good"
-      comments: "Plays his typical straight-man in a comedy role that he's known for, and there was a reason he was hired as this is a role he's very comfortable with"
+      comments: "He plays his typical straight man in a comedy role he is known for; there was a reason he was hired, as this is a role he is very comfortable with"
     }
     performance {
       actor {
         name: "Rachel McAdams"
       }
       rating: "Pretty Good"
-      comments: "Uses her experience in comedies make her performance feel natural; has pretty good chemistry with Bateman"
+      comments: "Her experience in comedies makes her performance feel natural; she has pretty good chemistry with Bateman"
     }
     performance {
       actor {
@@ -35,7 +35,7 @@ review {
     }
     cast {
       rating: "Decent"
-      comments: "Everyone seems like they are having fun, and a lot of the performances is what you would get in an action-comedy"
+      comments: "Everyone seems like they are having fun; a lot of the performances are what you would get in an action-comedy"
     }
     rating: "Pretty Good"
   }
@@ -44,14 +44,14 @@ review {
       name: "Mark Perez"
     }
     rating: "Decent to Pretty Good"
-    comments: "The concept is very silly and goofy, as it mixes a light-hearted idea like Game Night with Espionage; the plot structure is fine for the most part, but the ending gets a bit convoluted with all the intentional twists and turns; character writing is is funny for Jesse Plemons character because he is just someone who really wants to be in Game Might"
+    comments: "The concept is very silly and goofy, as it mixes a light-hearted idea like Game Night with espionage; the plot structure is fine for the most part, but the ending gets a bit convoluted with all the intentional twists and turns; character writing is funny for Jesse Plemons\' character because he is just someone who really wants to be in Game Night"
   }
   screenplay {
     writer {
       name: "Mark Perez"
     }
-    rating: "TODO"
-    comments: "The dialogue is very silly and dumb, but that's what makes it funny because there are many memorable moments; the foreshadowing is a little all over the place because the movie tries to subvert our expectations with many twists, but it ends up making the movie more convoluted"
+    rating: "Decent to Pretty Good"
+    comments: "The dialogue is very silly and dumb, but that\'s what makes it funny because there are many memorable moments; the foreshadowing is a little all over the place because the movie tries to subvert our expectations with many twists, but it ends up making the movie more convoluted"
   }
   score {
     composer {
@@ -65,7 +65,7 @@ review {
       name: "Barry Peterson"
     }
     rating: "Decent to Pretty Good"
-    comments: "Pretty Typical for an action comedy, but I did like the shots that make the world look like a board game"
+    comments: "Pretty typical for an action comedy, but I did like the shots that make the world look like a board game"
   }
   editing {
     editor {
@@ -78,19 +78,19 @@ review {
       name: "David Egan"
     }
     rating: "Decent"
-    comments: "Typical for an action comedy"
+    comments: "Typical of an action comedy"
   }
   sound {
     rating: "Decent"
-    comments: "Typical for an action comedy"
+    comments: "Typical of an action comedy"
   }
   visual_effects {
     rating: "Decent to Pretty Good"
-    comments: "Typical for an over-the-top action-comedy, but I enjoyed the shots where they made the world look like a board game"
+    comments: "Typical of an over-the-top action-comedy, but I enjoyed the shots where they made the world look like a board game"
   }
   pacing: "Pacing is a little too fast, as if they are breezing through the story"
   climax: "Climax is a little too convoluted because of all the twists they try to include, but the ending itself was pretty predictable"
-  tone: "Tone is very typical to a silly action-comedy"
+  tone: "The tone is very typical of a silly action-comedy"
   final_notes: ""
   overall: "Overall, a silly action-comedy that makes you wonder, \"how could that be profitable for Frito-Lay\""
 }
