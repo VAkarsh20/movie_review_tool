@@ -1,12 +1,12 @@
 title: "Paddington in Peru"
-rating: 0.1
+rating: 7.6
 review {
   direction {
     director {
       name: "Dougal Wilson"
     }
     rating: "Pretty Good"
-    comments: "The direction on a macroscale is very fun and playful, filled with adventure to match the theme of the movie; the direction on a microscale is fun and playful, in a british way; the storytelling is pretty simple and straightforward; they build tension in a light-hearted way, as they try to play more at your heart-strings rather than being tense"
+    comments: "The direction on a macroscale is very fun and playful, filled with adventure to match the movie\'s theme; the direction on a microscale is fun and playful, in a British way; the storytelling is pretty simple and straightforward; they build tension in a light-hearted way, as they try to play more at your heartstrings rather than being tense"
   }
   acting {
     performance {
@@ -14,14 +14,14 @@ review {
         name: "Olivia Colman"
       }
       rating: "Pretty Good"
-      comments: "Uses her experience well to help play the character"
+      comments: "She uses her experience well to help play the character"
     }
     performance {
       actor {
         name: "Antonio Banderas"
       }
       rating: "Pretty Good"
-      comments: "A very Antonio Banderas performance"
+      comments: "A very Antonio Banderas-like performance"
     }
     performance {
       actor {
@@ -47,7 +47,7 @@ review {
       name: "Mark Burton"
     }
     rating: "Pretty Good"
-    comments: "The concept is pretty straightforward, it's Paddington in Peru; the plot structure is pretty linear and traightforward; character writing is pretty good as it deals with issues on Paddington having two nationalitis and juggling where he is from"
+    comments: "The concept is pretty straightforward, it\'s Paddington in Peru; the plot structure is pretty linear and straightforward; character writing is pretty good as it deals with issues of Paddington having two nationalities and juggling where he is from"
   }
   screenplay {
     writer {
@@ -74,7 +74,7 @@ review {
       name: "Erik Wilson"
     }
     rating: "Pretty Good"
-    comments: "Does a good job placing the family across the backdrop of the Amazon"
+    comments: "It does a good job placing the family against the backdrop of the Amazon"
   }
   editing {
     editor {
@@ -88,17 +88,17 @@ review {
   }
   visual_effects {
     rating: "Good"
-    comments: "The CGI for the Animals is very good, but the visual effects in the action sequences are not the best"
+    comments: "The CGI for the animals is very good but the visual effects in the action sequences are not the best"
   }
   production_design {
     rating: "Good"
-    comments: "Enjoyed how the Amazon, the retired home, and the boat were intergral parts of telling the story"
+    comments: "Enjoyed how the Amazon, the retired home, and the boat were integral parts of telling the story"
   }
   pacing: "Pacing is a good speed"
-  climax: "Climax is executed in a fun and light-hearted way; the ending is very emotional"
+  climax: "Climax is executed in a fun and lighthearted way; the ending is very emotional"
   tone: "Tone is very playful and fun"
   final_notes: ""
-  overall: "Overall, a pretty good movie that is a fun and playful adventure of Paddington in Peru, and the movie does a pretty good job touching on topics like family, identity, and nationality"
+  overall: "Overall, a pretty good movie that is a fun and playful adventure of Paddington in Peru"
 }
 release_year: 2024
 review_date: "02/23/2025"

@@ -1,0 +1,86 @@
+title: "Ne Zha 2"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Jiaozi"
+    }
+    rating: "TODO"
+    comments: "macroscale is; microscale is; storytelling is; tension is"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Lu Yanting"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    cast {
+      rating: "TODO"
+      comments: "TODO"
+    }
+    rating: "TODO"
+  }
+  story {
+    writer {
+      name: "Jiaozi"
+    }
+    rating: "TODO"
+    comments: "The concept is; the plot structure is; character writing is"
+  }
+  screenplay {
+    writer {
+      name: "Jiaozi"
+    }
+    rating: "TODO"
+    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+  }
+  score {
+    composer {
+      name: "Roc Chen"
+    }
+    composer {
+      name: "Rui Yang"
+    }
+    composer {
+      name: "Wan Pin Chu"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  soundtrack {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  sound {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2025
+review_date: "02/28/2025"
+redux: false
+id: 541
+imdb_id: "tt34956443"
