@@ -1,12 +1,12 @@
 title: "Captain America: Brave New World"
-rating: 0.1
+rating: 4.8
 review {
   direction {
     director {
       name: "Julius Onah"
     }
-    rating: "TODO"
-    comments: "The direction on a macroscale is very formulalically marvel, specfically Winter Soldier; the direction on a microscale is very cringery and forced Marvel humor; the storytelling is very shallow and forced; they build tension poorly; it is very evident that there were multiple reshoots done for this movie because there was no clear vision they were going for"
+    rating: "Bad"
+    comments: "The direction on a macroscale is very formally marvelous, specifically Winter Soldier, but I did enjoy most of the action sequences; the direction on a microscale is very cringey and forced Marvel humor; the storytelling is very shallow and forced; they build tension poorly; it is very evident that multiple reshoots were done for this movie because there was no clear vision they were going for"
   }
   acting {
     performance {
@@ -21,7 +21,7 @@ review {
         name: "Danny Ramirez"
       }
       rating: "Pretty Bad"
-      comments: "Does not do a good job filling the shoes that Mackie left open, but is also is mainly because his dialogue is pretty bad; has ok chemistry with Mackie"
+      comments: "It does not do a good job filling the shoes Mackie left open, but this is mainly because its dialogue is pretty bad; it has okay chemistry with Mackie"
     }
     performance {
       actor {
@@ -35,7 +35,7 @@ review {
         name: "Carl Lumbly"
       }
       rating: "Decent"
-      comments: "Plays the edlerly figure well in the movie, but it just feels like his character was just thrown in there with no proper backstory"
+      comments: "Plays the elderly figure well in the movie but it just feels like his character was thrown in there with no proper backstory"
     }
     performance {
       actor {
@@ -49,18 +49,18 @@ review {
         name: "Tim Blake Nelson"
       }
       rating: "Bad"
-      comments: "A very goofy villian that is written to be bigger than he actually is"
+      comments: "A very goofy villain that is written to be bigger than he actually is"
     }
     performance {
       actor {
         name: "Harrison Ford"
       }
       rating: "Bad to Pretty Bad"
-      comments: "It's very obvious he does not want to be here"
+      comments: "It\'s very obvious he doesn\'t want to be here"
     }
     cast {
       rating: "Bad"
-      comments: "Just a lot of toneless performances that do nothign to move the story forward or support the main cast"
+      comments: "Just a lot of toneless performances that do nothing to move the story forward or support the main cast"
     }
     rating: "Bad to Pretty Bad"
   }
@@ -75,7 +75,7 @@ review {
       name: "Dalan Musson"
     }
     rating: "Bad"
-    comments: "The concept is just a rehash of 'Captain America: The Winter Soldier', with a loophole sequel to 'The Incredible Hulk'; the plot structure is very straightforward and linear; character writing is bad because none of these characters have depth; they try to make Ross this 'Trump-like' character, but give him sympathy, and they try to introduce doubt to Sam Wilson as the new Captain America, but this was already addressed in the TV show and it doesn't really go anywhere in this movie"
+    comments: "The concept is just a rehash of \"Captain America: The Winter Soldier,\" with a loophole sequel to \"The Incredible Hulk\"; the plot structure is very straightforward and linear; character writing is bad because none of these characters have depth; They try to make Ross this \"Trump-like\" character, but give him sympathy, and they try to introduce doubt about Sam Wilson as the new Captain America, but this was already addressed in the TV show and it doesn\'t really go anywhere in this movie"
   }
   screenplay {
     writer {
@@ -94,7 +94,7 @@ review {
       name: "Peter Glanz"
     }
     rating: "Very Bad"
-    comments: "The dialogue is very bad and cringey, it is as if AI wrote this movie; the humor is forced and does not hit most of the time; the symbolism is not focused because they try to make this movie an allergory for the current presidential regime, but they give up on this halfway through the movie; the movie also tries to introduce character doubt, but they give up on this also; the foreshadowing is bad because they just force plot points as you just have to expect things are going to happen because of the current track record of Marvel"
+    comments: "The dialogue is very bad and cringey, it is as if AI wrote this movie; the humor is forced and does not hit most of the time; the symbolism is not focused because they try to make this movie an allegory for the current presidential regime, but they give up on this halfway through the movie; the movie also tries to introduce character doubt, but they give up on this as well; the foreshadowing is bad because they just force plot points as you just have to expect things are going to happen because of the current track record of Marvel"
   }
   score {
     composer {
@@ -104,14 +104,14 @@ review {
   }
   soundtrack {
     rating: "Pretty Bad"
-    comments: "Not really the best song choices because it doesn't really match the theme of the movie, they are kinda just thrown in there"
+    comments: "Not really the best song choices because they don\'t really match the movie\'s theme; they are kind of just thrown in there"
   }
   cinematography {
     cinematographer {
       name: "Kramer Morgenthau"
     }
     rating: "Bad"
-    comments: "There are so many questionable shots in this movie that make me wonder, why did they even shoot this movie in IMAX"
+    comments: "There are so many questionable shots in this movie that make me wonder why they even shot this movie in IMAX"
   }
   editing {
     editor {
@@ -127,24 +127,24 @@ review {
   }
   visual_effects {
     rating: "Bad"
-    comments: "For the amount of money they spent on this, it feels oversatured and not good"
+    comments: "For the amount of money they spent on this, it feels oversaturated and not good"
   }
   production_design {
     rating: "Pretty Good"
-    comments: "Liked how they shot in DC and incorporated the cherry blossums throughout most of the shots"
+    comments: "I liked how they shot in DC and incorporated the cherry blossoms throughout most of the shots"
   }
   makeup {
     rating: "Pretty Good"
-    comments: "Helped create the villians"
+    comments: "Helped create the villains"
   }
   costumes {
     rating: "Pretty Good"
     comments: "Helped create the characters"
   }
   pacing: "Pacing is very slow because the movie just does not know what direction it is going in, and the writing is so bad that you wonder why you are even watching this movie"
-  climax: "Climax is very anticlimatic, as the final fight scene is not really that well executed"
-  tone: "Tone is very Marvel, but because of the constant reshoots, the movie feels like it has no direction"
-  final_notes: "The fight scenes were pretty well executed and entertaining, but that was really the only entertaining thing about this movie; it was very obvious this movie wen through constant reshoots as there was no real direction they were going for"
+  climax: "Climax is very anticlimactic, as the final fight scene is not really that well executed"
+  tone: "The tone is very Marvel, but because of the constant reshoots, the movie feels like it has no direction"
+  final_notes: "The fight scenes were pretty well executed and entertaining, but that was really the only entertaining thing about this movie; it was very obvious this movie went through constant reshoots as there was no real direction they were going for"
   overall: "Overall, a bad movie because it was clearly obvious that this movie went through constant reshoots since there was no clear direction for what they were trying to go for, symbolizing the current track record for Marvel"
 }
 release_year: 2025

@@ -5,36 +5,36 @@ review {
     director {
       name: "Jiaozi"
     }
-    rating: "TODO"
-    comments: "macroscale is; microscale is; storytelling is; tension is"
+    rating: "Decent"
+    comments: "The direction on a macroscale is pretty good as the movie really emulates eastern fight designs and an aesthetic you would see from Japanese animation; the direction on a microscale is decent; the storytelling is not the best because the movie is very story dense and they keep introducing new plot elements and characters, but this might only be an issue for me because I am not Chinese nor have I seen the first movie; they build tension decently"
   }
   acting {
     performance {
       actor {
         name: "Lu Yanting"
       }
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Plays the typical demon, chosen child role decently well"
     }
     cast {
-      rating: "TODO"
-      comments: "TODO"
+      rating: "Decent"
+      comments: "Decent performances all around to help movie the story forward"
     }
-    rating: "TODO"
+    rating: "Decent"
   }
   story {
     writer {
       name: "Jiaozi"
     }
-    rating: "TODO"
-    comments: "The concept is; the plot structure is; character writing is"
+    rating: "Decent"
+    comments: "The concept is a retelling of the famous chinese mythology, Ne Zha; the plot structure is very story dense, so it may be an issue if you don't know the story, the language, or didn't watch the first movie; the character writing is decent, having many archetypes you would see in eastern mythology"
   }
   screenplay {
     writer {
       name: "Jiaozi"
     }
-    rating: "TODO"
-    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    rating: "Decent"
+    comments: "The dialogue is pretty good and true to eastern animation; the humor is pretty good as it helps make this demon boy more of a clown; the symbolism is decent; the foreshadowing is expected given how the movie is set up"
   }
   score {
     composer {
@@ -46,38 +46,22 @@ review {
     composer {
       name: "Wan Pin Chu"
     }
-    rating: "TODO"
-    comments: "TODO"
-  }
-  soundtrack {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Pretty Good"
+    comments: "The eastern, ancient Chinese themes help set the tone and the story"
   }
   sound {
-    rating: "TODO"
-    comments: "TODO"
+    rating: "Decent to Pretty Good"
+    comments: "Helped set the tone for the movie and the action sequences"
   }
-  visual_effects {
-    rating: "TODO"
-    comments: "TODO"
+  animation {
+    rating: "Pretty Bad"
+    comments: "The animation style feels incredibly dated, as if they used the same engine from 'Meet the Robinsons'; the animation in the second half was a lot better than the first half"
   }
-  production_design {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  makeup {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  costumes {
-    rating: "TODO"
-    comments: "TODO"
-  }
-  pacing: "Pacing "
-  climax: "Climax "
-  tone: "Tone "
+  pacing: "Pacing is fast and has a long runtime, making the movie very story-dense"
+  climax: "Climax is well executed as it is a giant fight scene with good animation and meaniful for the hero's journey"
+  tone: "Tone is similiar to other eastern-mythology stories, and honestly shares tones with \"Naruto\""
   final_notes: ""
-  overall: "Overall, "
+  overall: "Overall, a decent movie that is entertaining and has well-executed fight sequences, but it is held back from being too story dense and having a dated animation style; personally, the movie was a bit hard to follow mainly because I didn't watch the first movie, I don't really know the story, and I don't know Mandarin, so take this review with a grain of salt"
 }
 release_year: 2025
 review_date: "02/28/2025"
