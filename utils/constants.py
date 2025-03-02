@@ -48,15 +48,13 @@ tags_ratings_dict = {
 }
 
 # IMDB XPATHs
-IMDB_STARS_ELEMENTS_CLASS_NAME = "ice-star-wrapper"
-IMDB_HEADLINE_ELEMENT_XPATH = "/html/body/div[1]/div/div/div/div[1]/div[5]/div[1]/input"
-IMDB_REVIEW_ELEMENT_XPATH = (
-    "/html/body/div[1]/div/div/div/div[1]/div[5]/div[2]/textarea"
+IMDB_STARS_ELEMENTS_CLASS_NAME = "ipc-starbar__rating"
+IMDB_HEADLINE_ELEMENT_XPATH = '//*[@id="text-input__0"]'
+IMDB_REVIEW_ELEMENT_XPATH = '//*[@id="textarea__0"]'
+IMDB_NO_SPOLIERS_ELEMENT_XPATH = "/html/body/div[2]/main/div/div/div/div/div[1]/div/div[2]/div[2]/div[4]/div[1]/div[1]/div/div[2]/span[2]/html/body/div[2]/main/div/div/div/div/div[1]/div/div[2]/div[2]/div[4]/div[1]/div[1]/div/div[2]/span[2]"
+IMDB_SUBMIT_ELEMENT_XPATH = (
+    "/html/body/div[2]/main/div/div/div/div/div[2]/div/div/button[1]"
 )
-IMDB_NO_SPOLIERS_ELEMENT_XPATH = (
-    "/html/body/div[1]/div/div/div/div[1]/div[5]/div[3]/div/ul/li[2]"
-)
-IMDB_SUBMIT_ELEMENT_XPATH = "/html/body/div[1]/div/div/div/div[2]/span/span/input"
 IMDB_ADD_TO_LIST_SEARCH_ELEMENT_XPATH = '//*[@id="add-to-list-search"]'
 IMDB_FIRST_MOVIE_IN_SEARCH_ELEMENT_XPATH = (
     "/html/body/div[2]/div/div[2]/div[3]/div[1]/div[2]/div[5]/div/span[2]/div/a"

@@ -1,0 +1,101 @@
+title: "Game Night"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "John Francis Daley"
+    }
+    director {
+      name: "Jonathan Goldstein"
+    }
+    rating: "Decent to Pretty Good"
+    comments: "The direction on a macroscale cultivates a very silly, action-comedy that is overall entertaining; the direction on a microscale is very silly, and this is where the comedy comes out; the storytelling is a bit convoluted because they try to have too many twists to make the movie somewhat parody, but it ends up just making the movie more confusing"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Jason Bateman"
+      }
+      rating: "Pretty Good"
+      comments: "Plays his typical straight-man in a comedy role that he's known for, and there was a reason he was hired as this is a role he's very comfortable with"
+    }
+    performance {
+      actor {
+        name: "Rachel McAdams"
+      }
+      rating: "Pretty Good"
+      comments: "Uses her experience in comedies make her performance feel natural; has pretty good chemistry with Bateman"
+    }
+    performance {
+      actor {
+        name: "Jesse Plemons"
+      }
+      rating: "Good"
+      comments: "Still wondering how that could be profitable for Frito-Lay"
+    }
+    cast {
+      rating: "Decent"
+      comments: "Everyone seems like they are having fun, and a lot of the performances is what you would get in an action-comedy"
+    }
+    rating: "Pretty Good"
+  }
+  story {
+    writer {
+      name: "Mark Perez"
+    }
+    rating: "Decent to Pretty Good"
+    comments: "The concept is very silly and goofy, as it mixes a light-hearted idea like Game Night with Espionage; the plot structure is fine for the most part, but the ending gets a bit convoluted with all the intentional twists and turns; character writing is is funny for Jesse Plemons character because he is just someone who really wants to be in Game Might"
+  }
+  screenplay {
+    writer {
+      name: "Mark Perez"
+    }
+    rating: "TODO"
+    comments: "The dialogue is very silly and dumb, but that's what makes it funny because there are many memorable moments; the foreshadowing is a little all over the place because the movie tries to subvert our expectations with many twists, but it ends up making the movie more convoluted"
+  }
+  score {
+    composer {
+      name: "Cliff Martinez"
+    }
+    rating: "Decent"
+    comments: "Helps set the tone"
+  }
+  cinematography {
+    cinematographer {
+      name: "Barry Peterson"
+    }
+    rating: "Decent to Pretty Good"
+    comments: "Pretty Typical for an action comedy, but I did like the shots that make the world look like a board game"
+  }
+  editing {
+    editor {
+      name: "Jamie Gross"
+    }
+    editor {
+      name: "Gregory Plotkin"
+    }
+    editor {
+      name: "David Egan"
+    }
+    rating: "Decent"
+    comments: "Typical for an action comedy"
+  }
+  sound {
+    rating: "Decent"
+    comments: "Typical for an action comedy"
+  }
+  visual_effects {
+    rating: "Decent to Pretty Good"
+    comments: "Typical for an over-the-top action-comedy, but I enjoyed the shots where they made the world look like a board game"
+  }
+  pacing: "Pacing is a little too fast, as if they are breezing through the story"
+  climax: "Climax is a little too convoluted because of all the twists they try to include, but the ending itself was pretty predictable"
+  tone: "Tone is very typical to a silly action-comedy"
+  final_notes: ""
+  overall: "Overall, a silly action-comedy that makes you wonder, \"how could that be profitable for Frito-Lay\""
+}
+release_year: 2018
+review_date: "02/15/2025"
+redux: false
+id: 538
+imdb_id: "tt2704998"
