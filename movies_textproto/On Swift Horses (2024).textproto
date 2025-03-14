@@ -1,0 +1,128 @@
+title: "On Swift Horses"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Daniel Minahan"
+    }
+    rating: "TODO"
+    comments: "macroscale is; microscale is; storytelling is; tension is"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Daisy Edgar-Jones"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Jacob Elordi"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Will Poulter"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Diego Calva"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Sasha Calle"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    cast {
+      rating: "TODO"
+      comments: "TODO"
+    }
+    rating: "TODO"
+  }
+  story {
+    writer {
+      name: "Bryce Kass"
+    }
+    rating: "TODO"
+    comments: "The concept is; the plot structure is; character writing is"
+  }
+  screenplay {
+    writer {
+      name: "Bryce Kass"
+    }
+    rating: "TODO"
+    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+  }
+  score {
+    composer {
+      name: "Mark Orton"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  soundtrack {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  cinematography {
+    cinematographer {
+      name: "Luc Montpellier"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  editing {
+    editor {
+      name: "Joe Murphy"
+    }
+    editor {
+      name: "Robert Frazen"
+    }
+    editor {
+      name: "Kate Sanford"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  sound {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2024
+review_date: "03/13/2025"
+redux: false
+id: 552
+imdb_id: "tt15042300"

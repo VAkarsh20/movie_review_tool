@@ -1,0 +1,146 @@
+title: "The Rivals of Amziah King"
+rating: 0.1
+review {
+  direction {
+    director {
+      name: "Andrew Patterson"
+    }
+    rating: "TODO"
+    comments: "macroscale is; microscale is; storytelling is; tension is"
+  }
+  acting {
+    performance {
+      actor {
+        name: "Matthew McConaughey"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Angelina LookingGlass"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Kurt Russell"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Cole Sprouse"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Owen Teague"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Scott Shepherd"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Rob Morgan"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    performance {
+      actor {
+        name: "Tony Revolori"
+      }
+      rating: "TODO"
+      comments: "TODO"
+    }
+    cast {
+      rating: "TODO"
+      comments: "TODO"
+    }
+    rating: "TODO"
+  }
+  story {
+    writer {
+      name: "Andrew Patterson"
+    }
+    rating: "TODO"
+    comments: "The concept is; the plot structure is; character writing is"
+  }
+  screenplay {
+    writer {
+      name: "Andrew Patterson"
+    }
+    rating: "TODO"
+    comments: "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+  }
+  score {
+    composer {
+      name: "Erick Alexander"
+    }
+    composer {
+      name: "Jared Bulmer"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  soundtrack {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  cinematography {
+    cinematographer {
+      name: "M.I. Littin-Menz"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  editing {
+    editor {
+      name: "Patrick J. Smith"
+    }
+    rating: "TODO"
+    comments: "TODO"
+  }
+  sound {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  visual_effects {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  production_design {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  makeup {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  costumes {
+    rating: "TODO"
+    comments: "TODO"
+  }
+  pacing: "Pacing "
+  climax: "Climax "
+  tone: "Tone "
+  final_notes: ""
+  overall: "Overall, "
+}
+release_year: 2025
+review_date: "03/10/2025"
+redux: false
+id: 549
+imdb_id: "tt27706593"
